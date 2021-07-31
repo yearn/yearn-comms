@@ -1,21 +1,11 @@
-> medium-to-markdown@0.0.3 convert E:\Documents\Yearn\Medium Posts\medium-to-markdown
-> node index.js "https://wot-is-goin-on.medium.com/yearns-dai-vault-64fbadc23427" "Dai" "Vault"
-
 # **Yearn’s Dai Vault —did you know it’s now a top 20 DeFi protocol?**
 
-[![Wot_Is_Goin_On](https://miro.medium.com/fit/c/56/56/1*dmbNkD5D-u45r44go_cf0g.png)](https://medium.com/?source=post_page-----64fbadc23427--------------------------------)[
-
-Wot_Is_Goin_On
-
-](https://medium.com/?source=post_page-----64fbadc23427--------------------------------)[
-
-Jun 1·10 min read
-
-](https://medium.com/yearns-dai-vault-64fbadc23427?source=post_page-----64fbadc23427--------------------------------)
+Author: [Wot_Is_Goin_On](https://twitter.com/Wot_Is_Goin_On)
+June 1, 2021
 
 If you go to [Yearn’s website](https://yearn.finance/vaults) you’ll see a list of nearly 50 crypto vaults, with the [SNX vault](https://twitter.com/iearnfinance/status/1395413780012666881) being the most recent. On [depositing your crypto](https://docs.yearn.finance/resources/guides/how-to-participate-in-a-yvault) into one of Yearn’s vaults, the protocol will begin generating a yield for you.
 
-![](https://miro.medium.com/max/1176/1*hu7ZB2bHJb7XLm0LXjQZfw.png)[https://yearn.finance/vaults/](https://yearn.finance/vaults/)
+![alt_text](image1.png)
 
 Although it is buried away midway through the list, Yearn’s Dai vault has become a top 20 DeFi protocol in its own right:
 
@@ -35,7 +25,7 @@ Yearn’s Dai vault is also called the ‘Dai v2 vault’ and ‘yvDai’, where
 
 Unlike in traditional finance where depositors are treated as a cheap source of funding, depositors come first at Yearn. This is one of the reasons why the TVL has increased rapidly since its inception.
 
-<img alt="" class="fe en ej kc w" src="https://miro.medium.com/max/1010/1\*\_-3LI4uoXX6URnkGsj52aQ.png" width="505" height="224" srcSet="https://miro.medium.com/max/552/1\*\_-3LI4uoXX6URnkGsj52aQ.png 276w, https://miro.medium.com/max/1010/1\*\_-3LI4uoXX6URnkGsj52aQ.png 505w" sizes="505px" role="presentation"/>
+![alt_text](image2.png)
 
 [Total Value Locked in the Yearn Ecosystem — Grafana](https://yearn.vision/?refresh=1m)
 
@@ -47,7 +37,7 @@ Yearn earns income from a [2% annual management fee and 20% performance fees](ht
 
 The net income from the Dai vault alone has shown explosive growth from under $10k in January to over $1.7m in May.
 
-<img alt="" class="fe en ej kc w" src="https://miro.medium.com/max/982/1\*yGYcJ0S5hlHriylbo9YpSQ.png" width="491" height="308" srcSet="https://miro.medium.com/max/552/1\*yGYcJ0S5hlHriylbo9YpSQ.png 276w, https://miro.medium.com/max/982/1\*yGYcJ0S5hlHriylbo9YpSQ.png 491w" sizes="491px" role="presentation"/>
+![alt_text](image3.png)
 
 Numbers from [https://twitter.com/Bob_The_Buidler](https://twitter.com/Bob_The_Buidler)
 
@@ -77,7 +67,7 @@ Collateralised loans are usually the largest balance sheet item for banks, for e
 
 HSBC does not disclose how many of their 226,059 employees are required to keep the interest rates updated, but in DeFi the interest rates are set according to a formula that is chosen by the lending protocols’ token holders. The graph below shows how Compound Finance sets the interest rate for Dai to be dependent on the utilization ratio.
 
-<img alt="" class="fe en ej kc w" src="https://miro.medium.com/max/1182/1\*dT7Pdz7VKbqXq0bE9RiZug.png" width="591" height="321" srcSet="https://miro.medium.com/max/552/1\*dT7Pdz7VKbqXq0bE9RiZug.png 276w, https://miro.medium.com/max/1104/1\*dT7Pdz7VKbqXq0bE9RiZug.png 552w, https://miro.medium.com/max/1182/1\*dT7Pdz7VKbqXq0bE9RiZug.png 591w" sizes="591px" role="presentation"/>
+![alt_text](image4.png)
 
 [https://compound.finance/governance/proposals/18](https://compound.finance/governance/proposals/18)
 
@@ -140,7 +130,7 @@ Yearn now has [30 full time contributors](https://twitter.com/bantg/status/13951
 
 The graph below shows how the strategists had earned over $5m by the beginning of May (across all vaults, not just Dai).
 
-<img alt="" class="fe en ej kc w" src="https://miro.medium.com/max/1204/1\*8V3MwiTfdZo44uPJyC2yKg.png" width="602" height="401" srcSet="https://miro.medium.com/max/552/1\*8V3MwiTfdZo44uPJyC2yKg.png 276w, https://miro.medium.com/max/1104/1\*8V3MwiTfdZo44uPJyC2yKg.png 552w, https://miro.medium.com/max/1204/1\*8V3MwiTfdZo44uPJyC2yKg.png 602w" sizes="602px" role="presentation"/>
+![alt_text](image5.png)
 
 y-axis is in $m (source: [https://twitter.com/bantg](https://twitter.com/bantg))
 
@@ -148,7 +138,7 @@ y-axis is in $m (source: [https://twitter.com/bantg](https://twitter.com/bantg))
 
 The largest depositors are not people, they are other protocols.
 
-<img alt="" class="fe en ej kc w" src="https://miro.medium.com/max/1004/1\*YnH1dgqzX\_wDUH2CdvKzaw.png" width="502" height="240" srcSet="https://miro.medium.com/max/552/1\*YnH1dgqzX\_wDUH2CdvKzaw.png 276w, https://miro.medium.com/max/1004/1\*YnH1dgqzX\_wDUH2CdvKzaw.png 502w" sizes="502px" role="presentation"/>
+![alt_text](image6.png)
 
 Alchemix is leading the way in Dai vault deposits
 
