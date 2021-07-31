@@ -51,4 +51,4 @@ If you'd like to come build with us, we'd love to have you. Simple as that.
 Feel free to reach out to me on telegram
 [@dudesahn](https://twitter.com/dudesahn) and we can get you started.
 
-![](image1.jpg)
+![](image1.jfif)
