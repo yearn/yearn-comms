@@ -1,6 +1,6 @@
 # The Blue Pill
 
-Author: [![Weaver](https://medium.com/@0xWeaver)]</br>
+Author: [Weaver](https://medium.com/@0xWeaver)</br>
 
 July 29, 2021
 
