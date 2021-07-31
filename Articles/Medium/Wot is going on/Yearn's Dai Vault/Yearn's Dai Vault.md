@@ -5,7 +5,9 @@ June 1, 2021
 
 If you go to [Yearn’s website](https://yearn.finance/vaults) you’ll see a list of nearly 50 crypto vaults, with the [SNX vault](https://twitter.com/iearnfinance/status/1395413780012666881) being the most recent. On [depositing your crypto](https://docs.yearn.finance/resources/guides/how-to-participate-in-a-yvault) into one of Yearn’s vaults, the protocol will begin generating a yield for you.
 
-![alt_text](image1.png)
+<p align="center">
+  <img width="460" height="300" src="image1.png">
+</p>
 
 Although it is buried away midway through the list, Yearn’s Dai vault has become a top 20 DeFi protocol in its own right:
 
