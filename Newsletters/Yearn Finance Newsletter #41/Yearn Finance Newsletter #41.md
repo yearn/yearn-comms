@@ -1,45 +1,37 @@
 ![alt_text](image1.png "image_tooltip")
 
-<h1>Yearn Finance Newsletter #41</h1>
-
+# Yearn Finance Newsletter #41
 
 Welcome to the 41st edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
 
-<h2>Summary</h2>
+## Summary
 
+- Celebrating YFI’s First Year
+- Yearn’s Market Share In The Aggregator Market Rises
+- Yearn To Be Added To Compound
+- YFI Borrowing Rate Lowered At MakerDAO
+- Vaults at Yearn
+- Ecosystem News
 
-
-
-* Celebrating YFI’s First Year
-* Yearn’s Market Share In The Aggregator Market Rises
-* Yearn To Be Added To Compound
-* YFI Borrowing Rate Lowered At MakerDAO
-* Vaults at Yearn
-* Ecosystem News
-
-<h2>Celebrating YFI’s First Year</h2>
-
+## Celebrating YFI’s First Year
 
 ![alt_text](image2.png "image_tooltip")
-
 
 One year ago on July 17, 2020, the YFI token was launched. Thank you all for creating an unforgettable moment in DeFi and what is now one of the strongest DeFi ecosystems.
 
 Thanks to [loldefi](https://twitter.com/loldefi), apparel celebrating YFI’s first anniversary can be found [here](https://ymerch.finance/).
 
-<h2>Yearn’s Market Share In Aggregator Market Rises</h2>
+## Yearn’s Market Share In Aggregator Market Rises
 
 ![alt_text](image3.png "image_tooltip")
-
 
 In Q2 2021, Yearn’s market share in the yield aggregator market rose from 29% to 69%. We saw an impressive 136% growth in our AUM, as it reached over five billion dollars. We are working constantly to find you the best risk-adjusted returns in the market. Deposit capital to our yVaults and let the Strategists do all the hard work for you.
 
 View more details about Yearn and general DeFi analytics in this Messari [report](https://messari.io/article/q2-21-defi-review?utm_source=ryanwatkins_&utm_medium=tweet&utm_campaign=q2-21-defi-review).
 
-<h2>Yearn To Be Added To Compound</h2>
+## Yearn To Be Added To Compound
 
 ![alt_text](image4.png "image_tooltip")
-
 
 A proposal has been created and contracts have been deployed to add YFI as a market to Compound Finance. Each token will have a zero collateral factor (initially), the same interest rate model (as COMP/LINK), and a reserve factor of 25% for each market (which is standard).
 
@@ -47,22 +39,19 @@ In the near future, collateral factors will be increased and users will be able 
 
 View more details about the post on Compound’s forum [here](https://www.comp.xyz/t/add-markets-mkr-aave-sushi-yfi/1977).
 
-<h2>YFI Borrowing Rate Lowered At MakerDAO</h2>
+## YFI Borrowing Rate Lowered At MakerDAO
 
 ![alt_text](image5.png "image_tooltip")
-
 
 MakerDAO has lowered the YFI-A stability fee to 1% and the ETH-C stability fee to 0.50%. These are incredibly beneficial for Yearn’s YFI and ETH strategies as they lower the cost of borrowing. The reduced cost of capital generates more net yield for users, improving returns.
 
 More about the changes can be read [here](https://forum.makerdao.com/t/maker-relay-ep-53/9305) and the vaults can be found [here](https://yearn.finance/vaults).
 
-<h2>Vaults At Yearn</h2>
-
+## Vaults At Yearn
 
 You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-<h2>Ecosystem News</h2>
-
+## Ecosystem News
 
 [Element Finance launches their third asset, crvSTETH, which relies on Yearn for fixed yield](https://twitter.com/element_fi/status/1414990472569831427)
 
