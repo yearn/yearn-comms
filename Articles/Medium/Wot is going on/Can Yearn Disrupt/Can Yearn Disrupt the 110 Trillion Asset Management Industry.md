@@ -15,7 +15,7 @@ April 7, 2021
 
 DeFi has been growing explosively for 3.5 years, according to [DeFiPulse](https://defipulse.com/) from less than $2m Total Value Locked (TVL) in Q3 2017 to $44.6bn in Q1 2021. [Defillama](https://defillama.com/home) has Ethereum’s Q1 2021 TVL at $68.5bn. Uniswap’s trading volume exceeded Coinbase’s for the month of [September 2020](https://www.theblockcrypto.com/linked/79775/uniswap-coinbase-monthly-volume-september). The question is no longer whether DeFi will disrupt traditional finance, but which DeFi protocols will be the disrupters?
 
-![](https://miro.medium.com/max/1056/1*CxAaAT4QoxCwS1WkIoZjpw.png)Growth in DeFi TVL has been explosive for 3.5 years¹
+![](image1.png)Growth in DeFi TVL has been explosive for 3.5 years¹
 
 Yearn is an asset management protocol on Ethereum. At Q1 2021 it managed $1.8bn of Ether, stablecoins and DeFi tokens. But that was last week, it’s now [$2.5bn](https://yearn.science/).
 
@@ -25,7 +25,7 @@ Yearn allows you to deposit your crypto into a “vault” which automatically u
 
 In traditional finance assets gravitate towards a few well known asset managers. Whilst the industry is by no means winner-takes-all, it is highly concentrated.
 
-![](https://miro.medium.com/max/1400/1*_GuITzmTcnoD_uJnhQESRw.png)The asset management industry is measured in $trillions AUM and highly concentrated ([June 30th 2020 data](https://www.advratings.com/top-asset-management-firms))
+![](image2.png)The asset management industry is measured in $trillions AUM and highly concentrated ([June 30th 2020 data](https://www.advratings.com/top-asset-management-firms))
 
 Yearn does not have a direct comparable in traditional asset management. It’s not a bank, but it earns yields from lending. It’s not a hedge fund, but it carries out active strategies.
 
@@ -35,7 +35,7 @@ Yearn does not have a direct comparable in traditional asset management. It’s 
 
 74% of Blackrock’s Q3 2020 revenue came from investment advisory, fees and securities lending. Yearn’s revenues can be categorized in a similar way.
 
-<img alt="" class="fe en ej jn w" src="https://miro.medium.com/max/1400/1\*BQL\_p4UqhIauXKzKMd15jQ.png" width="700" height="248" srcSet="https://miro.medium.com/max/552/1\*BQL\_p4UqhIauXKzKMd15jQ.png 276w, https://miro.medium.com/max/1104/1\*BQL\_p4UqhIauXKzKMd15jQ.png 552w, https://miro.medium.com/max/1280/1\*BQL\_p4UqhIauXKzKMd15jQ.png 640w, https://miro.medium.com/max/1400/1\*BQL\_p4UqhIauXKzKMd15jQ.png 700w" sizes="700px" role="presentation"/>
+![](image3.png)
 
 Similar sources of revenue. Different technologies.
 
@@ -66,7 +66,7 @@ How Yearn was able to deal with these issues demonstrates the benefits of DeFi o
 - transparency — anyone can view the [transaction](https://etherscan.io/tx/0x21a3007a2547a9d6f1bceb44cb9292b36079fcccd8f36f7ec1ca066db261e153) shown below on Etherscan
 - no middleman — no need for Goldman Sachs or Morgan Stanley
 
-<img alt="" class="fe en ej jn w" src="https://miro.medium.com/max/1400/1\*rwmxxOFBY2sDNDBKfF2zaA.png" width="700" height="273" srcSet="https://miro.medium.com/max/552/1\*rwmxxOFBY2sDNDBKfF2zaA.png 276w, https://miro.medium.com/max/1104/1\*rwmxxOFBY2sDNDBKfF2zaA.png 552w, https://miro.medium.com/max/1280/1\*rwmxxOFBY2sDNDBKfF2zaA.png 640w, https://miro.medium.com/max/1400/1\*rwmxxOFBY2sDNDBKfF2zaA.png 700w" sizes="700px" role="presentation"/>
+![](image4.png)
 
 A $200m+ capital raise on Ethereum is extremely cheap
 
@@ -78,7 +78,7 @@ Following the Dai vault exploit, Yearn chose to reimburse those who lost funds �
 - No paperwork
 - No humans required — just a purple rabbit
 
-<img alt="" class="fe en ej jn w" src="https://miro.medium.com/max/1400/1\*x\_8JxBe7OvWGfo81m\_8Tzg.png" width="700" height="323" srcSet="https://miro.medium.com/max/552/1\*x\_8JxBe7OvWGfo81m\_8Tzg.png 276w, https://miro.medium.com/max/1104/1\*x\_8JxBe7OvWGfo81m\_8Tzg.png 552w, https://miro.medium.com/max/1280/1\*x\_8JxBe7OvWGfo81m\_8Tzg.png 640w, https://miro.medium.com/max/1400/1\*x\_8JxBe7OvWGfo81m\_8Tzg.png 700w" sizes="700px" role="presentation"/>
+![](image5.png)
 
 Taking a $9.7m collateralized loan on Ethereum is extremely cheap
 
@@ -90,7 +90,7 @@ Comparing an asset management protocol on Ethereum to the largest global asset m
 
 Ether is by far the largest asset on Ethereum and recently became a [top 50 global asset](https://companiesmarketcap.com/) by market capitalization.
 
-![](https://miro.medium.com/max/1400/1*XPCz_MUzOOLZS0gV34cnag.png)A $200bn+ market cap makes Ether a top 50 global asset
+![](image6.png)A $200bn+ market cap makes Ether a top 50 global asset
 
 **What can you do with ETH and how does Yearn fit in?**
 
@@ -116,7 +116,7 @@ This is where Yearn comes in. Yearn finds the best risk-adjusted yield for your 
 
 DeFi tokens are the newest type of asset on Ethereum.
 
-<img alt="" class="fe en ej jn w" src="https://miro.medium.com/max/1400/1\*diPimTAuFDMGCRuYvn\_iCw.png" width="700" height="271" srcSet="https://miro.medium.com/max/552/1\*diPimTAuFDMGCRuYvn\_iCw.png 276w, https://miro.medium.com/max/1104/1\*diPimTAuFDMGCRuYvn\_iCw.png 552w, https://miro.medium.com/max/1280/1\*diPimTAuFDMGCRuYvn\_iCw.png 640w, https://miro.medium.com/max/1400/1\*diPimTAuFDMGCRuYvn\_iCw.png 700w" sizes="700px" role="presentation"/>
+![](image7.png)
 
 Valuable governless tokens
 
@@ -135,7 +135,7 @@ Each DeFi token has its quirks as their communities try to find ways of incentiv
 
 The value of these tokens has increased significantly over the last year as the market puts a greater value on tokens representing a transparent and fair (to the extent that each wallet is treated the same) financial system that is available to anyone with an internet connection. The cashflows help too.
 
-<img alt="" class="fe en ej jn w" src="https://miro.medium.com/max/1400/0\*3TInfD3S2tlzb3p7" width="700" height="394" srcSet="https://miro.medium.com/max/552/0\*3TInfD3S2tlzb3p7 276w, https://miro.medium.com/max/1104/0\*3TInfD3S2tlzb3p7 552w, https://miro.medium.com/max/1280/0\*3TInfD3S2tlzb3p7 640w, https://miro.medium.com/max/1400/0\*3TInfD3S2tlzb3p7 700w" sizes="700px" role="presentation"/>
+![](image8.jfif)
 
 DeFi protocols recently surpassed $1bn in total revenue (Token Terminal)
 
@@ -145,7 +145,7 @@ The most popular stablecoins represent 1 USD and come in different forms, such a
 
 Stablecoins are moving to Ethereum where they can earn a yield from lending, trading or liquidity mining. It is difficult to see these stablecoins being converted back to fiat when traditional banks are paying [close to 0%](https://twitter.com/mattysino/status/1379368078979391488?s=20). This goes some way to explaining why the stablecoin supply on Ethereum grew 600% over the last 12 months.
 
-<img alt="" class="fe en ej jn w" src="https://miro.medium.com/max/1314/1\*W8DgtzzsCuFkxkZyb8GOsw.png" width="657" height="446" srcSet="https://miro.medium.com/max/552/1\*W8DgtzzsCuFkxkZyb8GOsw.png 276w, https://miro.medium.com/max/1104/1\*W8DgtzzsCuFkxkZyb8GOsw.png 552w, https://miro.medium.com/max/1280/1\*W8DgtzzsCuFkxkZyb8GOsw.png 640w, https://miro.medium.com/max/1314/1\*W8DgtzzsCuFkxkZyb8GOsw.png 657w" sizes="657px" role="presentation"/>
+![](image9.png)
 
 People are preferring stablecoins on Ethereum to dollars in the bank ([https://duneanalytics.com/hagaetc/stablecoins](https://duneanalytics.com/hagaetc/stablecoins))
 
@@ -159,7 +159,7 @@ Yearn’s stablecoin strategies have come a long way since early 2020 and now th
 
 Even bitcoin is finding its way to Ethereum. By end March 2021 there was more [bitcoin on Ethereum](https://btconethereum.com/) ($10bn) than that held by MicroStrategy ($5.4bn³) and Tesla ([$1.5bn](https://www.cnbc.com/2021/02/08/tesla-buys-1point5-billion-in-bitcoin.html)) combined. Mainstream media isn’t going to make it.
 
-<img alt="" class="fe en ej jn w" src="https://miro.medium.com/max/1400/1\*8dmyhqXvwVQn7sp0HMuB6w.png" width="700" height="411" srcSet="https://miro.medium.com/max/552/1\*8dmyhqXvwVQn7sp0HMuB6w.png 276w, https://miro.medium.com/max/1104/1\*8dmyhqXvwVQn7sp0HMuB6w.png 552w, https://miro.medium.com/max/1280/1\*8dmyhqXvwVQn7sp0HMuB6w.png 640w, https://miro.medium.com/max/1400/1\*8dmyhqXvwVQn7sp0HMuB6w.png 700w" sizes="700px" role="presentation"/>
+![](image10.png)
 
 Tokenized bitcoin on Ethereum ([https://duneanalytics.com/queries/4962/9776](https://duneanalytics.com/queries/4962/9776))
 
@@ -177,7 +177,7 @@ Ether, DeFi tokens, stablecoins and tokenized bitcoin combine to form a $300bn+ 
 
 The chart below shows why equities matter. At [$95 trillion](https://www.cnbc.com/2020/11/12/global-stock-market-value-rises-to-a-record-95-trillion-this-week-on-vaccine-hope.html) the market cap is 50 times the size of the total crypto market cap.
 
-<img alt="" class="fe en ej jn w" src="https://miro.medium.com/max/960/1\*pxcjO4NxGyZ3oIxeJ3KpqA.png" width="480" height="289" srcSet="https://miro.medium.com/max/552/1\*pxcjO4NxGyZ3oIxeJ3KpqA.png 276w, https://miro.medium.com/max/960/1\*pxcjO4NxGyZ3oIxeJ3KpqA.png 480w" sizes="480px" role="presentation"/>
+![](image11.png)
 
 Global equities 50x crypto market cap
 
@@ -209,7 +209,7 @@ Tokenizing equities that already exist is a huge step to increasing the addressa
 
 Initial Public Offerings (IPOs) are expensive. The underwriting fees from a PWC report are shown below. Note that there’s no quote for deals under $25m, welcome to traditional finance. The column on the right shows the number of middlemen that could one day be disintermediated by using Ethereum.
 
-<img alt="" class="fe en ej jn w" src="https://miro.medium.com/max/1310/1\*tw1W4Iym7WwaMIRjEaWC3A.png" width="655" height="267" srcSet="https://miro.medium.com/max/552/1\*tw1W4Iym7WwaMIRjEaWC3A.png 276w, https://miro.medium.com/max/1104/1\*tw1W4Iym7WwaMIRjEaWC3A.png 552w, https://miro.medium.com/max/1280/1\*tw1W4Iym7WwaMIRjEaWC3A.png 640w, https://miro.medium.com/max/1310/1\*tw1W4Iym7WwaMIRjEaWC3A.png 655w" sizes="655px" role="presentation"/>
+![](image12.png)
 
 [Underwriting fees](https://www.pwc.com/us/en/services/deals/library/cost-of-an-ipo.html) for IPOs in traditional finance
 
@@ -223,7 +223,7 @@ There have been only two so far (that I can find), both of which are related to 
 
 Bonds are less risky than crypto and equities (measured by historic volatility). There’s more than [$100 trillion](https://www.icmagroup.org/Regulatory-Policy-and-Market-Practice/Secondary-Markets/bond-market-size/) of them. If ever, they will likely come last to Ethereum. No-one is pestering the Spartan Council for a synthetic 30-year US treasury, sTMUBMUSD30Y, to lock in 2.4% pa yield. However, there are signs of large traditional financial players testing the waters.
 
-![](https://miro.medium.com/proxy/0*A1R8GWXvGMrYuKqB.png)History of bond issuance on blockchains ([Binance Research](https://research.binance.com/en/analysis/santander-bond), Coindesk)
+![](image13.png)History of bond issuance on blockchains ([Binance Research](https://research.binance.com/en/analysis/santander-bond), Coindesk)
 
 These institutions and companies are testing the technology because it is cheap. If it’s cheap it saves them money and gives them an edge against competitors.
 
@@ -247,7 +247,7 @@ However, these are companies. They are centralized.
 
 The challenge that the DeFi entrepreneurs took up was to find a way of trading, borrowing and lending in a censorship-resistant way with code replacing the middleman. Even if the models replicated traditional finance they would have the advantages of transparency, no middlemen and available to anyone with an internet connection.
 
-![](https://miro.medium.com/max/1400/1*vqIyPiV64Cgfb0z0l2kOiQ.png)History of crypto yields before 0 B.C⁴
+![](image14.png)History of crypto yields before 0 B.C⁴
 
 Compound Finance’s lending protocol was the first DeFi protocol that allowed you to earn a yield. However, it wasn’t until the [launch of the COMP](https://www.coindesk.com/compounds-comp-token-price-doubles-amid-defi-mania) token in June 2020 that usage skyrocketed.
 
@@ -264,7 +264,7 @@ When Cronje started working on Yearn v1 there were several problems that people 
 - an understanding of the risks involved
 - a lot of time — both to check the yields and then to make the transactions
 
-![](https://miro.medium.com/max/1400/1*epBB9wIITJxSmbtjEZ1XnA.png)The problems with DeFi that Yearn helps to solve
+![](image15.png)The problems with DeFi that Yearn helps to solve
 
 Initially Andre carried out these transactions manually. By aggregating capital the gas fees can be shared, not everyone needs to understand all the protocols at the same level of detail, and you can deposit your funds and let one person do the work. The challenge was to automate the process.
 
@@ -280,7 +280,7 @@ When Curve introduced the concept of “boosties” for locking CRV, Yearn found
 
 But Andre was still not happy. There remained capital inefficiencies everywhere he looked, such as capital sitting idle in Cream Finance (a lending protocol in Yearn’s ecosystem). Say there’s 10m Dai sitting in Cream Finance and not being lent out (therefore earning no yield) and Yearn has a strategy that could earn 10% APY on Dai, even if only for a very short time. What if Yearn could borrow that Dai for a lower interest rate, earn the 10% APY, and pay the loan back either when the strategy no longer produced excess yield or when the depositor on Cream Finance wanted their Dai returned? That’s what Yearn does — not for its own benefit — but to increase the yields of depositors. It was a first in [protocol-to-protocol uncollateralized lending](https://creamdotfinance.medium.com/introducing-the-iron-bank-bab9417c9a).
 
-![](https://miro.medium.com/max/1400/1*5cnJ55POWjpUW5BkqOywww.png)Yearn’s innovations in yields
+![](image16.png)Yearn’s innovations in yields
 
 The bar at the bottom of the diagram above represents an innovation in yields that came with the help of another ecosystem partner, Sushi. As a way of incentivizing people to lock their CRV indefinitely Yearn created a complex asset called yveCRV. However, there was no market for yveCRV so Yearn incentivized people to provide liquidity to yveCRV-ETH by offering rewards in Sushi. This turned an illiquid asset into a liquid one using an ecosystem partner. This is not your average DeFi protocol.
 
@@ -292,7 +292,7 @@ The vault re-design proposed in YIP-48 has now been implemented, audits have bee
 
 The image below shows the yvDai vault earning a yield for depositors with 6 strategies in action at the same time (the strategy labels are in green).
 
-<img alt="" class="fe en ej jn w" src="https://miro.medium.com/max/1400/0\*Nl5LJaJ-dARbrIP-" width="700" height="926" srcSet="https://miro.medium.com/max/552/0\*Nl5LJaJ-dARbrIP- 276w, https://miro.medium.com/max/1104/0\*Nl5LJaJ-dARbrIP- 552w, https://miro.medium.com/max/1280/0\*Nl5LJaJ-dARbrIP- 640w, https://miro.medium.com/max/1400/0\*Nl5LJaJ-dARbrIP- 700w" sizes="700px" role="presentation"/>
+![](image17.jfif)
 
 Six strategies in one vault ([https://twitter.com/bantg/status/1377681238249574404?s=20](https://twitter.com/bantg/status/1377681238249574404?s=20))
 
@@ -300,7 +300,7 @@ Ceazor explains the different strategies [here](https://www.youtube.com/watch?v=
 
 The diagram below shows the inner workings of the GenericLevCompFarm strategy, where 57% of the yvDai vault is being deployed.
 
-<img alt="" class="fe en ej jn w" src="https://miro.medium.com/max/1400/0\*KEnWS6Dpymh7ba0K.jpg" width="700" height="527" srcSet="https://miro.medium.com/max/552/0\*KEnWS6Dpymh7ba0K.jpg 276w, https://miro.medium.com/max/1104/0\*KEnWS6Dpymh7ba0K.jpg 552w, https://miro.medium.com/max/1280/0\*KEnWS6Dpymh7ba0K.jpg 640w, https://miro.medium.com/max/1400/0\*KEnWS6Dpymh7ba0K.jpg 700w" sizes="700px" role="presentation"/>
+![](image18.jpg)
 
 Diagram of the first strategy, GenericLevCompFarm, shown in banteg’s tweet above
 
@@ -314,7 +314,7 @@ The greater challenge seems to be to reduce the real and perceived risks of inte
 
 A key part of Yearn’s brand is its focus on security which Cronje prioritized in the first version in early 2020. Developers have to determine which protocols and strategies are trustworthy, think through potential economic exploits, limit deposits in to certain strategies and find ways of covering losses in case exploits do occur. The seriousness with which Yearn takes security and the speed with which it resolves issues that arise is evidenced by the detail in its [vulnerability disclosure reports](https://github.com/yearn/yearn-security/tree/master/disclosures) and the [system specification](https://github.com/yearn/yearn-vaults/blob/master/SPECIFICATION.md). Higher level risk controls are shown in the table below.
 
-![](https://miro.medium.com/max/1400/1*ouMHBCeYhju4_hBcpVPpTA.png)Prioritizing security from day 1
+![](image19.png)Prioritizing security from day 1
 
 The yAcademy is my favourite from the list above because it illustrates the emergent nature of Yearn — and DeFi in general. It started with just some dev (Andre) writing some code (Yearn v1). People he didn’t know thought it was interesting and started interacting with it so he started a telegram group where it was discussed. Auditing the code was necessary, but expensive and slow, due to there being few people with the required skills and because it is hard and time-consuming. It’s still a bottleneck for the whole of DeFi, not just for Yearn. 9 months later Ali Atiia **(**@aliatiia\_) submits a [governance proposal](https://gov.yearn.finance/t/lets-poach-samczsun-and-plant-the-seed-for-an-auditing-academy/5507) (viewed by 2.3k people) for Yearn to develop an academy to train auditors. 2 months after the proposal, and a partnership with Gitcoin and Status in-hand, [YIP-53](https://gov.yearn.finance/t/yip-53-yacademy-planting-the-seed-of-a-sustainably-secure-future-for-yearn-and-beyond/7929) is submitted. This officially creates yAcademy with a budget and a detailed specification.
 
@@ -324,7 +324,7 @@ This happened with no management. No HR department. No résumés.
 
 It’s one thing to describe how Yearn is leading the innovation in risk-adjusted yields, but ultimately the asset management industry uses one key metric, and that’s AUM (TVL in DeFi). This is up by 3x in the last quarter. At less than 1% of the assets on Ethereum, which are themselves growing at a rapid pace, there is still plenty of room for Yearn’s AUM to grow.
 
-![](https://miro.medium.com/max/1400/0*kcn8jP5AhMlmg0KE)Yearn’s TVL hits $1.84b on 31st March 2021 — The Block (and banteg)
+![](image20.jfif)Yearn’s TVL hits $1.84b on 31st March 2021 — The Block (and banteg)
 
 **5\. Competition**
 
