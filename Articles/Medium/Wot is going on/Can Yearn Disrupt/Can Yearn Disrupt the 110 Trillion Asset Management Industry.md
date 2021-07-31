@@ -1,6 +1,6 @@
 # Can Yearn disrupt the $110 trillion asset management industry?
 
-Author: [Wot_Is_Goin_On](https://twitter.com/Wot_Is_Goin_On)
+Author: [Wot_Is_Goin_On](https://twitter.com/Wot_Is_Goin_On)<br/>
 
 April 7, 2021
 
