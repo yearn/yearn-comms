@@ -4,14 +4,13 @@ Author: [Andre Cronje](https://twitter.com/AndreCronjeTech)</br>
 
 July 27, 2021
 
-
 **\-Fair launches-**
 
 It took awhile for me to finally realize the essence behind a fair launch. It isn’t giving the tokens away, it isn’t because there was no presale, simply put, it was because everyone had the same advantage, everyone had the same ruleset, there was no secret “friends and family” round, seed rounds, influencer allocation, there were no whitelists, no capped participation, the rules were provided, and anyone could participate. I finally feel comfortable in saying a fair launch, is a launch in which all participants have the same ruleset.
 
 **\-Decentralized collaboration-**
 
-I still  see a lot of tribalism, I guess that’s understandable, I never understood how people became so tribal over sport teams, I’ve started to wonder how much of that tribalism is because of betting on the teams, afterall, that’s what crypto is, betting on your favorite team. Just like I never understood the tribalism in sports, I also don’t understand it in crypto. By my standards, I simply see “right” and “wrong”, doesn’t matter if its a team I’m associated with or not, if I see the “right”, I praise it, if I see the “wrong”, I scold it.
+I still see a lot of tribalism, I guess that’s understandable, I never understood how people became so tribal over sport teams, I’ve started to wonder how much of that tribalism is because of betting on the teams, afterall, that’s what crypto is, betting on your favorite team. Just like I never understood the tribalism in sports, I also don’t understand it in crypto. By my standards, I simply see “right” and “wrong”, doesn’t matter if its a team I’m associated with or not, if I see the “right”, I praise it, if I see the “wrong”, I scold it.
 
 But I think some teams, often discount the value in collaboration, its something I always enjoyed about yveCRV, and by extention, its clones, stCRV and cvxCRV, its the product of collaboration between curve, yearn, sushi, and pickle. It can’t exist without all those entities. Same reason before yveCRV, the y pool was my pride and joy, it was the collaboration between curve, yearn, aave, compound, and dydx.
 
@@ -33,10 +32,10 @@ Fixed Forex leveraged Iron Bank, Yearn, Sushi, and Curve
 
 **Disclaimers;**
 
-*   Unaudited.
-*   0 benefit for early participation, only risk.
-*   The initial token distribution will be a fraction of the emission, this serves only for testing purposes.
-*   Given the incredibly low initial distribution, do not buy these tokens, do not provide liquidity for these tokens, you will lose money.
+- Unaudited.
+- 0 benefit for early participation, only risk.
+- The initial token distribution will be a fraction of the emission, this serves only for testing purposes.
+- Given the incredibly low initial distribution, do not buy these tokens, do not provide liquidity for these tokens, you will lose money.
 
 Fixed Forex is the collective name for USD, EUR, ZAR, JPY, CNY, AUD, AED, CAD, INR, and any other forex pairs launched under the Fixed Forex moniker.
 
@@ -86,10 +85,10 @@ Simply put, the greater your time investment, the more disproportionate your rew
 
 **Disclaimers;**
 
-*   Unaudited.
-*   0 benefit for early participation, only risk.
-*   The initial token distribution will be a fraction of the emission, this serves only for testing purposes.
-*   Given the incredibly low initial distribution, do not buy these tokens, do not provide liquidity for these tokens, you will lose money.
+- Unaudited.
+- 0 benefit for early participation, only risk.
+- The initial token distribution will be a fraction of the emission, this serves only for testing purposes.
+- Given the incredibly low initial distribution, do not buy these tokens, do not provide liquidity for these tokens, you will lose money.
 
 **Links;**
 
