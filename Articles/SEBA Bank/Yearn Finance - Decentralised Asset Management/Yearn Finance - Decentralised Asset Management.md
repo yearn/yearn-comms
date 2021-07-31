@@ -86,15 +86,15 @@ Using a discounting rate of 25%, terminal growth rate of 5%, and giving equal we
 
 ### Figure 1: Bullish scenario
 
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](image1.png "image_tooltip")
 
 ### Figure 2: Base Case Scenario
 
-![alt_text](images/image2.png "image_tooltip")
+![alt_text](image2.png "image_tooltip")
 
 ### Figure 3: Conservative Scenario
 
-![alt_text](images/image3.png "image_tooltip")
+![alt_text](image3.png "image_tooltip")
 
 ## Risks
 
