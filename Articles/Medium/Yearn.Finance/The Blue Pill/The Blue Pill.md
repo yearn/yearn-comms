@@ -1,6 +1,6 @@
 # The Blue Pill
 
-[![Weaver](https://miro.medium.com/fit/c/96/96/1*vVecy3sco_JhO210Nc4Hvw.jpeg)]</br>
+Author: [![Weaver](https://medium.com/@0xWeaver)]</br>
 
 July 29, 2021
 
@@ -42,4 +42,4 @@ Accept our humble invitation to join us in celebration of one year of YFI.
 
 [Claim the NFTs](https://galaxy.eco/yearn) as a symbol of your place in Yearn history, and share this book those who might join us in building what Yearn is yet to become.
 
-![](image3.jpep)
+![](image3.jpg)
