@@ -1,6 +1,6 @@
 ![](yield1.jpg) </br>
 
-What if Yearn = the web's "yield function"?
+# What if Yearn = the web's "yield function"?
 
 In programming a "function" is a little bundle of reusable code that accomplishes a specific task… You can summon that function anytime, and it will do the same thing over and over again without fail.
 
