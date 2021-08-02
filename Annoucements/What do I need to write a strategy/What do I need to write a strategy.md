@@ -1,5 +1,5 @@
 ![](image1.jpg) </br>
 
-Over $5M has been paid to [Yearn](https://t.me/yearnupdates) strategists in 2021. Today [@EthCC](https://twitter.com/EthCC/) [Facu](https://t.me/fameal) broke down what it takes to become a mighty strategist like himself. Check the video below for an amazing overview! 👇
+Mais de $5M foram pagos para os estrategistas de [Yearn](https://t.me/yearnupdates) em 2021. Hoje na [@EthCC](https://twitter.com/EthCC/) [Facu](https://t.me/fameal) detalhou o que é necessário para se tornar um bom estrategista, assim como ele. Confira o vídeo abaixo para uma excelente visão geral sobre o assunto! 👇
 
 https://www.youtube.com/watch?v=NVR3teJw0Y0
