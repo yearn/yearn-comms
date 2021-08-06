@@ -54,7 +54,7 @@ Check out the vaults [here](https://yearn.finance/vaults).
 
 ## **Check Out The Pickle Jars**
 
-![](image1_newsletter_header_vn.png)
+![](image5.png)
 
 At Pickle Finance, you can find impressive rates from 7% to 40% on your favorite yVault tokens. You can earn on Yearn FRAX, Yearn LUSD, yUSDC, and many more!
 
