@@ -1,5 +1,5 @@
-Last week we announced The Blue Pill book and gave early Yearn supporters a first look via a limited series of NFTs.
+Na semana passada nós anunciamos o livro A Pílula Azul e demos aos primeiros usuários de Yearn uma primeira visualização através de uma série de NFTs exclusivos.
 
-Today we invite everyone to experience The Blue Pill:
+Hoje nós convidamos todos a experimentar A Pílula Azul:
 
 https://thebluepill.eth.link

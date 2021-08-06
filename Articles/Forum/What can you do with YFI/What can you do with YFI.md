@@ -1,65 +1,62 @@
-# What can you do with YFI?
-In this article, we look into what one can do with their YFI to earn yield in [DeFi](https://www.coindesk.com/what-is-defi), what risks are associated with each option, and the approximate yield you could get. 
+# O que você pode fazer com YFI?
+Neste artigo, examinamos o que se pode fazer com seu YFI para obter rendimento em [DeFi](https://www.coindesk.com/what-is-defi), quais riscos estão associados a cada opção e o rendimento aproximado que você pode obter.
 
-- All APY quotes are from April 27th.
-- All positions that take out debt assume borrowing at 70% of the max rate to be able to withstand a 30% reduction in YFI price.
-- This is not financial advice. Interacting with DeFi protocols is **risky**, please do your own research.
+- Todos os valores de APY são de 27 de abril.
+- Todas as posições que contraem dívida pressupõem um empréstimo a 70% da taxa máxima para poder suportar uma redução de 30% no preço YFI.
+- Este não é um conselho de investimento. Interagir com os protocolos DeFi é arriscado, faça sua própria pesquisa.
 
 ___
 
-## **Before you start, consider insuring your YFI with DeFi Insurance**
-A note about DeFi insurance and how it works. DeFi insurance *mostly* covers bugs in the solidity code that leads to a material loss of funds for that specific protocol. But be sure to read each Defi insurance documentation carefully to know what they do and don't cover. 
+## **Antes de começar, considere fazer um seguro para seu YFI com um seguro para DeFi**
+Uma nota sobre o seguro para DeFi e como ele funciona. O seguro para DeFi cobre *principalmente* bugs no código solidity que levam a uma perda significativa de fundos para aquele protocolo específico. Mas certifique-se de ler a documentação do seguro Defi cuidadosamente para saber o que eles cobrem e o que não cobrem.
 
-As an example, say someone had insurance for their yearn vault, but there was a bug with MakerDAO's code and the vault's CDP lost some funds because of this. This person having only insurance on Yearn, wouldn't be able to claim any losses and their insurance wouldn't payout in this case. This is because it was not a bug in yearn's smart contracts that caused the loss. For more info on insurance feel free to ask in our [discord](discord.yearn.finance) in #support.
+Por exemplo, digamos que alguém tivesse seguro para seu vault yearn, mas havia um bug com o código da MakerDAO e o CDP do vault perdeu alguns fundos por causa disso. Essa pessoa, tendo apenas seguro em Yearn, não seria capaz de reivindicar quaisquer perdas e seu seguro não pagaria neste caso. Isso porque não foi um bug nos contratos inteligentes da yearn que causou o prejuízo. Para obter mais informações sobre seguros, sinta-se à vontade para perguntar em nosso [discord](discord.yearn.finance) em #support.
 
-### **DeFi Coverage Providers**
+### **Provedores de seguro DeFi**
 - [Nexus Mutual](https://app.nexusmutual.io/#/SmartContractCover) 
-    - [Documentation](https://nexusmutual.gitbook.io/docs/)
+    - [Documentação](https://nexusmutual.gitbook.io/docs/)
 - [Cover Protocol](https://app.coverprotocol.com/)
-    - [Documentation](https://docs.coverprotocol.com/)
+- [Documentação](https://docs.coverprotocol.com/)
 
 ___
 
-## ***Direct Deposit***
-This section addresses ways that you can make use of your YFI by itself. Alternative methods of generating yield, like providing liquidity to a decentralized exchange's [automated market maker (AMM)](https://www.gemini.com/cryptopedia/amm-what-are-automated-market-makers) may require you to pair your YFI with another token which could compromise your full exposure to YFI. This isn't to say that it is risk-free, but that you won't have to deal with what is referred to as [impermanent loss (IL)](https://www.gemini.com/cryptopedia/decentralized-finance-impermanent-loss-defi). *Having funds in smart contracts always carries some risk.*
+## ***Depósito direto***
+Esta seção aborda maneiras pelas quais você pode usar seu YFI sozinho. Métodos alternativos de geração de rendimento, como fornecer liquidez a um [formador de mercado automatizado (AMM)] (https://www.gemini.com/cryptopedia/amm-what-are-automated-market-makers) podem exigir que você emparelhe seu YFI com outro token, o que pode comprometer sua exposição total ao YFI. Isso não quer dizer que seja livre de riscos, mas que você não terá que lidar com o que é conhecido como [perda impermanente (IL)] (https://www.gemini.com/cryptopedia/decentralized-finance-impermanent-loss-defi). * Ter fundos em contratos inteligentes sempre traz algum risco.*
 
 ### Yearn: v2 YFI yVault
-The Yearn Finance YFI v2 yVault lets you deposit YFI and sit back and relax while it earns yield for you at the optimal places to do so. At the time of writing the vault currently opens a CDP and uses the DAI minted to farm with. Also, the yVault lends out YFI to CREAM and AAVE for more yield. 
+O Yearn Finance YFI v2 yVault permite que você deposite o YFI e relaxe enquanto ganha rendimento nos melhores lugares para fazer-lo. No momento em que este artigo foi escrito, o vault abre um CDP e usa o DAI recém-criado para investir. Além disso, o yVault empresta YFI para CREAM e AAVE para obter mais rendimento.
 
 #### Site
 - [Yearn.Finance](https://yearn.finance/vaults/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1) 
 
-#### Tools
-- [Yearn Hub](https://yearn-hub.vercel.app/vault/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1): This link will show how much of the funds in the vault are allocated to which strategies.
-- [Vaults at Yearn](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3): Here you can see what each strategy in the yvYFI v2 vault does. 
-- [Yearn Vision](yearn.vision): Dashboards for vault statistics.
-- [Zap into v2 YFI yVault](https://zapper.fi/invest?protocol=yearn&contractAddress=0xe14d13d8b3b85af791b2aadd661cdbd5e6097db1&modal=invest)
+#### Ferramentas
+- [Yearn Hub](https://yearn-hub.vercel.app/vault/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1): Este link mostrará quanto dos fundos no vault são alocados para quais estratégias.
+- [Vaults at Yearn](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3): Aqui você pode ver o que cada estratégia no vault yvYFI v2 faz. 
+- [Yearn Vision](yearn.vision): Painéis para estatísticas de vault.
+- [Zap em v2 YFI yVault] (https://zapper.fi/invest?protocol=yearn&contractAddress=0xe14d13d8b3b85af791b2aadd661cdbd5e6097db1&modal=invest)
 
-#### Risks
-Currently, the risks associated with this vault are smart contract risk for yearn's vault contracts (which are [audited](https://github.com/yearn/yearn-security/tree/master/audits)), MakerDAO CDP risks, and since a strategy lends out YFI to CREAM and AAVE for extra yield, and smart contract risk for both platforms as well. The vault has monitoring of its CDP and keeps a [health ratio](https://medium.com/iearn/delegated-vaults-explained-fa81f1c3fce2) of 3 which means it will only mint 1/3 of the max available for minting in DAI then use that DAI to farm with.
+#### Riscos
+Atualmente, os riscos associados a este vault são risco de contrato inteligente para os contratos dos vaults de yearn (que são [auditados](https://github.com/yearn/yearn-security/tree/master/audits)), riscos MakerDAO CDP e, uma vez que uma estratégia empresta YFI para CREAM e AAVE para rendimento extra, risco de contrato inteligente para ambas as plataformas também . O vault tem monitoramento de seu CDP e mantém uma [proporção de integridade](https://medium.com/iearn/delegated-vaults-explained-fa81f1c3fce2)de 3, o que significa que ele irá emitir apenas 1/3 do máximo disponível para emissão em DAI e então usar esse DAI para investimento.
 
-#### Insurance 
-At the time of writing to be fully insured in the YFI v2 vault, you would need coverage for Yearn, MakerDAO, AAVE, and CREAM. You can be selective about which coverage to purchase and only pay for cover of the protocols you believe to be risky. You can see which protocols this yVault interacts with for insurance at [yearn hub](https://yearn-hub.vercel.app/vault/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1).
+#### Seguro 
+No momento em que este artigo foi escrito, para estar totalmente seguro no cofre YFI v2, você precisa de cobertura para Yearn, MakerDAO, AAVE e CREAM. Você pode ser seletivo sobre qual cobertura comprar e pagar apenas pela cobertura dos protocolos que acredita serem arriscados. Você pode ver com quais protocolos este yVault interage para seguro no [yearn hub] (https://yearn-hub.vercel.app/vault/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1).
 
 #### APY
-APY: 2.866% 
-Calculation: Last month net, annualized.
-Source: [vaults.finance: yearn v2 API](https://vaults.finance/all)
-Sidenote: APY peaked for a time to 24%
+APY: 2,866% 
+Cálculo: Líquido do último mês, anualizado.
+Fonte: [vaults.finance: yearn v2 API] (https://vaults.finance/all)
+Observação: APY atingiu um pico por um tempo para 24%
 
-This vault is the most up-to-date YFI vault from the yearn team and has proven that it can move quickly to jump into upcoming YFI farms for better yield if they are safe to be farmed, as they recently did with farming BDP: Big Data Protocol. 
+Este vault é o vault YFI mais atualizado da equipe do yearn e provou que pode se mover rapidamente para pular para as próximas oportunidades de investimento para o YFI, para obter melhor rendimento, se forem seguras para serem cultivadas, como fizeram recentemente com o farm de BDP: Big Data Protocol. 
 
-- [Yearn.Finance: YFI Vault](https://yearn.finance/vaults/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1): Yearn's vault page shows Weekly or Monthly APY based on a formula.  
+- [Yearn.Finance: YFI Vault] (https://yearn.finance/vaults/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1): a página do cofre de Yearn mostra APY semanal ou mensal com base em uma fórmula. 
 
-___
-
-## ***Direct Deposit, possible IL***
-Some yield-generating techniques are designed to reduce the risk of IL, but not remove it entirely. An example of this is providing liquidity to the Bancor protocol. If funds are kept in Bancor for over 100 days, and they were exposed to IL, they would be subsidized with BNT at the time of withdrawal for the equivalent amount of value lost (which the user is free to convert back to YFI). In practice, this means that you don't have to worry about IL if you stake more than 100 days with Bancor.
+## *** Depósito direto, possível IL ***
+Algumas técnicas de geração de rendimento são projetadas para reduzir o risco de IL, mas não para removê-lo totalmente. Um exemplo disso é fornecer liquidez ao protocolo Bancor. Se os fundos forem mantidos no Bancor por mais de 100 dias e forem expostos a IL, eles serão subsidiados com BNT no momento do saque pelo valor equivalente perdido (que o usuário é livre para converter de volta para YFI). Na prática, isso significa que você não precisa se preocupar com IL se fizer um depósito de mais de 100 dias no Bancor.
 
 ### Bancor: YFI/BNT Single-Sided Protected Pool
 
-Bancor is an AMM like Sushiswap and Uniswap, but with one key difference which was rolled out in Bancor v2.1. Bancor now has IL protection *if* you stay in the pool for longer than 100 days. This protection starts at 30 days and scales to full protection over 100 days. Currently, incentivized rewards for the YFI pool have stopped, but there is a [proposal](https://gov.bancor.network/t/proposal-re-enable-lm-rewards-on-yfi/1838) to bring them back, and if it gets approved it will mean higher yields on this YFI pool.
-
+Bancor é um AMM como Sushiswap e Uniswap, mas com uma diferença fundamental que foi lançada no Bancor v2.1. Bancor agora tem proteção contra IL *se* você ficar no pool por mais de 100 dias. Essa proteção começa em 30 dias e se expande para proteção total em 100 dias. Atualmente, as recompensas incentivadas para o pool YFI foram interrompidas, mas há uma [proposta] (https://gov.bancor.network/t/proposal-re-enable-lm-rewards-on-yfi/1838) para trazê-las de volta, e se for aprovado, isso significará maiores rendimentos neste pool YFI.
 
 #### Site
 
