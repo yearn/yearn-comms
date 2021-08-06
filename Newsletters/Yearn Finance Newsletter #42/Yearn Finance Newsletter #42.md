@@ -1,4 +1,4 @@
-# Yearn Finance Newsletter #42
+# Bản tin Yearn.Finance Số #42
 
 ![](image1_newsletter_header_vn.png)
 
