@@ -1,4 +1,4 @@
-![alt_text](image1.png "image_tooltip")
+![alt_text](image1_vi.png "image_tooltip")
 
 # Yearn Finance Newsletter #41
 
