@@ -1,4 +1,4 @@
-![alt_text](image1_vi.png "image_tooltip")
+![alt_text](image1_newsletter_header_vn.png "image_tooltip")
 
 # Bản tin Yearn.Finance Số #41
 
