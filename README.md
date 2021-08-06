@@ -1,2 +1,2 @@
 # Truyền thông Yearn
-This is a collection of communication, announcements, tweets, newsletters, and other articles about yearn. 
+Tổng hợp các thông báo, tweet (mạng xã hội Twitter), bản tin và những bài viết chính thức về Yearn.finance cũng như đồng $YFI (phát âm "wai-phi" hay "oai-phi"). 
