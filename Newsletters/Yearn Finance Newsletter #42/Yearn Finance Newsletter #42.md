@@ -1,6 +1,6 @@
 # Yearn Finance Newsletter #42
 
-![](image1_newsletter_header_vn.png)
+![](image1.png)
 
 Welcome to the 42nd edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If youΓÇÖre interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
 
