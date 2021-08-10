@@ -22,7 +22,7 @@ Giờ đây, bạn có thể đổi giữa các Kho bạc (Vault) của [@iearnf
 
 # 3
 
-Bể tổng hợp (metapool) là gì? Nó là một bể góp vốn được xây dựng phía trên bể khác. Đơn giản không?
+Bể tổng hợp (metapool) là gì? Nó là một bể góp vốn được xây dựng phía trên bể khác. Đơn giản chưa?
 
 👇
 
