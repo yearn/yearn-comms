@@ -1,74 +1,74 @@
-# Yearn Finance Newsletter #43
+# Bản tin Yearn.Finance Số #43
 
-![](image1.jpg)
+![](https://i.imgur.com/mD1d7Nv.png)
 
-Welcome to the 43rd edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you're interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Chào mừng các bạn đến với Bản tin Yearn.Finance Số #43! Chúng tôi hy vọng sẽ truyền tải được những dữ kiện mới nhất cho cộng đồng tiền mã thuật số (crypto) nói chung lẫn cộng đồng Yearn nói riêng; từ phát hành sản phẩm, thay đổi trong quản trị đến nhiều dự án đối tác trực thuộc hệ sinh thái Yearn. Nếu quan tâm và muốn biết thêm chi tiết về Yearn.Finance, hãy theo dõi tài khoản [Twitter](https://twitter.com/iearnfinance), [Medium](https://medium.com/iearn) cũng như đón chờ nơi phát hành Tiếng Việt chính thức của chúng tôi.
 
-## **Summary**
+## **Tóm tắt**
 
-- YIP-63: Fund Builder-First Legal Activism DAO
-- Alchemix Migrates to Yearn v2
-- YFI Added To Compound Finance
-- Swap Between Yearn Vaults In One Transaction
-- Vaults at Yearn
-- Ecosystem News
+- YIP-63: Tài trợ ĐAO Pháp lý Dẫn-đầu-bởi-Cộng-đồng-Phát-triển
+- Alchemix Di chuyển sang Yearn v2
+- YFI Chính thức Xuất hiện trong Compound.Finance
+- Chuyển đổi giữa các Kho bạc (Vault) của Yearn Với-Chỉ-Một-Giao-Dịch
+- Kho bạc (Vault) tại Yearn
+- Tin tức trong Hệ Sinh thái
 
-## **YIP-63: Fund Builder-First Legal Activism DAO**
+## **YIP-63: Tài trợ ĐAO Pháp lý Dẫn-đầu-bởi-Cộng-đồng-Phát-triển**
 
 ![](image2.jpg)
 
-Amidst intensifying regulatory scrutiny of DeFi, it has been proposed that the LeXpunK_DAO should be dedicated to legal advocacy for yearn and other builder-centric DeFi communities. The LeXpunK_DAO will be governed by builders from contributing communities (including yearn) and practicing lawyers from the LeXpunK Army 146.
+Giữa bối cảnh nhiều cơ quan lập-hành pháp các nước tăng cường soi xét DeFi (phát âm "Đê-Phi" hay "Đì-Phai"), một số tiếng nói lớn đã tin tưởng đề xuất LeXpunK_DAO trở thành tổ chức vận động pháp lý cho Yearn cũng như bao cộng đồng DeFi khác (có chung lý tưởng trung tâm xoay quanh cái "gốc" vững chắc là lập trình viên). LeXpunK_DAO sẽ được quản trị bởi lực lượng xây dựng cốt cán của các cộng đồng thành viên đóng góp (gồm cả Yearn) và nhiều luật sư hành nghề từ LeXpunK&nbsp;Army&nbsp;146.
 
-5% of the current supply of L3X, the non-transferable governance token of the LeXpunK Army, will be airdropped to YFI holders who support this proposal, in order to enable direct sentiment polling on relevant legal issues from the Yearn community. LeXpunK will effect additional airdrops from time to time, proportionally in line with the relative contributions of other builder communities, with the goal of forming a broad coalition to pool resources for funding shared advocacy goals.
+5% lượng cung hiện tại của L3X, tôken quản trị không-chuyển-nhượng của LeXpunK&nbsp;Army, sẽ được phát miễn phí ("airdrop") cho chủ đồng YFI ủng hộ đề xuất này, từ đó đem lại kết quả khảo sát ý kiến một cách trực tiếp nhất từ cộng đồng Yearn về các vấn đề pháp lý liên quan. LeXpunK sẽ có kế hoạch tiếp tục phân phát tôken trong tương lai, tương xứng với sự đóng góp của những cộng đồng lập trình-phát triển khác, với mục đích tạo ra một liên minh lớn cùng tập hợp nguồn lực cho những mục tiêu vận động hành lang chung.
 
-Comments from U.S. representatives such as Gary Gensler, chairman of SEC, have been incredibly worrying for the future of DeFi, and LeXpunK_DAO aims to alleviate the concerns that regulators may have via campaigns, raids, and other methods clearly laid out in the proposal.
+Bình luận của một số đại biểu Hoa Kỳ như Gary&nbsp;Gensler—chủ tịch SEC (Ủy ban Chứng khoán và Giao dịch Mỹ)—gióng lên hồi chuông cảnh tỉnh về tương lai DeFi, và LeXpunK_DAO muốn xoa dịu mọi quan ngại ở các cơ quan lập-hành pháp thông qua nhiều chiến dịch vận động, phản bác, đàm phán v.v... như đã nêu rõ trong đề xuất.
 
-Read the full proposal on Yearn's forum [here](https://gov.yearn.finance/t/yip-63-fund-builder-first-legal-activism-dao/11280).
+Đọc toàn bộ đề xuất trên diễn đàn của Yearn [tại đây](https://gov.yearn.finance/t/yip-63-fund-builder-first-legal-activism-dao/11280).
 
-The YIP was approved. You can see results [here](https://gov.yearn.finance/t/proposal-fund-builder-first-legal-activism-dao/11280).
+YIP này đã được duyệt. Bạn có thể xem kết quả [tại đây](https://gov.yearn.finance/t/proposal-fund-builder-first-legal-activism-dao/11280).
 
-## **Alchemix Migrates to Yearn v2**
+## **Alchemix Di chuyển sang Yearn v2**
 
 ![](image3.jpg)
 
-Alchemix has successfully migrated to the latest yvDAI. The small spike on the graph is $400m moving from the v1 vaults to the v2 vaults. We are proud to be the top yield backend for DeFi.
+Alchemix đã di chuyển thành công sang yvDAI mới nhất. Gợn sóng "nhỏ" trên biểu đồ là 400 triệu đô-la Mỹ từ các kho bạc (vault) v1 sang v2. Chúng tôi tự hào là giao thức nền (hậu trường) mang lại lãi suất hàng đầu DeFi.
 
-Yearn has experienced exponential growth in the past few months, and some of this can be attributed to our partners such as Alchemix using Yearn as vault infrastructure. We expect this growth to continue, as our vaults provide some of the best risk-adjusted returns in DeFi, while also being the most simple. Let Yearn do the hard work for you and continuously compound your funds.
+Yearn đã tăng trưởng chóng mặt trong vài tháng qua, một phần nhờ những đối tác như Alchemix sử dụng Yearn làm cơ sở hạ tầng. Chúng tôi kỳ vọng tiếp tục duy trì đà tăng trưởng này với những kho bạc mang lại thu nhập cao, đỡ-rủi-ro mà lại đơn giản nhất DeFi. Hãy để Yearn cáng đáng công việc phức tạp đó và không ngừng "lãi kép" cho bạn.
 
-Check out the vaults [here](https://yearn.finance/vaults).
+Xem ngay các Kho bạc (Vault) [tại đây](https://yearn.finance/vaults).
 
-## **YFI Added To Compound Finance**
+## **YFI Chính thức Xuất hiện trong Compound.Finance**
 
 ![](image4.jpg)
 
-YFI has been successfully added to Compound Finance as a market. Currently, it has a zero collateral factor (initially), the same interest rate model (as COMP/LINK), and a reserve factor of 25% for each market (which is standard). In the near future, collateral factors will be increased and users will be able to supply YFI on Compound and borrow coins with YFI collateral. This will enable Yearn strategists to possibly create a YFI farming strategy similar to a current strategy implemented for the YFI vault that utilizes MakerDAO. Thus, users may receive more net yield thanks to this integration, which will generally improve returns. Read more about the MakerDAO strategy [here](https://yearn.fi/invest/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1).
+YFI đã chính thức trở thành một thị trường ở Compound.Finance. Hiện tại, hệ số thế chấp là 0 (ban đầu), cùng mô hình lãi suất (như COMP/LINK) và hệ số dự trữ 25% cho mỗi thị trường (theo chuẩn phổ biến). Trong tương lai gần, hệ số thế chấp sẽ tăng lên, người dùng có thể cung cấp YFI trên Compound và vay tiền/coin bằng YFI thế chấp. Điều này sẽ giúp các chiến lược gia Yearn có khả năng tạo ra một chiến lược "cày" YFI tương tự như bản hiện tại trong kho bạc đang tận dụng MakerDAO. Kết quả, người dùng có cơ hội nhận thêm lãi suất. Đọc thêm về chiến lược MakerDAO [tại đây](https://yearn.fi/invest/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1).
 
-Lend and borrow YFI [here](https://app.compound.finance/).
+Cho vay và mượn YFI [tại đây](https://app.compound.finance/).
 
-## **Swap Between Yearn Vaults In One Transaction**
+## **Chuyển đổi giữa các Kho bạc (Vault) của Yearn Với-Chỉ-Một-Giao-Dịch**
 
-Thanks to some amazing work by pandabuild, TBouder, and Ivan, Bowswap leverages Curve metapools and in-built slippage protection to allow you to swap your vault tokens to ones with higher yield without having to withdraw.
+Nhờ công sức tuyệt vời của pandabuild, TBouder và Ivan, Bowswap tận dụng các bể tổng hợp (metapool) của Curve và tính năng chống trượt giá tích-hợp-sẵn, giúp bạn chuyển đổi tôken từ kho bạc hiện tại của mình sang tôken kho khác có lãi suất cao hơn mà không cần rút.
 
-Use this new swap feature [here](https://bowswap.finance/).
+Sử dụng tính năng giao dịch mới này [tại đây](https://bowswap.finance/).
 
-## **Vaults At Yearn**
+## **Kho bạc (Vault) tại Yearn**
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Bạn có thể đọc mô tả chi tiết các chiến lược ở mọi yVault đang hoạt động [tại đây](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-## **Ecosystem News**
+## **Tin tức trong Hệ Sinh thái**
 
-[Element Finance releases fixed yield on USDC, relying on Yearn for its backend](https://twitter.com/element_fi/status/1422934199284215810?s=20)
+[Element Finance phát hành lãi suất cố định cho USDC, dựa trên nền tảng Yearn](https://twitter.com/element_fi/status/1422934199284215810?s=20)
 
-[Check out Banteg on the cover of Fortune Magazine](https://twitter.com/FortuneMagazine/status/1420803860336152577)
+[Xem Banteg xuất hiện trên bìa Tạp chí Fortune](https://twitter.com/FortuneMagazine/status/1420803860336152577)
 
-[View the rarity table for The Blue Pill NFTs](https://github.com/banteg/blue-pill#rarity-table)
+[Xem bảng độ hiếm của các NFT "Viên Thuốc Xanh"](https://github.com/banteg/blue-pill#rarity-table)
 
-[Flipside Crypto launches bounties for Yearn](https://twitter.com/BmurrayFlipside/status/1421147576674422788)
+[Flipside Crypto phát hành khoản thưởng cho Yearn](https://twitter.com/BmurrayFlipside/status/1421147576674422788)
 
-[Cozy Finance adjusts Yearn USDC coverage market](https://twitter.com/cozyfinance/status/1422226784674664453)
+[Cozy Finance điều chỉnh phạm vi thị trường Yearn USDC](https://twitter.com/cozyfinance/status/1422226784674664453)
 
-[Yearn crvTBTC market has gone live on Cozy](https://twitter.com/cozyfinance/status/1422633897490223107)
+[Thị trường Yearn crvTBTC chính thức "lên kệ" ở Cozy](https://twitter.com/cozyfinance/status/1422633897490223107)
 
-[Anna Rose and Tarun Chitra from the Zero Knowledge Podcast chat with Facu Ameal and tracheopteryx about Yearn](https://www.zeroknowledge.fm/192)
+[Anna Rose và Tarun Chitra từ Podcast "Zero Knowledge" có buổi trò chuyện với Facu Ameal và tracheopteryx về Yearn](https://www.zeroknowledge.fm/192)
 
-[Check out the new Keep3r twitter](https://twitter.com/thekeep3r)
+["Xông đất" tài khoản Twitter mới của Keep3r](https://twitter.com/thekeep3r)
