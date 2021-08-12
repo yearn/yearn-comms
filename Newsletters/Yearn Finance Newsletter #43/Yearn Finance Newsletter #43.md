@@ -2,73 +2,74 @@
 
 ![](image1.jpg)
 
-Welcome to the 43rd edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you're interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Bem-vindo à 43ª edição do Yearn Finance Newsletter. Nosso objetivo com este boletim é manter a comunidade da Yearn e a comunidade cripto em geral informadas sobre as notícias mais recentes, incluindo lançamentos de produtos, mudanças de governança e atualizações do ecossistema. Se você estiver interessado em aprender mais sobre Yearn Finance, siga nossas contas oficiais [Twitter] (https://twitter.com/iearnfinance) e [Medium] (https://medium.com/iearn).
 
-## **Summary**
+## **Resumo**
 
-- YIP-63: Fund Builder-First Legal Activism DAO
-- Alchemix Migrates to Yearn v2
-- YFI Added To Compound Finance
-- Swap Between Yearn Vaults In One Transaction
-- Vaults at Yearn
-- Ecosystem News
+- YIP-63: Criador de fundos - Primeiro DAO para ativismo legal
+- Alchemix migra para Yearn v2
+- YFI adicionado a Compound Finance
+- Troca entre Yearn Vaults em uma transação
+- Vaults na Yearn
+- Notícias do Ecossistema
 
-## **YIP-63: Fund Builder-First Legal Activism DAO**
+## **YIP-63: Criador de fundos - Primeiro DAO para ativismo legal**
 
 ![](image2.jpg)
 
-Amidst intensifying regulatory scrutiny of DeFi, it has been proposed that the LeXpunK_DAO should be dedicated to legal advocacy for yearn and other builder-centric DeFi communities. The LeXpunK_DAO will be governed by builders from contributing communities (including yearn) and practicing lawyers from the LeXpunK Army 146.
+Em meio à intensificação do escrutínio regulatório sobre o DeFi, foi proposto que o LeXpunK_DAO deveria ser dedicado à defesa legal de comunidades DeFi e outras comunidades centradas em construtores. O LeXpunK_DAO será administrado por construtores de comunidades contribuintes (incluindo yearn) e advogados praticantes do LeXpunK Army 146.
 
-5% of the current supply of L3X, the non-transferable governance token of the LeXpunK Army, will be airdropped to YFI holders who support this proposal, in order to enable direct sentiment polling on relevant legal issues from the Yearn community. LeXpunK will effect additional airdrops from time to time, proportionally in line with the relative contributions of other builder communities, with the goal of forming a broad coalition to pool resources for funding shared advocacy goals.
+5% do fornecimento atual de L3X, o token de governança intransferível do LeXpunK Army, será enviado para os titulares de YFI que apóiam esta proposta, a fim de permitir uma pesquisa direta de opinião sobre questões jurídicas relevantes da comunidade Yearn. LeXpunK efetuará airdrops adicionais de tempos em tempos, proporcionalmente em linha com as contribuições relativas de outras comunidades de construtores, com o objetivo de formar uma ampla coalizão para reunir recursos para financiar objetivos de advocacia compartilhados.
 
-Comments from U.S. representatives such as Gary Gensler, chairman of SEC, have been incredibly worrying for the future of DeFi, and LeXpunK_DAO aims to alleviate the concerns that regulators may have via campaigns, raids, and other methods clearly laid out in the proposal.
+Comentários de representantes dos EUA como Gary Gensler, presidente da SEC, têm sido extremamente preocupantes para o futuro do DeFi, e LeXpunK_DAO visa aliviar as preocupações que os reguladores podem ter por meio de campanhas, conscientização e outros métodos claramente definidos na proposta.
 
-Read the full proposal on Yearn's forum [here](https://gov.yearn.finance/t/yip-63-fund-builder-first-legal-activism-dao/11280).
+Leia a proposta completa no fórum de Yearn [aqui] (https://gov.yearn.finance/t/yip-63-fund-builder-first-legal-activism-dao/11280).
 
-The YIP was approved. You can see results [here](https://gov.yearn.finance/t/proposal-fund-builder-first-legal-activism-dao/11280).
+O YIP foi aprovado. Você pode ver os resultados [aqui] (https://gov.yearn.finance/t/proposal-fund-builder-first-legal-activism-dao/11280).
 
-## **Alchemix Migrates to Yearn v2**
+## **Alchemix migra para Yearn v2**
 
 ![](image3.jpg)
 
-Alchemix has successfully migrated to the latest yvDAI. The small spike on the graph is $400m moving from the v1 vaults to the v2 vaults. We are proud to be the top yield backend for DeFi.
+Alchemix migrou com sucesso para o yvDAI mais recente. O pequeno pico no gráfico é de $ 400 milhões passando dos cofres v1 para os cofres v2. Estamos orgulhosos de ser o backend de melhor rendimento da DeFi.
 
-Yearn has experienced exponential growth in the past few months, and some of this can be attributed to our partners such as Alchemix using Yearn as vault infrastructure. We expect this growth to continue, as our vaults provide some of the best risk-adjusted returns in DeFi, while also being the most simple. Let Yearn do the hard work for you and continuously compound your funds.
+Yearn experimentou um crescimento exponencial nos últimos meses, e parte disso pode ser atribuído a nossos parceiros, como a Alchemix, usando Yearn como infraestrutura de vault. Esperamos que esse crescimento continue, já que nossos vaults fornecem alguns dos melhores retornos ajustados ao risco no DeFi, ao mesmo tempo em que são os mais simples. Deixe Yearn fazer o trabalho árduo para você e continuamente compor seus fundos.
 
-Check out the vaults [here](https://yearn.finance/vaults).
+Confira os vaults [aqui] (https://yearn.finance/vaults).
 
-## **YFI Added To Compound Finance**
+## **YFI adicionado a Compound Finance**
 
 ![](image4.jpg)
 
-YFI has been successfully added to Compound Finance as a market. Currently, it has a zero collateral factor (initially), the same interest rate model (as COMP/LINK), and a reserve factor of 25% for each market (which is standard). In the near future, collateral factors will be increased and users will be able to supply YFI on Compound and borrow coins with YFI collateral. This will enable Yearn strategists to possibly create a YFI farming strategy similar to a current strategy implemented for the YFI vault that utilizes MakerDAO. Thus, users may receive more net yield thanks to this integration, which will generally improve returns. Read more about the MakerDAO strategy [here](https://yearn.fi/invest/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1).
+YFI foi adicionado com sucesso ao Compound Finance como um mercado. Atualmente, ele possui um fator de garantia zero (inicialmente), o mesmo modelo de taxa de juros (como COMP / LINK) e um fator de reserva de 25% para cada mercado (o que é o padrão). Em um futuro próximo, os fatores de garantia serão aumentados e os usuários poderão fornecer YFI na Compound e tomar emprestado outras moedas com essa garantia. Isso permitirá que os estrategistas da Yearn criem uma estratégia de farm de YFI semelhante a uma estratégia atual implementada para o vault YFI que utiliza o MakerDAO. Assim, os usuários podem receber mais rendimento líquido graças a essa integração, o que geralmente melhora os retornos. Leia mais sobre a estratégia MakerDAO [aqui] (https://yearn.fi/invest/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1).
 
-Lend and borrow YFI [here](https://app.compound.finance/).
+Empreste e tome emprestado o YFI [aqui] (https://app.compound.finance/).
 
-## **Swap Between Yearn Vaults In One Transaction**
+## **Troca entre Yearn Vaults em uma transação**
 
-Thanks to some amazing work by pandabuild, TBouder, and Ivan, Bowswap leverages Curve metapools and in-built slippage protection to allow you to swap your vault tokens to ones with higher yield without having to withdraw.
+Graças a um trabalho incrível de pandabuild, TBouder e Ivan, o Bowswap aproveita os metapools Curve e a proteção contra slippage embutida para permitir que você troque seus tokens de vault por aqueles com maior rendimento, sem ter que sacá-los.
 
-Use this new swap feature [here](https://bowswap.finance/).
+Use este novo recurso de troca [aqui] (https://bowswap.finance/).
 
-## **Vaults At Yearn**
+## **Vaults na Yearn**
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Você pode ler uma descrição detalhada das estratégias para todos os nossos yVaults ativos [aqui] (https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-## **Ecosystem News**
+## **Notícias do Ecossistema**
 
-[Element Finance releases fixed yield on USDC, relying on Yearn for its backend](https://twitter.com/element_fi/status/1422934199284215810?s=20)
+[Element Finance lança rendimento fixo em USDC, contando com Yearn para seu backend] (https://twitter.com/element_fi/status/1422934199284215810?s=20)
 
-[Check out Banteg on the cover of Fortune Magazine](https://twitter.com/FortuneMagazine/status/1420803860336152577)
+[Confira Banteg na capa da revista Fortune] (https://twitter.com/FortuneMagazine/status/1420803860336152577)
 
-[View the rarity table for The Blue Pill NFTs](https://github.com/banteg/blue-pill#rarity-table)
+[Veja a tabela de raridade para The Blue Pill NFTs] (https://github.com/banteg/blue-pill#rarity-table)
 
-[Flipside Crypto launches bounties for Yearn](https://twitter.com/BmurrayFlipside/status/1421147576674422788)
+[Flipside Crypto lança recompensas para Yearn] (https://twitter.com/BmurrayFlipside/status/1421147576674422788)
 
-[Cozy Finance adjusts Yearn USDC coverage market](https://twitter.com/cozyfinance/status/1422226784674664453)
+[Cozy Finance ajusta a cobertura de mercado do Yearn USDC] (https://twitter.com/cozyfinance/status/1422226784674664453)
 
-[Yearn crvTBTC market has gone live on Cozy](https://twitter.com/cozyfinance/status/1422633897490223107)
+[O mercado yearn crvTBTC entrou no ar em Cozy] (https://twitter.com/cozyfinance/status/1422633897490223107)
 
-[Anna Rose and Tarun Chitra from the Zero Knowledge Podcast chat with Facu Ameal and tracheopteryx about Yearn](https://www.zeroknowledge.fm/192)
+[Bate-papo de Anna Rose e Tarun Chitra do Zero Knowledge Podcast com Facu Ameal e tracheopteryx sobre Yearn] (https://www.zeroknowledge.fm/192)
 
-[Check out the new Keep3r twitter](https://twitter.com/thekeep3r)
+[Confira o novo twitter do Keep3r] (https://twitter.com/thekeep3r)
+
