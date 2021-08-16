@@ -1,2 +1,2 @@
 # yearn-comms
-This is a collection of communication, announcements, tweets, newsletters, and other articles about yearn. 
+Bu, yearn hakkında iletişim, duyurular, tweet'ler, haber bültenleri ve diğer makalelerin bir derlemesidir. 
