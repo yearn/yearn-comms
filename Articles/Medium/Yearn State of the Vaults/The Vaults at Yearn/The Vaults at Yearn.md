@@ -1,207 +1,208 @@
-# The Vaults at Yearn
+# Os Vaults de Yearn
 
-Updated August 9th, 2021
+Atualizado em 9 de agosto de 2021
 
 ![](header.gif)
 
-## Overview
+## Visão geral
 
-Welcome to The Vaults at Yearn, where you can find in-depth information about how Yearn's yVaults operate and the actions (strategies) these vaults perform. This article will maintain a one-stop location for all yVault descriptions. The newest yVaults and strategies are denoted with ✨.
+Bem-vindo ao Vaults na Yearn, onde você pode encontrar informações detalhadas sobre como os yVaults de Yearn operam e as ações (estratégias) que esses vaults executam. Este artigo manterá num local único todas as descrições dos yVaults. Os yVaults e estratégias mais recentes são denotados com ✨.
 
-Below you will find 6 sections:
+Abaixo você encontrará 6 seções:
 
-- Yearn and Curve 🔵🤝🌈
-- v2 Vaults 🏛️
-- v2 Curve Finance Based Vaults 🌈
-- v1 Curve Finance Based Vaults 🌈
-- v1 Vaults 🏦
-- Retired Vaults 💤
+- Yearn e Curve 🔵🤝🌈
+- Vaults v2 🏛️
+- Vaults v2 baseados no Curve Finance 🌈
+- Vaults v1 baseados no Curve Finance 🌈
+- Vaults v1 🏦
+- Vaults Aposentados 💤
 
-## Yearn and Curve Synergy 🔵🤝🌈
+- Sinergia entre Yearn e Curve 🔵🤝🌈
 
-One of the critical components of Yearn's infrastructure includes a collaborative relationship with [Curve.fi](http://curve.fi/). Several Yearn vaults provide liquidity into Curve pools and stake the liquidity provider (LP) tokens into the respective gauges, earning CRV rewards. Yearn locks 10% of all CRV rewards earned into the yveCRV-DAO ("Backscratcher") to obtain an additional amount of CRV. In the strategy descriptions below, vaults that are boosted are indicated with a 🚀.
+Um dos componentes críticos da infraestrutura de Yearn inclui um relacionamento colaborativo com [Curve.fi] (http://curve.fi/). Vários vaults Yearn fornecem liquidez para pools Curve e fazem stake dos tokens de provedor de liquidez (LP) nos respectivos gauges, ganhando incentivos em forma do token CRV. Yearn trava 10% de todas as recompensas CRV ganhas no yveCRV-DAO (“Backscratcher”) para obter uma quantia adicional de CRV. Nas descrições de estratégia abaixo, os vaults que estão incentivados são indicadas com um 🚀.
 
-For a deeper understanding, refer to the _Understanding Curve Boost Multipliers_ section near the end of this document.
+Para uma compreensão mais profunda, consulte a seção _Compreendendo os multiplicadores de incentivo do Curve_ próximo ao final deste documento.
 
-Furthermore, the remaining 90% of the CRV earned are swapped into the respective LP tokens, and re-deposited into the vault. The only exception is the yvUSDN3Crv vault that locks 50% of the CRV earned into the Backscratcher vault and swaps the remaining 50%.
+Além disso, os 90% restantes do CRV recebidos são trocados pelos respectivos tokens LP, e depositados novamente no vault. A única exceção é o vault yvUSDN3Crv que trava 50% do CRV ganho no vault Backscratcher e vende os restantes 50%.
+
 
 ![](1.png)
 
-### veCRV-DAO yVault ([yveCRV-DAO](https://etherscan.io/address/0xc5bDdf9843308380375a611c18B50Fb9341f502A))
+### veCRV-DAO yVault ([yveCRV-DAO] (https://etherscan.io/address/0xc5bDdf9843308380375a611c18B50Fb9341f502A))
 
-_AKA-Backscratcher_ [📺](https://youtu.be/kJEAe2Rlh70)  
-This vault converts your CRV into yveCRV, earning you a continuous share of Curve fees which are boosted over what you earn staking at Curve. The more CRV converted, the greater your weekly rewards. Every Friday, these can be claimed from the vault as 3Crv (Curve's 3pool LP token).
+_AKA-Backscratcher_ [📺] (https://youtu.be/kJEAe2Rlh70) 
+Este vault converte seu CRV em yveCRV, obtendo para você uma parte contínua das taxas da Curve, que são aumentadas sobre o que você ganha fazendo stake na Curve. Quanto mais CRV for convertido, maiores serão suas recompensas semanais. Todas as sextas-feiras, eles podem ser reivindicados do cofre como 3Crv (token LP do 3pool da Curve).
 
-Yearn, itself, deposits 10% of all CRV earned into this vault and gives its 3crv rewards to vault token holders which is where the boosted weekly rewards come from.
+Yearn, por si só, deposita 10% de todos os CRV ganhos neste vault e dá suas recompensas de 3crv aos detentores de tokens do vault, sendo daí de onde vêm as recompensas semanais incentivadas.
 
-Depositing is non-reversible: You can only convert CRV into yveCRV, as the CRV is perpetually staked in Curve's voting escrow. All vaults send 10% of earned CRV to this vault to sustain boost levels.
+O depósito é irreversível: Você só pode converter CRV em yveCRV, já que o CRV está perpetuamente em stake no escrow de voto da Curve. Todos os vaults enviam 10% do CRV ganho para este vault para manter os níveis de incentivo.
 
-## v2 Vaults 🏛️
+## Vaults v2 🏛️
 
-v2 yVaults are able to employ multiple strategies per vault (up to 20 strategies simultaneously), unlike v1 yVaults that are only able to employ one strategy per vault. [📺](https://youtu.be/ZES91i-hNAM)
+Os v2 yVaults são capazes de empregar várias estratégias por cofre (até 20 estratégias simultaneamente), ao contrário dos v1 yVaults que só são capazes de empregar uma estratégia por cofre. [📺] (https://youtu.be/ZES91i-hNAM)
 
 ![](2.png)
 
 ### Yearn Compounding veCRV yVault ([yvBOOST](https://etherscan.io/address/0x9d409a0A012CFbA9B15F6D4B36Ac57A46966Ab9a))
 
-[StrategyYearnVECRV](https://etherscan.io/address/0x2923a58c1831205C854DBEa001809B194FDb3Fa5) [📺](https://youtu.be/Ik6GdGYO_x8)  
-This vault accepts [yveCRV-DAO](https://etherscan.io/address/0xc5bDdf9843308380375a611c18B50Fb9341f502A) tokens, which grant you a continuous share of Curve's trading fees (claimed weekly as [3Crv](https://etherscan.io/address/0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490), Curve's 3pool LP token). Rewards are harvested, swapped for more yveCRV-DAO (either via market-buy or mint, depending on which is most efficient at time of harvest), and deposited back into the vault.
+[StrategyYearnVECRV] (https://etherscan.io/address/0x2923a58c1831205C854DBEa001809B194FDb3Fa5) [📺] (https://youtu.be/Ik6GdGYO_x8) 
+Este vault aceita tokens [yveCRV-DAO] (https://etherscan.io/address/0xc5bDdf9843308380375a611c18B50Fb9341f502A), que concedem a você uma parte contínua das taxas de negociação da Curve (reivindicadas semanalmente como [3Crv] (https://etherscan.io/address/0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490), token LP de 3 pools da Curve). As recompensas são colhidas, trocadas por mais yveCRV-DAO (via compra no mercado ou emissão, dependendo do quê é mais eficiente na época da colheita) e depositadas de volta no vault.
 
 ![](3.png)
 
-### v2 YFI yVault ([yvYFI](https://etherscan.io/address/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1#readContract))
+### v2 YFI yVault ([yvYFI] (https://etherscan.io/address/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1#readContract))
 
-[StrategyLenderYieldOptimiser](https://etherscan.io/address/0x6a97FC93e39b3f792f1fD6e01565ff412B002D20#code)  
-This strategy lends YFI tokens on various lending platforms such as CREAM and AAVE to gain yield.
+[StrategyLenderYieldOptimiser] (https://etherscan.io/address/0x6a97FC93e39b3f792f1fD6e01565ff412B002D20#code) 
+Esta estratégia empresta tokens YFI em várias plataformas de empréstimo, como CREAM e AAVE, para obter rendimento.
 
-[StrategyMakerYFIDAIDelegate](https://etherscan.io/address/0x4730D10703155Ef4a448B17b0eaf3468fD4fb02d)  
-Locks YFI at MakerDAO via YFI-A to mint DAI. The newly minted DAI is then deposited into the v2 DAI yVault to earn yield.
+[StrategyMakerYFIDAIDelegate] (https://etherscan.io/address/0x4730D10703155Ef4a448B17b0eaf3468fD4fb02d) 
+Trava YFI na MakerDAO via YFI-A para criar DAI. O DAI recém-criado é então depositado no v2 DAI yVault para obter rendimento.
 
-✨ [MakerYFI-DAIv0.4.3Delegate](https://etherscan.io/address/0x7A5D88510cD49E878ADe26E0f08bF374b5eCAF49)  
-Locks YFI at MakerDAO via YFI-A to mint DAI. The newly minted DAI is then deposited into the v2 DAI v0.4.3 yVault to earn yield.
+✨ [MakerYFI-DAIv0.4.3Delegate] (https://etherscan.io/address/0x7A5D88510cD49E878ADe26E0f08bF374b5eCAF49) 
+Trava YFI na MakerDAO via YFI-A para criar DAI. O DAI recém-criado é então depositado no DAI v2 v0.4.3 yVault para obter rendimento.
 
 ![](4.png)
 
-### v2 SNX yVault ([yvSNX](https://etherscan.io/address/0xF29AE508698bDeF169B89834F76704C3B205aedf#code))
+### v2 SNX yVault ([yvSNX] (https://etherscan.io/address/0xF29AE508698bDeF169B89834F76704C3B205aedf#code))
 
-[StrategySynthetixSusdMinter](https://etherscan.io/address/0xc9a62e09834cEdCFF8c136f33d0Ae3406aea66bD)
-Stakes SNX at Synthetix to mint sUSD. **This locks rewards on staked SNX for 1 year**. The newly minted sUSD is then deposited into the v2 sUSD yVault to earn yield. Yield from sUSD and rewards from weekly fees plus vested rewards (when claimable) are swapped for more SNX and re-deposited into the vault.
+[StrategySynthetixSusdMinter] (https://etherscan.io/address/0xc9a62e09834cEdCFF8c136f33d0Ae3406aea66bD)
+Faz stake de SNX na Synthetix para criar sUSD. **Isso gera recompensas pelo SNX em stake por 1 ano**. O uUSD recém-criado é então depositado no v2 sUSD yVault para obter rendimento. O rendimento de sUSD e recompensas de taxas semanais, mais recompensas com trava de tempo (quando liberadas) são negociadas por mais SNX e depositadas novamente no vault.
 
-✨ [StrategyUniverseStaking](https://etherscan.io/address/0x29d23b73Dd0ed729F516bb55622765AF102f0e33)  
-Supplies SNX on universe.xyz to earn XYZ. Rewards are harvested, sold for more SNX, and re-deposited into the vault.
+✨ [StrategyUniverseStaking] (https://etherscan.io/address/0x29d23b73Dd0ed729F516bb55622765AF102f0e33) 
+Fornece SNX em universe.xyz para ganhar XYZ. As recompensas são colhidas, vendidas por mais SNX e depositadas novamente no vault.
 
 ![](5.png)
 
-### v2 RAI yVault ([yvRAI](https://etherscan.io/address/0x873fB544277FD7b977B196a826459a69E27eA4ea))
+### v2 RAI yVault ([yvRAI] (https://etherscan.io/address/0x873fB544277FD7b977B196a826459a69E27eA4ea))
 
-[StrategyIdleidleRAIYield](https://etherscan.io/address/0x5D411D2cde10e138d68517c42bE2808C90c22026) 🚀  
-Supplies RAI on Idle.finance to earn IDLE and RAI. Rewards are harvested, sold for more RAI, and re-deposited into the vault.
+[StrategyIdleidleRAIYield] (https://etherscan.io/address/0x5D411D2cde10e138d68517c42bE2808C90c22026) 🚀 
+Fornece RAI em Idle.finance para ganhar IDLE e RAI. As recompensas são colhidas, vendidas por mais RAI e depositadas novamente no vault.
 
 ![](6.png)
 
-### v2 LINK yVault ([yvLINK](https://etherscan.io/address/0x671a912C10bba0CFA74Cfc2d6Fba9BA1ed9530B2)) [📺](https://youtu.be/LT51QWfAMv8)
+### v2 LINK yVault ([yvLINK] (https://etherscan.io/address/0x671a912C10bba0CFA74Cfc2d6Fba9BA1ed9530B2)) [📺] (https://youtu.be/LT51QWfAMv8)
 
-[Vesper LINK](https://etherscan.io/address/0x8198815871a45A5a883d083B7B105927eb9919D8)  
-Supplies LINK to [Vesper Finance](https://vesper.finance/) LINK Pool to earn VSP. Rewards are harvested, sold for more LINK, and re-deposited into the vault.
+[Vesper LINK] (https://etherscan.io/address/0x8198815871a45A5a883d083B7B105927eb9919D8) 
+Fornece LINK para [Vesper Finance] (https://vesper.finance/) LINK Pool para ganhar VSP. As recompensas são colhidas, vendidas por mais LINK e depositadas novamente no vault.
 
-[AaveLenderLINKBorrowerSUSD](https://etherscan.io/address/0x906f0a6f23e7160eB0927B0903ab80b5E3f3950D)  
-Lends LINK on AAVE to gain interest and accumulate staked AAVE as rewards. Also borrows sUSD which it then deposits into the sUSD yVault for yield. Rewards from vested AAVE and yvSUSD are harvested, sold for more LINK, and re-deposited into the vault.
+[AaveLenderLINKBorrowerSUSD] (https://etherscan.io/address/0x906f0a6f23e7160eB0927B0903ab80b5E3f3950D) 
+Empresta LINK no AAVE para ganhar juros e acumular AAVE em stake como recompensa. Também toma emprestado sUSD, que é então depositado no sUSD yVault para obter rendimento. Recompensas de AAVE em stake, e yvSUSD são colhidas, vendidas por mais LINK e depositadas novamente no vault.
 
-[StrategyMakerLINKDAIDelegate](https://etherscan.io/address/0x136fe75bfDf142a917C954F58577DB04ef6F294B)  
-Locks LINK at MakerDAO via LINK-A to mint DAI. The newly minted DAI is then deposited into the v2 DAI yVault to earn yield.
+[StrategyMakerLINKDAIDelegate] (https://etherscan.io/address/0x136fe75bfDf142a917C954F58577DB04ef6F294B) 
+Trava LINK no MakerDAO via LINK-A para criar DAI. O DAI recém-criado é então depositado no v2 DAI yVault para obter rendimento.
 
-✨ [StrategyUniverseStaking](https://etherscan.io/address/0xa2a182C5B5Ea1A3c90Cb5Bb718F9e62DBE052927)  
-Supplies LINK on universe.xyz to earn XYZ. Rewards are harvested, sold for more LINK, and re-deposited into the vault.
+✨ [StrategyUniverseStaking] (https://etherscan.io/address/0xa2a182C5B5Ea1A3c90Cb5Bb718F9e62DBE052927) 
+Fornece LINK em universe.xyz para ganhar XYZ. As recompensas são colhidas, vendidas por mais LINK e depositadas novamente no vault.
 
 ![](7.png)
 
-### v2 sUSD yVault ([yvsUSD](https://etherscan.io/address/0xa5cA62D95D24A4a350983D5B8ac4EB8638887396#code))
+### v2 sUSD yVault ([yvsUSD] (https://etherscan.io/address/0xa5cA62D95D24A4a350983D5B8ac4EB8638887396#code))
 
-[StrategyLenderYieldOptimiser](https://etherscan.io/address/0x215DeE632335829155Dcb62452c4878C48c1C884)  
-Lends sUSD on AAVE and Cream to gain interest and accumulate staked AAVE as rewards. When the staked AAVE unlocks the AAVE will be harvested, sold for more sUSD, and re-deposited into the vault.
+[StrategyLenderYieldOptimiser] (https://etherscan.io/address/0x215DeE632335829155Dcb62452c4878C48c1C884) 
+Empresta sUSD em AAVE e Cream para obter rendimento e acumular AAVE em stake como recompensa. Quando o AAVE em stake for desbloqueado, o AAVE será colhido, vendido por mais sUSD e depositado novamente no vault.
 
-[SingleSidedCrvsUSD](https://etherscan.io/address/0x74b3E5408B1c29E571BbFCd94B09D516A4d81f36) 🚀  
-Deposits sUSD to the SAAVE curve pool on curve.fi. Rewards are harvested, sold for more sUSD, and re-deposited into the vault.
+[SingleSidedCrvsUSD] (https://etherscan.io/address/0x74b3E5408B1c29E571BbFCd94B09D516A4d81f36) 🚀 
+Deposita sUSD para o pool SAAVE em curve.fi. As recompensas são colhidas, vendidas por mais sUSD e depositadas novamente no vault.
 
-[SingleSidedCrvsUSD](https://etherscan.io/address/0x95eA1643699F8DE347975F31CA8d03eCC507616c) 🚀  
-Deposits sUSD to the SUSDv2 curve pool on curve.fi. Rewards are harvested, sold for more sUSD, and re-deposited into the vault.
+[SingleSidedCrvsUSD] (https://etherscan.io/address/0x95eA1643699F8DE347975F31CA8d03eCC507616c) 🚀 
+Deposita sUSD no pool SUSDv2 em curve.fi. As recompensas são colhidas, vendidas por mais sUSD e depositadas novamente no vault.
 
 ![](8.png)
 
-### v2 1INCH yVault ([yv1INCH](https://etherscan.io/address/0xB8C3B7A2A618C552C23B1E4701109a9E756Bab67))
+### v2 1INCH yVault ([yv1INCH] (https://etherscan.io/address/0xB8C3B7A2A618C552C23B1E4701109a9E756Bab67))
 
-[StrategyLenderYieldOptimiser](https://etherscan.io/address/0x86eD4F77d40182b8686a25e125FB3f5a04203CaA)  
-Lends 1INCH tokens on C.R.E.A.M. to gain interest.
+[StrategyLenderYieldOptimiser] (https://etherscan.io/address/0x86eD4F77d40182b8686a25e125FB3f5a04203CaA) 
+Empresta tokens 1INCH no CREAM para obter rendimento.
 
-[Strategy1INCHGovernance](https://etherscan.io/address/0xB12F6A5776EDd2e923fD1Ce93041B2000A22dDc7)  
-Stakes 1INCH token on 1INCH DAO to collect governance rewards. Rewards are harvested and deposited back into the vault.
+[Strategy1INCHGovernance] (https://etherscan.io/address/0xB12F6A5776EDd2e923fD1Ce93041B2000A22dDc7) 
+Faz stake do token 1INCH em 1INCH DAO para coletar recompensas de governança. As recompensas são colhidas e depositadas de volta no vault.
 
 ![](9.png)
 
-### v2 WETH yVault ([yvWETH](https://etherscan.io/address/0xa258C4606Ca8206D8aA700cE2143D7db854D168c))
+### v2 WETH yVault ([yvWETH] (https://etherscan.io/address/0xa258C4606Ca8206D8aA700cE2143D7db854D168c))
 
-_Any ETH deposited is wrapped into WETH then deposited._
+_Qualquer ETH depositado é envelopado como WETH e depois depositado._
 
-[StrategyLenderYieldOptimiser](https://etherscan.io/address/0xec2DB4A1Ad431CC3b102059FA91Ba643620F0826)  
-Lends WETH on Alpha Homora to gain interest.
+[StrategyLenderYieldOptimiser] (https://etherscan.io/address/0xec2DB4A1Ad431CC3b102059FA91Ba643620F0826) 
+Empresta WETH em Alpha Homora para obter rendimento.
 
-[StrategysteCurveWETHSingleSided](https://etherscan.io/address/0xC5e385f7Dad49F230AbD53e21b06aA0fE8dA782D) 🚀  
-Supplies WETH to the liquidity pool on Curve [here](https://www.curve.fi/steth/deposit) to obtain [steCRV](https://etherscan.io/address/0x06325440D014e39736583c165C2963BA99fAf14E) tokens which it then puts into the v2 Curve stETH Pool yVault ([yvsteCRV](https://etherscan.io/address/0xdcd90c7f6324cfa40d7169ef80b12031770b4325)) to gain yield.
+[StrategysteCurveWETHSingleSided] (https://etherscan.io/address/0xC5e385f7Dad49F230AbD53e21b06aA0fE8dA782D) 🚀 
+Fornece WETH para o pool de liquidez na Curve [aqui] (https://www.curve.fi/steth/deposit) para obter [steCRV] (https://etherscan.io/address/0x06325440D014e39736583c165C2963BA99fAf14E) tokens que ele então coloca no v2 Curve stETH Pool yVault ([yvsteCRV] (https://etherscan.io/address/0xdcd90c7f6324cfa40d7169ef80b12031770b4325)) para obter rendimento.
 
-[StrategyeCurveWETHSingleSided](https://etherscan.io/address/0x37770F958447fFa1571fc9624BFB3d673161f37F) 🚀  
-Supplies WETH to the liquidity pool on Curve [here](https://curve.fi/seth/deposit) to obtain [eCRV](https://etherscan.io/address/0xA3D87FffcE63B53E0d54fAa1cc983B7eB0b74A9c) tokens which it then puts into the v2 Curve sETH Pool yVault ([yveCRV](https://etherscan.io/address/0x986b4AFF588a109c09B50A03f42E4110E29D353F)) to gain yield.
+[StrategyeCurveWETHSingleSided] (https://etherscan.io/address/0x37770F958447fFa1571fc9624BFB3d673161f37F) 🚀 
+Fornece WETH para o pool de liquidez na Curve [aqui] (https://curve.fi/seth/deposit) para obter [eCRV] (https://etherscan.io/address/0xA3D87FffcE63B53E0d54fAa1cc983B7eB0b74A9c) tokens que ele então coloca no v2 Curve sETH Pool yVault ([yveCRV] (https://etherscan.io/address/0x986b4AFF588a109c09B50A03f42E4110E29D353F)) para obter rendimento.
 
-[AaveWETHLenderUSDTBorrower](https://etherscan.io/address/0xd28b508EA08f14A473a5F332631eA1972cFd7cC0)  
-Lends WETH on AAVE to gain interest and accumulate staked AAVE as rewards. Also borrows USDT which it then deposits into the USDT yVault for yield. Rewards from vested AAVE and yvUSDT are harvested, sold for more WETH, and re-deposited into the vault.
+[AaveWETHLenderUSDTBorrower] (https://etherscan.io/address/0xd28b508EA08f14A473a5F332631eA1972cFd7cC0) 
+Empresta WETH no AAVE para ganhar juros e acumular AAVE em stake como recompensa. Também toma emprestado USDT, que é então depositado no USDT yVault para obter rendimento. Recompensas de AAVE em stake, e yvUSDT são colhidas, vendidas por mais WETH e depositadas novamente no vault.
 
-[StrategyGenericLevCompFarmWeth](https://hackmd.io/zucTisw_RUOQCWFpZYfksg?view)  
-Supplies ETH on Compound and borrows an additional amount of ETH to maximize COMP earnings. Flashloans are used to obtain additional ETH from dYdX in order to gain additional leverage and boost the APY. Earned COMP is harvested and sold for more ETH and re-deposited into the vault.
+[StrategyGenericLevCompFarmWeth] (https://hackmd.io/zucTisw_RUOQCWFpZYfksg?view) 
+Fornece ETH no Compound e pega emprestado um montante adicional de ETH para maximizar os ganhos COMP. Os empréstimos instantâneos (flashloans) são usados para obter ETH adicional de dYdX para obter alavancagem adicional e impulsionar o APY. O COMP ganho é colhido e vendido por mais ETH, e depositado novamente no vault.
 
 ![](10.png)
 
-### v2 USDC yVault ([yvUSDC](https://etherscan.io/address/0x5f18c75abdae578b483e5f43f12a39cf75b973a9))
+### v2 USDC yVault ([yvUSDC] (https://etherscan.io/address/0x5f18c75abdae578b483e5f43f12a39cf75b973a9))
 
-[StrategyIdleUSDCYield](https://etherscan.io/address/0x414D8F5c21dAF33105eE6416bcdA99a50A47C0e5#code) [📺](https://youtu.be/BcxWAVdXx_U)  
-Supplies USDC on Idle.finance to earn COMP and IDLE. Rewards are harvested, sold for more USDC, and re-deposited into the vault.
+[StrategyIdleUSDCYield] (https://etherscan.io/address/0x414D8F5c21dAF33105eE6416bcdA99a50A47C0e5#code) [📺] (https://youtu.be/BcxWAVdXx_U) 
+Fornece USDC em Idle.finance para ganhar COMP e IDLE. As recompensas são colhidas, vendidas por mais USDC e depositadas novamente no vault.
 
-[StrategyAH2EarncyUSDC](https://etherscan.io/address/0x86Aa49bf28d03B1A4aBEb83872cFC13c89eB4beD#code)  
-Lends USDC on Alpha Homora v2 to generate interest.
+[StrategyAH2EarncyUSDC] (https://etherscan.io/address/0x86Aa49bf28d03B1A4aBEb83872cFC13c89eB4beD#code) 
+Empresta USDC no Alpha Homora v2 para gerar rendimento.
 
-[StrategyGenericLevCompFarm](https://etherscan.io/address/0x4d7d4485fd600c61d840ccbec328bfd76a050f87) [📺](https://www.youtu.be/jorporcLnCo&t)  
-Supplies USDC on Compound and borrows an additional amount of USDC to maximize COMP earnings. Flashloans are used to obtain additional USDC from dYdX in order to gain additional leverage and boost the APY. Earned COMP is harvested and sold for more USDC and re-deposited into the vault.
+[StrategyGenericLevCompFarm] (https://etherscan.io/address/0x4d7d4485fd600c61d840ccbec328bfd76a050f87) [📺] (https://www.youtu.be/jorporcLnCo&t) 
+Fornece USDC no Compound e pega emprestado um montante adicional de USDC para maximizar os ganhos COMP. Os empréstimos instantâneos (flashloans) são usados para obter USDC adicional de dYdX para obter alavancagem adicional e impulsionar o APY. O COMP ganho é colhido e vendido por mais USDC, e depositado novamente no vault.
 
-[SingleSidedCrvUSDC](https://etherscan.io/address/0x80af28cb1e44C44662F144475d7667C9C0aaB3C3) 🚀  
-Deposits USDC to a USDC curve pool on [curve.fi](http://curve.fi/), and switches to the most profitable curve pool.
+[SingleSidedCrvUSDC] (https://etherscan.io/address/0x80af28cb1e44C44662F144475d7667C9C0aaB3C3) 🚀 
+Deposita USDC em um pool de USDC em [curve.fi](http://curve.fi/),e o direciona para o pool mais lucrativo na Curve.
 
-[PoolTogether USD Coin](https://etherscan.io/address/0x387fCa8d7e2e09655b4F49548607B55C0580fC63)  
-Supplies USDC to the [PoolTogether](https://pooltogether.com/) protocol to earn POOL. Rewards are harvested, sold for more USDC, and deposited back into the vault. If it gets the prize of the week it will also be added to the vault.
+[PoolTogether USD Coin] (https://etherscan.io/address/0x387fCa8d7e2e09655b4F49548607B55C0580fC63) 
+Fornece USDC para o protocolo [PoolTogether] (https://pooltogether.com/) para ganhar POOL. As recompensas são colhidas, vendidas por mais USDC e depositadas novamente no vault. Se receber o prêmio da semana, também será adicionado ao vault.
 
-[StrategyRook USD Coin](https://etherscan.io/address/0x4140F350c1B67184fE3AaEa314d8C967F99EE8Cc)  
-Supplies USDC to KeeperDAO to earn ROOK. Rewards are harvested, sold for more USDC, and deposited back into the vault.
+[StrategyRook USD Coin] (https://etherscan.io/address/0x4140F350c1B67184fE3AaEa314d8C967F99EE8Cc) 
+Fornece USDC para KeeperDAO para ganhar ROOK. As recompensas são colhidas, vendidas por mais USDC e depositadas novamente no vault.
 
 ![](11.png)
 
-### v2 DAI yVault ([yvDAI](https://etherscan.io/address/0xdA816459F1AB5631232FE5e97a05BBBb94970c95))
+### v2 DAI yVault ([yvDAI] (https://etherscan.io/address/0xdA816459F1AB5631232FE5e97a05BBBb94970c95))
 
-[StrategyLenderYieldOptimiser](https://hackmd.io/zucTisw_RUOQCWFpZYfksg?view)  
-Lends DAI on AAVE to gain interest and accumulate staked AAVE as rewards. When the staked AAVE unlocks the AAVE will be harvested, sold for more DAI, and re-deposited into the vault.
+[StrategyLenderYieldOptimiser] (https://hackmd.io/zucTisw_RUOQCWFpZYfksg?view) 
+Empresta DAI em AAVE para obter rendimento e acumular AAVE em stake como recompensa. Quando o AAVE em stake for desbloqueado, o AAVE será colhido, vendido por mais DAI e depositado novamente no vault.
 
-[StrategyKashiMultiPairLender](https://hackmd.io/zucTisw_RUOQCWFpZYfksg?view)  
-Lends DAI on Sushi via Kashi to gain interest. Rewards are harvested, sold for more DAI, and deposited back into the vault.
+[StrategyKashiMultiPairLender] (https://hackmd.io/zucTisw_RUOQCWFpZYfksg?view) 
+Empresta DAI no Sushi via Kashi para ganhar rendimento. As recompensas são colhidas, vendidas por mais DAI e depositadas novamente no vault.
 
-[StrategyGenericLevCompFarm](https://hackmd.io/zucTisw_RUOQCWFpZYfksg?view)  
-Supplies DAI on Compound and borrows an additional amount of DAI to maximize COMP earnings. Flashloans are used to obtain additional DAI from dYdX in order to gain additional leverage and boost the APY. Earned COMP is harvested and sold for more DAI and re-deposited into the vault.
+[StrategyGenericLevCompFarm] (https://hackmd.io/zucTisw_RUOQCWFpZYfksg?view) 
+Fornece DAI no Compound e toma emprestado uma quantia adicional de DAI para maximizar os ganhos em COMP. Os empréstimos instantâneos (flashloans) são usados para obter DAI adicional de dYdX para obter alavancagem adicional e impulsionar o APY. O COMP ganho é colhido e vendido por mais DAI, e depositado novamente no vault.
 
-✨ [ssc dai ib](https://etherscan.io/address/0xa6D1C610B3000F143c18c75D84BaA0eC22681185)  
-Deposits DAI into the Iron Bank curve pool on [curve.fi](http://curve.fi/). Rewards are harvested, sold for more DAI, and re-deposited into the vault.
+✨ [ssc dai ib] (https://etherscan.io/address/0xa6D1C610B3000F143c18c75D84BaA0eC22681185) 
+Deposita DAI no pool curve do Iron Bank em [curve.fi] (http://curve.fi/). As recompensas são colhidas, vendidas por mais DAI e depositadas novamente no vault.
 
 ![](12.png)
 
-### v2 WBTC yVault ([yvWBTC](https://etherscan.io/address/0xA696a63cc78DfFa1a63E9E50587C197387FF6C7E))
+### v2 WBTC yVault ([yvWBTC] (https://etherscan.io/address/0xA696a63cc78DfFa1a63E9E50587C197387FF6C7E))
 
-[StrategyMakerWBTCDAIDelegate](https://etherscan.io/address/0x04A508664B053E0A08d5386303E649925CBF763c)  
-Locks wBTC at MakerDAO via WBTC-A to mint DAI. This newly minted DAI is then deposited into the v2 DAI yVault.
+[StrategyMakerWBTCDAIDelegate] (https://etherscan.io/address/0x04A508664B053E0A08d5386303E649925CBF763c) 
+Trava wBTC no MakerDAO via WBTC-A para emitir DAI. Este DAI recém- emitido é então depositado no v2 DAI yVault.
 
-[SingleSidedCrvWBTC](https://etherscan.io/address/0x40b04B3ed9845B8Be200Aa2D9C3eDC2bE0a5f01f) 🚀  
-Deposits wBTC to a BTC Curve Pool on [curve.fi](https://hackmd.io/zucTisw_RUOQCWFpZYfksg?view) and switches to the most profitable curve pool.
+[SingleSidedCrvWBTC] (https://etherscan.io/address/0x40b04B3ed9845B8Be200Aa2D9C3eDC2bE0a5f01f) 🚀 
+Deposita wBTC em um pool BTC em [curve.fi] (https://hackmd.io/zucTisw_RUOQCWFpZYfksg?view) e alterna para o pool Curve mais lucrativo.
 
-[yvWBTCStratMMV1](https://etherscan.io/address/0x53a65c8e238915c79a1e5C366Bc133162DBeE34f)  
-Supplies wBTC to [Mushroom Finance's](https://mushrooms.finance/) wBTC Vault then to the wBTC Farm to earn MM. MM are harvested, sold for more wBTC, and re-deposited into the vault.
+[yvWBTCStratMMV1] (https://etherscan.io/address/0x53a65c8e238915c79a1e5C366Bc133162DBeE34f) 
+Fornece wBTC para o [Mushroom Finance's] (https://mushrooms.finance/) WBTC Vault e então para o Farm wBTC para ganhar MM. MM são colhidos, vendidos por mais wBTC e depositados novamente no vault.
 
-[Vesper Wrapped BTC](https://etherscan.io/address/0x416647Ddee169156878DC46CD565dee99413c262)  
-Supplies wBTC to [Vesper Finance](https://vesper.finance/) vWBTC Pool to earn VSP. Rewards are harvested, sold for more wBTC, and re-deposited into the vault.
+[Vesper Wrapped BTC] (https://etherscan.io/address/0x416647Ddee169156878DC46CD565dee99413c262) 
+Fornece wBTC para [Vesper Finance] (https://vesper.finance/) vWBTC Pool para ganhar VSP. As recompensas são colhidas, vendidas por mais wBTC e depositadas novamente no vault.
 
-✨ [ssc wbtc bbtc](https://etherscan.io/address/0x4b254EbBbb8FDb9D3E848501784692b2726b310c)  
-Deposits WBTC into the BBTC curve pool on [curve.fi](http://curve.fi/). Rewards are harvested, sold for more WBTC, and re-deposited into the vault.
+✨ [ssc wbtc bbtc] (https://etherscan.io/address/0x4b254EbBbb8FDb9D3E848501784692b2726b310c) 
+Deposita WBTC no pool curve do Iron Bank em [curve.fi] (http://curve.fi/). As recompensas são colhidas, vendidas por mais wBTC e depositadas novamente no vault.
 
-✨ [ssc wbtc pbtc](https://etherscan.io/address/0x29367915508e47c631d220caEbA855901c13a3dE)  
-Deposits WBTC into the PBTC curve pool on [curve.fi](http://curve.fi/). Rewards are harvested, sold for more WBTC, and re-deposited into the vault.
+✨ [ssc wbtc pbtc] (https://etherscan.io/address/0x29367915508e47c631d220caEbA855901c13a3dE) 
+Deposita WBTC no pool Curve PBTC em [curve.fi] (http://curve.fi/). As recompensas são colhidas, vendidas por mais wBTC e depositadas novamente no vault.
 
-✨ [ssc wbtc obtc](https://etherscan.io/address/0x64B2a32f030D9210E51ed8884C0D58b89137Ca81)  
-Deposits WBTC into the OBTC curve pool on [curve.fi](http://curve.fi/). Rewards are harvested, sold for more WBTC, and re-deposited into the vault.
+✨ [ssc wbtc obtc] (https://etherscan.io/address/0x64B2a32f030D9210E51ed8884C0D58b89137Ca81) 
+Deposita WBTC no OBTC pool curve do Iron Bank em [curve.fi] (http://curve.fi/). As recompensas são colhidas, vendidas por mais wBTC e depositadas novamente no vault.
 
-✨ [Strategy-Levered-AAVE-wBTC](https://etherscan.io/address/0xDD387F2fe0D9B1E5768fc941e7E48AA8BfAf5e41)  
-Supplies WBTC as collateral on AAVE V2, borrowed against, and resupplied, in a few loops to achieve the desired leverage on the WBTC lending.
+✨ [Strategy-Levered-AAVE-wBTC] (https://etherscan.io/address/0xDD387F2fe0D9B1E5768fc941e7E48AA8BfAf5e41) 
+Fornece o WBTC como garantia no AAVE V2, é usado em um empréstimo refornecido ao protocolo em alguns loops para alcançar a alavancagem desejada no empréstimo do WBTC.
 
 ![](13.png)
 
