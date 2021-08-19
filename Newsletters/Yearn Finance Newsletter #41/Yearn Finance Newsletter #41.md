@@ -1,76 +1,76 @@
 ![alt_text](image1.png "image_tooltip")
 
-# Yearn Finance Newsletter #41
+# Yearn Haber Bülteni #41
 
-Welcome to the 41st edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Yearn Finans Bülteninin 41. baskısına hoş geldiniz. Bu bülten ile amacımız ürün lansmanları, denetim değişiklikleri ve ekosistem güncellemeleri dahil olmak üzere Yearn ve daha geniş kripto topluluklarını son gelişmeler hakkında bilgilendirmektir. Yearn Finans hakkında daha fazla bilgi sahibi olmak için resmi [Twitter](https://twitter.com/iearnfinance) ve [Medium](https://medium.com/iearn) hesaplarımızı takip ediniz.
 
-## Summary
+## Özet
 
-- Celebrating YFI’s First Year
-- Yearn’s Market Share In The Aggregator Market Rises
-- Yearn To Be Added To Compound
-- YFI Borrowing Rate Lowered At MakerDAO
-- Vaults at Yearn
-- Ecosystem News
+- YFI’nin birinci yıl kutlamaları
+- Yearn’ın yükselen Aggregator Piyasalarındaki Pazar payı
+- Yearn’ın Compound'a eklenecek olması 
+- MakerDAO’da Yearn borçlanma oranı
+- Yearn’deki Vault’lar
+- Ekosistem haberleri
 
-## Celebrating YFI’s First Year
+## YFI’nin birinci yıl kutlamaları
 
 ![alt_text](image2.png "image_tooltip")
 
-One year ago on July 17, 2020, the YFI token was launched. Thank you all for creating an unforgettable moment in DeFi and what is now one of the strongest DeFi ecosystems.
+Şu anda DeFi ekosisteminin en güçlülerinden biri olan YFI token bir yıl önce 17 Haziran 2020’de piyasaya sürüldü. DeFi'de unutulmaz bir ana imza attığınız için hepinize teşekkür ederiz.
 
-Thanks to [loldefi](https://twitter.com/loldefi), apparel celebrating YFI’s first anniversary can be found [here](https://ymerch.finance/).
+[loldefi](https://twitter.com/loldefi)’nin katkılarıyla YFI’nin birinci yıl dönümü kutlama giysilerini [buradan](https://ymerch.finance/) bulabilirsiniz.
 
-## Yearn’s Market Share In Aggregator Market Rises
+## Yearn’in yükselen Aggregator Piyasalarındaki Pazar payı
 
 ![alt_text](image3.png "image_tooltip")
 
-In Q2 2021, Yearn’s market share in the yield aggregator market rose from 29% to 69%. We saw an impressive 136% growth in our AUM, as it reached over five billion dollars. We are working constantly to find you the best risk-adjusted returns in the market. Deposit capital to our yVaults and let the Strategists do all the hard work for you.
+2021'in ikinci çeyreğinde Yearn’nın yield aggregator piyasalarındaki pazar payı %29’dan %69’a yükseldi. AUM’umuzda %136’lık bir artış ile beş milyar dolara ulaşan bir büyüme gördük. Sizler için piyasada en iyi risk-uyumlu getirileri bulabilmek için sürekli çalışıyoruz. Sermayenizi yVaults'a yatırın ve bırakın tüm zor işleri sizin için stratejistlerimiz halletsin.
 
-View more details about Yearn and general DeFi analytics in this Messari [report](https://messari.io/article/q2-21-defi-review?utm_source=ryanwatkins_&utm_medium=tweet&utm_campaign=q2-21-defi-review).
+Bu Messari [raporunda](https://messari.io/article/q2-21-defi-review?utm_source=ryanwatkins_&utm_medium=tweet&utm_campaign=q2-21-defi-review) yer alan Yearn ve genel DeFi çözümlemeleri hakkında daha detaylı bilgiye ulaşmak için tıklayınız.
 
-## Yearn To Be Added To Compound
+## Year’ın Compound'a eklenecek olması
 
 ![alt_text](image4.png "image_tooltip")
 
-A proposal has been created and contracts have been deployed to add YFI as a market to Compound Finance. Each token will have a zero collateral factor (initially), the same interest rate model (as COMP/LINK), and a reserve factor of 25% for each market (which is standard).
+YFI’nin bir pazar olarak Compound Finance'a eklenmesi ile ilgili bir teklif hazırlanmış ve kontratlar dağıtılmıştır. Her bir token karşılıksız teminata(başlangıçta), aynı faiz oran modeli (COMP/LINK’de olduğu gibi) ve her bir pazar için %25’lik rezerv faktörüne (standart oran) sahip olacaktır.
 
-In the near future, collateral factors will be increased and users will be able to supply YFI on Compound and borrow coins with that collateral.
+Yakın gelecekte teminat faktörleri arttırılacak ve kullanıcılar Compound YFI arzında bulunabilecek ve bu teminat ile coin borçlanabilecektir.
 
-View more details about the post on Compound’s forum [here](https://www.comp.xyz/t/add-markets-mkr-aave-sushi-yfi/1977).
+Compound forumda yer alan yayınlar hakkında daha fazla bilgi sahibi olmak için [buraya](https://www.comp.xyz/t/add-markets-mkr-aave-sushi-yfi/1977) tıklayınız.
 
-## YFI Borrowing Rate Lowered At MakerDAO
+## MakerDAO’da YIF borç alma oranı düşürüldü
 
 ![alt_text](image5.png "image_tooltip")
 
-MakerDAO has lowered the YFI-A stability fee to 1% and the ETH-C stability fee to 0.50%. These are incredibly beneficial for Yearn’s YFI and ETH strategies as they lower the cost of borrowing. The reduced cost of capital generates more net yield for users, improving returns.
+MakerDAO, YFI stabilite ücretini %1’e, ETH-C stabilite ücretini ise %0.50’e düşürdü. Bu durum borçlanma maliyetlerinin düşürülmesi sayesinde, Yearn YFI’si ve ETH stratejileri bakımından inanılmaz fayda sağlamaktadır. Azaltılan sermaye maliyeti daha fazla kesintisiz verim sağlar ve hasılatı artırır.
 
-More about the changes can be read [here](https://forum.makerdao.com/t/maker-relay-ep-53/9305) and the vaults can be found [here](https://yearn.finance/vaults).
+Değişiklikler ile ilgili [buraya](https://forum.makerdao.com/t/maker-relay-ep-53/9305) ve vault’lar için ise [buraya](https://yearn.finance/vaults) tıklayınız.
 
-## Vaults At Yearn
+## Yearn'deki Vault'lar
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Aktif olan tüm yVault’larımız ile ilgili stratejilerin açıklamaları hakkında detaylı bilgi için [buraya](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) tıklayınız.
 
-## Ecosystem News
+## Ekosistem Haberleri
 
-[Element Finance launches their third asset, crvSTETH, which relies on Yearn for fixed yield](https://twitter.com/element_fi/status/1414990472569831427)
+[Element Finance Sabit getiri (fixed yield) amaçlı 3.Varlık Değeri crvSTETH’i piyasaya sürüyor](https://twitter.com/element_fi/status/1414990472569831427)
 
-[With Yearn, Keep3r, and Flashbots, a Keep3r stealth transaction has occurred to minimize MEV](https://twitter.com/lbertenasco/status/1415016369771491330)
+[Yearn, Keep3r ve Flashbots ile, MEV’i minimize etme amaçlı gizli bir Keep3r işlemi oluştu](https://twitter.com/lbertenasco/status/1415016369771491330)
 
-[Powerpool’s YLA, a basket of Yearn vaults has automatically rebalanced](https://twitter.com/powerpoolcvp/status/1414682829359812615)
+[Powerpool'un YLA'sı, Yearn vault'larının bie kısmı otomatik olarak yeniden dengelendi](https://twitter.com/powerpoolcvp/status/1414682829359812615)
 
-[Yearn and Project Galaxy’s Woofy NFTs enter top 50 trading volume on OpenSea](https://twitter.com/ProjectGalaxyHQ/status/1414868634862710789)
+[Yearn ve Galaxy’s Woofy NFT projesi, OpenSea’de en yüksek işlem hacmine sahip ilk 50 arasına girdi](https://twitter.com/ProjectGalaxyHQ/status/1414868634862710789)
 
-[MahaDAO implements Yearn’s Coordinape framework for their DAO operations](https://twitter.com/TheMahaDAO/status/1414620121528680451)
+[MahaDAO Yearn’e ait Coordinape Sistemini DAO operasyonları için yürürlüğe aldı](https://twitter.com/TheMahaDAO/status/1414620121528680451)
 
-[Easily import Yearn’s price magic tool into any python script with BobTheBuidler’s ypricemagic](https://github.com/BobTheBuidler/ypricemagic)
+[BobTheBuidler’s ypricemagic ile Yearn’ın müthiş fiyat aracını kolaylıkla python’a entegre edin](https://github.com/BobTheBuidler/ypricemagic)
 
-[Alchemix relaunches their alETH token, powered by Yearn WETH vaults](https://twitter.com/AlchemixFi/status/1414647769470443521)
+[Alchemix, Yearn WETH Vault’ları tarafından geliştirilen alETH token'ini tekrar piyasaya sürdü](https://twitter.com/AlchemixFi/status/1414647769470443521)
 
-[Ribbon FInance creates a put option selling vault with yvUSDC as collateral](https://twitter.com/ribbonfinance/status/1415298793419968513)
+[Ribbon Finance, vault’un bir teminat olarak yvUSDC ile satılması için bir opsiyonu oluşturdu. ](https://twitter.com/ribbonfinance/status/1415298793419968513)
 
-[Yearn Risk Dashboard allows you to drill down and see where each strategy has the funds ](https://yearn-finance.vercel.app/system/vault/0x19D3364A399d251E894aC732651be8B0E4e85001)
+[Yearn Risk Paneli daha fazla araştırma yapmanıza ve her bir stratejiye ait fonların nerede olduğunu görmenize olanak sağlar](https://yearn-finance.vercel.app/system/vault/0x19D3364A399d251E894aC732651be8B0E4e85001)
 
-[Deployed](https://yearn-finance.vercel.app/system/vault/0x19D3364A399d251E894aC732651be8B0E4e85001)
+[Yayınlandı](https://yearn-finance.vercel.app/system/vault/0x19D3364A399d251E894aC732651be8B0E4e85001)
 
-[Join the Fair Launch Summit with Yearn, Sushiswap, Alchemist, and more](https://twitter.com/_alchemistcoin/status/1415646390978453508)
+[Fair Lunch Zirvesine Yearn, Sushiwap, Alchemist ve daha fazlası ile katılın](https://twitter.com/_alchemistcoin/status/1415646390978453508)
