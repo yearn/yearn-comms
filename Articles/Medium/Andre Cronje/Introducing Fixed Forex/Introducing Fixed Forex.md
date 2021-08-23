@@ -4,7 +4,7 @@ Autor: [Andre Cronje](https://twitter.com/AndreCronjeTech)</br>
 
 2 de Julho de 2021
 
-**Disclaimer;**
+**Isenção de responsabilidade;**
 
 - Sem tokens
 - Auditoria não está completa
