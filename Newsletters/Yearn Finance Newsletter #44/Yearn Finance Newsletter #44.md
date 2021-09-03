@@ -13,10 +13,8 @@ Welcome to the 44th edition of the Yearn Finance Newsletter. Our aim with this n
 - Don’t Forget About Woofy
 - Vaults at Yearn
 - Ecosystem News
-    
 
 ## **YIP-63 Results**
-
 
 ![](image2.jfif)
 
@@ -29,7 +27,6 @@ Read the full proposal on Yearn’s forum [here](https://gov.yearn.finance/t/yip
 Check Yearn’s transaction to the DAO [here](https://etherscan.io/tx/0x0ec0fc55d6dc51b426a254bf2d6de138b1b9a1c3031f4ab3a7b39439fa004392)
 
 ## **Product User Survey**
-
 
 We have released a new user survey to gauge what you, the community at Yearn, would like to see added.  
   
@@ -63,19 +60,15 @@ Check out other recipes using Yearn [here](https://app.defisaver.com/).
 
 ![](image5.jfif)
 
-
 By converting YFI to WOOFY at a rate of one YFI for one million WOOFY, you can lp with it, bridge to other chains such as Polygon or Fantom, and deposit on [ape.tax](https://ape.tax/) for incredible yields.
-
   
 Exchange your YFI for WOOFY [here](https://woofy.finance/).
 
 ## **Vaults At Yearn**
 
-
 You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
 ## **Ecosystem News**
-
 
 [Longlong finance built on top of Yearn](https://twitter.com/longlongfinance/status/1424889905877069826)
 
