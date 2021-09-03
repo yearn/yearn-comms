@@ -6,20 +6,13 @@ Welcome to the 44th edition of the Yearn Finance Newsletter. Our aim with this n
 
 ## **Summary**
 
-
-*   YIP-63 Approved
-    
-*   Product User Survey
-    
-*   Introducing Four New yVaults
-    
-*   Yearn Integrated In Defi Saver
-    
-*   Don’t Forget About Woofy
-    
-*   Vaults at Yearn
-    
-*   Ecosystem News
+- YIP-63 Approved 
+- Product User Survey
+- Introducing Four New yVaults
+- Yearn Integrated In Defi Saver
+- Don’t Forget About Woofy
+- Vaults at Yearn
+- Ecosystem News
     
 
 ## **YIP-63 Results**
