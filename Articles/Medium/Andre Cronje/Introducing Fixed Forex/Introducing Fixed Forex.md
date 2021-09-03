@@ -36,6 +36,4 @@ Para fins de lançamento, o contrato não vai ser verificado no etherscan, poré
 
 [ABI](https://gist.github.com/andrecronje/4ce11e8603a7f61af4619a86647db1d4)
 
-The full release will be based on curve.fi’s crypto pools, to allow for a decentralized forex market.
-
 O lançamento completo será baseado nas pools de crypto da curve.fi, para permitir um mercado forex decentralizado.
