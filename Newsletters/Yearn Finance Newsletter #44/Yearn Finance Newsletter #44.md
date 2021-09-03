@@ -1,11 +1,11 @@
-Yearn Finance Newsletter #44
-============================
+# Yearn Finance Newsletter #44
+
 ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F020dc362-ab99-403b-8adc-17adc3c8d857_1600x806.png)
 
 Welcome to the 44th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
 
-**Summary**
-===========
+## **Summary**
+
 
 *   YIP-63 Approved
     
@@ -22,8 +22,8 @@ Welcome to the 44th edition of the Yearn Finance Newsletter. Our aim with this n
 *   Ecosystem News
     
 
-**YIP-63 Results**
-==================
+## **YIP-63 Results**
+
 
 ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F88e01760-fc88-4426-844d-dfcd01f16943_1900x901.png)
 
@@ -35,8 +35,8 @@ Read the full proposal on Yearn’s forum [here](https://gov.yearn.finance/t/yip
 
 Check Yearn’s transaction to the DAO [here](https://etherscan.io/tx/0x0ec0fc55d6dc51b426a254bf2d6de138b1b9a1c3031f4ab3a7b39439fa004392)
 
-**Product User Survey**
-=======================
+## **Product User Survey**
+
 
 We have released a new user survey to gauge what you, the community at Yearn, would like to see added.  
   
@@ -44,8 +44,7 @@ Yearn is always iterating amongst ourselves and with the help of the community, 
 
 Fill out the survey [here](https://yearnfinance.typeform.com/to/ojp3J8gn).
 
-**Introducing Four New yVaults**
-================================
+## **Introducing Four New yVaults**
 
 ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4af5a43-5fa4-4ede-941b-c336b260a9d4_611x298.png)
 
@@ -55,8 +54,8 @@ The AAVE, COMP, and SUSHI vaults are earning yield from single-sided staking poo
 
 You can view the latest APYs for these vaults and deposit to these vaults using this [link](https://yearn.finance/vaults).
 
-**Yearn Integrated In Defi Saver**
-==================================
+## **Yearn Integrated In Defi Saver**
+
 
 ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fede4e6e2-807e-4f69-88e2-618174c625f5_1012x506.png)
 
@@ -68,8 +67,8 @@ Alternatively, you can open a Reflexer ETH Safe and borrow RAI. The Stability fe
 
 Check out other recipes using Yearn [here](https://app.defisaver.com/).
 
-**Don’t Forget About Woofy**
-============================
+## **Don’t Forget About Woofy**
+
 
 [](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdb33a2d-cb18-45cd-8d8a-5339d3afa9d4_986x1251.png)
 
@@ -78,13 +77,13 @@ By converting YFI to WOOFY at a rate of one YFI for one million WOOFY, you can l
   
 Exchange your YFI for WOOFY [here](https://woofy.finance/).
 
-**Vaults At Yearn**
-===================
+## **Vaults At Yearn**
+
 
 You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-**Ecosystem News**
-==================
+## **Ecosystem News**
+
 
 [Longlong finance built on top of Yearn](https://twitter.com/longlongfinance/status/1424889905877069826)
 
