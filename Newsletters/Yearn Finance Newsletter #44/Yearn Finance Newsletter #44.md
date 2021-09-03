@@ -1,6 +1,6 @@
 # Yearn Finance Newsletter #44
 
-![](image1.jpg)
+![](image1.jfif)
 
 Welcome to the 44th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
 
@@ -25,7 +25,7 @@ Welcome to the 44th edition of the Yearn Finance Newsletter. Our aim with this n
 ## **YIP-63 Results**
 
 
-![](image2.jpg)
+![](image2.jfif)
 
 The recent vote for YIP-63 has resulted in agreement for the funding of the LeXpunK DAO Yearn has transferred one million DAI to a multisig controlled by Curve Finance, Lido Finance, and LeXpunK DAO.
 
@@ -46,7 +46,7 @@ Fill out the survey [here](https://yearnfinance.typeform.com/to/ojp3J8gn).
 
 ## **Introducing Four New yVaults**
 
-![](image3.jpg)
+![](image3.jfif)
 
 Four new yVaults are now live on our UI. Deposit today and earn yield on your AAVE, COMP, TUSD, and SUSHI  
   
@@ -56,7 +56,7 @@ You can view the latest APYs for these vaults and deposit to these vaults using 
 
 ## **Yearn Integrated In Defi Saver**
 
-![](image4.jpg)
+![](image4.jfif)
 
 YFI has been integrated into the Defi Saver Recipe Creator. With this integration, you can deposit any supported assets into Yearn vaults using DeFi Saver, as well as combine this action with any other protocol interactions. Some examples are detailed below.  
   
@@ -68,7 +68,7 @@ Check out other recipes using Yearn [here](https://app.defisaver.com/).
 
 ## **Don’t Forget About Woofy**
 
-![](image5.jpg)
+![](image5.jfif)
 
 
 By converting YFI to WOOFY at a rate of one YFI for one million WOOFY, you can lp with it, bridge to other chains such as Polygon or Fantom, and deposit on [ape.tax](https://ape.tax/) for incredible yields.
