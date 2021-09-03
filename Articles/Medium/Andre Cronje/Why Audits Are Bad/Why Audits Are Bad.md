@@ -1,33 +1,33 @@
-# Iron Bank Fixed Forex audit: Why audits are bad
+# आयरन बैंक फिक्स्ड फॉरेक्स ऑडिट: ऑडिट खराब क्यों हैं
 
-Author: [Andre Cronje](https://twitter.com/AndreCronjeTech)</br>
+लेखक: [आंद्रे क्रोन्ये](https://twitter.com/AndreCronjeTech)</br>
 
-August 3rd, 2021
+3 अगस्त 2021
 
-I wanted a sensationalist title. An audits role on public perception is bad, an audit for personal use, is good.
+मैं एक सनसनीखेज शीर्षक चाहता था। सार्वजनिक धारणा पर ऑडिट की भूमिका खराब है, व्यक्तिगत उपयोग के लिए ऑडिट अच्छी है।
 
-Nowadays you'll see audits being requested, not to be reviewed, but simply as a line item. "Is the project audited? \[Yes\] \[No\]", often, the link to the audit won't even be required, simply \[Yes\]\[No\].
+आजकल आप देखेंगे कि ऑडिट का अनुरोध किया जा रहा है, समीक्षा के लिए नहीं, बल्कि एक लाइन आइटम के रूप में। "क्या परियोजना का ऑडिट किया गया है? \[हां\] \[नहीं\]", अक्सर, ऑडिट के लिंक की भी आवश्यकता नहीं होगी, बस \[हां\]\[नहीं\]।
 
-Let's use Fixed Forex as an example, "Is the project audited?" \[Yes\], and here is the [audit](https://github.com/andrecronje/fixed-forex-audit/blob/main/PeckShield-Audit-Report-ERC20-ibEUR-v1.0.pdf). You might have even opened the link, and then you might have even scrolled down to the findings;
+आइए एक उदाहरण के रूप में फिक्स्ड फॉरेक्स का उपयोग करें, "क्या प्रोजेक्ट का ऑडिट किया गया है?" \[हां\], और यहां है [ऑडिट](https://github.com/andrecronje/fixed-forex-audit/blob/main/PeckShield-Audit-Report-ERC20-ibEUR-v1.0.pdf) . हो सकता है कि आपने लिंक को खोल भी दिया हो, और फिर आपने निष्कर्षों तक नीचे स्क्रॉल भी किया हो;
 
 ![](1.png)
 
-Great right? 1 low and 1 informational. But now let's look at it contextually, this is essentially an ERC20 contract, and while it does show that ibEUR and subsequent ib-assets are a simple ERC20 implementation, what about the rest of the ecosystem?
+बढ़िया है ना? 1 low (कम) और 1 informational (सूचनात्मक)। लेकिन अब आइए इसे प्रासंगिक रूप से देखें, यह अनिवार्य रूप से एक ERC20 अनुबंध है, और जबकि यह दिखाता है कि ibEUR और उसके बाद के ib-assets एक साधारण ERC20 कार्यान्वयन हैं, बाकी पारिस्थितिकी तंत्र के बारे में क्या?
 
-[ibEUR gauge](https://etherscan.io/address/0x9d7ca778d067045a9d6b871c9d28589875308018)  
-[ibKRW gauge](https://etherscan.io/address/0x8992fd229b574b8083de1249bc6fd3711fda45dd)  
-[Voting](https://etherscan.io/address/0xd9c8620c0c0b866b7b5180d2d70093165340326d)  
-[Faucet](https://etherscan.io/address/0x7d254d9adc588126edaee52a1029278180a802e8)  
-[ibEUR/ETH distribution](https://etherscan.io/address/0x1da8a6fe33bd35b99505d67843eec9fa124f2d4b)  
-[ib rewards](https://etherscan.io/address/0x83893c4a42f8654c2dd4ff7b4a7cd0e33ae8c859)  
-[Fee distribution](https://etherscan.io/address/0x27761efeb0c7b411e71d0fd0aee5dde35c810cc2)
+[ibEUR gauge](https://etherscan.io/address/0x9d7ca778d067045a9d6b871c9d28589875308018)
+[ibKRW gauge](https://etherscan.io/address/0x8992fd229b574b8083de1249bc6fd3711fda45dd)
+[Voting](https://etherscan.io/address/0xd9c8620c0c0b866b7b5180d2d70093165340326d)
+[Faucet](https://etherscan.io/address/0x7d254d9adc588126edae52a1029278180a802e8)
+[ibEUR/ETH वितरण](https://etherscan.io/address/0x1da8a6fe33bd35b99505d67843eec9fa124f2d4b)
+[ib पुरस्कार](https://etherscan.io/address/0x83893c4a42f8654c2dd4ff7b4a7cd0e33ae8c859)
+[शुल्क वितरण](https://etherscan.io/address/0x27761efeb0c7b411e71d0fd0aee5dde35c810cc2)
 
-Now, its very easy for me to have left it at a simple tweet, "Fixed Forex audit report", and be done with that, and this is why, even in the past, I hated sharing audit reports, we use them as a stamp of approval, non-technical individuals use it as confirmation that they are "safe". Nothing about what we are doing is safe, nothing about what we are trying to do is easy, and we have no future guarantees.
+अब, मेरे लिए इसे एक साधारण ट्वीट, "फिक्स्ड फॉरेक्स ऑडिट रिपोर्ट" पर छोड़ देना बहुत आसान है, और इसके साथ किया जाना चाहिए, और यही कारण है कि, अतीत में भी, मुझे ऑडिट रिपोर्ट साझा करने से नफरत थी, हम उनका उपयोग एक के रूप में अनुमोदन की मुहर करते हैं, गैर-तकनीकी व्यक्ति इसका उपयोग इस बात की पुष्टि के रूप में करते हैं कि वे "सुरक्षित" हैं। हम जो कर रहे हैं उसके बारे में कुछ भी सुरक्षित नहीं है, हम जो करने की कोशिश कर रहे हैं उसके बारे में कुछ भी आसान नहीं है, और हमारे पास भविष्य की कोई गारंटी नहीं है।
 
-Decentralization is a responsibility, not a right, real decentralization is incredibly hard, and almost impossible to happen over night.
+विकेंद्रीकरण एक जिम्मेदारी है, अधिकार नहीं, वास्तविक विकेंद्रीकरण अविश्वसनीय रूप से कठिन है, और रातों-रात होना लगभग असंभव है।
 
-There is real elegance in truly being able to own your funds, but there is an inherent responsibility.
+वास्तव में आपके धन के मालिक होने में सक्षम होने में वास्तविक लालित्य है, लेकिन एक अंतर्निहित जिम्मेदारी है।
 
-Teams should use audits to supplement, its the same reason peer coding works well, or even a simple peer review, but audits are not a stamp of approval, audits are not a guarantee, and audits are not a safety net.
+टीमों को पूरक के लिए ऑडिट का उपयोग करना चाहिए, इसी कारण से पीयर कोडिंग अच्छी तरह से काम करती है, या यहां तक कि एक साधारण सहकर्मी समीक्षा भी है, लेकिन ऑडिट अनुमोदन की मुहर नहीं हैं, ऑडिट कोई गारंटी नहीं है, और ऑडिट सुरक्षा जाल नहीं हैं।
 
-In fact, if I saw an audit like the above, where a team said they are "audited" and all they did was audit their ERC20, I would be even more cautious.
+वास्तव में, अगर मैंने उपरोक्त जैसा ऑडिट देखा, जहां एक टीम ने कहा कि उनका "ऑडिट" किया गया है और उन्होंने जो कुछ किया वह उनके ERC20 का ऑडिट था, तो मैं और भी सतर्क रहूंगा।
