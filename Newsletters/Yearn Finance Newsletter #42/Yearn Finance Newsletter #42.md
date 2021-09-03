@@ -18,9 +18,9 @@ Yearn Finance Bülteninin 42. baskısına hoş geldiniz. Bu bültenle amacımız
 
 ## **The Blue Pill NFT'leri**
 
-Yearn'ın ilk yılını kutlamak için, size Yearn'ın geçmişi, bugünü ve geleceği için manevi bir rehber olan The Blue Pill'i getirmek için Project Galaxy ile bir kez daha işbirliği yaptık. Zemm tarafından yapılan The Blue Pill, en sadık 13.500 destekçimize sunulan güzel bir dizgi kitabıdır. Bu, Yearn topluluğunun çeşitli çiftçileri, paydaşları, seçmenleri ve bağışçıları için yedi benzersiz NFT dizisidir. YFI'nin hediyesini kutlamak için bize katılın!
-
 ![](image2.png)
+
+Yearn'ın ilk yılını kutlamak için, size Yearn'ın geçmişi, bugünü ve geleceği için manevi bir rehber olan The Blue Pill'i getirmek için Project Galaxy ile bir kez daha işbirliği yaptık. Zemm tarafından yapılan The Blue Pill, en sadık 13.500 destekçimize sunulan güzel bir dizgi kitabıdır. Bu, Yearn topluluğunun çeşitli çiftçileri, paydaşları, seçmenleri ve bağışçıları için yedi benzersiz NFT dizisidir. YFI'nin hediyesini kutlamak için bize katılın!
 
 NFT dağılımı hakkında daha fazla bilgiyi Yearn blogunda [buradan](https://medium.com/iearn/the-blue-pill-ca44ed01f16f) okuyun.
 
