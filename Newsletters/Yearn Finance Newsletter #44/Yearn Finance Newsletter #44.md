@@ -48,7 +48,7 @@ AAVE，COMP和SUSHI的机枪池是通过Universe.xyz上的单资产质押池赚�
 
 ![](image4.jfif)
 
-YFI已被集成到Defi Saver Recipe Creator中。通过这个集成，你可以使用 DeFi Saver将任何支持的资产存入Yearn的机枪池，也可以将此操作与任何其他协议交互结合起来。下面我们详细介绍了一些示例。
+YFI已被集成到Defi Saver Recipe Creator中。通过这个集成，你可以使用DeFi Saver将任何支持的资产存入Yearn的机枪池，也可以将此操作与任何其他协议交互结合起来。下面我们详细介绍了一些示例。
   
 首先，你可以创建一个MakerDAO Vault并将借来的DAI存入Yearn，所有这些都可以在一次交易中完成。在Maker中的ETH-A的稳定费为2%，而DAI Yearn Vault 的当前净APY约为 6.5%。你可以在[这里](https://app.defisaver.com/recipes/create?recipe=V3JhcEV0aEFjdGlvbiwyMDtSZWZsZXhlck9wZW5TYWZlQWN0aW9uLEVUSC1BO1JlZmxleGVyU3VwcGx5QWN0aW9uLCQyLHJlY2lwZSxBbGwgYXZhaWxhYmxlO1JlZmxleGVyR2VuZXJhdGVBY3Rpb24sJDIsNjY2NixyZWNpcGU7U2VsbEFjdGlvbiwweDAzYWI0NTg2MzQ5MTBhYWQyMGVmNWYxYzhlZTk2ZjFkNmFjNTQ5MTkscmVjaXBlLDY2NjYsMHhBMGI4Njk5MWM2MjE4YjM2YzFkMTlENGEyZTlFYjBjRTM2MDZlQjQ4LHJlY2lwZSwxO1llYXJuU3VwcGx5QWN0aW9uLDB4QTBiODY5OTFjNjIxOGIzNmMxZDE5RDRhMmU5RWIwY0UzNjA2ZUI0OCxyZWNpcGUsQWxsIGF2YWlsYWJsZSx3YWxsZXQ%3D)找到recipe。
 
@@ -86,7 +86,7 @@ YFI已被集成到Defi Saver Recipe Creator中。通过这个集成，你可以�
 
 [Iron Bank，yvBOOST，TriCrypto和升级后的DAI机枪池已被加入Akropolis](https://twitter.com/akropolisio/status/1427258414229442563)
 
-[Keep3rV2升级详情](https://twitter.com/AndreCronjeTech/status/1429021091218006023)
+[Keep3r V2升级详情](https://twitter.com/AndreCronjeTech/status/1429021091218006023)
 
 [看看由Facu Ameal讲述的ape.tax的故事](https://twitter.com/fameal/status/1428382076064174080?s=20)
 
