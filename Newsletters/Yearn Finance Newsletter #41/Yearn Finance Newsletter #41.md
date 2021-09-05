@@ -69,8 +69,6 @@ You can read a detailed description of the strategies for all of our active yVau
 
 [Ribbon FInance creates a put option selling vault with yvUSDC as collateral](https://twitter.com/ribbonfinance/status/1415298793419968513)
 
-[Yearn Risk Dashboard allows you to drill down and see where each strategy has the funds ](https://yearn-finance.vercel.app/system/vault/0x19D3364A399d251E894aC732651be8B0E4e85001)
-
-[Deployed](https://yearn-finance.vercel.app/system/vault/0x19D3364A399d251E894aC732651be8B0E4e85001)
+[Yearn Risk Dashboard allows you to drill down and see where each strategy has the funds deployed](https://yearn-finance.vercel.app/system/vault/0x19D3364A399d251E894aC732651be8B0E4e85001)
 
 [Join the Fair Launch Summit with Yearn, Sushiswap, Alchemist, and more](https://twitter.com/_alchemistcoin/status/1415646390978453508)
