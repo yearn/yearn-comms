@@ -2,94 +2,94 @@
 
 ![](image1.jfif)
 
-Welcome to the 44th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Bem-vindo à 44ª edição do Yearn Finance Newsletter. Nosso objetivo com este boletim é manter a comunidade da Yearn e a comunidade cripto em geral informadas sobre as notícias mais recentes, incluindo lançamentos de produtos, mudanças de governança e atualizações do ecossistema. Se você estiver interessado em aprender mais sobre Yearn Finance, siga nossas contas oficiais [Twitter](https://twitter.com/iearnfinance) e [Medium](https://medium.com/iearn).
 
-## **Summary**
+## **Resumo**
 
-- YIP-63 Approved 
-- Product User Survey
-- Introducing Four New yVaults
-- Yearn Integrated In Defi Saver
-- Don’t Forget About Woofy
-- Vaults at Yearn
-- Ecosystem News
+- YIP-63 aprovado 
+- Pesquisa de usuário de produto
+- Apresentando quatro novos yVaults
+- Yearn integrado no Defi Saver
+- Não se esqueça do Woofy
+- Vaults na Yearn
+- Notícias do Ecossistema
 
-## **YIP-63 Results**
+## ** Resultados YIP-63 **
 
 ![](image2.jfif)
 
-The recent vote for YIP-63 has resulted in agreement for the funding of the LeXpunK DAO Yearn has transferred one million DAI to a multisig controlled by Curve Finance, Lido Finance, and LeXpunK DAO.
+A recente votação para YIP-63 resultou em um acordo para o financiamento do LeXpunK DAO. Yearn transferiu um milhão de DAI para uma multisig controlada pela Curve Finance, Lido Finance e LeXpunK DAO.
 
-For context, the LeXpunK DAO is a coalition of DeFi builders and lawyers with the goal of creating a legal defense team far greater and more ethically aligned than those at Silicon Valley venture funds. This is an important initiative that will serve to fight for crypto over the next few years or even decades.
+Para contextualizar, o LeXpunK DAO é uma coalizão de desenvolvedores de DeFi e advogados com o objetivo de criar uma equipe de defesa legal muito maior e mais eticamente alinhada do que a dos fundos de risco do Vale do Silício. Esta é uma iniciativa importante que servirá para lutar pelo cripto nos próximos anos ou mesmo décadas.
 
-Read the full proposal on Yearn’s forum [here](https://gov.yearn.finance/t/yip-63-fund-builder-first-legal-activism-dao/11280).
+Leia a proposta completa no fórum de Yearn [aqui](https://gov.yearn.finance/t/yip-63-fund-builder-first-legal-activism-dao/11280).
 
-Check Yearn’s transaction to the DAO [here](https://etherscan.io/tx/0x0ec0fc55d6dc51b426a254bf2d6de138b1b9a1c3031f4ab3a7b39439fa004392)
+Verifique a transação de Yearn para o DAO [aqui](https://etherscan.io/tx/0x0ec0fc55d6dc51b426a254bf2d6de138b1b9a1c3031f4ab3a7b39439fa004392)
 
-## **Product User Survey**
+## **Pesquisa de Usuário de Produto**
 
-We have released a new user survey to gauge what you, the community at Yearn, would like to see added.  
+Lançamos uma nova pesquisa de usuário para avaliar o que você, a comunidade de Yearn, gostaria de ver adicionado. 
   
-Yearn is always iterating amongst ourselves and with the help of the community, but with this survey, we’d like to take a more hands on approach to seeing what you guys, the community, has in mind to improve Yearn. We have seen exponential growth in the short time we’ve been active, and we hope to continue innovating in the products we put out and add more utility to the YFI token. We think that we can improve the user experience at Yearn tenfold with the help of your thoughts, and thus become the most competitive in the yield aggregation space among the various other sectors we engage in.
+Yearn está sempre iterando entre nós mesmos e com a ajuda da comunidade, mas com esta pesquisa, gostaríamos de fazer uma abordagem mais prática para ver o que vocês, a comunidade, têm em mente para melhorar Yearn. Vimos um crescimento exponencial no curto período em que estivemos ativos e esperamos continuar inovando nos produtos que lançamos e adicionar mais utilidade ao token YFI. Acreditamos que podemos melhorar a experiência do usuário no Yearn dez vezes com a ajuda de seus pensamentos e, assim, nos tornarmos os mais competitivos no espaço de agregação de rendimento entre os vários outros setores em que atuamos.
 
-Fill out the survey [here](https://yearnfinance.typeform.com/to/ojp3J8gn).
+Preencha a pesquisa [aqui](https://yearnfinance.typeform.com/to/ojp3J8gn).
 
-## **Introducing Four New yVaults**
+## **Apresentando quatro novos yVaults**
 
 ![](image3.jfif)
 
-Four new yVaults are now live on our UI. Deposit today and earn yield on your AAVE, COMP, TUSD, and SUSHI  
+Quatro novos yVaults estão agora disponíveis em nossao site. Deposite hoje e ganhe rendimento em seu AAVE, COMP, TUSD e SUSHI 
   
-The AAVE, COMP, and SUSHI vaults are earning yield from single-sided staking pools on [universe.xyz](https://universe.xyz/polymorphs), with no exposure to impermanent loss. TUSD is earning yield from Kashi on SushiSwap.
+Os vaults AAVE, COMP e SUSHI estão ganhando rendimento com pools de stake unilateral em [universe.xyz](https://universe.xyz/polymorphs), sem exposição a perdas impermanentes. O TUSD está ganhando rendimento com Kashi no SushiSwap.
 
-You can view the latest APYs for these vaults and deposit to these vaults using this [link](https://yearn.finance/vaults).
+Você pode ver os últimos APYs para esses vaults e fazer um depósito usando este [link](https://yearn.finance/vaults).
 
-## **Yearn Integrated In Defi Saver**
+## **Yearn integrado no Defi Saver**
 
 ![](image4.jfif)
 
-YFI has been integrated into the Defi Saver Recipe Creator. With this integration, you can deposit any supported assets into Yearn vaults using DeFi Saver, as well as combine this action with any other protocol interactions. Some examples are detailed below.  
+YFI foi integrado ao Defi Saver Recipe Creator. Com esta integração, você pode depositar quaisquer ativos suportados em vaults Yearn usando DeFi Saver, bem como combinar esta ação com quaisquer outras interações de protocolo. Alguns exemplos são detalhados a seguir. 
   
-First, you can create a MakerDAO Vault and deposit the borrowed DAI into Yearn, all in one single transaction. The Stability fee for ETH-A in Maker is 2% and the current NET APY for the DAI Yearn Vault is ~6.5%. The recipe can be found [here](https://app.defisaver.com/recipes/create?recipe=V3JhcEV0aEFjdGlvbiwyMDtSZWZsZXhlck9wZW5TYWZlQWN0aW9uLEVUSC1BO1JlZmxleGVyU3VwcGx5QWN0aW9uLCQyLHJlY2lwZSxBbGwgYXZhaWxhYmxlO1JlZmxleGVyR2VuZXJhdGVBY3Rpb24sJDIsNjY2NixyZWNpcGU7U2VsbEFjdGlvbiwweDAzYWI0NTg2MzQ5MTBhYWQyMGVmNWYxYzhlZTk2ZjFkNmFjNTQ5MTkscmVjaXBlLDY2NjYsMHhBMGI4Njk5MWM2MjE4YjM2YzFkMTlENGEyZTlFYjBjRTM2MDZlQjQ4LHJlY2lwZSwxO1llYXJuU3VwcGx5QWN0aW9uLDB4QTBiODY5OTFjNjIxOGIzNmMxZDE5RDRhMmU5RWIwY0UzNjA2ZUI0OCxyZWNpcGUsQWxsIGF2YWlsYWJsZSx3YWxsZXQ%3D).
+Primeiro, você pode criar um MakerDAO Vault e depositar a DAI emprestada em Yearn, tudo em uma única transação. A taxa de estabilidade para ETH-A no Maker é de 2% e o APY líquido atual para o DAI Yearn Vault é de aproximadamente 6,5%. A receita pode ser encontrada [aqui](https://app.defisaver.com/recipes/create?recipe=V3JhcEV0aEFjdGlvbiwyMDtSZWZsZXhlck9wZW5TYWZlQWN0aW9uLEVUSC1BO1JlZmxleGVyU3VwcGx5QWN0aW9uLCQyLHJlY2lwZSxBbGwgYXZhaWxhYmxlO1JlZmxleGVyR2VuZXJhdGVBY3Rpb24sJDIsNjY2NixyZWNpcGU7U2VsbEFjdGlvbiwweDAzYWI0NTg2MzQ5MTBhYWQyMGVmNWYxYzhlZTk2ZjFkNmFjNTQ5MTkscmVjaXBlLDY2NjYsMHhBMGI4Njk5MWM2MjE4YjM2YzFkMTlENGEyZTlFYjBjRTM2MDZlQjQ4LHJlY2lwZSwxO1llYXJuU3VwcGx5QWN0aW9uLDB4QTBiODY5OTFjNjIxOGIzNmMxZDE5RDRhMmU5RWIwY0UzNjA2ZUI0OCxyZWNpcGUsQWxsIGF2YWlsYWJsZSx3YWxsZXQ%3D).
 
-Alternatively, you can open a Reflexer ETH Safe and borrow RAI. The Stability fee in Reflexer is -0.5% and you can swap the RAI for a higher yielding asset, USDC or DAI, and deposit into Yearn. Recipe can be found [here](https://app.defisaver.com/recipes/create?recipe=V3JhcEV0aEFjdGlvbiwyMDtSZWZsZXhlck9wZW5TYWZlQWN0aW9uLEVUSC1BO1JlZmxleGVyU3VwcGx5QWN0aW9uLCQyLHJlY2lwZSxBbGwgYXZhaWxhYmxlO1JlZmxleGVyR2VuZXJhdGVBY3Rpb24sJDIsNjY2NixyZWNpcGU7U2VsbEFjdGlvbiwweDAzYWI0NTg2MzQ5MTBhYWQyMGVmNWYxYzhlZTk2ZjFkNmFjNTQ5MTkscmVjaXBlLDY2NjYsMHhBMGI4Njk5MWM2MjE4YjM2YzFkMTlENGEyZTlFYjBjRTM2MDZlQjQ4LHJlY2lwZSwxO1llYXJuU3VwcGx5QWN0aW9uLDB4QTBiODY5OTFjNjIxOGIzNmMxZDE5RDRhMmU5RWIwY0UzNjA2ZUI0OCxyZWNpcGUsQWxsIGF2YWlsYWJsZSx3YWxsZXQ%3D).
+Como alternativa, você pode abrir um Reflexer ETH Safe e pedir um RAI emprestado. A taxa de estabilidade no Reflexer é de -0,5% e você pode trocar o RAI por um ativo de maior rendimento, USDC ou DAI, e depositar no Yearn. A receita pode ser encontrada [aqui](https://app.defisaver.com/recipes/create?recipe=V3JhcEV0aEFjdGlvbiwyMDtSZWZsZXhlck9wZW5TYWZlQWN0aW9uLEVUSC1BO1JlZmxleGVyU3VwcGx5QWN0aW9uLCQyLHJlY2lwZSxBbGwgYXZhaWxhYmxlO1JlZmxleGVyR2VuZXJhdGVBY3Rpb24sJDIsNjY2NixyZWNpcGU7U2VsbEFjdGlvbiwweDAzYWI0NTg2MzQ5MTBhYWQyMGVmNWYxYzhlZTk2ZjFkNmFjNTQ5MTkscmVjaXBlLDY2NjYsMHhBMGI4Njk5MWM2MjE4YjM2YzFkMTlENGEyZTlFYjBjRTM2MDZlQjQ4LHJlY2lwZSwxO1llYXJuU3VwcGx5QWN0aW9uLDB4QTBiODY5OTFjNjIxOGIzNmMxZDE5RDRhMmU5RWIwY0UzNjA2ZUI0OCxyZWNpcGUsQWxsIGF2YWlsYWJsZSx3YWxsZXQ%3D).
 
-Check out other recipes using Yearn [here](https://app.defisaver.com/).
+Confira outras receitas usando Yearn [aqui](https://app.defisaver.com/).
 
-## **Don’t Forget About Woofy**
+## **Não se esqueça do Woofy**
 
 ![](image5.jfif)
 
-By converting YFI to WOOFY at a rate of one YFI for one million WOOFY, you can lp with it, bridge to other chains such as Polygon or Fantom, and deposit on [ape.tax](https://ape.tax/) for incredible yields.
+Ao converter YFI em WOOFY a uma taxa de um YFI por um milhão de WOOFY, você pode lp com ele, fazer uma ponte para outras cadeias como Polygon ou Fantom e depositar em [ape.tax](https://ape.tax/) para rendimentos incríveis.
   
-Exchange your YFI for WOOFY [here](https://woofy.finance/).
+Troque seu YFI por WOOFY [aqui](https://woofy.finance/).
 
-## **Vaults At Yearn**
+## **Vaults na Yearn**
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Você pode ler uma descrição detalhada das estratégias para todos os nossos yVaults ativos [aqui](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-## **Ecosystem News**
+## **Notícias do Ecossistema**
 
-[Longlong finance built on top of Yearn](https://twitter.com/longlongfinance/status/1424889905877069826)
+[Longlong finance baseado em Yearn](https://twitter.com/longlongfinance/status/1424889905877069826)
 
-[Yearn’s Gnosis safe UI gets an upgrade](https://twitter.com/seanmacaonghais/status/1427229450773618695?s=21)
+[A IU do Gnosis safe de Yearn obtém uma atualização](https://twitter.com/seanmacaonghais/status/1427229450773618695?s=21)
 
-[Introducing Mean Finance, a DCA protocol built with Keep3r](https://twitter.com/mean_fi/status/1422947694444785666?s=21)
+[Apresentando o Mean Finance, um protocolo DCA desenvolvido com Keep3r](https://twitter.com/mean_fi/status/1422947694444785666?s=21)
 
-[Guide on using your Woofy ](https://twitter.com/cryptannews/status/1426489521911177217?s=21)
+[Guia sobre como usar seu Woofy](https://twitter.com/cryptannews/status/1426489521911177217?s=21)
 
-[An issue has been identified and resolved in Curve Bribe v1 by the Yearn security team](https://twitter.com/bantg/status/1426629982328180737?s=21)
+[Um problema foi identificado e resolvido no Curve Bribe v1 pela equipe de segurança Yearn](https://twitter.com/bantg/status/1426629982328180737?s=21)
 
-[Thread on how Spell, Curve, and Yearn can collaborate](https://twitter.com/danielesesta/status/1426547097415913476?s=21)
+[Tópico sobre como Spell, Curve e Yearn podem colaborar](https://twitter.com/danielesesta/status/1426547097415913476?s=21)
 
-[Yapeswap uses Yearn to deposit idle assets when its reserves are not being utilized](https://twitter.com/yapeswap/status/1427270229839605761)
+[Yapeswap usa Yearn para depositar ativos ociosos quando suas reservas não estão sendo utilizadas](https://twitter.com/yapeswap/status/1427270229839605761)
 
-[Iron Bank, yvBOOST, TriCrypto, and the upgraded DAI vault have been added to Akropolis](https://twitter.com/akropolisio/status/1427258414229442563)
+[Iron Bank, yvBOOST, TriCrypto e o vault DAI atualizado foram adicionados ao Akropolis](https://twitter.com/akropolisio/status/1427258414229442563)
 
-[Details on Keep3rV2 upgrade](https://twitter.com/AndreCronjeTech/status/1429021091218006023)
+[Detalhes sobre a atualização Keep3rV2](https://twitter.com/AndreCronjeTech/status/1429021091218006023)
 
-[Check out the story of ape.tax, as told by Facu Ameal](https://twitter.com/fameal/status/1428382076064174080?s=20)
+[Confira a história de ape.tax, contada por Facu Ameal](https://twitter.com/fameal/status/1428382076064174080?s=20)
 
-[How to use Yearn V2 with Argent](https://twitter.com/argentHQ/status/1431205382865760257)
+[Como usar Yearn V2 com Argent](https://twitter.com/argentHQ/status/1431205382865760257)
 
-[Yearn has issued a grant to Atlantis World to build a 2D pixel metaverse](https://twitter.com/iearnfinance/status/1432387438014435332)
+[Yearn concedeu um incentivo ao Atlantis World para construir um metaverso de pixel 2D](https://twitter.com/iearnfinance/status/1432387438014435332)
