@@ -69,8 +69,12 @@ Aktif olan tüm yVault’larımız ile ilgili stratejilerin açıklamaları hakk
 
 [Ribbon Finance, vault’un bir teminat olarak yvUSDC ile satılması için bir opsiyonu oluşturdu. ](https://twitter.com/ribbonfinance/status/1415298793419968513)
 
+<<<<<<< HEAD
 [Yearn Risk Paneli daha fazla araştırma yapmanıza ve her bir stratejiye ait fonların nerede olduğunu görmenize olanak sağlar](https://yearn-finance.vercel.app/system/vault/0x19D3364A399d251E894aC732651be8B0E4e85001)
 
 [Yayınlandı](https://yearn-finance.vercel.app/system/vault/0x19D3364A399d251E894aC732651be8B0E4e85001)
+=======
+[Yearn Risk Dashboard allows you to drill down and see where each strategy has the funds deployed](https://yearn-finance.vercel.app/system/vault/0x19D3364A399d251E894aC732651be8B0E4e85001)
+>>>>>>> 2c6f9dd (fixed duplicated/wrong line-break at line 72-74 (#53))
 
 [Fair Lunch Zirvesine Yearn, Sushiwap, Alchemist ve daha fazlası ile katılın](https://twitter.com/_alchemistcoin/status/1415646390978453508)
