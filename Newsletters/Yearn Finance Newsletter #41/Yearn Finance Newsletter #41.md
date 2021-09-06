@@ -15,7 +15,7 @@ Yearn Finans Bülteninin 41. baskısına hoş geldiniz. Bu bülten ile amacımı
 
 ## YFI’nin birinci yıl kutlamaları
 
-![alt_text](image2.png "image_tooltip")
+![alt_text](image5.png "image_tooltip")
 
 Şu anda DeFi ekosisteminin en güçlülerinden biri olan YFI token bir yıl önce 17 Haziran 2020’de piyasaya sürüldü. DeFi'de unutulmaz bir ana imza attığınız için hepinize teşekkür ederiz.
 
@@ -41,7 +41,7 @@ Compound forumda yer alan yayınlar hakkında daha fazla bilgi sahibi olmak içi
 
 ## MakerDAO’da YIF borç alma oranı düşürüldü
 
-![alt_text](image5.png "image_tooltip")
+![alt_text](image2.png "image_tooltip")
 
 MakerDAO, YFI stabilite ücretini %1’e, ETH-C stabilite ücretini ise %0.50’e düşürdü. Bu durum borçlanma maliyetlerinin düşürülmesi sayesinde, Yearn YFI’si ve ETH stratejileri bakımından inanılmaz fayda sağlamaktadır. Azaltılan sermaye maliyeti daha fazla kesintisiz verim sağlar ve hasılatı artırır.
 
