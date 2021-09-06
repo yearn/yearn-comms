@@ -15,7 +15,7 @@ Welcome to the 41st edition of the Yearn Finance Newsletter. Our aim with this n
 
 ## Celebrating YFI’s First Year
 
-![alt_text](image2.png "image_tooltip")
+![alt_text](image5.png "image_tooltip")
 
 One year ago on July 17, 2020, the YFI token was launched. Thank you all for creating an unforgettable moment in DeFi and what is now one of the strongest DeFi ecosystems.
 
@@ -41,7 +41,7 @@ View more details about the post on Compound’s forum [here](https://www.comp.x
 
 ## YFI Borrowing Rate Lowered At MakerDAO
 
-![alt_text](image5.png "image_tooltip")
+![alt_text](image2.png "image_tooltip")
 
 MakerDAO has lowered the YFI-A stability fee to 1% and the ETH-C stability fee to 0.50%. These are incredibly beneficial for Yearn’s YFI and ETH strategies as they lower the cost of borrowing. The reduced cost of capital generates more net yield for users, improving returns.
 
