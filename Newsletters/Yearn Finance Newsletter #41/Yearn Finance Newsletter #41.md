@@ -23,7 +23,7 @@ Yearn Finans Bülteninin 41. baskısına hoş geldiniz. Bu bülten ile amacımı
 
 ## Yearn’in yükselen Aggregator Piyasalarındaki Pazar payı
 
-![alt_text](image3.png "image_tooltip")
+![alt_text](image4.png "image_tooltip")
 
 2021'in ikinci çeyreğinde Yearn’nın yield aggregator piyasalarındaki pazar payı %29’dan %69’a yükseldi. AUM’umuzda %136’lık bir artış ile beş milyar dolara ulaşan bir büyüme gördük. Sizler için piyasada en iyi risk-uyumlu getirileri bulabilmek için sürekli çalışıyoruz. Sermayenizi yVaults'a yatırın ve bırakın tüm zor işleri sizin için stratejistlerimiz halletsin.
 
@@ -31,7 +31,7 @@ Bu Messari [raporunda](https://messari.io/article/q2-21-defi-review?utm_source=r
 
 ## Year’ın Compound'a eklenecek olması
 
-![alt_text](image4.png "image_tooltip")
+![alt_text](image3.png "image_tooltip")
 
 YFI’nin bir pazar olarak Compound Finance'a eklenmesi ile ilgili bir teklif hazırlanmış ve kontratlar dağıtılmıştır. Her bir token karşılıksız teminata(başlangıçta), aynı faiz oran modeli (COMP/LINK’de olduğu gibi) ve her bir pazar için %25’lik rezerv faktörüne (standart oran) sahip olacaktır.
 
