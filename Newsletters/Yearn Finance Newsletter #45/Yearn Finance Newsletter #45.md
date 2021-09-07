@@ -2,65 +2,65 @@
 
 ![](image1.jfif)
 
-Welcome to the 45th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you're interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Bem-vindo à 45ª edição do Yearn Finance Newsletter. Nosso objetivo com este boletim é manter a comunidade da Yearn e a comunidade cripto em geral informadas sobre as notícias mais recentes, incluindo lançamentos de produtos, mudanças de governança e atualizações do ecossistema. Se você estiver interessado em aprender mais sobre Yearn Finance, siga nossas contas oficiais [Twitter](https://twitter.com/iearnfinance) e [Medium](https://medium.com/iearn).
 
-## **Summary**
+## **Resumo**
 
-- ALPHA and YFI Liquidity Providers Eligible For A Special NFT
-- Reminder To Migrate To V2
-- How To Swap Into Yearn Vaults
-- Cumulative Protocol Revenue Reaches $39M
-- Vaults at Yearn
-- Ecosystem News
+- Provedores de liquidez ALPHA e YFI elegíveis para um NFT especial
+- Lembrete para migrar para V2
+- Como mudar de um vault Yearn para outro
+- A receita cumulativa do protocolo atinge US $ 39 milhões
+- Vaults na Yearn
+- Notícias do Ecossistema
 
-## **ALPHA and YFI Liquidity Providers Eligible For A Special NFT**
+## **Provedores de liquidez ALPHA e YFI elegíveis para um NFT especial**
 
 ![](image2.jfif)
 
-Liquidity providers for the Uniswap ETH/YFI and Sushiswap ETH/YFI pools in Alpha Homora V2 pools will be eligible for a special NFT drop courtesy of Yearn, Alpha, and Project Galaxy.
+Os provedores de liquidez para os pools Uniswap ETH / YFI e Sushiswap ETH / YFI nos pools Alpha Homora V2 serão elegíveis para um NFT especial, cortesia de Yearn, Alpha e Project Galaxy.
 
-This drop will last 3 full days, from 9/3-9/9. Users that open/have existing positions in eligible pools will be able to claim their NFT on Project Galaxy's website [here](https://galaxy.eco/AlphaFinanceLab/campaign/117).
+Este brinde durará 3 dias inteiros, de 3/9 - 9/9. Os usuários que abrirem/têm posições existentes em pools elegíveis poderão reivindicar seu NFT no site do Projeto Galaxy [aqui](https://galaxy.eco/AlphaFinanceLab/campaign/117).
 
-Note that users will only be able to claim their NFT during the window and must claim with the wallet address that has the positions currently open
+Observe que os usuários só poderão reivindicar seu NFT durante a janela, e devem reivindicar com o endereço da carteira que tem as posições atualmente abertas
 
-View more details [here](https://twitter.com/AlphaFinanceLab/status/1433689307152195591).
+Veja mais detalhes [aqui](https://twitter.com/AlphaFinanceLab/status/1433689307152195591).
 
-## **Reminder To Migrate To V2**
+## **Lembrete para migrar para V2**
 
-As v2 has been live for months, the v1 vaults have been deprecated and strategies have been shut down, with users still in the vaults earning no yield. These vaults have served the DeFi community over a year as a reliable source of yield, and now, it's time for an upgrade. As a reminder, our v2 vaults entail several changes such as deploying capital across several strategies for more efficiency and better risk-adjusted yield. You can migrate to v2 at any time without fees.
+Como a v2 está no ar há meses, os vaults v1 foram descontinuados e as estratégias foram fechadas, com os usuários ainda nos vaults não estão a ganhar rendimento. Esses vaults têm servido à comunidade DeFi por mais de um ano como uma fonte confiável de rendimento, e agora é hora de um upgrade. Como um lembrete, nossos cofres v2 contém várias mudanças, como a implantação de capital em várias estratégias para mais eficiência e melhor rendimento ajustado ao risco. Você pode migrar para a v2 a qualquer momento sem taxas.
 
-Check out the vaults here at [yearn.finance/vaults](https://yearn.finance/vaults).
+Confira os vaults aqui em [yearn.finance/vaults](https://yearn.finance/vaults).
 
-## **How To Swap Into Yearn Vaults**
+## **Como investir nos vaults Yearn**
 
 ![](image3.jfif)
 
-One of the best ways to do Yearn Vaults swaps funds from one vault to another is typically using [curve.fi](https://curve.fi/) or with zaps built into Yearn's UI. This is gas efficient, but may cost extra in slippage or additional fees.
+Uma das melhores maneiras de trocar fundos de um Yearn Vault para outro é normalmente usando [curve.fi](https://curve.fi/) ou com zaps embutidos na IU de Yearn. Isso é eficiente em termos de gás, mas pode custar mais em slippage ou taxas adicionais.
 
-Another way of migrating funds from Compound and AAVE to Yearn is with the use of [bowswap.finance](https://bowswap.finance/). It lets you withdraw from the protocol and deposit into a Yearn vault, with it additionally showing both protocol's APYs for comparison and allowing you to select multiple tokens at a time. No extra fees!
+Outra forma de migrar fundos de Compound e AAVE para Yearn é com o uso de [bowswap.finance](https://bowswap.finance/). Ele permite que você retire do protocolo e deposite em um vault Yearn, com ele adicionalmente mostrando os APYs de ambos protocolos para comparação e permitindo que você selecione vários tokens de uma vez. Sem taxas extras!
 
-Thanks to [cryptouf](https://twitter.com/cryptouf) for curating this short guide.
+Agradecimentos a [cryptouf](https://twitter.com/cryptouf) pela curadoria deste pequeno guia.
 
-## **Cumulative Protocol Revenue Reaches $39M**
+## **A receita cumulativa do protocolo atinge US $ 39 milhões**
 
 ![](image4.png)
 
-Yearn has earned over $39 million in revenue, since launch (excluding the interest earned by depositors). In the past 30 days, over $5 million dollars in revenue has been generated by the protocol. An extrapolation of this data projects annual revenue to be nearly $30 million.
+Yearn recebeu mais de $ 39 milhões em receitas, desde o lançamento (excluindo os juros ganhos pelos depositantes). Nos últimos 30 dias, mais de $ 5 milhões de dólares em receita foram gerados pelo protocolo. Uma extrapolação desses dados projeta uma receita anual de quase US $ 30 milhões.
 
-Yearn's cumulative revenue and other statistics are viewable [here](https://www.yfistats.com/).
+A receita acumulada de Yearn e outras estatísticas podem ser visualizadas [aqui](https://www.yfistats.com/).
 
-## **Vaults At Yearn**
+## **Vaults na Yearn**
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Você pode ler uma descrição detalhada das estratégias para todos os nossos yVaults ativos [aqui](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-## **Ecosystem News**
+## **Notícias do Ecossistema**
 
-[Keep3r Network v3 liquidity incentives](https://twitter.com/AndreCronjeTech/status/1434125562281332737)
+[Incentivos de liquidez Keep3r Network v3](https://twitter.com/AndreCronjeTech/status/1434125562281332737)
 
-[ySNX vault users qualify for an airdrop from Thales Markets](https://twitter.com/thalesmarket/status/1434889906657144834)
+[Os usuários do ySNX vault se qualificam para um airdrop da Thales Markets](https://twitter.com/thalesmarket/status/1434889906657144834)
 
-[yvcrvSTETH added to abracadabra.money as a lending market](https://twitter.com/MIM_Spell/status/1430975000350281732?s=20)
+[yvcrvSTETH adicionado a abracadabra.money como um mercado de empréstimos](https://twitter.com/MIM_Spell/status/1430975000350281732?s=20)
 
-[The Defiant breaks down the Yearn ecosystem](https://thedefiant.io/yearn-finance-ecosystem-breakdown-pushing-the-boundaries-of-human-coordination/)
+[The Defiant decompõe o ecossistema Yearn](https://thedefiant.io/yearn-finance-ecosystem-breakdown-pushing-the-boundaries-of-human-coordination/)
 
-[Yearn crvTricrypto coverage market live on cozy.finance](https://twitter.com/cozyfinance/status/1433602125792038913)
+[Mercado de cobertura Yearn crvTricrypto já funcionando em cozy.finance](https://twitter.com/cozyfinance/status/1433602125792038913)
