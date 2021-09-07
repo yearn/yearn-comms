@@ -1,66 +1,66 @@
-# Yearn Finance Newsletter #45
+# Yearn Finance Bülteni #45
 
 ![](image1.jfif)
 
-Welcome to the 45th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you're interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Yearn Finance Bülteninin 45. baskısına hoş geldiniz. Bu bültenle amacımız, Yearn'i ve daha geniş kripto topluluğunu ürün lansmanları, yönetim değişiklikleri ve ekosistem güncellemeleri de dahil olmak üzere en son gelişmelerden haberdar etmektir. Yearn Finance hakkında daha fazla bilgi edinmek istiyorsanız, resmi [Twitter](https://twitter.com/iearnfinance) ve [Medium](https://medium.com/iearn) hesaplarımızı takip edin.
 
-## **Summary**
+## **Özet**
 
-- ALPHA and YFI Liquidity Providers Eligible For A Special NFT
-- Reminder To Migrate To V2
-- How To Swap Into Yearn Vaults
-- Cumulative Protocol Revenue Reaches $39M
-- Vaults at Yearn
-- Ecosystem News
+- Özel Bir NFT İçin hak kazanan ALPHA ve YFI Likidite Sağlayıcıları
+- V2'ye Geçmek İçin Hatırlatma
+- Yearn Vault'larına Nasıl Geçiş Yapılır
+- Kümülatif Protokol Geliri 39 Milyon Dolara Ulaştı
+- Yearn'deki Vault'lar
+- Ekosistem Haberleri
 
-## **ALPHA and YFI Liquidity Providers Eligible For A Special NFT**
+## **Özel Bir NFT İçin hak kazanan ALPHA ve YFI Likidite Sağlayıcıları**
 
 ![](image2.jfif)
 
-Liquidity providers for the Uniswap ETH/YFI and Sushiswap ETH/YFI pools in Alpha Homora V2 pools will be eligible for a special NFT drop courtesy of Yearn, Alpha, and Project Galaxy.
+Alpha Homora V2 havuzlarındaki Uniswap ETH/YFI ve Sushiswap ETH/YFI havuzları için likidite sağlayanlar, Yearn, Alpha ve Project Galaxy'nin özel bir NFT'sini kazanacaklardır.
 
-This drop will last 3 full days, from 9/3-9/9. Users that open/have existing positions in eligible pools will be able to claim their NFT on Project Galaxy's website [here](https://galaxy.eco/AlphaFinanceLab/campaign/117).
+Bu düşüş 9/3-9/9 tarihinden itibaren 3 tam gün sürecek. Uygun havuzlarda pozisyon açan/mevcut pozisyonları olan kullanıcılar, NFT'lerini Project Galaxy'nin web sitesinde [buradan](https://galaxy.eco/AlphaFinanceLab/campaign/117) talep edebilirler.
 
-Note that users will only be able to claim their NFT during the window and must claim with the wallet address that has the positions currently open
+Kullanıcıların NFT'lerini yalnızca teşhire açıkken talep edebileceklerini ve şu anda açık olan pozisyonlara sahip cüzdan adresiyle talep etmeleri gerektiğini unutmayın.
 
-View more details [here](https://twitter.com/AlphaFinanceLab/status/1433689307152195591).
+Daha fazla ayrıntıyı [burada](https://twitter.com/AlphaFinanceLab/status/1433689307152195591) görüntüleyebilirsiniz.
 
-## **Reminder To Migrate To V2**
+## **V2'ye Geçmek İçin Hatırlatma**
 
-As v2 has been live for months, the v1 vaults have been deprecated and strategies have been shut down, with users still in the vaults earning no yield. These vaults have served the DeFi community over a year as a reliable source of yield, and now, it's time for an upgrade. As a reminder, our v2 vaults entail several changes such as deploying capital across several strategies for more efficiency and better risk-adjusted yield. You can migrate to v2 at any time without fees.
+V2 aylardır yayında olduğundan, v1 vauşt'ları kullanımdan kaldırıldı ve stratejiler kapatıldı ve vault'larda bulunan kullanıcılar artık getiri elde edemedi. Bu vault'lar, bir yıl boyunca DeFi topluluğuna güvenilir bir getiri kaynağı olarak hizmet etti ve şimdi bir üst seviyeye geçme zamanı. Bir hatırlatma olarak, v2 vault'larımız, daha fazla verimlilik ve daha iyi bir riske göre ayarlanmış getiri için sermayeyi çeşitli stratejilere dağıtmak gibi çeşitli değişiklikler gerektirir. Herhangi bir zamanda ücretsiz olarak v2'ye geçiş yapabilirsiniz.
 
-Check out the vaults here at [yearn.finance/vaults](https://yearn.finance/vaults).
+[yearn.finance/vaults](https://yearn.finance/vaults) adresindeki vault'lara göz atabilirsiniz.
 
-## **How To Swap Into Yearn Vaults**
+## **Yearn Vault'larına Nasıl Geçiş Yapılır**
 
 ![](image3.jfif)
 
-One of the best ways to do Yearn Vaults swaps funds from one vault to another is typically using [curve.fi](https://curve.fi/) or with zaps built into Yearn's UI. This is gas efficient, but may cost extra in slippage or additional fees.
+Yearn Vaults'un bir vault'dan diğerine para takası yapmanın en iyi yollarından biri, genellikle [curve.fi](https://curve.fi/) kullanmak veya Yearn'in kullanıcı arayüzünde yerleşik zapları kullanmaktır. Bu gaz etkilidir, ancak slipaj veya ek ücretler için ekstra maliyete neden olabilir.
 
-Another way of migrating funds from Compound and AAVE to Yearn is with the use of [bowswap.finance](https://bowswap.finance/). It lets you withdraw from the protocol and deposit into a Yearn vault, with it additionally showing both protocol's APYs for comparison and allowing you to select multiple tokens at a time. No extra fees!
+Compound ve AAVE'den Yearn'e para aktarmanın başka bir yolu da [bowswap.finance](https://bowswap.finance/) kullanmaktır. Protokolden çekilmenize ve bir Yearn vault'una yatırmanıza izin verir, ayrıca karşılaştırma için her iki protokolün APY'lerini gösterir ve aynı anda birden fazla token seçmenize izin verir. Ekstra ücret yok!
 
-Thanks to [cryptouf](https://twitter.com/cryptouf) for curating this short guide.
+Bu kısa kılavuzu hazırladığı için [cryptouf](https://twitter.com/cryptouf)'a teşekkürler.
 
-## **Cumulative Protocol Revenue Reaches $39M**
+## **Kümülatif Protokol Geliri 39 Milyon Dolara Ulaştı**
 
 ![](image4.png)
 
-Yearn has earned over $39 million in revenue, since launch (excluding the interest earned by depositors). In the past 30 days, over $5 million dollars in revenue has been generated by the protocol. An extrapolation of this data projects annual revenue to be nearly $30 million.
+Yearn, lansmanından bu yana 39 milyon doların üzerinde gelir elde etti (mudiler tarafından kazanılan faiz hariç). Son 30 günde, protokol tarafından 5 milyon doların üzerinde gelir elde edildi. Bu verilerin ekstrapolasyonu, yıllık gelirin yaklaşık 30 milyon dolar olmasını öngörüyor.
 
-Yearn's cumulative revenue and other statistics are viewable [here](https://www.yfistats.com/).
+Yearn'in kümülatif geliri ve diğer istatistikleri [buradan](https://www.yfistats.com/) görüntülenebilirsiniz.
 
-## **Vaults At Yearn**
+## **Yearn'deki Vault'lar**
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Tüm etkin yVault'larımıza yönelik stratejilerin ayrıntılı bir açıklamasını [buradan](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) okuyabilirsiniz.
 
-## **Ecosystem News**
+## **Ekosistem Haberleri**
 
-[Keep3r Network v3 liquidity incentives](https://twitter.com/AndreCronjeTech/status/1434125562281332737)
+[Keep3r Network v3 likidite teşvikleri](https://twitter.com/AndreCronjeTech/status/1434125562281332737)
 
-[ySNX vault users qualify for an airdrop from Thales Markets](https://twitter.com/thalesmarket/status/1434889906657144834)
+[ySNX vault'u kullanıcıları, Thales Markets'tan bir airdrop almaya hak kazandılar](https://twitter.com/thalesmarket/status/1434889906657144834)
 
-[yvcrvSTETH added to abracadabra.money as a lending market](https://twitter.com/MIM_Spell/status/1430975000350281732?s=20)
+[yvcrvSTETH, borç verme piyasası olarak abracadabra.money'e eklendi](https://twitter.com/MIM_Spell/status/1430975000350281732?s=20)
 
-[The Defiant breaks down the Yearn ecosystem](https://thedefiant.io/yearn-finance-ecosystem-breakdown-pushing-the-boundaries-of-human-coordination/)
+[Defiant, Yearn ekosistemini bozuyor](https://thedefiant.io/yearn-finance-ecosystem-breakdown-pushing-the-boundaries-of-human-coordination/)
 
-[Yearn crvTricrypto coverage market live on cozy.finance](https://twitter.com/cozyfinance/status/1433602125792038913)
+[Yearn crvTricrypto kapsama pazarı cozy.finance'da hayata geçti](https://twitter.com/cozyfinance/status/1433602125792038913)
