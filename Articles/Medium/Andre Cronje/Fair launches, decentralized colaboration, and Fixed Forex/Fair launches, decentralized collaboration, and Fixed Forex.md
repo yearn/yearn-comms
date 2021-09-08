@@ -52,6 +52,7 @@ Para fatores de garantia atualizados, você pode visitar a documentação do Iro
 Cada par forex terá como alvo 2 pools de liquidez;
 
 ib\*/\* ([curve.fi](https://curve.fi/)) 
+
 ib\*/ETH ([sushi.com](https://sushi.com/))
 
 ![](image4.png)
