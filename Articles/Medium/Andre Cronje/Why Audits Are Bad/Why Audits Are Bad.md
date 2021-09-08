@@ -15,11 +15,17 @@ Vamos usar o Fixed Forex como exemplo, "O projeto é auditado?" \[Sim\], e aqui 
 Ótimo, certo? 1 baixo e 1 informativo. Mas agora vamos olhar contextualmente, este é essencialmente um contrato ERC20 e, embora mostre que ibEUR e subsequentes ib-assets são uma implementação simples de ERC20, o que dizer do resto do ecossistema?
 
 [ibEUR gauge](https://etherscan.io/address/0x9d7ca778d067045a9d6b871c9d28589875308018) 
+
 [ibKRW gauge](https://etherscan.io/address/0x8992fd229b574b8083de1249bc6fd3711fda45dd) 
+
 [Votação](https://etherscan.io/address/0xd9c8620c0c0b866b7b5180d2d70093165340326d) 
+
 [Faucet](https://etherscan.io/address/0x7d254d9adc588126edaee52a1029278180a802e8) 
+
 [distribuição ibEUR/ETH](https://etherscan.io/address/0x1da8a6fe33bd35b99505d67843eec9fa124f2d4b) 
+
 [recompensas ib](https://etherscan.io/address/0x83893c4a42f8654c2dd4ff7b4a7cd0e33ae8c859) 
+
 [Distribuição de taxas](https://etherscan.io/address/0x27761efeb0c7b411e71d0fd0aee5dde35c810cc2)
 
 Agora, é muito fácil para mim ter deixado em um simples tweet, "Relatório de auditoria do Fixed Forex", e pronto, e é por isso que, mesmo no passado, eu odiava compartilhar relatórios de auditoria, nós os usamos como um selo de aprovação, pessoas não técnicas usam-no como confirmação de que estão "seguros". Nada sobre o que estamos fazendo é seguro, nada sobre o que estamos tentando fazer é fácil e não temos garantias futuras.
