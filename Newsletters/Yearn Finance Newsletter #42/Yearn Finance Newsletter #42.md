@@ -7,12 +7,12 @@ Willkommen zur 42. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter 
 ## **Zusammenfassung**
 
 - Die Yearn Blue Pill
--	Woofy Woche 11 Schnappschüsse
--	Migrieren oder sterben
+- Woofy Woche 11 Schnappschüsse
+- Migrieren oder sterben
 - Neue Curve Gauge Voting Strategie
--	Schau dir die Gurkengläser an
--	Was es braucht, um ein Stratege zu sein
--	Audits für Yearn V2 veröffentlicht
+- Schau dir die Gurkengläser an
+- Was es braucht, um ein Stratege zu sein
+- Audits für Yearn V2 veröffentlicht
 - Vaults bei Yearn
 - Nachrichten zum Ökosystem
 
