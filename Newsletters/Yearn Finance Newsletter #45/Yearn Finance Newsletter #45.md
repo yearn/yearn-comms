@@ -2,65 +2,65 @@
 
 ![](image1.jfif)
 
-Welcome to the 45th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you're interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Willkommen zur 45. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter möchten wir die Yearn- und die breitere Krypto-Community über die neuesten Nachrichten informieren, darunter Produkteinführungen, Änderungen in der Unternehmensführung und Aktualisierungen im Ökosystem. Wenn du mehr über Yearn Finance erfahren möchtest, folge unseren offiziellen [Twitter](https://twitter.com/iearnfinance)- und [Medium](https://medium.com/iearn)-Konten.
 
-## **Summary**
+## **Zusammenfassung**
 
-- ALPHA and YFI Liquidity Providers Eligible For A Special NFT
-- Reminder To Migrate To V2
-- How To Swap Into Yearn Vaults
-- Cumulative Protocol Revenue Reaches $39M
-- Vaults at Yearn
-- Ecosystem News
+- ALPHA- und YFI-Liquiditätsanbieter kommen für ein spezielles NFT in Frage
+- Erinnerung an die Migration auf V2
+- Wie man in Yearn Vaults tauscht
+- Kumulative Protokoll-Einnahmen erreichen $39M
+- Vaults bei Yearn
+- Nachrichten zum Ökosystem
 
-## **ALPHA and YFI Liquidity Providers Eligible For A Special NFT**
+## **ALPHA- und YFI-Liquiditätsanbieter kommen für ein spezielles NFT in Frage**
 
 ![](image2.jfif)
 
-Liquidity providers for the Uniswap ETH/YFI and Sushiswap ETH/YFI pools in Alpha Homora V2 pools will be eligible for a special NFT drop courtesy of Yearn, Alpha, and Project Galaxy.
+Liquiditätsanbieter für die Uniswap-ETH/YFI- und Sushiswap-ETH/YFI-Pools in den Alpha-Homora-V2-Pools kommen in den Genuss eines speziellen NFT-Drops mit freundlicher Genehmigung von Yearn, Alpha und Project Galaxy.
 
-This drop will last 3 full days, from 9/3-9/9. Users that open/have existing positions in eligible pools will be able to claim their NFT on Project Galaxy's website [here](https://galaxy.eco/AlphaFinanceLab/campaign/117).
+Diese Aktion wird 3 volle Tage dauern, vom 03.09. bis 09.09. Benutzer, die offene/bestehende Positionen in berechtigten Pools haben, können ihre NFT auf der Website von Project Galaxy [hier](https://galaxy.eco/AlphaFinanceLab/campaign/117) beantragen.
 
-Note that users will only be able to claim their NFT during the window and must claim with the wallet address that has the positions currently open
+Bitte beachte, dass die Nutzer ihre NFT nur während des Zeitfensters beanspruchen können und dass sie diese mit der Wallet-Adresse beanspruchen müssen, bei der die Positionen derzeit offen sind.
 
-View more details [here](https://twitter.com/AlphaFinanceLab/status/1433689307152195591).
+Mehr Details findest du [hier](https://twitter.com/AlphaFinanceLab/status/1433689307152195591).
 
-## **Reminder To Migrate To V2**
+## **Erinnerung an die Migration auf V2**
 
-As v2 has been live for months, the v1 vaults have been deprecated and strategies have been shut down, with users still in the vaults earning no yield. These vaults have served the DeFi community over a year as a reliable source of yield, and now, it's time for an upgrade. As a reminder, our v2 vaults entail several changes such as deploying capital across several strategies for more efficiency and better risk-adjusted yield. You can migrate to v2 at any time without fees.
+Da v2 bereits seit Monaten im Einsatz ist, wurden die v1-Vaults abgeschrieben und die Strategien abgeschaltet, so dass die Nutzer, die sich noch in den Vaults befinden, keine Erträge mehr erzielen. Diese Vaults haben der DeFi-Gemeinschaft über ein Jahr lang als zuverlässige Ertragsquelle gedient, und jetzt ist es Zeit für ein Upgrade. Zur Erinnerung: Unsere v2-Depots bringen mehrere Änderungen mit sich, wie z. B. die Verteilung des Kapitals auf mehrere Strategien für mehr Effizienz und eine bessere risikobereinigte Rendite. Du kannst jederzeit ohne Gebühren auf v2 umsteigen
 
-Check out the vaults here at [yearn.finance/vaults](https://yearn.finance/vaults).
+Sieh dir die Vaults hier an: [yearn.finance/vaults](https://yearn.finance/vaults).
 
-## **How To Swap Into Yearn Vaults**
+## **Wie man in Yearn Vaults eintauscht**
 
 ![](image3.jfif)
 
-One of the best ways to do Yearn Vaults swaps funds from one vault to another is typically using [curve.fi](https://curve.fi/) or with zaps built into Yearn's UI. This is gas efficient, but may cost extra in slippage or additional fees.
+Eine der besten Möglichkeiten, um Yearn Vaults Swaps Fonds von einem Vaults zu einem anderen zu bringen ist in der Regel mit [curve.fi](https://curve.fi/) oder mit Zaps in Yearn's UI. Dies ist gas-effizient, aber kann zusätzliche Kosten in Slippage oder zusätzliche Gebühren bedeuten.
 
-Another way of migrating funds from Compound and AAVE to Yearn is with the use of [bowswap.finance](https://bowswap.finance/). It lets you withdraw from the protocol and deposit into a Yearn vault, with it additionally showing both protocol's APYs for comparison and allowing you to select multiple tokens at a time. No extra fees!
+Eine weitere Möglichkeit, Geld von Compound und AAVE zu Yearn zu transferieren, ist die Nutzung von [bowswap.finance](https://bowswap.finance/). Damit kannst du aus dem Protokoll abheben und in einen Yearn-Vault einzahlen, wobei zusätzlich die APYs beider Protokolle zum Vergleich angezeigt werden und du mehrere Token auf einmal auswählen kannst. Ohne zusätzlichen Gebühren!
 
-Thanks to [cryptouf](https://twitter.com/cryptouf) for curating this short guide.
+Vielen Dank an [cryptouf](https://twitter.com/cryptouf) für die Zusammenstellung dieses kurzen Leitfadens.
 
-## **Cumulative Protocol Revenue Reaches $39M**
+## **Kumulative Protokoll-Einnahmen erreichen $39M**
 
 ![](image4.png)
 
-Yearn has earned over $39 million in revenue, since launch (excluding the interest earned by depositors). In the past 30 days, over $5 million dollars in revenue has been generated by the protocol. An extrapolation of this data projects annual revenue to be nearly $30 million.
+Yearn hat seit dem Start über 39 Millionen Dollar an Einnahmen erzielt (ohne die von den Einlegern erzielten Zinsen). In den letzten 30 Tagen wurden über 5 Millionen Dollar an Einnahmen durch das Protokoll generiert. Eine Extrapolation dieser Daten lässt auf einen Jahresumsatz von fast 30 Millionen Dollar schließen.
 
-Yearn's cumulative revenue and other statistics are viewable [here](https://www.yfistats.com/).
+Die kumulierten Einnahmen von Yearn und andere Statistiken sind [hier](https://www.yfistats.com/) einsehbar.
 
-## **Vaults At Yearn**
+## **Vaults bei Yearn**
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Eine detaillierte Beschreibung der Strategien für alle unsere aktiven yVaults findest du [hier](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-## **Ecosystem News**
+## **Nachrichten zum Ökosystem**
 
-[Keep3r Network v3 liquidity incentives](https://twitter.com/AndreCronjeTech/status/1434125562281332737)
+[Keep3r Network v3 Liquiditätsanreize](https://twitter.com/AndreCronjeTech/status/1434125562281332737)
 
-[ySNX vault users qualify for an airdrop from Thales Markets](https://twitter.com/thalesmarket/status/1434889906657144834)
+[ySNX Vault-Benutzer qualifizieren sich für einen Airdrop von Thales Markts](https://twitter.com/thalesmarket/status/1434889906657144834)
 
-[yvcrvSTETH added to abracadabra.money as a lending market](https://twitter.com/MIM_Spell/status/1430975000350281732?s=20)
+[yvcrvSTETH wurde als Leihmarkt zu abracadabra.money hinzugefügt](https://twitter.com/MIM_Spell/status/1430975000350281732?s=20)
 
-[The Defiant breaks down the Yearn ecosystem](https://thedefiant.io/yearn-finance-ecosystem-breakdown-pushing-the-boundaries-of-human-coordination/)
+[The Defiant schlüsselt das Yearn-Ökosystem auf](https://thedefiant.io/yearn-finance-ecosystem-breakdown-pushing-the-boundaries-of-human-coordination/)
 
-[Yearn crvTricrypto coverage market live on cozy.finance](https://twitter.com/cozyfinance/status/1433602125792038913)
+[Yearn crvTricrypto Abdeckung Markt live auf cozy.finance](https://twitter.com/cozyfinance/status/1433602125792038913)
