@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # Easily earn with Yearn v2 in Argent
 
+=======
+# Easily earn with Yearn V2 in Argent
+>>>>>>> df157d4 (fix: update argent article image links)
 ![](Image1.jpg)
 
 Yearn V2 Vaults are now just a tap away in Argent! Earn up to 16.47% Net APY\* with automated yield generation. This builds on our existing support for Yearn's [V1 Vaults](https://www.argent.xyz/blog/yearn-vaults-in-argent/).
