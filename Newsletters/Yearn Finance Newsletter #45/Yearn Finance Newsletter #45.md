@@ -1,66 +1,65 @@
-# Yearn Finance Newsletter #45
+# यर्न फिनांस त समाचार पत्र #४५ 
 
 ![](image1.jfif)
 
-Welcome to the 45th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you're interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
-
+यर्न फिनांस समाचार पत्रिका के ४५ वें संस्करण में आपका स्वागत है। इस समाचार पत्रिका के साथ हमारा उद्देश्य उत्पाद लॉन्च, शासन परिवर्तन और पारिस्थितिकी तंत्र अपडेट सहित नवीनतम समाचारों के बारे में यर्न और व्यापक क्रिप्टो समुदाय को सूचित करना है। यदि आप यर्न फिनांस के बारे में अधिक जानने में रुचि रखते हैं, तो हमारे आधिकारिक Twitter और Medium खातों का अनुसरण करें।
 ## **Summary**
 
-- ALPHA and YFI Liquidity Providers Eligible For A Special NFT
-- Reminder To Migrate To V2
-- How To Swap Into Yearn Vaults
-- Cumulative Protocol Revenue Reaches $39M
-- Vaults at Yearn
-- Ecosystem News
+- ALPHA और YFI चलनिधि प्रदाता एक विशेष एनएफटी के लिए पात्र हैं
+- V2 में माइग्रेट करने के लिए रिमाइंडर
+- यर्न की तिजोरियाँ मे कैसे अदला -बदल करे?
+- संचयी प्रोटोकॉल राजस्व $३९ मिलियन तक पहुँचता है
+- यर्न की तिजोरियाँ
+- पारिस्थितिकी तंत्र समाचार
 
-## **ALPHA and YFI Liquidity Providers Eligible For A Special NFT**
+## **ALPHA और YFI चलनिधि प्रदाता एक विशेष एनएफटी के लिए पात्र हैं**
 
 ![](image2.jfif)
 
-Liquidity providers for the Uniswap ETH/YFI and Sushiswap ETH/YFI pools in Alpha Homora V2 pools will be eligible for a special NFT drop courtesy of Yearn, Alpha, and Project Galaxy.
+अल्फा होमोरा V2 पूल में युनिस्वप ETH/YFI और सुशीलवप ETH/YFI पूल के लिए चलनिधि प्रदाता एक विशेष NFT ड्रॉप के लिए पात्र होंगे, जो कि यर्न, अल्फा और प्रोजेक्ट गैलेक्सी के सौजन्य से होंगे।
 
-This drop will last 3 full days, from 9/3-9/9. Users that open/have existing positions in eligible pools will be able to claim their NFT on Project Galaxy's website [here](https://galaxy.eco/AlphaFinanceLab/campaign/117).
+यह NFT पूरे ३ दिनों (९/३-९/९ ) तक चलेगी। पात्र पूल में मौजूदा पदों को खोलने वाले / रखने वाले उपयोगकर्ता प्रोजेक्ट गैलेक्सी की वेबसाइट [यहां](https://galaxy.eco/AlphaFinanceLab/campaign/117) पर अपने एनएफटी का दावा करने में सक्षम होंगे।
 
-Note that users will only be able to claim their NFT during the window and must claim with the wallet address that has the positions currently open
+ध्यान दें कि उपयोगकर्ता केवल इन ३ दिनों के दौरान अपने NFT  का दावा करने में सक्षम होंगे और उन्हें उस वॉलेट पते के साथ दावा करना होगा जिसमें वर्तमान में खुली स्थिति है।
 
-View more details [here](https://twitter.com/AlphaFinanceLab/status/1433689307152195591).
+अधिक विवरण देखें [यहां](https://twitter.com/AlphaFinanceLab/status/1433689307152195591).
 
-## **Reminder To Migrate To V2**
+## **V2 में माइग्रेट करने के लिए रिमाइंडर**
 
-As v2 has been live for months, the v1 vaults have been deprecated and strategies have been shut down, with users still in the vaults earning no yield. These vaults have served the DeFi community over a year as a reliable source of yield, and now, it's time for an upgrade. As a reminder, our v2 vaults entail several changes such as deploying capital across several strategies for more efficiency and better risk-adjusted yield. You can migrate to v2 at any time without fees.
+चूंकि v2 महीनों से लाइव है, v1 वाल्टों को हटा दिया गया है और रणनीतियों को बंद कर दिया गया है। उपयोगकर्ताओं को अभी भी वॉल्ट में कोई उपज नहीं मिल रही है। इन तिजोरियों ने एक साल से अधिक समय से डीफाई समुदाय को उपज के विश्वसनीय स्रोत के रूप में सेवा दी है, और अब, यह अपग्रेड का समय है। एक अनुस्मारक के रूप में, हमारे v2 वॉल्ट में कई बदलाव होते हैं जैसे कि अधिक दक्षता और बेहतर जोखिम-समायोजित उपज के लिए कई रणनीतियों में पूंजी की तैनाती। आप बिना किसी शुल्क के किसी भी समय v2 में माइग्रेट कर सकते हैं।
 
-Check out the vaults here at [yearn.finance/vaults](https://yearn.finance/vaults).
+[yearn.finance/vaults](https://yearn.finance/vaults) पर यहां वाल्ट देखें।
 
-## **How To Swap Into Yearn Vaults**
+## **यर्न की तिजोरियाँ मे कैसे अदला -बदल करे?**
 
 ![](image3.jfif)
 
-One of the best ways to do Yearn Vaults swaps funds from one vault to another is typically using [curve.fi](https://curve.fi/) or with zaps built into Yearn's UI. This is gas efficient, but may cost extra in slippage or additional fees.
+आम तौर पर [curve.fi](https://curve.fi/) या यर्न के यूआई में ज़ैप्स का उपयोग करना, एक तिजोरी से दूसरे तिजोरी में धन की अदला-बदली करने के सबसे अच्छे तरीकों में से एक है। यह गैस कुशल है लेकिन फिसलन या अतिरिक्त शुल्क में अतिरिक्त खर्च हो सकता है।
 
-Another way of migrating funds from Compound and AAVE to Yearn is with the use of [bowswap.finance](https://bowswap.finance/). It lets you withdraw from the protocol and deposit into a Yearn vault, with it additionally showing both protocol's APYs for comparison and allowing you to select multiple tokens at a time. No extra fees!
+[bowswap.finance](https://bowswap.finance/) के उपयोग के साथ कंपाउंड और AAVE से यर्न में धन स्थानांतरित करने का एक अन्य तरीका है। यह आपको प्रोटोकॉल से वापस लेने और यर्न की तिजोरी में जमा करने देता है, साथ ही यह तुलना के लिए प्रोटोकॉल के एपीवाई दोनों को दिखाता है और आपको एक समय में कई टोकन का चयन करने की अनुमति देता है। कोई अतिरिक्त शुल्क नहीं!
 
-Thanks to [cryptouf](https://twitter.com/cryptouf) for curating this short guide.
+इस संक्षिप्त गाइड को तैयार करने के लिए [क्रिप्टौफ](https://twitter.com/cryptouf) को धन्यवाद।
 
-## **Cumulative Protocol Revenue Reaches $39M**
+## **संचयी प्रोटोकॉल राजस्व $३९ मिलियन तक पहुँचता है**
 
 ![](image4.png)
 
-Yearn has earned over $39 million in revenue, since launch (excluding the interest earned by depositors). In the past 30 days, over $5 million dollars in revenue has been generated by the protocol. An extrapolation of this data projects annual revenue to be nearly $30 million.
+लॉन्च के बाद से, यर्न ने राजस्व में $३९  मिलियन से अधिक की कमाई की है (जमाकर्ताओं द्वारा अर्जित ब्याज को छोड़कर)। पिछले ३० दिनों में, प्रोटोकॉल ने  $५ मिलियन से अधिक का राजस्व उत्पन्न किया है। इस डेटा का एक एक्सट्रपलेशन वार्षिक राजस्व लगभग $ 30 मिलियन होने का अनुमान लगाता है।
 
-Yearn's cumulative revenue and other statistics are viewable [here](https://www.yfistats.com/).
+यर्न की संचयी आय और अन्य आंकड़े देखने योग्य हैं [यहां](https://www.yfistats.com/).
 
-## **Vaults At Yearn**
+## **यर्न की तिजोरियाँ**
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+आप हमारे सभी सक्रिय yVaults के लिए रणनीतियों का एक विस्तृत विवरण पढ़ सकते [यहां](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-## **Ecosystem News**
+## **पारिस्थितिकी तंत्र समाचार**
 
-[Keep3r Network v3 liquidity incentives](https://twitter.com/AndreCronjeTech/status/1434125562281332737)
+[Keep3r नेटवर्क v3 तरलता प्रोत्साहन](https://twitter.com/AndreCronjeTech/status/1434125562281332737)
 
-[ySNX vault users qualify for an airdrop from Thales Markets](https://twitter.com/thalesmarket/status/1434889906657144834)
+[ySNX वॉल्ट उपयोगकर्ता थेल्स मार्केट्स से एक एयरड्रॉप के लिए अर्हता प्राप्त करते हैं](https://twitter.com/thalesmarket/status/1434889906657144834)
 
-[yvcrvSTETH added to abracadabra.money as a lending market](https://twitter.com/MIM_Spell/status/1430975000350281732?s=20)
+[yvcrvSTETH ने abracadabra.money को एक उधार बाजार के रूप में जोड़ा](https://twitter.com/MIM_Spell/status/1430975000350281732?s=20)
 
-[The Defiant breaks down the Yearn ecosystem](https://thedefiant.io/yearn-finance-ecosystem-breakdown-pushing-the-boundaries-of-human-coordination/)
+[द डिफेंट ने यर्न इकोसिस्टम को शमजाया](https://thedefiant.io/yearn-finance-ecosystem-breakdown-pushing-the-boundaries-of-human-coordination/)
 
-[Yearn crvTricrypto coverage market live on cozy.finance](https://twitter.com/cozyfinance/status/1433602125792038913)
+[यर्न सीआरवीट्राइक्रिप्टो कवरेज मार्केट कोज़ी.फाइनेंस पर लाइव](https://twitter.com/cozyfinance/status/1433602125792038913)
