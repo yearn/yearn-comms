@@ -1,4 +1,5 @@
-# Easily earn with Yearn V2 in Argent
+# Easily earn with Yearn v2 in Argent
+
 ![](Image1.jpg)
 
 Yearn V2 Vaults are now just a tap away in Argent! Earn up to 16.47% Net APY\* with automated yield generation. This builds on our existing support for Yearn's [V1 Vaults](https://www.argent.xyz/blog/yearn-vaults-in-argent/).
@@ -7,8 +8,8 @@ Yearn V2 Vaults are now just a tap away in Argent! Earn up to 16.47% Net APY\* w
 
 Earning with [Yearn](https://yearn.finance/vaults) through Argent is unique because of its:
 
-*   **Simplicity**: Only one transaction required. (No need for a separate approval).
-*   **Security**: No infinite token approvals; you automatically only approve what you need to spend. You also have peace of mind that you're interacting with the right contracts.
+- **Simplicity**: Only one transaction required. (No need for a separate approval).
+- **Security**: No infinite token approvals; you automatically only approve what you need to spend. You also have peace of mind that you're interacting with the right contracts.
 
 We've launched with 7 Vaults (USDC, DAI, SNX, 1INCH, YFI, WBTC, USDT, UNI, ETH).
 
@@ -28,12 +29,12 @@ With V2, each Vault can employ multiple strategies, whereas V1 Vaults used just 
 
 ### **Buy**
 
-*   Tap **'Invest'** tab in Argent
-*   Tap **'Yearn V2 Vaults'**
-*   Choose a Vault
-*   Tap **'Buy Investment'**
-*   Select amount (& confirm you're happy with the network fee)
-*   Buy
+- Tap **'Invest'** tab in Argent
+- Tap **'Yearn V2 Vaults'**
+- Choose a Vault
+- Tap **'Buy Investment'**
+- Select amount (& confirm you're happy with the network fee)
+- Buy
 
 ### **Fees**
 
@@ -41,8 +42,8 @@ Argent does not take a fee.
 
 Yearn takes:
 
-*   20% performance fee (deducted from the yield)
-*   2% management fee (deducted from total balance per year).
+- 20% performance fee (deducted from the yield)
+- 2% management fee (deducted from total balance per year).
 
 You also need to pay for gas.
 
@@ -54,16 +55,16 @@ Balances are not updated continuously; they are updated on a "fluctuating basis"
 
 To track the returns, you can use
 
-*   [Zapper](https://zapper.fi/)
-*   [Zerion](https://app.zerion.io/)
-*   [Yearn Vault ROI Calculator](https://yearn-roi.xyz/#/)
-*   [yVault ROI](https://yvault-roi.netlify.app/)
+- [Zapper](https://zapper.fi/)
+- [Zerion](https://app.zerion.io/)
+- [Yearn Vault ROI Calculator](https://yearn-roi.xyz/#/)
+- [yVault ROI](https://yvault-roi.netlify.app/)
 
 ## **Further reading & resources**
 
-*   [Yearn's docs](https://docs.yearn.finance/)
-*   [Yearn's State of the Vaults (weekly update)](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)
-*   [Yearn's Twitter](https://twitter.com/iearnfinance)
+- [Yearn's docs](https://docs.yearn.finance/)
+- [Yearn's State of the Vaults (weekly update)](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)
+- [Yearn's Twitter](https://twitter.com/iearnfinance)
 
 ## **Risks**
 
@@ -75,8 +76,8 @@ As always in crypto and DeFi, you should do your own research on the risks. Thes
 
 Get started with Argent [here](https://argent.link/yearn-v2-post). If you have any questions you can find us at:
 
-*   [Discord](https://discord.com/invite/GWSyrHg)
-*   [Twitter](https://twitter.com/argentHQ)
-*   [Support](https://support.argent.xyz/hc/en-us)
+- [Discord](https://discord.com/invite/GWSyrHg)
+- [Twitter](https://twitter.com/argentHQ)
+- [Support](https://support.argent.xyz/hc/en-us)
 
-_\*This should go without saying but in case it doesn't: we are NOT a bank _**🙄**_. We are not a regulated financial entity._
+_This should go without saying but in case it doesn't: we are NOT a bank _**🙄**_. We are not a regulated financial entity._
