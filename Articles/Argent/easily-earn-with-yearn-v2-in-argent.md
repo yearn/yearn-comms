@@ -80,4 +80,8 @@ Get started with Argent [here](https://argent.link/yearn-v2-post). If you have a
 - [Twitter](https://twitter.com/argentHQ)
 - [Support](https://support.argent.xyz/hc/en-us)
 
+<<<<<<< HEAD
 _This should go without saying but in case it doesn't: we are NOT a bank _**🙄**_. We are not a regulated financial entity._
+=======
+_This should go without saying but in case it doesn't: we are NOT a bank _**🙄**_. We are not a regulated financial entity._
+>>>>>>> d68a3cc (style: update formatting for Argent article)
