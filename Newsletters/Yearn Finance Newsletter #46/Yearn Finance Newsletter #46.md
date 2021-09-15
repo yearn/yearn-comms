@@ -1,80 +1,80 @@
-# Yearn Finance Newsletter #46
-#### Week Ending September 12th, 2021
+# Yearn Finance 最新动态 #46
+#### 2021年9月12日之前的一周
 
 ![](image1.png)
 
-Welcome to the 46th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you're interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+欢迎来到Yearn最新动态第46版。我们此新闻简报的目的是使Yearn和所有加密货币社区了解最新消息，包括新产品发布，治理变化和生态系统更新。如果你有兴趣了解更多有关Yearn Finance的信息，请关注我们的官方 [Twitter](https://twitter.com/iearnfinance)和[Medium](https://medium.com/iearn)帐户。
 
-## **Summary**
+## **摘要**
 
-- Behind the Scenes at Yearn  
-- Primer on the yvBOOSTVault  
-- Yearn Quarterly Financial Report  
-- Cumulative Protocol Revenue Reaches $41M   
-- Vaults at Yearn  
-- Ecosystem News
+- Yearn的幕后运营  
+- 了解yvBOOST机枪池  
+- Yearn的季度财报  
+- 累计协议收入已达到4100万美元   
+- Yearn机枪池  
+- 生态系统最新消息
     
 
-## **Behind the Scenes at Yearn**
+## **Yearn的幕后运营**
 
-As you may know, Yearn is the yield function protocol for DeFi, with many strategists coding ways to get optimal returns for our users using flexible smart contracts that allocate efficiently to various protocols. Because Yearn needs to keep up with the competitive yield aggregation market, we need to deploy strategies quickly, and this means there are always security risks.
+如大家所知，Yearn是个DeFi收益聚合器协议，我们的策略家使用灵活的智能合约来为我们的用户赚取最佳回报，这些智能合约可以有效的分配资产到各种其它协议上。由于Yearn需要跟上竞争激烈的收益聚合器市场，我们需要快速的部署策略，这意味着协议将有潜在的安全风险.
 
-There are 176 strategies for 64 vaults total as of today, and to work through security risks, we need to have a solid risk framework. To mitigate security risks, we have added options such as simulation bots to catch issues or on chain healthchecks. One can read more about Yearn's emergency procedures [here](https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/EMERGENCY.md).
+目前我们共有64个机枪池，其中包括176个策略，要解决安全风险，我们需要有一个可靠的风险管理框架。为了降低安全风险，我们添加了一些措施，例如模拟机器人来检测问题或链上的健康检查。你可以在[此处](https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/EMERGENCY.md)阅读更多有关Yearn紧急程序的信息。
 
-You can also view details about vaults and strategies on [yearn.watch](https://yearn.watch/).
+你也可以在[yearn.watch](https://yearn.watch/)上查看有关机枪池和策略的详细信息。
 
-Check out more information on Yearn's security procedures at storming0x's tweet [here](https://twitter.com/storming0x/status/1436851219864059906).
+storming0x的[推文](https://twitter.com/storming0x/status/1436851219864059906)有更多有关Yearn安全程序的信息。
 
-## **Primer on the yvBOOST Vault**
+## **了解yvBOOST机枪池**
 
 ![](image2.png)
 
-CRV is curve.fi's governance token, which can be locked for up to 4 years and gives you the ability to vote and claim protocol fees. By using Yearn to lock your CRV for veCRV (vote-escrowed CRV), you can earn more rewards via Yearn periodically donating some of our farmed CRV to the yveCRV vault. So, in addition to normal CRV rewards, you will be able to claim Yearn's portion of Curve's protocol fees.
+CRV是curve.fi的治理代币，可以被锁定长达4 年，并能够让你投票和领取协议费用份额。由于Yearn定期向yveCRV的池投入我们挖的一些CRV以获得更多奖励，如果用户通过使用Yearn来锁定他们的CRV以获取veCRV（投票托管 CRV）他们可获得更多的奖励。因此，除了正常的CRV奖励之外，你还可以领取Yearn的Curve协议费用分额。
 
-However, with veCRV deposited in Yearn (as yveCRV), you can't vote on Curve. Even with this minor setback, Yearn runs a simulation and votes to maximize yield across all vaults.
+虽然存放在Yearn的veCRV（成为yveCRV）不能被用来在Curve上进行投票，Yearn仍然做了模拟并投票来最大化所有机枪池的收益。
 
-One of our newer additions to Yearn is the yvBOOST vault, which is a compounding version of yveCRV. If you lock CRV here, it will claim the protocol rewards and automatically buy more yveCRV, thus compounding it. You can't vote with yvBOOST still, but the vault will automatically do it for you. Deposit and enjoy your rewards.
+yvBoost是我们较新的机枪池之一，它是yveCRV的自动复合版本。如果你在这个机枪池锁定CRV，它的自动复合功能将为你领取协议奖励并自动买入更多的yveCRV。
 
-If one needs stables from their deposits from the vaults, you can swap yveCRV and yvBOOST on SushiSwap.
+如果有需要从机枪池存款中提取稳定币，大家可以在SushiSwap上为yveCRV和yvBOOST做交换。
 
-If you don't have any CRV, thanks to Yearn Zaps, you can deposit virtually any crypto in your wallet into these vaults. And Yearn's smart contracts will automatically convert your tokens to yvBOOST.
+如果你没有任何CRV，借着Yearn的Zaps功能，你可以将钱包中的几乎任何加密货币存入这些机枪池。Yearn的智能合约会自动将你的代币交换为yvBOOST。
 
-As always, thank you to our Strategists for always building top tier yield infrastructure for DeFi.
+感谢我们的策略家一直不断的为DeFi邻域构建顶级收益基础设施。
 
-Check out the vaults here at [yearn.finance/vaults](https://yearn.finance/vaults).
+你可以在这里[yearn.finance/vaults](https://yearn.finance/vaults)查看机枪池。
 
-## **Yearn Quarterly Financial Report**
+## **Yearn的季度财报**
 
 ![](image3.png)
 
-Several Yearn community members have created an informal quarterly financial report covering the period from April 2021 to June 2021. This report was generated using publicly available information, and includes an income statement and balance sheet. This report has not been audited by a third-party professional accounting firm, and does not represent financial, investment, or advice of any kind. It is for informational purposes only.
+一些Yearn的社区成员创建了一份非正式的季度财务报告，涵盖2021年4月至2021年6月的期间。此报告是应用公开的信息来创建的，包括收入报表和资产负债表。本报告未经第三方专业会计师事务所审计，它不代表任何财务或投资建议。它仅供大家做参考。
 
-You can view this report [here](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf).
+你可以在[这里](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf)查看这份报告。
 
-## **Cumulative Protocol Revenue Reaches $41M**
+## **累计协议收入已达到4100万美元**
 
 ![](image4.png)
 
-Yearn has earned nearly $41 million in revenue, since launch (excluding the interest earned by depositors). In the past 30 days, nearly $6 million dollars in revenue has been generated by the protocol. An extrapolation of this data projects annual revenue to be nearly $60 million.
+自推出以来，Yearn已赚取了近4100万美元的收入（这不包括存款人赚取的利息）。在过去的30天内，协议就生产了近600万美元的收入。根据该数据的推断我们预计年收入将接近6000万美元。
 
-Yearn's cumulative revenue and other statistics are viewable [here](https://www.yfistats.com/).
+你可在[此处](https://www.yfistats.com/)查看Yearn的累计收入和其他统计数据。
 
-## **Vaults At Yearn**
+## **Yearn机枪池**
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+你可以在[此处](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)阅读我们所有yVault策略的详细说明。
 
-## **Ecosystem News**
+## **生态系统最新消息**
 
-[Sign up to become an intern at the yAcademy DAO and audit live smart contracts](https://twitter.com/yAcademyDAO/status/1435866622556659717)
+[报名成为yAcademy DAO的实习生并审核实时智能合约](https://twitter.com/yAcademyDAO/status/1435866622556659717)
 
-[YFI/ETH SushiSwap liquidity tokens are available as collateral on OnX's Alpha Vaults](https://twitter.com/OnXFinance/status/1435229990681972741)
+[YFI/ETH Sushiswap流动性代币可作为OnX的Alpha机枪池的抵押品](https://twitter.com/OnXFinance/status/1435229990681972741)
 
-[Yearn is supporting ETHGlobal and ETHOnline, with $4,000 in prizes available for hackers and the opportunity to collaborate with the Yearn team](https://twitter.com/iearnfinance/status/1436302183545196546)
+[Yearn为ETHGlobal和ETHOnline提供4000美元的黑客奖励以及与Yearn团队合作的机会](https://twitter.com/iearnfinance/status/1436302183545196546)
 
-[rKP3R rewards added for Fixed Forex](https://twitter.com/thekeep3r/status/1437402914474037256)
+[Fixed Forex加了rKP3R奖励](https://twitter.com/thekeep3r/status/1437402914474037256)
 
-[Join tracheopteryx as he speaks at Messari 's #Mainnet2021 on Tuesday Sept 21 at 7:30pm UTC. This panel includes Ryan Watkins and Maki, and is called "Decentralized from Day One: Lessons in Organizational Design!"](https://twitter.com/tracheopteryx/status/1436257062971977729)
+[聆听Tracheopteryx在UTC时间9月21日星期二晚上7:30在Messari's #Mainnet2021上的分享。该座谈包括Ryan Watkins和Maki，被名为“从第一天开始就去中心化：组织设计的教训”](https://twitter.com/tracheopteryx/status/1436257062971977729)
 
-[Thank you to abracadabra.money for bringing 173.4M dollars of TVL to Yearn](https://twitter.com/danielesesta/status/1437372628054982663?s=20)
+[感谢Abracadabra.Money为Yearn增加了1.734亿美元的TVL](https://twitter.com/danielesesta/status/1437372628054982663?s=20)
 
-[How to farm with your WOOFY on ape.tax](https://twitter.com/ape_tax/status/1436908119817211913?s=20)
+[如何在ape.tax上使用WOOFY来做收益农场](https://twitter.com/ape_tax/status/1436908119817211913?s=20)
