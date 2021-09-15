@@ -1,80 +1,79 @@
-# Yearn Finance Newsletter #46
-#### Week Ending September 12th, 2021
+# Bản tin Yearn.Finance Số #46
+#### Tuần Kết thúc Ngày 12/09/2021
 
-![](image1.png)
+![](image1_vn.png)
 
-Welcome to the 46th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you're interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Chào mừng các bạn đến với Bản tin Yearn.Finance Số #46! Chúng tôi hy vọng sẽ truyền tải được những dữ kiện mới nhất cho cộng đồng tiền mã thuật số ('crypto') nói chung lẫn cộng đồng Yearn nói riêng; từ phát hành sản phẩm, thay đổi trong quản trị đến nhiều dự án đối tác trực thuộc hệ sinh thái Yearn. Nếu quan tâm và muốn biết thêm chi tiết về Yearn.Finance, hãy theo dõi tài khoản [Twitter](https://twitter.com/iearnfinance), [Medium](https://medium.com/iearn) cũng như đón chờ nơi phát hành Tiếng Việt chính thức của chúng tôi.
 
-## **Summary**
+## **Tóm tắt**
 
-- Behind the Scenes at Yearn  
-- Primer on the yvBOOSTVault  
-- Yearn Quarterly Financial Report  
-- Cumulative Protocol Revenue Reaches $41M   
-- Vaults at Yearn  
-- Ecosystem News
-    
+- Hậu trường ở Yearn
+- Kiến thức Vỡ lòng về Kho bạc yvBOOST
+- Báo cáo Tài chính Hàng Quý của Yearn
+- Tổng Doanh thu của Giao thức Đạt 41 Triệu Đô-la Mỹ
+- Các Kho bạc ('Vault') tại Yearn
+- Tin tức trong Hệ Sinh thái
 
-## **Behind the Scenes at Yearn**
+## Hậu trường ở Yearn
 
-As you may know, Yearn is the yield function protocol for DeFi, with many strategists coding ways to get optimal returns for our users using flexible smart contracts that allocate efficiently to various protocols. Because Yearn needs to keep up with the competitive yield aggregation market, we need to deploy strategies quickly, and this means there are always security risks.
+Như bạn có thể đã biết, Yearn là giao thức tạo hoa lợi cho ĐeFi, với hàng loạt chiến lược gia lập trình nhiều cách để thu lời tối ưu cho người dùng, sử dụng hợp-đồng-thông-minh ('smart contract') nhằm không ngừng phân bổ vốn sao cho hiệu quả vào các giao thức khác. Do thị trường tổng hợp hoa lợi ngày càng cạnh tranh, Yearn cần theo kịp tốc độ và triển khai chiến lược đủ nhanh, đồng nghĩa với việc sẽ luôn có rủi ro.
 
-There are 176 strategies for 64 vaults total as of today, and to work through security risks, we need to have a solid risk framework. To mitigate security risks, we have added options such as simulation bots to catch issues or on chain healthchecks. One can read more about Yearn's emergency procedures [here](https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/EMERGENCY.md).
+Có tổng cộng 176 chiến lược cho 64 Kho bạc ('Vault') tính đến thời điểm này, và để đảm bảo an toàn, chúng tôi cần có một bộ khung vững chắc về quản lý rủi ro. Để giảm thiểu sự cố, chúng tôi đã bổ sung nhiều công cụ như trình mô phỏng ('simulation bot') để bắt vấn đề hoặc kiểm tra tình trạng ngay trên mạng chính, hay còn gọi là trực-chuỗi ('on-chain'). Bất cứ ai quan tâm đều có thể đọc thêm về quy trình phản ứng khẩn cấp của Yearn [tại đây](https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/EMERGENCY.md).
 
-You can also view details about vaults and strategies on [yearn.watch](https://yearn.watch/).
+Bạn cũng có thể xem chi tiết các Kho bạc ('Vault') và chiến lược trên [yearn.watch](https://yearn.watch/).
 
-Check out more information on Yearn's security procedures at storming0x's tweet [here](https://twitter.com/storming0x/status/1436851219864059906).
+Đào sâu hơn nữa về quy trình bảo đảm an toàn của Yearn từ mẩu tweet của storming0x [ở đây](https://twitter.com/storming0x/status/1436851219864059906).
 
-## **Primer on the yvBOOST Vault**
+## **Kiến thức Vỡ lòng về Kho bạc yvBOOST**
 
 ![](image2.png)
 
-CRV is curve.fi's governance token, which can be locked for up to 4 years and gives you the ability to vote and claim protocol fees. By using Yearn to lock your CRV for veCRV (vote-escrowed CRV), you can earn more rewards via Yearn periodically donating some of our farmed CRV to the yveCRV vault. So, in addition to normal CRV rewards, you will be able to claim Yearn's portion of Curve's protocol fees.
+CRV là tôken quản trị của curve.fi, vốn có thể được khóa lên đến 4 năm và mang lại quyền biểu quyết cũng như quyền nhận phần chia sẻ doanh thu (từ phí sử dụng) giao thức này. Bằng việc sử dụng Yearn để khóa CRV—lấy veCRV ("phiếu bầu ký quỹ" hay 'vote-escrowed CRV'), bạn có thể thu lời nhiều hơn nhờ việc Yearn định kỳ quyên góp một phần CRV "cày" được vào kho bạc yveCRV. Nghĩa là, ngoài lợi nhuận từ CRV thường thấy, bạn sẽ có khả năng lấy phần tiền của Yearn ở doanh thu của giao thức Curve.
 
-However, with veCRV deposited in Yearn (as yveCRV), you can't vote on Curve. Even with this minor setback, Yearn runs a simulation and votes to maximize yield across all vaults.
+Tuy nhiên, với veCRV ký gửi ở Yearn (tên tương ứng là yveCRV), bạn không thể biểu quyết ở Curve nữa. Bù lại, Yearn chạy mã mô phỏng để tự động chọn ra và biểu quyết giúp tăng tối đa hoa lợi cho tất cả mọi Kho bạc ('Vault') của mình.
 
-One of our newer additions to Yearn is the yvBOOST vault, which is a compounding version of yveCRV. If you lock CRV here, it will claim the protocol rewards and automatically buy more yveCRV, thus compounding it. You can't vote with yvBOOST still, but the vault will automatically do it for you. Deposit and enjoy your rewards.
+"Gương mặt" gần đây ở Yearn là kho yvBOOST, một phiên bản tổng hợp lãi kép của yveCRV. Nếu khóa CRV ở đây, nó sẽ lấy lợi nhuận của giao thức và tự động mua thêm yveCRV, từ đó tổng hợp tạo lãi kép. Dĩ nhiên, bạn không thể biểu quyết bằng yvBOOST, nhưng Kho bạc ('Vault') này sẽ tự động thay mặt làm điều đó. Ký gửi ngay để đỡ đau đầu và thoải mái tận hưởng lợi nhuận.
 
-If one needs stables from their deposits from the vaults, you can swap yveCRV and yvBOOST on SushiSwap.
+Nếu cần tiền bình giá ('stable coin') từ lượng ký gửi vào hai Kho bạc ('Vault') nói trên, bạn có thể bán-đổi yveCRV và yvBOOST tại sàn SushiSwap.
 
-If you don't have any CRV, thanks to Yearn Zaps, you can deposit virtually any crypto in your wallet into these vaults. And Yearn's smart contracts will automatically convert your tokens to yvBOOST.
+Nếu chưa có đồng CRV nào, nhờ tính năng Zap của Yearn, bạn có thể ký gửi gần như bất cứ tiền mã thuật số ('crypto') nào trong ví vào hai Kho bạc ('Vault') này. Hợp đồng thông minh ('smart contract') của Yearn sẽ tự động quy đổi tôken của bạn thành yvBOOST.
 
-As always, thank you to our Strategists for always building top tier yield infrastructure for DeFi.
+Như thường lệ, xin cảm ơn các Chiến lược gia của chúng tôi, những người luôn xây dựng cơ sở hạ tầng hoa lợi bậc nhất cho ĐeFi.
 
-Check out the vaults here at [yearn.finance/vaults](https://yearn.finance/vaults).
+Xem các Kho bạc ('Vault') tại liên kết [yearn.finance/vaults](https://yearn.finance/vaults).
 
-## **Yearn Quarterly Financial Report**
+## Báo cáo Tài chính Hàng Quý của Yearn
 
 ![](image3.png)
 
-Several Yearn community members have created an informal quarterly financial report covering the period from April 2021 to June 2021. This report was generated using publicly available information, and includes an income statement and balance sheet. This report has not been audited by a third-party professional accounting firm, and does not represent financial, investment, or advice of any kind. It is for informational purposes only.
+Các thành viên cộng đồng Yearn đã hoàn thành báo cáo tài chính hàng quý không-chính-thức cho giai đoạn 04/2021—06/2021. Báo cáo này được tổng hợp từ nhiều thông tin công khai, bao gồm giải trình thu nhập và bảng quyết toán. Báo cáo này chưa được kiểm định bởi tổ chức kiểm toán chuyên nghiệp bên-thứ-ba, và không phải lời tư vấn tài chính, đầu tư hay bất kỳ hình thức nào khác. Nó chỉ có mục đích cung cấp thông tin tham khảo.
 
-You can view this report [here](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf).
+Bạn có thể xem báo cáo này [tại đây](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf).
 
-## **Cumulative Protocol Revenue Reaches $41M**
+## **Tổng Doanh thu của Giao thức Đạt 41 Triệu Đô-la Mỹ**
 
 ![](image4.png)
 
-Yearn has earned nearly $41 million in revenue, since launch (excluding the interest earned by depositors). In the past 30 days, nearly $6 million dollars in revenue has been generated by the protocol. An extrapolation of this data projects annual revenue to be nearly $60 million.
+Yearn đã ghi nhận doanh thu hơn 41 triệu đô-la Mỹ kể từ lúc phát hành (chưa tính tiền lãi mà những người ký gửi thu về). Trong 30 ngày qua, lợi nhuận của giao thức lên đến hơn 6 triệu $. Sử dụng phép ngoại suy dựa trên dữ liệu này, doanh thu hàng năm dự đoán lên đến gần 60 triệu $.
 
-Yearn's cumulative revenue and other statistics are viewable [here](https://www.yfistats.com/).
+Xem tổng doanh thu và các thống kê khác của Yearn [tại đây](https://www.yfistats.com/).
 
-## **Vaults At Yearn**
+## **Các Kho bạc ('Vault') tại Yearn**
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Bạn có thể đọc mô tả chi tiết các chiến lược ở mọi yVault đang hoạt động [tại đây](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-## **Ecosystem News**
+## **Tin tức trong Hệ Sinh thái**
 
-[Sign up to become an intern at the yAcademy DAO and audit live smart contracts](https://twitter.com/yAcademyDAO/status/1435866622556659717)
+[Đăng ký thực tập ngay tại yAcademy ĐAO và kiểm định hợp đồng thông minh ('smart contract') thật](https://twitter.com/yAcademyDAO/status/1435866622556659717)
 
-[YFI/ETH SushiSwap liquidity tokens are available as collateral on OnX's Alpha Vaults](https://twitter.com/OnXFinance/status/1435229990681972741)
+[Tôken (cấp) thanh khoản YFI/ETH ở SushiSwap giờ đã có thể dùng thế chấp tại Kho OnX của Alpha](https://twitter.com/OnXFinance/status/1435229990681972741)
 
-[Yearn is supporting ETHGlobal and ETHOnline, with $4,000 in prizes available for hackers and the opportunity to collaborate with the Yearn team](https://twitter.com/iearnfinance/status/1436302183545196546)
+[Yearn đang ủng hộ ETHGlobal và ETHOnline với giải thưởng 4000 đô-la Mỹ cho các hắc-kơ ('hacker') cũng như cơ hội cộng tác với ê-kíp Yearn](https://twitter.com/iearnfinance/status/1436302183545196546)
 
-[rKP3R rewards added for Fixed Forex](https://twitter.com/thekeep3r/status/1437402914474037256)
+[Tiền thưởng rKP3R đã được bổ sung vào Fixed Forex](https://twitter.com/thekeep3r/status/1437402914474037256)
 
-[Join tracheopteryx as he speaks at Messari 's #Mainnet2021 on Tuesday Sept 21 at 7:30pm UTC. This panel includes Ryan Watkins and Maki, and is called "Decentralized from Day One: Lessons in Organizational Design!"](https://twitter.com/tracheopteryx/status/1436257062971977729)
+[Tham dự cùng tracheopteryx và đón xem bài thuyết trình của anh tại Messari's #Mainnet2021 vào Thứ Ba, 21/09 lúc 19:30 UTC. Thành phần góp mặt còn có Ryan Watkins và Maki, với tên hội thẩm là "Phi Tập trung từ Ngày Đầu tiên: Bài học về Thiết kế Tổ chức!"](https://twitter.com/tracheopteryx/status/1436257062971977729)
 
-[Thank you to abracadabra.money for bringing 173.4M dollars of TVL to Yearn](https://twitter.com/danielesesta/status/1437372628054982663?s=20)
+[Xin cảm ơn abracadabra.money đã mang lại 173.4 Triệu đô-la TVL (Tổng Giá trị Ký gửi) cho Yearn](https://twitter.com/danielesesta/status/1437372628054982663?s=20)
 
-[How to farm with your WOOFY on ape.tax](https://twitter.com/ape_tax/status/1436908119817211913?s=20)
+[Cách "cày" tiền với WOOFY của bạn bằng ape.tax](https://twitter.com/ape_tax/status/1436908119817211913?s=20)
