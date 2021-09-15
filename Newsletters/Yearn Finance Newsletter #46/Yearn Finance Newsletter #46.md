@@ -14,7 +14,6 @@ Chào mừng các bạn đến với Bản tin Yearn.Finance Số #46! Chúng t�
 - Các Kho bạc ('Vault') tại Yearn
 - Tin tức trong Hệ Sinh thái
 
-
 ## Hậu trường ở Yearn
 
 Như bạn có thể đã biết, Yearn là giao thức tạo hoa lợi cho ĐeFi, với hàng loạt chiến lược gia lập trình nhiều cách để thu lời tối ưu cho người dùng, sử dụng hợp-đồng-thông-minh ('smart contract') nhằm không ngừng phân bổ vốn sao cho hiệu quả vào các giao thức khác. Do thị trường tổng hợp hoa lợi ngày càng cạnh tranh, Yearn cần theo kịp tốc độ và triển khai chiến lược đủ nhanh, đồng nghĩa với việc sẽ luôn có rủi ro.
