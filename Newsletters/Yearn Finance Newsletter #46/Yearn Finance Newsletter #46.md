@@ -69,7 +69,7 @@ CRV, curve.fi का गवर्नेंस टोकन है, जिसे 
 
 [YFI/ETH SushiSwap के लिक्विडिटी टोकन OnX के Alpha Vaults पर कोलैटरल के रूप में उपलब्ध हैं](https://twitter.com/OnXFinance/status/1435229990681972741)
 
-[Yearn ETHGlobal और ETHOnline का सहयोग कर रहा है, जिसमें हैकर्स के लिए 4,000 डॉलर का पुरस्कार उपलब्ध है और यर्न टीम के साथ सहयोग करने का अवसर है](https:/ /twitter.com/iearnfinance/status/1436302183545196546)
+[Yearn ETHGlobal और ETHOnline का सहयोग कर रहा है, जिसमें हैकर्स के लिए 4,000 डॉलर का पुरस्कार उपलब्ध है और यर्न टीम के साथ सहयोग करने का अवसर है](https://twitter.com/iearnfinance/status/1436302183545196546)
 
 [rKP3R पुरस्कार, फिक्स्ड फॉरेक्स के लिए जोड़े गए](https://twitter.com/thekeep3r/status/1437402914474037256)
 
