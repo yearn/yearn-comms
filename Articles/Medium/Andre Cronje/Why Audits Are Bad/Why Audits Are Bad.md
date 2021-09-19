@@ -18,6 +18,7 @@ Vamos usar o Fixed Forex como exemplo, "O projeto é auditado?" \[Sim\], e aqui 
 [ibKRW gauge](https://etherscan.io/address/0x8992fd229b574b8083de1249bc6fd3711fda45dd)</br>
 [Votação](https://etherscan.io/address/0xd9c8620c0c0b866b7b5180d2d70093165340326d)</br>
 [Faucet](https://etherscan.io/address/0x7d254d9adc588126edaee52a1029278180a802e8)</br>
+[Distribuição ibEUR/ETH](https://etherscan.io/address/0x1da8a6fe33bd35b99505d67843eec9fa124f2d4b)</br> 
 [Recompensas ib](https://etherscan.io/address/0x83893c4a42f8654c2dd4ff7b4a7cd0e33ae8c859)</br>
 [Distribuição de taxas](https://etherscan.io/address/0x27761efeb0c7b411e71d0fd0aee5dde35c810cc2)</br>
 
