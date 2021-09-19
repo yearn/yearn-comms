@@ -93,8 +93,6 @@ Resumindo, quanto maior for o seu tempo de investimento, mais desproporcional se
 
 **Links;**
 
-[Fórum](https://gov.yearn.finance/c/projects/fixed-forex/26) 
-
-[Site](https://yearn.fi/lend) 
-
-Sem redes sociais
+[Fórum](https://gov.yearn.finance/c/projects/fixed-forex/26)</br> 
+[Site](https://yearn.fi/lend)</br> 
+Sem redes sociais</br>
