@@ -49,7 +49,7 @@ CRV, curve.fi का गवर्नेंस टोकन है, जिसे 
 
 यर्न समुदाय के कई सदस्यों ने अप्रैल 2021 से जून 2021 तक की अवधि को कवर करते हुए एक अनौपचारिक त्रैमासिक वित्तीय रिपोर्ट बनाई है। यह रिपोर्ट सार्वजनिक रूप से उपलब्ध जानकारी का उपयोग करके बनाई गई थी, और इसमें शामिल हैं एक आय विवरण और बैलेंस शीट। इस रिपोर्ट की किसी तीसरे पक्ष की पेशेवर लेखा फर्म द्वारा ऑडिट नहीं की गई है, और यह वित्तीय, निवेश, या किसी भी प्रकार की सलाह का प्रतिनिधित्व नहीं करती है। यह सिर्फ सूचना के प्रयोजनों के लिए ही है।
 
-आप इस रिपोर्ट को [यहां](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn- तिमाही-report.pdf) देख सकते हैं।
+आप इस रिपोर्ट को [यहां](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf) देख सकते हैं।
 
 ## **संचयी प्रोटोकॉल राजस्व $41,000,000 तक पहुंच गया**
 
@@ -61,7 +61,7 @@ CRV, curve.fi का गवर्नेंस टोकन है, जिसे 
 
 ## **यर्न के वॉल्ट**
 
-आप हमारे सभी सक्रिय yVaults के लिए रणनीतियों का विस्तृत विवरण पढ़ सकते हैं [यहां](https://medium.com/yearn-state-of-the-vaults/the-vaults- at-yearn-9237905ffed3)।
+आप हमारे सभी सक्रिय yVaults के लिए रणनीतियों का विस्तृत विवरण पढ़ सकते हैं [यहां](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)।
 
 ## **पारिस्थितिकी तंत्र समाचार**
 
@@ -73,9 +73,9 @@ CRV, curve.fi का गवर्नेंस टोकन है, जिसे 
 
 [rKP3R पुरस्कार, फिक्स्ड फॉरेक्स के लिए जोड़े गए](https://twitter.com/thekeep3r/status/1437402914474037256)
 
-[मेसारी के #Mainnet2021 में मंगलवार 21 सितंबर को शाम 7:30 बजे UTC के वक्ता, Tracheopteryx के साथ शामिल हों। इस पैनल में Ryan Watkins और Maki शामिल हैं, इसका शीर्षक "पहले दिन से विकेंद्रीकृत: संगठनात्मक डिजाइन में पाठ!"] (https://twitter.com/tracheopteryx/status/1436257062971977729) है।
+[मेसारी के #Mainnet2021 में मंगलवार 21 सितंबर को शाम 7:30 बजे UTC के वक्ता, Tracheopteryx के साथ शामिल हों। इस पैनल में Ryan Watkins और Maki शामिल हैं, इसका शीर्षक "पहले दिन से विकेंद्रीकृत: संगठनात्मक डिजाइन में पाठ!"](https://twitter.com/tracheopteryx/status/1436257062971977729) है।
 
-[टीवीएल से यर्न तक $173.4M लाने के लिए abracadabra.money को धन्यवाद।](https://twitter.com/danielesesta/status/1437372628054982663?s=20)
+[टीवीएल से यर्न तक $173.4M लाने के लिए abracadabra.money को धन्यवाद।](https://twitter.com/danielesesta/status/1437372628054982663)
 
-[अपने WOOFY के साथ ape.tax पर कैसे खेती करें](https://twitter.com/ape_tax/status/ 1436908119817211913?s=20)
+[अपने WOOFY के साथ ape.tax पर कैसे खेती करें](https://twitter.com/ape_tax/status/1436908119817211913)
 
