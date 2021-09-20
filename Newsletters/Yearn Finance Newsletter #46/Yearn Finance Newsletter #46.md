@@ -1,80 +1,80 @@
 # Yearn Finance Newsletter #46
-#### Week Ending September 12th, 2021
+#### Semana encerrada em 12 de setembro de 2021
 
 ![](image1.png)
 
-Welcome to the 46th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you're interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Bem-vindo à 46ª edição da Yearn Finance Newsletter. Nosso objetivo com este boletim é manter a comunidade da Yearn e a comunidade cripto em geral informadas sobre as notícias mais recentes, incluindo lançamentos de produtos, mudanças de governança e atualizações do ecossistema. Se você estiver interessado em aprender mais sobre Yearn Finance, siga nossas contas oficiais [Twitter](https://twitter.com/iearnfinance) e [Medium](https://medium.com/iearn).
 
-## **Summary**
+## **Resumo**
 
-- Behind the Scenes at Yearn  
-- Primer on the yvBOOSTVault  
-- Yearn Quarterly Financial Report  
-- Cumulative Protocol Revenue Reaches $41M   
-- Vaults at Yearn  
-- Ecosystem News
+- Nos bastidores de Yearn 
+- Primer no yvBOOSTVault 
+- Relatório Financeiro Trimestral Yearn 
+- A receita cumulativa do protocolo atinge US$ 41 milhões 
+- Vaults na Yearn 
+- Notícias do Ecossistema
     
 
-## **Behind the Scenes at Yearn**
+## **Nos bastidores de Yearn**
 
-As you may know, Yearn is the yield function protocol for DeFi, with many strategists coding ways to get optimal returns for our users using flexible smart contracts that allocate efficiently to various protocols. Because Yearn needs to keep up with the competitive yield aggregation market, we need to deploy strategies quickly, and this means there are always security risks.
+Como você deve saber, Yearn é o protocolo de rendimento para DeFi, com muitos estrategistas codificando maneiras de obter retornos ideais para nossos usuários usando contratos inteligentes flexíveis que alocam de forma eficiente capital em vários protocolos. Porque Yearn precisa acompanhar o mercado competitivo de agregação de rendimento, precisamos implantar estratégias rapidamente, e isso significa que sempre há riscos de segurança.
 
-There are 176 strategies for 64 vaults total as of today, and to work through security risks, we need to have a solid risk framework. To mitigate security risks, we have added options such as simulation bots to catch issues or on chain healthchecks. One can read more about Yearn's emergency procedures [here](https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/EMERGENCY.md).
+Existem 176 estratégias para um total de 64 vaults até hoje e, para lidar com os riscos de segurança, precisamos ter uma estrutura de risco sólida. Para mitigar os riscos de segurança, adicionamos opções, como bots de simulação para detectar problemas ou para verificações de integridade na rede. Pode-se ler mais sobre os procedimentos de emergência de Yearn [aqui](https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/EMERGENCY.md).
 
-You can also view details about vaults and strategies on [yearn.watch](https://yearn.watch/).
+Você também pode ver detalhes sobre vaults e estratégias em [yearn.watch](https://yearn.watch/).
 
-Check out more information on Yearn's security procedures at storming0x's tweet [here](https://twitter.com/storming0x/status/1436851219864059906).
+Confira mais informações sobre os procedimentos de segurança de Yearn no tweet de storming0x [aqui](https://twitter.com/storming0x/status/1436851219864059906).
 
-## **Primer on the yvBOOST Vault**
+## ** Primer no yvBOOST Vault **
 
 ![](image2.png)
 
-CRV is curve.fi's governance token, which can be locked for up to 4 years and gives you the ability to vote and claim protocol fees. By using Yearn to lock your CRV for veCRV (vote-escrowed CRV), you can earn more rewards via Yearn periodically donating some of our farmed CRV to the yveCRV vault. So, in addition to normal CRV rewards, you will be able to claim Yearn's portion of Curve's protocol fees.
+CRV é o token de governança da curve.fi, que pode ser bloqueado por até 4 anos e dá a você a capacidade de votar e reivindicar taxas de protocolo. Ao usar o Yearn para bloquear seu CRV para receber veCRV (CRV com garantia de voto), você pode ganhar mais recompensas via Yearn, que  doa periodicamente alguns de nossos CRV coletados para o vault yveCRV. Portanto, além das recompensas normais do CRV, você poderá reivindicar a parte de Yearn das taxas de protocolo da Curve.
 
-However, with veCRV deposited in Yearn (as yveCRV), you can't vote on Curve. Even with this minor setback, Yearn runs a simulation and votes to maximize yield across all vaults.
+No entanto, com o veCRV depositado no Yearn (como yveCRV), você não pode votar diretamente no Curve. Mesmo com esse pequeno porém, o que Yearn faz pelos usuários é executar simulações e vota para maximizar o rendimento em todos os vaults.
 
-One of our newer additions to Yearn is the yvBOOST vault, which is a compounding version of yveCRV. If you lock CRV here, it will claim the protocol rewards and automatically buy more yveCRV, thus compounding it. You can't vote with yvBOOST still, but the vault will automatically do it for you. Deposit and enjoy your rewards.
+Uma de nossas mais novas adições ao Yearn é o vault yvBOOST, que é uma versão composta do yveCRV. Se você bloquear o CRV aqui, ele reivindicará as recompensas do protocolo e comprará automaticamente mais yveCRV, desta forma gerando retorno composto. Você não pode votar com yvBOOST, mas o vault fará isso automaticamente por você. Deposite e aproveite suas recompensas.
 
-If one needs stables from their deposits from the vaults, you can swap yveCRV and yvBOOST on SushiSwap.
+Se alguém precisar de stablecoins usando seus depósitos dos vaults, você pode negociar yveCRV e yvBOOST no SushiSwap.
 
-If you don't have any CRV, thanks to Yearn Zaps, you can deposit virtually any crypto in your wallet into these vaults. And Yearn's smart contracts will automatically convert your tokens to yvBOOST.
+Se você não tiver nenhum CRV, graças ao Yearn Zaps, você pode depositar virtualmente qualquer criptomoeda de sua carteira nesses cofres. E os contratos inteligentes de Yearn converterão automaticamente seus tokens para o yvBOOST.
 
-As always, thank you to our Strategists for always building top tier yield infrastructure for DeFi.
+Como sempre, obrigado aos nossos estrategistas por sempre construir uma infraestrutura de rendimento de alto nível para DeFi.
 
-Check out the vaults here at [yearn.finance/vaults](https://yearn.finance/vaults).
+Confira os vaults aqui em [yearn.finance/vaults](https://yearn.finance/vaults).
 
-## **Yearn Quarterly Financial Report**
+## **Relatório Financeiro Trimestral Yearn**
 
 ![](image3.png)
 
-Several Yearn community members have created an informal quarterly financial report covering the period from April 2021 to June 2021. This report was generated using publicly available information, and includes an income statement and balance sheet. This report has not been audited by a third-party professional accounting firm, and does not represent financial, investment, or advice of any kind. It is for informational purposes only.
+Vários membros da comunidade Yearn criaram um relatório financeiro trimestral informal, cobrindo o período de abril de 2021 a junho de 2021. Este relatório foi gerado com base em informações publicamente disponíveis e inclui uma demonstração de resultados e um balanço patrimonial. Este relatório não foi auditado por uma empresa de contabilidade profissional terceirizada e não representa consultoria financeira, de investimento ou de qualquer tipo. É apenas para fins informativos.
 
-You can view this report [here](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf).
+Você pode visualizar este relatório [aqui](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf).
 
-## **Cumulative Protocol Revenue Reaches $41M**
+## **A receita cumulativa do protocolo atinge US$ 41 milhões**
 
 ![](image4.png)
 
-Yearn has earned nearly $41 million in revenue, since launch (excluding the interest earned by depositors). In the past 30 days, nearly $6 million dollars in revenue has been generated by the protocol. An extrapolation of this data projects annual revenue to be nearly $60 million.
+Yearn recebeu mais de $41 milhões em receitas, desde o lançamento (excluindo os juros ganhos pelos depositantes). Nos últimos 30 dias, cerca de 6 milhões de dólares em receita foram gerados pelo protocolo. Uma extrapolação desses dados projeta uma receita anual de quase US$ 60 milhões.
 
-Yearn's cumulative revenue and other statistics are viewable [here](https://www.yfistats.com/).
+A receita acumulada de Yearn e outras estatísticas podem ser visualizadas [aqui](https://www.yfistats.com/).
 
-## **Vaults At Yearn**
+## **Vaults na Yearn**
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Você pode ler uma descrição detalhada das estratégias para todos os nossos yVaults ativos [aqui](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-## **Ecosystem News**
+## **Notícias do Ecossistema**
 
-[Sign up to become an intern at the yAcademy DAO and audit live smart contracts](https://twitter.com/yAcademyDAO/status/1435866622556659717)
+[Inscreva-se para se tornar um estagiário na yAcademy DAO e audite os contratos inteligentes ao vivo](https://twitter.com/yAcademyDAO/status/1435866622556659717)
 
-[YFI/ETH SushiSwap liquidity tokens are available as collateral on OnX's Alpha Vaults](https://twitter.com/OnXFinance/status/1435229990681972741)
+[Os tokens de liquidez YFI/ETH SushiSwap estão disponíveis como garantia nos Alpha Vaults da OnX](https://twitter.com/OnXFinance/status/1435229990681972741)
 
-[Yearn is supporting ETHGlobal and ETHOnline, with $4,000 in prizes available for hackers and the opportunity to collaborate with the Yearn team](https://twitter.com/iearnfinance/status/1436302183545196546)
+[Yearn está apoiando ETHGlobal e ETHOnline, com US$ 4.000 em prêmios disponíveis para hackers e a oportunidade de colaborar com a equipe Yearn](https://twitter.com/iearnfinance/status/1436302183545196546)
 
-[rKP3R rewards added for Fixed Forex](https://twitter.com/thekeep3r/status/1437402914474037256)
+[recompensas rKP3R adicionadas ao Fixed Forex](https://twitter.com/thekeep3r/status/1437402914474037256)
 
-[Join tracheopteryx as he speaks at Messari 's #Mainnet2021 on Tuesday Sept 21 at 7:30pm UTC. This panel includes Ryan Watkins and Maki, and is called "Decentralized from Day One: Lessons in Organizational Design!"](https://twitter.com/tracheopteryx/status/1436257062971977729)
+[Junte-se ao tracheopteryx enquanto ele fala no Messari's # Mainnet2021 na terça-feira, 21 de setembro, às 19:30 UTC. Este painel inclui Ryan Watkins e Maki e é chamado de "Descentralizado desde o primeiro dia: Lições de design organizacional!"](https://twitter.com/tracheopteryx/status/1436257062971977729)
 
-[Thank you to abracadabra.money for bringing 173.4M dollars of TVL to Yearn](https://twitter.com/danielesesta/status/1437372628054982663?s=20)
+[Obrigado a abracadabra.money por trazer 173,4 milhões de dólares de TVL para Yearn](https://twitter.com/danielesesta/status/1437372628054982663?s=20)
 
-[How to farm with your WOOFY on ape.tax](https://twitter.com/ape_tax/status/1436908119817211913?s=20)
+[Como fazer farm com seu WOOFY em ape.tax](https://twitter.com/ape_tax/status/1436908119817211913?s=20)
