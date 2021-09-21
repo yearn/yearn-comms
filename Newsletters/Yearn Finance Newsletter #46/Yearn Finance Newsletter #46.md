@@ -1,80 +1,80 @@
-# Yearn Finance Newsletter #46
-#### Week Ending September 12th, 2021
+# Yearn Finance Bülteni #46
+#### 12 Eylül 2021'de Sona Eren Hafta
 
 ![](image1.png)
 
-Welcome to the 46th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you're interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Yearn Finance Bülteninin 46. baskısına hoş geldiniz. Bu bültenle amacımız, Yearn'i ve daha geniş kripto topluluğunu ürün lansmanları, yönetim değişiklikleri ve ekosistem güncellemeleri de dahil olmak üzere en son gelişmelerden haberdar etmektir. Yearn Finance hakkında daha fazla bilgi edinmek istiyorsanız, resmi [Twitter](https://twitter.com/iearnfinance) ve [Medium](https://medium.com/iearn) hesaplarımızı takip edin.
 
-## **Summary**
+## **Özet**
 
-- Behind the Scenes at Yearn  
-- Primer on the yvBOOSTVault  
-- Yearn Quarterly Financial Report  
-- Cumulative Protocol Revenue Reaches $41M   
-- Vaults at Yearn  
-- Ecosystem News
-    
+- Yearn'de Perde Arkası
+- yvBOOSTVault üzerinde ilk okuma kitabı
+- Yearn Üç Aylık Mali Rapor
+- Kümülatif Protokol Geliri 41 Milyon Dolara Ulaştı
+- Yearn'deki Vault'lar
+- Ekosistem Haberleri
 
-## **Behind the Scenes at Yearn**
 
-As you may know, Yearn is the yield function protocol for DeFi, with many strategists coding ways to get optimal returns for our users using flexible smart contracts that allocate efficiently to various protocols. Because Yearn needs to keep up with the competitive yield aggregation market, we need to deploy strategies quickly, and this means there are always security risks.
+## **Yearn'de Perde Arkası**
 
-There are 176 strategies for 64 vaults total as of today, and to work through security risks, we need to have a solid risk framework. To mitigate security risks, we have added options such as simulation bots to catch issues or on chain healthchecks. One can read more about Yearn's emergency procedures [here](https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/EMERGENCY.md).
+Bildiğiniz gibi, Yearn, DeFi için verim fonksiyonu protokolüdür ve birçok stratejist, çeşitli protokollere verimli bir şekilde tahsis edilen esnek akıllı sözleşmeler kullanarak kullanıcılarımız için en uygun getirileri elde etmenin yollarını kodlar. Yearn'in rekabetçi getiri toplama pazarına ayak uydurması gerektiğinden, stratejileri hızlı bir şekilde devreye sokmamız gerekiyor ve bu da her zaman güvenlik riskleri olduğu anlamına geliyor.
 
-You can also view details about vaults and strategies on [yearn.watch](https://yearn.watch/).
+Bugün itibariyle toplam 64 vault için 176 strateji var ve güvenlik risklerini aşmak için sağlam bir risk çerçevesine sahip olmamız gerekiyor. Güvenlik risklerini azaltmak üzere sorunları yakalamak için simülasyon botları veya zincir üzerinde sağlık kontrolleri gibi seçenekler ekledik. Yearn'in acil durum prosedürleri hakkında daha fazla bilgiyi [buradan](https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/EMERGENCY.md) okuyabilirsiniz.
 
-Check out more information on Yearn's security procedures at storming0x's tweet [here](https://twitter.com/storming0x/status/1436851219864059906).
+Kasalar ve stratejilerle ilgili ayrıntıları [yearn.watch](https://yearn.watch/) adresinde de görüntüleyebilirsiniz.
 
-## **Primer on the yvBOOST Vault**
+Storming0x'in tweet'inde [burada](https://twitter.com/storming0x/status/1436851219864059906) Yearn'in güvenlik prosedürleri hakkında daha fazla bilgi bulabilirsiniz.
+
+## **yvBOOST Vault'ta Okuma Kitabı**
 
 ![](image2.png)
 
-CRV is curve.fi's governance token, which can be locked for up to 4 years and gives you the ability to vote and claim protocol fees. By using Yearn to lock your CRV for veCRV (vote-escrowed CRV), you can earn more rewards via Yearn periodically donating some of our farmed CRV to the yveCRV vault. So, in addition to normal CRV rewards, you will be able to claim Yearn's portion of Curve's protocol fees.
+CRV, 4 yıla kadar kilitlenebilen ve size protokol ücretlerini oylama ve talep etme olanağı veren curve.fi'nin yönetim simgesidir. CRV'nizi veCRV (oy emanetli CRV) için kilitlemek için Yearn'i kullanarak, çiftlik CRV'lerimizden bazılarını yveCRV kasasına periyodik olarak bağışlayarak Yearn aracılığıyla daha fazla ödül kazanabilirsiniz. Böylece, normal CRV ödüllerine ek olarak, Curve'ün protokol ücretlerinin Yearn'e ait kısmını talep edebileceksiniz.
 
-However, with veCRV deposited in Yearn (as yveCRV), you can't vote on Curve. Even with this minor setback, Yearn runs a simulation and votes to maximize yield across all vaults.
+Ancak, Yearn'de (yveCRV olarak) yatırılan veCRV ile Curve'de oy kullanamazsınız. Bu küçük aksilikte bile Yearn bir simülasyon çalıştırır ve tüm kasalarda verimi en üst düzeye çıkarmak için oy kullanır.
 
-One of our newer additions to Yearn is the yvBOOST vault, which is a compounding version of yveCRV. If you lock CRV here, it will claim the protocol rewards and automatically buy more yveCRV, thus compounding it. You can't vote with yvBOOST still, but the vault will automatically do it for you. Deposit and enjoy your rewards.
+Yearn'e yaptığımız yeni eklemelerden biri, yveCRV'nin bileşik bir versiyonu olan yvBOOST vault'udur. CRV'yi buraya kilitlerseniz, protokol ödüllerini talep eder ve otomatik olarak daha fazla yveCRV satın alır, böylece onu birleştirir. Yine de yvBOOST ile oy kullanamazsınız, ancak vault bunu sizin için otomatik olarak yapacaktır. Para yatırın ve ödüllerinizin tadını çıkarın.
 
-If one needs stables from their deposits from the vaults, you can swap yveCRV and yvBOOST on SushiSwap.
+Vault'daki mevduatlarından sabit token'e ihtiyaç duyulursa, SushiSwap'ta yveCRV ve yvBOOST'u değiştirebilirsiniz.
 
-If you don't have any CRV, thanks to Yearn Zaps, you can deposit virtually any crypto in your wallet into these vaults. And Yearn's smart contracts will automatically convert your tokens to yvBOOST.
+CRV'niz yoksa Yearn Zaps sayesinde cüzdanınızdaki neredeyse tüm kriptoları bu vault'lara yatırabilirsiniz. Ve Yearn'in akıllı sözleşmeleri, token'lerinizi otomatik olarak yvBOOST'a dönüştürecektir.
 
-As always, thank you to our Strategists for always building top tier yield infrastructure for DeFi.
+Her zaman olduğu gibi, DeFi için her zaman en üst düzey getiri altyapısı oluşturdukları için Stratejistlerimize teşekkür ederiz.
 
-Check out the vaults here at [yearn.finance/vaults](https://yearn.finance/vaults).
+[yearn.finance/vaults](https://yearn.finance/vaults) adresindeki vault'lara göz atabilirsiniz.
 
-## **Yearn Quarterly Financial Report**
+## **Yearn Üç Aylık Mali Rapor**
 
 ![](image3.png)
 
-Several Yearn community members have created an informal quarterly financial report covering the period from April 2021 to June 2021. This report was generated using publicly available information, and includes an income statement and balance sheet. This report has not been audited by a third-party professional accounting firm, and does not represent financial, investment, or advice of any kind. It is for informational purposes only.
+Birkaç Yearn topluluğu üyesi, Nisan 2021'den Haziran 2021'e kadar olan dönemi kapsayan gayri resmi bir üç aylık mali rapor oluşturdu. Bu rapor, kamuya açık bilgiler kullanılarak oluşturulmuştur ve bir gelir tablosu ve bilanço içerir. Bu rapor bir üçüncü şahıs profesyonel muhasebe firması tarafından denetlenmemiştir ve herhangi bir finansal, yatırım veya tavsiyeyi temsil etmez. Bu sadece bilgi amaçlıdır.
 
-You can view this report [here](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf).
+Bu raporu [buradan](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarnly-report.pdf) görüntüleyebilirsiniz.
 
-## **Cumulative Protocol Revenue Reaches $41M**
+## **Kümülatif Protokol Geliri 41 Milyon Dolara Ulaştı**
 
 ![](image4.png)
 
-Yearn has earned nearly $41 million in revenue, since launch (excluding the interest earned by depositors). In the past 30 days, nearly $6 million dollars in revenue has been generated by the protocol. An extrapolation of this data projects annual revenue to be nearly $60 million.
+Yearn, lansmanından bu yana 41 milyon doların üzerinde gelir elde etti (mudiler tarafından kazanılan faiz hariç). Son 30 günde, protokol tarafından 6 milyon doların üzerinde gelir elde edildi. Bu verilerin ekstrapolasyonu, yıllık gelirin yaklaşık 60 milyon dolar olmasını öngörüyor.
 
-Yearn's cumulative revenue and other statistics are viewable [here](https://www.yfistats.com/).
+Yearn'in kümülatif gelirini ve diğer istatistiklernii [buradan](https://www.yfistats.com/) görüntüleyebilirsiniz.
 
-## **Vaults At Yearn**
+## **Yearn'deki Vault'lar**
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Tüm etkin yVault'larımıza yönelik stratejilerin ayrıntılı bir açıklamasını [buradan](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) okuyabilirsiniz.
 
-## **Ecosystem News**
+## **Ekosistem Haberleri**
 
-[Sign up to become an intern at the yAcademy DAO and audit live smart contracts](https://twitter.com/yAcademyDAO/status/1435866622556659717)
+[yaAcademy DAO'da stajyer olmak için kaydolun ve canlı yayında akıllı sözleşmeleri denetleyin](https://twitter.com/yAcademyDAO/status/1435866622556659717)
 
-[YFI/ETH SushiSwap liquidity tokens are available as collateral on OnX's Alpha Vaults](https://twitter.com/OnXFinance/status/1435229990681972741)
+[YFI/ETH SushiSwap likidite token'leri, OnX'in Alpha Vault'larında teminat olarak bulunmaktadır](https://twitter.com/OnXFinance/status/1435229990681972741)
 
-[Yearn is supporting ETHGlobal and ETHOnline, with $4,000 in prizes available for hackers and the opportunity to collaborate with the Yearn team](https://twitter.com/iearnfinance/status/1436302183545196546)
+[Yearn,ETHGlobal ve ETHOnline'ı  bilgisayar korsanlarının Yearn ekibiyle işbirliği yapma fırsatı için 4.000 $'lık ödül olanağı ile destekliyor ](https://twitter.com/iearnfinance/status/1436302183545196546)
 
-[rKP3R rewards added for Fixed Forex](https://twitter.com/thekeep3r/status/1437402914474037256)
+[Sabit Forex için rKP3R ödülleri eklendi](https://twitter.com/thekeep3r/status/1437402914474037256)
 
-[Join tracheopteryx as he speaks at Messari 's #Mainnet2021 on Tuesday Sept 21 at 7:30pm UTC. This panel includes Ryan Watkins and Maki, and is called "Decentralized from Day One: Lessons in Organizational Design!"](https://twitter.com/tracheopteryx/status/1436257062971977729)
+[21 Eylül Salı günü saat 19:30 UTC'de Messari'nin #Mainnet2021 etkinliğinde konuşurken trakeopteryx'e katılın. Bu panel Ryan Watkins ve Maki'yi içeriyor ve "Birinci Günden itibaren Merkezi Olmayan: Organizasyonel Tasarım Dersleri!"](https://twitter.com/tracheopteryx/status/1436257062971977729)
 
-[Thank you to abracadabra.money for bringing 173.4M dollars of TVL to Yearn](https://twitter.com/danielesesta/status/1437372628054982663?s=20)
+[Abracadabra.money'e 173,4 milyon dolarlık TVL'yi Yearn'e getirdiği için teşekkür ederiz](https://twitter.com/danielesesta/status/1437372628054982663?s=20)
 
-[How to farm with your WOOFY on ape.tax](https://twitter.com/ape_tax/status/1436908119817211913?s=20)
+[Ape.tax'ta WOOFY'nizle nasıl farm yapılırsiniz](https://twitter.com/ape_tax/status/1436908119817211913?s=20)
