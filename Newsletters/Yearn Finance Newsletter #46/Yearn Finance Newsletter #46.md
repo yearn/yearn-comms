@@ -79,7 +79,7 @@ Yearnの累積収益やその他の統計は[こちら](https://www.yfistats.com
 
 [Fixed ForexにrKP3Rの報酬を追加しました](https://twitter.com/thekeep3r/status/1437402914474037256)
 
-[9月21日（火）午後7時30分（UTC）から開催されるMessari's #Mainnet2021に、tracheopteryxが登壇します。このパネルにはRyan Watkinsと0xMakiが参加しており、"初日から分権化：組織設計の教訓"です](https://twitter.com/tracheopteryx/status/1436257062971977729)
+[9月21日（火）午後7時30分（UTC）から開催されるMessari's #Mainnet2021に、tracheopteryxが登壇します。このパネルにはRyan Watkinsと0xMakiが参加しており、"初日から分権化：組織設計の教訓"について話します](https://twitter.com/tracheopteryx/status/1436257062971977729)
 
 [173.4MドルのTVLをYearnにもたらしてくれたabracadabra.moneyに感謝します](https://twitter.com/danielesesta/status/1437372628054982663?s=20)
 
