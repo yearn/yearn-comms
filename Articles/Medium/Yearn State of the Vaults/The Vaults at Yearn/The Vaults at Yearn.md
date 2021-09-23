@@ -350,7 +350,7 @@ Fornece a3CRV para Convex Finance para obter CRV e CVX. As recompensas são colh
 
 ![](26.png)
 
-V2 Curve HUSD Pool yVault ([yvCurve-HUSD] (https://etherscan.io/address/0x054AF22E1519b020516D72D749221c24756385C9))
+### V2 Curve HUSD Pool yVault ([yvCurve-HUSD] (https://etherscan.io/address/0x054AF22E1519b020516D72D749221c24756385C9))
 
 [Curvehusd3CRVVoterProxy] (https://etherscan.io/address/0x5ED527A2cfC5411EB63b12E46e270b07b6813824) 🚀 
 Este vault aceita depósitos de tokens [husd3CRV] (https://etherscan.io/address/0x5B5CFE992AdAC0C9D48E05854B2d91C73a003858) obtidos fornecendo DAI, USDC, USDT (ou sua versão envelopada: 3crv) ou HUSD para o pool de liquidez na Curve [aqui] (https://www.curve.fi/husd/deposit). Os tokens husd3CRV são colocados no gauge na Curve para ganhar recompensas CRV. As recompensas são trocadas por um dos ativos subjacentes e depositadas novamente no pool de liquidez, para obter mais husd3CRV.
