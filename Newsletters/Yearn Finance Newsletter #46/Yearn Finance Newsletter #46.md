@@ -1,80 +1,86 @@
 # Yearn Finance Newsletter #46
-#### Week Ending September 12th, 2021
+#### 2021年9月12日までの週次レポート
 
 ![](image1.png)
 
-Welcome to the 46th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you're interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Yearn Finance Newsletter の第46号へようこそ。このニュースレターの目的は、プロダクトのローンチ、ガバナンスの変更、エコシステムの更新など、最新のニュースをYearnとより広いクリプトコミュニティにお知らせすることです。Yearn Financeについてもっと知りたいという方は、私たちの公式[Twitter](https://twitter.com/iearnfinance)と[Medium](https://medium.com/iearn)アカウントをフォローしてください。
 
-## **Summary**
 
-- Behind the Scenes at Yearn  
-- Primer on the yvBOOSTVault  
-- Yearn Quarterly Financial Report  
-- Cumulative Protocol Revenue Reaches $41M   
-- Vaults at Yearn  
-- Ecosystem News
+## **概要**
+
+- Yearnの舞台裏
+- yvBOOST Vaultの入門書 
+- Yearnの四半期財務報告  
+- プロトコルの累積収益が41Mドルに到達   
+- Yearnの金庫について 
+- エコシステムニュース
     
 
-## **Behind the Scenes at Yearn**
+## **Yearnの舞台裏**
 
-As you may know, Yearn is the yield function protocol for DeFi, with many strategists coding ways to get optimal returns for our users using flexible smart contracts that allocate efficiently to various protocols. Because Yearn needs to keep up with the competitive yield aggregation market, we need to deploy strategies quickly, and this means there are always security risks.
+ご存知のように、YearnはDeFiのイールドファンクションプロトコルであり、多くのストラテジストが、様々なプロトコルに効率的に配分する柔軟なスマートコントラクトを用いて、ユーザーが最適なリターンを得る方法をコーディングしています。Yearnは競争の激しいイールドアグリゲーション市場に対応する必要があるため、戦略を迅速に展開する必要がありますが、これは常にセキュリティリスクがあることを意味します。
 
-There are 176 strategies for 64 vaults total as of today, and to work through security risks, we need to have a solid risk framework. To mitigate security risks, we have added options such as simulation bots to catch issues or on chain healthchecks. One can read more about Yearn's emergency procedures [here](https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/EMERGENCY.md).
+現在、64のVaultsに176個のストラテジーがありますが、セキュリティリスクを解決するためには、しっかりとしたリスクフレームワークが必要です。セキュリティリスクを軽減するために、問題点を把握するためのシミュレーションボットや、チェーンのヘルスチェックなどのオプションを追加しています。Yearnの緊急時の対応については[こちら](https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/EMERGENCY.md)をご覧ください。
 
-You can also view details about vaults and strategies on [yearn.watch](https://yearn.watch/).
+また、 [yearn.watch](https://yearn.watch/)では、Vaultsの詳細やストラテジーを見ることができます。
 
-Check out more information on Yearn's security procedures at storming0x's tweet [here](https://twitter.com/storming0x/status/1436851219864059906).
+Yearnのセキュリティ対策の詳細はstorming0xさんのツイート[こちら](https://twitter.com/storming0x/status/1436851219864059906)でご確認ください。
 
-## **Primer on the yvBOOST Vault**
+
+## **yvBOOST Vaultの入門書**
 
 ![](image2.png)
 
-CRV is curve.fi's governance token, which can be locked for up to 4 years and gives you the ability to vote and claim protocol fees. By using Yearn to lock your CRV for veCRV (vote-escrowed CRV), you can earn more rewards via Yearn periodically donating some of our farmed CRV to the yveCRV vault. So, in addition to normal CRV rewards, you will be able to claim Yearn's portion of Curve's protocol fees.
+CRVはcurve.fiのガバナンストークンで、最大4年間ロックすることができ、投票したりプロトコル手数料をクライムしたりできます。Yearnを使ってCRVをveCRV(vote-escrowed CRV)にロックすることで、Yearnを介して、ファームされたCRVの一部を定期的にyveCRV Vaultsに寄付することで、より多くの報酬を得ることができます。つまり、通常のCRV報酬に加えて、YearnのCurveプロトコル手数料もクライムすることができるようになります。
 
-However, with veCRV deposited in Yearn (as yveCRV), you can't vote on Curve. Even with this minor setback, Yearn runs a simulation and votes to maximize yield across all vaults.
+しかし、Yearnに預けられているveCRV（yveCRVとして）では、Curveに投票することができません。このような小さな障害があってもYearnはシミュレーションを行い、すべての保管場所で利回りが最大になるように投票します。
 
-One of our newer additions to Yearn is the yvBOOST vault, which is a compounding version of yveCRV. If you lock CRV here, it will claim the protocol rewards and automatically buy more yveCRV, thus compounding it. You can't vote with yvBOOST still, but the vault will automatically do it for you. Deposit and enjoy your rewards.
+Yearnに新たに追加されたものに、yveCRVの複利版であるyvBOOST Vaultsがあります。これはyveCRVの複利版で、CRVをここに入れておくとプロトコルの報酬をクライムし、自動的にyveCRVを購入して複利効果を発揮します。yvBOOSTではまだ投票できませんが、Vaultが自動的に投票してくれます。入金して、報酬をお楽しみください。
 
-If one needs stables from their deposits from the vaults, you can swap yveCRV and yvBOOST on SushiSwap.
+もしVaultsからの入金でステーブルコインが必要な場合は、SushiSwapでyveCRVとyvBOOSTを交換することができます。
 
-If you don't have any CRV, thanks to Yearn Zaps, you can deposit virtually any crypto in your wallet into these vaults. And Yearn's smart contracts will automatically convert your tokens to yvBOOST.
+CRVを持っていない場合は、Yearn Zapsのおかげで、自分のウォレットにあるほぼすべてのトークンをこれらの金庫に預けることができます。そしてYearnのスマートコントラクトが自動的にあなたのトークンをyvBOOSTに変換します。
 
-As always, thank you to our Strategists for always building top tier yield infrastructure for DeFi.
+いつものように、DeFiのために最高レベルのイールドインフラを構築してくれているストラテジストに感謝しています。
 
-Check out the vaults here at [yearn.finance/vaults](https://yearn.finance/vaults).
+Vaultsは[yearn.finance/vaults](https://yearn.finance/vaults)でご覧いただけます。
 
-## **Yearn Quarterly Financial Report**
+
+## **Yearnの四半期財務報告**
 
 ![](image3.png)
 
-Several Yearn community members have created an informal quarterly financial report covering the period from April 2021 to June 2021. This report was generated using publicly available information, and includes an income statement and balance sheet. This report has not been audited by a third-party professional accounting firm, and does not represent financial, investment, or advice of any kind. It is for informational purposes only.
+Yearnコミュニティのメンバー数名が、2021年4月から2021年6月までの期間を集計した非公式の四半期財務報告書を作成しました。このレポートは、一般に公開されている情報をもとに作成されており、損益計算書と貸借対照表が含まれています。このレポートは、第三者の専門的な会計事務所による監査を受けておらず、いかなる種類の財務、投資、またはアドバイスを表すものでもありません。本レポートは情報提供のみを目的としています。
 
-You can view this report [here](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf).
+[こちら](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf)でレポートをチェックすることができます。
 
-## **Cumulative Protocol Revenue Reaches $41M**
+
+›
+## **プロトコルの累積収益が41Mドルに到達**
 
 ![](image4.png)
 
-Yearn has earned nearly $41 million in revenue, since launch (excluding the interest earned by depositors). In the past 30 days, nearly $6 million dollars in revenue has been generated by the protocol. An extrapolation of this data projects annual revenue to be nearly $60 million.
+Yearnは、ローンチ以来約41Mドルの収益を上げています（預金者が得た利息を除く）。過去30日間では、約6Mドルの収益がこのプロトコルによってもたらされました。このデータから推定すると年間収益は約60Mドルになると予測されます。
 
-Yearn's cumulative revenue and other statistics are viewable [here](https://www.yfistats.com/).
+Yearnの累積収益やその他の統計は[こちら](https://www.yfistats.com/)からご覧いただけます。
 
-## **Vaults At Yearn**
+## **YearnのVaultsについて**
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+[こちら](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)ですべてのアクティブなVaultsのストラテジーについて詳細な説明を読むことができます。
 
-## **Ecosystem News**
 
-[Sign up to become an intern at the yAcademy DAO and audit live smart contracts](https://twitter.com/yAcademyDAO/status/1435866622556659717)
+## **エコシステムのニュース**
 
-[YFI/ETH SushiSwap liquidity tokens are available as collateral on OnX's Alpha Vaults](https://twitter.com/OnXFinance/status/1435229990681972741)
+[yAcademy DAOのインターンに登録して、ライブのスマートコントラクトを監査しよう](https://twitter.com/yAcademyDAO/status/1435866622556659717)
 
-[Yearn is supporting ETHGlobal and ETHOnline, with $4,000 in prizes available for hackers and the opportunity to collaborate with the Yearn team](https://twitter.com/iearnfinance/status/1436302183545196546)
+[YFI/ETH SushiSwapのLPトークンがOnXのAlpha Vaultsで担保として利用可能に](https://twitter.com/OnXFinance/status/1435229990681972741)
 
-[rKP3R rewards added for Fixed Forex](https://twitter.com/thekeep3r/status/1437402914474037256)
+[YearnはETHGlobalとETHOnlineをサポートしており、ハッカーには4,000ドルの賞金とYearnチームとのコラボレーションの機会が用意されています](https://twitter.com/iearnfinance/status/1436302183545196546)
 
-[Join tracheopteryx as he speaks at Messari 's #Mainnet2021 on Tuesday Sept 21 at 7:30pm UTC. This panel includes Ryan Watkins and Maki, and is called "Decentralized from Day One: Lessons in Organizational Design!"](https://twitter.com/tracheopteryx/status/1436257062971977729)
+[Fixed ForexにrKP3Rの報酬を追加しました](https://twitter.com/thekeep3r/status/1437402914474037256)
 
-[Thank you to abracadabra.money for bringing 173.4M dollars of TVL to Yearn](https://twitter.com/danielesesta/status/1437372628054982663?s=20)
+[9月21日（火）午後7時30分（UTC）から開催されるMessari's #Mainnet2021に、tracheopteryxが登壇します。このパネルにはRyan Watkinsと0xMakiが参加しており、"初日から分権化：組織設計の教訓"です](https://twitter.com/tracheopteryx/status/1436257062971977729)
 
-[How to farm with your WOOFY on ape.tax](https://twitter.com/ape_tax/status/1436908119817211913?s=20)
+[173.4MドルのTVLをYearnにもたらしてくれたabracadabra.moneyに感謝します](https://twitter.com/danielesesta/status/1437372628054982663?s=20)
+
+[ape.taxでWOOFYを使ったファーミングをするには](https://twitter.com/ape_tax/status/1436908119817211913?s=20)
