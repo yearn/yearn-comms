@@ -8,7 +8,7 @@ _post written by Yearn contributor_ [_qosmonot_](http://twitter.com/qosmonot)
 
 Many Yearn vaults have strategies built on Curve pools and therefore use CRV token to optimize them by voting to direct reward allocations towards those pools. Yearn has been steadily growing its stack of CRV tokens to provide increasing rewards for those vaults.
 
-[](image1.png)
+![](image1.png)
 
 Anyone can benefit from this by choosing to stake their CRV tokens through Yearn. Let us walk you through what Yearn can offer you and how you too can grow your CRV holdings with a boost!
 
@@ -34,7 +34,7 @@ You can stake CRV on [Curve.fi](http://curve.fi/) and actively manage your boost
 
 ## The yveCRV yVault
 
-[](image2.png)
+![](image2.png)
 
 ### Earn CRV with a better boost
 
@@ -50,7 +50,7 @@ Locking your CRV tokens into the vault means that you delegate your [Curve.fi](h
 
 ## The yvBOOST yVault
 
-[](image3.png)
+![](image3.png)
 
 ### Earn boosted CRV with compounding
 
@@ -76,13 +76,13 @@ Staking your CRV directly on the [Curve.fi](http://curve.fi/) platform means loc
 
 Both of these Yearn vaults reward CRV stakers with a share of the CRV locked by Yearn, making it an ideal destination for those who wish to stake CRV whilst remaining liquid:
 
-*   Earn a share of trading fees from the [Curve.fi](http://curve.fi/) protocol (3Crv), automatically reinvested (for the yvBOOST vault).
-*   Earn a share of Yearn’s claim of [Curve.fi](http://curve.fi/) protocol fees, on top of your own rewards (more 3CRV!), automatically reinvested (for the yvBOOST vault).
-*   The collective voting power of the veCRV tokens is optimized and rebalanced automatically to maximize rewards in all of Yearn’s Curve Pool vaults.
-*   Receive yveCRV or yvBOOST tokens for your deposited CRV, allowing you to easily extract profit or exit your staked CRV position
+-   Earn a share of trading fees from the [Curve.fi](http://curve.fi/) protocol (3Crv), automatically reinvested (for the yvBOOST vault).
+-   Earn a share of Yearn’s claim of [Curve.fi](http://curve.fi/) protocol fees, on top of your own rewards (more 3CRV!), automatically reinvested (for the yvBOOST vault).
+-   The collective voting power of the veCRV tokens is optimized and rebalanced automatically to maximize rewards in all of Yearn’s Curve Pool vaults.
+-   Receive yveCRV or yvBOOST tokens for your deposited CRV, allowing you to easily extract profit or exit your staked CRV position
 
 Yearn’s work to automate the yield generation and rebalancing of your crypto assets is especially true in the case of your CRV holdings, and Yearn’s yveCRV or yvBOOST offers a powerful, compounding, “set-and-forget” place to stake your CRV!
 
 In our next post, we’ll cover keepCRV and the processes for bribes and EPS. Until then…
 
-[](image4.png)
+![](image4.png)
