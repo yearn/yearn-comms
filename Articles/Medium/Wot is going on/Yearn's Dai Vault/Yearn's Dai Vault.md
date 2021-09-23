@@ -28,7 +28,7 @@ Ao contrário do mercado financeiro tradicional, onde os depositantes são trata
 
 ![alt_text](image2.png)
 
-[Valor total bloqueado no ecossistema Yearn - Grafana](https://yearn.vision/?refresh=1m)
+[Valor total bloqueado no Ecossistema Yearn - Grafana](https://yearn.vision/?refresh=1m)
 
 Os dois grandes saltos na TVL podem ser explicados pela demanda pelos empréstimos que se pagam sozinhos de Alchemix. Mais sobre os depositantes mais tarde.
 
