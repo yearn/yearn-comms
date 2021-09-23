@@ -13,7 +13,7 @@ replies: 21
 
 ## 1
 
-[@atlantis0x](https://twitter.com/atlantis0x) Atlantis World is a Web3 metaverse designed to expand access to virtual worlds, a 2d pixelverse that doesn't require expensive tech but will still melt faces.
+[Atlantis World](https://twitter.com/atlantis0x) is a Web3 metaverse designed to expand access to virtual worlds, a 2d pixelverse that doesn't require expensive tech but will still melt faces.
 
 ![](image2.jpg)
 
