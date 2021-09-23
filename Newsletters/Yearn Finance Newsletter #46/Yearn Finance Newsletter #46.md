@@ -5,7 +5,6 @@
 
 Yearn Finance Newsletter の第46号へようこそ。このニュースレターの目的は、プロダクトのローンチ、ガバナンスの変更、エコシステムの更新など、最新のニュースをYearnとより広いクリプトコミュニティにお知らせすることです。Yearn Financeについてもっと知りたいという方は、私たちの公式[Twitter](https://twitter.com/iearnfinance)と[Medium](https://medium.com/iearn)アカウントをフォローしてください。
 
-
 ## **概要**
 
 - Yearnの舞台裏
@@ -14,7 +13,6 @@ Yearn Finance Newsletter の第46号へようこそ。このニュースレタ�
 - プロトコルの累積収益が41Mドルに到達   
 - Yearnの金庫について 
 - エコシステムニュース
-    
 
 ## **Yearnの舞台裏**
 
@@ -25,7 +23,6 @@ Yearn Finance Newsletter の第46号へようこそ。このニュースレタ�
 また、 [yearn.watch](https://yearn.watch/)では、Vaultsの詳細やストラテジーを見ることができます。
 
 Yearnのセキュリティ対策の詳細はstorming0xさんのツイート[こちら](https://twitter.com/storming0x/status/1436851219864059906)でご確認ください。
-
 
 ## **yvBOOST Vaultの入門書**
 
@@ -45,7 +42,6 @@ CRVを持っていない場合は、Yearn Zapsのおかげで、自分のウォ�
 
 Vaultsは[yearn.finance/vaults](https://yearn.finance/vaults)でご覧いただけます。
 
-
 ## **Yearnの四半期財務報告**
 
 ![](image3.png)
@@ -54,8 +50,6 @@ Yearnコミュニティのメンバー数名が、2021年4月から2021年6月�
 
 [こちら](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf)でレポートをチェックすることができます。
 
-
-›
 ## **プロトコルの累積収益が41Mドルに到達**
 
 ![](image4.png)
