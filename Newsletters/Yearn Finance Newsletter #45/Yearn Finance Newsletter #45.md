@@ -49,7 +49,7 @@ Yearnはローンチ以来、39Mドル以上の収益を上げています（預
 
 Yearnの累積収益やその他の統計は、[こちら](https://www.yfistats.com/)からご覧いただけます。
 
-## **Yearn の Vault**
+## **YearnのVault**
 
 私たちが活動しているすべてのyVaultsのストラテジーの詳細な説明は[こちら](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)でご覧いただけます。
 
