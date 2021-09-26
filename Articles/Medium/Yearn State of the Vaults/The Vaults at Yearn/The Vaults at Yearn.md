@@ -120,7 +120,7 @@ Yönetim ödüllerini toplamak için 1INCH DAO'ya 1INCH token yatırır. Ödüll
 
 ### v2 WETH yVault ([yvWETH](https://etherscan.io/address/0xa258C4606Ca8206D8aA700cE2143D7db854D168c))
 
-_Yatırılan herhangi bir ETH, WETH'e dönüştürülür ve ardından yatırılır.
+_Yatırılan herhangi bir ETH, WETH'e dönüştürülür ve ardından yatırılır._
 
 [StrategyLenderYieldOptimiser](https://etherscan.io/address/0xec2DB4A1Ad431CC3b102059FA91Ba643620F0826)  
 Faiz kazanmak için WETH'i Alpha Homora'ya ödünç verir.
@@ -241,7 +241,7 @@ v2 Curve yVault'lar, Curve Finance'deki likidite havuzlarına sağlanarak elde e
 
 ### ✨ Curve 3Crypto Havuzu yVault'u ([yvCurve-3Crypto](https://etherscan.io/address/0xE537B5cc158EB71037D4125BDD7538421981E6AA))
 
-_Bu vault Geçici Kayba tabi olmasa da, temeldeki Curve havuzu yatırımı çektiğinizde Geçici Kayba neden olabilir, dikkatli olun.
+_Bu vault Geçici Kayba tabi olmasa da, temeldeki Curve havuzu yatırımı çektiğinizde Geçici Kayba neden olabilir, dikkatli olun._
 
 ✨ [Curvecrv3cryptoVoterProxy](https://etherscan.io/address/0xbA9052141cEf06FD55733D23231c37Fc856CE6F4) 🚀  
 Bu vault, [crv3crypto](https://etherscan.io/address/0xc4AD29ba4B3c580e6D59105FFf484999997675Ff) token'leri karşılığında Curve'deki likidite havuzuna [buradan](https://curve.fi/tricrypto2/deposit) BTC, ETH veya USDT sağlayarak elde edilen crv3crypto token'lerinin mevduatını kabul eder. crv3crypto, CRV ödülleri kazanmak için curve.fi üzerindeki göstergeye yatırılır. Ödüller, temel token'lerden birini almak için takas edilir ve daha fazla crv3crypto elde etmek için likidite havuzuna yeniden eklenir.
