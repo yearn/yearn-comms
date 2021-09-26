@@ -2,11 +2,7 @@
 
 ![](image1.jfif)
 
-<<<<<<< HEAD
 Yearn Finance Newsletterの第45号へようこそ。このニュースレターの目的は、プロジェクトのローンチ、ガバナンスの変更、エコシステムの更新など、最新のニュースをYearnとより広いクリプトコミュニティにお知らせすることです。Yearn Financeについてもっと知りたいという方は、私たちの公式[Twitter](https://twitter.com/iearnfinance)と[Medium](https://medium.com/iearn)アカウントをフォローしてください。
-=======
-Yearn Finance Newsletterの第 45 号へようこそ。このニュースレターの目的は、プロジェクトのローンチ、ガバナンスの変更、エコシステムの更新など、最新のニュースを Yearn とより広いクリプトコミュニティにお知らせすることです。Yearn Finance についてもっと知りたいという方は、私たちの公式[Twitter](https://twitter.com/iearnfinance)と[Medium](https://medium.com/iearn)アカウントをフォローしてください。
->>>>>>> 126b6d3793c5f94f487af7e215862dfea0236c3e
 
 ## **概要**
 
