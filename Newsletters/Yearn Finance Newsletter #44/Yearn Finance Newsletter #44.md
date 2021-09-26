@@ -2,7 +2,7 @@
 
 ![](image1.jfif)
 
-Yearn Finance Newsletter の第44号へようこそ。このニュースレターの目的は、プロジェクトのローンチ、ガバナンスの変更、エコシステムの更新など、最新のニュースをYearnとより広いクリプトコミュニティにお知らせすることです。Yearn Financeについてもっと知りたいという方は、私たちの公式[Twitter](https://twitter.com/iearnfinance)と[Medium](https://medium.com/iearn)アカウントをフォローしてください。
+Yearn Finance Newsletterの第44号へようこそ。このニュースレターの目的は、プロジェクトのローンチ、ガバナンスの変更、エコシステムの更新など、最新のニュースをYearnとより広いクリプトコミュニティにお知らせすることです。Yearn Financeについてもっと知りたいという方は、私たちの公式[Twitter](https://twitter.com/iearnfinance)と[Medium](https://medium.com/iearn)アカウントをフォローしてください。
 
 ## **概要**
 
