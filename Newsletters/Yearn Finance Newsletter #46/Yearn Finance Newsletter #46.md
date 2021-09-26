@@ -62,7 +62,6 @@ Yearnの累積収益やその他の統計は[こちら](https://www.yfistats.com
 
 [こちら](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)ですべてのアクティブなVaultsのストラテジーについて詳細な説明を読むことができます。
 
-
 ## **エコシステムのニュース**
 
 [yAcademy DAOのインターンに登録して、ライブのスマートコントラクトを監査しよう](https://twitter.com/yAcademyDAO/status/1435866622556659717)
