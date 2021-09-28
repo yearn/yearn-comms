@@ -1,7 +1,7 @@
 ---
-author: "yearn.finance"
-handle: "@iearnfinance"
-source: "https://twitter.com/iearnfinance/status/1432387438014435332"
+लेखक: "yearn.finance"
+हैंडल: "@iearnfinance"
+स्रोत: "https://twitter.com/iearnfinance/status/1432387438014435332"
 likes: 357
 retweets: 60
 replies: 21
@@ -9,30 +9,30 @@ replies: 21
 
 ![](image1.jpg)
 
-# Yearn Finance has issued a grant to [@atlantis0x](https://twitter.com/atlantis0x) to help build a 2d pixel metaverse. Here's why:
+# यर्न फाइनेंस ने [@atlantis0x](https://twitter.com/atlantis0x) को एक 2d पिक्सेल मेटावर्स बनाने में मदद करने के लिए एक अनुदान जारी किया है। क्यों?:
 
-## 1
+## १ 
 
-[Atlantis World](https://twitter.com/atlantis0x) is a Web3 metaverse designed to expand access to virtual worlds, a 2d pixelverse that doesn't require expensive tech but will still melt faces.
+[अटलांटिस वर्ल्ड](https://twitter.com/atlantis0x) एक वेब३ मेटावर्स है जिसे आभासी दुनिया तक पहुंच बढ़ाने के लिए डिज़ाइन किया गया है, एक 2d पिक्सेलवर्स जिसे महंगी तकनीक की आवश्यकता नहीं है।
 
 ![](image2.jpg)
 
-## 2
+## २ 
 
-They're building DAO and DeFi first, with education, community, governance, and security in mind from the start.
+वे शुरू से ही शिक्षा, समुदाय, शासन और सुरक्षा को ध्यान में रखते हुए DAO और DeFi का निर्माण कर रहे हैं।
 
-## 3
+## ३ 
 
-We think the metaverse will play a big role in the future of DAOs and culture as we connect, gamify, and evolve the ecosystem.
+हमें लगता है कि मेटावर्स DAO और संस्कृति के भविष्य में एक बड़ी भूमिका निभाएगा क्योंकि हम पारिस्थितिकी तंत्र को जोड़ते हैं, गेमिफाई करते हैं और विकसित करते हैं।
 
-## 4
+## ४ 
 
-Learn more about Atlantis World:  [atlantisworld.io](https://atlantisworld.io)
+अटलांटिस वर्ल्ड के बारे में और जानें: [atlantisworld.io](https://atlantisworld.io)
 
-## 5
+## ५ 
 
-Grants to builders like [@atlantis0x](https://twitter.com/atlantis0x) are core to Yearn's strategy to constantly evolve and keep making DeFi simple. 
+[@atlantis0x](https://twitter.com/atlantis0x) जैसे बिल्डरों को अनुदान लगातार विकसित होने और DeFi को सरल बनाने के लिए यर्न की रणनीति के मूल हैं। 
 
-## 6
+## ६ 
 
-Building something next level and want to connect with us? Visit: [yearnfinance.typeform.com/yGrants](https://yearnfinance.typeform.com/yGrants)
+अगले स्तर पर कुछ बनाना और हमारे साथ जुड़ना चाहते हैं? [yearnfinance.typeform.com/yGrants](https://yearnfinance.typeform.com/yGrants) पर जाएँ:
