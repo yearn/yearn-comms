@@ -350,6 +350,7 @@ CRV ve CVX kazanmak için Convex Finance'a a3CRV sağlar. Ödüller toplanır, d
 
 ![](26.png)
 
+
 ### v2 Curve HUSD Havuzu yVault ([yvCurve-HUSD](https://etherscan.io/address/0x054AF22E1519b020516D72D749221c24756385C9))
 
 [Curvehusd3CRVVoterProxy](https://etherscan.io/address/0x5ED527A2cfC5411EB63b12E46e270b07b6813824) 🚀  
