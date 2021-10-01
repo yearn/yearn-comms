@@ -1,90 +1,90 @@
 # Yearn Finance Newsletter #47
 
-### Week Ending September 26th, 2021
+### 2021年9月26日までの1週間
 
 ![](image1.png)
 
-Welcome to the 47th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Yearn Finance Newsletter第47号へようこそ。このニュースレターの目的は、プロダクトのローンチ、ガバナンスの変更、エコシステムの更新など、最新のニュースをYearnとより広いクリプトコミュニティにお知らせすることです。Yearn Financeについてもっと知りたいという方は、私たちの公式[Twitter](https://twitter.com/iearnfinance)と[Medium](https://medium.com/iearn)アカウントをフォローしてください。
 
-## Summary
+## 概要
 
--   Introducing V3 of Yearn’s UI
+-   YearnのUI V3の紹介
     
--   Check Out the New Labs Section
+-   新しいラボセクションをチェック
     
--   Yearn Has Purchased $320K of YFI in September
+-   Yearnが320KドルのYFIを9月に購入
     
--   Cumulative Protocol Revenue Reaches $43M
+-   プロトコルの累積収益が43Mドルに到達
     
--   Vaults at Yearn
+-   YearnのVaults
     
--   Ecosystem News
+-   エコシステムニュース
     
 
-## Introducing V3 of Yearn’s UI
+## YearnのUI V3の紹介
 
 ![](image2.png)
 
-This week, we have opened up the new Yearn v3 to users in beta. The new friendlier interface surfaces all the data you need for a birds-eye view of your holdings and historical plus yearly earnings. It also simulates transactions so you don't get unexpected slippage or failed transactions.
+今週、私たちは新しいYearn v3のベータ版をユーザーに公開しました。より親しみやすいインターフェースになり、保有資産や過去の収益に加えて年間の収益を概観するために必要なすべてのデータが表示されます。また、取引のシミュレーションを行うので予期せぬスリッページや取引の失敗を防ぐことができます。
 
-Rebuilt from the ground up, v3 is the realization of a shared vision of a lightweight, scalable system ready for the multichain future. The core components of the Yearn V3 stack have been divided up into multiple distinct components: Lens, Meta, Subgraph, Exporter, SDK, and Front-end. 
+ゼロから再構築されたv3は、マルチチェーンの未来に対応した軽量でスケーラブルなシステムという共通のビジョンを実現しています。Yearn V3スタックのコアコンポーネントは複数の異なるコンポーネントに分割されています。Lens、Meta、Subgraph、Exporter、SDK、そしてFront-endです。 
 
-As for the UI, we have revamped the Yearn experience for mobile users and added new sections such as the Home, Wallet, Labs, Iron Bank, and Settings pages. Additionally, there will be multiple UI themes, with some being unlockable for specific NFT holders. See [galaxy.eco/yearn](https://galaxy.eco/yearn) for potential NFTs that qualify for future themes.
+UIに関しては、モバイルユーザーのためにYearn体験を刷新し、ホーム、ウォレット、ラボ、Iron Bnak、設定ページなどの新しいセクションを追加しました。さらに、複数のUIテーマが用意されており、特定のNFT保有者がアンロックできるものもあります。今後のテーマアンロックに該当する可能性のあるNFTについては、[galaxy.eco/yearn](https://galaxy.eco/yearn)をご覧ください。
 
-Thank you to the Yearn community and all the contributors at Yearn who helped to make this happen. If you’d like to contribute, come join our public [discord](https://discord.gg/8rF374XkXy), create an issue in one of the [repos](https://github.com/yearn) linked in the [medium](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f), or share your designs with us on [twitter](https://twitter.com/iearnfinance)!
+Yearnコミュニティと、v3を実現するために協力してくれたYearnのすべてのコントリビューターに感謝します。コントリビュートしたい方は、私たちの公開している[discord](https://discord.gg/8rF374XkXy)に参加したり、[medium](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f)でリンクされている[repos](https://github.com/yearn)のいずれかで課題を作成したり、[twitter](https://twitter.com/iearnfinance)でデザインを共有したり、いつでもお待ちしております!
 
-Read an in-depth rundown on the V3 UI [here](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f).
+V3のUIについての詳細な説明は[こちら](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f)をご覧ください。
 
-Check out [beta.yearn.finance](https://beta.yearn.finance/).
+[beta.yearn.finance](https://beta.yearn.finance/)をチェック！
 
-## Check Out the New Labs Section
+## 新しいラボセクションをチェック
 
 ![](image3.png)
 
-Introducing the Labs section on the new Yearn V3 UI, a set of experimental vaults that push the boundaries of yield in DeFi. Let’s take a look at these new vaults.
+新しいYearn V3 UIのLabsセクションをご紹介します。DeFiのイールドの限界を押し広げる実験的なVaultのセットです。この新しいVaultを見てみましょう。
 
-The vaults that live in the LABS section are not the usual Yearn vaults. Yearn vaults were created with the idea of being long only and that users could withdraw at any time. You asked for different types of vaults and strategies on various platforms and our recent product survey. We listened!
+ラボセクションにあるvauleは通常のYearn vaultsとは異なります。Yearnのvaultはロングのみで、ユーザーがいつでも引き出せることを想定して作られています。しかし、さまざまなプラットフォームの調査やYearnの最新プロダクト調査で、様々なタイプのvaultや戦略を求める声がありました。私たちはそれに耳を傾けました。
 
-In labs, experimentation is the norm, not the exception. Read what each vault does, and read carefully. Strategies may allow lock-ups and the potential for temporary losses in pursuit of increased, long-term sustainable yield.
+ラボでは、実験は例外ではなく当たり前のことです。それぞれのvaultが何をするのかよくお読みください。ストラテジーは、長期的に持続可能な利回りの向上を追求するために、ロックアップや一時的な損失の可能性を許容する場合があります。
 
-You may already know yveCRV, yvBOOST, and our yvBOOST-ETH pJar (a collab with Pickle Finance), which are now live in Labs. We will shortly be adding more vaults to Labs, with detailed pages for each.
+yveCRV、yvBOOST、そしてyvBOOST-ETHのpJar（Pickle Financeとの共同開発）はすでにラボに公開されています。近日中にさらに多くのVaultをラボに追加し、それぞれの詳細ページを公開する予定です。
 
-So, check out Labs at [beta.yearn.finance/#labs](https://beta.yearn.finance/#/labs) and come back for more emerging strategies. Just remember, these vaults are usually riskier than others, as they can involve token locking, impermanent loss, and various other risks.
+[beta.yearn.finance/#labs](https://beta.yearn.finance/#/labs)のラボをチェックし、もっと新しい戦略を求めて戻ってきましょう。ただ、これらの金庫はトークンのロックや無期限の損失、その他さまざまなリスクを伴うことがあるため、通常、他のvaultよりもリスクが高いことを覚えておいてください。
 
-## Yearn Has Purchased $320K of YFI in September
+## Yearnが320KドルのYFIを9月に購入
 
 ![](image4.png)
 
-In accordance with YIP-56: Buyback and Build Yearn, which was passed in January 2021, the Yearn Treasury has purchased an additional $320K worth of YFI.
+2021年1月に可決された「YIP-56：Buyback and Build Yearn」に基づき、Yearnトレジャリーは320Kドル相当のYFIを追加購入しました。
 
-Yearn Treasury will periodically purchase additional YFI in the future using profits earned by the protocol until a new governance proposal is passed that alters this buyback policy. You can read about the BABY proposal [here](https://snapshot.org/#/yearn/proposal/Qmb6gBzjvgLMazSrQQGVcjutLNdkVyM2Lh6yckMzdoaHWZ). 
+Yearnトレジャりーは、この買い戻し方針を変更する新たなガバナンス提案が可決されるまで、プロトコルによって得られた利益を用いて今後も定期的にYFIを追加購入する予定です。BABYの提案については[こちら](https://snapshot.org/#/yearn/proposal/Qmb6gBzjvgLMazSrQQGVcjutLNdkVyM2Lh6yckMzdoaHWZ)をご覧ください。 
 
-Data on the buybacks can be found [here](https://www.yfistats.com/financials/YFIBuybacks.html).
+バイバックに関するデータは[こちら](https://www.yfistats.com/financials/YFIBuybacks.html)をご覧ください。
 
-## Cumulative Protocol Revenue Reaches $43M
+## プロトコルの累積収益が43Mドルに到達
 
 ![](image5.png)
 
-Yearn has earned nearly $43 million in revenue, since launch (excluding the interest earned by depositors). In the past 30 days, nearly $6 million dollars in revenue has been generated by the protocol. An extrapolation of this data projects annual revenue to be nearly $70 million. 
+Yearnはローンチ以来約43Mドルの収益を上げています（預金者が得た利子を除く）。過去30日間では約6Mドルの収益がこのプロトコルによってもたらされました。このデータを推定すると、年間収益は約70Mドルになると予測されます。 
 
-Yearn’s cumulative revenue and other statistics are viewable [here](https://www.yfistats.com/).
+Yearnの累積収益やその他の統計は、[こちら](https://www.yfistats.com/)からご覧いただけます。
 
-## Vaults At Yearn
+## YearnのVaults
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+YearnのアクティブなyVaultsのストラテジーの詳細な説明は[こちら](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)で全てご覧いただけます。
 
-## Ecosystem News
+## エコシステムニュース
 
-[Check out Metaguild using the Coordinape framework](https://twitter.com/metaguildcom/status/1440368717888557068)
+[CoordinapeフレームワークでMetaguildをチェック](https://twitter.com/metaguildcom/status/1440368717888557068)
 
-[Tracheopteryx and 0xMaki speak about DAO design at the Messari Mainnet event](https://twitter.com/MessariCrypto/status/1440412651457110020)
+[Messari MainnetのイベントでTracheopteryxと0xMakiがDAOのデザインについて語る](https://twitter.com/MessariCrypto/status/1440412651457110020)
 
-[Steakwallet supports Yearn vaults in-app](https://twitter.com/steakwallet/status/1440734147194994694)
+[Steakwalletがアプリ内でYearn vaultsに対応](https://twitter.com/steakwallet/status/1440734147194994694)
 
-[Donut is building a retail-friendly savings app on top of Yearn](https://twitter.com/bantg/status/1438680337735987209)
+[DonutがYearnの上に小口取引向けの貯金アプリを構築](https://twitter.com/bantg/status/1438680337735987209)
 
-[Yearn bounties have launched on Flipside Crypto](https://twitter.com/flipsidecrypto/status/1438613782507446273)
+[Flipside CryptoでYearn bountiesをローンチ](https://twitter.com/flipsidecrypto/status/1438613782507446273)
 
-[Use yvFTM as collateral on abracadraba.money on Fantom](https://twitter.com/MIM_Spell/status/1441912161001820161?s=20)
+[yvFTMをabracadraba.money(Fantom)の担保に](https://twitter.com/MIM_Spell/status/1441912161001820161?s=20)
 
-[Check out the Yearn Fundamentals Dashboard on Token Terminal](https://twitter.com/iearnfinance/status/1441179921523507200)
+[Yearn FundamentalsダッシュボードをToken Terminalでチェック](https://twitter.com/iearnfinance/status/1441179921523507200)
