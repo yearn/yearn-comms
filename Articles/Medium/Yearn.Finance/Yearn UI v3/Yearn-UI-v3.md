@@ -1,254 +1,254 @@
-# Yearn UI v3.0
+# Yearn Kullanıcı Arayüzü v3.0
 
-### The next iteration of the yearn.finance UI is here
+### yearn.finance kullanıcı arayüzünün bir sonraki yinelemesi burada
 
 ![](image1.png)
 
-_v3 landing page design exploration_
+_v3 açılış sayfası tasarımı keşfi_
 
-We’ve rebuilt yearn.finance from the ground up. We’ve worked to address feedback and pain points from v2, and _a lot_ more. v3 is built with user experience, composability, and the multi-chain future in mind, and the beta is live now: [beta.yearn.finance](http://beta.yearn.finance).
+Yearn.finance'ı sıfırdan yeniden oluşturduk. v2'deki geri bildirimleri ve sorunlu noktaları ve _daha_ fazlasını ele almak için çalıştık. v3, kullanıcı deneyimi, birleştirilebilirlik ve çoklu zincir geleceği göz önünde bulundurularak oluşturulmuştur ve beta şu anda yayında: [beta.yearn.finance](http://beta.yearn.finance).
 
-## A vision realized
+## Gerçekleştirilen bir vizyon
 
 ![](image2.png)
 
-_v3 design exploration_
+_v3 tasarım keşfi_
 
-A few months after shipping yearn.finance v2 in January, Yearn contributors began a major rewrite with a vision of a fully-featured, scalable system built for the continually evolving DeFi landscape.
+yearn.finance v2'nin Ocak ayında piyasaya sürülmesinden birkaç ay sonra, Yearn'e katkıda bulunanlar, sürekli gelişen DeFi ortamı için oluşturulmuş tam özellikli, ölçeklenebilir bir sistem vizyonuyla büyük bir yeniden yazma eğlemine geçti.
 
-Today, this vision is finally coming to fruition with the new, rebuilt from the ground up, v3 beta being released today to both users and contributors.
+Bugün, bu vizyon nihayet hem kullanıcılara hem de katkıda bulunanlara bugün yayınlanan yeni, sıfırdan yeniden oluşturulmuş v3 beta ile meyvelerini veriyor.
 
-We’ve carefully listened to community feedback and the most pressing pain points have been addressed. The rewrite goes far beyond this however, and features multiple additions and features which aim to greatly improve the user experience and simplify the entire process from beginning to end.
+Topluluk geri bildirimlerini dikkatle dinledik ve en acil sorunlar ele alındı. Ancak yeniden yazma, bunun çok ötesine geçiyor ve kullanıcı deneyimini büyük ölçüde iyileştirmeyi ve baştan sona tüm süreci basitleştirmeyi amaçlayan çoklu eklemeler ve özellikler içeriyor.
 
-## Key Improvements
+## Önemli İyileştirmeler
 
--   You can now see your total position, total historical earnings, and predicted yearly earnings, with vault deposits denominated in both the underlying token and $.
--   Any transaction through the interface, including zaps in and out of vaults, is simulated using [Tenderly](https://tenderly.co), showing you the estimated tokens received. No more unexpected slippage or mysteriously failing transactions.
--   Wallet page that allows you to easily zap into vaults or supply to Iron Bank with almost any token you hold.
--   Vault detail page view with historical vault earnings, underlying token info, and strategy descriptions.
--   New “Labs” section to serve as a home for more experimental vaults.
--   Fully integrated Iron Bank with dust-free loan repayments and withdrawals.
--   Completely redesigned experience for mobile.
--   Multiple UI themes, with unique unlockable themes for Yearn NFT holders coming soon. You’ll notice for all screenshots, the cyberpunk theme (find it under settings) is used.
+-   Artık toplam pozisyonunuzu, toplam geçmiş kazançlarınızı ve tahmini yıllık kazançlarınızı, hem temel token hem de $ cinsinden ifade edilen vault mevduatlarıyla görebilirsiniz.
+-   Vault'ların içine ve dışına zaplar dahil olmak üzere arayüz üzerinden yapılan herhangi bir işlem, size alınan tahmini token'leri göstererek [Tenderly](https://tenderly.co) kullanılarak simüle edilir. Artık beklenmedik slipaj veya bilinmeyen bir şekilde başarısız işlemler yok.
+-   Elinizde bulunan hemen hemen tüm token'leri kolayca vault'lara girmenize veya Iron Bank'a tedarik etmenize olanak tanıyan cüzdan sayfası.
+-   Geçmiş vault kazançları, temel token bilgileri ve strateji açıklamaları ile vault ayrıntı sayfası görünümü.
+-   Daha deneysel vault'lara ev sahipliği yapacak yeni “Labs” bölümü.
+-   Tozsuz kredi geri ödemeleri ve para çekme işlemleri ile tam entegre Iron Bank.
+-   Mobil cihazlar için tamamen yeniden tasarlanmış deneyim.
+-   Çok yakında Yearn NFT sahipleri için benzersiz açılabilir temalar içeren çoklu UI temaları. Tüm ekran görüntülerinde, cyberpunk temasının (ayarlar altında bulun) kullanıldığını fark edeceksiniz.
 
-Please keep in mind that this is a **_beta release:_**  nothing is final yet, and we plan to iterate over the next few weeks as we receive feedback and implement further refinements. If you’d like to provide feedback, head to our new [discord channel](https://discord.gg/Rw9zA3GbyE) created for v3 web UI feedback.
+Lütfen bunun bir **_beta sürümü:_** olduğunu unutmayın henüz hiçbir şey nihai değildir ve geri bildirim alıp daha fazla iyileştirme uyguladıkça önümüzdeki birkaç hafta içinde yinelemeyi planlıyoruz. Geri bildirimde bulunmak istiyorsanız v3 web kullanıcı arayüzü geri bildirimi için oluşturulan yeni [discord kanalımıza](https://discord.gg/Rw9zA3GbyE) gidin.
 
 ![](image3.png)
 
-_v3 design exploration_
+_v3 tasarım keşfi_
 
-## Wait, which website is this again?
+## Bekle, bu yine hangi web sitesi?
 
-This is the new yearn.finance, which is maintained by a group of Yearn contributors. [yearn.fi](https://yearn.fi/) is a website maintained primarily by [Andre](https://twitter.com/AndreCronjeTech) and [Anton](https://twitter.com/AntonNellCrypto).
+Bu, bir grup Yearn katılımcısı tarafından sağlanan yeni yearn.finance'dir. [yearn.fi](https://yearn.fi/), öncelikle [Andre](https://twitter.com/AndreCronjeTech) ve [Anton](https://twitter.com/AntonNellCrypto) tarafından yönetilen bir web sitesidir.
 
-The sites are complementary; Anton implements features that we add (such as the SDK), and we plan to add new features that Andre and Anton release, such as the risk/protocol dashboard.
+Bu siteler tamamlayıcıdır; Anton, eklediğimiz özellikleri (SDK gibi) uygular ve biz Andre ve Anton'un risk/protokol panosu gibi yayınladığı yeni özellikleri eklemeyi planlıyoruz.
 
-Read below for a **deeper dive** on the beta release (especially useful for B2B or potential integrators), and for future roadmap items at the end.
+Beta sürümü (özellikle B2B veya potansiyel entegratörler için faydalı) hakkında **daha derin bir inceleme** ve sonunda gelecekteki yol haritası öğeleri için alttaki yazıyı okuyun.
 
-## Yearn web infra
+## Yearn web altyapısı
 
-Our new v3 front-end and back-end were designed with scalability and composability in mind, and can be divided up into multiple distinct components: **Lens, Meta, Subgraph, Exporter, SDK, and Front-end.**
+Yeni v3 front_end ve back_end, ölçeklenebilirlik ve birleştirilebilirlik göz önünde bulundurularak tasarlandı ve birden çok farklı bileşene bölünebilir: **Lens, Meta, Subgraph, Exporter, SDK, and Front-end.**
 
-We briefly describe each of them below:
+Aşağıda her birini kısaca açıklıyoruz:
 
 ### Lens
 
 ![](image4.png)
 
-_Lens block diagram_
+_Lens blok diyagramı_
 
-Yearn’s lens is a group of contracts that aggregate on-chain data to make it easily consumable. The lens includes an oracle, registries, address generators, adapters, and helper contracts. Lens contracts are configurable (allowing calculations to be added/updated individually), all adapters are extendable, and all storage variables can be updated. Lens provides information scoped to any user by asset or protocol, information scoped to a specific vault or Iron Bank market, and information scoped to the entire protocol.
+Yearn'in lensi, kolayca tüketilebilir hale getirmek için zincir üzerindeki verileri toplayan bir sözleşmeler grubudur. Lens bir oracle'den ve ayrıca kayıtlar, adres oluşturucular, adaptörler ve yardımcı sözleşmelerden oluşur. Lens sözleşmeleri yapılandırılabilir (hesaplamaların ayrı ayrı eklenmesine/güncellenmesine izin verir), tüm adaptörler genişletilebilir ve tüm depolama değişkenleri güncellenebilir. Lens, herhangi bir kullanıcıya varlık veya protokol kapsamına giren bilgileri, belirli bir vault'a veya Iron Bank pazarına yönelik bilgileri ve tüm protokolü kapsayan bilgileri sağlar.
 
-#### Use cases
+#### Kullanım senaryoları
 
-Important use cases for Yearn’s lens include on-chain user balances, vault balances, and TVL (all normalized to USDC via an on-chain oracle) for the entire Yearn protocol. In summary, lens serves as a simple integration point for any protocol or partner who wishes to pull Yearn data on-chain quickly.
+Yearn'in lensi için önemli kullanım örnekleri, tüm Yearn protokolü için zincir üstü kullanıcı bakiyeleri, vault bakiyeleri ve TVL'yi (tümü zincir üstü bir oracle aracılığıyla USDC'ye normalize edilmiştir) içerir. Özetle lens, Yearn verilerini zincire hızlı bir şekilde çekmek isteyen herhangi bir protokol veya ortak için basit bir entegrasyon noktası görevi görür.
 
-[Lens source code](https://github.com/yearn/yearn-lens/)
+[Lens kaynak kodu](https://github.com/yearn/yearn-lens/)
 
 ### Meta
 
-Yearn’s metadata repo is a simple framework that allows front-end vault settings to be tweaked very quickly without requiring any code editing. Yearn team members simply need to edit a JSON file that will automatically build and deploy the updated IPFS metadata files.
+Yearn'in meta veri deposu, herhangi bir kod düzenlemesi gerektirmeden front-end vault ayarlarının çok hızlı bir şekilde değiştirilmesine izin veren basit bir çerçevedir. Yearn ekip üyelerinin, güncellenmiş IPFS meta veri dosyalarını otomatik olarak oluşturup dağıtacak bir JSON dosyasını düzenlemeleri yeterlidir.
 
-#### Currently supported schemas and features include:
+#### Şu anda desteklenen şemalar ve özellikler şunları içerir:
 
--   Hide a vault from the UI
--   Disable deposit/withdraw and/or zap in/out for a vault
--   Indicate if a vault has an available migration to a newer version
--   Override APY values
--   Strategy name and description
--   Vault symbol, name, or token icon override
--   Underlying token symbol, name, or icon override
+-   Kullanıcı arayüzünden bir vault'u gizlemek
+-   Bir vault için para yatırma/çekme ve/veya zap giriş/çıkışlarını devre dışı bırakmak
+-   Bir vault'un daha yeni bir sürüme geçmek için uygun olup olmadığını belirlemek
+-   APY değerlerini geçersiz kılmak
+-   Strateji adı ve açıklaması
+-   Vault simgesi, adı veya token simgesi geçersiz kılmak
+-   dayanak token sembolü, adı veya simge geçersiz kılmak
 
-#### Use cases
+#### Kullanım senaryoları
 
--   Quickly configure many aspects of a vault even if you are not a programmer (still requires PR review)
--   Edit configuration in one place and all integrators are updated
--   Maintain control over token and vault names, icons, and symbols
+-   Bir programcı olmasanız bile bir vault'un birçok yönünü hızlı bir şekilde yapılandırabilirsiniz (hala PR incelemesi gerektirir)
+-   Yapılandırmayı tek bir yerde düzenleyebilirsiniz ve tüm entegratörler güncellenir
+-   Token ve vault adları, simgeleri ve sembolleri üzerindeki kontrolü sağlar
 
-[Meta source code](https://github.com/yearn/yearn-meta)
+[Meta kaynak kodu](https://github.com/yearn/yearn-meta)
 
 ### Subgraph
 
 ![](image5.png)
 
-_Earnings displayed in dashboard and for each vault_
+_Gösterge tablosunda ve her vault için görüntülenen kazançlar_
 
-The primary use case of Yearn’s subgraph is to aggregate and transform historical on-chain data and to make it easily queryable. As you can see in the image above, the subgraph is currently used to display:
+Yearn'in Subgraph'nin birincil kullanım amacı, geçmişteki zincir üstü verileri toplamak, dönüştürmek ve bunları kolayca sorgulanabilir hale getirmektir. Yukarıdaki resimde görebileceğiniz gibi, Subgraph şu anda görüntülemek için kullanılıyor:
 
--   User historical earnings scoped to a vault
--   Overall historical user earnings
--   Vault historical earnings (shown on vault detail page)
+-   Vault kapsamına giren kullanıcının geçmişteki kazançları
+-   Genel geçmiş kullanıcı kazançları
+-   Vault geçmiş kazançları (vault ayrıntı sayfasında gösterilir)
 
-Since the earnings of each vault are not natively integrated at the contract level we use our subgraph to track events of deposits, withdrawals, and harvests which are then aggregated so earnings can be [calculated](https://github.com/yearn/yearn-sdk/blob/master/src/interfaces/earnings.ts).
+Her vault'un kazançları, sözleşme düzeyinde yerel olarak entegre edilmediğinden, daha sonra toplanan para yatırma, çekme ve hasat olaylarını izlemek için alt grafiğimizi kullanırız, böylece kazançlar [hesaplanabilir](https://github.com/yearn/yearn-sdk/blob/master/src/interfaces/earnings.ts).
 
-Yearn’s ecosystem is inherently complex which means having a subgraph that provides large amounts of accurate data is difficult. As with all aspects of the website, the code is open-source, so if you notice any problems with your earnings feel free to let us know or submit a PR to the subgraph repo below.
+Yearn'in ekosistemi doğası gereği karmaşıktır, yani büyük miktarlarda doğru veri sağlayan bir Subgraph'a sahip olmak zordur. Web sitesinin tüm yönlerinde olduğu gibi, kod açık kaynaklıdır, bu nedenle kazancınızla ilgili herhangi bir sorun fark ederseniz, bize bildirmekten veya aşağıdaki subgraph repo'suna bir PR göndermekten çekinmeyin.
 
-[Subgraph source code](https://github.com/yearn/yearn-vaults-v2-subgraph/)
+[Subgraph kaynak kodu](https://github.com/yearn/yearn-vaults-v2-subgraph/)
 
 ### Exporter
 
-Yearn exporter functions as our primary API, and contains all APY and TVL calculations. It depends only on the on-chain data, and also provides tools for anyone to permissionlessly verify any measurable aspect of Yearn products. It supports exporting both realtime and historical data.
+Yearn Exporter'i, birincil API'miz olarak işlev görür ve tüm APY ve TVL hesaplamalarını içerir. Yalnızca zincir üzerindeki verilere bağlıdır ve ayrıca herkesin Yearn ürünlerinin ölçülebilir herhangi bir yönünü izinsiz olarak doğrulaması için araçlar sağlar. Hem gerçek zamanlı hem de geçmiş verileri dışa aktarmayı destekler.
 
-[Exporter source code](https://github.com/yearn/yearn-exporter)
+[Exporter kaynak kodu](https://github.com/yearn/yearn-exporter)
 
 ### SDK
 
 ![](image6.png)
 
-_SDK block diagram_
+_SDK blok diyagramı_
 
-Yearn’s new SDK is the engine that powers our new v3 website, and the front-end was specifically designed around consuming data from the SDK. The SDK aggregates on-chain and off-chain data to serve front-ends and B2B integrations by fetching data from lens, exporter, subgraph, meta, and [Zapper](https://zapper.fi).
+Yearn'in yeni SDK'sı, yeni v3 web sitemize güç sağlayan motordur ve front-end, SDK'dan veri kullanmak üzere özel olarak tasarlanmıştır. SDK, lens, exporter, subgraph, meta, and [Zapper](https://zapper.fi) verilerini getirerek front-end ve B2B entegrasyonlarına hizmet etmek için zincir içi ve zincir dışı verileri toplar.
 
-#### Use cases
+#### Kullanım senaryoları
 
 -   V3 front-end
--   B2B integrators: vault management and configuration is taken care of for the integrator. An update in the data our SDK fetches means integrators are automatically taken care of.
--   Strategist dashboards
+-   B2B entegratörleri: Entegratör için vault yönetimi ve yapılandırması yapılır. SDK'mızın getirdiği verilerdeki bir güncelleme, entegratörlerin otomatik olarak ilgilenildiği anlamına gelir.
+-   Stratejist panoları
 
-[SDK source code](https://github.com/yearn/yearn-sdk)
+[SDK kaynak kodu](https://github.com/yearn/yearn-sdk)
 
 ### Front-end
 
-While the back-end infrastructure listed above generates the data needed, the front-end consumes it and presents it in a way that users can easily interact with it.
+Yukarıda listelenen back-end altyapısı ihtiyaç duyulan verileri üretirken, front-end bunu kullanır ve kullanıcıların onunla kolayca etkileşime girebileceği şekilde sunar.
 
 ![](image7.png)
 
-_v3 FE block diagram_
+_v3 FE blok diyagramı_
 
-Our front-end code is divided in two different pieces: **v3 core logic** and **UI layer**.
+Front-end kodumuz iki farklı parçaya bölünmüştür: **v3 çekirdek mantığı** ve **kullanıcı arayüzü katmanı**.
 
-The **v3 core logic** is meant to be easy to implement in any repo and is in charge of communicating with the SDK and other external data providers, not only by fetching data but also by making POST/WRITE requests. The core logic also models and feeds the UI with a more suitable and traditional data schema, combining all of the different pieces of data (vaults, tokens, user balances, etc).
+NS **v3 çekirdek mantığı** herhangi bir repo'da uygulanması kolay olması amaçlanmıştır ve yalnızca veri getirerek değil, aynı zamanda POST/WRITE istekleri yaparak SDK ve diğer harici veri sağlayıcılarla iletişim kurmaktan sorumludur. Çekirdek mantık ayrıca, tüm farklı veri parçalarını (vault'lar, token'ler, kullanıcı bakiyeleri, vb) birleştirerek, daha uygun ve geleneksel bir veri şemasıyla kullanıcı arayüzünü modeller ve besler.
 
-The **UI layer** consumes the data directly from the core and displays it as desired in each repo. It can be broken down into five main pages, described below.
+**UI katmanı** verileri doğrudan çekirdekten alır ve her repo'da istendiği gibi görüntüler. Aşağıda açıklanan beş ana sayfaya ayrılabilir.
 
-[Front-end source code](https://github.com/yearn/yearn-finance-v3)
+[Front-end kaynak kodu](https://github.com/yearn/yearn-finance-v3)
 
 ![](image8.png)
 
-_Closeup of side navbar and dashboard_
+_Yan gezinme çubuğu ve gösterge tablosunun yakın çekimi_
 
-#### Home
+#### Ana sayfa
 
-The home page contains an overview of all of your assets in your wallet, as well as all three Yearn product categories: Vaults, Labs, and Iron Bank.
+Ana sayfa, cüzdanınızdaki tüm varlıklarınızın yanı sıra üç Yearn ürün kategorisinin tümüne genel bir bakış içerir: Vaut'lar, Laboratuvarlar ve Iron Bank.
 
-#### Wallet
+#### Soğuk Cüzdan
 
-The wallet view displays all assets in your wallet, their total value, and allows you to either deposit them to any vault or supply the tokens to Iron Bank if a market is available.
+Cüzdan görünümü, cüzdanınızdaki tüm varlıkları, toplam değerlerini görüntüler ve bunları herhangi bir vault'a yatırmanıza veya bir piyasa varsa token'leri Iron Bank'a yatırmanıza olanak sağlar.
 
-#### Vaults
+#### Vault'lar
 
-Our new vaults page contains a dashboard with user info regarding vault deposits, recommendations (currently displaying highest-yielding vaults), underlying token balance, dollar value, and historical earnings for any vault deposits as well as current APY. Clicking on any vault will bring up the vault detail page.
+Yeni vault'lar sayfamız, vault mevduatları, öneriler (şu anda en yüksek getirili vault'ları gösteriyor), temel token bakiyesi, dolar değeri ve mevcut APY'nin yanı sıra herhangi bir vault mevduatı için geçmiş kazançlarla ilgili kullanıcı bilgilerini barındıran bir pano içerir. Herhangi bir vault'a tıklamak vault detayı sayfasını açacaktir.
 
-#### Vault Detail Page
+#### Vault Detay Sayfası
 
 ![](image9.png)
 
-_Vault detail page_
+_Vault detay sayfası_
 
-The vault detail page is a unique URL for each vault (coming soon to labs) that displays vault TVL, APY, underlying token info, strategy descriptions, historical vault earnings, and allows users to deposit and withdraw.
+Vault ayrıntı sayfası, vault TVL, APY, temel token bilgilerini, strateji açıklamalarını, geçmiş vault kazançlarını görüntüleyen ve kullanıcıların para yatırma ve çekmelerine olanak tanıyan her vault için (yakında laboratuvarlara sunulacak) benzersiz bir URL'dir.
 
-#### Labs
+#### Lab'lar
 
-One thing users will notice is that yveCRV, yvBOOST, and our yvBOOST-ETH pJar (a product launched in collaboration with [pickle.finance](https://www.pickle.finance)) are no longer on our vaults page. Instead, these have all been moved to our new Labs section.
+Kullanıcıların fark edeceği bir şey, yveCRV, yvBOOST ve yvBOOST-ETH pJar'ımızın ([pickle.finance](https://www.pickle.finance) ile ortaklaşa piyasaya sürülen bir ürün) artık vault'lar sayfamızda yer almamasıdır. Bunun yerine, bunların tümü yeni Laboratuvarlar bölümümüze taşındı.
 
-What is Labs, you ask?
+Labs nedir diye mi soruyorsun?
 
-Yearn’s vaults were originally created with the idea of being “up-only”, and that users could withdraw at any time. As Yearn’s strategies became more sophisticated and we searched for new ways to generate yield, we realized that many strategies are not well-suited to this specific framework.
+Yearn'in vault'ları başlangıçta “sadece yükseliş” fikriyle yaratıldı ve kullanıcılar istedikleri zaman geri çekilebilirdi. Yearn'in stratejileri daha karmaşık hale geldikçe ve getiri elde etmek için yeni yollar aradıkça, birçok stratejinin bu özel çerçeveye pek uygun olmadığını fark ettik.
 
-For instance, several strategists have been working on single-sided LP strategies. Between trading fees and staking incentives, the yield on funds in AMM LPs can be quite lucrative — but there is an obvious risk of impermanent loss and/or short-term drawdowns depending on market fluctuations.
+Örneğin, birkaç stratejist tek taraflı LP stratejileri üzerinde çalışmaktadır. Alım satım ücretleri ve bahis teşvikleri arasında, AMM LP'lerdeki fonların getirisi oldukça kazançlı olabilir - ancak piyasa dalgalanmalarına bağlı olarak kalıcı kayıp ve/veya kısa vadeli düşüşler gibi bariz bir risk vardır.
 
-Additionally, protocols like Bancor may require a 24-hour cooldown period to unstake funds. Previously, a requirement like this would break the “withdraw any time” aspect of vaults.
+Ek olarak, Bancor gibi protokoller, fonları geri almak için 24 saatlik bir bekleme süresi gerektirebilir. Önceden, bunun gibi bir gereklilik, vault'ların "herhangi bir zamanda geri çekil" özelliğini bozardı.
 
-In labs, we allow more flexibility, and as long as users are aware of the conditions up-front, strategies will allow lock-ups and the potential for temporary losses in pursuit of increased, long-term sustainable yield.
+Laboratuvarlarda daha fazla esnekliğe izin veriyoruz ve kullanıcılar koşulların önceden farkında olduğu sürece, stratejiler artan, uzun vadeli sürdürülebilir verim arayışında kilitlenmelere ve geçici kayıplar potansiyeline izin verecektir.
 
 #### Iron Bank
 
-Similar to vaults and labs, Iron Bank shows a dashboard with relevant info, including total supplied, total borrowed, borrow limit used, and total borrow limit.
+Vault'lar ve laboratuvarlara benzer şekilde, Iron Bank, sağlanan toplam, toplam ödünç alınan, kullanılan ödünç alma limiti ve toplam ödünç alma limiti dahil olmak üzere ilgili bilgileri içeren bir gösterge panosu sunar.
 
-### Additional Features
+### Ek Özellikler
 
 ![](image10.png)
 
-_Simulation of a zap exceeding slippage tolerance_
+_Slipaj toleransını aşan bir zap simülasyonu_
 
-#### Simulations
+#### Simülasyonlar
 
-Before deposits, withdrawals, or zaps into or out of a vault **we use** [**Tenderly**](https://tenderly.co/) **to simulate the transaction.** This gives a lot of beneficial information to users before they even submit a transaction and commit to spending gas:
+Para yatırmadan, çekmeden veya vaul'a girmeden veya vault'dan çıkmadan önce **işlemi simüle etmek için** [**Tenderly**](https://tenderly.co/) **kullanırız.** daha bir işlem emri göndermeden ve gaz harcamasını taahhüt etmeden önce kullanıcılar için faydalı bilgiler:
 
--   If the simulation is successful they’ll be able to see roughly the number of tokens that will be received.
--   If it’s simulated that the transaction will result in more slippage than the user’s tolerance (for zaps) then a warning will be displayed to the user with how much the actual slippage would likely be.
--   If the simulated transaction fails a warning will be displayed to the user.
+-   Simülasyon başarılı olursa, alınacak token sayısını kabaca görebilecekler.
+-   İşlemin, kullanıcının toleransından (zaplar için) daha fazla slipaja neden olacağı simüle edilirse, o anki slipajın ne kadar olabileceği konusunda kullanıcıya bir uyarı gösterilir.
+-   Simüle edilen işlem başarısız olursa, kullanıcıya bir uyarı gösterilir.
 
-In order to simulate a transaction, we first need to make a call to [Zapper’s API](https://docs.zapper.fi/zapper-api/api-guides/zap-in#check-zap-allowance) to see whether the user needs to approve the zap. If they do, then we create a Tenderly fork so we can preserve state between simulations. We then simulate the approval transaction, again using Zapper, to fetch the transaction data that needs to be simulated for the approval. After the approval simulation succeeds we then [fetch](https://docs.zapper.fi/zapper-api/api-guides/zap-in#zap-in) the transaction data for the actual zap and execute another simulation. Finally, we’re able to see the fully simulated data about the zap, without needing the user to approve it first.
+Bir işlemi simüle etmek için önce [Zapper'ın API'sine](https://docs.zapper.fi/zapper-api/api-guides/zap-in#check-zap-allowance) bir çağrı yapmamız gerekiyor. kullanıcının zap'ı onaylaması gerekip gerekmediğini öğrenmek için. Eğer yaparlarsa, simülasyonlar arasındaki durumu koruyabilmek için bir Tenderly çatal oluştururuz. Ardından, onay için simüle edilmesi gereken işlem verilerini getirmek için yine Zapper kullanarak onay işlemini simüle ederiz. Onay simülasyonu başarılı olduktan sonra, gerçek zap için işlem verilerini [getiririz](https://docs.zapper.fi/zapper-api/api-guides/zap-in#zap-in) ve başka bir simülasyon yürütürüz. Son olarak, kullanıcının önce onaylamasına gerek kalmadan zap hakkında tam olarak simüle edilmiş verileri görebiliyoruz.
 
-Please note that a simulation will fail if you’re trying to simulate a transaction for which you do not have enough gas. Although we have tested them extensively, simulations are complex actions, so please pass on feedback if you experience any issues or failing simulations.
+Yeterli yakıtınızım olmadığı bir işlemi simüle etmeye çalışıyorsanız, simülasyonun başarısız olacağını lütfen unutmayın. Bunları kapsamlı bir şekilde test etmemize rağmen, simülasyonlar karmaşık eylemlerdir, bu nedenle herhangi bir sorunla karşılaşırsanız veya simülasyonlarda başarısız olursanız lütfen geri bildirimde bulunun.
 
-#### Mobile
+#### Mobil Cihazlar
 
 ![](image11.png)
 
-_v3 mobile experience_
+_v3 mobil deneyim_
 
-Another key requirement for the new website was full mobile support, something that was sorely lacking in the past.
+Yeni web sitesi için bir diğer önemli gereksinim, geçmişte fazlasıyla eksik olan tam mobil destekti.
 
-The website now supports displaying all information from both a full-sized and mobile screen. This includes the user dashboard, search functionality, all action buttons (deposit, withdraw, supply, borrow), APY information, and transaction modals designed specifically with mobile layouts in mind.
+Web sitesi artık tüm bilgilerin hem tam boyutlu hem de mobil ekrandan görüntülenmesini destekliyor. Bu, kullanıcı panosunu, arama işlevini, tüm işlem düğmelerini (para yatırma, çekme, tedarik etme, ödünç alma), APY bilgilerini ve özellikle mobil düzenler düşünülerek tasarlanmış işlem modellerini içerir.
 
-While we don’t currently have a native Yearn app due to some App Stores’ restrictions, we’ve committed to providing a native-like experience on mobile browsers.
+Bazı App Store'ların kısıtlamaları nedeniyle şu anda yerel bir Yearn uygulamamız olmasa da, mobil tarayıcılarda yerel benzeri bir deneyim sağlamayı taahhüt ettik.
 
-## Future Roadmap
+## Gelecek Yol Haritası
 
 ![](image12.png)
 
-_v3 design exploration_
+_v3 tasarım keşfi_
 
-### The Merge
+### Birleştirme
 
-Though not quite as dramatic as the merging of Ethereum’s PoW with PoS, the goal of launching v3 web as a beta was to establish full feature parity with our existing web UI before replacing it. In addition to a beta period to collect public feedback and catch bugs, here are some items we are in the process of implementing:
+Ethereum'un PoW'sinin PoS ile birleştirilmesi kadar dramatik olmasa da, v3 web'i beta olarak başlatmanın amacı, değiştirmeden önce mevcut web kullanıcı arayüzümüzle tam özellik paritesi oluşturmaktı. Herkese açık geri bildirim toplamak ve hataları yakalamak için bir beta dönemine ek olarak, uygulama sürecinde olduğumuz bazı öğeler şunlardır:
 
--   Labs page detail views
--   Hover tooltips to match v2 (APY, headers, etc)
+-   Lab'lar sayfası ayrıntı görünümleri
+-   Araç ipuçlarını v2(APY, başlıklar, vb) ile eşleştirecek şekilde gezinmek
 
-### … And Beyond (post-merge)
+### … Ve Ötesi (birleştirme sonrası)
 
--   New landing page with improved onboarding — **the sketches in this post are some of the pieces from our v3 design exploration.**
--   Historical APY for vaults
--   Historical protocol yield and user gas savings
--   Gasless zap out approvals
--   Gas cost estimations
--   Multi-language support
--   Integrate [yearn.fi](http://yearn.fi/) risk dashboard
--   Integration of [Bowswap](https://bowswap.finance/) to ease moving from low- to high-yield vaults
--   Ability to add custom skins
--   More detailed user position info on home page
--   Ability to hide dust on the wallet page
--   Several other things that we can’t announce yet, but will be going live very soon 👻
+-   İyileştirilmiş ilk katılımlı yeni açılış sayfası — **Bu gönderideki çizimler, v3 tasarım keşfimizden bazı parçalardır.**
+-   Vault'lar için geçmişteki APY'ler
+-   Geçmiş protokol verimi ve kullanıcı gaz tasarrufu
+-   Gazsız zap çıkışı onayları
+-   Gaz maliyeti tahminleri
+-   Çoklu dil desteği
+-   [yearn.fi](http://yearn.fi/) risk panosunu entegrasyonu
+-   Düşük verimli vault'lardan yüksek verimli vault'lara geçişi kolaylaştırmak için [Bowswap](https://bowswap.finance/) entegrasyonu
+-   Özel görünümler ekleme yeteneği
+-   Ana sayfada daha ayrıntılı kullanıcı konumu bilgisi
+-   Cüzdan sayfasındaki kırıntı token'leri gizleme özelliği
+-   Henüz duyuramadığımız ama çok yakında yayına girecek birkaç şey daha 👻
 
 ## A Word of Gratitude
 
 ![](image13.png)
 
-_Yearn web team self-portrait_
+_Yearn web ekibinin otoportresi_
 
-None of this would be possible without the amazing Yearn community, including dozens of those who have submitted feedback/ideas over the past few months, our web advisor group, all contributors at Yearn, and especially the designers and engineers who worked tirelessly to make this new site a reality (many of whom are pictured in the artwork above).
+Bunların hiçbiri, geçtiğimiz birkaç ay içinde geri bildirim/fikir gönderen düzinelerce kişi, web danışman grubumuz, Yearn'deki tüm katkıda bulunanlar ve özellikle bunu yapmak için yorulmadan çalışan tasarımcılar ve mühendisler de dahil olmak üzere muhteşem Yearn topluluğu (birçoğu yukarıdaki resimde resmedilmiştir) olmadan mümkün olmazdı.
 
-If you’d like to help contribute in any way, come join our public [discord](https://discord.gg/8rF374XkXy), create an issue in one of the [repos](https://github.com/yearn) linked above, or share your designs with us on [twitter](https://twitter.com/iearnfinance)!
+Herhangi bir şekilde katkıda bulunmak istiyorsanız, herkese açık [discord'umuza](https://discord.gg/8rF374XkXy) katılın, [repo'lardan](https://github.com/yearn) birinde bir sorun oluşturun.bağlantısı yukarıda verilmiştir veya tasarımlarınızı bizimle [twitter](https://twitter.com/iearnfinance)! üzerinden paylaşın!
