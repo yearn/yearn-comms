@@ -16,11 +16,11 @@ CRV token'lerini Yearn aracılığıyla stake etmeyi seçerek herkes bundan yara
 
 CRV, [Curve.fi](http://curve.fi/) protokolünü çalıştıran merkezi olmayan kuruluş olan CurveDAO için yönetişim ve yardımcı program token'idir. CRV token'in ana amacı, [Curve.fi](http://curve.fi/) platformundaki likidite sağlayıcılarını teşvik etmenin yanı sıra, protokolün yönetimine mümkün olduğunca çok kullanıcıyı dahil etmektir. CRV token'in üç ana kullanımı vardır: oylama, stake etme ve artırma. Bu üç şey, kullanıcıların veCRV karşılığında CRV'lerini "oy kilitlemesini" gerektirir. veCRV, oy ile emanet edilen CRV anlamına gelir ve yalnızca belirli bir süre için kilitlenen CRV'yi temsil eder (1 haftadan 4 yıla kadar herhangi bir aralıkta
 
-#### Stake etme
+### Stake etme
 
 veCRV (stakeed CRV), Curve protokolü işlem ücretlerinden bir pay alır (oluşturulan tüm işlem ücretlerinin %50'si). Bu ücretler toplanır ve daha sonra veCRV sahiplerine dağıtılan TriPool (DAI+USDC+USDT) için LP token'i olan 3CRV'yi satın almak için kullanılır.
 
-#### Artırma
+### Artırma
 
 Stake etmenin ötesinde, CRV için bir başka önemli teşvik, sağlanan likidite ile ödüllerinizi artırma kabiliyetidir. Oy kilitleme CRV'si, DAO'ya katılmak için oylama gücü elde etmenize ve CRV ödül tahsislerini seçilen havuzlara yönlendirmenize, sağladığınız likiditede 2,5 katına kadar bir artış elde etmenize olanak tanır.
 
@@ -52,7 +52,7 @@ CRV token'lerinizi vault'a kilitlemek, [Curve.fi](http://curve.fi/) oylama güc�
 
 ![](image3.png)
 
-## Compounding ile artırılmış CRV kazanın**
+### Compounding ile artırılmış CRV kazanın**
 
 yvBOOST yVault, yukarıda açıklanan yveCRV yVault'un tam otomatik ve bileşik bir sürümüdür.
 
