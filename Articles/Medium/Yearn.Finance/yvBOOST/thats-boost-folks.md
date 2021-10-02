@@ -52,7 +52,7 @@ CRV token'lerinizi vault'a kilitlemek, [Curve.fi](http://curve.fi/) oylama güc�
 
 ![](image3.png)
 
-### Compounding ile artırılmış CRV kazanın**
+### Compounding ile artırılmış CRV kazanın
 
 yvBOOST yVault, yukarıda açıklanan yveCRV yVault'un tam otomatik ve bileşik bir sürümüdür.
 
@@ -72,7 +72,7 @@ Yearn piyasadan yvBOOST satın alır, onu veCRV'ye açar ve bu veCRV'yi yvBOOST 
 
 CRV'nizi doğrudan [Curve.fi](http://curve.fi/) platformunda stake etmek, protokol ücretinin (3CRV) bir kısmını manuel olarak talep etmenize olanak tanıyan devredilemez bir veCRV token'i karşılığında CRV token'inizi kilitlemek anlamına gelir. [Curve.fi](http://curve.fi/) platformuna sağlanan likiditenizi artırmak için oylarınızı manuel olarak yeniden dengelemek için bu veCRV token'ini kullanabilirsiniz.
 
-## Yearn yveCRV ve yveBOOST vault'larına katılın**
+## Yearn yveCRV ve yveBOOST vault'larına katılın
 
 Bu Yearn vault'larının her ikisi de CRV staker'larını Yearn tarafından kilitlenen CRV'nin bir payı ile ödüllendirerek, onu likit kalırken CRV stake etmek isteyenler için ideal bir yer haline getirir:
 
