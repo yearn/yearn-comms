@@ -24,7 +24,7 @@ veCRV (stakeed CRV), Curve protokolü işlem ücretlerinden bir pay alır (oluş
 
 Stake etmenin ötesinde, CRV için bir başka önemli teşvik, sağlanan likidite ile ödüllerinizi artırma kabiliyetidir. Oy kilitleme CRV'si, DAO'ya katılmak için oylama gücü elde etmenize ve CRV ödül tahsislerini seçilen havuzlara yönlendirmenize, sağladığınız likiditede 2,5 katına kadar bir artış elde etmenize olanak tanır.
 
-#### Oylama
+### Oylama
 
 CRV sahipleri, CRV'lerini veCRV'ye çevirerek oylarını kilitledikten sonra, çeşitli DAO teklifleri ve önerilen havuz parametresi değişiklikleri için oy kullanabilirler veya kendi değişikliklerini önerebilirler. 
 
