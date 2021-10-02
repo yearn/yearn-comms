@@ -1,90 +1,90 @@
-# Yearn Finance Newsletter #47
+# Yearn Finance Bülteni #47
 
-### Week Ending September 26th, 2021
+### 26 Eylül 2021'de Sona Eren Hafta
 
 ![](image1.png)
 
-Welcome to the 47th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Yearn Finance Bülteninin 47. baskısına hoş geldiniz. Bu bültenle amacımız, Yearn'i ve daha geniş kripto topluluğunu ürün lansmanları, yönetim değişiklikleri ve ekosistem güncellemeleri de dahil olmak üzere en son gelişmelerden haberdar etmektir. Yearn Finance hakkında daha fazla bilgi edinmek istiyorsanız, resmi [Twitter](https://twitter.com/iearnfinance) ve [Medium](https://medium.com/iearn) hesaplarımızı takip edin.
 
-## Summary
+## **Özet**
 
--   Introducing V3 of Yearn’s UI
-    
--   Check Out the New Labs Section
-    
--   Yearn Has Purchased $320K of YFI in September
-    
--   Cumulative Protocol Revenue Reaches $43M
-    
--   Vaults at Yearn
-    
--   Ecosystem News
-    
+-   Yearn'in Kullanıcı Arayüzü V3 Tanıtımı
 
-## Introducing V3 of Yearn’s UI
+-   Yeni Laboratuvarlar Bölümüne Göz Atın
+
+-   Yearn Eylül'de 320 bin dolarlık YFI satın aldı
+
+-   Kümülatif Protokol Geliri 43 Milyon Dolara Ulaştı
+
+-   Yearn'deki Vault'lar
+
+-   Ekosistem Haberleri
+
+
+## Yearn'in Kullanıcı Arayüzü V3 Tanıtımı
 
 ![](image2.png)
 
-This week, we have opened up the new Yearn v3 to users in beta. The new friendlier interface surfaces all the data you need for a birds-eye view of your holdings and historical plus yearly earnings. It also simulates transactions so you don't get unexpected slippage or failed transactions.
+Bu hafta yeni Yearn v3'ü beta olarak kullanıcılara açtık. Güncel, kullanıcı dostu arayüz, varlıklarınızın ve geçmiş artı yıllık kazançlarınızın kuş bakışı görünümü için ihtiyaç duyduğunuz tüm verileri ortaya çıkarır. Ayrıca, beklenmeyen slipaj veya başarısız işlemlerle karşılaşmamanız için işlemleri simüle eder.
 
-Rebuilt from the ground up, v3 is the realization of a shared vision of a lightweight, scalable system ready for the multichain future. The core components of the Yearn V3 stack have been divided up into multiple distinct components: Lens, Meta, Subgraph, Exporter, SDK, and Front-end. 
+Sıfırdan yeniden inşa edilen v3, çok zincirli geleceğe hazır, hafif, ölçeklenebilir bir sistemin ortak vizyonunun gerçekleştirilmesidir. Yearn V3 yığınının temel bileşenleri birden çok farklı bileşene bölünmüştür: Lens, Meta, Subgraph, Exporter, SDK ve Front-end.
 
-As for the UI, we have revamped the Yearn experience for mobile users and added new sections such as the Home, Wallet, Labs, Iron Bank, and Settings pages. Additionally, there will be multiple UI themes, with some being unlockable for specific NFT holders. See [galaxy.eco/yearn](https://galaxy.eco/yearn) for potential NFTs that qualify for future themes.
+Kullanıcı arayüzüne gelince, mobil kullanıcılar için Yearn deneyimini yeniledik ve Ana Sayfa, Cüzdan, Laboratuvarlar, Iron Bank ve Ayarlar sayfaları gibi yeni bölümler ekledik. Ek olarak, bazıları belirli NFT sahipleri için açılabilen birden fazla UI teması olacak. Gelecekteki temalara uygun potansiyel NFT'ler için [galaxy.eco/yearn](https://galaxy.eco/yearn) adresine bakın.
 
-Thank you to the Yearn community and all the contributors at Yearn who helped to make this happen. If you’d like to contribute, come join our public [discord](https://discord.gg/8rF374XkXy), create an issue in one of the [repos](https://github.com/yearn) linked in the [medium](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f), or share your designs with us on [twitter](https://twitter.com/iearnfinance)!
+Yearn topluluğuna ve bunun gerçekleşmesine yardımcı olan Yearn'deki tüm katkıda bulunanlara teşekkür ederiz. Katkıda bulunmak istiyorsanız, herkese açık [discord'umuza](https://discord.gg/8rF374XkXy) katılın, bağlantısı verilen [repo'lardan](https://github.com/yearn) birinde sorun oluşturun. [medium](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f) veya tasarımlarınızı bizimle [twitter](https://twitter.com/iearnfinance) üzerinden paylaşın!
 
-Read an in-depth rundown on the V3 UI [here](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f).
+V3 kullanıcı arayüzünün ayrıntılı özetini [buradan](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f) okuyabilirsiniz.
 
-Check out [beta.yearn.finance](https://beta.yearn.finance/).
+[beta.yearn.finance](https://beta.yearn.finance/) adresine bir göz atın.
 
-## Check Out the New Labs Section
+## Yeni Laboratuvarlar Bölümüne Göz Atın
 
 ![](image3.png)
 
-Introducing the Labs section on the new Yearn V3 UI, a set of experimental vaults that push the boundaries of yield in DeFi. Let’s take a look at these new vaults.
+DeFi'de verim sınırlarını zorlayan bir dizi deneysel vault olan yeni Yearn V3 UI'deki Lab'lar bölümü ile tanışın. Bu yeni vaul'lara bir göz atalım.
 
-The vaults that live in the LABS section are not the usual Yearn vaults. Yearn vaults were created with the idea of being long only and that users could withdraw at any time. You asked for different types of vaults and strategies on various platforms and our recent product survey. We listened!
+LABS bölümünde bulunan vaut'lar, normal Yearn vault'ları değildir. Yearn vault'ları, sadece uzun olması ve kullanıcıların her an geri çekilebilmeleri düşüncesiyle oluşturuldu. Çeşitli platformlarda ve son ürün anketimizde farklı vault türleri ve stratejileri talep etmiştiniz. biz de talebinize yanıt verdik.
 
-In labs, experimentation is the norm, not the exception. Read what each vault does, and read carefully. Strategies may allow lock-ups and the potential for temporary losses in pursuit of increased, long-term sustainable yield.
+Laboratuarlarda deneyler istisna değil normdur. Her vault'un ne yaptığını dikkatlice okuyun. Stratejiler, artan, uzun vadeli sürdürülebilir verim arayışında kilitlenmelere ve geçici kayıplar potansiyeline izin verebilir.
 
-You may already know yveCRV, yvBOOST, and our yvBOOST-ETH pJar (a collab with Pickle Finance), which are now live in Labs. We will shortly be adding more vaults to Labs, with detailed pages for each.
+Artık Labs'da yayında olan yveCRV, yvBOOST ve yvBOOST-ETH pJar'ımızı (Pickle Finance ile ortak çalışma) biliyorsunuzdur. Kısa süre içinde Labs'a her biri için ayrıntılı sayfalar içeren daha fazla vault ekleyeceğiz.
 
-So, check out Labs at [beta.yearn.finance/#labs](https://beta.yearn.finance/#/labs) and come back for more emerging strategies. Just remember, these vaults are usually riskier than others, as they can involve token locking, impermanent loss, and various other risks.
+Bu nedenle, [beta.yearn.finance/#labs](https://beta.yearn.finance/#/labs) adresindeki Labs'a göz atın ve yeni gelişen stratejiler için geri gelin. Unutmayın, bu vault'lar genellikle diğerlerinden daha risklidir çünkü token kilitleme, kalıcı kayıp ve çeşitli diğer riskleri içerebilirler.
 
-## Yearn Has Purchased $320K of YFI in September
+## Yearn Eylül'de 320 bin dolarlık YFI satın aldı
 
 ![](image4.png)
 
-In accordance with YIP-56: Buyback and Build Yearn, which was passed in January 2021, the Yearn Treasury has purchased an additional $320K worth of YFI.
+Ocak 2021'de kabul edilen YIP-56: Geri Alım ve İnşa Yılı uyarınca, Yearn Hazinesi 320 bin dolar değerinde ek bir YFI satın aldı.
 
-Yearn Treasury will periodically purchase additional YFI in the future using profits earned by the protocol until a new governance proposal is passed that alters this buyback policy. You can read about the BABY proposal [here](https://snapshot.org/#/yearn/proposal/Qmb6gBzjvgLMazSrQQGVcjutLNdkVyM2Lh6yckMzdoaHWZ). 
+Yearn Hazinesi, bu geri satın alma politikasını değiştiren yeni bir yönetim teklifi geçene kadar protokol tarafından kazanılan karları kullanarak gelecekte periyodik olarak ek YFI satın alacaktır. BABY sunumu hakkında [buradan](https://snapshot.org/#/yearn/proposal/Qmb6gBzjvgLMazSrQQGVcjutLNdkVyM2Lh6yckMzdoaHWZ) bilgi edinebilirsiniz.
 
-Data on the buybacks can be found [here](https://www.yfistats.com/financials/YFIBuybacks.html).
+Geri alımlarla ilgili veriler [burada](https://www.yfistats.com/financials/YFIBuybacks.html)
 
-## Cumulative Protocol Revenue Reaches $43M
+## - Kümülatif Protokol Geliri 43 Milyon Dolara Ulaştı
 
 ![](image5.png)
 
-Yearn has earned nearly $43 million in revenue, since launch (excluding the interest earned by depositors). In the past 30 days, nearly $6 million dollars in revenue has been generated by the protocol. An extrapolation of this data projects annual revenue to be nearly $70 million. 
+Yearn, lansmanından bu yana 43 milyon doların üzerinde gelir elde etti (mudiler tarafından kazanılan faiz hariç). Son 30 günde, protokol tarafından 6 milyon doların üzerinde gelir elde edildi. Bu verilerin ekstrapolasyonu, yıllık gelirin yaklaşık 70 milyon dolar olmasını öngörüyor.
 
-Yearn’s cumulative revenue and other statistics are viewable [here](https://www.yfistats.com/).
+Yearn'in kümülatif gelirini ve diğer istatistiklernii [buradan](https://www.yfistats.com/) görüntüleyebilirsiniz.
 
-## Vaults At Yearn
+## Yearn'deki Vault'lar
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Tüm etkin yVault'larımıza yönelik stratejilerin ayrıntılı bir açıklamasını [buradan](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) okuyabilirsiniz.
 
-## Ecosystem News
+## Ekosistem Haberleri
 
-[Check out Metaguild using the Coordinape framework](https://twitter.com/metaguildcom/status/1440368717888557068)
+[Coordinape çerçevesini kullanarak Metaguild'e göz atın](https://twitter.com/metaguildcom/status/1440368717888557068)
 
-[Tracheopteryx and 0xMaki speak about DAO design at the Messari Mainnet event](https://twitter.com/MessariCrypto/status/1440412651457110020)
+[Tracheopteryx ve 0xMaki, Messari Mainnet etkinliğinde DAO tasarımı hakkında konuşuyor](https://twitter.com/MessariCrypto/status/1440412651457110020)
 
-[Steakwallet supports Yearn vaults in-app](https://twitter.com/steakwallet/status/1440734147194994694)
+[Steakwallet, uygulama içi Yearn vault'larını destekler](https://twitter.com/steakwallet/status/1440734147194994694)
 
-[Donut is building a retail-friendly savings app on top of Yearn](https://twitter.com/bantg/status/1438680337735987209)
+[Donut, Yearn'in üzerine perakende dostu bir tasarruf uygulaması oluşturuyor](https://twitter.com/bantg/status/1438680337735987209)
 
-[Yearn bounties have launched on Flipside Crypto](https://twitter.com/flipsidecrypto/status/1438613782507446273)
+[Flipside Crypto'da Yearn ödülleri başladı](https://twitter.com/flipsidecrypto/status/1438613782507446273)
 
-[Use yvFTM as collateral on abracadraba.money on Fantom](https://twitter.com/MIM_Spell/status/1441912161001820161?s=20)
+[Fantom'da abracadraba.money'de yvFTM'yi teminat olarak kullanın](https://twitter.com/MIM_Spell/status/1441912161001820161?s=20)
 
-[Check out the Yearn Fundamentals Dashboard on Token Terminal](https://twitter.com/iearnfinance/status/1441179921523507200)
+[Token Terminalinde Yearn Fundamentals Dashboard'a göz atın](https://twitter.com/iearnfinance/status/1441179921523507200)
