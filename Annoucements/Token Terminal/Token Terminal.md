@@ -1,7 +1,7 @@
 ![](1.jpg) </br>
 
-Yearn Fundamentals Dashboard on Token Terminal
+Painel de Fundamentos de Yearn em Token Terminal
 
-Our friends at [@tokenterminal](https://twitter.com/tokenterminal) now track fundamental metrics of YFI such as supply-side and protocol revenues, P/S and P/E ratios, annualized capital deployed.
+Nossos amigos do [@tokenterminal](https://twitter.com/tokenterminal) agora acompanham métricas fundamentalistas de YFI, como renda do protocolo, Índice Preço/Lucro (P/E ratio), Índice Preço/Vendas (P/S ratio) e capital sob gestão anualizado.
 
 https://www.tokenterminal.com/terminal/projects/yearn-finance
