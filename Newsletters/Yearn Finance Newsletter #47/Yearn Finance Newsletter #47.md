@@ -4,7 +4,7 @@
 
 ![](image1.png)
 
-> Willkommen zum 47. Teil des Yearn Finance Newsletter. Das Ziel dieses Newsletters ist es die Yearn und Crypto Community auf dem neusten Stand der Entwicklungen bei Yearn zu halten, mitsamt neuer Produktstarts, Veränderungen im Managementprozess und Neuigkeiten die das gesamte Ökosystem betreffen. Wenn Sie daran interessiert sind mehr über Yearn Finance zu erfahren, folgen Sie unserem offiziellen [Twitter](https://twitter.com/iearnfinance) und [Medium](https://medium.com/iearn) Account. 
+> Willkommen zum 47. Teil des Yearn Finance Newsletter. Das Ziel dieses Newsletters ist es die Yearn und Crypto Community auf dem neusten Stand der Entwicklungen bei Yearn zu halten, mitsamt neuer Produktstarts, Veränderungen im Managementprozess und Neuigkeiten die das gesamte Ökosystem betreffen. Wenn Sie daran interessiert sind mehr über Yearn Finance zu erfahren, folgen Sie unserem offiziellen [Twitter](https://twitter.com/iearnfinance) und [Medium](https://medium.com/iearn) Konto. 
 
 ## Zusammenfassung
 
@@ -12,9 +12,9 @@
     
 -   Neue "Labs" Rubrik
     
--   Yearn hat im September YFI in Höhe von 275Tsd € gekauft 
+-   Yearn hat im September YFI in Höhe von 320Tsd $ gekauft 
     
--   Kummulative Protokolleinnahmen erreichen 37M €
+-   Kummulative Protokolleinnahmen erreichen 43M $
     
 -   Vaults bei Yearn 
     
@@ -52,20 +52,20 @@ Vielleicht kennen Sie bereits die yveCRV, yvBOOST und unser yvBOOST-ETH pJar (in
 
 Schauen Sie also gerne in unser Labs Rubrik vorbei [beta.yearn.finance/#labs](https://beta.yearn.finance/#/labs) und kommen Sie bald zurück für weitere Ergänzungen und Strategien. Bitte bedenken Sie, dass diese Vaults -wie bereits angedeutet- risikoreicher als unsere Haupt-Vaults sind, da einige eventuell Abhebungssperren, impermanente Verluste und zahlreiche andere Risiken beinhalten können.
 
-## Yearn hat im September YFI in Höhe von 275Tsd € gekauft
+## Yearn hat im September YFI in Höhe von 320Tsd $ gekauft
 
 ![](image4.png)
 
-In Übereinstimmung mit YIP-56: Buyback and Build Yearn, nach der Abstimmung im Januar 2021, hat die Yearn Treasury zusätzliche 275Tsd € an YFI gekauft.
+In Übereinstimmung mit YIP-56: Buyback and Build Yearn, nach der Abstimmung im Januar 2021, hat die Yearn Treasury zusätzliche 320Tsd $ an YFI gekauft.
 
 Die Yearn Treasury wird zukünftig von Protokollgewinnen zusätzliche YFI kaufen bis eine neue Abstimmung in Kraft tritt, die diese buyback-policy verändert. Informieren Sie sich über das BABY proposal [hier](https://snapshot.org/#/yearn/proposal/Qmb6gBzjvgLMazSrQQGVcjutLNdkVyM2Lh6yckMzdoaHWZ).
 
 Informationen über die Rückkäufe können [hier](https://www.yfistats.com/financials/YFIBuybacks.html) gefunden werden.
 
-## Kummulative Protokolleinnahmen erreichen 37M €
+## Kummulative Protokolleinnahmen erreichen 43M $
 
 ![](image5.png)
-Yearn hat seit Protokollstart Einnahmen in Höhe von 37M € verzeichnet (exklusive Zinsen generiert durch Anleger). In den letzten 30 Tagen wurden knapp 5,2M € Einnahmen durch das Protokoll generiert. Unter Verwendung dieser Daten ergibt sich eine prognostizierter Schätzwert jährlichen Einkommens in Höhe von knapp 60,3M €. 
+Yearn hat seit Protokollstart Einnahmen in Höhe von 43M $ verzeichnet (exklusive Zinsen generiert durch Anleger). In den letzten 30 Tagen wurden knapp 6M $ Einnahmen durch das Protokoll generiert. Unter Verwendung dieser Daten ergibt sich eine prognostizierter Schätzwert jährlichen Einkommens in Höhe von knapp 70M $. 
 
 Yearns kummulative Einnahmen und andere Statistiken sind [hier](https://www.yfistats.com/) einsehbar.
 
