@@ -8,7 +8,7 @@ Bienvenidos a la edición número 47 de la newsletter de Yearn Finance. Nuestro 
 
 ## Resumen
 
--   Presentación de la V3 de la interfaz de usuario de Yearn
+-   Presentación de la interfaz de usuario V3 de Yearn
     
 -   Echa un vistazo a la nueva sección de laboratorio (Labs)
     
@@ -21,19 +21,19 @@ Bienvenidos a la edición número 47 de la newsletter de Yearn Finance. Nuestro 
 -   Noticias del ecosistema
     
 
-## Presentación de la V3 de la interfaz de usuario de Yearn
+## Presentación de la interfaz de usuario V3 de Yearn
 
 ![](image2.png)
 
-Esta semana, hemos abierto a los usuarios la beta de la V3 de Yearn. Una interfaz nueva y más amigable contiene toda la información que necesitas para ver rápidamente tus inversiones y ganancias tanto anuales como históricas. Además permite simular transacciones para evitar deslizamientos inesperados y transacciones fallidas.
+Esta semana, hemos abierto a los usuarios la beta de la V3 de Yearn. La nueva interfaz, más amigable, contiene toda la información que necesitas para ver rápidamente tus inversiones y ganancias tanto anuales como históricas. Además permite simular transacciones para evitar deslizamientos de precio inesperados y transacciones fallidas.
 
-Construida desde cero la versión V3 es la puesta en marcha de la visión compartida de una interfaz más ligera y escalable necesaria para el futuro multi protocolo. Los componentes centrales la de la V3 de Yearn se dividen en elementos diferenciados tales como "lens", "Meta", "Subgraph", "Exporter", "SDK", y "frontend".
+Construida desde cero, la versión V3 es la puesta en marcha de la visión compartida de una interfaz más ligera y escalable necesaria para el futuro multi blockchain. Los componentes centrales de la V3 de Yearn se dividen en elementos diferenciados tales como "lens", "Meta", "Subgraph", "Exporter", "SDK", y "frontend".
 
-Así como en la nueva interfaz, se ha refrescado la experiencia completa para usuarios en móviles y se han añadido secciones como "Inicio", "Cartera", "Labs", "Iron Bank", y páginas de configuración. Adicional a esto habrán múltiples temas a elegir dentro de los cuales habrán algunos exclusivos solo para portadores de NTFs. Ver [galaxy.eco/yearn](https://galaxy.eco/yearn) para ver los potenciales NFTs que califican para estos temas exclusivos.
+En la nueva interfaz, se ha refrescado la experiencia completa para usuarios de web móvil y se han añadido secciones como "Inicio", "Cartera", "Labs", "Iron Bank", y páginas de configuración. Adicional a esto, habrán múltiples temas a elegir dentro de los cuales habrán algunos exclusivos solo para portadores de NTFs. Visita galaxy.eco/yearn para ver los potenciales NFTs que podrán tener acceso a estos temas exclusivos.
 
 Gracias a la comunidad de Yearn y a todos los contribuidores por lograr llevar este proyecto a cabo. Si quieres contribuir, únete a nuestro [discord](https://discord.gg/8rF374XkXy) público, crea un "issue" en cualquiera de los [repositorios](https://github.com/yearn) que encontrarás en [medium](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f), o ¡comparte tus diseños con nosotros en [twitter](https://twitter.com/iearnfinance)!
 
-Puedes leer a profundidad sobre la creación versión V3 de Yearn [Aquí](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f).
+Puedes leer a profundidad sobre la creación de la versión V3 de Yearn [Aquí](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f).
 
 Échale un vistazo a la [beta.yearn.finance](https://beta.yearn.finance/).
 
@@ -47,9 +47,9 @@ Las vaults que encontraréis en la sección de Labs no son las típicas vaults d
 
 En Labs, la experimentación es la norma, no la excepción. Podéis leer y preferiblemente con mucha atención lo que hace cada una de las vaults. Algunas estrategias permiten bloqueos de capital y el potencial de pérdidas temporales con el fin de perseguir un rendimiento sostenible en el largo plazo.
 
-Seguramente conocéis las vaults yveCRV, yvBOOST, y gracias a nuestra colaboración con Pickle Finance la vault yvBOOST-ETH pJar, las cuales se encuentran activas en Labs. Agregaremos más vaults en el corto plazo con páginas detalladas para cada una.
+Seguramente conocéis las vaults yveCRV, yvBOOST, y la vault yvBOOST-ETH pJar (gracias a nuestra colaboración con Pickle Finance), estas se encuentran activas en Labs. Agregaremos más vaults en el corto plazo con páginas detalladas para cada una.
 
-Echar un vistazo a Labs en [beta.yearn.finance/#labs](https://beta.yearn.finance/#/labs) donde podrás encontrar estrategias emergentes. Solo recuerda, estas vaults son usualmente más riesgosas que otras ya que envuelven bloqueo de tokens, pérdidas impermanentes entre otros riesgos.
+Echa un vistazo a Labs en beta.yearn.finance/#labs donde podrás encontrar estrategias emergentes. Solo recuerda, estas vaults conllevan usualmente más riesgo que otras ya que envuelven bloqueo de capital y pérdidas impermanentes entre otros riesgos.
 
 ## Yearn ha comprado 320K dólares de YFI en Septiembre
 
@@ -75,7 +75,7 @@ Puedes leer una descripción detallada de las estrategias para todas nuestras yV
 
 ## Noticias del ecosistema
 
-[Echa un vistazo a Metaguild utilizando el framework de Coordinape](https://twitter.com/metaguildcom/status/1440368717888557068)
+[Echa un vistazo a Metaguild utilizando Coordinape](https://twitter.com/metaguildcom/status/1440368717888557068)
 
 [Tracheopteryx y 0xMaki hablan sobre el diseño de DAOs en el evento de Mainnet de Messari](https://twitter.com/MessariCrypto/status/1440412651457110020)
 
@@ -85,6 +85,6 @@ Puedes leer una descripción detallada de las estrategias para todas nuestras yV
 
 [Las recompensas de Yearn han sido lanzadas en Flipside crypto](https://twitter.com/flipsidecrypto/status/1438613782507446273)
 
-[yvFTM puede ser utilizado como colateral en abracadabra.money de la red Fantom](https://twitter.com/MIM_Spell/status/1441912161001820161?s=20)
+[yvFTM puede ser utilizado como colateral en abracadabra.money en Fantom](https://twitter.com/MIM_Spell/status/1441912161001820161?s=20)
 
 [Echa un vistazo a el cuadro de mando de fundamentales de Yearn en Token Terminal](https://twitter.com/iearnfinance/status/1441179921523507200)
