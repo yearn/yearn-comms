@@ -1,2 +1,2 @@
 # yearn-comms
-This is a collection of communication, announcements, tweets, newsletters, and other articles about yearn. 
+Esta es una colección de comunicación, anuncios, tuits, boletines informativos y otros artículos sobre Yearn. 
