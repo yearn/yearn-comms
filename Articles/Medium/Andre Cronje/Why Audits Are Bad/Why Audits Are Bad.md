@@ -31,4 +31,3 @@ Es ist sehr elegant, wenn man wirklich über sein Geld verfügen kann, aber es i
 Teams sollten Audits ergänzend einsetzen, aus demselben Grund, aus dem Peer Coding gut funktioniert, oder sogar ein einfaches Peer Review, aber Audits sind kein Gütesiegel, Audits sind keine Garantie, und Audits sind kein Sicherheitsnetz.
 
 Wenn ich ein Audit wie das oben beschriebene sehen würde, bei dem ein Team sagt, dass es "auditiert" wurde und alles, was es getan hat, war, seinen ERC20 zu auditieren, wäre ich sogar noch vorsichtiger.
-
