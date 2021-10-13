@@ -1,90 +1,90 @@
-# Yearn Finance Newsletter #47
+# Yearn Finance 最新动态 #47
 
-### Week Ending September 26th, 2021
+### 2021年9月26日之前的一周
 
 ![](image1.png)
 
-Welcome to the 47th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+欢迎来到Yearn最新动态第47版。我们此新闻简报的目的是使Yearn和所有加密货币社区了解最新消息，包括新产品发布，治理变化和生态系统更新。如果你有兴趣了解更多有关Yearn Finance的信息，请关注我们的官方 [Twitter](https://twitter.com/iearnfinance)和[Medium](https://medium.com/iearn)帐户。
 
-## Summary
+## 摘要
 
--   Introducing V3 of Yearn’s UI
+-   Yearn用户界面第3版的介绍
     
--   Check Out the New Labs Section
+-   看看新的Labs Section
     
--   Yearn Has Purchased $320K of YFI in September
+-   Yearn在9月份购买了价值32万美元的YFI
     
--   Cumulative Protocol Revenue Reaches $43M
+-   累计协议收入已达到4300万美元
     
--   Vaults at Yearn
+-   Yearn机枪池
     
--   Ecosystem News
+-   生态系统最新消息
     
 
-## Introducing V3 of Yearn’s UI
+## Yearn用户界面第3版的介绍
 
 ![](image2.png)
 
-This week, we have opened up the new Yearn v3 to users in beta. The new friendlier interface surfaces all the data you need for a birds-eye view of your holdings and historical plus yearly earnings. It also simulates transactions so you don't get unexpected slippage or failed transactions.
+本周，我们为用户开放了新的Yearn v3测试版。新界面是更用户友好的，它将显示你需要的所有数据，以全面了解你的所有持仓以及历史和年度收益。它还可以模拟交易，以防止意外滑点或交易失败的问题。
 
-Rebuilt from the ground up, v3 is the realization of a shared vision of a lightweight, scalable system ready for the multichain future. The core components of the Yearn V3 stack have been divided up into multiple distinct components: Lens, Meta, Subgraph, Exporter, SDK, and Front-end. 
+v3是从头开始重建的，它是轻量级和可扩展的，并且已经为多链的未来做好了准备。Yearn V3的核心组件包括多个不同的组件：Lens，Meta，Subgraph，Exporter，SDK和前端。
 
-As for the UI, we have revamped the Yearn experience for mobile users and added new sections such as the Home, Wallet, Labs, Iron Bank, and Settings pages. Additionally, there will be multiple UI themes, with some being unlockable for specific NFT holders. See [galaxy.eco/yearn](https://galaxy.eco/yearn) for potential NFTs that qualify for future themes.
+至于用户界面方面，我们为移动用户改进了他们的Yearn体验，并添加了主页，钱包，Labs，Iron Bank和设置页面等新部分。此外，我们还添加了多个UI主题，其中一些主题只有特定的NFT持有者可解锁。有关可用来解锁这些主题的NFT，请查看[galaxy.eco/yearn](https://galaxy.eco/yearn)。
 
-Thank you to the Yearn community and all the contributors at Yearn who helped to make this happen. If you’d like to contribute, come join our public [discord](https://discord.gg/8rF374XkXy), create an issue in one of the [repos](https://github.com/yearn) linked in the [medium](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f), or share your designs with us on [twitter](https://twitter.com/iearnfinance)!
+非常感谢所有支持Yearn的社区和贡献者，他们帮助实现了我们的目标。如果你想贡献，请加入我们的[discord](https://discord.gg/8rF374XkXy)，在[medium](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f)链接的其中一个[repos](https://github.com/yearn)中创建个issue，或在[twitter](https://twitter.com/iearnfinance)上与我们分享你的设计！
 
-Read an in-depth rundown on the V3 UI [here](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f).
+你可在[此处](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f)阅读有关V3用户界面的深入细分。
 
-Check out [beta.yearn.finance](https://beta.yearn.finance/).
+看看[beta.yearn.finance](https://beta.yearn.finance/)。
 
-## Check Out the New Labs Section
+## 看看新的Labs Section
 
 ![](image3.png)
 
-Introducing the Labs section on the new Yearn V3 UI, a set of experimental vaults that push the boundaries of yield in DeFi. Let’s take a look at these new vaults.
+欢迎大家在新的Yearn V3用户界面上看看新的Labs部分，这是一组将尝试在DeFi中突破界限的实验性机枪池。让我们来看一下这些新的机枪池。
 
-The vaults that live in the LABS section are not the usual Yearn vaults. Yearn vaults were created with the idea of being long only and that users could withdraw at any time. You asked for different types of vaults and strategies on various platforms and our recent product survey. We listened!
+在LABS部分的机枪池不是惯例的Yearn机枪池。Yearn机枪池的设计通常是为了做多，而用户可以随时退出。然而你在各种平台上以及我们最近的用户产品调查中询问了不同类型的机枪池和策略。我们听了大家的建议！
 
-In labs, experimentation is the norm, not the exception. Read what each vault does, and read carefully. Strategies may allow lock-ups and the potential for temporary losses in pursuit of increased, long-term sustainable yield.
+在LABS的部分，实验将是常态，而不是例外。请仔细阅读每个机枪池涉及的内容。策略可能允许锁定资产，并存在潜在的短期损失风险，以赚取更高的长期可持续收益。
 
-You may already know yveCRV, yvBOOST, and our yvBOOST-ETH pJar (a collab with Pickle Finance), which are now live in Labs. We will shortly be adding more vaults to Labs, with detailed pages for each.
+你可能已经知道yveCRV，yvBOOST和我们的yvBOOST-ETH pJar（与Pickle Finance合作），它们目前在LABS的部分。我们很快会在LABS添加更多的机枪池，每个机枪池都将有详细的页面。
 
-So, check out Labs at [beta.yearn.finance/#labs](https://beta.yearn.finance/#/labs) and come back for more emerging strategies. Just remember, these vaults are usually riskier than others, as they can involve token locking, impermanent loss, and various other risks.
+欢迎大家在[beta.yearn.finance/#labs](https://beta.yearn.finance/#/labs)上看看LABS，然后回来了解更多新的并将推出的策略。请注意，这些机枪池通常会比其他机枪池的风险更大，因为它们可能涉及代币锁定，无常损失和各种其他的风险。
 
-## Yearn Has Purchased $320K of YFI in September
+## Yearn在9月份购买了价值32万美元的YFI
 
 ![](image4.png)
 
-In accordance with YIP-56: Buyback and Build Yearn, which was passed in January 2021, the Yearn Treasury has purchased an additional $320K worth of YFI.
+根据2021年1月通过的YIP-56: Buyback and Build Yearn（回购并建造Yearn），Yearn的金库又购买了价值32万美元的YFI。
 
-Yearn Treasury will periodically purchase additional YFI in the future using profits earned by the protocol until a new governance proposal is passed that alters this buyback policy. You can read about the BABY proposal [here](https://snapshot.org/#/yearn/proposal/Qmb6gBzjvgLMazSrQQGVcjutLNdkVyM2Lh6yckMzdoaHWZ). 
+未来金库将使用协议赚取的利润定期购买额外的YFI，直到通过改变此回购计划的新治理提案。你可以在[此处](https://snapshot.org/#/yearn/proposal/Qmb6gBzjvgLMazSrQQGVcjutLNdkVyM2Lh6yckMzdoaHWZ)阅读有关BABY提案的信息。
 
-Data on the buybacks can be found [here](https://www.yfistats.com/financials/YFIBuybacks.html).
+你可以在[此处](https://www.yfistats.com/financials/YFIBuybacks.html)找到有关回购的数据。
 
-## Cumulative Protocol Revenue Reaches $43M
+## 累计协议收入已达到了4300万美元
 
 ![](image5.png)
 
-Yearn has earned nearly $43 million in revenue, since launch (excluding the interest earned by depositors). In the past 30 days, nearly $6 million dollars in revenue has been generated by the protocol. An extrapolation of this data projects annual revenue to be nearly $70 million. 
+自推出以来，Yearn已赚取了近4300万美元的收入（这不包括存款人赚取的利息）。在过去的30天内，协议就生产了近600万美元的收入。根据该数据的推断我们预计年收入将接近7000万美元。 
 
-Yearn’s cumulative revenue and other statistics are viewable [here](https://www.yfistats.com/).
+你可在[此处](https://www.yfistats.com/)查看Yearn的累计收入和其他统计数据。
 
-## Vaults At Yearn
+## Yearn机枪池
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+你可以在[此处](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)阅读我们所有yVault策略的详细说明。
 
-## Ecosystem News
+## 生态系统最新消息
 
-[Check out Metaguild using the Coordinape framework](https://twitter.com/metaguildcom/status/1440368717888557068)
+[看看Metaguild应用Coordinape](https://twitter.com/metaguildcom/status/1440368717888557068)
 
-[Tracheopteryx and 0xMaki speak about DAO design at the Messari Mainnet event](https://twitter.com/MessariCrypto/status/1440412651457110020)
+[Tracheopteryx和0xMaki在Messari Mainnet会议上谈论DAO设计](https://twitter.com/MessariCrypto/status/1440412651457110020)
 
-[Steakwallet supports Yearn vaults in-app](https://twitter.com/steakwallet/status/1440734147194994694)
+[Steakwallet应用程序现在支持Yearn机枪池](https://twitter.com/steakwallet/status/1440734147194994694)
 
-[Donut is building a retail-friendly savings app on top of Yearn](https://twitter.com/bantg/status/1438680337735987209)
+[Donut正在应用Yearn来构建一个零售友好型的储蓄应用程序](https://twitter.com/bantg/status/1438680337735987209)
 
-[Yearn bounties have launched on Flipside Crypto](https://twitter.com/flipsidecrypto/status/1438613782507446273)
+[Yearn赏金已在Flipside Crypto上推出](https://twitter.com/flipsidecrypto/status/1438613782507446273)
 
-[Use yvFTM as collateral on abracadraba.money on Fantom](https://twitter.com/MIM_Spell/status/1441912161001820161?s=20)
+[在Fantom上的abracadabra.money使用yvFTM作为抵押品](https://twitter.com/MIM_Spell/status/1441912161001820161?s=20)
 
-[Check out the Yearn Fundamentals Dashboard on Token Terminal](https://twitter.com/iearnfinance/status/1441179921523507200)
+[在Token Terminal看看Yearn的Foundamentals Dashboard](https://twitter.com/iearnfinance/status/1441179921523507200)
