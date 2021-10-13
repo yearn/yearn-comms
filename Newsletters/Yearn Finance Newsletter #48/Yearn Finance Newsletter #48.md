@@ -10,7 +10,7 @@ Willkommen zur 48. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter 
 
 -   Yearn geht mit Fantom auf Multichain
 
--   Yearn Reaches $5B TVL (Again)
+-   Yearn Reaches $5B TVL (Wieder)
     
 -   Wie du zu Yearn beitragen kannst
     
