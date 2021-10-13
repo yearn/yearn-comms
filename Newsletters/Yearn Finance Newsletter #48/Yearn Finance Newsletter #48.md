@@ -26,7 +26,7 @@ Willkommen zur 48. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter 
 
 ![](image2.png)
  
- Das Reich von Multichain winkt. Und Yearn hat den Ruf erhört.
+Das Reich von Multichain winkt. Und Yearn hat den Ruf erhört.
 
 Heute gehen wir mit dem Start von Iron Bank Fantom und den ersten Fantom Vaults auf Multichain
 
