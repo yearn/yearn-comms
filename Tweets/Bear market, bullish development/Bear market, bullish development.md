@@ -1,32 +1,32 @@
-Author: @[Dudesahn]()
+Autor: @[Dudesahn]()
 
-Link: https://twitter.com/dudesahn/status/1417898521685078016
+Enlace: https://twitter.com/dudesahn/status/1417898521685078016
 
 # 1
 
-Bear market, bullish development.
+Mercado bajista, desarrollo optimista.
 
-While http://yearn.finance has recently added nice features like
+Si bien http://yearn.finance recientemente ha agregado características interesantes como la integración de
 @zapper_fi
-integration for vaults, it still is in need of some love. For those following closely, you may have noticed hints about a new website in the works.
+para bóvedas, todavía necesita un poco de amor. Aquellos que han seguido de cerca habrán notado pistas sobre un nuevo sitio web en curso.
 
-A thread 🧵
+Un hilo 🧵
 
 # 2
 
-“Wait!” you might say, “Isn’t http://yearn.fi Yearn’s new website?”
+“¡Espera!” puede que digas, “¿No es http://yearn.fi el nuevo sitio de Yearn?”
 
-Yes and no.
+Sí y no.
 
-[@AndreCronjeTech](https://twitter.com/AndreCronjeTech) is a mad scientist, and works at light speed while building out his prototypes. Consider http://yearn.fi his playground, built by himself and [@AntonNellCrypto](https://twitter.com/AntonNellCrypto). 🧪
+[@AndreCronjeTech](https://twitter.com/AndreCronjeTech) es un científico loco, y trabaja a la velocidad de la luz mientras desarrolla sus prototipos. Considera a http://yearn.fi su patio de juegos, construido por él y [@AntonNellCrypto](https://twitter.com/AntonNellCrypto). 🧪
 
 # 3
 
-yearn.finance is maintained by a separate group of contributors, and we've been implementing a completely new backend (including an SDK with several APIs) that will power our new frontend, designed specifically with the SDK in mind.
+yearn.finance es mantenido por un grupo separado de contribuyentes, y hemos estado implementando un motor completamente nuevo (incluido un SDK con varias API) que impulsará nuestra interfaz, diseñanada específicamente con el SDK en mente.
 
 # 4
 
-http://yearn.finance and http://yearn.fi have different approaches, but the hope is that they can be mutually beneficial to one another. Handshake
+http://yearn.finance y http://yearn.fi tienen diferentes enfoques, pero esperamos que puedan beneficiarse mutuamente. Apretón de manos
 
 # 5
 
