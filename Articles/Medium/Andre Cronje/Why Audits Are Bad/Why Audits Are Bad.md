@@ -1,33 +1,33 @@
-# Iron Bank Fixed Forex audit: Why audits are bad
+# Audit der Iron Bank Fixed Forex: Warum Audits schlecht sind
 
 Author: [Andre Cronje](https://twitter.com/AndreCronjeTech)</br>
 
-August 3rd, 2021
+3. August 2021
 
-I wanted a sensationalist title. An audits role on public perception is bad, an audit for personal use, is good.
+Ich wollte einen reißerischen Titel. Eine Prüfung für die öffentliche Wahrnehmung ist schlecht, eine Prüfung für den persönlichen Gebrauch ist gut.
 
-Nowadays you'll see audits being requested, not to be reviewed, but simply as a line item. "Is the project audited? \[Yes\] \[No\]", often, the link to the audit won't even be required, simply \[Yes\]\[No\].
+Heutzutage werden Prüfungen nicht mehr zur Überprüfung, sondern nur noch als Einzelposten verlangt. "Wurde das Projekt geprüft? [Ja] [Nein]", oft wird nicht einmal der Link zum Audit verlangt, sondern einfach nur [Ja][Nein].
 
-Let's use Fixed Forex as an example, "Is the project audited?" \[Yes\], and here is the [audit](https://github.com/andrecronje/fixed-forex-audit/blob/main/PeckShield-Audit-Report-ERC20-ibEUR-v1.0.pdf). You might have even opened the link, and then you might have even scrolled down to the findings;
+Nehmen wir Fixed Forex als Beispiel: "Wurde das Projekt geprüft?" [Ja], und hier ist die [Audit](https://github.com/andrecronje/fixed-forex-audit/blob/main/PeckShield-Audit-Report-ERC20-ibEUR-v1.0.pdf). Vielleicht hast du sogar den Link geöffnet und dann zu den Ergebnissen hinuntergescrollt;
 
 ![](1.png)
 
-Great right? 1 low and 1 informational. But now let's look at it contextually, this is essentially an ERC20 contract, and while it does show that ibEUR and subsequent ib-assets are a simple ERC20 implementation, what about the rest of the ecosystem?
+Toll, oder? 1 niedrig und 1 informativ. Aber jetzt lass uns das im Kontext betrachten. Dies ist im Wesentlichen ein ERC20-Vertrag, und während es zeigt, dass ibEUR und nachfolgende ib-Assets eine einfache ERC20-Implementierung sind, was ist mit dem Rest des Ökosystems?
 
 [ibEUR gauge](https://etherscan.io/address/0x9d7ca778d067045a9d6b871c9d28589875308018)  
 [ibKRW gauge](https://etherscan.io/address/0x8992fd229b574b8083de1249bc6fd3711fda45dd)  
-[Voting](https://etherscan.io/address/0xd9c8620c0c0b866b7b5180d2d70093165340326d)  
+[Abstimmen](https://etherscan.io/address/0xd9c8620c0c0b866b7b5180d2d70093165340326d)  
 [Faucet](https://etherscan.io/address/0x7d254d9adc588126edaee52a1029278180a802e8)  
-[ibEUR/ETH distribution](https://etherscan.io/address/0x1da8a6fe33bd35b99505d67843eec9fa124f2d4b)  
-[ib rewards](https://etherscan.io/address/0x83893c4a42f8654c2dd4ff7b4a7cd0e33ae8c859)  
-[Fee distribution](https://etherscan.io/address/0x27761efeb0c7b411e71d0fd0aee5dde35c810cc2)
+[ibEUR/ETH-Verteilung](https://etherscan.io/address/0x1da8a6fe33bd35b99505d67843eec9fa124f2d4b)  
+[ib-Belohnungen](https://etherscan.io/address/0x83893c4a42f8654c2dd4ff7b4a7cd0e33ae8c859)  
+[Honorarverteilung](https://etherscan.io/address/0x27761efeb0c7b411e71d0fd0aee5dde35c810cc2)
 
-Now, its very easy for me to have left it at a simple tweet, "Fixed Forex audit report", and be done with that, and this is why, even in the past, I hated sharing audit reports, we use them as a stamp of approval, non-technical individuals use it as confirmation that they are "safe". Nothing about what we are doing is safe, nothing about what we are trying to do is easy, and we have no future guarantees.
+Es wäre für mich ein Leichtes gewesen, es bei einem einfachen Tweet zu belassen: "Fixed Forex audit report", und das war's. Deshalb habe ich es auch in der Vergangenheit gehasst, Audit-Berichte weiterzugeben, denn wir verwenden sie als Gütesiegel, und nicht-technische Personen verwenden sie als Bestätigung, dass sie "sicher" sind. Nichts von dem, was wir tun, ist sicher, nichts von dem, was wir zu tun versuchen, ist einfach, und wir haben keine Garantien für die Zukunft.
 
-Decentralization is a responsibility, not a right, real decentralization is incredibly hard, and almost impossible to happen over night.
+Dezentralisierung ist eine Verantwortung, kein Recht, und echte Dezentralisierung ist unglaublich schwierig und fast unmöglich über Nacht zu erreichen.
 
-There is real elegance in truly being able to own your funds, but there is an inherent responsibility.
+Es ist sehr elegant, wenn man wirklich über sein Geld verfügen kann, aber es ist auch mit einer gewissen Verantwortung verbunden.
 
-Teams should use audits to supplement, its the same reason peer coding works well, or even a simple peer review, but audits are not a stamp of approval, audits are not a guarantee, and audits are not a safety net.
+Teams sollten Audits ergänzend einsetzen, aus demselben Grund, aus dem Peer Coding gut funktioniert, oder sogar ein einfaches Peer Review, aber Audits sind kein Gütesiegel, Audits sind keine Garantie, und Audits sind kein Sicherheitsnetz.
 
-In fact, if I saw an audit like the above, where a team said they are "audited" and all they did was audit their ERC20, I would be even more cautious.
+Wenn ich ein Audit wie das oben beschriebene sehen würde, bei dem ein Team sagt, dass es "auditiert" wurde und alles, was es getan hat, war, seinen ERC20 zu auditieren, wäre ich sogar noch vorsichtiger.
