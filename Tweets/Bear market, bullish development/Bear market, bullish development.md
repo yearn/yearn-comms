@@ -22,7 +22,7 @@ Sí y no.
 
 # 3
 
-yearn.finance es mantenido por un grupo separado de contribuyentes, y hemos estado implementando un motor completamente nuevo (incluido un SDK con varias API) que impulsará nuestra interfaz, diseñanada específicamente con el SDK en mente.
+yearn.finance es mantenido por un grupo separado de contribuyentes, y hemos estado implementando un backend completamente nuevo (incluido un SDK con varias API) que impulsará nuestro frontend, diseñanado específicamente con el SDK en mente.
 
 # 4
 
@@ -30,25 +30,25 @@ http://yearn.finance y http://yearn.fi tienen diferentes enfoques, pero esperamo
 
 # 5
 
-yearn.fi is able to stand up new features very quickly, while the upcoming v3 http://yearn.finance will demonstrate the power of our reworked backend.
+yearn.fi es capaz de incorporar nuevas funciones muy rápidamente, mientras que la próxima v3 de http://yearn.finance demostrará el poder de nuestro backend reelaborado.
 
-Our goal? Abstracting away the complexity around integrating with yearn products for future partners.
+¿Nuestro objetivo? Abstraer la complejidad a la hora de integrarse con productos de yearn para futuros socios.
 
 # 6
 
-Over the next few weeks, I'll go more in-depth on some of the tech we're building at yearn, why it matters, and what we're excited to work on next.
+Durante las próximas semanas, profundizaré en algunas de las tecnologías que estamos desarrollando en yearn, por qué importan y en qué nos entusiasma trabajar más adelante.
 
-And ultimately, we hope that this can make our work a little more accessible to everyone and a little less opaque. Left-pointing magnifying glass
+Y por último, esperamos que esto pueda hacer que nuestro trabajo sea un poco más accesible para todos y un poco menos opaco. Lupa que apunta a la izquierda
 
 # 7
 
-Once the new site launches, this will include improving our GitHub issue curation for bugs, maintaining a bounty board for larger features we'd like to add, and in general reaching out a hand to anyone who'd like to contribute.
+Una vez que se lance el nuevo sitio, esto incluirá mejorar nuestra gestión de errores en Github, mantener un tablero de recompensas para otras funciones que nos gustaría agregar, y, en general, extender la mano a cualquiera que desee contribuir.
 
 # 8
 
-If you'd like to come build with us, we'd love to have you. Simple as that.
+Si te gustaría desarrollar con nosotros, nos encantaría tenerte. Así de simple.
 
-Feel free to reach out to me on telegram
-[@dudesahn](https://twitter.com/dudesahn) and we can get you started.
+No dudes en comunicarte conmigo en Telegram
+[@dudesahn](https://twitter.com/dudesahn) y te ayudaremos a empezar.
 
 ![](image1.jfif)
