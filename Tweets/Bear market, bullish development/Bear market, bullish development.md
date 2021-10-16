@@ -22,7 +22,7 @@ Sí y no.
 
 # 3
 
-yearn.finance es mantenido por un grupo separado de contribuyentes, y hemos estado implementando un backend completamente nuevo (incluido un SDK con varias API) que impulsará nuestro frontend, diseñanado específicamente con el SDK en mente.
+yearn.finance es mantenido por un grupo separado de contribuyentes, y hemos estado implementando un backend completamente nuevo (incluido un SDK con varias API) que impulsará nuestro frontend, diseñado específicamente con el SDK en mente.
 
 # 4
 
