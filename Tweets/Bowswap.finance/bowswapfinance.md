@@ -1,14 +1,15 @@
-Author: @[Facu](https://twitter.com/fameal)
+Autor: @[Facu](https://twitter.com/fameal)
 
-Link: https://twitter.com/fameal/status/1424857239505018880
+Enlace: https://twitter.com/fameal/status/1424857239505018880
 
 # 1
 
-There's a new way to always have the best available yield. A simple way:
+Hay una nueva forma de tener siempre el mejor yield disponible. Una forma sencilla:
 
 🏹 https://bowswap.finance
 
-You can now swap between [@iearnfinance](https://twitter.com/iearnfinance) Vaults in one single transaction ⚡️
+You can now swap between
+Ahora puedes intercambiar entre Bóvedas de [@iearnfinance](https://twitter.com/iearnfinance) en una sola transacción ⚡️
 
 👇
 
@@ -16,18 +17,18 @@ You can now swap between [@iearnfinance](https://twitter.com/iearnfinance) Vault
 
 # 2
 
-In this first version you can move between some Curve LP vaults that have the same metapool.
+En esta primera versión puedes cambiar entre Bóvedas de Curve de LP que tengan el mismo metapool.
 
 👇
 
 # 3
 
-What's a metapool? It's a pool built on top of another pool. Simple, right?
+¿Qué es una metapool? Es un grupo construido sobre otro grupo. Simple, ¿verdad?
 
 👇
 
 # 4
 
-You are going to be able to swap safely thanks to the slippage protection built-in 🛡️
+Podrás intercambiar de forma segura gracias a la protección contra slippage incorporada 🛡️
 
-Thanks [@pandabuild](https://twitter.com/pandabuild) [@TBouder](https://twitter.com/TBouder) and Ivan for building this yAmazing thing 🚀
+Gracias a [@pandabuild](https://twitter.com/pandabuild) [@TBouder](https://twitter.com/TBouder) e Ivan por desarrollar esta yAsombrosa cosa 🚀
