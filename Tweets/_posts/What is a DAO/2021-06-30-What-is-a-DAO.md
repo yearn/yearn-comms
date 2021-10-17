@@ -2,7 +2,7 @@
 layout: post
 title:  "What is a DAO"
 categories: [ Tweets ]
-image: ./What-is-a-DAO/xxxx.jpg
+image: ./What-is-a-DAO/1.jpg
 author: Tracheopteryx
 ---
 Author: @[tracheopteryx](https://twitter.com/tracheopteryx)
