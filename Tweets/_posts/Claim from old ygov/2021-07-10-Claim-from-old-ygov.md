@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Claim from old yGov"
+categories: [ Tweets ]
+image: ./Claim-from-old-ygov/amount-in-old-ygov.jpg
+---
+
 Author: @[Dudesahn](https://twitter.com/dudesahn)
 
 Link: https://twitter.com/dudesahn/status/1413567068583104512
