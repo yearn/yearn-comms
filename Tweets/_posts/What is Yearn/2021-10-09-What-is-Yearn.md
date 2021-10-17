@@ -2,7 +2,7 @@
 layout: post
 title:  "What is Yearn"
 categories: [ Tweets ]
-image: ./What-is-Yearn/1.jpg
+image: ./What-is-Yearn/3_1446536804035960832.jpg
 author: Wot_Is_Goin_On
 ---
 
