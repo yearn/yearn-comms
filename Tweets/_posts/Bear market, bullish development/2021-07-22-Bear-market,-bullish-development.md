@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Bear market, bullish development"
+categories: [ Tweets ]
+image: ./Bear-market,-bullish-development/image1.jfif
+author: Dudesahn
+---
 Author: @[Dudesahn]()
 
 Link: https://twitter.com/dudesahn/status/1417898521685078016
