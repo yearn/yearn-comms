@@ -6,7 +6,7 @@ image: ./Risk,-Tooling,-&-Insight/stormblessed.jpg
 author: Storm Blessed
 ---
 
-source: https://twitter.com/storming0x/status/1436851219864059906
+original source: [twitter](https://twitter.com/storming0x/status/1436851219864059906)
 
 ##### 1
 Doing some weekend coding and decided to do a tweet storm about [@iearnfinance](https://twitter.com/iearnfinance) risk, tooling and insight behind the scenes.
