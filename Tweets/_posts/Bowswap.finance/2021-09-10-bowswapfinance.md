@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Bowswap.Finance"
+categories: [ Tweets ]
+image: ./Bowswap.finance/image1.jpg
+author: Facu
+---
 Author: @[Facu](https://twitter.com/fameal)
 
 Link: https://twitter.com/fameal/status/1424857239505018880
