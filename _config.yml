@@ -1,0 +1,73 @@
+title: "Yearn Blog"
+email: yearnblog@protonmail.com
+timezone: UTC
+baseurl: ""
+permalink: "/:title/"
+logo: 'assets/images/yearn_logo.svg'
+favicon: 'assets/images/favicon.ico'
+author: Sal
+paginate: 30
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: UA-
+
+# Authors
+authors:
+  Yearn:
+    name: Yearn
+    display_name: Yearn
+    web: https://yearn.finance/
+    twitter: https://twitter.com/iearnfinance
+    description: "This is the author box."
+
+  Andre:
+    name: Andre Cronje
+    display_name: Andre Cronje
+    web:
+    twitter: https://twitter.com/AndreCronjeTech
+    description: "This is the author box."
+
+  Wot_Is_Goin_On:
+    name: Wot_Is_Goin_On
+    display_name: Wot_Is_Goin_On
+    web:
+    twitter: https://twitter.com/Wot_Is_Goin_On
+    description: "This is the author box."
+
+  Weaver:
+    name: Weaver
+    display_name: Weaver
+    web: https://medium.com/@0xWeaver
+    twitter:
+    description: "This is the author box."
+
+  Gemini/Cryptopedia:
+    name: Gemini/Cryptopedia
+    display_name: Gemini/Cryptopedia
+    web: https://www.gemini.com/cryptopedia
+    twitter:
+    description: "This is the author box."
+
+# Social
+social:
+  instagram:
+  facebook:
+  twitter: 
+
+# Plugins
+plugins:
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives

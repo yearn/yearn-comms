@@ -1,0 +1,33 @@
+# Top Menu
+topmenu:
+
+- title: Home
+  url: ""
+
+- title: Newsletters
+  url: "newsletters/"
+
+- title: Articles
+  url: "articles/"
+
+- title: yearn.finance
+  url: https://yearn.finance/
+  class: "ml-2 btn btn-primary text-white px-3"
+  external: true
+
+# Footer Menu
+footermenu:
+
+- title: about
+  url: "about/"
+
+- title: yearn.finance
+  url: https://yearn.finance/
+  class: "ml-2 btn btn-primary text-white px-3"
+  external: true
+
+- title: yearn docs
+  url: https://docs.yearn.finance/
+  class: "ml-2 btn btn-primary text-white px-3"
+  external: true
+  
