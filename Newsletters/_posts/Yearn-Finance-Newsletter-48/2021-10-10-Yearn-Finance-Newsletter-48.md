@@ -3,7 +3,7 @@ layout: post
 title:  "Yearn Finance Newsletter #48"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-48/image1.png
-author: [Yearn Comms](https://yearn.substack.com)
+author: Yearn
 ---
 # Yearn Finance Newsletter #48
 
