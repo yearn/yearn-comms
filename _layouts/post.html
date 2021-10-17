@@ -48,7 +48,9 @@ post_class: post-template
 						{% if author.web %}
 						<a target="_blank" href="{{ author.web }}" class="btn follow">Website</a>
 						{% endif %}
-
+						{% if author.blog %}
+						<a target="_blank" href="{{ author.blog }}" class="btn follow">Blog</a>
+						{% endif %}
 						,
 						<span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>
 						{% if page.last_modified_at %}
