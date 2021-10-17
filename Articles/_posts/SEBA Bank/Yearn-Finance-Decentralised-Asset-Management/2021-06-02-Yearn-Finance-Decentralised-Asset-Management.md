@@ -2,7 +2,7 @@
 layout: post
 title:  "Yearn Finance - Decentralised Asset Management"
 categories: [ Articles ]
-image: ./Yearn-Finance---Decentralised-Asset-Management/seba.jpg
+image: ./Yearn-Finance-Decentralised-Asset-Management/seba.jpg
 author: The Digital Investor
 ---
 
