@@ -13,6 +13,9 @@ topmenu:
 - title: Articles
   url: "articles/"
 
+- title: Tweets
+  url: "tweets/"
+
 - title: yearn.finance
   url: https://yearn.finance/
   class: "ml-2 btn btn-primary text-white px-3"
