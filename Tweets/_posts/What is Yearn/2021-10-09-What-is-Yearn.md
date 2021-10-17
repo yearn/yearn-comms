@@ -6,8 +6,7 @@ image: ./What-is-Yearn/3_1446243220468293632.jpg
 author: Wot_Is_Goin_On
 ---
 
-![Wot_Is_Goin_On](Wot_Is_Goin_On-1333568900538232832.jpg)
-Wot_Is_Goin_On ([@Wot_Is_Goin_On](https://twitter.com/Wot_Is_Goin_On))
+original source: [twitter](https://twitter.com/Wot_Is_Goin_On/status/1446540007292952579)
 
 ##### 1
 People had difficulty understanding ETH in mid-2020. It wasn’t clear what the use case would be, TVL was at $8bn and hadn’t grown much in 18 months. Even out of those who believed in Ethereum, there was scepticism around how value would accrue to ETH.
