@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "The Vaults at Yearn"
+categories: [ Articles ]
+image: ./The-Vaults-at-Yearn/header.gif
+author: Yearn
+---
 # The Vaults at Yearn
 
 Updated August 9th, 2021
