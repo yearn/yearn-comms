@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "What can you do with YFI?"
+categories: [ Articles ]
+image: ./What can you do with YFI/Y.png
+author: Yearn DAO Contributors
+---
 # What can you do with YFI?
 In this article, we look into what one can do with their YFI to earn yield in [DeFi](https://www.coindesk.com/what-is-defi), what risks are associated with each option, and the approximate yield you could get. 
 
