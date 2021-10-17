@@ -3,4 +3,14 @@ Don't want to use sass and simply modify the stylesheet in the old css fashion?
 Just customize your theme here.
 ================================================== */
 
-body {}
+body {
+    background-color: white;
+    background-image: url(assets/images/waifu.jpg);
+    background-repeat: no-repeat;
+    background-position: 90% 05%;
+    background-size: 75%;
+    color: #000000;
+    font-family: Helvetica, Arial, sans-serif;
+    display: grid;
+    justify-content: center;
+  }
