@@ -2,7 +2,7 @@
 layout: post
 title:  "How we think about Yearn"
 categories: [ Articles ]
-image: ./How-we-think-about-yearn/Logo+url.svg
+image: ./How-we-think-about-yearn/YFI1.jpeg
 author: Yearn DAO Contributors
 ---
 # How we think about Yearn
