@@ -5,7 +5,7 @@ Just customize your theme here.
 
 body {
     background-color: white;
-    background-image: url(assets/images/waifu.jpg);
+    background-image: url(../images/waifu.jpg);
     background-repeat: no-repeat;
     background-position: 90% 05%;
     background-size: 75%;
