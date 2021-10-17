@@ -22,7 +22,7 @@ footermenu:
   url: "about/"
 
 - title: yearn.finance
-  url: https://yearn.finance/
+  url: https://beta.yearn.finance/
   class: "ml-2 btn btn-primary text-white px-3"
   external: true
 
