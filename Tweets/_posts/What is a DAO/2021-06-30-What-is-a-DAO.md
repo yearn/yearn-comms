@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "What is a DAO"
+categories: [ Tweets ]
+image: ./What-is-a-DAO/xxxx.jpg
+author: Tracheopteryx
+---
 Author: @[tracheopteryx](https://twitter.com/tracheopteryx)
 
 Link: https://twitter.com/tracheopteryx/status/1410243752434753547
