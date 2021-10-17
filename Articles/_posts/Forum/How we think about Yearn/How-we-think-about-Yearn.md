@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "How we think about Yearn"
+categories: [ Articles ]
+image: ./How-we-think-about-yearn/Logo+url.svg
+author: Yearn DAO Contributors
+---
 # How we think about Yearn
 
 ## What Yearn is not
