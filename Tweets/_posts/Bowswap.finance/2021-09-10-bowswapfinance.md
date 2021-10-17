@@ -2,7 +2,7 @@
 layout: post
 title:  "Bowswap.Finance"
 categories: [ Tweets ]
-image: ./Bowswap.finance/trade.jpg
+image: ./bowswapfinance/trade.jpg
 author: Facu
 ---
 Author: @[Facu](https://twitter.com/fameal)
