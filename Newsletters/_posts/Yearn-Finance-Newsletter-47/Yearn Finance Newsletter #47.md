@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Yearn Finance Newsletter #47"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-47/image1.png
+author: Yearn
+---
 # Yearn Finance Newsletter #47
 
 ### Week Ending September 26th, 2021
