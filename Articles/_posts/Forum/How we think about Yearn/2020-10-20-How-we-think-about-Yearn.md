@@ -2,11 +2,10 @@
 layout: post
 title:  "How we think about Yearn"
 categories: [ Articles ]
-image: ./How we think about yearn/YFI1.jpeg
+image: ./How-we-think-about-Yearn/YFI1.jpeg
 author: Yearn DAO Contributors
 ---
 
-![](YFI1.jpeg)
 # How we think about Yearn
 
 ## What Yearn is not
