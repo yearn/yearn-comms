@@ -1,135 +1,135 @@
-# Yearn Finance Newsletter #48
+# Bản tin Yearn.Finance Số #48
 
-### Week Ending October 10th, 2021
+### Tuần Kết thúc Ngày 10/10/2021
 
 ![](image1.png)
 
-Welcome to the 48th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Chào mừng các bạn đến với Bản tin Yearn.Finance Số #48! Chúng tôi hy vọng sẽ truyền tải được những dữ kiện mới nhất cho cộng đồng tiền mã thuật số (`crypto`) nói chung lẫn cộng đồng Yearn nói riêng; từ phát hành sản phẩm, thay đổi trong quản trị đến nhiều dự án đối tác trực thuộc hệ sinh thái Yearn. Nếu quan tâm và muốn biết thêm chi tiết về Yearn.Finance, hãy theo dõi tài khoản [Twitter](https://twitter.com/iearnfinance), [Medium](https://medium.com/iearn) cũng như đón chờ nơi phát hành Tiếng Việt chính thức của chúng tôi.
 
-## Summary
+## Tóm tắt
 
--   Yearn Goes Multichain with Fantom
-    
--   Yearn Reaches $5B TVL (Again)
-    
--   How You Can Contribute to Yearn
-    
--   Call for Ideas: YFI Tokenomics Revamp
-    
--   Transparency at Yearn
-    
--   Vaults at Yearn
-    
--   Ecosystem News
+- Yearn Bắt nhịp Đa-chuỗi (`Multichain`) với Fantom
 
-## Yearn Goes Multichain with Fantom
+- Yearn (Lại) Đạt 5&nbsp;Tỷ&nbsp;$ TVL
+
+- Bạn Có thể Đóng góp Phát triển Yearn Như Thế nào
+
+- Kêu gọi Ý tưởng: Cập nhật Mô hình Kinh tế của Tôken YFI
+
+- Sự Minh bạch ở Yearn
+
+- Các Kho bạc (`Vault`) tại Yearn
+
+- Tin tức trong Hệ Sinh thái
+
+## Yearn Bắt nhịp Đa-chuỗi (`Multichain`) với Fantom
 
 ![](image2.png)
 
-The Realm of Multichain beckons. And Yearn has heeded the call. 
+Vũ trụ Multichain vẫy gọi. Và Yearn đã trả lời. 
 
-Today, we go multichain with the launch of Iron Bank Fantom and the first Fantom vaults on
+Hôm nay, chúng tôi chính thức bắt nhịp xu hướng đa-chuỗi (`multichain`) với việc phát hành Iron&nbsp;Bank và những kho bạc (`vault`) đầu tiên trên Fantom tại
 
 https://beta.yearn.finance
 
-You may ask, “Why multichain now?”. This is because Yearn requires specific infrastructure to safely and efficiently function, both external (Gnosis safe, DEX liquidity, block explorer) and internal (frontend and backend).
+Nếu bạn đang hỏi, "Tại sao giờ mới đa-chuỗi?”. Đó là do Yearn cần các yếu tố cụ thể để hoạt động an toàn và hiệu quả, từ cơ sở hạ tầng bên ngoài (Gnosis&nbsp;Safe, thanh khoản tại các sàn phi tập trung–`ĐEX`, công cụ khám phá khối–`block explorer`) lẫn nội bộ (hệ thống giao diện mặt trước–`frontend` cũng như nền tảng mặt sau–`backend`).
 
-Our v2 vault codebase has hardened over the past few months, and the new beta website is a vast improvement, allowing us to switch chains relatively easily, something we simply could not have done in the past.
+Bộ mã nguồn (`codebase`) cho kho bạc v2 của chúng tôi đã được củng cố trong những tháng qua, kết quả khiến trang web mới có sự cải tiến lớn giúp đổi chuỗi khối (`blockchain`) khá thuận tiện dù đang ở bản beta. Đây từng là điều không thể trong quá khứ.
 
-Fantom is fast, simple to use, and easy to bridge to thanks to Anyswap. Additionally, it is well-supported by our development tools and by our Iron Bank partners at CREAM Finance. Check out the article on the Fantom Iron Bank [here](https://medium.com/cream-finance/c-r-e-a-m-dd4982004bb9).  
-  
-And it doesn't hurt that Andre Cronje is a big fan.
+Fantom vừa nhanh, vừa đơn giản lại có cầu nối (`bridge`) dễ dùng qua Anyswap. Thêm vào đó, nó được hỗ trợ tốt bởi nhiều công cụ phát triển của chúng tôi, cũng như các đối tác Iron&nbsp;Bank tại CREAM&nbsp;Finance. Đọc thêm bài viết về Iron&nbsp;Bank&nbsp;Fantom [tại đây](https://medium.com/cream-finance/c-r-e-a-m-dd4982004bb9).
 
-The first vaults on Fantom are: yvWFTM, yvUSDC, yvDAI, and yvMIM. We’ve launched support for a native Fantom Iron Bank as well. Head to [beta.yearn.finance](https://beta.yearn.finance) to check them out for yourself.
+Chưa kể, không thừa khi Andre&nbsp;Cronje là fan hâm mộ lớn.
 
-So to answer your questions of when Arbitrum, Optimism, Polygon, Avalanche, and others are arriving, there will definitely be more multichain fun coming soon. Ultimately, we’d love to bring Yearn to any chain where we can safely operate and simplify the process of earning yield for users and partners.
+Các kho bạc (`vault`) đầu tiên trên Fantom bao gồm: yvWFTM, yvUSDC, yvDAI và yvMIM. Chúng tôi cũng đã triển khai hỗ trợ cho Iron&nbsp;Bank gốc Fantom. Hãy ghé thăm [beta.yearn.finance](https://beta.yearn.finance) và tự mình trải nghiệm chúng.
 
-The Realm expands and we go with it. We want to meet people where they are, including new users and users with smaller deposits. Multichain expansion is a natural way to do this.
+Nhìn chung, để trả lời câu hỏi "khi nào Arbitrum, Optimism, Polygon, Avalanche và mọi thể loại abc xyz sắp xuất hiện" của các bạn, chúng tôi chắc chắn sẽ có nhiều tính năng đa-chuỗi (`multichain`) thú vị trong tương lai gần. Nói cách khác, Yearn sẽ góp mặt ở bất cứ chuỗi khối (`blockchain`) nào có khả năng vận hành an toàn, giúp đơn giản hóa quá trình kiếm lời cho người dùng và đối tác của mình.
 
-Got questions or want to learn more? Join us on Telegram or [Discord](https://discord.com/invite/SNPvCpjRET).
+Vũ trụ này không ngừng mở rộng, và chúng tôi cũng thế. Mục tiêu chính không gì khác ngoài gặp gỡ bạn bè mới, bắt tay khách hàng mới, hỗ trợ người dùng với tiềm lực ký gửi nhỏ hơn. Chiến lược đa-chuỗi (`multichain`) là phương án hiển nhiên.
 
-## Yearn Reaches $5B TVL (Again)
+Có thắc mắc và muốn tìm hiểu thêm? Gia nhập cùng chúng tôi trong Telegram hoặc [Discord](https://discord.com/invite/SNPvCpjRET).
 
- ![](image3.png)
+## Yearn (Lại) Đạt 5&nbsp;Tỷ&nbsp;$ TVL
 
-Total value locked across all Yearn products has surpassed $5 billion once again, and $1 billion has been added in the last month alone. Yearn is continuing to see parabolic growth among its products with no indication of slowing down. The Iron Bank and v2 vaults are particularly notable components of our exponential growth. You can view and track TVL metrics among our products using [yearn.science](https://yearn.science/). 
+![](image3.png)
 
-A big thank you to everyone in the Yearn ecosystem, our partners, and of course you, the users.
+Tổng giá trị ký gửi (TVL) khắp mọi sản phẩm của Yearn lại một lần nữa vượt mốc 5&nbsp;tỷ&nbsp;$, với 1&nbsp;tỷ&nbsp;$ mới thêm chỉ trong tháng qua. Yearn tiếp tục chứng kiến ​​sự tăng trưởng hình parabôn mà không có dấu hiệu chậm lại. Iron&nbsp;Bank và kho bạc (`vault`) v2 là các điểm nhấn đặc biệt đáng chú ý làm nên thành công theo cấp số nhân của chúng tôi. Bạn có thể xem và theo dõi các chỉ số TVL bằng trang [yearn.science](https://yearn.science/). 
 
-## How You Can Contribute to Yearn
+Xin thực sự cảm ơn tất cả mọi thành viên trong cộng đồng Yearn, những đối tác của chúng tôi, và tất nhiên là chính các bạn, những người dùng thân thiết.
 
- ![](image4.png)
+## Bạn Có thể Đóng góp Phát triển Yearn Như Thế nào
 
-You may ask, “How can I contribute to Yearn?” For one, Yearn has no papers of incorporation, no headquarters, nor even a list of names and locations for its contributors. It’s a radical experiment in decentralization & here’s how easy it is to get involved.
+![](image4.png)
 
-Visit our public page at [yearnfinance.notion.site](https://yearnfinance.notion.site). Here, you’ll learn about Yearn’s decentralized structure, culture of doing, open roles, and how to get in touch.
+Bạn có thể đang thắc mắc: "Làm sao để góp phần phát triển Yearn?" Thứ nhất, Yearn không có giấy tờ thành lập, không trụ sở chính, thậm chí còn không có danh sách tên và địa chỉ những cộng tác viên. Đây là một thử nghiệm cấp tiến về phân quyền và phi tập trung, cho thấy việc tham gia trở nên cực kỳ dễ dàng.
 
-Looking to jump in now and start doing? 1. Visit [contribute.yearn.rocks](https://contribute.yearn.rocks) 2. Scan the list of available tasks 3. Do one that you want to do!
+Hãy xem ngay trang công khai của chúng tôi tại [yearnfinance.notion.site](https://yearnfinance.notion.site). Tại đây, bạn sẽ biết được cấu trúc phi tập trung ở Yearn, văn hóa chủ động thực hiện, vai trò mở và cách liên lạc.
 
-Don’t see a task you want to do on the list? Good. You may know what Yearn is better than we do. Come show us. Submit your idea in our [shimmy pool of ideas](https://yearnfinance.notion.site/Pool-of-Ideas-d75383ade9154d8bb6163388c6c2b39b). Or join us in [Discord](https://discord.com/invite/6PNv2nF) and share your voice.
+Đang muốn xắn tay vào ngay và bắt đầu làm? 1. Truy cập [contribute.yearn.rocks](https://contribute.yearn.rocks) 2. Kiểm tra danh sách các công tác đang cần người 3. Thực hiện bất cứ cái nào bạn thích!
 
-How to farm YFI by working for a DAO: When other Yearn contributors see your work, they can vouch for you in Coordinape Gorilla and you’ll be on your way to earning YFI! Check out Coordinape [here](https://coordinape.com).
+Không thấy việc muốn làm trên danh sách? Tốt. Bạn có thể biết Yearn cần gì hơn cả chúng tôi. Đến đây và thể hiện đi. Gửi phát kiến vào [bể ý tưởng](https://yearnfinance.notion.site/Pool-of-Ideas-d75383ade9154d8bb6163388c6c2b39b) của chúng tôi. Hoặc tham gia trên [Discord](https://discord.com/invite/6PNv2nF) để chia sẻ lập trường của mình.
 
-Here’s what we believe: If you have fallen down Yearn's gravity well, there is a reason. Let's bump against the impossible and see if it moves.
+Có thể "cày", "gặt" và "thu hoạch" YFI bằng cách làm việc cho ĐAO? Đúng vậy, khi những cộng tác viên khác ở Yearn thấy công sức của bạn, họ có thể đứng ra bảo đảm (cho bạn) vào vòng Coordinape Gorilla để được ghi nhận xứng đáng bằng YFI! Xem ngay Coordinape [tại đây](https://coordinape.com).
 
-We are building a ship. It will carry anyone who wants to board. Any age, any gender, any worldview. You are all welcome. Yearn is a ship from the fleet of tomorrow. And all that matters is that we sail.
+Chúng tôi tin rằng: Nếu bạn đã quyết định chui vào "hang thỏ" của Yearn, tất cả có lý do hết. Hãy cùng làm điều không thể để xem nó thật hay giả.
 
-What if the most radical component of Yearn isn’t the yield machine, after all? The machine is a technical apparatus constructed of code. It cannot exist without its network of hearts and minds.
+Chúng tôi đang xây dựng một con tàu. Nó sẽ chở theo bất cứ ai muốn lên boong. Không phân biệt tuổi tác, giới tính hay quan điểm. Tất cả đều được chào đón. Yearn là con tàu của hạm đội tương lai. Và điều có nghĩa nhất là ta dương buồm ra khơi.
 
-Perhaps the network itself is the most radical part of Yearn… our unique DAO and those who embody it. Perhaps the most radical component of Yearn will soon be you.
+Rốt cuộc, biết đâu phần cấp tiến nhất của Yearn không phải là cỗ máy tạo hoa lợi như người thường vẫn nghĩ? Cỗ máy ấy chỉ là công cụ kỹ thuật dựng lên từ mã máy tính. Nó không thể tồn tại nếu không có mạng lưới những trái tim và khối óc phía sau.
 
-Check out more details [here](https://twitter.com/iearnfinance/status/1445799269189881864?s=20).
+Có lẽ chính mạng lưới ấy mới là phần cấp tiến nhất Yearn… Tổ chức tự trị phi tập trung độc đáo của chúng tôi và những hiện thân tương ứng. Có lẽ phần cấp tiến nhất của Yearn sẽ sớm là chính bạn.
 
-## Call for Ideas: YFI Tokenomics Revamp
+Xem thêm chi tiết [tại đây](https://twitter.com/iearnfinance/status/1445799269189881864?s=20).
+
+## Kêu gọi Ý tưởng: Cập nhật Mô hình Kinh tế của Tôken YFI
 
 ![](image5.png)
 
-With the renewed interest in YFI tokenomics in recent days and the v3 protocol development still being in the phase when it’s malleable enough, it might be a good time to properly tie the two together. Everything is on the table, be it token split, liquidity mining, tail emission, veCRV-style lockups. If you started YFI right now, how would you structure it? We are looking forward to the suggestions that our community puts forward, and would love to implement it in the future.
+Gần đây, mô hình kinh tế của tôken (`tokenomic`) YFI đã được quan tâm trở lại, cộng với việc phát triển giao thức v3 vẫn còn ở giai đoạn khởi điểm, giờ có lẽ là lúc thích hợp để gắn kết cả hai lại với nhau. Mọi ý tưởng đều sẽ lên bàn cân, từ chia nhỏ đơn vị tôken, khai thác thanh khoản (`liquidity mining`), hậu phát hành (`tail emission`) đến kiểu khóa như veCRV. Nếu là người sáng lập YFI ngay lúc này, bạn sẽ cấu trúc nó như thế nào? Chúng tôi rất mong nhận được những đóng góp từ cộng đồng và hy vọng vào điều tốt nhất cho tương lai.
 
-Check out the forum post [here](https://gov.yearn.finance/t/call-for-ideas-yfi-tokenomics-revamp/11573/8).
+Xem bài đăng trên diễn đàn [ở liên kết này](https://gov.yearn.finance/t/call-for-ideas-yfi-tokenomics-revamp/11573/8).
 
-## Transparency at Yearn
+## Sự Minh bạch ở Yearn
 
 ![](image6.png)
 
-Through transparency and on-chain verifiability, we firmly believe crypto will change the world. Yearn hopes to exemplify this transparency, and below, we have showcased some examples.
+Nhờ sự minh bạch và dễ dàng xác minh trực-chuỗi (`on-chain`), chúng tôi tin chắc rằng tiền mã thuật số (`crypto`) sẽ thay đổi thế giới. Yearn hy vọng trở thành tấm gương điển hình về tính minh bạch với những ví dụ sau đây.
 
-See Yearn’s balance sheets, EBITDA, income and more every quarter: [https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf)
+Kiểm tra bảng quyết toán (`balance sheet`), EBITDA (Thu nhập trước lãi vay, thuế, khấu hao và khấu trừ dần), thu nhập, v.v... của Yearn mỗi quý: [https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf)
 
-In fact, you can track every single Yearn-related transaction in real time at [yfistats.com](https://www.yfistats.com/). There, you’ll find sortable: transaction records, protocol income, protocol expenses, income statements, EOM balances, harts, revenue projections, $YFI buybacks, & much more. All of this information is carefully curated by the yBudget team and, as usual, freely accessible to everyone.
+Thật vậy, bạn có thể soi kỹ từng giao dịch một, theo thời gian thực, liên quan đến Yearn tại [yfistats.com](https://www.yfistats.com/). Tại đó, mọi dữ liệu đều dễ dàng được phân loại và sắp xếp: Sao kê giao dịch, thu nhập của giao thức, chi phí vận hành giao thức, giải trình thu nhập, số dư cuối tháng, biểu đồ, dự đoán doanh thu, mua lại $YFI, v.v... Tất cả thông tin đều do ê-kíp yBudget tổng hợp kỹ càng, ai cũng có thể kiểm tra và xác minh.
 
-Don’t like websites? You can even track our income with custom “harvest bots” in [Discord](https://discord.com/invite/6PNv2nF) and [Telegram](https://t.me/yfi_harvest_tracker).
+Không thích dùng website nói chung? Bạn thậm chí còn có thể theo dõi thu nhập của chúng tôi bằng rôbốt "thu hoạch" (`harvest`) trên [Discord](https://discord.com/invite/6PNv2nF) và [Telegram](https://t.me/yfi_harvest_tracker).
 
-Want to join one of the most open and transparent platforms in history? Good news: we show you exactly how you can contribute with a list of tasks just waiting for new contributors: https://contribute.yearn.rocks
+Đã muốn gia nhập một trong những nền tảng công khai và minh bạch nhất lịch sử chưa? Rồi à? Chúng tôi sẽ cho bạn thấy chính xác những gì đang chờ đóng góp viên mới với danh sách các công tác tại: https://contribute.yearn.rocks
 
-The future is here, it’s just not evenly distributed.
+Tương lai đã đến rồi, nó chỉ không đều thôi.
 
-Thank you to the Yearn community and all the contributors at Yearn who helped to make this happen. If you’d like to contribute, come join our public [discord](https://discord.gg/8rF374XkXy), create an issue in one of the [repos](https://github.com/yearn) linked in the [medium](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f), or share your designs with us on [twitter](https://twitter.com/iearnfinance)!
+Xin cảm ơn cộng đồng Yearn và tất cả những ai đã giúp đỡ hiện thực hóa mục tiêu này. Nếu muốn đóng góp, hãy tham gia ngay kênh [discord](https://discord.gg/8rF374XkXy), lập đề tài (`issue`) tại một trong các [tập mã nguồn (`repo`)](https://github.com/yearn) có liên kết ở [medium](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f), hoặc chia sẻ thiết kế của bạn với chúng tôi qua [twitter](https://twitter.com/iearnfinance)!
 
-Read an in-depth thread on Yearn’s transparency [here](https://twitter.com/iearnfinance/status/1445143482830446600?s=20).
+Nghiên cứu chuyên sâu về sự minh bạch của Yearn [ở bài này](https://twitter.com/iearnfinance/status/1445143482830446600?s=20).
 
-Check out the vaults [here](http://yearn.finance/vaults).
+Xem ngay các kho bạc (`vault`) [tại đây](http://yearn.finance/vaults).
 
-## Vaults At Yearn
+## Các Kho bạc (`Vault`) tại Yearn
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Bạn có thể đọc mô tả chi tiết các chiến lược ở mọi yVault đang hoạt động [tại đây](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-## Ecosystem News
+## Tin tức trong Hệ Sinh thái
 
-[MyEtherWallet users now have access to Yearn vaults on the Android app](https://twitter.com/myetherwallet/status/1443283619867414537)
+[Người dùng MyEtherWallet giờ đã có thể truy cập kho bạc của Yearn trên ứng dụng Android tương ứng](https://twitter.com/myetherwallet/status/1443283619867414537)
 
-[storming0x has joined yAcademyDAO, where he will be starting off auditing a rebalancer strategy for Yearn](https://twitter.com/yAcademyDAO/status/1443138482604371974)
+[storming0x đã nhập học yAcademyDAO để bắt đầu kiểm toán một chiến lược tái cân bằng (`rebalancer strategy`) cho Yearn](https://twitter.com/yAcademyDAO/status/1443138482604371974)
 
-[Check out a comprehensive report on Yearn written by the Economics Design team](https://econteric.com/fundamentals/yearn-finance/)
+[Kiểm tra báo cáo toàn diện về Yearn do Economics Design thực hiện](https://econteric.com/fundamentals/yearn-finance/)
 
-[Earn fixed APR on your YFI or speculate on YFI’s variable yield on Aave on 88mph](https://twitter.com/88mphapp/status/1445880439420325889)
+[Chọn lấy APR cố định cho đồng YFI của bạn hoặc đầu cơ suy đoán hoa lợi biến động của YFI trên Aave bằng 88mph](https://twitter.com/88mphapp/status/1445880439420325889)
 
-[A proposal has been created to donate Curve voter airdrops to yvBOOST ](https://gov.yearn.finance/t/donate-curve-voter-airdrops-to-yvboost/11587)
+[Một đề xuất đã được tạo để đóng góp những "quà tặng" (`airdrop`) liên quan đến biểu quyết Curve (`Curve voter`) vào yvBOOST ](https://gov.yearn.finance/t/donate-curve-voter-airdrops-to-yvboost/11587)
 
-[Check out a summary of issues and fixes that the yAcademyDAO has recently made for a Yearn strategy](https://twitter.com/yAcademyDAO/status/1445414387573997569)
+[Xem bản tóm tắt các vấn đề và khắc phục mà yAcademyDAO thực hiện gần đây cho một chiến lược của Yearn](https://twitter.com/yAcademyDAO/status/1445414387573997569)
 
-[As integrators, we urge COMP holders to vote on cancelling the passage of Compound Proposal 63](https://twitter.com/bantg/status/1445312250827390979?s=20)
+[Với tư cách là bên tích hợp, chúng tôi kêu gọi các chủ sở hữu đồng COMP biểu quyết và bác bỏ Đề xuất `Compound Proposal 63`](https://twitter.com/bantg/status/1445312250827390979?s=20)
 
-[Yearn v2 portfolios on Fantom are now tracked on DeBank](https://twitter.com/DeBankDeFi/status/1446624448744886273)
+[ Danh mục đầu tư Yearn v2 trên Fantom giờ đã được tích hợp theo dõi ở DeBank](https://twitter.com/DeBankDeFi/status/1446624448744886273)
 
-[Short thread on Yearn and the future from Wot\_Is\_Goin\_On](https://twitter.com/Wot_Is_Goin_On/status/1446540007292952579)
+[Vài dòng ngắn gọn về Yearn và tương lai từ Wot\_Is\_Goin\_On](https://twitter.com/Wot_Is_Goin_On/status/1446540007292952579)
