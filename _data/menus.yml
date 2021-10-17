@@ -17,7 +17,7 @@ topmenu:
   url: "financials/"
 
 - title: yearn.finance
-  url: https://yearn.finance/
+  url: https://beta.yearn.finance/
   class: "ml-2 btn btn-primary text-white px-3"
   external: true
 
@@ -36,4 +36,3 @@ footermenu:
   url: https://docs.yearn.finance/
   class: "ml-2 btn btn-primary text-white px-3"
   external: true
-  
