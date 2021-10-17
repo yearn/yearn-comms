@@ -7,14 +7,14 @@ topmenu:
 - title: Newsletters
   url: "newsletters/"
 
-- title: Financials
-  url: "financials/"
-
 - title: Articles
   url: "articles/"
 
 - title: Tweets
   url: "tweets/"
+
+- title: Financials
+  url: "financials/"
 
 - title: yearn.finance
   url: https://yearn.finance/
