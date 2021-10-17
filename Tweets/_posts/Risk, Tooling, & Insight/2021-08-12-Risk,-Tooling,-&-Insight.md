@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Claim from old yGov"
+categories: [ Tweets ]
+image: ./Claim-from-old-ygov/amount-in-old-ygov.jpg
+author: Storm Blessed
+---
+
 ![storming0x](storming0x-881012267675820034.jpg)
 Storm Blessed 0x ([@storming0x](https://twitter.com/storming0x))
 source: https://twitter.com/storming0x/status/1436851219864059906
