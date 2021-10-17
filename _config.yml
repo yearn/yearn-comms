@@ -28,27 +28,28 @@ authors:
     display_name: Yearn
     web: https://yearn.finance/
     twitter: https://twitter.com/iearnfinance
+    blog: https://yearn.substack.com
     description: "This is the author box."
 
   Andre:
     name: Andre Cronje
     display_name: Andre Cronje
-    web:
     twitter: https://twitter.com/AndreCronjeTech
+    blog: https://andrecronje.medium.com
     description: "This is the author box."
 
   Wot_Is_Goin_On:
     name: Wot_Is_Goin_On
     display_name: Wot_Is_Goin_On
-    web:
     twitter: https://twitter.com/Wot_Is_Goin_On
+    blog: https://wot-is-goin-on.medium.com
     description: "This is the author box."
 
   Weaver:
     name: Weaver
     display_name: Weaver
-    web: https://medium.com/@0xWeaver
-    twitter:
+    twitter: https://twitter.com/0xWeaver
+    blog: https://medium.com/@0xWeaver
     description: "This is the author box."
 
   Gemini/Cryptopedia:
