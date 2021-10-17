@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Yearn Finance Newsletter #48"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-48/image1.png
+author: Yearn
+---
 # Yearn Finance Newsletter #48
 
 ### Week Ending October 10th, 2021
