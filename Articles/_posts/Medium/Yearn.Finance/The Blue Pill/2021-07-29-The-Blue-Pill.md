@@ -2,7 +2,7 @@
 layout: post
 title:  "The Blue Pill"
 categories: [ Articles ]
-image: ./The-Blue-Pill/xxxxxxxxxx.png
+image: ./The-Blue-Pill/thebluebook.jpg
 author: Weaver
 ---
 
