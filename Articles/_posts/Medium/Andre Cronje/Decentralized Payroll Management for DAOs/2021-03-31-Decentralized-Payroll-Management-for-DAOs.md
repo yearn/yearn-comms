@@ -1,8 +1,12 @@
+---
+layout: post
+title:  "Decentralized payroll management for DAOs"
+categories: [ Articles ]
+image: ./Decentralized-Payroll-Management-for-DAOs/andre-hero.png
+author: Andre
+---
+
 # Decentralized payroll management for DAOs
-
-Author: [Andre Cronje](https://twitter.com/AndreCronjeTech)</br>
-
-March 31, 2021
 
 DAO's don't have top down management. There is no HR department. There are no contracts and no salary negotiations. How do you properly incentivize and reward contributors?
 

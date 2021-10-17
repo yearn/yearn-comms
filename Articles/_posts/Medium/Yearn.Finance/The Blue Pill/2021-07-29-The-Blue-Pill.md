@@ -1,8 +1,12 @@
+---
+layout: post
+title:  "The Blue Pill"
+categories: [ Articles ]
+image: ./The-Blue-Pill/xxxxxxxxxx.png
+author: Weaver
+---
+
 # The Blue Pill
-
-Author: [Weaver](https://medium.com/@0xWeaver)</br>
-
-July 29, 2021
 
 We refer to it simply as The Gift.
 

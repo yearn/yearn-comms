@@ -1,8 +1,12 @@
+---
+layout: post
+title:  "Fair launches, decentralized collaboration, and Fixed Forex"
+categories: [ Articles ]
+image: ./Fair-launches-decentralized-collaboration-and-Fixed-Forex/andre-hero.png
+author: Andre
+---
+
 # Fair launches, decentralized collaboration, and Fixed Forex
-
-Author: [Andre Cronje](https://twitter.com/AndreCronjeTech)</br>
-
-July 27, 2021
 
 **\-Fair launches-**
 

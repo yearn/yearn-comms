@@ -1,8 +1,12 @@
+---
+layout: post
+title:  "Yearn’s Dai Vault —did you know it’s now a top 20 DeFi protocol?"
+categories: [ Articles ]
+image: ./Yearn's-Dai-Vault/img-Wot_Is_Goin_On.png
+author: Wot_Is_Goin_On
+---
+
 # **Yearn’s Dai Vault —did you know it’s now a top 20 DeFi protocol?**
-
-Author: [Wot_Is_Goin_On](https://twitter.com/Wot_Is_Goin_On)<br/>
-
-June 1, 2021
 
 If you go to [Yearn’s website](https://yearn.finance/vaults) you’ll see a list of nearly 50 crypto vaults, with the [SNX vault](https://twitter.com/iearnfinance/status/1395413780012666881) being the most recent. On [depositing your crypto](https://docs.yearn.finance/resources/guides/how-to-participate-in-a-yvault) into one of Yearn’s vaults, the protocol will begin generating a yield for you.
 

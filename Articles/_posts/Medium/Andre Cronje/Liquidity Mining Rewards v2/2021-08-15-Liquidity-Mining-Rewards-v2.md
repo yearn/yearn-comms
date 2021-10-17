@@ -1,8 +1,12 @@
+---
+layout: post
+title:  "Liquidity Mining Rewards v2"
+categories: [ Articles ]
+image: ./Liquidity-Mining-Rewards-v2/andre-hero.png
+author: Andre
+---
+
 # Liquidity Mining Rewards v2
-
-Author: [Andre Cronje](https://twitter.com/AndreCronjeTech)</br>
-
-August 15, 2021
 
 Concept, and architecture by [pods.finance](https://www.pods.finance/)
 

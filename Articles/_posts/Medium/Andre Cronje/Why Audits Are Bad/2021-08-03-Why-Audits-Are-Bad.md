@@ -1,8 +1,12 @@
+---
+layout: post
+title:  "Why audits are bad"
+categories: [ Articles ]
+image: ./Why-Audits-Are-Bad/andre-hero.png
+author: Andre
+---
+
 # Iron Bank Fixed Forex audit: Why audits are bad
-
-Author: [Andre Cronje](https://twitter.com/AndreCronjeTech)</br>
-
-August 3rd, 2021
 
 I wanted a sensationalist title. An audits role on public perception is bad, an audit for personal use, is good.
 

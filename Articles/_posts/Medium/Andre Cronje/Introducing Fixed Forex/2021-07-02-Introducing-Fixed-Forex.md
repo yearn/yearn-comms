@@ -1,8 +1,12 @@
+---
+layout: post
+title:  "Introducing Fixed Forex"
+categories: [ Articles ]
+image: ./Introducing-Fixed-Forex/andre-hero.png
+author: Andre
+---
+
 # Introducing Fixed Forex (USD, EUR, ZAR, JPY, CNY, etc)
-
-Author: [Andre Cronje](https://twitter.com/AndreCronjeTech)</br>
-
-July 2, 2021
 
 **Disclaimer;**
 
