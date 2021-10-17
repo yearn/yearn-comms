@@ -29,7 +29,7 @@ authors:
     web: https://yearn.finance/
     twitter: https://twitter.com/iearnfinance
     blog: https://yearn.substack.com
-    description: "This is the author box."
+    description: "We are Yearn."
 
   Yearn DAO Contributors:
     name: Yearn DAO Contributors
@@ -56,25 +56,32 @@ authors:
     display_name: Andre Cronje
     twitter: https://twitter.com/AndreCronjeTech
     blog: https://andrecronje.medium.com
-    description: "This is the author box."
+    description:
 
   Wot_Is_Goin_On:
     name: Wot_Is_Goin_On
     display_name: Wot_Is_Goin_On
     twitter: https://twitter.com/Wot_Is_Goin_On
     blog: https://wot-is-goin-on.medium.com
-    description: "This is the author box."
+    description:
 
   Weaver:
     name: Weaver
     display_name: Weaver
     twitter: https://twitter.com/0xWeaver
     blog: https://medium.com/@0xWeaver
-    description: "This is the author box."
+    description: "I am 0xWeaver"
 
   Dark Ghosty:
     name: Dark Ghosty
     display_name: Dark
+    description: "Contributor to Yearn DAO."
+
+  Qosmonot:
+    name: qosmonot
+    display_name: qosmonot
+    twitter: https://twitter.com/qosmonot
+    blog: 
     description: "Contributor to Yearn DAO."
 
   Gemini/Cryptopedia:
@@ -82,13 +89,20 @@ authors:
     display_name: Gemini/Cryptopedia
     web: https://www.gemini.com/cryptopedia
     twitter:
-    description: "This is the author box."
+    description:
+
+  Argent:
+    name: Argent
+    display_name: Argent
+    web: https://www.argent.xyz/
+    twitter:
+    description:
 
 # Social
 social:
   instagram:
   facebook:
-  twitter: 
+  twitter:
 
 # Plugins
 plugins:
