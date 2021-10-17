@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Easily earn with Yearn V2 in Argent"
+categories: [ Articles ]
+image: ./easily-earn-with-yearn-v2-in-argent/Image1.jpg
+author: Argent
+---
 # Easily earn with Yearn v2 in Argent
 
 ![](Image1.jpg)
