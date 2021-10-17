@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: financials
 title: Financials
 permalink: "/financials/"
 ---
