@@ -2,7 +2,11 @@
 layout: post
 title:  "Bowswap.Finance"
 categories: [ Tweets ]
+<<<<<<< HEAD
 image: ./bowswapfinance/image1.jpg
+=======
+image: ./Bowswap.finance/trade.jpg
+>>>>>>> 2a3c0db (update: bowswap article link and images)
 author: Facu
 ---
 Author: @[Facu](https://twitter.com/fameal)
@@ -37,4 +41,4 @@ What's a metapool? It's a pool built on top of another pool. Simple, right?
 
 You are going to be able to swap safely thanks to the slippage protection built-in 🛡️
 
-Thanks [@pandabuild](https://twitter.com/pandabuild) [@TBouder](https://twitter.com/TBouder) and Ivan for building this yAmazing thing 🚀
+Thanks [@pandabuild](https://twitter.com/pandabuild) [@MajorTom_eth](https://twitter.com/MajorTom_eth) and Ivan for building this yAmazing thing 🚀
