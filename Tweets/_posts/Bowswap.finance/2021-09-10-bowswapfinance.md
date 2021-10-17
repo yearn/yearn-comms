@@ -5,11 +5,10 @@ categories: [ Tweets ]
 image: ./bowswapfinance/image1.jpg
 author: Facu
 ---
-Author: @[Facu](https://twitter.com/fameal)
 
-Link: https://twitter.com/fameal/status/1424857239505018880
+original source: [twitter](https://twitter.com/fameal/status/1424857239505018880)
 
-# 1
+##### 1
 
 There's a new way to always have the best available yield. A simple way:
 
@@ -17,23 +16,17 @@ There's a new way to always have the best available yield. A simple way:
 
 You can now swap between [@iearnfinance](https://twitter.com/iearnfinance) Vaults in one single transaction ⚡️
 
-👇
-
 ![](image1.jpg)
 
-# 2
+##### 2
 
 In this first version you can move between some Curve LP vaults that have the same metapool.
 
-👇
-
-# 3
+##### 3
 
 What's a metapool? It's a pool built on top of another pool. Simple, right?
 
-👇
-
-# 4
+##### 4
 
 You are going to be able to swap safely thanks to the slippage protection built-in 🛡️
 
