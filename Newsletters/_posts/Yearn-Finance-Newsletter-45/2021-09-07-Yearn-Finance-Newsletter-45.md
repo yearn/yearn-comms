@@ -1,6 +1,14 @@
+---
+layout: post
+title:  "Yearn Finance Newsletter #45"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-45/image1.jfif
+author: Yearn
+---
+
 # Yearn Finance Newsletter #45
 
-![](image1.jfif)
+![](/image1.jfif)
 
 Welcome to the 45th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you're interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
 
@@ -15,7 +23,7 @@ Welcome to the 45th edition of the Yearn Finance Newsletter. Our aim with this n
 
 ## **ALPHA and YFI Liquidity Providers Eligible For A Special NFT**
 
-![](image2.jfif)
+![](./image2.jfif)
 
 Liquidity providers for the Uniswap ETH/YFI and Sushiswap ETH/YFI pools in Alpha Homora V2 pools will be eligible for a special NFT drop courtesy of Yearn, Alpha, and Project Galaxy.
 

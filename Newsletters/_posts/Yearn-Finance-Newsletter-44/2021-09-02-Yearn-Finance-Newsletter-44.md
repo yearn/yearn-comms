@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Yearn Finance Newsletter #44"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-44/image1.jfif
+author: Yearn
+---
+
 # Yearn Finance Newsletter #44
 
 ![](image1.jfif)
@@ -6,7 +14,7 @@ Welcome to the 44th edition of the Yearn Finance Newsletter. Our aim with this n
 
 ## **Summary**
 
-- YIP-63 Approved 
+- YIP-63 Approved
 - Product User Survey
 - Introducing Four New yVaults
 - Yearn Integrated In Defi Saver
@@ -29,7 +37,7 @@ Check Yearn’s transaction to the DAO [here](https://etherscan.io/tx/0x0ec0fc55
 ## **Product User Survey**
 
 We have released a new user survey to gauge what you, the community at Yearn, would like to see added.  
-  
+
 Yearn is always iterating amongst ourselves and with the help of the community, but with this survey, we’d like to take a more hands on approach to seeing what you guys, the community, has in mind to improve Yearn. We have seen exponential growth in the short time we’ve been active, and we hope to continue innovating in the products we put out and add more utility to the YFI token. We think that we can improve the user experience at Yearn tenfold with the help of your thoughts, and thus become the most competitive in the yield aggregation space among the various other sectors we engage in.
 
 Fill out the survey [here](https://yearnfinance.typeform.com/to/ojp3J8gn).
@@ -39,7 +47,7 @@ Fill out the survey [here](https://yearnfinance.typeform.com/to/ojp3J8gn).
 ![](image3.jfif)
 
 Four new yVaults are now live on our UI. Deposit today and earn yield on your AAVE, COMP, TUSD, and SUSHI  
-  
+
 The AAVE, COMP, and SUSHI vaults are earning yield from single-sided staking pools on [universe.xyz](https://universe.xyz/polymorphs), with no exposure to impermanent loss. TUSD is earning yield from Kashi on SushiSwap.
 
 You can view the latest APYs for these vaults and deposit to these vaults using this [link](https://yearn.finance/vaults).
@@ -49,7 +57,7 @@ You can view the latest APYs for these vaults and deposit to these vaults using 
 ![](image4.jfif)
 
 YFI has been integrated into the Defi Saver Recipe Creator. With this integration, you can deposit any supported assets into Yearn vaults using DeFi Saver, as well as combine this action with any other protocol interactions. Some examples are detailed below.  
-  
+
 First, you can create a MakerDAO Vault and deposit the borrowed DAI into Yearn, all in one single transaction. The Stability fee for ETH-A in Maker is 2% and the current NET APY for the DAI Yearn Vault is ~6.5%. The recipe can be found [here](https://app.defisaver.com/recipes/create?recipe=V3JhcEV0aEFjdGlvbiwyMDtSZWZsZXhlck9wZW5TYWZlQWN0aW9uLEVUSC1BO1JlZmxleGVyU3VwcGx5QWN0aW9uLCQyLHJlY2lwZSxBbGwgYXZhaWxhYmxlO1JlZmxleGVyR2VuZXJhdGVBY3Rpb24sJDIsNjY2NixyZWNpcGU7U2VsbEFjdGlvbiwweDAzYWI0NTg2MzQ5MTBhYWQyMGVmNWYxYzhlZTk2ZjFkNmFjNTQ5MTkscmVjaXBlLDY2NjYsMHhBMGI4Njk5MWM2MjE4YjM2YzFkMTlENGEyZTlFYjBjRTM2MDZlQjQ4LHJlY2lwZSwxO1llYXJuU3VwcGx5QWN0aW9uLDB4QTBiODY5OTFjNjIxOGIzNmMxZDE5RDRhMmU5RWIwY0UzNjA2ZUI0OCxyZWNpcGUsQWxsIGF2YWlsYWJsZSx3YWxsZXQ%3D).
 
 Alternatively, you can open a Reflexer ETH Safe and borrow RAI. The Stability fee in Reflexer is -0.5% and you can swap the RAI for a higher yielding asset, USDC or DAI, and deposit into Yearn. Recipe can be found [here](https://app.defisaver.com/recipes/create?recipe=V3JhcEV0aEFjdGlvbiwyMDtSZWZsZXhlck9wZW5TYWZlQWN0aW9uLEVUSC1BO1JlZmxleGVyU3VwcGx5QWN0aW9uLCQyLHJlY2lwZSxBbGwgYXZhaWxhYmxlO1JlZmxleGVyR2VuZXJhdGVBY3Rpb24sJDIsNjY2NixyZWNpcGU7U2VsbEFjdGlvbiwweDAzYWI0NTg2MzQ5MTBhYWQyMGVmNWYxYzhlZTk2ZjFkNmFjNTQ5MTkscmVjaXBlLDY2NjYsMHhBMGI4Njk5MWM2MjE4YjM2YzFkMTlENGEyZTlFYjBjRTM2MDZlQjQ4LHJlY2lwZSwxO1llYXJuU3VwcGx5QWN0aW9uLDB4QTBiODY5OTFjNjIxOGIzNmMxZDE5RDRhMmU5RWIwY0UzNjA2ZUI0OCxyZWNpcGUsQWxsIGF2YWlsYWJsZSx3YWxsZXQ%3D).
@@ -61,7 +69,7 @@ Check out other recipes using Yearn [here](https://app.defisaver.com/).
 ![](image5.jfif)
 
 By converting YFI to WOOFY at a rate of one YFI for one million WOOFY, you can lp with it, bridge to other chains such as Polygon or Fantom, and deposit on [ape.tax](https://ape.tax/) for incredible yields.
-  
+
 Exchange your YFI for WOOFY [here](https://woofy.finance/).
 
 ## **Vaults At Yearn**
