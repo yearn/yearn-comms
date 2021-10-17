@@ -1,10 +1,9 @@
 ---
-author: "yearn.finance"
-handle: "@iearnfinance"
-source: "https://twitter.com/iearnfinance/status/1432387438014435332"
-likes: 357
-retweets: 60
-replies: 21
+layout: post
+title:  "Atlantis World Grant"
+categories: [ Tweets ]
+image: ./Yearn-grant-Atlantis-World/image1.jpg
+author: Yearn
 ---
 
 ![](image1.jpg)
