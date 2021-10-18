@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Yearn & Synthetix DAO twitter space"
+categories: [ Annoucements ]
+image: ./Yearn-&-Synthetix-DAO-twitter-space/image1.jpg
+author: Yearn
+---
+
+Yearn and Synthetix talk DAO governance and decision making, check it out below👇
+
+https://www.spreaker.com/user/14928562/synthetix-yearn-governance
