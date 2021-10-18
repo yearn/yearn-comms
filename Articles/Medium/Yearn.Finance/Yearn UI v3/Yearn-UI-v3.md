@@ -1,254 +1,254 @@
 # Yearn UI v3.0
 
-### The next iteration of the yearn.finance UI is here
+### Die nächste Version der yearn.finance-Benutzeroberfläche ist da
 
 ![](image1.png)
 
-_v3 landing page design exploration_
+_v3 Designerkundung der Startseite_
 
-We’ve rebuilt yearn.finance from the ground up. We’ve worked to address feedback and pain points from v2, and _a lot_ more. v3 is built with user experience, composability, and the multi-chain future in mind, and the beta is live now: [beta.yearn.finance](http://beta.yearn.finance).
+Wir haben yearn.finance von Grund auf neu aufgebaut. Wir haben uns mit dem Feedback und den Problemen von v2 auseinandergesetzt und vieles mehr. v3 wurde mit Blick auf Benutzerfreundlichkeit, Kompatibilität und die Multi-Chain-Zukunft entwickelt, und die Beta-Version ist jetzt live: [beta.yearn.finance](http://beta.yearn.finance).
 
-## A vision realized
+## Eine realisierte Vision
 
 ![](image2.png)
 
-_v3 design exploration_
+_v3 Designerkundung_
 
-A few months after shipping yearn.finance v2 in January, Yearn contributors began a major rewrite with a vision of a fully-featured, scalable system built for the continually evolving DeFi landscape.
+Wenige Monate nach der Veröffentlichung von yearn.finance v2 im Januar begannen die Mitarbeiter von Yearn mit einer umfassenden Überarbeitung mit der Vision eines voll funktionsfähigen, skalierbaren Systems für die sich ständig weiterentwickelnde DeFi-Landschaft.
 
-Today, this vision is finally coming to fruition with the new, rebuilt from the ground up, v3 beta being released today to both users and contributors.
+Heute wird diese Vision mit der neuen, von Grund auf überarbeiteten v3 Beta-Version, die heute sowohl für Nutzer als auch für Mitwirkende freigegeben wird, endlich Wirklichkeit.
 
-We’ve carefully listened to community feedback and the most pressing pain points have been addressed. The rewrite goes far beyond this however, and features multiple additions and features which aim to greatly improve the user experience and simplify the entire process from beginning to end.
+Wir haben uns das Feedback der Community genau angehört und die dringendsten Probleme angegangen. Die Neufassung geht jedoch weit darüber hinaus und bietet zahlreiche Ergänzungen und Funktionen, die das Benutzererlebnis erheblich verbessern und den gesamten Prozess von Anfang bis Ende vereinfachen sollen.
 
-## Key Improvements
+## Wichtige Verbesserungen
 
--   You can now see your total position, total historical earnings, and predicted yearly earnings, with vault deposits denominated in both the underlying token and $.
--   Any transaction through the interface, including zaps in and out of vaults, is simulated using [Tenderly](https://tenderly.co), showing you the estimated tokens received. No more unexpected slippage or mysteriously failing transactions.
--   Wallet page that allows you to easily zap into vaults or supply to Iron Bank with almost any token you hold.
--   Vault detail page view with historical vault earnings, underlying token info, and strategy descriptions.
--   New “Labs” section to serve as a home for more experimental vaults.
--   Fully integrated Iron Bank with dust-free loan repayments and withdrawals.
--   Completely redesigned experience for mobile.
--   Multiple UI themes, with unique unlockable themes for Yearn NFT holders coming soon. You’ll notice for all screenshots, the cyberpunk theme (find it under settings) is used.
+-   Du kannst nun deine Gesamtposition, die gesamten historischen Erträge und die voraussichtlichen jährlichen Erträge sehen, wobei die Vault-Einlagen sowohl auf den zugrunde liegenden Token als auch auf $ angezeigt werden.
+-   Jede Transaktion über die Schnittstelle, einschließlich Zaps in und aus Vaults, wird mit [Tenderly](https://tenderly.co) simuliert und zeigt dir die geschätzten erhaltenen Token an. Keine unerwarteten Ausrutscher oder mysteriöserweise fehlgeschlagene Transaktionen mehr.
+-   Eine Wallet-Seite, die es dir ermöglicht, mit fast allen Token, die du besitzt, in Vaults zu zappen oder an Iron Bank zu liefern.
+-   Vault-Detailseite mit historischen Vault-Erträgen, Informationen zu den zugrunde liegenden Token und Strategiebeschreibungen.
+-   Neuer "Labs"-Bereich, der als Heimat für weitere experimentelle Vaults dient.
+-   Vollständig integrierte Iron Bank mit staubfreien Kreditrückzahlungen und -abhebungen.
+-   Völlig neu gestaltetes Erlebnis für Mobilgeräte.
+-   Mehrere UI-Themen, mit einzigartigen, freischaltbaren Themen für Yearn NFT-Inhaber, die in Kürze erscheinen. Wie ihr seht, wird für alle Screenshots das Cyberpunk-Thema (zu finden unter Einstellungen) verwendet.
 
-Please keep in mind that this is a **_beta release:_**  nothing is final yet, and we plan to iterate over the next few weeks as we receive feedback and implement further refinements. If you’d like to provide feedback, head to our new [discord channel](https://discord.gg/Rw9zA3GbyE) created for v3 web UI feedback.
+Bitte denkt daran, dass es sich um eine **_Beta-Version handelt:_** Noch ist nichts endgültig, und wir planen, die Version in den nächsten Wochen zu überarbeiten, wenn wir Feedback erhalten und weitere Verbesserungen implementieren. Wenn du uns Feedback geben möchtest, besuche unseren neuen [Discord-Kanal](https://discord.gg/Rw9zA3GbyE), der für das Feedback zur v3-Web-UI eingerichtet wurde.
 
 ![](image3.png)
 
-_v3 design exploration_
+_v3 Designerkundung_
 
-## Wait, which website is this again?
+## Warte, welche Website ist das noch mal?
 
-This is the new yearn.finance, which is maintained by a group of Yearn contributors. [yearn.fi](https://yearn.fi/) is a website maintained primarily by [Andre](https://twitter.com/AndreCronjeTech) and [Anton](https://twitter.com/AntonNellCrypto).
+Dies ist die neue yearn.finance, die von einer Gruppe von Yearn-Mitarbeitern gepflegt wird. [yearn.fi](https://yearn.fi/) ist eine Website, die hauptsächlich von [Andre](https://twitter.com/AndreCronjeTech) und [Anton](https://twitter.com/AntonNellCrypto) gepflegt wird.
 
-The sites are complementary; Anton implements features that we add (such as the SDK), and we plan to add new features that Andre and Anton release, such as the risk/protocol dashboard.
+Die Seiten ergänzen sich. Anton implementiert Funktionen, die wir hinzufügen (wie das SDK), und wir planen, neue Funktionen hinzuzufügen, die Andre und Anton veröffentlichen, wie das Risiko-/Protokoll-Dashboard.
 
-Read below for a **deeper dive** on the beta release (especially useful for B2B or potential integrators), and for future roadmap items at the end.
+Weiter unten bekommst du einen **tieferen Einblick** in die Betaversion (besonders nützlich für B2B oder potenzielle Integratoren), und am Ende findest du einen Ausblick auf die zukünftige Roadmap.
 
 ## Yearn web infra
 
-Our new v3 front-end and back-end were designed with scalability and composability in mind, and can be divided up into multiple distinct components: **Lens, Meta, Subgraph, Exporter, SDK, and Front-end.**
+Unser neues v3 Front-End und Back-End wurden mit Blick auf Skalierbarkeit und Kompatibilität entwickelt und lässt sich in mehrere Komponenten aufteilen: **Lens, Meta, Subgraph, Exporter, SDK, and Front-end.**
 
-We briefly describe each of them below:
+Im Folgenden wird jede einzelne Komponente kurz beschrieben:
 
 ### Lens
 
 ![](image4.png)
 
-_Lens block diagram_
+_Lens Blockdiagramm_
 
-Yearn’s lens is a group of contracts that aggregate on-chain data to make it easily consumable. The lens includes an oracle, registries, address generators, adapters, and helper contracts. Lens contracts are configurable (allowing calculations to be added/updated individually), all adapters are extendable, and all storage variables can be updated. Lens provides information scoped to any user by asset or protocol, information scoped to a specific vault or Iron Bank market, and information scoped to the entire protocol.
+Die Linse von Yearn ist eine Gruppe von Verträgen, die On-Chain-Daten zusammenfassen, um sie leicht konsumierbar zu machen. Die Linse umfasst ein Orakel, Register, Adressgeneratoren, Adapter und Hilfsverträge. Lens-Verträge sind konfigurierbar (so dass Berechnungen individuell hinzugefügt/aktualisiert werden können), alle Adapter sind erweiterbar, und alle Speichervariablen können aktualisiert werden. Lens bietet Informationen, die für jeden Benutzer nach Vermögenswerten oder Protokollen skaliert sind, Informationen, die für einen bestimmten Vault oder Iron Bank-Markt skaliert sind, und Informationen, die für das gesamte Protokoll skaliert sind.
 
-#### Use cases
+#### Anwendungsfälle
 
-Important use cases for Yearn’s lens include on-chain user balances, vault balances, and TVL (all normalized to USDC via an on-chain oracle) for the entire Yearn protocol. In summary, lens serves as a simple integration point for any protocol or partner who wishes to pull Yearn data on-chain quickly.
+Wichtige Anwendungsfälle für Yearn's lens sind On-Chain-Benutzersalden, Vault-Salden und TVL (alle normalisiert auf USDC über ein On-Chain-Orakel) für das gesamte Yearn-Protokoll. Zusammenfassend lässt sich sagen, dass Lens als einfacher Integrationspunkt für jedes Protokoll oder jeden Partner dient, der Yearn-Daten schnell auf die Kette bringen möchte.
 
-[Lens source code](https://github.com/yearn/yearn-lens/)
+[Lens Quellcode](https://github.com/yearn/yearn-lens/)
 
 ### Meta
 
-Yearn’s metadata repo is a simple framework that allows front-end vault settings to be tweaked very quickly without requiring any code editing. Yearn team members simply need to edit a JSON file that will automatically build and deploy the updated IPFS metadata files.
+Das Metadaten-Repository von Yearn ist ein einfaches Framework, mit dem die Vault-Einstellungen im Front-End sehr schnell angepasst werden können, ohne dass eine Code-Bearbeitung erforderlich ist. Die Mitglieder des Yearn-Teams müssen lediglich eine JSON-Datei bearbeiten, die automatisch die aktualisierten IPFS-Metadaten-Dateien erstellt und bereitstellt.
 
-#### Currently supported schemas and features include:
+#### Derzeit werden folgende Schemata und Funktionen unterstützt:
 
--   Hide a vault from the UI
--   Disable deposit/withdraw and/or zap in/out for a vault
--   Indicate if a vault has an available migration to a newer version
--   Override APY values
--   Strategy name and description
--   Vault symbol, name, or token icon override
--   Underlying token symbol, name, or icon override
+-   Ausblenden eines Vault aus der UI
+-   Deaktivieren von Einzahlungen/Auszahlungen und/oder Zappen in/aus einem Vault
+-   Anziegen, ob für einen Vault eine Migration auf eine neuere Version verfügbar ist
+-   APY-Werte außer Kraft setzen
+-   Name und Beschreibung der Strategie
+-   Vault-Symbol, Name oder Token-Symbol außer Kraft setzen
+-   Überschreiben des Symbols, Namens oder Symbols des zugrunde liegenden Tokens
 
-#### Use cases
+#### Anwendungsfälle
 
--   Quickly configure many aspects of a vault even if you are not a programmer (still requires PR review)
--   Edit configuration in one place and all integrators are updated
--   Maintain control over token and vault names, icons, and symbols
+-   Schnelles Konfigurieren vieler Aspekte eines Vault, auch wenn du kein Programmierer bist (erfordert dennoch eine PR-Überprüfung)
+-   Bearbeiten die Konfiguration an einer Stelle und alle Integratoren werden aktualisiert
+-   Behalten die Kontrolle über Token- und Vault-Namen, Icons und Symbole
 
-[Meta source code](https://github.com/yearn/yearn-meta)
+[Meta Quellcode](https://github.com/yearn/yearn-meta)
 
-### Subgraph
+### Untergraph
 
 ![](image5.png)
 
-_Earnings displayed in dashboard and for each vault_
+_Im Dashboard und für jeden Vault angezeigte Erträge_
 
-The primary use case of Yearn’s subgraph is to aggregate and transform historical on-chain data and to make it easily queryable. As you can see in the image above, the subgraph is currently used to display:
+Der primäre Anwendungsfall des Yearn-Subgraphen besteht darin, historische On-Chain-Daten zu aggregieren und zu transformieren und sie leicht abfragbar zu machen. Wie du in der Abbildung oben sehen kannst, wird der Subgraph derzeit zur Anzeige verwendet:
 
--   User historical earnings scoped to a vault
--   Overall historical user earnings
--   Vault historical earnings (shown on vault detail page)
+-   Historische Benutzereinnahmen, die auf einen Vault beschränkt sind
+-   Historische Benutzereinnahmen insgesamt
+-   Historische Erträge des Vaults (auf der Detailseite des Vaults angezeigt)
 
-Since the earnings of each vault are not natively integrated at the contract level we use our subgraph to track events of deposits, withdrawals, and harvests which are then aggregated so earnings can be [calculated](https://github.com/yearn/yearn-sdk/blob/master/src/interfaces/earnings.ts).
+Da die Erträge der einzelnen Vaults nicht von Haus aus auf Vertragsebene integriert sind, verwenden wir unseren Untergraphen, um Ereignisse wie Einzahlungen, Abhebungen und Ernten zu verfolgen, die dann aggregiert werden, damit die Erträge [berechnet](https://github.com/yearn/yearn-sdk/blob/master/src/interfaces/earnings.ts) werden können.
 
-Yearn’s ecosystem is inherently complex which means having a subgraph that provides large amounts of accurate data is difficult. As with all aspects of the website, the code is open-source, so if you notice any problems with your earnings feel free to let us know or submit a PR to the subgraph repo below.
+Das Ökosystem von Yearn ist von Natur aus komplex, was bedeutet, dass es schwierig ist, einen Subgraphen zu haben, der große Mengen an genauen Daten liefert. Wie bei allen Aspekten der Website ist der Code quelloffen. Wenn du also Probleme mit deinen Einnahmen bemerkst, lass es uns wissen oder sende einen PR an das Subgraph-Repositorium unten.
 
-[Subgraph source code](https://github.com/yearn/yearn-vaults-v2-subgraph/)
+[Untergraph Quellcode](https://github.com/yearn/yearn-vaults-v2-subgraph/)
 
 ### Exporter
 
-Yearn exporter functions as our primary API, and contains all APY and TVL calculations. It depends only on the on-chain data, and also provides tools for anyone to permissionlessly verify any measurable aspect of Yearn products. It supports exporting both realtime and historical data.
+Der Yearn-Exporter fungiert als unsere primäre API und enthält alle APY- und TVL-Berechnungen. Er hängt nur von den On-Chain-Daten ab und bietet darüber hinaus Tools, mit denen jeder jeden messbaren Aspekt der Yearn-Produkte zulassungsfrei überprüfen kann. Er unterstützt sowohl den Export von Echtzeit- als auch von historischen Daten.
 
-[Exporter source code](https://github.com/yearn/yearn-exporter)
+[Exporter Quellcode](https://github.com/yearn/yearn-exporter
 
 ### SDK
 
 ![](image6.png)
 
-_SDK block diagram_
+_SDK Blockdiagramm_
 
-Yearn’s new SDK is the engine that powers our new v3 website, and the front-end was specifically designed around consuming data from the SDK. The SDK aggregates on-chain and off-chain data to serve front-ends and B2B integrations by fetching data from lens, exporter, subgraph, meta, and [Zapper](https://zapper.fi).
+Das neue SDK von Yearn ist der Motor, der unsere neue v3-Website antreibt, und das Front-End wurde speziell für die Nutzung von Daten aus dem SDK entwickelt. Das SDK aggregiert On-Chain- und Off-Chain-Daten, um Front-Ends und B2B-Integrationen zu bedienen, indem es Daten von Lens, Exporter, Subgraph, Meta und [Zapper](https://zapper.fi) abruft.
 
-#### Use cases
+#### Anwendungsfälle
 
--   V3 front-end
--   B2B integrators: vault management and configuration is taken care of for the integrator. An update in the data our SDK fetches means integrators are automatically taken care of.
--   Strategist dashboards
+-   V3 frontend
+-   Integratoren: Die Verwaltung und Konfiguration des Vault wird für den Integrator übernommen. Eine Aktualisierung der Daten, die unser SDK abruft, bedeutet, dass sich die Integratoren automatisch darum kümmern.
+-   Dashboards für Strategen
 
-[SDK source code](https://github.com/yearn/yearn-sdk)
+[SDK Quellcode](https://github.com/yearn/yearn-sdk)
 
-### Front-end
+### Frontend
 
-While the back-end infrastructure listed above generates the data needed, the front-end consumes it and presents it in a way that users can easily interact with it.
+Während die oben aufgeführte Backend-Infrastruktur die benötigten Daten generiert, werden sie vom Frontend konsumiert und so präsentiert, dass die Benutzer leicht damit interagieren können.
 
 ![](image7.png)
 
-_v3 FE block diagram_
+_v3 FE Blockdiagramm_
 
-Our front-end code is divided in two different pieces: **v3 core logic** and **UI layer**.
+Unser Front-End-Code ist in zwei verschiedene Teile unterteilt: **die v3-Kernlogik und die UI-Schicht**.
 
-The **v3 core logic** is meant to be easy to implement in any repo and is in charge of communicating with the SDK and other external data providers, not only by fetching data but also by making POST/WRITE requests. The core logic also models and feeds the UI with a more suitable and traditional data schema, combining all of the different pieces of data (vaults, tokens, user balances, etc).
+Die **v3-Kernlogik** soll einfach in jedes Repo implementiert werden können und ist für die Kommunikation mit dem SDK und anderen externen Datenanbietern zuständig, nicht nur durch den Abruf von Daten, sondern auch durch POST/WRITE-Anfragen. Die Kernlogik modelliert und füttert die Benutzeroberfläche mit einem geeigneten und traditionellen Datenschema, das alle verschiedenen Daten (Vaults, Token, Benutzersalden usw.) zusammenfasst
 
-The **UI layer** consumes the data directly from the core and displays it as desired in each repo. It can be broken down into five main pages, described below.
+Die **UI-Schicht** bezieht die Daten direkt vom Kern und zeigt sie wie gewünscht in jedem Repo an. Sie kann in fünf Hauptseiten unterteilt werden, die im Folgenden beschrieben werden.
 
-[Front-end source code](https://github.com/yearn/yearn-finance-v3)
+[Frontend Quellcode](https://github.com/yearn/yearn-finance-v3)
 
 ![](image8.png)
 
-_Closeup of side navbar and dashboard_
+_Nahaufnahme der seitlichen Navigationsleiste und des Armaturenbretts_
 
-#### Home
+#### Startseite
 
-The home page contains an overview of all of your assets in your wallet, as well as all three Yearn product categories: Vaults, Labs, and Iron Bank.
+Auf der Startseite findest du eine Übersicht über alle Guthaben in deinem Wallet sowie über alle drei Yearn-Produktkategorien: Vaults, Labs und Iron Bank.
 
 #### Wallet
 
-The wallet view displays all assets in your wallet, their total value, and allows you to either deposit them to any vault or supply the tokens to Iron Bank if a market is available.
+In der Walletansicht werden alle Vermögenswerte in deinem Wallet und ihr Gesamtwert angezeigt, und du kannst sie entweder in einen beliebigen Vault einzahlen oder die Token an Iron Bank liefern, wenn ein Markt vorhanden ist.
 
 #### Vaults
 
-Our new vaults page contains a dashboard with user info regarding vault deposits, recommendations (currently displaying highest-yielding vaults), underlying token balance, dollar value, and historical earnings for any vault deposits as well as current APY. Clicking on any vault will bring up the vault detail page.
+Unsere neue Vaults-Seite enthält ein Dashboard mit Benutzerinformationen zu Vault-Einlagen, Empfehlungen (derzeit werden die Vaults mit den höchsten Renditen angezeigt), zugrundeliegendem Token-Guthaben, Dollarwert und historischen Erträgen für alle Vault-Einlagen sowie dem aktuellen APY. Wenn du auf einen Vault klickst, wird die Detailseite des Vault angezeigt.
 
-#### Vault Detail Page
+#### Vault Detailseite
 
 ![](image9.png)
 
-_Vault detail page_
+_Vault detailseite_
 
-The vault detail page is a unique URL for each vault (coming soon to labs) that displays vault TVL, APY, underlying token info, strategy descriptions, historical vault earnings, and allows users to deposit and withdraw.
+Die Vault-Detailseite ist eine eindeutige URL für jeden Vault (demnächst in den Labs), die die TVL des Vaults, den effektiven Jahreszins, Informationen zu den zugrundeliegenden Token, Strategiebeschreibungen und historische Vaulterträge anzeigt und es den Nutzern ermöglicht, Ein- und Auszahlungen vorzunehmen.
 
 #### Labs
 
-One thing users will notice is that yveCRV, yvBOOST, and our yvBOOST-ETH pJar (a product launched in collaboration with [pickle.finance](https://www.pickle.finance)) are no longer on our vaults page. Instead, these have all been moved to our new Labs section.
+Eine Sache, die den Nutzern auffallen wird, ist, dass yveCRV, yvBOOST und unser yvBOOST-ETH pJar (ein Produkt, das in Zusammenarbeit mit [pickle.finance](https://www.pickle.finance)) eingeführt wurde) nicht mehr auf unserer Vault-Seite zu finden sind. Stattdessen wurden sie alle in unseren neuen Labs-Bereich verschoben.
 
-What is Labs, you ask?
+Was sind Labs, fragt ihr?
 
-Yearn’s vaults were originally created with the idea of being “up-only”, and that users could withdraw at any time. As Yearn’s strategies became more sophisticated and we searched for new ways to generate yield, we realized that many strategies are not well-suited to this specific framework.
+Ursprünglich wurden die Vaults von Yearn so konzipiert, dass sie nur nach oben offen sind und die Nutzer jederzeit Geld abheben “up-only” können. Als die Yearn-Strategien immer ausgefeilter wurden und wir nach neuen Wegen zur Renditeerzielung suchten, wurde uns klar, dass viele Strategien für diesen speziellen Rahmen nicht gut geeignet sind.
 
-For instance, several strategists have been working on single-sided LP strategies. Between trading fees and staking incentives, the yield on funds in AMM LPs can be quite lucrative — but there is an obvious risk of impermanent loss and/or short-term drawdowns depending on market fluctuations.
+So haben beispielsweise mehrere Strategen an einseitigen LP-Strategien gearbeitet. Zwischen Handelsgebühren und Einsatzanreizen kann die Rendite von Geldern in AMM-LPs recht lukrativ sein - aber es besteht ein offensichtliches Risiko eines unbeständigen Verlusts und/oder kurzfristiger Rückschläge in Abhängigkeit von Marktschwankungen.
 
-Additionally, protocols like Bancor may require a 24-hour cooldown period to unstake funds. Previously, a requirement like this would break the “withdraw any time” aspect of vaults.
+Darüber hinaus können Protokolle wie Bancor eine 24-stündige Abkühlungszeit für die Freigabe von Geldern verlangen. Früher hätte eine solche Anforderung den Aspekt der "jederzeitigen Abhebung" von Vaults zunichte gemacht.
 
-In labs, we allow more flexibility, and as long as users are aware of the conditions up-front, strategies will allow lock-ups and the potential for temporary losses in pursuit of increased, long-term sustainable yield.
+In Labs lassen wir mehr Flexibilität zu, und solange die Nutzer im Voraus über die Bedingungen informiert sind, werden die Strategien Lock-Ups und das Potenzial für vorübergehende Verluste im Streben nach einer höheren, langfristigen und nachhaltigen Rendite zulassen.
 
 #### Iron Bank
 
-Similar to vaults and labs, Iron Bank shows a dashboard with relevant info, including total supplied, total borrowed, borrow limit used, and total borrow limit.
+Ähnlich wie bei Vaults und Labs zeigt Iron Bank ein Dashboard mit relevanten Informationen an, einschließlich der insgesamt bereitgestellten, der insgesamt ausgeliehenen, der genutzten und der gesamten Ausleihgrenze.
 
-### Additional Features
+### Zusätzliche Merkmale
 
 ![](image10.png)
 
-_Simulation of a zap exceeding slippage tolerance_
+_Simulation eines Zaps, der die Slippagetoleranz überschreitet_
 
-#### Simulations
+#### Simulationen
 
-Before deposits, withdrawals, or zaps into or out of a vault **we use** [**Tenderly**](https://tenderly.co/) **to simulate the transaction.** This gives a lot of beneficial information to users before they even submit a transaction and commit to spending gas:
+Bevor Einzahlungen, Abhebungen oder Zaps in oder aus einem Vault erfolgen, **verwenden wir** [**Tenderly**](https://tenderly.co/), **um die Transaktion zu simulieren.** Dadurch erhalten die Nutzer viele nützliche Informationen, bevor sie überhaupt eine Transaktion einreichen und sich verpflichten, Gasgebühren zu zahlen:
 
--   If the simulation is successful they’ll be able to see roughly the number of tokens that will be received.
--   If it’s simulated that the transaction will result in more slippage than the user’s tolerance (for zaps) then a warning will be displayed to the user with how much the actual slippage would likely be.
--   If the simulated transaction fails a warning will be displayed to the user.
+-   Wenn die Simulation erfolgreich ist, kann der Nutzer die ungefähre Anzahl der Token sehen, die er erhalten wird.
+-   Wenn simuliert wird, dass die Transaktion zu einer größeren Abweichung führt als die Toleranz des Nutzers (für Zaps), wird dem Nutzer eine Warnung angezeigt, wie hoch die tatsächliche Abweichung wahrscheinlich ist.
+-   Wenn die simulierte Transaktion fehlschlägt, wird dem Benutzer eine Warnung angezeigt.
 
-In order to simulate a transaction, we first need to make a call to [Zapper’s API](https://docs.zapper.fi/zapper-api/api-guides/zap-in#check-zap-allowance) to see whether the user needs to approve the zap. If they do, then we create a Tenderly fork so we can preserve state between simulations. We then simulate the approval transaction, again using Zapper, to fetch the transaction data that needs to be simulated for the approval. After the approval simulation succeeds we then [fetch](https://docs.zapper.fi/zapper-api/api-guides/zap-in#zap-in) the transaction data for the actual zap and execute another simulation. Finally, we’re able to see the fully simulated data about the zap, without needing the user to approve it first.
+Um eine Transaktion zu simulieren, müssen wir zunächst die [API von Zapper](https://docs.zapper.fi/zapper-api/api-guides/zap-in#check-zap-allowance) aufrufen, um festzustellen, ob der Benutzer den Zapper genehmigen muss. Wenn dies der Fall ist, erstellen wir einen Tenderly-Fork, um den Zustand zwischen den Simulationen zu erhalten. Dann simulieren wir die Genehmigungstransaktion, wiederum mit Zapper, um die Transaktionsdaten abzurufen, die für die Genehmigung simuliert werden müssen. Nachdem die Genehmigungssimulation erfolgreich war, [holen](https://docs.zapper.fi/zapper-api/api-guides/zap-in#zap-in) wir die Transaktionsdaten für den eigentlichen Zapper ab und führen eine weitere Simulation durch. Schließlich sind wir in der Lage, die vollständig simulierten Daten über den ZAP zu sehen, ohne dass der Benutzer ihn zuerst genehmigen muss.
 
-Please note that a simulation will fail if you’re trying to simulate a transaction for which you do not have enough gas. Although we have tested them extensively, simulations are complex actions, so please pass on feedback if you experience any issues or failing simulations.
+Bitte beachte, dass eine Simulation fehlschlägt, wenn du versuchst, eine Transaktion zu simulieren, für die du nicht genügend Gas hast. Obwohl wir sie ausgiebig getestet haben, sind Simulationen komplexe Vorgänge. Bitte gib uns Feedback, wenn du Probleme hast oder Simulationen fehlschlagen.
 
-#### Mobile
+#### Handy
 
 ![](image11.png)
 
-_v3 mobile experience_
+_v3 mobile Erfahrung_
 
-Another key requirement for the new website was full mobile support, something that was sorely lacking in the past.
+Eine weitere wichtige Anforderung an die neue Website war die vollständige Unterstützung von Mobiltelefonen, was in der Vergangenheit schmerzlich vermisst wurde.
 
-The website now supports displaying all information from both a full-sized and mobile screen. This includes the user dashboard, search functionality, all action buttons (deposit, withdraw, supply, borrow), APY information, and transaction modals designed specifically with mobile layouts in mind.
+Die Website unterstützt nun die Anzeige aller Informationen sowohl auf einem großen als auch auf einem mobilen Bildschirm. Dazu gehören das Benutzer-Dashboard, die Suchfunktion, alle Aktionsschaltflächen (Einzahlung, Abhebung, Bereitstellung, Ausleihe), Informationen zum effektiven Jahreszins und Transaktionsmodalitäten, die speziell für mobile Geräte entwickelt wurden.
 
-While we don’t currently have a native Yearn app due to some App Stores’ restrictions, we’ve committed to providing a native-like experience on mobile browsers.
+Obwohl wir derzeit aufgrund der Beschränkungen einiger App Stores keine native Yearn-App haben, haben wir uns dazu verpflichtet, eine nativ-ähnliche Erfahrung auf mobilen Browsern zu bieten.
 
-## Future Roadmap
+## Zukünftiger Fahrplan
 
 ![](image12.png)
 
-_v3 design exploration_
+_v3 Design Erkundung_
 
-### The Merge
+### Der Zusammenschluss
 
-Though not quite as dramatic as the merging of Ethereum’s PoW with PoS, the goal of launching v3 web as a beta was to establish full feature parity with our existing web UI before replacing it. In addition to a beta period to collect public feedback and catch bugs, here are some items we are in the process of implementing:
+Obwohl nicht ganz so dramatisch wie die Verschmelzung von Ethereums PoW mit PoS, war das Ziel des Starts von v3 web als Beta, die volle Funktionsgleichheit mit unserer bestehenden Web-UI herzustellen, bevor sie ersetzt wird. Zusätzlich zu einer Beta-Phase, um öffentliches Feedback zu sammeln und Fehler zu finden, sind hier einige Punkte, die wir gerade implementieren:
 
--   Labs page detail views
--   Hover tooltips to match v2 (APY, headers, etc)
+-   Detailannsichten der Lapsseiten
+-   Hover-Tooltips, die mit v2 übereinstimmen (APY, Überschriften, etc.)
 
-### … And Beyond (post-merge)
+### … und darüber hinaus (nach dem Zusammenschluss)
 
--   New landing page with improved onboarding — **the sketches in this post are some of the pieces from our v3 design exploration.**
--   Historical APY for vaults
--   Historical protocol yield and user gas savings
--   Gasless zap out approvals
--   Gas cost estimations
--   Multi-language support
--   Integrate [yearn.fi](http://yearn.fi/) risk dashboard
--   Integration of [Bowswap](https://bowswap.finance/) to ease moving from low- to high-yield vaults
--   Ability to add custom skins
--   More detailed user position info on home page
--   Ability to hide dust on the wallet page
--   Several other things that we can’t announce yet, but will be going live very soon 👻
+-   Neue Landing Page mit verbessertem Onboarding - **die Skizzen in diesem Beitrag sind einige der Teile aus unserer v3 Design-Erkundung.**
+-   Historischer APY für Vaults
+-   Historische Protokollausbeute und Gaseinsparungen der Nutzer
+-   Genehmigungen für das gaslose Auszapfen
+-   Schätzungen der Gaskosten
+-   Mehrsprachige Unterstützung
+-   Integration des Risiko-Dashboards von [yearn.fi](http://yearn.fi/)
+-   Inegration von [Bowswap](https://bowswap.finance/) zur Erleichterung des Wechsels von ertragsschwachen zu ertragsstarken Vaults
+-   Möglichkeit,benutzerdefinierte Skins hinzuzufügen
+-   Detailliertere Informationen zur Benutzerposition auf der Startseite
+-   Möglichkeit, Staub auf der Portemonnaie-Seite auszublenden
+-   Verschiedene andere Dinge, die wir noch nicht ankündigen können, die aber sehr bald live gehen werden 👻
 
-## A Word of Gratitude
+## Ein Wort der Dankbarkeit
 
 ![](image13.png)
 
-_Yearn web team self-portrait_
+_Yearn webteam selbsporträt_
 
-None of this would be possible without the amazing Yearn community, including dozens of those who have submitted feedback/ideas over the past few months, our web advisor group, all contributors at Yearn, and especially the designers and engineers who worked tirelessly to make this new site a reality (many of whom are pictured in the artwork above).
+Nichts von alledem wäre möglich ohne die großartige Yearn-Gemeinschaft, darunter Dutzende von Personen, die in den letzten Monaten Feedback und Ideen eingereicht haben, unsere Web-Beratergruppe, alle Mitwirkenden bei Yearn und vor allem die Designer und Techniker, die unermüdlich daran gearbeitet haben, diese neue Website Wirklichkeit werden zu lassen (viele von ihnen sind auf dem Bild oben zu sehen).
 
-If you’d like to help contribute in any way, come join our public [discord](https://discord.gg/8rF374XkXy), create an issue in one of the [repos](https://github.com/yearn) linked above, or share your designs with us on [twitter](https://twitter.com/iearnfinance)!
+Wenn du in irgendeiner Weise helfen möchtest, komm in unseren öffentlichen [discord](https://discord.gg/8rF374XkXy), erstelle ein Issue in einem der oben verlinkten [repos](https://github.com/yearn) oder teile uns deine Designs auf [twitter](https://twitter.com/iearnfinance) mit!
