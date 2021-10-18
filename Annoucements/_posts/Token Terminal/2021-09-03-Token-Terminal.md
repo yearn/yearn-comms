@@ -1,4 +1,12 @@
-![](1.jpg) </br>
+---
+layout: post
+title:  "Token Terminal"
+categories: [ Annoucements ]
+image: ./Token-Terminal/1.jpg
+author: Yearn
+---
+
+![](1.jpg)
 
 Yearn Fundamentals Dashboard on Token Terminal
 
