@@ -2,7 +2,7 @@
 layout: post
 title:  "What if Yearn = the web's yield function?"
 categories: [ Annoucements ]
-image: ./Yearn-=-Yield-Function/image1.jpg
+image: ./Yearn-=-Yield-Function/yield1.jpg
 author: Yearn
 ---
 

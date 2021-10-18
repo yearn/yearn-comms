@@ -2,7 +2,7 @@
 layout: post
 title:  "Zero Knowledge Podcast"
 categories: [ Annoucements ]
-image: ./Zero-Knowledge-Podcast/image1.jpg
+image: ./Zero-Knowledge-Podcast/1.png
 author: Yearn
 ---
 
