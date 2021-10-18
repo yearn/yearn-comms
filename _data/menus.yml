@@ -10,6 +10,9 @@ topmenu:
 - title: Articles
   url: "articles/"
 
+- title: Annoucements
+  url: "annoucements/"
+
 - title: Tweets
   url: "tweets/"
 
