@@ -1,4 +1,12 @@
-![](yield1.jpg) </br>
+---
+layout: post
+title:  "What if Yearn = the web's yield function?"
+categories: [ Annoucements ]
+image: ./Yearn-=-Yield-Function/image1.jpg
+author: Yearn
+---
+
+![](yield1.jpg)
 
 # What if Yearn = the web's "yield function"?
 
