@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Update Bowswap"
+categories: [ Annoucements ]
+image: ./Update-Bowswap.Finance/image1.jpg
+author: Yearn
+---
+
 # Bowswap.Finance [Update](https://t.me/yearnupdates/483)
 
 It now has two parts:
