@@ -80,33 +80,33 @@ Hoy, nos volvemos multicadena con el lanzamiento de Iron Bank Fantom y las prime
 
 ## 13/n
 
-The people calling for the death of DeFi on Ethereum may need to zoom out. Yearn’s Q3 2021 TVL was $4.6bn, nearly 300% higher than 12 months before. Q3 2021 annualised revenue was over $60m, up nearly 400% over the year. [pic.twitter.com/T2ivxDR0Ek](https://twitter.com/Wot_Is_Goin_On/status/1446540042210512906/photo/1)
+Aquellos que creen que Defi en Ethereum está muerto deberían reconsiderarlo. El TVL del tercer trimestre de 2021 de Yearn $4.6MM casi un 300% más que 12 meses antes. Los ingresos anualizados del tercer trimestre de 2021 superaron los $60M, casi un 400% más anual. [pic.twitter.com/T2ivxDR0Ek](https://twitter.com/Wot_Is_Goin_On/status/1446540042210512906/photo/1)
 
 ![3_1446536804035960832](3_1446536804035960832.jpg)
 
 ## 14/n
 
-The criticism around lack of value accrual is one that can be easily fixed. However, the challenge is to design tokenomics that incentivize growth and sustainability of the protocol in terms of contributors and TVL, as well as value accrual.
+La crítica en torno a la falta de acumulación de valor se puede solucionar fácilmente. Sin embargo, el desafío es diseñar una economía de token que incentive el crecimiento y la sostenibilidad del protocolo en términos de contribuyentes y TVL, así como la acumulación de valor.
 
 ## 15/n
 
-It took Ethereum 5+ years to implement EIP-1559, and 2022 brings the migration to PoS that will reward ETH stakers instead of miners. And when cartoon animals are incentivized to figure things out, things usually get figured out.
+Ethereum tardó más de 5 años en implementar la EIP-1559, y 2022 trae la migración a PoS que recompensará a los stakers de ETH en lugar de a los mineros. Y cuando se incentiva a los animales de caricatura a resolver las cosas, las cosas suelen resolverse.
 
 [gov.yearn.finance/t/call-for-ide…](https://gov.yearn.finance/t/call-for-ideas-yfi-tokenomics-revamp/11573/5)
 
 ## 16/n
 
-The sustainability of liquidity mining and competition on fees, and the pace of innovation in DeFi, mean that nothing is guaranteed of course!
+La sostenibilidad de la extracción de liquidez y la competencia en las comisiones, y el ritmo de la innovación en DeFi, ¡significa que nada está garantizado, por supuesto!
 
 ## 17/n
 
-But these worries can be brushed aside safe in the knowledge that this guy deployed Yearn’s first smart contract.
+Pero estas preocupaciones pueden dejarse de lado con la certeza de que este tipo implementó el primer contrato inteligente de Yearn.
 
 [twitter.com/CFantom777/sta…](https://twitter.com/CFantom777/status/1446366012421468162?s=20)
 
 > ![CFantom777](CFantom777-1387931745832497152.jpg)
 > Fantom_Memes ([@CFantom777](https://twitter.com/CFantom777))
 
-> Damn it feels good to be a fantie
+> Vaya si se siente bien ser un fanti
 
 [$FTM](https://twitter.com/search?q=%24FTM) [#Fantom](https://twitter.com/hashtag/Fantom) [#cryptocurrency](https://twitter.com/hashtag/cryptocurrency) [#andrecronje](https://twitter.com/hashtag/andrecronje) [pic.twitter.com/B1tTP48nqN](https://twitter.com/CFantom777/status/1446366012421468162/video/1)
