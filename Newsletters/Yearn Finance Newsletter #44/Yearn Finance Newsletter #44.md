@@ -9,7 +9,7 @@ Bienvenidos a la edición número 44 de la Newsletter de Yearn Finance. Con esta
 - Resultados de YIP-63
 - Encuesta al usuario del producto
 - Introducimos 4 nuevas yVaults
-- Yearn es integrado a Defi Saver
+- Yearn es integrado en Defi Saver
 - No olvidemos a Woofy
 - Las vaults de Yearn
 - Noticias del ecosistema
@@ -18,9 +18,9 @@ Bienvenidos a la edición número 44 de la Newsletter de Yearn Finance. Con esta
 
 ![](image2.jfif)
 
-La votación reciente con respecto a YIP-63, ha resultado en el acuerdo de aportar fondos al DAO LeXpunK. Yearn ha transferido un millón de DAI al multifirma controlado por Curve Finance, Lido Finance y el DAO LeXpunK.
+La votación reciente con respecto a YIP-63, ha resultado en el acuerdo de aportar fondos al DAO LeXpunK. Yearn ha transferido un millón de DAI a la multifirma controlada por Curve Finance, Lido Finance y el DAO LeXpunK.
 
-Como contexto, el DAO LeXpunK, es una coalición de constructores de Defi y abogados con el objetivo de crear un equipo de defensa legal mucho mayor y con una ética mas alineada que los VCs de silicon Valley. Es una iniciativa importante que servirá para luchar por el mundo cripto por los próximos años e incluso las próximas décadas.
+Como contexto, el DAO LeXpunK, es una coalición de constructores de Defi y abogados con el objetivo de crear un equipo de defensa legal mucho mayor y con una ética más alineada que los VCs de Silicon Valley. Es una iniciativa importante que servirá para luchar por el mundo cripto por los próximos años e incluso las próximas décadas.
 
 Lee la propuesta completa en el foro de Yearn [Aquí](https://gov.yearn.finance/t/yip-63-fund-builder-first-legal-activism-dao/11280).
 
@@ -30,7 +30,7 @@ Echa un vistazo a la transacción realizada por Yearn para el DAO [Aquí](https:
 
 Hemos realizado una nueva encuesta de usuarios para determinar lo que vosotros, los usuarios de la comunidad, quereis ver en Yearn.
  
-Yearn se encuentra en constante proceso de iteración con la ayuda de la comunidad, pero con esta encuesta, queremos ponernos manos a la obra para así determinar lo que vosotros, la comunidad, tenéis en mente para mejorar Yearn. Hemos visto crecimiento exponencial en el corto tiempo que llevamos en actividad y esperamos continuar innovando en los productos que lanzamos al mercado y dando mayor utilidad al token YFI. Creemos que podemos mejorar la experiencia de usuario en Yearn con la ayuda de vuestras ideas y de esa forma ser mas competitivos en el mercado de generación de rendimiento así como en los distintos sectores donde nos desarrollamos.
+Yearn se encuentra en constante proceso de iteración con la ayuda de la comunidad, pero con esta encuesta, queremos ponernos manos a la obra para así determinar lo que vosotros, la comunidad, tenéis en mente para mejorar Yearn. Hemos visto crecimiento exponencial en el corto tiempo que llevamos en actividad y esperamos continuar innovando en los productos que lanzamos al mercado y dando mayor utilidad al token YFI. Creemos que podemos mejorar la experiencia de usuario en Yearn con la ayuda de vuestras ideas y de esa forma ser más competitivos en el mercado de generación de rendimiento así como en los distintos sectores donde nos desarrollamos.
 
 Completa la encuesta [Aquí](https://yearnfinance.typeform.com/to/ojp3J8gn).
 
@@ -40,7 +40,7 @@ Completa la encuesta [Aquí](https://yearnfinance.typeform.com/to/ojp3J8gn).
 
 4 nuevas yVaults están ahora disponibles en nuestra web. Deposita hoy y genera rendimiento con tu AAVE, COMP, TUSD y SUSHI.
  
-Las vaults de AAVE, COMP y SUSHI generan rendimiento haciendo staking en [universe.xyz](https://universe.xyz/polymorphs), por lo que no se encuentran expuestos a perdidas impermanentes. TUSD genera rendimiento en Kashi dentro de SushiSwap.
+Las vaults de AAVE, COMP y SUSHI generan rendimiento haciendo staking en universe.xyz, por lo que no se encuentran expuestos a pérdidas impermanentes. TUSD genera rendimiento en Kashi dentro de SushiSwap.
 
 Puedes ver las últimas APYs de estas vaults y depositar en las mismas haciendo clic en este [Enlace](https://yearn.finance/vaults).
 
@@ -90,6 +90,6 @@ Puedes leer una descripción detallada de las estrategias para todas nuestras yV
 
 [Echa un vistazo a la historia de ape.tax, contada por Facu Ameal](https://twitter.com/fameal/status/1428382076064174080?s=20)
 
-[Como utilizar Yearn V2 con Argent](https://twitter.com/argentHQ/status/1431205382865760257)
+[Cómo utilizar Yearn V2 con Argent](https://twitter.com/argentHQ/status/1431205382865760257)
 
 [Yearn ha otorgado una subvención a Atlantis World para construir un metaverso de píxeles 2D](https://twitter.com/iearnfinance/status/1432387438014435332)
