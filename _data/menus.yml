@@ -1,9 +1,6 @@
 # Top Menu
 topmenu:
 
-- title: Home
-  url: ""
-
 - title: Newsletters
   url: "newsletters/"
 
