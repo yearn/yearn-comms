@@ -2,7 +2,7 @@
 layout: post
 title:  "The Blue Pill"
 categories: [ Annoucements ]
-image: ./Proposal-Fund-Builder-First-Legal_Activism-DAO/thebluebook.jpg
+image: ./The-Blue-Pill/thebluebook.jpg
 author: Yearn
 ---
 

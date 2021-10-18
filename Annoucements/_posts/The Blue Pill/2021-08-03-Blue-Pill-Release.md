@@ -2,7 +2,7 @@
 layout: post
 title:  "Blue Pill Release"
 categories: [ Annoucements ]
-image: ./Proposal-Fund-Builder-First-Legal_Activism-DAO/thebluepill.jpg
+image: ./Blue-Pill-Release/thebluepill.jpg
 author: Yearn
 ---
 
