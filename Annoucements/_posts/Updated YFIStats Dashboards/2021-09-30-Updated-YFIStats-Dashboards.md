@@ -2,7 +2,7 @@
 layout: post
 title:  "Update YFIStats Dashboards"
 categories: [ Annoucements ]
-image: ./Update-YFIStats-Dashboards/1.jpg
+image: ./Updated-YFIStats-Dashboards/1.jpg
 author: Yearn
 ---
 
