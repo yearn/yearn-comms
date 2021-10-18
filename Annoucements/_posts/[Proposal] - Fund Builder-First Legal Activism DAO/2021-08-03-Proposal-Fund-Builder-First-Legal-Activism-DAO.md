@@ -3,8 +3,9 @@ layout: post
 title:  "Proposal Fund Builder First Legal Activism DAO"
 categories: [ Annoucements ]
 image: ./Proposal-Fund-Builder-First-Legal_Activism-DAO/image1.jpg
-author: LexPunk DAOs
+author: LexPunk DAO
 ---
+
 ![](image1.jpg)
 
 [@LeXpunK_DAO]https://twitter.com/LeXpunK_DAO) is proposing to raise a builder-centric cryptolaw activism DAO from other value-aligned communities. 
