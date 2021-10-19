@@ -4,6 +4,7 @@ title:  "Yearn Finance Newsletter #47"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-47/image1.png
 author: Yearn
+translator: 
 ---
 # Yearn Finance Newsletter #47
 
@@ -16,17 +17,17 @@ Welcome to the 47th edition of the Yearn Finance Newsletter. Our aim with this n
 ## Summary
 
 -   Introducing V3 of Yearn’s UI
-    
+
 -   Check Out the New Labs Section
-    
+
 -   Yearn Has Purchased $320K of YFI in September
-    
+
 -   Cumulative Protocol Revenue Reaches $43M
-    
+
 -   Vaults at Yearn
-    
+
 -   Ecosystem News
-    
+
 
 ## Introducing V3 of Yearn’s UI
 

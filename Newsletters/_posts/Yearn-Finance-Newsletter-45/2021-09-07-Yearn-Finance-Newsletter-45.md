@@ -4,6 +4,7 @@ title:  "Yearn Finance Newsletter #45"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-45/image1.jfif
 author: Yearn
+translator: 
 ---
 
 # Yearn Finance Newsletter #45

@@ -4,6 +4,7 @@ title:  "More boosts, compounding, and mojitos for you with yvBOOST"
 categories: [ Articles ]
 image: ./thats-boost-folks/image4.png
 author: Qosmonot
+translator: 
 ---
 
 # More boosts, compounding, and mojitos for you with yvBOOST

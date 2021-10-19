@@ -4,6 +4,7 @@ title:  "Liquidity Mining Rewards v2"
 categories: [ Articles ]
 image: ./Liquidity-Mining-Rewards-v2/andre-hero.png
 author: Andre
+translator: 
 ---
 
 # Liquidity Mining Rewards v2

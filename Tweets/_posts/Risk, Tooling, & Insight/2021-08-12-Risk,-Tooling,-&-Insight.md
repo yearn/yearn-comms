@@ -4,6 +4,7 @@ title:  "Risk, Tooling, & Insight"
 categories: [ Tweets ]
 image: ./Risk,-Tooling,-&-Insight/stormblessed.jpg
 author: Storm Blessed
+translator: 
 ---
 
 original source: [twitter](https://twitter.com/storming0x/status/1436851219864059906)
