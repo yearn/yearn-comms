@@ -29,7 +29,7 @@ for Spanish / Español : [RestlessMik3](https://twitter.com/margjr84){:target="_
 
 for Turkish / Türkçe : [@Dastronom](https://twitter.com/Dastronomm){:target="_blank"}
 
-for Vietnamese / tiếng Việt : [@xy-cypher]()
+for Vietnamese / Tiếng Việt : [@xy-cypher]()
 
 ### Join us!
 
