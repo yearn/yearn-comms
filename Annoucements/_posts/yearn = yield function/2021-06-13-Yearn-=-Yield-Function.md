@@ -1,23 +1,21 @@
 ---
 layout: post
-title:  "Ya Yearn = web'in verim işlevi ise"
+title:  "What if Yearn = the web's yield function?"
 categories: [ Annoucements ]
 image: ./Yearn-=-Yield-Function/yield1.jpg
 author: Yearn
-translator: Dastronom
-publish: true
 ---
 
 ![](yield1.jpg)
 
-# Ya Yearn = web'in "verim işlevi" ise?
+# What if Yearn = the web's "yield function"?
 
-Programlamada bir "fonksiyon", belirli bir görevi yerine getiren küçük bir yeniden kullanılabilir kod paketidir... Bu işlevi istediğiniz zaman çağırabilirsiniz ve aynı şeyi hatasız olarak tekrar tekrar yapacaktır.
+In programming a "function" is a little bundle of reusable code that accomplishes a specific task… You can summon that function anytime, and it will do the same thing over and over again without fail.
 
-Yearn ile dünyanın herhangi bir yerindeki geliştiriciler kazancımızı alabilir ve bunları herhangi bir finansal akışa ekleyebilir.
+With Yearn, devs anywhere on earth can take our yields and insert them into any financial flow.
 
-İnsanlar para legolarından bahsediyor. Yearn, diğer DeFi projelerinin kendi legolarını oluşturmak için kullanabileceği plastik bir lego değil.
+People talk about money legos. Yearn isn't so much a lego as the plastic other DeFi projects can use to build their own legos.
 
-Bilgi İnterneti'nin veriler için API'leri kullanması gibi, İnternetde verim için de Yearn'i kullanacaktır. Herhangi bir değer durağanlaştığında (günler, saatler… hatta dakikalar boyunca), Yearn yola devam edecek.
+Just as the Internet of Information uses APIs for data, the Internet of Value will use Yearn for yield. Anywhere value lies dormant (for days, hours... even minutes), Yearn will go.
 
-Bu da Yearn'in Value İnterneti'nin kendisi kadar büyük olabileceği anlamına geliyor. Blok zincirler gibi, tüm finansal akışların tüm değer akışlarının temelini oluşturabilir.
+And that means Yearn could become as big as the Internet of Value itself. Like blockchains, it could come to underlie all financial flows -- all value flows.
