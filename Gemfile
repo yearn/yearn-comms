@@ -22,4 +22,5 @@ group :jekyll_plugins do
     gem 'tzinfo'
     gem 'jekyll-postfiles'
     gem 'webrick'
+    gem 'jekyll-target-blank'
 end

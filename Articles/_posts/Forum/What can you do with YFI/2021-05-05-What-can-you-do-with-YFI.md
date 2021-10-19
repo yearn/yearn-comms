@@ -160,7 +160,7 @@ In this section, we cover the platforms that allow you to lend out your YFI, or 
 Cream.Finance is a decentralized lending protocol. You can borrow stablecoins against your YFI for up to 50% of your total collateral. 
 
 #### Site
-- [Cream.Finance](https://app.cream.finance/)
+- [Cream.Finance](https://app.cream.finance)
 
 #### Tools
 - [Cream Documentation](https://docs.cream.finance/)
@@ -176,7 +176,7 @@ For DeFi insurance, you would need to insure Cream Finance and wherever you lend
 APY: 0.27% - 18.81% + (60.30% * .39) = 4.977%
 Calculation: Supply APY (YFI) - Borrow APY (USDC) + (Stablecoin Yield Farm APY (Zap to v1 crvEURS yVault) * % of stablecoin you can borrow and be safe). 
 Sidenote: This is an example but you could yield farm anywhere.
-Source: [Cream]([Cream.Finance](https://app.cream.finance/)) and [Yearn](https://yearn.finance/vaults/0x98B058b2CBacF5E99bC7012DF757ea7CFEbd35BC) Yields.
+Source: [Cream](https://app.cream.finance) and [Yearn](https://yearn.finance/vaults/0x98B058b2CBacF5E99bC7012DF757ea7CFEbd35BC) Yields.
 
 ### Iron Bank
 The Iron Bank is just like Cream v1, but they are more selective of the assets they list and they let white-listed protocols borrow funds with little or no collateral such as Alpha Homora v2 and Yearn Finance. Because protocols can borrow with little collateral, utilization rates in Iron Bank tend to be higher than at CREAM or AAVE. 

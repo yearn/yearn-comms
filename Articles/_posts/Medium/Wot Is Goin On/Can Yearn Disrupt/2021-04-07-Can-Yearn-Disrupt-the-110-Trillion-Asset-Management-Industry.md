@@ -228,7 +228,8 @@ There have been only two so far (that I can find), both of which are related to 
 
 Bonds are less risky than crypto and equities (measured by historic volatility). There’s more than [$100 trillion](https://www.icmagroup.org/Regulatory-Policy-and-Market-Practice/Secondary-Markets/bond-market-size/) of them. If ever, they will likely come last to Ethereum. No-one is pestering the Spartan Council for a synthetic 30-year US treasury, sTMUBMUSD30Y, to lock in 2.4% pa yield. However, there are signs of large traditional financial players testing the waters.
 
-![](image13.png)History of bond issuance on blockchains ([Binance Research](https://research.binance.com/en/analysis/santander-bond), Coindesk)
+![](image13.png)
+History of bond issuance on blockchains ([Binance Research](https://research.binance.com/en/analysis/santander-bond), Coindesk)
 
 These institutions and companies are testing the technology because it is cheap. If it’s cheap it saves them money and gives them an edge against competitors.
 
@@ -349,7 +350,7 @@ However, if Yearn’s vaults earn the highest risk-adjusted yields in DeFi, then
 
 One key advantage that protocols have over companies is the composability of DeFi (“money legos”) and the permissionless nature of DeFi which means any protocol can use Yearn’s vaults. For example, the yvDai vault recently reached its limit (temporarily) because a new protocol, Alchemix, directed funds there. A new protocol Smoothy Finance has also integrated Yearn’s vaults into their AMM. These protocol-to-protocol integrations are not possible with Celsius and will likely be crucial to Yearn’s success. Yearn’s affiliate program incentivizes these integrations and it will be interesting to see the new protocols that utilize Yearn’s vaults in the future.
 
-Another example of Yearn benefiting from other protocols is the recent [proposal](http://List Yearn Finance v2 yVault tokens as collateral assets - Proposal - C.R.E.A.M. Finance) to list some of Yearn’s vault tokens on the lending protocol Cream Finance, another ecosystem partner. If approved, this will allow users to earn a yield on their crypto in Yearn’s vaults and use it as collateral for borrowing at the same time — improving the capital efficiency of DeFi.
+Another example of Yearn benefiting from other protocols is the recent [proposal](https://forum.cream.finance/t/list-yearn-finance-v2-yvault-tokens-as-collateral-assets/1478) to list some of Yearn’s vault tokens on the lending protocol Cream Finance, another ecosystem partner. If approved, this will allow users to earn a yield on their crypto in Yearn’s vaults and use it as collateral for borrowing at the same time — improving the capital efficiency of DeFi.
 
 The information in this article does not constitute any form of advice or recommendation and is not intended to be relied upon by users in making (or refraining from making) any investment decisions or in interacting with DeFi protocols.
 
