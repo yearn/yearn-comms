@@ -1,0 +1,18 @@
+---
+title: "Annoucements"
+layout: default
+permalink: "/annoucements.html"
+---
+
+
+<div class="row mt-1">
+{% for post in site.categories.Annoucements %}
+{% if post.title != null %}
+{% if group == null or group == post.group %}
+<div class="col-md-4 mb-5">
+{% include postbox.html %}
+</div>
+{% endif %}
+{% endif %}
+{% endfor %}
+</div>
