@@ -4,6 +4,7 @@ title:  "Yearn & Synthetix DAO twitter space"
 categories: [ Annoucements ]
 image: ./Yearn-&-Synthetix-DAO-twitter-space/1.jpg
 author: Yearn
+published: false
 ---
 
 Yearn and Synthetix talk DAO governance and decision making, check it out below👇

@@ -4,6 +4,7 @@ title:  "Update Bowswap"
 categories: [ Annoucements ]
 image: ./Update-Bowswap.Finance/image1.jpg
 author: Yearn
+published: false
 ---
 
 # Bowswap.Finance [Update](https://t.me/yearnupdates/483)
