@@ -1,17 +1,17 @@
 # Top Menu
 topmenu:
 
+- title: Annoucements
+  url: "annoucements/"  
+
 - title: Newsletters
   url: "newsletters/"
 
-- title: Articles
-  url: "articles/"
-
-- title: Annoucements
-  url: "annoucements/"
-
 - title: Tweets
   url: "tweets/"
+
+- title: Articles
+  url: "articles/"
 
 - title: Financials
   url: "financials/"
@@ -36,3 +36,8 @@ footermenu:
   url: https://docs.yearn.finance/
   class: "ml-2 btn btn-primary text-white px-3"
   external: true
+
+- title: yearn contribute
+  url: https://contribute.yearn.rocks
+  class: "ml-2 btn btn-primary text-white px-3"
+  external: true  
