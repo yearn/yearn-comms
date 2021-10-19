@@ -1,52 +1,50 @@
 ---
 layout: post
-title:  "Die blaue Pille"
+title:  "The Blue Pill"
 categories: [ Articles ]
 image: ./The-Blue-Pill/pill-wt-text.png
 author: Weaver
-translator: Nesyeth
-publish: true
 ---
 
-# Die blaue Pille
+# The Blue Pill
 
-Wir nennen es einfach "Das Geschenk".
+We refer to it simply as The Gift.
 
-Vor einem Jahr, im Juli 2020, verteilte Andre YFI-Token an alle Mitglieder der DeFi-Community, die sich durch Einsätze, Farmen oder Abstimmungen an dem Projekt beteiligen wollten.
+One year ago in July 2020, Andre gave YFI tokens to anyone in the DeFi community who wanted to be a part of the project by staking, farming or voting.
 
-Niemand, auch Andre nicht, wusste, was aus YFI und Yearn werden würde...
+Nobody, including Andre, knew what YFI and Yearn would become…
 
-Ein DeFi blauer Chip.
+A DeFi blue chip.
 
-Ein Magnet für Talente und für Milliarden in TVL.
+A magnet for talent and for billions in TVL.
 
-Ein Kollektiv von Erbauern, die Zusammenarbeit über Wettbewerb und Integrität über alles andere stellen.
+A collective of builders who value collaboration over competition and integrity over all else.
 
-Heute, nur 12 Monate später, ehren wir die Macher, Macherinnen, Erbauer und Erbauerinnen mit der Veröffentlichung eines Buches:
+Today, just 12 months later, we honor the makers, doers, builders and believers, with the release of a book:
 
 ![](image1.png)
-Die blaue Pille: Ein spiritueller Leitfaden für die Vergangenheit, Gegenwart und Zukunft von Yearn.
+The Blue Pill: A spiritual guide for the past, present, and future of Yearn.
 
-Die Seiten dokumentieren die Entstehungsgeschichte von Yearn und zeichnen einen groben Plan, wie es weitergehen soll.
+Its pages document the origin story of Yearn and lay out a crude map for where we go next.
 
-Yearn ist dabei, das Finanzwesen neu zu gestalten, aber auch Organisationen und das Wesen der Zusammenarbeit neu zu konzipieren und zu gestalten.
+Yearn is reimagining and rebuilding finance, but it’s also reimagining and rebuilding organizations and the very nature of collaboration, too.
 
-Das Buch ist eine Einladung an dich, sich uns im Land der unbegrenzten Möglichkeiten anzuschließen und einen Beitrag zu der vor uns liegenden Reise zu leisten.
+The book is an invitation for you to join us in the land of infinite possibilities and contribute to the journey ahead.
 
 ![](image2.png)
 
-Um die Legenden zu ehren, die im ersten Jahr an Yearn teilgenommen haben, haben wir in Zusammenarbeit mit dem Künstler [@ZemmNFT](https://twitter.com/Zemm_NFT) [eine Reihe von legendären und seltenen NFTs](https://galaxy.eco/yearn) und seltenen NFTs erstellt, die einen Online-Zugang zum Buch gewähren.
+To honor the legends who participated in Yearn during Year One, we’ve worked with artist [@ZemmNFT](https://twitter.com/Zemm_NFT) to create [a series of legendary and rare NFTs](https://galaxy.eco/yearn) that grant online access to the book.
 
-Ihr seid die Landwirte, die Stifter, die Wähler und die Geber, die YFI von Anfang an geprägt und getragen haben. Wir haben Schnappschüsse von jeder dieser Gruppen gemacht und mit unseren Freunden von [@ProjectGalaxyHQ](https://twitter.com/ProjectGalaxyHQ) zusammengearbeitet, um sie euch heute zu präsentieren.
+You are the farmers, the stakers, the voters, and the givers who shaped and held YFI from the beginning. We’ve taken snapshots of each of these groups and worked with our friends [@ProjectGalaxyHQ](https://twitter.com/ProjectGalaxyHQ) to bring them to you today.
 
-Yearn OGs, die auf mehreren Schnappschüssen erscheinen, können auch besondere, seltene NFTs beanspruchen. Alle Blaue Pille NFTs sind mit einem Link zur digitalen Version des Blaue Pille Buches versehen.
+Yearn OGs appearing on multiple snapshots can also claim special, rare NFTs. All of the Blue Pill NFTs come with a link to the digital version of The Blue Pill book.
 
-Diejenigen, die auf den Schnappschüssen zu sehen sind, werden die ersten sein, die das Buch sehen können, aber so wie YFI mit einem Geschenk begann, ist dieses digitale Buch kostenlos und soll von allen geteilt werden.
+Those on the snapshots will be the first to view the book, but just as YFI began with a gift this digital book is free and intended to be shared by all.
 
-So geht hinaus, ihr ursprünglichen Säer der Saat von Yearn.
+So go forth, ye original sowers of the seeds of Yearn.
 
-Nimm unsere bescheidene Einladung an, mit uns das einjährige Bestehen von YFI zu feiern.
+Accept our humble invitation to join us in celebration of one year of YFI.
 
-[Nehmt die NFTs](https://galaxy.eco/yearn) als Symbol für euren Platz in der Geschichte von Yearn und gebt dieses Buch an diejenigen weiter, die mit uns das aufbauen wollen, was Yearn noch werden soll.
+[Claim the NFTs](https://galaxy.eco/yearn) as a symbol of your place in Yearn history, and share this book those who might join us in building what Yearn is yet to become.
 
 ![](image3.jpg)
