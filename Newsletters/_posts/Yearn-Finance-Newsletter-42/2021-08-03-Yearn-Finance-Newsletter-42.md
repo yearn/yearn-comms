@@ -1,115 +1,113 @@
 ---
 layout: post
-title:  "Bản tin Yearn.Finance Số #42"
+title:  "Yearn Finance Newsletter #42"
 categories: [ Newsletters ]
-image: ./Yearn-Finance-Newsletter-42/image1_newsletter_header_vn.png
+image: ./Yearn-Finance-Newsletter-42/image1.png
 author: Yearn
-translator: 🤖💵💵💰💰.eth
-publish: true
 ---
 
-# Bản tin Yearn.Finance Số #42
+# Yearn Finance Newsletter #42
 
-![](image1_newsletter_header_vn.png)
+![](image1.png)
 
-Chào mừng các bạn đến với Bản tin Yearn.Finance Số 42! Chúng tôi hy vọng sẽ truyền tải được những dữ kiện mới nhất cho cộng đồng tiền mã thuật số (crypto) nói chung lẫn cộng đồng Yearn nói riêng; từ phát hành sản phẩm, thay đổi trong quản trị đến nhiều dự án đối tác trực thuộc hệ sinh thái Yearn. Nếu quan tâm và muốn biết thêm chi tiết về Yearn.Finance, hãy theo dõi tài khoản [Twitter](https://twitter.com/iearnfinance), [Medium](https://medium.com/iearn) cũng như đón chờ nơi phát hành Tiếng Việt chính thức của chúng tôi.
+Welcome to the 42nd edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If youΓÇÖre interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
 
-## **Tóm tắt**
+## **Summary**
 
-- "Viên Thuốc Xanh" Yearn
-- Chụp ghi nhận (Snapshot) Woofy Tuần 11
-- Di chuyển Hay là Chết
-- Chiến lược Biểu quyết Tỷ xích Curve (Curve Gauge Voting) mới
-- Kiểm tra các "Lọ Dưa Chua" (Pickle Jar)
-- Cần gì để trở thành một Chiến lược gia
-- Công bố Kiểm toán An toàn (Audit) cho Yearn V2
-- Các Kho bạc (Vault) tại Yearn
-- Tin tức trong Hệ sinh thái
+- The Yearn Blue Pill
+- Woofy Week 11 Snapshot
+- Migrate Or Die
+- New Curve Gauge Voting Strategy
+- Check Out The Pickle Jars
+- What It Takes To Be A Strategist
+- Audits Published For Yearn V2
+- Vaults at Yearn
+- Ecosystem News
 
-## **NFT "Viên Thuốc Xanh"**
+## **The Blue Pill NFTs**
 
 ![](image2.png)
 
-Kỷ niệm sinh nhật Yearn 1 tuổi, chúng tôi đã tiếp tục hợp tác với Project Galaxy để mang đến cho các bạn "Viên Thuốc Xanh": Câu chuyện ly kỳ về quá khứ, hiện tại và tương lai của Yearn. Tác giả Zemm đã tạo nên một cuốn sách đầy sinh động cho 13&nbsp;500 tín đồ trung thành của chúng tôi. Đây là một sê-ri gồm 7 NFT độc đáo cho hàng loạt "nông dân" (farmer), "cọc viên" (staker), "cử tri" (voter) và "người hùng" tâm huyết của cộng đồng Yearn. Cùng chúng tôi ăn mừng món quà YFI!
+To celebrate the first year of Yearn, we have collaborated once again with Project Galaxy to bring you The Blue Pill, a spiritual guide for the past, present and future of Yearn. Made by Zemm, The Blue Pill is a beautifully-typeset book available to our 13,500 most loyal supporters. This is a series of seven unique NFTs for the various farmers, stakers, voters, and givers of the Yearn community. Join us in celebrating the gift of YFI!
 
-Xem chi tiết về món quà NFT này trên blog của Yearn [tại đây](https://medium.com/iearn/the-blue-pill-ca44ed01f16f) (tiếng Anh).
+Read more about the NFT drop on the Yearn blog [here](https://medium.com/iearn/the-blue-pill-ca44ed01f16f).
 
-Nhận sách của bạn [tại đây](https://galaxy.eco/yearn) và đọc bản đầy đủ [ở địa chỉ này](https://thebluepill.eth.link/).
+Claim your books [here](https://galaxy.eco/yearn) and check out the full book [here](https://thebluepill.eth.link/).
 
-## **Chụp ghi nhận (Snapshot) Woofy Tuần 11**
+## **Woofy Week 11 Snapshot**
 
 ![](image3.png)
 
-Những người mới nắm giữ đồng WOOFY sẽ nhận được một món quà NFT qua sự hợp tác giữa Yearn và Project Galaxy. Chúng thuộc sê-ri gồm sáu NFT WOOFY độc đáo như hình trên. Các dữ liệu chụp ghi nhận mọi chủ tôken, bên cấp thanh khoản ("liquidity provider" hay LP), "cọc viên" (staker) và người dùng kho bạc (vault) trải khắp hàng loạt chuỗi khối.
+New WOOFY holders can expect an NFT gift via a collaboration between Yearn and Project Galaxy. These are from a series of six unique WOOFY NFTs as shown above. These snapshots cover token holders, LPs, stakers, and vault users across multiple chains.
 
-Nhận NFT Woofy của bạn [tại đây](https://galaxy.eco/yearn).
+Claim your Woofy NFTs [here](https://galaxy.eco/yearn).
 
-## **Di chuyển Hay là Chết**
+## **Migrate Or Die**
 
 ![](image4.png)
 
-Các kho bạc (vault) phiên bản v1 đã trở thành nguồn lãi suất đáng tin cậy cho mọi người trong gần một năm, và giờ là lúc chúng ta nói lời tạm biệt. Tất cả kho bạc (vault) cũ đã được "thu hoạch" lần cuối cùng và "nghỉ hưu" các chiến lược. Một lần nữa, chúng tôi xin nhấn mạnh rằng kho bạc (vault) phiên bản v2 sở hữu nhiều ưu điểm hơn như triển khai vốn khắp vài chiến lược cùng lúc để mang lại hiệu quả lãi suất tốt hơn, giảm bớt rủi ro.
+The v1 vaults have served everyone as a reliable source of yield for almost a year, but now the time has come to say goodbye. All old vaults have been harvested one last time and strategies have been unwinded. As a reminder, our v2 vaults entail several changes such as deploying capital across several strategies for more efficiency and better risk-adjusted yield.
 
-Bạn có thể di chuyển sang v2 bất cứ lúc nào, miễn phí.
+You can migrate to v2 at any time without fees.
 
-Xem ngay các kho bạc (vault) [tại địa chỉ yearn.finance/vaults](https://yearn.finance/vaults).
+Check out the vaults here at [yearn.finance/vaults](https://yearn.finance/vaults).
 
-## **Chiến lược Biểu quyết Tỷ xích Curve (Curve Gauge Voting) mới**
+## **New Curve Gauge Voting Strategy**
 
-Nhờ công sức tuyệt vời của các Chiến lược gia tại Yearn, chúng tôi đã khám phá ra chiến lược tối ưu nhất khi Biểu quyết ở Tỷ xích Curve (Curve Gauge Voting) để cung cấp lãi suất nhiều nhất cho người dùng. Chiến lược mới này sẽ ghi nhận lãi suất cao hơn lên đến 20% cho những vị trí hiện tại đang sử dụng veCRV.
+Thanks to the great work of the Strategists at Yearn, we have discovered the most optimal Curve Finance gauge voting strategy to generate our users the most yield. This newer strategy has enabled us to get up to 20% higher yields on our current positions utilizing veCRV.
 
-Như thường lệ, chúng tôi luôn nhắm đến việc mang lại lãi suất tối đa mà đỡ-rủi-ro trong thế giới DeFi, với nhiều Chiến lược gia liên tục triển khai mã lập trình chất lượng. Ký gửi ngay vốn vào yVault và để Chiến lược gia cáng đáng công việc nặng nhọc nhất.
+As always, we are striving to bring you all the best risk-adjusted yields in DeFi, with Strategists constantly pushing code to make the Yearn experience better. Deposit capital into the yVaults and let our Strategists do the hard work.
 
-Xem ngay các kho bạc (vault) [tại đây](https://yearn.finance/vaults).
+Check out the vaults [here](https://yearn.finance/vaults).
 
-## **Kiểm tra các "Lọ Dưa Chua" (Pickle Jar)**
+## **Check Out The Pickle Jars**
 
 ![](image5.png)
 
-Ở Pickle.Finance, nhiều lãi suất ấn tượng từ 7% đến 40% đang chờ đón tôken yVault. Bạn có thể thu lời trên Yearn FRAX, Yearn LUSD, yUSDC và còn nhiều nữa!
+At Pickle Finance, you can find impressive rates from 7% to 40% on your favorite yVault tokens. You can earn on Yearn FRAX, Yearn LUSD, yUSDC, and many more!
 
-Pickle là một trong nhiều đối tác tuyệt vời, thành viên trong chương trình chia sẻ doanh thu của chúng tôi (dự án tham dự chương trình này có thể nhận được lên đến 50% phí mà Yearn thu về).
+Pickle is one of our amazing partners who take part in our revenue sharing program in which your project can earn up to 50% of the fees Yearn generates.
 
-Xem ngay hàng loạt "nông trại" [tại đây](https://app.pickle.finance/farms).
+Check out the various farms [here](https://app.pickle.finance/farms).
 
-Chi tiết về quan hệ hợp tác [ở liên kết này](https://twitter.com/iearnfinance/status/1367508483952771075) cũng như đăng ký tham gia [tại đây](https://yearnfinance.typeform.com/to/uP7xOJUN).
+View more details about partnerships [here](https://twitter.com/iearnfinance/status/1367508483952771075) and apply [here](https://yearnfinance.typeform.com/to/uP7xOJUN).
 
-## **Cần gì để trở thành một Chiến lược gia**
+## **What It Takes To Be A Strategist**
 
 ![](image6.png)
 
-Hơn 5 triệu đô-la Mỹ đã được dùng trả công cho các chiến lược gia Yearn trong năm 2021. Tại Hội nghị Cộng đồng ETH (EthCC), Facu Ameal chia sẻ kinh nghiệm để trở thành một chiến lược gia giỏi. Các chiến lược, như bạn có thể đã biết, là xương sống của Yearn và mang lại lãi suất tốt nhất mà đỡ-rủi-ro cho tôken của bạn.
+Over $5M has been paid to Yearn strategists in 2021. At EthCC, Facu Ameal broke down what it takes to become a mighty strategist like him. Strategies, as you may know, are the backbone to Yearn and allow you to earn the best risk-adjusted yield on your tokens.
 
-Nhìn chung, Facu thuyết trình về kho bạc (vault), chiến lược, tương tác giữa chúng và cuối cùng là công cụ cũng như quy trình để viết và phát hành chiến lược cho cộng đồng.
+To summarize, Facu goes over the information about vaults and strategies, the interactions between them, and finally, the tools and procedures used to write and release strategies to the general public.
 
-Xem [video tại đây](https://www.youtube.com/watch?v=NVR3teJw0Y0), kèm theo cả một lời mời nhập học "Trường Nội trú" YFI.
+Check the [video](https://www.youtube.com/watch?v=NVR3teJw0Y0), which includes an invite to YFI Boarding School
 
-## **Công bố Kiểm toán An toàn (Audit) cho Yearn V2**
+## **Audits Published For Yearn V2**
 
 ![](image7.png)
 
-Yearn đã liên hệ với Trail&nbsp;of&nbsp;Bits để kiểm toán độ an toàn của Kho bạc (Vault) v2, hợp đồng BaseStrategy (Chiến lược Cơ bản) và BaseWrapper ("Gói" Cơ bản). Các phát hiện đã được đề cập trong sê-ri 0.4.x của hợp đồng, phát hành hồi tháng 05.
+Yearn has connected with Trail of Bits on an audit of the v2 Vault, BaseStrategy and BaseWrapper contracts. The findings of the audit were addressed in the 0.4.x series of the contracts released in May.
 
-Xem biên bản báo cáo [tại đây](https://github.com/trailofbits/publications/blob/master/reviews/YearnV2Vaults.pdf).
+View the report [here](https://github.com/trailofbits/publications/blob/master/reviews/YearnV2Vaults.pdf).
 
-## **Các Kho bạc (Vault) tại Yearn**
+## **Vaults At Yearn**
 
-Bạn có thể xem mô tả chi tiết về các chiến lược cho mọi yVault đang hoạt động của chúng tôi [tại đây](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) (sẽ sớm có bản Tiếng Việt).
+You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-## **Tin tức trong Hệ sinh thái**
+## **Ecosystem News**
 
-[Element Finance phát hành tài sản thứ tư—DAI—dựa trên Yearn để mang lại lãi suất cố định](https://twitter.com/element_fi/status/1417880198033387526)
+[Element Finance launches their fourth asset, DAI, which relies on Yearn for fixed yield](https://twitter.com/element_fi/status/1417880198033387526)
 
-[Facu Ameal trình bày chi tiết cách để trở thành một chiến lược gia ở Yearn](https://youtu.be/NVR3teJw0Y0)
+[Facu Ameal details how to become a strategist at Yearn](https://youtu.be/NVR3teJw0Y0)
 
-[BasketDAO phát hành chỉ số BMI Index mới cấu thành từ các đồng USD bình-giá (stable coin) mang-lãi-suất từ các kho bạc (vault) của Yearn](https://twitter.com/BasketDAOOrg/status/1415505266221535237)
+[BasketDAO launches a new BMI Index composed of interest-bearing USD stablecoins from Yearn vaults](https://twitter.com/BasketDAOOrg/status/1415505266221535237)
 
-[Andre Cronje phát hành Fixed Forex, tận dụng Iron Bank, Yearn, Sushi và Curve để tạo thanh khoản cho thị trường ngoại hối và xuất-nhập tiền pháp định](https://andrecronje.medium.com/fair-launches-decentralized-collaboration-and-fixed-forex-ab327a2e4fc4)
+[Fixed Forex by Andre Cronje leverages Iron Bank, Yearn, Sushi, and Curve to create forex liquidity and fiat ramps](https://andrecronje.medium.com/fair-launches-decentralized-collaboration-and-fixed-forex-ab327a2e4fc4)
 
-[Cập nhật và bổ sung tính năng mới cho trang web yearn.fi](https://twitter.com/dudesahn/status/1417898521685078016)
+[Updates to the yearn.fi website and the new features being added to it](https://twitter.com/dudesahn/status/1417898521685078016)
 
-[Xem bản thu hình Cuộc họp về vấn đề Phát hành Công bằng (Fair Launch Summit), một sự kiện với sự góp mặt của nhiều thành viên Yearn](https://youtu.be/1KqxvJnNRWg)
+[Watch a replay of the Fair Launch Summit, an event which featured multiple members of Yearn](https://youtu.be/1KqxvJnNRWg)
 
-[BadgerDAO tiếp tục phát triển nhiều chiến lược tận dụng Yearn](https://twitter.com/BadgerDAO/status/1420468295388520449)
+[BadgerDAO continues to work on strategies leveraging Yearn](https://twitter.com/BadgerDAO/status/1420468295388520449)
 
-[Đăng ký vào ngay danh sách chờ đón giải pháp Lớp 2 (Layer 2) của Argent để có cơ hội nhận nhiều phần thưởng, trong đó bao gồm $50&nbsp;000 yvDAI](https://twitter.com/argentHQ/status/1422262937423597571)
+[Join Argent's Layer 2 waitlist for prizes including $50,000 of yvDAI](https://twitter.com/argentHQ/status/1422262937423597571)
