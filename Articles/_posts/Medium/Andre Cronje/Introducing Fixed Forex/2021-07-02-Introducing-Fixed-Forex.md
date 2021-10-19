@@ -1,45 +1,43 @@
 ---
 layout: post
-title:  "Fixed Forexの紹介"
+title:  "Introducing Fixed Forex"
 categories: [ Articles ]
 image: ./Introducing-Fixed-Forex/andre-hero.png
 author: Andre
-translator: Cripu
-publish: true
 ---
 
-# Fixed Forexの紹介 (USD, EUR, ZAR, JPY, CNY, etc)
+# Introducing Fixed Forex (USD, EUR, ZAR, JPY, CNY, etc)
 
-**免責事項;**
+**Disclaimer;**
 
-- トークンはありません
-- 監査は完了していません
-- コントラクトは試験的です
+- No token
+- Audit has not been completed
+- Contract is experimental
 
-**主要な機能;**
+**Key features;**
 
-- ガバナンス（もしくはマルチシグ）無し
-- 環境設定無し
-- 手数料無し
-- バリュー展開無し
-- 穏やかな精算
-- チェーン上の流動性に基づいた動的なミントの上限設定
-- チェーン上のプロトコルに基づいたLTVs
+- 0 governance (or multisig)
+- 0 configuration
+- 0 fees
+- 0 value extraction
+- Gentle liquidations
+- Dynamic minting caps based on on-chain liquidity
+- Dynamic LTVs based on on-chain protocols
 
 **Fixed Forex**
 
-Fixed Forexは、不変的・手数料無し・ガバナンス無しの分散型ステーブルコインフレームワークとして設計されています。
+Fixed Forex is designed to be an immutable, 0 fee, 0 governance, decentralized stable coin framework.
 
-LTV(Loan-to-value比率)はCompound、Aave v1、Aave v2、Iron Bankから得られます。これらのシステムが受け入れ可能な証拠金を追加・更新するとFixed Forexも動的に更新されます。
+LTVs (Loan-to-value ratios) are derived from Compound, Aave v1, Aave v2, and Iron Bank. As these systems add or update their accepted collateral, so does Fixed Forex dynamically update.
 
-ミント上限（ユーザーが特定の証拠金に対してどれだけの流動性をミントできるか）はチェーン上の利用可能な流動性から導き出され、チェーン上の流動性が高いほどミント上限も高くなります。
+Minting caps (how much liquidity a user can mint against a given collateral) are derived from available on-chain liquidity, the higher the on-chain liquidity, the higher the minting caps.
 
-Fixed Forexでは穏やかな精算システムを導入しています。ユーザーのポジションをイーブンに戻すための最低限の負債のみが返済され、ドローダウンイベントで全スタックが精算される心配はありません。
+Fixed Forex introduces gentle liquidations, the absolute minimum amount of debt is repaid to bring a users position back to even, no more worrying about the full stack being liquidated during draw down events.
 
-今回のリリースではコントラクトをイーサースキャンで確認することはできませんが、下記にアドレスとABIを掲載していますのでご覧ください。
+For purposes of this release, the contract will not be verified on etherscan, however, you can find the address and ABI below;
 
 [0x92FC8E6EfdF389e2527d14393b15F543f9a03420](https://etherscan.io/address/0x92fc8e6efdf389e2527d14393b15f543f9a03420)
 
 [ABI](https://gist.github.com/andrecronje/4ce11e8603a7f61af4619a86647db1d4)
 
-フルリリースでは、curve.fiのクリプトプールを基にして分散型のFX市場を実現する予定です。
+The full release will be based on curve.fi’s crypto pools, to allow for a decentralized forex market.

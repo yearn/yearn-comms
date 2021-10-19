@@ -4,311 +4,321 @@ title:  "What can you do with YFI?"
 categories: [ Articles ]
 image: ./What-can-you-do-with-YFI/image1.png
 author: Dark Ghosty
-translator: Cripu
-publish: true
 ---
 
-# YFIで出来ることはなんですか？
-この記事では[DeFi](https://www.coindesk.com/what-is-defi)で利回りを得るために、YFIを使って何ができるのか、それぞれの選択肢にどんなリスクがあるのか、得られる利回りはどれくらいかを調べました。
+# What can you do with YFI?
+In this article, we look into what one can do with their YFI to earn yield in [DeFi](https://www.coindesk.com/what-is-defi), what risks are associated with each option, and the approximate yield you could get. 
 
-- APYの表示はすべて2021年4月27日のものです。
-- 負債を負っているすべてのポジションは、YFI価格の30％の下落にも耐えられるよう最大レートの70％での借入を想定しています。
-- これは財務アドバイスではありません。DeFiプロトコルとのインタラクションは**危険**です。ご自身で調査してください。
+- All APY quotes are from April 27th.
+- All positions that take out debt assume borrowing at 70% of the max rate to be able to withstand a 30% reduction in YFI price.
+- This is not financial advice. Interacting with DeFi protocols is **risky**, please do your own research.
 
 ___
 
-## **始める前に、DeFi InsuranceでYFIの保険を検討してみませんか?**
-DeFi保険とその仕組みについて説明します。DeFi保険は特定のプロトコルの資金の重大な損失につながるsolidityコードのバグを *ほとんど* カバーします。しかし、何をカバーし、何をカバーしないかを知るために、各DeFi保険の文書を注意深く読むようにしてください。
+## **Before you start, consider insuring your YFI with DeFi Insurance**
+A note about DeFi insurance and how it works. DeFi insurance *mostly* covers bugs in the solidity code that leads to a material loss of funds for that specific protocol. But be sure to read each Defi insurance documentation carefully to know what they do and don't cover. 
 
-例えば、Yearnのボールトに保険をかけていたものの、MakerDAOのコードにバグがあったためにボールトのCDPが資金を失った人がいるとします。この場合、Yearnにのみ保険をかけていた人は損失を請求することができず、保険金は支払われません。これは損失の原因がyearnのスマートコントラクトのバグではなかったためです。保険の詳細については、私たちの[discord](discord.yearn.finance)の#supportでお気軽にお尋ねください。
+As an example, say someone had insurance for their yearn vault, but there was a bug with MakerDAO's code and the vault's CDP lost some funds because of this. This person having only insurance on Yearn, wouldn't be able to claim any losses and their insurance wouldn't payout in this case. This is because it was not a bug in yearn's smart contracts that caused the loss. For more info on insurance feel free to ask in our [discord](discord.yearn.finance) in #support.
 
-### **DeFiをカバーするプロバイダー**
-- [Nexus Mutual](https://app.nexusmutual.io/#/SmartContractCover)
-    - [資料](https://nexusmutual.gitbook.io/docs/)
+### **DeFi Coverage Providers**
+- [Nexus Mutual](https://app.nexusmutual.io/#/SmartContractCover) 
+    - [Documentation](https://nexusmutual.gitbook.io/docs/)
 - [Cover Protocol](https://app.coverprotocol.com/)
-    - [資料](https://docs.coverprotocol.com/)
+    - [Documentation](https://docs.coverprotocol.com/)
 
 ___
 
-## ***直接入金***
-この章ではYFIを単体で利用する方法について説明します。分散型取引所の[Automated Market Maker (AMM)](https://www.gemini.com/cryptopedia/amm-what-are-automated-market-makers)に流動性を提供するなど、他の方法で利回りを得るにはYFIと他のトークンをペアにする必要があり、YFIへの完全なエクスポージャーが損なわれる可能性があります。これはリスクがないということではなく、[価格変動リスク(IL)](https://www.gemini.com/cryptopedia/decentralized-finance-impermanent-loss-defi)と呼ばれるものに対処しなくて済むということです。*スマートコントラクトで資金を持つことは、常に何らかのリスクを伴います*。
+## ***Direct Deposit***
+This section addresses ways that you can make use of your YFI by itself. Alternative methods of generating yield, like providing liquidity to a decentralized exchange's [automated market maker (AMM)](https://www.gemini.com/cryptopedia/amm-what-are-automated-market-makers) may require you to pair your YFI with another token which could compromise your full exposure to YFI. This isn't to say that it is risk-free, but that you won't have to deal with what is referred to as [impermanent loss (IL)](https://www.gemini.com/cryptopedia/decentralized-finance-impermanent-loss-defi). *Having funds in smart contracts always carries some risk.*
 
 ### Yearn: v2 YFI yVault
-Yearn FinanceのYFI v2 yVaultにYFIを預けると、最適な場所で利回りを稼いでいる間ゆっくりとくつろぐことができます。この記事を書いている時点では、yVaultはCDPをオープンしミントされたDAIを使ってファームを行っています。また、yVaultはYFIをCREAMやAAVEに貸し出してより多くの利回りを得ています。
+The Yearn Finance YFI v2 yVault lets you deposit YFI and sit back and relax while it earns yield for you at the optimal places to do so. At the time of writing the vault currently opens a CDP and uses the DAI minted to farm with. Also, the yVault lends out YFI to CREAM and AAVE for more yield. 
 
-#### サイト
-- [Yearn.Finance](https://yearn.finance/vaults/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1)
+#### Site
+- [Yearn.Finance](https://yearn.finance/vaults/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1) 
 
-#### ツール
-- [Yearn Hub](https://yearn-hub.vercel.app/vault/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1): このリンク先にはボールトの中の資金がどのストラテジーにどれだけ割り当てられているかが記載されています。
-- [Yearnのボールト](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3): ここではyvYFI v2ボールトの各ストラテジーが何をしているかを見ることができます。
-- [Yearn Vision](yearn.vision): ボールトの統計情報を表示するダッシュボードです。
-- [v2 YFI yVaultへのザップイン](https://zapper.fi/invest?protocol=yearn&contractAddress=0xe14d13d8b3b85af791b2aadd661cdbd5e6097db1&modal=invest)
+#### Tools
+- [Yearn Hub](https://yearn-hub.vercel.app/vault/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1): This link will show how much of the funds in the vault are allocated to which strategies.
+- [Vaults at Yearn](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3): Here you can see what each strategy in the yvYFI v2 vault does. 
+- [Yearn Vision](yearn.vision): Dashboards for vault statistics.
+- [Zap into v2 YFI yVault](https://zapper.fi/invest?protocol=yearn&contractAddress=0xe14d13d8b3b85af791b2aadd661cdbd5e6097db1&modal=invest)
 
-#### リスク
-現在、このボールトに関連するリスクはyearnのボールトのコントラクト（[audited](https://github.com/yearn/yearn-security/tree/master/audits)）のスマートコントラクトリスク、MakerDAOのCDPのリスク、そしてYFIをCREAMとAAVEに貸し出して利回りを高めるストラテジーに依存する両プラットフォームのスマートコントラクトのリスクがあります。ボールトはCDPを監視し続けており、[Health ratio](https://medium.com/iearn/delegated-vaults-explained-fa81f1c3fce2)を3に保っています。これは、DAIでミントできる最大値の1/3だけをミントし、そのDAIを使ってファームを行うことを意味します。
+#### Risks
+Currently, the risks associated with this vault are smart contract risk for yearn's vault contracts (which are [audited](https://github.com/yearn/yearn-security/tree/master/audits)), MakerDAO CDP risks, and since a strategy lends out YFI to CREAM and AAVE for extra yield, and smart contract risk for both platforms as well. The vault has monitoring of its CDP and keeps a [health ratio](https://medium.com/iearn/delegated-vaults-explained-fa81f1c3fce2) of 3 which means it will only mint 1/3 of the max available for minting in DAI then use that DAI to farm with.
 
-#### 保険
-この記事を書いている時点では、YFI v2ボールトに完全に保険をかけるためにはYearn、MakerDAO、AAVE、CREAMのカバーが必要です。また、リスクが高いと思われるプロトコルのみをカバーするようにカバーするプロトコルを選択して購入することもできます。このyVaultが保険のためにどのプロトコルと相互作用するかは[yearn hub](https://yearn-hub.vercel.app/vault/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1)で見ることができます。
+#### Insurance 
+At the time of writing to be fully insured in the YFI v2 vault, you would need coverage for Yearn, MakerDAO, AAVE, and CREAM. You can be selective about which coverage to purchase and only pay for cover of the protocols you believe to be risky. You can see which protocols this yVault interacts with for insurance at [yearn hub](https://yearn-hub.vercel.app/vault/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1).
 
 #### APY
-APY: 2.866%
-計算: 先月のネット、年率換算。
-ソース: [vaults.finance: yearn v2 API](https://vaults.finance/all)
-参考: APYは一時的に24%のピークをつけた
+APY: 2.866% 
+Calculation: Last month net, annualized.
+Source: [vaults.finance: yearn v2 API](https://vaults.finance/all)
+Sidenote: APY peaked for a time to 24%
 
-このボールトはyearnチームによる最新のYFIボールトであり、最近のBDP*のファーミングのように、ファームが安全であればより良いYFIファームに飛び込んで迅速に動けることを証明しています。
-*BDP : Big Data Protocolの略。
+This vault is the most up-to-date YFI vault from the yearn team and has proven that it can move quickly to jump into upcoming YFI farms for better yield if they are safe to be farmed, as they recently did with farming BDP: Big Data Protocol. 
 
-- [Yearn.Finance: YFI Vault](https://yearn.finance/vaults/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1): Yearnのボールトページでは、計算式に基づいてWeeklyまたはMonthlyのAPYが表示されています。 
+- [Yearn.Finance: YFI Vault](https://yearn.finance/vaults/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1): Yearn's vault page shows Weekly or Monthly APY based on a formula.  
 
 ___
 
-## ***直接入金, 価格変動損失(IL)の可能性有り***
-イールドジェレネーション技術の中には、IL(価格変動損失)のリスクを完全に取り除くことはできないものの軽減するように設計されているものもあります。その一例がBancorプロトコルへの流動性の提供です。資金が100日以上BancorにステークされILにさらされた場合、引き出し時に失った価値に相当するBNTが補助されます（ユーザーは自由にYFIに変換して戻すことができます）。つまり、実際にはBancorで100日以上ステークすればILを気にする必要はありません。
+## ***Direct Deposit, possible IL***
+Some yield-generating techniques are designed to reduce the risk of IL, but not remove it entirely. An example of this is providing liquidity to the Bancor protocol. If funds are kept in Bancor for over 100 days, and they were exposed to IL, they would be subsidized with BNT at the time of withdrawal for the equivalent amount of value lost (which the user is free to convert back to YFI). In practice, this means that you don't have to worry about IL if you stake more than 100 days with Bancor.
 
-### Bancor: YFI/BNT 片面保護プール
-BancorはSushiswapやUniswapのようなAMMですが、Bancor v2.1でロールアウトされているという1つの重要な違いがあります。Bancor v2.1では *もし* プールに100日以上滞在した場合、ILプロテクションが適用されます。この保護は30日から始まり、100日を超えると完全に保護されます。現在、YFIプールのインセンティブ付き報酬は停止していますが、これを復活させるための[proposal](https://gov.bancor.network/t/proposal-re-enable-lm-rewards-on-yfi/1838)があり、これが承認されればこのYFIプールの利回りが向上します。
+### Bancor: YFI/BNT Single-Sided Protected Pool
 
-#### サイト
-[Bancor YFIプール](https://app.bancor.network/eth/portfolio/stake/add/single/0xAeB3a1AeD77b5D6e3feBA0055d79176532e5cEb8)
+Bancor is an AMM like Sushiswap and Uniswap, but with one key difference which was rolled out in Bancor v2.1. Bancor now has IL protection *if* you stay in the pool for longer than 100 days. This protection starts at 30 days and scales to full protection over 100 days. Currently, incentivized rewards for the YFI pool have stopped, but there is a [proposal](https://gov.bancor.network/t/proposal-re-enable-lm-rewards-on-yfi/1838) to bring them back, and if it gets approved it will mean higher yields on this YFI pool.
 
-#### ツール
-- [CeazorのBancorガイド v2.1: YFI/BNT Single-Sided Protected Pool](https://youtu.be/LhLMhizDNwE?t=23)
-- [Bancor資料](https://docs.bancor.network/)
-- [Bancor Duneダッシュボード](https://duneanalytics.com/Bancor/bancor_1)
+
+#### Site
+
+[Bancor YFI Pool](https://app.bancor.network/eth/portfolio/stake/add/single/0xAeB3a1AeD77b5D6e3feBA0055d79176532e5cEb8)
+
+#### Tools
+
+- [Ceazor's Guide to Bancor v2.1: YFI/BNT Single-Sided Protected Pool](https://youtu.be/LhLMhizDNwE?t=23)
+- [Bancor Documentation](https://docs.bancor.network/)
+- [Bancor Dune dashboard](https://duneanalytics.com/Bancor/bancor_1)
 - [Bancor v2.1 Staking for (DeFi) Dummies](https://blog.bancor.network/bancor-v2-1-staking-for-defi-dummies-f104a6a8281e)
-- [YFI/BNTの片面保護プールにザップイン](https://zapper.fi/invest?protocol=bancor&contractAddress=0x555981b82743aa443cb1c3002c85ba9d795d4596&modal=legacy-invest)
+- [Zap into YFI/BNT Single-Sided Protected Pool](https://zapper.fi/invest?protocol=bancor&contractAddress=0x555981b82743aa443cb1c3002c85ba9d795d4596&modal=legacy-invest)
 
-#### リスク
-Bancorのスマートコントラクトのリスクと[bancor v2.1モデル](https://blog.bancor.network/proposing-bancor-v2-1-single-sided-amm-with-elastic-bnt-supply-bcac9fe655b)の信頼性リスクがあります。Bancorは[監査](https://docs.bancor.network/ethereum-contracts/security)を受けています。
+#### Risks
 
-##### 保険
-DeFi保険の場合、スマートコントラクトのバグで資金が失われた場合はBancorに保険をかけるだけでフルカバーとなります。 
+Bancor smart contract risk and trusting the [bancor v2.1 model](https://blog.bancor.network/proposing-bancor-v2-1-single-sided-amm-with-elastic-bnt-supply-bcac9fe655b). Bancor is [audited](https://docs.bancor.network/ethereum-contracts/security).
+
+##### Insurance 
+
+For DeFi insurance, you would only need to insure Bancor to have full coverage in case of a smart contract bug that led to the loss of funds.  
 
 #### APY
-APY: 3.7%
-計算: 先月のネット、年率換算。
-ソース: Bancorチーム
 
-- [YFIプールAPY](https://duneanalytics.com/queries/30793/62118)。YFIだけになるまで、各プールをシングルクリックします。そのプールのAPY統計が表示されます。
+APY: 3.7% 
+Calculation: Last month, annualized.
+Source: Bancor Team
+
+- [YFI Pool APY](https://duneanalytics.com/queries/30793/62118): Single click on each pool until only YFI is left. This will show APY stats for the pool. 
 
 ___
 
-## ***[担保付債務ポジション](https://defipulse.com/blog/what-is-a-cdp)***
-CDPベースのプロトコルでは、より少ない枚数のプロトコルが発行するトークン（通常はステーブルコイン）と引き換えにYFIを入金することができます。そして発行されたトークンを使ってファームを行い、利回りを得ることができます。この方法は他の方法に比べて時間がかかり、清算率を超えていないかどうかをCDPで常に監視する必要があります。また、ミントされたステーブルコインを使って他の場所でイールドを見つけ、それも管理する必要があります。
+## ***[Collateralized Debt Position](https://defipulse.com/blog/what-is-a-cdp)***
 
-この章では担保率をパーセントで表しています。これは、Unit Protocolのケースのように担保比率が69%の場合、ステーブルコインをミントするために預けたあなたのYFIの価格が1000ドル相当であれば、ステーブルコインをミントできる最大値は690ドルとなるということです。これはあなたが借りられる*最大*であり、この比率を超えてしまうと清算されることに注意してください -- そうならないように、この比率よりはるかに低い金額を借りることをお勧めします。
+CDP-based protocols allow you to deposit your YFI in exchange for a lesser amount of the protocol-issued token, which is usually a stablecoin. You can then use the issued token to farm and generate yield. Using this method is more time-intensive than the others and requires constant monitoring of the CDP to make sure you're above the liquidation ratio. Also, it requires you to use the stablecoins minted to find yield elsewhere and manage that as well. 
+
+In this section, we use collateral ratio which is a percent. What this means is if the collateral ratio is 69%, like in Unit Protocol's case, then if the price of your YFI deposited for minting stablecoins is worth $1000, the max you will be able to mint in their stablecoin is $690. Note that this is the *MAX* you can borrow and if it goes above this ratio you will get liquidated -- we suggest you borrow far below this so that doesn't happen to you. 
+
 
 ### MakerDAO
-MakerDAOは、自分の暗号通貨でローンを組むための最も古く最も長く続いているDappです。MakerDAOでYFIを使ってDAIステーブルコインをミントし、そのDAIを使ってイールドファームを行うことができます。
+MakerDAO is the oldest and longest-running Dapp for taking a loan out with your cryptocurrency. You can use your YFI at MakerDAO to mint DAI stablecoin and then use that DAI to yield farm with. 
 
-#### サイト
+#### Site
 - [Oasis.app](https://oasis.app/borrow)
 
-#### ツール
-- [DeFiSaver](https://app.defisaver.com/): CDPヘルスレシオの管理を支援
+#### Tools
+- [DeFiSaver](https://app.defisaver.com/): help manage your CDP health ratio
 
-#### リスク
-CDPが担保率57%以上になった場合の清算リスク、Makerdaoのスマートコントラクトの障害、オラクルの障害、DAIを預けたり貸し出したりするプロトコルのスマートコントラクトの障害。
+#### Risks
+Risk of liquidation if your CDP goes above a collateral ratio of 57%, smart contract failure for Makerdao, oracle failure, and smart contract failure of the protocol where you deposit or lend out your DAI.
 
-#### 保険
-DeFiの保険の場合、スマートコントラクトのバグによって資金が失われた場合に完全にカバーするためには、MakerDAOと、DAIステーブルコインの貸出先、入金先のプロトコルにも保険をかける必要があります。
+#### Insurance 
+For DeFi insurance, you would need to insure MakerDAO and also the protocol where you lend out or deposit your DAI stablecoins to in order to have full coverage in case of a smart contract bug that led to the loss of funds.
 
 #### APY
 APY: -5.5% + (21.07% * 0.44) = 3.7708%
-計算: Daiの手数料 - (ステーブルコインのイールドファームのAPY(v2 crvIB yVaultにザップイン) * 安全にミントすることのできるDAIの%)
-追記: DAIを借りるためには、MakerDAOに5.5%の年会費を支払う必要があります。これは一例ですが、どこでもイールドファームをすることができます。
-ソース: [Oasis App Borrow - Select collateral type YFI-A](https://oasis.app/borrow)
+Calculation: Dai Fee - (Stablecoin Yield Farm APY (Zap to v2 crvIB yVault) * % of DAI you can mint and be safe). 
+Sidenote: For borrowing DAI you need to pay a 5.5% annual fee to MakerDAO. This is an example but you could yield farm anywhere.
+Source: [Oasis App Borrow - Select collateral type YFI-A](https://oasis.app/borrow)
 
 ### Unit Protocol
-Unit ProtocolはMakerDAOに似たCDPプラットフォームです。ただし、このプラットフォームではDAIの代わりにUSDPステーブルコインをミントすることができます。Unitでは担保率が69%とMakerDAOよりも高く、監査も受けていますが新しいプラットフォームでもあります。
+Unit Protocol is a CDP platform similar to MakerDAO, except this one, lets you mint USDP stablecoin instead of DAI. With Unit, they have a collateral ratio of 69% which is higher than MakerDAO and they have been audited, but they are a newer platform.
 
-#### サイト
+#### Site
 - [Unit Protocol](https://unit.xyz/)
 
-#### ツール
-- [資料](https://docs.unit.xyz/)
-- [Ceazorのビデオチュートリアル](https://youtu.be/zlFBeoTHJUs?t=33)
+#### Tools
+- [Documentation](https://docs.unit.xyz/)
+- [Ceazor Video Tutorial](https://youtu.be/zlFBeoTHJUs?t=33)
 
-#### リスク
-担保率が69%を超えると清算されるリスク、Unit Protocolのスマートコントラクトの障害、オラクルの障害、USDPの貸出先や入金先のスマートコントラクトの障害があります。Unit Protocolの監査は[こちら](https://github.com/unitprotocol/protocol_docs)からご覧いただけます。
+#### Risks
+Risk of liquidation if the collateral ratio exceeds 69%, smart contract failure for Unit Protocol, oracle failure, and smart contract failure for where you lend or deposit your USDP to. You can find their audits [here](https://github.com/unitprotocol/protocol_docs).
 
-#### 保険
-DeFi保険の場合、スマートコントラクトのバグによって資金が失われた場合に完全にカバーするためには、Unit ProtocolやUSDPステーブルコインの貸出先、入金先のプロトコルにも保険をかける必要があります。
+#### Insurance 
+For DeFi insurance, you would need to insure Unit Protocol and wherever you lend out your USDP stablecoins to in order to have full coverage in case of a smart contract bug that led to the loss of funds.
 
 #### APY
 APY: -5.5% + (21.07% * 0.53)  = 5.67%
-計算: Unitの年間手数料5.5% + ([v2 crvIB yVault](https://yearn.finance/vaults/0x27b7b1ad7288079A66d12350c828D3C00A6F07d7)を使った利回り * 安全にミントすることのできるUSDPの%)
-追記: 例としてYearnのUSDPボールトを利用しましたが、より高い利回りのファームを見つけた場合にはどこでも使用することができます。
-ソース: [Unit Protocol](https://unit.xyz/asset/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e)
+Calculation: 5.5 annual fee from unit + (yield from using the [v2 crvIB yVault](https://yearn.finance/vaults/0x27b7b1ad7288079A66d12350c828D3C00A6F07d7) * % of USDP you can mint and be safe). 
+Sidenote: You can use your USDP anywhere if you find a higher yield, we use the USDP vault at Yearn as an example.
+Source: [Unit Protocol](https://unit.xyz/asset/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e)
 
 ___
 
-## ***借入 & 貸出***
-この章では、YFIを貸し出したり、YFIを担保にしてステーブルコインや他のトークンを借りてファームしたりできるプラットフォームを紹介します。これはCDPのポジションを持つのとは異なり、ステーブルコインを年間固定レートでミントすることができますが、貸し借りは通常可変レートです。このカテゴリーでは、借りたステーブルコインをどこに貸すかだけでなく、貸し借りのレートやプールの利用率なども気にしなければなりません。あなたがYFIを貸しているYFIプールが完全に利用されている場合、つまり貸し出されたYFIをすべて借りている人がいる場合は、プール内の流動性に余裕ができるまで引き出しを待つことになります。
+## ***Lending & Borrowing***
+
+
+In this section, we cover the platforms that allow you to lend out your YFI, or to use your YFI as collateral to borrow stablecoins, or other tokens, which you can then use to farm with. This differs from opening a CDP which lets you mint stablecoins at a fixed yearly rate whereas lending and borrowing are usually variable rate. In this category, you have to not only worry about where to lend out the stablecoins you borrow but also both the borrow and lending rates as well as the utilization rate of the pool. If the YFI pool you are lending your YFI to is fully utilized, meaning people are borrowing every YFI that was lent, then you will have to wait to withdrawal until there is free liquidity in the pool to do so. 
 
 ### Cream Finance
-Cream.Financeは分散型レンディングプロトコルです。YFIを担保にステーブルコインを最大50％まで借りることができます。
+Cream.Finance is a decentralized lending protocol. You can borrow stablecoins against your YFI for up to 50% of your total collateral. 
 
-#### サイト
+#### Site
 - [Cream.Finance](https://app.cream.finance)
 
-#### ツール
-- [Cream資料](https://docs.cream.finance/)
-- [Ceazorのビデオチュートリアル: Getting Paid to Lend while Borrowing](https://youtu.be/AJx_TH3CMZc?t=598)
+#### Tools
+- [Cream Documentation](https://docs.cream.finance/)
+- [Ceazor Video Tutorial: Getting Paid to Lend while Borrowing](https://youtu.be/AJx_TH3CMZc?t=598)
 
-#### リスク
-担保率50％を超えると清算されるリスク、クリームファイナンスのスマートコントラクトの障害、オラクルの障害、ステーブルコインの貸出先や入金先のスマートコントラクトの障害などがあります。また、イールドファームのAPYが借入のAPYを上回っているかどうかを手動で確認しないと損をします。Cream.Financeの監査は[こちら](https://docs.cream.finance/audit-report)で確認できます。
+#### Risks
+Risk of liquidation if you go over 50% collateral ratio, smart contract failure for Cream Finance, oracle failure, and smart contract failure for where you lend or deposit your stablecoins to. Also, you need to manually check that the APY on your yield farm exceeds that of your borrowing APY or you will lose money. You can find their audit [here](https://docs.cream.finance/audit-report).
 
-#### 保険
-DeFi保険の場合、スマートコントラクトのバグで資金が失われた場合に完全にカバーするためには、Cream Financeと、ステーブルコインを貸し出す先にも保険をかける必要があります。
+#### Insurance 
+For DeFi insurance, you would need to insure Cream Finance and wherever you lend out your stablecoins to in order to have full coverage in case of a smart contract bug that led to the loss of funds.
 
 #### APY
-APY: 0.27% - 18.81% + (60.30% * 0.39) = 4.977%
-計算: 供給APY (YFI) - 借入APY (USDC) + (ステーブルコインのイールドファームのAPY (v1 crvEURS yVaultにザップイン) * 安全にミントすることのできるステーブルコインの%)。
-追記: これは一例であり、どこでもイールドファームをすることができます。
-ソース: [Cream](https://app.cream.finance) と [Yearn](https://yearn.finance/vaults/0x98B058b2CBacF5E99bC7012DF757ea7CFEbd35BC) の利回り。
+APY: 0.27% - 18.81% + (60.30% * .39) = 4.977%
+Calculation: Supply APY (YFI) - Borrow APY (USDC) + (Stablecoin Yield Farm APY (Zap to v1 crvEURS yVault) * % of stablecoin you can borrow and be safe). 
+Sidenote: This is an example but you could yield farm anywhere.
+Source: [Cream](https://app.cream.finance) and [Yearn](https://yearn.finance/vaults/0x98B058b2CBacF5E99bC7012DF757ea7CFEbd35BC) Yields.
 
 ### Iron Bank
-Iron BankはCream v1と似ていますが、リストする資産をより厳選しておりAlpha Homora v2やYearn Financeのようなホワイトリストに載っているプロトコルであれば、ほとんど担保なしで資金を借りられるようになっています。少ない担保で借りられるため、 Iron Bankの稼働率はCREAMやAAVEよりも高い傾向にあります。
+The Iron Bank is just like Cream v1, but they are more selective of the assets they list and they let white-listed protocols borrow funds with little or no collateral such as Alpha Homora v2 and Yearn Finance. Because protocols can borrow with little collateral, utilization rates in Iron Bank tend to be higher than at CREAM or AAVE. 
 
-#### サイト
-- [Iron Bank](https://beta.yearn.finance/#/ironbank)
+#### Site
+- [Iron Bank](https://v1.yearn.finance/lending)
 
-#### ツール
-- [Iron Bank資料](https://docs.cream.finance/iron-bank/collateral-and-reserve-factor)
+#### Tools
+- [Iron Bank Documentation](https://docs.cream.finance/iron-bank/collateral-and-reserve-factor)
 
-#### リスク
-公表されている担保率を超えると清算されるリスク、Iron Bankのスマートコントラクトの障害、オラクルの障害、借りたステーブルコインの貸出先のスマートコントラクトの障害などがあります。Iron Bankの監査は[こちら](https://github.com/trailofbits/publications/blob/master/reviews/CREAMSummary.pdf)からご覧いただけます。
+#### Risks
+Risk of liquidation if you go over the posted collateral ratio, smart contract failure for Iron Bank, oracle failure, and smart contract failure for where you lend your borrowed stablecoins out to. You can find their audit [here](https://github.com/trailofbits/publications/blob/master/reviews/CREAMSummary.pdf).
 
-#### 保険
-DeFi保険の場合、スマートコントラクトのバグで資金が失われた場合に完全にカバーするためには、Iron Bankと、ステーブルコインを貸し出す先にも保険をかける必要があります。
+#### Insurance 
+For DeFi insurance, you would need to insure Ironbank and wherever you lend out your stablecoins to, to have full coverage in case of a smart contract bug that led to the loss of funds.
 
 #### APY
-APY:
-計算:
-ソース:
-追記: 現在、IronbankではYFIを担保にした借り入れはできませんが、将来的には変更される可能性があります。
+APY: 
+Calculation: 
+Source: 
+Note: Currently you cannot borrow against your YFI on Ironbank but this could change in the future.
 
 ### AAVE
-AAVEでもYFIでローンを組むことができます。AAVEでは他のコインを最大40％まで借りることができます。AAVEではステーブルコインを借りるために固定金利と変動金利がありますが、MakerDAOやUnitでは常に5.5%です。AAVEでステーブルコインを借りる場合はより安いレートで借りられる可能性がありますが、ここでローンを組む際には担保のレベルと借入レートの両方が変動金利かどうかに注意する必要があります。
+AAVE is another place where you can take a loan out on your YFI. You can borrow up to 40% in other coins at AAVE. AAVE has both fixed and variable rates for borrowing stablecoins, whereas at MakerDAO and Unit it is always 5.5%. It is possible to get a cheaper rate at AAVE for borrowing stables but you need to watch both your collateral levels and the borrowing rate if it is not variable when taking a loan out here.
 
-#### サイト
+#### Site
 - [AAVE](https://app.aave.com/)
 
 #### Tools
-- [Ceazorのビデオチュートリアル: AAVE v2](https://youtu.be/eMP_uIwniHc?t=46)
-- [Ceazorのビデオチュートリアル: Getting Paid to Lend while Borrowing](https://youtu.be/AJx_TH3CMZc?t=407)
+- [Ceazor Video Tutorial: AAVE v2](https://youtu.be/eMP_uIwniHc?t=46)
+- [Ceazor Video Tutorial: Getting Paid to Lend while Borrowing](https://youtu.be/AJx_TH3CMZc?t=407) 
 
-#### リスク
-担保率40％を超えると清算されるリスク、AAVEのスマートコントラクトの障害、オラクルの障害（Chainlinkを使用）、ステーブルコインの貸し出し先のスマートコントラクトの障害などがあります。AABEの監査は[こちら](https://docs.aave.com/developers/security-and-audits)からご覧いただけます。
+#### Risks
+Risk of liquidation if you go over 40% collateral ratio, smart contract failure for AAVE, oracle failure (uses Chainlink), and smart contract failure for where you lend your stablecoins out to. You can find their audits [here](https://docs.aave.com/developers/security-and-audits).
 
-#### 保険
-DeFi保険の場合、スマートコントラクトのバグで資金が失われた場合に完全にカバーするためには、AAVEと、ステーブルコインを貸し出す先にも保険をかける必要があります。
+#### Insurance 
+For DeFi insurance, you would need to insure AAVE and wherever you lend out your stablecoins to, to have full coverage in case of a smart contract bug that led to the loss of funds.
 
 #### APY
-APY: 0.11% - 3.98% + (60.30% * 0.31) = 14.83%
-計算: 供給APY (YFI) - 貸出APY (TUSD) + (ステーブルコインのイールドファームのAPY (v1 crvEURS yVaultにザップイン) * 安全に借りることのできるステーブルコインの%)
-追記: これは一例です。あなたが選んだどのイールドファームでも選んだステーブルコインを使うことができます。
-ソース: [AAVE - YFI](https://app.aave.com/deposit/YFI-0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e0xb53c1a33016b2dc2ff3653530bff1848a515c8c5)
+APY: 0.11% - 3.98% + (60.30% * .31) = 14.83%
+Calculation: Supply APY (YFI) - Borrow APY (TUSD) + (Stablecoin Yield Farm APY (Zap to v1 crvEURS yVault) * % of stablecoin you can borrow and be safe)
+Sidenote: This is just an example. You can borrow any stablecoin and use it at the yield farm of your choice. 
+Source: [AAVE - YFI](https://app.aave.com/deposit/YFI-0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e0xb53c1a33016b2dc2ff3653530bff1848a515c8c5)
 
 ___
 
-## ***流動性提供***
-このセクションでは、価格変動損失にさらされるストラテジーについて説明します。また、AMMプールの両サイドに流動性を提供する必要があります。**YFIをステークする場合は、同額のETHも追加する必要があります。**
+## ***Liquidity Providing***
+
+This section discusses strategies that expose you to impermanent loss, and you also have to provide liquidity to both sides of the AMM pool. **If you want to stake YFI, you will also have to add an equal $ amount of ETH as well.**
 
 ### Sushiswap YFI/WETH Pool
-SushiswapはプールにSUSHIの報酬が補助されているため、一般的にはUniswapよりも利回りが高いAMMです。
+Sushiswap is an AMM which generally has higher yields than Uniswap as its pools are subsidized with SUSHI rewards. 
 
-#### サイト
+#### Site
 - [Sushiswap](https://app.sushi.com/yield)
-#### ツール
-- [YFI Sushi プール](https://analytics.sushi.com/tokens/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e)
-- [apy.vision YFI/ETH Sushi　プール](https://app.apy.vision/pools/sushiswap_eth-YFI-WETH-pool-0x088ee5007c98a9677165d78dd2109ae4a3d04d0c)
-- [Sushiswap YFI/WETH　プールにザップイン](https://zapper.fi/invest?protocol=sushiswap&contractAddress=0x088ee5007c98a9677165d78dd2109ae4a3d04d0c&modal=invest)
+#### Tools
+- [YFI Sushi pools](https://analytics.sushi.com/tokens/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e)
+- [apy.vision YFI/ETH Sushi Pool](https://apy.vision/#/pools/0x088ee5007c98a9677165d78dd2109ae4a3d04d0c)
+- [Zap into Sushiswap YFI/WETH Pool](https://zapper.fi/invest?protocol=sushiswap&contractAddress=0x088ee5007c98a9677165d78dd2109ae4a3d04d0c&modal=invest)
 
-#### リスク
-価格変動損失リスク、Sushiswapのスマートコントラクトリスクがあります。
+#### Risks
+Impermanent Loss, smart contract risk for Sushiswap. 
 
-#### 保険
-DeFi保険の場合、スマートコントラクトのバグで資金が失われた場合はSushiswapに保険をかけるだけでフルカバーとなります。 
+#### Insurance 
+For DeFi insurance, you would only need to insure Sushiswap to have full coverage in case of a smart contract bug that led to the loss of funds.
 
 #### APY
 APY: 39.08%
-計算: YFI/WETH sushi SLPトークンの年間APY
-ソース: [Sushiswap Yield](https://app.sushi.com/yield)
+Calculation: Yearly APY from staking your YFI/WETH sushi SLP token at sushi.
+Source: [Sushiswap Yield](https://app.sushi.com/yield)
 
 ### Uniswap v2 YFI/WETH Pool
-一般的にUniswap、Bancor、SushiswapのようなAMMでは、流動性プロバイダーの手数料が高くなるため最もボリュームのあるプールに入りたいと考えます。平均してSushiswapはUniswapよりも流動性が高いため一般的にはSushiswapに流動性提供をするのがおすすめですが、UniswapもSushiswapよりも利回りが良い場合があります。
+Generally on AMM's such as Uniswap, Bancor, and Sushiswap you want to be in the pool with the most volume as that means more fees for liquidity providers. On average Sushiswap has more liquidity than Uniswap so generally, it would be better to LP there, but Uniswap could have better yields than Sushiswap.
 
-#### サイト
+#### Site
 - [Uniswap YFI/WETH Pool](https://app.uniswap.org/#/add/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e)
 
-#### ツール
+#### Tools
 - [Zapper Uni YFI/WETH](https://zapper.fi/invest?protocol=uniswapV2&contractAddress=0x2fdbadf3c4d5a8666bc06645b8358ab803996e28&modal=invest)
-- [YFI/WETHペアの価格変動損失計算](https://app.sommelier.finance/pair?id=0x2fdbadf3c4d5a8666bc06645b8358ab803996e28&timeWindow=total): このプールでLPを開始した場合にどれだけ得もしくは損をするのかが表示されます。
+- [IL Calculator for YFI/WETH Pair](https://app.sommelier.finance/pair?id=0x2fdbadf3c4d5a8666bc06645b8358ab803996e28&timeWindow=total): This can help show how much you will gain or lose if you started to LP in this pool at a certain date.
 - [Uniswap Analytics YFI/WETH](https://info.uniswap.org/pair/0x2fdbadf3c4d5a8666bc06645b8358ab803996e28)
-- [Apy.vision YFI/WETH](https://app.apy.vision/pools/uniswap_eth-YFI-WETH-pool-0x2fdbadf3c4d5a8666bc06645b8358ab803996e28)
-- [Uniswap v2 YFI/WETH プールにザップイン](https://zapper.fi/invest?protocol=uniswapV2&contractAddress=0x2fdbadf3c4d5a8666bc06645b8358ab803996e28&modal=invest)
+- [Apy.vision YFI/WETH](https://apy.vision/#/pools/0x2fdbadf3c4d5a8666bc06645b8358ab803996e28)
+- [Zap into Uniswap v2 YFI/WETH Pool](https://zapper.fi/invest?protocol=uniswapV2&contractAddress=0x2fdbadf3c4d5a8666bc06645b8358ab803996e28&modal=invest)
 
-#### リスク
-価格変動損失リスクとスマートコントラクトリスクはUniswapで流動性を提供する際に注意しなければならない事項です。
+#### Risks
+Impermanent loss and smart contract risk are the concerns to be aware of when providing liquidity at Uniswap.
 
-#### 保険
-DeFi保険の場合、スマートコントラクトのバグで資金が失われた場合はUniswapに保険をかけるだけでフルカバーとなります。 
+#### Insurance 
+For DeFi insurance, you would only need to insure Uniswap to have full coverage in case of a smart contract bug that led to the loss of funds.
 
 #### APY
 APY: 20.79%
-計算: ILを差し引いた直近30日間の年率換算。
-ソース: [apy.vision](https://app.apy.vision/pools/uniswap_eth-YFI-WETH-pool-0x2fdbadf3c4d5a8666bc06645b8358ab803996e28)
+Calculation: Last 30 days annualized after subtracting IL.
+Source: [apy.vision](https://apy.vision/#/pools/0x2fdbadf3c4d5a8666bc06645b8358ab803996e28)
 
 ### Pickle.Finance pSUSHI YFI/WETH jar
-PickleはYearnのボールトのような（jarsと呼ばれる）もので、SUSHI YFI/WETHプールからSUSHIの報酬を自動合成します。またステーキングも同時にするとPICKLEを追加報酬として受け取ることができます。
+Pickle is a type of vault-like Yearn's (called jars) that will let you auto-compound your SUSHI rewards from the SUSHI YFI/WETH pool and they also give you PICKLE as extra rewards for staking with them.
 
-Pickle.Financeに入金するには、SLP(Sushiswap LP token)をPickle jar[こちら](https://app.pickle.finance/jars)にステークし、それをPickle.Financeのファーム[こちら](https://app.pickle.finance/farms)に入金する必要があります。また、PICKLEをDILLにロックすることで、ファームで獲得したPICKLEの報酬を最大2.5倍にすることができます。
+To deposit with Pickle.Finance you need to stake your SLP (Sushiswap LP token) into their pickle jar [here](https://app.pickle.finance/jars) and then deposit it into their farm [here](https://app.pickle.finance/farms). You can now also lock PICKLE for DILL, boosting your PICKLE rewards earned in the farm by up to 2.5x.
 
-#### サイト
+#### Site
 - [Pickle.Finance Farm](https://app.pickle.finance/farms)
 - [Pickle.Finance Jar](https://app.pickle.finance/jars)
 
-#### ツール
-- [Dillブースト計算](https://app.pickle.finance/dill)
-- [Ceazorのチュートリアル: Yearn Zap into yveCRV-ETH Pickle Farm](https://youtu.be/Q3HELI9TfjQ?t=25)
+#### Tools
+- [Dill boost calculator](https://app.pickle.finance/dill)
+- [Ceazor's tutorial: Yearn Zap into yveCRV-ETH Pickle Farm](https://youtu.be/Q3HELI9TfjQ?t=25)
 
-#### リスク
-SushiswapのLPポジションの価格変動損失リスク、Pickle.FinanceとSushiswapのスマートコントラクトリスクがあります。
+#### Risks
+Impermanent Loss on the Sushiswap LP position, smart contract risk for Pickle.Finance and Sushiswap. 
 
-#### 保険
-DeFi保険の場合、スマートコントラクトのバグで資金が失われた場合に完全にカバーするためには、SushiswapとPickle.Financeの両方に保険をかける必要があります。
+#### Insurance 
+For DeFi insurance, you would need to insure both Sushiswap and Pickle.Finance to have full coverage in case of a smart contract bug that led to the loss of funds.
 
 #### APY
-APY: 43% ブースト無し, 58% フルブースト。
-計算: APY, フルブーストはDILLにPICKELをロックした場合のブーストです。
-ソース: [Pickle.Finance Farms](https://app.pickle.finance/farms)
+APY: 43% not boosted, 58% fully boosted. 
+Calculation: APY, Fully boosted is boosted by locking PICKLE for DILL
+Source: [Pickle.Finance Farms](https://app.pickle.finance/farms)
 
 ___
 
-## ***レバレッジをかけた流動性提供***
-この章では価格変動損失を受ける可能性があるため、清算されないように負債比率を見ておく必要があります。
+## ***Leveraged Liquidity Providing***
+In this section, you can be subject to impermanent loss, and you will have to watch your debt ratios to make sure you are not liquidated.
 
 ### Alpha Homora v2
-Alpha Homora v2にUniswapやSushiswapのLPトークンを預けることで、最大1.75倍のレバレッジでファームを行うことができます。Alpha Homoraでは、1つの資産（基本的にはプール内の他の資産へのオートザップイン）でこれらのプールをファームすることができます。3つのトランザクションですべてのステップは自動化され、プール内でファームされたトークンはpickle.financeのように複利で運用されます。pickle.financeのファームプロダクトを使うとPICKLEがもらえるのと同じように、レバレッジを使ってAMMプール（UniswapまたはSushiswap）をファームした場合、Alpha Homoraは通常得られる利回りに加えてALPHAを提供します。[こちら](https://alphafinancelab.gitbook.io/alpha-homora/where-does-apy-come-from-for-each-pool)を参考にしてください。
+Alpha Homora v2 lets you take your Uniswap or Sushiswap LP token and deposit it with them to farm with up to 1.75x leverage. With Alpha Homora you can farm these pools with 1 asset (basically auto-zaps to the other asset in the pool), they automate all steps with 3 transactions, and farmed tokens in the pool get auto-compounded like at pickle.finance. In the same way that pickle.finance will give you PICKLE if you use their Farm product, if you use leverage to farm AMM pools (Uniswap or Sushiswap) Alpha Homora will give you ALPHA on top of the yield you would normally receive as shown [here](https://alphafinancelab.gitbook.io/alpha-homora/where-does-apy-come-from-for-each-pool). 
 
-#### サイト
+#### Site
 - [Alpha Finance](https://homora.alphafinance.io/farm)
 
-#### ツール
-- [資料](https://alphafinancelab.gitbook.io/alpha-homora/)
-- [Ceazorのビデオチュートリアル](https://youtu.be/WKW8TsTyGOg?t=41)
+#### Tools
+- [Documentation](https://alphafinancelab.gitbook.io/alpha-homora/)
+- [Ceazor Video Tutorial](https://youtu.be/WKW8TsTyGOg?t=41)
 
-#### リスク
-負債比率が60%LTV(Loan to Value)を超えた場合の清算のリスク、Alpha Homora v2のスマートコントラクトの障害、どのプールを活用しているかのスマートコントラクトの障害(UniswapもしくはSushiswap)があります。Alpha Homora v2の監査は[こちら](https://github.com/peckshield/publications/blob/master/reviews/PeckShield-Security-Review-Alpha-Homora-v1.0.pdf)からご覧いただけます。
+#### Risks
+Risk of liquidation if your debt ratio exceeds 60% LTV (Loan to Value), smart contract failure for Alpha Homora v2, smart contract failure for which pool you are leveraging (Uniswap or Sushiswap). You can find their audits [here](https://github.com/peckshield/publications/blob/master/reviews/PeckShield-Security-Review-Alpha-Homora-v1.0.pdf).
 
-#### 保険
-DeFi保険の場合、スマートコントラクトのバグで資金が失われた場合に完全にカバーするためには、Iron Bankと、使用しているAMMにも保険をかける必要があります。
+#### Insurance 
+For defi insurance you would need to insure Alpha Finance and the AMM that you're using, to have full coverage in case of a smart contract bug that led to the loss of funds.
 
 #### APY
-APY: 75.38%
-計算: Sushi ETH/YFI Poolに1.5倍のレバレッジ
-ソース: [Alpha Homora - Farm](https://homora.alphafinance.io/farm)
+APY: 75.38% 
+Calculation: This is at 1.5x leverage on the Sushi ETH/YFI Pool. 
+Source: [Alpha Homora - Farm](https://homora.alphafinance.io/farm)
+
