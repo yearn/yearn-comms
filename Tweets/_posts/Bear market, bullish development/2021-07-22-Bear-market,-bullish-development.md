@@ -4,59 +4,53 @@ title:  "Bear market, bullish development"
 categories: [ Tweets ]
 image: ./Bear-market,-bullish-development/image1.jfif
 author: Dudesahn
-translator: Japzar  
-publish: true
 ---
 
 original source: [twitter](https://twitter.com/dudesahn/status/1417898521685078016)
 
-# 1
+##### 1
 
-Mercado bajista, desarrollo optimista.
+Bear market, bullish development.
 
-Si bien http://yearn.finance recientemente ha agregado características interesantes como la integración de
+While http://yearn.finance has recently added nice features like
 @zapper_fi
-para bóvedas, todavía necesita un poco de amor. Aquellos que han seguido de cerca habrán notado pistas sobre un nuevo sitio web en curso.
+integration for vaults, it still is in need of some love. For those following closely, you may have noticed hints about a new website in the works.
 
-Un hilo 🧵
+A thread 🧵
 
-# 2
+##### 2
 
-“¡Espera!” puede que digas, “¿No es http://yearn.fi el nuevo sitio de Yearn?”
+“Wait!” you might say, “Isn’t http://yearn.fi Yearn’s new website?”
 
-Sí y no.
+Yes and no.
 
-[@AndreCronjeTech](https://twitter.com/AndreCronjeTech) es un científico loco, y trabaja a la velocidad de la luz mientras desarrolla sus prototipos. Considera a http://yearn.fi su patio de juegos, construido por él y [@AntonNellCrypto](https://twitter.com/AntonNellCrypto). 🧪
+[@AndreCronjeTech](https://twitter.com/AndreCronjeTech) is a mad scientist, and works at light speed while building out his prototypes. Consider http://yearn.fi his playground, built by himself and [@AntonNellCrypto](https://twitter.com/AntonNellCrypto). 🧪
 
-# 3
+##### 3
 
-yearn.finance es mantenido por un grupo separado de contribuyentes, y hemos estado implementando un backend completamente nuevo (incluido un SDK con varias API) que impulsará nuestro frontend, diseñado específicamente con el SDK en mente.
+yearn.finance is maintained by a separate group of contributors, and we've been implementing a completely new backend (including an SDK with several APIs) that will power our new frontend, designed specifically with the SDK in mind.
 
-# 4
+##### 4
 
-http://yearn.finance y http://yearn.fi tienen diferentes enfoques, pero esperamos que puedan beneficiarse mutuamente. Apretón de manos
+http://yearn.finance and http://yearn.fi have different approaches, but the hope is that they can be mutually beneficial to one another. Handshake
 
-# 5
+##### 5
 
-yearn.fi es capaz de incorporar nuevas funciones muy rápidamente, mientras que la próxima v3 de http://yearn.finance demostrará el poder de nuestro backend reelaborado.
+yearn.fi is able to stand up new features very quickly, while the upcoming v3 http://yearn.finance will demonstrate the power of our reworked backend. Our goal? Abstracting away the complexity around integrating with yearn products for future partners.
 
-¿Nuestro objetivo? Abstraer la complejidad a la hora de integrarse con productos de yearn para futuros socios.
+##### 6
 
-# 6
+Over the next few weeks, I'll go more in-depth on some of the tech we're building at yearn, why it matters, and what we're excited to work on next. And ultimately, we hope that this can make our work a little more accessible to everyone and a little less opaque. Left-pointing magnifying glass
 
-Durante las próximas semanas, profundizaré en algunas de las tecnologías que estamos desarrollando en yearn, por qué importan y en qué nos entusiasma trabajar más adelante.
+##### 7
 
-Y por último, esperamos que esto pueda hacer que nuestro trabajo sea un poco más accesible para todos y un poco menos opaco. Lupa que apunta a la izquierda
+Once the new site launches, this will include improving our GitHub issue curation for bugs, maintaining a bounty board for larger features we'd like to add, and in general reaching out a hand to anyone who'd like to contribute.
 
-# 7
+##### 8
 
-Una vez que se lance el nuevo sitio, esto incluirá mejorar nuestra gestión de errores en Github, mantener un tablero de recompensas para otras funciones que nos gustaría agregar, y, en general, extender la mano a cualquiera que desee contribuir.
+If you'd like to come build with us, we'd love to have you. Simple as that.
 
-# 8
-
-Si te gustaría desarrollar con nosotros, nos encantaría tenerte. Así de simple.
-
-No dudes en comunicarte conmigo en Telegram
-[@dudesahn](https://twitter.com/dudesahn) y te ayudaremos a empezar.
+Feel free to reach out to me on telegram
+[@dudesahn](https://twitter.com/dudesahn) and we can get you started.
 
 ![](image1.jfif)

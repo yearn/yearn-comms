@@ -4,41 +4,38 @@ title:  "Decentralized payroll management for DAOs"
 categories: [ Articles ]
 image: ./Decentralized-Payroll-Management-for-DAOs/andre-hero.png
 author: Andre
-translator: RestlessMik3
-publish: true
 ---
 
-# Gestión de nómina descentralizada para DAO
+# Decentralized payroll management for DAOs
 
-Los DAO no tienen una gestión de arriba hacia abajo. No hay departamento de recursos humanos. No hay contratos ni negociaciones salariales. ¿Cómo incentiva y recompensa adecuadamente a los contribuyentes?
+DAO's don't have top down management. There is no HR department. There are no contracts and no salary negotiations. How do you properly incentivize and reward contributors?
 
-Cuando comenzó el DAO de Yearn, adoptó salarios ponderados de gobernanza (utilizo el término de manera vaga, ya que técnicamente son subvenciones únicas, una vez al mes, si no contribuye el mes siguiente, no hay subvención). Los salarios ponderados de gobernanza eran simplemente propuestas establecidas por miembros de la comunidad, donde proponían que el contribuyente X debería recibir el pago Y. Estos requieren una gestión activa y necesitan votos / aprobaciones mensuales de DAO. Esto no escala bien.
+When the yearn DAO first started, it adopted governance weighted salaries (I use the term loosely, since technically they are once off, once per month grants, if you don't contribute the following month, no grant). Governance weighted salaries where simply proposals set up by community members, where they proposed that contributor X should receive Y payment. These require active management and need monthly DAO votes / approvals. This doesn't scale well.
 
-Para abordar los problemas de escalamiento y gastos generales, el equipo de yearn creó [Coordinape](https://coordinape.com/). Estos son mis tipos de productos favoritos, ya que se originan a partir de una necesidad personal, pero se pueden generalizar para ayudar a cualquier otro. organizaciones / DAO están luchando con un problema similar.
+To address the scaling and overhead problems, the yearn team built [Coordinape](https://coordinape.com/), these are my favorite kind of products since they originate out of a personal need, but can be generalized to help any other organizations / DAO's struggling with a similar problem.
 
-¿Qué es [Coordinape](https://coordinape.com/), simplemente ponga que cualquier persona que desee contribuir a Yearn (o su propio DAO) puede registrarse (actualmente usando los detalles de github), cada epoch (para Yearn 1 mes), puede seleccione los miembros del equipo con los que ha estado trabajando e interactuando, a continuación, colaboradores de Yearn;
+What is [Coordinape](https://coordinape.com/), simply put anyone wishing to contribute to yearn (or their own DAO) can register (currently using github details), every epoch (for yearn 1 month), you can select the team members you have been working and interacting with, below, yearn contributors;
 
 ![](1.jpg)
 
-Por ejemplo, mis interacciones a continuación (miembros que marqué por haber interactuado con esta época pasada);
+For example, my interactions below (members I marked as having interacted with this past epoch);
 
 ![](2.jpg)
 
-Ahora cada miembro tiene una cantidad fija de puntos de asignación y puede asignar puntos a los colaboradores con los que ha trabajado en función de lo que piensa de sus contribuciones.
+Now each member has a set amount of allocation points, and can allocate points to the contributors they have worked with based on what they think of their contributions.
 
-Entonces, si observamos las contribuciones de la epoch actual, vemos lo siguiente;
+So if we look at the current epoch contributions we see the following;
 
 ![](3.jpg)
 
-Cada línea es una asignación de un miembro al siguiente. Esto crea un gráfico de contribuyentes que se pondera hacia los miembros que tienen la mayor cantidad de interacciones y asignaciones.
+Each line is an allocation from one member to the next. This builds up a contributor graph that is weighted towards the members that have the most interactions and allocations.
 
-Ahora, simplemente, durante la epoch, Yearn gana "Y" cantidad en tarifas/contribuciones/recompensas/etc. Esto se acumula en el contrato de colaborador de Coordinate, al final de la epoch, los contribuyentes pueden reclamar su subvención en función de sus contribuciones en la epoch.
+Now simply, during the epoch, yearn earns Y amount in fees / contributions / rewards / etc, this accrues to the Coordinate contributor contract, at the end of the epoch contributors can claim their grant based on their contributions in the epoch.
 
-**Conclusión**
+**Conclusion**
 
-[Coordinape](https://coordinape.com/) permite a los equipos descentralizados y DAO sin administración de arriba hacia abajo o recursos humanos para asignar y recompensar de forma autónoma a los contribuyentes con fondos, todo a través de gráficos sociales resistentes a profetas.
+[Coordinape](https://coordinape.com/) allows decentralized teams and DAO's without top down management or HR to autonomously allocate and reward contributors with funds, all done via sybil resistant social graphs.
 
-Nómina descentralizada para organizaciones planas.
+Decentralized payroll for flat organizations.
 
-Actualmente, el proyecto aún es de código cerrado, sin embargo, el equipo está buscando activamente participar con otras DAO y organizaciones, si tiene algún interés o consulta, comuníquese con [@tracheopteryx](https://twitter.com/tracheopteryx)
-
+The project is currently still closed source, however the team are actively looking to engage with other DAO's and organizations, should you have any interest or queries, please reach out to [@tracheopteryx](https://twitter.com/tracheopteryx)
