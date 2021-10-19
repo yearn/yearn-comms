@@ -54,7 +54,8 @@ Yearn takes:
 
 You also need to pay for gas.
 
-![](Image3.jpg)Using yearn in the Argent app
+![](Image3.jpg)
+Using yearn in the Argent app
 
 ## **Tracking your Vault's performance**
 

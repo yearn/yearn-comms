@@ -10,4 +10,4 @@ Last week we announced The Blue Pill book and gave early Yearn supporters a firs
 
 Today we invite everyone to experience The Blue Pill:
 
-https://thebluepill.eth.link
+[https://thebluepill.eth.link](https://thebluepill.eth.link)
