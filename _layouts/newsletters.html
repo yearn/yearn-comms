@@ -1,0 +1,25 @@
+---
+title: "Newsletters"
+layout: default
+permalink: "/newsletters.html"
+---
+
+
+<section class="row mt-1">
+  <div class="col-sm-8">
+    <div class="row">
+      {% for post in site.categories.Newsletters %}
+      {% if post.title != null %}
+      {% if group == null or group == post.group %}
+      <div class="col-md-6 mb-5">
+        {% include postbox.html %}
+      </div>
+      {% endif %}
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+  <div class="col-sm-4">
+    {% include sidebar.html %}
+  </div>
+</section>
