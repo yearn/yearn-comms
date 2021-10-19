@@ -4,49 +4,47 @@ title:  "The Blue Pill"
 categories: [ Articles ]
 image: ./The-Blue-Pill/pill-wt-text.png
 author: Weaver
-translator: Dastronom
-publish: true
 ---
 
 # The Blue Pill
 
-Biz buna basitçe Hediye diyoruz.
+We refer to it simply as The Gift.
 
-Bir yıl önce Temmuz 2020'de Andre, DeFi topluluğunda stake, çiftçilik veya oylama yoluyla projenin bir parçası olmak isteyen herkese YFI tokenleri verdi.
+One year ago in July 2020, Andre gave YFI tokens to anyone in the DeFi community who wanted to be a part of the project by staking, farming or voting.
 
-Andre dahil hiç kimse YFI ve Yearn'in ne olacağını bilmiyordu…
+Nobody, including Andre, knew what YFI and Yearn would become…
 
-DeFi'nin bir mavi çipi.
+A DeFi blue chip.
 
-TVL'de yetenek ve milyarlar için bir mıknatıs.
+A magnet for talent and for billions in TVL.
 
-İşbirliğine ve dürüstlüğe rekabetten ve her şeyden daha çok değer veren bir inşaa edenler topluluğu.
+A collective of builders who value collaboration over competition and integrity over all else.
 
-Bugün, sadece 12 ay sonra, bir kitap yayınlayarak yaratıcıları, yapıcıları, inşaat edenleri ve inananları onurlandırıyoruz:
+Today, just 12 months later, we honor the makers, doers, builders and believers, with the release of a book:
 
 ![](image1.png)
-The Blue Pill: Yearn'in geçmişi, bugünü ve geleceği için manevi bir rehber.
+The Blue Pill: A spiritual guide for the past, present, and future of Yearn.
 
-Sayfaları Yearn'in başlangıç hikayesini belgeliyor ve bir sonraki adımımız için kaba bir harita sunuyor.
+Its pages document the origin story of Yearn and lay out a crude map for where we go next.
 
-Yearn finansı yeniden tasavvur ediyor ve yeniden inşa ediyor, ancak aynı zamanda organizasyonları ve işbirliğinin doğasını da yeniden tasavvur ediyor ve yeniden inşa ediyor.
+Yearn is reimagining and rebuilding finance, but it’s also reimagining and rebuilding organizations and the very nature of collaboration, too.
 
-Kitap, sonsuz olasılıklar diyarında bize katılmanız ve önünüzdeki yolculuğa katkıda bulunmanız için bir davettir.
+The book is an invitation for you to join us in the land of infinite possibilities and contribute to the journey ahead.
 
 ![](image2.png)
 
-Yearn'e Birinci Yıl boyunca katılan efsaneleri onurlandırmak için, kitaba çevrimiçi erişim sağlayan [bir dizi efsanevi ve nadir NFT](https://galaxy.eco/yearn) oluşturmak için sanatçı [@ZemmNFT](https://twitter.com/Zemm_NFT) ile birlikte çalıştık.
+To honor the legends who participated in Yearn during Year One, we’ve worked with artist [@ZemmNFT](https://twitter.com/Zemm_NFT) to create [a series of legendary and rare NFTs](https://galaxy.eco/yearn) that grant online access to the book.
 
-YFI'yi en başından beri şekillendiren ve elinde tutan çiftçiler, pay sahipleri, seçmenler ve bağışçılarsınız. Bu grupların her birinin anlık görüntüsünü aldık ve bugün size getirmek için arkadaşlarımızla [@ProjectGalaxyHQ](https://twitter.com/ProjectGalaxyHQ) birlikte çalıştık.
+You are the farmers, the stakers, the voters, and the givers who shaped and held YFI from the beginning. We’ve taken snapshots of each of these groups and worked with our friends [@ProjectGalaxyHQ](https://twitter.com/ProjectGalaxyHQ) to bring them to you today.
 
-Birden fazla anlık görüntüde görünen Yearn OG'ler ayrıca özel, nadir NFT'ler talep edebilir. Tüm Blue Pill NFT'leri, The Blue Pill kitabının dijital versiyonuna bir bağlantı ile birlikte gelir.
+Yearn OGs appearing on multiple snapshots can also claim special, rare NFTs. All of the Blue Pill NFTs come with a link to the digital version of The Blue Pill book.
 
-Anlık görüntülerdekiler kitabı ilk görenler olacak, ancak tıpkı YFI'nin bir hediye ile başladığı gibi, bu dijital kitap ücretsizdir ve herkes tarafından paylaşılması amaçlanmıştır.
+Those on the snapshots will be the first to view the book, but just as YFI began with a gift this digital book is free and intended to be shared by all.
 
-Haydi, ey Yearn tohumlarının ilk ekicileri.
+So go forth, ye original sowers of the seeds of Yearn.
 
-YFI'nin bir yılını kutlamak için bize katılmanız için mütevazı davetimizi kabul edin.
+Accept our humble invitation to join us in celebration of one year of YFI.
 
-[NFT'leri](https://galaxy.eco/yearn) Yearn tarihindeki yerinizin bir sembolü olarak talep edin ve bu kitabı, Yearn'ın henüz oluşmayacağı şeyi inşa etmek için bize katılabilecek kişilerle paylaşın.
+[Claim the NFTs](https://galaxy.eco/yearn) as a symbol of your place in Yearn history, and share this book those who might join us in building what Yearn is yet to become.
 
 ![](image3.jpg)
