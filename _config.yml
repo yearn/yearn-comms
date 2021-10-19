@@ -5,7 +5,7 @@ baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/yearn_logo.svg'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: yearn
 paginate: 30
 locale: en_us
 lang: en_us

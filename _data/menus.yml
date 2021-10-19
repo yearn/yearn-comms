@@ -27,6 +27,11 @@ footermenu:
 - title: about
   url: "about/"
 
+- title: github
+  url: https://github.com/yearn/yearn-comms
+  class: "ml-2 btn btn-primary text-white px-3"
+  external: true
+
 - title: yearn.finance
   url: https://beta.yearn.finance/
   class: "ml-2 btn btn-primary text-white px-3"
@@ -39,5 +44,10 @@ footermenu:
 
 - title: yearn contribute
   url: https://contribute.yearn.rocks
+  class: "ml-2 btn btn-primary text-white px-3"
+  external: true  
+
+- title: yearn onboarding
+  url: https://yearnfinance.notion.site
   class: "ml-2 btn btn-primary text-white px-3"
   external: true  

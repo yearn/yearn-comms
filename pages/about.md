@@ -13,7 +13,7 @@ This is a collection of communication, announcements, tweets, newsletters, and o
 
 All content here has been translated into your language by our contributors. They are also hard at work translating the docs and generally pushing DeFi and crypto content all around the world!
 
-for Chinese / 汉语 : [@Bee926](https://twitter.com/bee_926){:target="_blank"}, [@Wendy Clark](), [@mesa1ee]()
+for Chinese / 汉语 : [@Bee926](https://twitter.com/bee_926){:target="_blank"}, [@mesa1ee](https://twitter.com/mesa1ee){:target="_blank"}
 
 for French / Français :  [@Cryptouf](https://twitter.com/cryptouf){:target="_blank"}
 
