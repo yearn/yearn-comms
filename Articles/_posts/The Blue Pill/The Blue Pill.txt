@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "The Blue Pill"
+categories: [ Articles ]
+image: ./The-Blue-Pill/bluepill.jpg
+author: Yearn
+---
+
 The Blue Pill
 A spiritual guide for the past, present, and future
 

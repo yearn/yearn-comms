@@ -2,7 +2,7 @@
 layout: post
 title:  "The Blue Pill"
 categories: [ Annoucements ]
-image: ./The-Blue-Pill/thebluebook.jpg
+image: ./The-Blue-Pill-Ann/thebluebook.jpg
 author: Yearn
 ---
 
