@@ -23,7 +23,6 @@ body {
     font-size:15px;
     transition: all 200ms linear;
     font-family: "Oxygen",sans-serif;
-    line-height:1.7;
     color: #333;
     overflow-x:hidden;
     padding-top:116px;
@@ -90,7 +89,7 @@ small, .small {
 .start-header {
 	opacity: 1;
 	transform: translateY(0);
-	padding: 20px 0;
+	padding: 4px 0;
 	-webkit-transition : all 0.3s ease-out;
 	transition : all 0.3s ease-out;
 
