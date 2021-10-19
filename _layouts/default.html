@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="icon" href="{{ site.baseurl }}/{{site.favicon}}">
+
+<title>{{ page.title }} | {{site.title}}</title>
+
+{% seo %}
+<!-- Bootstrap CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+<!-- Bootstrap CSS end-->
+<link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
+<!-- custom CSS - Remove this if you don't use it or choose to customize the stylesheet with sass-->
+<link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet">
+<!-- custom CSS end-->
+
+{% if jekyll.environment == "production" %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{site.ganalytics}}"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', '{{site.ganalytics}}');
+</script>
+{% endif %}
+
+</head>
+
+{% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
+<body class="{{ layout }}">
+
+
+<!-- Menu Navigation
+================================================== -->
+<div class="navigation-wrap start-header start-style">
+    <nav class="navbar navbar-expand-lg">
+        <div class="container">
+
+          <a class="navbar-brand text-dark font-weight-bold big d-flex align-items-center" href="{{site.baseurl}}/">
+          {% if site.logo %}
+          <img width="75px" class="mr-0" src="{{site.baseurl}}/{{site.logo}}" alt="logo">
+          blog.yearn
+          {% else %}
+          <span class="d-none d-md-inline-block">{{ site.title }}</span>
+          {% endif %}
+          </a>
+
+
+          <div class="d-flex justify-content-evenly align-items-center">
+
+            <span class="ms-3 me-3 text-muted small">in</span>
+
+            <!-- language button -->
+            <div class="btn-group">
+              <button type="button" class="btn btn-secondary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                English
+              </button>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">English</a></li>
+                <li><a class="dropdown-item" href="#">汉语</a></li>
+                <li><a class="dropdown-item" href="#">Français</a></li>
+                <li><a class="dropdown-item" href="#">Deutsch</a></li>
+                <li><a class="dropdown-item" href="#">हिन्दी</a></li>
+                <li><a class="dropdown-item" href="#">日本語</a></li>
+                <li><a class="dropdown-item" href="#">Português</a></li>
+                <li><a class="dropdown-item" href="https://turkish-yearn-comms.vercel.app/#">Türkçe</a></li>
+                <li><a class="dropdown-item" href="#">Tiếng Việt</a></li>
+              </ul>
+            </div>
+
+          </div>
+
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-three-dots-vertical" viewBox="0 0 16 16">
+              <path d="M9.5 13a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/>
+            </svg>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto font-weight-bold d-flex align-items-center">
+              {% for item in site.data.menus.topmenu %}
+              <li class="nav-item">
+                <a class="nav-link px-3 {% if item.class %}{{item.class}}{% endif %}" href="{% unless item.external %}{{site.baseurl}}/{% endunless %}{{item.url}}" alt="{{item.title}}">{{item.title}}</a>
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+
+        </div>
+      </nav>
+    </div>
+
+
+<!-- Container
+================================================== -->
+<main class="container">
+      {{ content }}
+</main>
+
+<!-- Footer
+================================================== -->
+<footer class="footer container text-center">
+
+
+
+  <ul class="p-0 mb-1 small">
+    {% for item in site.data.menus.footermenu %}
+    <li>
+      <a href="{% unless item.external %}{{site.baseurl}}/{% endunless %}{{item.url}}" alt="{{item.title}}">{{item.title}}</a>
+    </li>
+    {% endfor %}
+  </ul>
+
+</footer>
+
+<!-- JavaScript
+================================================== -->
+
+<!-- JQuery -->
+<script
+  src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+  crossorigin="anonymous"></script>
+
+<!-- Bootstrap JavaScript Bundle with Popper -->
+<script
+  src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"
+  integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj"
+  crossorigin="anonymous"></script>
+
+<!-- Theme -->
+<script src="{{ site.baseurl }}/assets/js/theme.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,53 @@
+# Top Menu
+topmenu:
+
+- title: Annoucements
+  url: "annoucements/"  
+
+- title: Newsletters
+  url: "newsletters/"
+
+- title: Tweets
+  url: "tweets/"
+
+- title: Articles
+  url: "articles/"
+
+- title: Financials
+  url: "financials/"
+
+- title: yearn.finance
+  url: https://beta.yearn.finance/
+  class: "ml-2 btn btn-primary text-white px-3"
+  external: true
+
+# Footer Menu
+footermenu:
+
+- title: about
+  url: "about/"
+
+- title: github
+  url: https://github.com/yearn/yearn-comms
+  class: "ml-2 btn btn-primary text-white px-3"
+  external: true
+
+- title: yearn.finance
+  url: https://beta.yearn.finance/
+  class: "ml-2 btn btn-primary text-white px-3"
+  external: true
+
+- title: yearn docs
+  url: https://docs.yearn.finance/
+  class: "ml-2 btn btn-primary text-white px-3"
+  external: true
+
+- title: yearn contribute
+  url: https://contribute.yearn.rocks
+  class: "ml-2 btn btn-primary text-white px-3"
+  external: true  
+
+- title: yearn onboarding
+  url: https://yearnfinance.notion.site
+  class: "ml-2 btn btn-primary text-white px-3"
+  external: true  
