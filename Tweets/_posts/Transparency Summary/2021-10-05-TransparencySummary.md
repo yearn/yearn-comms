@@ -1,13 +1,13 @@
 ---
-author: "yearn.finance"
-handle: "@iearnfinance"
-source: "https://twitter.com/iearnfinance/status/1445143482830446600"
-likes: 395
-retweets: 76
-replies: 6
+layout: post
+title:  "Transparency Summary"
+categories: [ Tweets ]
+image: ./TransparencySummary/image1.jpg
+author: Yearn
 ---
+original source: [twitter](https://twitter.com/iearnfinance/status/1445143482830446600)
 
-# 1
+##### 1
 
 This is why crypto will change the world. 
 
@@ -23,7 +23,7 @@ Let’s take a look at just how transparent Yearn is 👇
 
 ![](image1.jpg)
 
-# 2
+##### 2
 
 See Yearn’s balance sheets, EBITDA, income and more EVERY quarter:
 
@@ -37,13 +37,13 @@ https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-qu
 
 ![](image5.jpg)
 
-# 3
+##### 3
 
 In fact, you can track every single Yearn-related transaction in real time at [yfistats.com](http://www.yfistats.com/)
 
 ![](image6.jpg)
 
-# 4
+##### 4
 
 There, you’ll find sortable:
 
@@ -67,7 +67,7 @@ There, you’ll find sortable:
 
 All of it is meticulously labelled by the yBudget team with 💙  and freely accessible to anyone in the 🌍
 
-# 5
+##### 5
 
 Don’t like websites? You can even track our income with custom “harvest bots” in Discord and Telegram:
 
@@ -77,7 +77,7 @@ Don’t like websites? You can even track our income with custom “harvest bots
 
 ![](image7.jpg)
 
-# 6
+##### 6
 
 Want to join one of the most open and transparent platforms in history?
 
@@ -85,7 +85,7 @@ Good news: we show you exactly how you can contribute with a list of tasks just 
 
 ![](image8.jpg)
 
-# 7
+##### 7
 
 The future is here, it’s just not evenly distributed. 
 

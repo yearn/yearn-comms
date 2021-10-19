@@ -6,9 +6,9 @@ image: ./Yearn-grant-Atlantis-World/image2.jpg
 author: Yearn
 ---
 
-![](image1.jpg)
+original source: [twitter](https://twitter.com/iearnfinance/status/1432387438014435332)
 
-# Yearn Finance has issued a grant to [@atlantis0x](https://twitter.com/atlantis0x) to help build a 2d pixel metaverse. Here's why:
+###### Yearn Finance has issued a grant to [@atlantis0x](https://twitter.com/atlantis0x) to help build a 2d pixel metaverse. Here's why:
 
 ##### 1
 
