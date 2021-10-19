@@ -12,7 +12,7 @@ publish: false
 
 Author: [Weaver](https://medium.com/@0xWeaver)</br>
 
-July 29, 2021
+# The Blue Pill
 
 We refer to it simply as The Gift.
 
@@ -28,7 +28,8 @@ A collective of builders who value collaboration over competition and integrity 
 
 Today, just 12 months later, we honor the makers, doers, builders and believers, with the release of a book:
 
-![](image1.png)The Blue Pill: A spiritual guide for the past, present, and future of Yearn.
+![](image1.png)
+The Blue Pill: A spiritual guide for the past, present, and future of Yearn.
 
 Its pages document the origin story of Yearn and lay out a crude map for where we go next.
 

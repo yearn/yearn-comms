@@ -1,45 +1,43 @@
 ---
 layout: post
-title:  Introduzindo Fixed Forex"
+title:  "Introducing Fixed Forex"
 categories: [ Articles ]
 image: ./Introducing-Fixed-Forex/andre-hero.png
 author: Andre
-translator: JKtranslator
-publish: true
 ---
 
-# Introduzindo Fixed Forex (USD, EUR, ZAR, JPY, CNY, etc)
+# Introducing Fixed Forex (USD, EUR, ZAR, JPY, CNY, etc)
 
-**Isenção de responsabilidade;**
+**Disclaimer;**
 
-- Sem tokens
-- Auditoria não está completa
-- O contrato é experimental
+- No token
+- Audit has not been completed
+- Contract is experimental
 
-**Principais características;**
+**Key features;**
 
-- 0 governança (ou multisig)
-- 0 configuração
-- 0 taxas
-- 0 extração de valor
+- 0 governance (or multisig)
+- 0 configuration
+- 0 fees
+- 0 value extraction
 - Gentle liquidations
 - Dynamic minting caps based on on-chain liquidity
 - Dynamic LTVs based on on-chain protocols
 
 **Fixed Forex**
 
-A Fixed Forex é feita para ser um framework de stable coin decentralizada imutável, sem taxas, sem governança.
+Fixed Forex is designed to be an immutable, 0 fee, 0 governance, decentralized stable coin framework.
 
-LTVs (razão empréstimo-valor) são derivadas do Compound, Aave v1, Aave v2 e Iron Bank. Assim como esses sistemas adicionam ou atualizam colaterais aceitos, a Fixed Forex é atualizada de forma dinâmica.
+LTVs (Loan-to-value ratios) are derived from Compound, Aave v1, Aave v2, and Iron Bank. As these systems add or update their accepted collateral, so does Fixed Forex dynamically update.
 
-O limite de emissões (quanta liquidez um usuário pode emitir contra um certo colateral) é derivado a partir da liquidez on-chain, quanto mairo a liquidez, maior o limite.
+Minting caps (how much liquidity a user can mint against a given collateral) are derived from available on-chain liquidity, the higher the on-chain liquidity, the higher the minting caps.
 
-O Fixed Forex introduz liquidações leves, que é a quantidade mínima de dívida paga de volta para nivelar a posição de um usuário, sem precisar se preocupar com o saldo inteiro sendo liquidado durante eventos de baixas.
+Fixed Forex introduces gentle liquidations, the absolute minimum amount of debt is repaid to bring a users position back to even, no more worrying about the full stack being liquidated during draw down events.
 
-Para fins de lançamento, o contrato não vai ser verificado no etherscan, porém você pode encontrar o endereço e o ABI abaixo.
+For purposes of this release, the contract will not be verified on etherscan, however, you can find the address and ABI below;
 
 [0x92FC8E6EfdF389e2527d14393b15F543f9a03420](https://etherscan.io/address/0x92fc8e6efdf389e2527d14393b15f543f9a03420)
 
 [ABI](https://gist.github.com/andrecronje/4ce11e8603a7f61af4619a86647db1d4)
 
-O lançamento completo será baseado nas pools de crypto da curve.fi, para permitir um mercado forex decentralizado.
+The full release will be based on curve.fi’s crypto pools, to allow for a decentralized forex market.
