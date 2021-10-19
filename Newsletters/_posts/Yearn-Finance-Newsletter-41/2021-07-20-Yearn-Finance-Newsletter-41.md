@@ -1,84 +1,83 @@
 ---
 layout: post
-title:  "Yearn Finance Newsletter #41"
+title:  "Yearn 最新动态 #41"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-41/image1.png
 author: Yearn
 ---
 
+# Yearn 最新动态 #41
+
 ![alt_text](image1.png)
 
-# Yearn Finance Newsletter #41
 
-Welcome to the 41st edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+欢迎来到Yearn最新动态第41版。我们此新闻简报的目的是使Yearn和所有加密货币社区了解最新消息，包括新产品发布，治理更改和生态系统更新。如果你有兴趣了解更多有关Yearn Finance的信息，请关注我们的官方[Twitter](https://twitter.com/iearnfinance)和[Medium](https://medium.com/iearn)帐户。
 
-## Summary
+## 摘要
 
-- Celebrating YFI’s First Year
-- Yearn’s Market Share In The Aggregator Market Rises
-- Yearn To Be Added To Compound
-- YFI Borrowing Rate Lowered At MakerDAO
-- Vaults at Yearn
-- Ecosystem News
+- 庆祝YFI成立第一年
+- Yearn在聚合器市场中的占有率上升
+- Yearn将被加到Compound
+- MakerDao已下调YFI借款利率
+- Yearn的机枪池
+- 生态系统最新消息
 
-## Celebrating YFI’s First Year
+## 庆祝YFI成立第一年
 
 ![alt_text](image5.png)
 
-One year ago on July 17, 2020, the YFI token was launched. Thank you all for creating an unforgettable moment in DeFi and what is now one of the strongest DeFi ecosystems.
+一年前，在2020年7月17日，YFI代币正式上线。感谢大家在DeFi中创造了一些难忘的时刻。 Yearn现在拥有DeFi领域中最强大的生态系统之一。
 
-Thanks to [loldefi](https://twitter.com/loldefi), apparel celebrating YFI’s first anniversary can be found [here](https://ymerch.finance/).
+感谢[loldefi](https://twitter.com/loldefi), 你可以在[这里](https://ymerch.finance/)找到庆祝YFI一周年的穿戴.
 
-## Yearn’s Market Share In Aggregator Market Rises
+## Yearn在聚合器市场中的占有率上升
 
 ![alt_text](image4.png)
 
-In Q2 2021, Yearn’s market share in the yield aggregator market rose from 29% to 69%. We saw an impressive 136% growth in our AUM, as it reached over five billion dollars. We are working constantly to find you the best risk-adjusted returns in the market. Deposit capital to our yVaults and let the Strategists do all the hard work for you.
+在2021年的第二季度，Yearn在收益聚合器市场上的占有率从29%上升到69%。我们的AUM（管理的资产）增长了136%，达到了超过50亿美元，这种增长令人印象深刻。我们会不断地努力为你找市场上最佳的风险调整回报。将资金存入我们的yVaults中，让我们的策略师为你解决所有麻烦的工作。
 
-View more details about Yearn and general DeFi analytics in this Messari [report](https://messari.io/article/q2-21-defi-review?utm_source=ryanwatkins_&utm_medium=tweet&utm_campaign=q2-21-defi-review).
+你可以在这份Messari[报告](https://messari.io/article/q2-21-defi-review?utm_source=ryanwatkins_&utm_medium=tweet&utm_campaign=q2-21-defi-review)中查看有关Yearn和其它DeFi分析统计的更多详细信息。
 
-## Yearn To Be Added To Compound
+## Yearn将被加到Compound
 
 ![alt_text](image3.png)
 
-A proposal has been created and contracts have been deployed to add YFI as a market to Compound Finance. Each token will have a zero collateral factor (initially), the same interest rate model (as COMP/LINK), and a reserve factor of 25% for each market (which is standard).
+将YFI作为市场添加到Compound Finance的提案已完成，而且合约也已被部署。每个代币将有一个零抵押因子（初步阶段），相同的利率模型（如 COMP/LINK）以及在每个市场保持 25% 的储备因子（这是标准的）。
 
-In the near future, collateral factors will be increased and users will be able to supply YFI on Compound and borrow coins with that collateral.
+在不久的将来，抵押因子将会增加，而用户将能够在Compound上提供YFI并使用该抵押品借入其它代币。
 
-View more details about the post on Compound’s forum [here](https://www.comp.xyz/t/add-markets-mkr-aave-sushi-yfi/1977).
+你可以在[此处](https://www.comp.xyz/t/add-markets-mkr-aave-sushi-yfi/1977)查看Compound论坛上有关此帖子的更多详细信息。
 
-## YFI Borrowing Rate Lowered At MakerDAO
+## MakerDao已下调YFI借款利率
 
 ![alt_text](image2.png)
 
-MakerDAO has lowered the YFI-A stability fee to 1% and the ETH-C stability fee to 0.50%. These are incredibly beneficial for Yearn’s YFI and ETH strategies as they lower the cost of borrowing. The reduced cost of capital generates more net yield for users, improving returns.
+MakerDao已下调YFI-A的稳定费至1%，而ETH-C的稳定费也已被调至0.50%。这些调整对Yearn的YFI和ETH策略非常有益，因为它们将降低借贷成本。资产成本的降低可为用户带来更多的净收益，从而提高回报。
 
-More about the changes can be read [here](https://forum.makerdao.com/t/maker-relay-ep-53/9305) and the vaults can be found [here](https://yearn.finance/vaults).
+你可以在[此处](https://forum.makerdao.com/t/maker-relay-ep-53/9305)阅读有关更改的更多信息，以及在[此处](https://yearn.finance/vaults)找到机枪池。
 
-## Vaults At Yearn
+## Yearn的机枪池
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+你可以在[此处](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)阅读我们所有yVault策略的详细说明。.
 
-## Ecosystem News
+## 生态系统最新消息
 
-[Element Finance launches their third asset, crvSTETH, which relies on Yearn for fixed yield](https://twitter.com/element_fi/status/1414990472569831427)
+[Element Finance推出了他们的第三个资产，crvSTETH，该资产依赖Yearn以赚取固定收益](https://twitter.com/element_fi/status/1414990472569831427)
 
-[With Yearn, Keep3r, and Flashbots, a Keep3r stealth transaction has occurred to minimize MEV](https://twitter.com/lbertenasco/status/1415016369771491330)
+[在Yearn，Keep3r和Flashbots之间，一个隐蔽的KPR交易已被执行以最小化MEV](https://twitter.com/lbertenasco/status/1415016369771491330)
 
-[Powerpool’s YLA, a basket of Yearn vaults has automatically rebalanced](https://twitter.com/powerpoolcvp/status/1414682829359812615)
+[Powerpool的YLA，也就是Yearn机枪池代币的组合，已自动重新平衡](https://twitter.com/powerpoolcvp/status/1414682829359812615)
 
-[Yearn and Project Galaxy’s Woofy NFTs enter top 50 trading volume on OpenSea](https://twitter.com/ProjectGalaxyHQ/status/1414868634862710789)
+[Yearn和Project Galaxy的Woofy NFTs已进入OpenSea交易量的前50名](https://twitter.com/ProjectGalaxyHQ/status/1414868634862710789)
 
-[MahaDAO implements Yearn’s Coordinape framework for their DAO operations](https://twitter.com/TheMahaDAO/status/1414620121528680451)
+[MahaDAO的DAO操作将应用Yearn的Coordinape框架](https://twitter.com/TheMahaDAO/status/1414620121528680451)
 
-[Easily import Yearn’s price magic tool into any python script with BobTheBuidler’s ypricemagic](https://github.com/BobTheBuidler/ypricemagic)
+[使用BobTheBuilder的ypricemagic你可轻松地将Yearn的价格魔术工具导入任何Python脚本](https://github.com/BobTheBuidler/ypricemagic)
 
-[Alchemix relaunches their alETH token, powered by Yearn WETH vaults](https://twitter.com/AlchemixFi/status/1414647769470443521)
+[Alchemix重新推出他们的alETH代币，其代币将由Yearn的WETH机枪池提供支持](https://twitter.com/AlchemixFi/status/1414647769470443521)
 
-[Ribbon FInance creates a put option selling vault with yvUSDC as collateral](https://twitter.com/ribbonfinance/status/1415298793419968513)
+[Ribbon Finance创建了以yvUSDC做为抵押品并出售看跌期权的机枪池](https://twitter.com/ribbonfinance/status/1415298793419968513)
 
-[Yearn Risk Dashboard allows you to drill down and see where each strategy has the funds ](https://yearn-finance.vercel.app/system/vault/0x19D3364A399d251E894aC732651be8B0E4e85001)
+[Yearn的风险仪表板允许你深入查看每个策略的资金部署](https://yearn-finance.vercel.app/system/vault/0x19D3364A399d251E894aC732651be8B0E4e85001)
 
-[Deployed](https://yearn-finance.vercel.app/system/vault/0x19D3364A399d251E894aC732651be8B0E4e85001)
-
-[Join the Fair Launch Summit with Yearn, Sushiswap, Alchemist, and more](https://twitter.com/_alchemistcoin/status/1415646390978453508)
+[与Yearn，Sushiswap和Alchemist等协议一起参加Fair Launch Summit（公平成立峰会）](https://twitter.com/_alchemistcoin/status/1415646390978453508)
