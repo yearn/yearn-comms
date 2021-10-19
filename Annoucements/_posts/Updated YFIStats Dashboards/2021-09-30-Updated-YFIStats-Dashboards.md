@@ -4,8 +4,6 @@ title:  "Update YFIStats Dashboards"
 categories: [ Annoucements ]
 image: ./Updated-YFIStats-Dashboards/1.jpg
 author: Yearn
-translator:
-publish: false
 ---
 
 ![](1.jpg)

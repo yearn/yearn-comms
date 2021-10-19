@@ -12,7 +12,11 @@ publish: false
 
 #### Week Ending September 12th, 2021
 
+
 ![](image1.png)
+
+
+
 
 Welcome to the 46th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you're interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
 
