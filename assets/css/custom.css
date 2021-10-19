@@ -4,8 +4,8 @@ Just customize your theme here.
 ================================================== */
 
 body {
-    background-color: white;
-    background-image: url(../images/waifu.jpg);
+    background-color: #f3f3f3;
+    background-image: url(../images/waifu_grey.jpg);
     background-repeat: no-repeat;
     background-position: 100% 60%;
     background-attachment: fixed;
