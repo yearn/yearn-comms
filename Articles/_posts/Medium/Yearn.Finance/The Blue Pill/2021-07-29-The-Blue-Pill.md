@@ -4,7 +4,8 @@ title:  "The Blue Pill"
 categories: [ Articles ]
 image: ./The-Blue-Pill/pill-wt-text.png
 author: Weaver
-translator: 
+translator:
+publish: true
 ---
 
 # The Blue Pill

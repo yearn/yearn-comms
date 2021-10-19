@@ -4,7 +4,8 @@ title:  "Transparency Summary"
 categories: [ Tweets ]
 image: ./TransparencySummary/image1.jpg
 author: Yearn
-translator: 
+translator:
+publish: true
 ---
 original source: [twitter](https://twitter.com/iearnfinance/status/1445143482830446600)
 

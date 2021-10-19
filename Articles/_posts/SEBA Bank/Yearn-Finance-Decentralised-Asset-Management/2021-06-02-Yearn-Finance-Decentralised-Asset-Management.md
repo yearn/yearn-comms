@@ -4,7 +4,8 @@ title:  "Yearn Finance - Decentralised Asset Management"
 categories: [ Articles ]
 image: ./Yearn-Finance-Decentralised-Asset-Management/seba.jpg
 author: The Digital Investor
-translator: 
+translator:
+publish: true
 ---
 
 ## Yearn Finance – Decentralised Asset Management

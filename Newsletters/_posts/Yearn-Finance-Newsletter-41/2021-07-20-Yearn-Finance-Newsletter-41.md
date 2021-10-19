@@ -4,7 +4,8 @@ title:  "Yearn Finance Newsletter #41"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-41/image1.png
 author: Yearn
-translator: 
+translator:
+publish: true
 ---
 
 ![alt_text](image1.png)

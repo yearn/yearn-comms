@@ -4,7 +4,8 @@ title:  "Why audits are bad"
 categories: [ Articles ]
 image: ./Why-Audits-Are-Bad/andre-hero.png
 author: Andre
-translator: 
+translator:
+publish: true
 ---
 
 # Iron Bank Fixed Forex audit: Why audits are bad

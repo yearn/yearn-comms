@@ -4,7 +4,8 @@ title:  "Proposal Fund Builder First Legal Activism DAO"
 categories: [ Annoucements ]
 image: ./Legal-Activism-DAO/1.jpg
 author: LexPunk DAO
-translator: 
+translator:
+publish: true
 ---
 
 ![](1.jpg)

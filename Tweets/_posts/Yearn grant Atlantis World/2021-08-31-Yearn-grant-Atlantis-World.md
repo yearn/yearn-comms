@@ -4,7 +4,8 @@ title:  "Atlantis World Grant"
 categories: [ Tweets ]
 image: ./Yearn-grant-Atlantis-World/image2.jpg
 author: Yearn
-translator: 
+translator:
+publish: true
 ---
 
 original source: [twitter](https://twitter.com/iearnfinance/status/1432387438014435332)
