@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Yearn Finance 最新动态 #44"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-44/image1.jfif
+author: Yearn
+---
+
 # Yearn Finance 最新动态 #44
 
 ![](image1.jfif)

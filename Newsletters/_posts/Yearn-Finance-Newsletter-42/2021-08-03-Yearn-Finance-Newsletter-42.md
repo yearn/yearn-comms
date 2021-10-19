@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Yearn 最新动态 #42"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-42/image1.png
+author: Yearn
+---
+
 # Yearn 最新动态 #42
 
 ![](image1.png)

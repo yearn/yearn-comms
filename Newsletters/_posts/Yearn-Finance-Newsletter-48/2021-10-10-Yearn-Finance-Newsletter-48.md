@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Yearn Finance 最新动态 #48"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-48/image1.png
+author: Yearn
+---
 # Yearn Finance 最新动态 #48
 
 ### 2021年10月10日之前的一周

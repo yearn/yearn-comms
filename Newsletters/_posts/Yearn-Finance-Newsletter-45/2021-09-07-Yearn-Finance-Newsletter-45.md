@@ -1,6 +1,14 @@
+---
+layout: post
+title:  "Yearn Finance 最新动态 #45"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-45/image1.jfif
+author: Yearn
+---
+
 # Yearn Finance 最新动态 #45
 
-欢迎来到Yearn最新动态第44版。我们此新闻简报的目的是使Yearn和所有加密货币社区了解最新消息，包括新产品发布，治理变化和生态系统更新。如果你有兴趣了解更多有关Yearn Finance的信息，请关注我们的官方 [Twitter](https://twitter.com/iearnfinance)和[Medium](https://medium.com/iearn)帐户。
+![](image1.jfif)
 
 欢迎来到Yearn最新动态第44版。我们此新闻简报的目的是使Yearn和所有加密货币社区了解最新消息，包括新产品发布，治理变化和生态系统更新。如果你有兴趣了解更多有关Yearn Finance的信息，请关注我们的官方 [Twitter](https://twitter.com/iearnfinance)和[Medium](https://medium.com/iearn)帐户。
 
@@ -15,7 +23,7 @@
 
 ## **ALPHA和YFI流动性提供者有资格获得独特的NFT**
 
-在Alpha Homora V2池中的Uniswap ETH/YFI和Sushiswap ETH/YFI池的流动性提供者将有资格获得由Yearn，Alpha和Project Galaxy提供的NFT空投。
+![](image2.jfif)
 
 在Alpha Homora V2池中的Uniswap ETH/YFI和Sushiswap ETH/YFI池的流动性提供者将有资格获得由Yearn，Alpha和Project Galaxy提供的NFT空投。
 
