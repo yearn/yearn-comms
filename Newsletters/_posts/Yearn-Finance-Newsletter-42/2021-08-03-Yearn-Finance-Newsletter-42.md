@@ -4,6 +4,8 @@ title:  "Yearn 最新动态 #42"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-42/image1.png
 author: Yearn
+translator: Bee926
+publish: true
 ---
 
 # Yearn 最新动态 #42

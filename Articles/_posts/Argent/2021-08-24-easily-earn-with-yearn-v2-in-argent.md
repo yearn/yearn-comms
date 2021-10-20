@@ -6,6 +6,7 @@ image: ./easily-earn-with-yearn-v2-in-argent/Image1.jpg
 author: Argent
 published: false
 ---
+
 # Easily earn with Yearn v2 in Argent
 
 ![](Image1.jpg)
