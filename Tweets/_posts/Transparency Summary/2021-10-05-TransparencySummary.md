@@ -4,18 +4,20 @@ title:  "Transparency Summary"
 categories: [ Tweets ]
 image: ./TransparencySummary/image1.jpg
 author: Yearn
+translator:
+publish: true
 ---
 original source: [twitter](https://twitter.com/iearnfinance/status/1445143482830446600)
 
 ##### 1
 
-This is why crypto will change the world. 
+This is why crypto will change the world.
 
 It kills shadows.
 
 Yearn’s super coders are 🌞.
 
-Everything’s on-chain with hooman-readable labels. 
+Everything’s on-chain with hooman-readable labels.
 
 Transparency verified ✅
 
@@ -87,7 +89,7 @@ Good news: we show you exactly how you can contribute with a list of tasks just 
 
 ##### 7
 
-The future is here, it’s just not evenly distributed. 
+The future is here, it’s just not evenly distributed.
 
 Come live it with us at Yearn 💙
 
