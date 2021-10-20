@@ -1,0 +1,170 @@
+title: "Yearn Blog"
+email: yearnblog@protonmail.com
+timezone: UTC
+url: https://yearn-comms.vercel.app
+baseurl: ""
+permalink: "/:title/"
+logo: 'assets/images/yearn_logo.svg'
+favicon: 'assets/images/favicon.ico'
+author: yearn
+paginate: 30
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: UA-
+
+# Authors
+authors:
+  Yearn:
+    name: Yearn
+    display_name: Yearn
+    web: https://yearn.finance/
+    twitter: https://twitter.com/iearnfinance
+    blog: https://yearn.substack.com
+    description: "We are Yearn."
+
+  Yearn DAO Contributors:
+    name: Yearn DAO Contributors
+    display_name: Yearn DAO Contributors
+    web: https://gov.yearn.finance
+    twitter: https://twitter.com/iearnfinance
+    description: "We are Yearn YFI holders."
+
+  Dudesahn:
+    name: Dudesahn
+    display_name: Dudesahn
+    twitter: https://twitter.com/dudesahn
+    description: "I am Dudesahn."
+
+  Storm Blessed:
+    name: Storm Blessed
+    display_name: Storm Blessed
+    twitter: https://twitter.com/storming0x
+    web: https://yearn.watch
+    description: "Yearn DAO contributor."
+
+  Facu:
+    name: Facu
+    display_name: Facu
+    twitter: https://twitter.com/saltyfacu
+    web: https://rarityextended.com
+    description: "I am salty."
+
+  Andre:
+    name: Andre Cronje
+    display_name: Andre Cronje
+    twitter: https://twitter.com/AndreCronjeTech
+    blog: https://andrecronje.medium.com
+    description:
+
+  Wot_Is_Goin_On:
+    name: Wot_Is_Goin_On
+    display_name: Wot_Is_Goin_On
+    twitter: https://twitter.com/Wot_Is_Goin_On
+    blog: https://wot-is-goin-on.medium.com
+    description:
+
+  LexPunk DAO:
+    name: LexPunk DAO
+    display_name: LexPunk DAO
+    web: https://www.lexpunk.army
+    description: Amidst intensifying regulatory scrutiny of DeFi, we formed LeXpunK’s Builder Defense DAO dedicated to legal advocacy for builder-centric DeFi communities. The LeXpunK_DAO is governed by builders from its founding contributing communities (Yearn, Curve & Lido) and practicing lawyers from the LeXpunK Army. L3X, the non-transferable reputational token of the LeXpunK Army, is being airdropped to the founding communities, additional contributing DAOs, and a broader community of legal and developer advocates who are identified to date as active in the DeFi space and aligned with the LeXpunK mission, to enable direct sentiment polling on relevant legal issues from DeFi community. LeXpunK will effect additional airdrops from time to time, proportionally in line with the relative contributions of advocates, LeXpunK Army contributors and other builder communities, with the goal of forming a broad coalition to pool resources for funding shared advocacy goals.
+
+  Weaver:
+    name: Weaver
+    display_name: Weaver
+    twitter: https://twitter.com/0xWeaver
+    blog: https://medium.com/@0xWeaver
+    description: "I am 0xWeaver"
+
+  Dark Ghosty:
+    name: Dark Ghosty
+    display_name: Dark
+    description: "Contributor to Yearn DAO."
+
+  Qosmonot:
+    name: qosmonot
+    display_name: qosmonot
+    twitter: https://twitter.com/qosmonot
+    blog:
+    description: "Contributor to Yearn DAO."
+
+  Gemini/Cryptopedia:
+    name: Gemini/Cryptopedia
+    display_name: Gemini/Cryptopedia
+    web: https://www.gemini.com/cryptopedia
+    twitter:
+    description:
+
+  Tracheopteryx:
+    name: Tracheopteryx
+    display_name: Tracheopteryx
+    twitter: https://twitter.com/Tracheopteryx
+    description:
+
+  Argent:
+    name: Argent
+    display_name: Argent
+    web: https://www.argent.xyz/
+    twitter:
+    description:
+
+  The Digital Investor:
+    name: The Digital Investor
+    display_name: The Digital Investor
+    web: https://www.seba.swiss/research
+    twitter:
+    description:
+
+# Translators
+translators:
+  Bee926:
+    name: Bee926
+    display_name: Bee926
+    twitter: https://twitter.com/bee_926
+    web: https://www.youtube.com/channel/UCEmqb4A_fJ5Jseb-TBpGaIg
+
+  Cryptouf:
+    name: Cryptouf
+    display_name: Cryptouf
+    twitter: https://twitter.com/cryptouf
+    blog: https://cryptoouf.com
+    web: https://cryptoouf.com/newsletter
+
+  Cripu:
+    name: Cripu
+    display_name: Cripu
+    twitter: https://twitter.com/CRYPTANNEWS
+    blog: https://www.cryptannews.com/
+
+  Dastronom:
+    name: Dastronom
+    display_name: Dastronom
+    twitter: https://twitter.com/Dastronomm
+
+  RestlessMik3:
+    name: RestlessMik3
+    display_name: RestlessMik3
+    twitter: https://twitter.com/margjr84
+
+# Social
+social:
+  twitter: https://twitter.com/iearnfinance
+
+# Plugins
+plugins:
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
+- jekyll-target-blank
