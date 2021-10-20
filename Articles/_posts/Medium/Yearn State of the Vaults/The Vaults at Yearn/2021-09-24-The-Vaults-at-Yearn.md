@@ -4,7 +4,10 @@ title:  "The Vaults at Yearn"
 categories: [ Articles ]
 image: ./The-Vaults-at-Yearn/header.gif
 author: Yearn
+translator:
+publish: true
 ---
+
 # The Vaults at Yearn
 
 Updated August 9th, 2021
