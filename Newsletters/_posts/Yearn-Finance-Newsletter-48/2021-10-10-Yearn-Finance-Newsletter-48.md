@@ -4,142 +4,146 @@ title:  "Yearn Finance Newsletter #48"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-48/image1.png
 author: Yearn
-translator:
+translator: Cripu
 publish: true
 ---
 
 # Yearn Finance Newsletter #48
 
-### Week Ending October 10th, 2021
+### 2021年10月10日までの1週間
 
 ![](image1.png)
 
-Welcome to the 48th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Yearn Finance Newsletter 第48号へようこそ。このニュースレターの目的はプロダクトの発売、ガバナンスの変更、エコシステムの更新など最新のニュースをYearnとより広いクリプトコミュニティにお知らせすることです。Yearn Financeについてもっと知りたいという方は、私たちの公式[Twitter](https://twitter.com/iearnfinance)と[Medium](https://medium.com/iearn)アカウントをフォローしてください。
 
-## Summary
+## 概要
 
--   Yearn Goes Multichain with Fantom
+-   Fantom対応によるYearnのマルチチェーン展開
+    
+-   TVLが再び5Bドルに到達
+    
+-   Yearnにコントリビュートする方法
+    
+-   アイデア募集：YFIトークンノミクスの改良
+    
+-   Yearnの透明性
+    
+-   YearnのVaults
+    
+-   エコシステムニュース
 
--   Yearn Reaches $5B TVL (Again)
-
--   How You Can Contribute to Yearn
-
--   Call for Ideas: YFI Tokenomics Revamp
-
--   Transparency at Yearn
-
--   Vaults at Yearn
-
--   Ecosystem News
-
-## Yearn Goes Multichain with Fantom
+## Fantom対応によるYearnのマルチチェーン展開
 
 ![](image2.png)
 
-The Realm of Multichain beckons. And Yearn has heeded the call. 
+マルチチェーン界が手招きしている…Yearnはその声に耳を傾けました。 
 
-Today, we go multichain with the launch of Iron Bank Fantom and the first Fantom vaults on
+今日、Iron Bank Fantomのローンチと共にYearnはマルチチェーン展開をしました。最初のファントムvaultsはこちらです。
 
-https://beta.yearn.finance
+[https://beta.yearn.finance](https://beta.yearn.finance)
 
-You may ask, “Why multichain now?”. This is because Yearn requires specific infrastructure to safely and efficiently function, both external (Gnosis safe, DEX liquidity, block explorer) and internal (frontend and backend).
+「なぜ今マルチチェーンなのか」とお尋ねかもしれません。これは、Yearnが安全かつ効率的に機能するために、外部（Gnosis safe、DEX liquidity、block explorer）と内部（フロントエンドとバックエンド）の両方で特定のインフラを必要とするからです。
 
-Our v2 vault codebase has hardened over the past few months, and the new beta website is a vast improvement, allowing us to switch chains relatively easily, something we simply could not have done in the past.
+v2 vaultのコードベースはここ数ヶ月で強化され、新しいベータ版のウェブサイトは大幅に改善されました。そのため、これまでできなかったチェーンの切り替えが比較的簡単にできるようになりました。
 
-Fantom is fast, simple to use, and easy to bridge to thanks to Anyswap. Additionally, it is well-supported by our development tools and by our Iron Bank partners at CREAM Finance. Check out the article on the Fantom Iron Bank [here](https://medium.com/cream-finance/c-r-e-a-m-dd4982004bb9).  
+Fantomは高速でシンプルな操作性を持ち、Anyswapのおかげでブリッジも容易です。さらに当社の開発ツールや、パートナーであるCREAM Finance社のIron Bankによってしっかりとサポートされています。Fantom Iron Bankの記事は[こちら](https://medium.com/cream-finance/c-r-e-a-m-dd4982004bb9)からご確認ください。 
+  
+また、Andre Cronje氏が大ファンであることも見逃せません。
 
-And it doesn't hurt that Andre Cronje is a big fan.
+Fantomでの最初のVaultは、「yvWFTM」「yvUSDC」「yvDAI」「yvMIM」です。また、ファントムのネイティブであるIron Bankのサポートも開始しました。[beta.yearn.finance](https://beta.yearn.finance)にアクセスしてご確認ください。
 
-The first vaults on Fantom are: yvWFTM, yvUSDC, yvDAI, and yvMIM. We’ve launched support for a native Fantom Iron Bank as well. Head to [beta.yearn.finance](https://beta.yearn.finance) to check them out for yourself.
+Arbitrum、Optimism、Polygon、Avalancheなどがいつ登場するのかというご質問にお答えしますと、間違いなく近日中にもっと多くのマルチチェーンをお楽しみいただけます。最終的にはYearnを安全に運用できるすべてのチェーンに提供し、ユーザーやパートナーがイールドを獲得するためのプロセスを簡素化したいと考えています。
 
-So to answer your questions of when Arbitrum, Optimism, Polygon, Avalanche, and others are arriving, there will definitely be more multichain fun coming soon. Ultimately, we’d love to bring Yearn to any chain where we can safely operate and simplify the process of earning yield for users and partners.
+領域が広がるのに合わせて私たちも進みます。Yearnは、新規ユーザーや少額ユーザーを含めて各個人の状況に対応したいと考えています。マルチチェーンの拡大はそのための自然な方法です。
 
-The Realm expands and we go with it. We want to meet people where they are, including new users and users with smaller deposits. Multichain expansion is a natural way to do this.
+質問やもっと知りたいことがありますか？Telegramまたは[Discord](https://discord.com/invite/SNPvCpjRET)で私たちのコミュニティに参加してください。
 
-Got questions or want to learn more? Join us on Telegram or [Discord](https://discord.com/invite/SNPvCpjRET).
-
-## Yearn Reaches $5B TVL (Again)
+## Yearnは$5BのTVLに到達しました (再び)
 
  ![](image3.png)
 
-Total value locked across all Yearn products has surpassed $5 billion once again, and $1 billion has been added in the last month alone. Yearn is continuing to see parabolic growth among its products with no indication of slowing down. The Iron Bank and v2 vaults are particularly notable components of our exponential growth. You can view and track TVL metrics among our products using [yearn.science](https://yearn.science/). 
+ Yearnの全プロダクトを通したTVL総額は再び5Bドルを超え、先月だけで1Bドルが追加されました。Yearnではプロダクトのパラボリックな成長が続いており、その勢いは衰える気配がありません。特にIron Bankとv2 vaultはYearnの指数関数的な成長の中でも注目すべきコンポーネントです。[Yearn.science](https://yearn.science/)では、YearnプロダクトのTVL測定値を閲覧・追跡することができます。 
 
-A big thank you to everyone in the Yearn ecosystem, our partners, and of course you, the users.
+Yearnエコシステムの皆様、パートナー企業の皆様、そしてもちろんユーザーの皆様に感謝いたします。
 
-## How You Can Contribute to Yearn
+## Yearnにコントリビュートする方法
 
  ![](image4.png)
 
-You may ask, “How can I contribute to Yearn?” For one, Yearn has no papers of incorporation, no headquarters, nor even a list of names and locations for its contributors. It’s a radical experiment in decentralization & here’s how easy it is to get involved.
+"どうやってYearnにコントリビュートすればいいの？"とお尋ねかもしれません。Yearnには会社設立の書類も、本部も、コントリビューターの名前と場所のリストさえもありません。これは非中央集権の革命的な実験であり、参加するのは簡単です。
 
-Visit our public page at [yearnfinance.notion.site](https://yearnfinance.notion.site). Here, you’ll learn about Yearn’s decentralized structure, culture of doing, open roles, and how to get in touch.
+[yearnfinance.notion.site](https://yearnfinance.notion.site)のパブリックページをご覧ください。こちらではYearnの分散型構造、行動する文化、オープンな役割、連絡方法などについてご紹介しています。
 
-Looking to jump in now and start doing? 1. Visit [contribute.yearn.rocks](https://contribute.yearn.rocks) 2. Scan the list of available tasks 3. Do one that you want to do!
+今すぐ参加して何かやりたいですか？
+1. [contribute.yearn.locks](https://contribute.yearn.rocks)にアクセスする 
+2. 利用可能なタスクのリストに目を通す 
+3. やりたいと思ったことをやってみよう！
 
-Don’t see a task you want to do on the list? Good. You may know what Yearn is better than we do. Come show us. Submit your idea in our [shimmy pool of ideas](https://yearnfinance.notion.site/Pool-of-Ideas-d75383ade9154d8bb6163388c6c2b39b). Or join us in [Discord](https://discord.com/invite/6PNv2nF) and share your voice.
+やりたいことがリストにない？いいですね。あなたは私たちよりもYearnのことをよく知っているかもしれません。ぜひ私たちに見せてください！私たちの[shimmy pool of ideas](https://yearnfinance.notion.site/Pool-of-Ideas-d75383ade9154d8bb6163388c6c2b39b)にあなたのアイデアを提出してください。または、[Discord](https://discord.com/invite/6PNv2nF)に参加して、あなたの声を聞かせてください。
 
-How to farm YFI by working for a DAO: When other Yearn contributors see your work, they can vouch for you in Coordinape Gorilla and you’ll be on your way to earning YFI! Check out Coordinape [here](https://coordinape.com).
+DAOのために働くことでYFIを獲得する方法：
+他のYearnコントリビューターがあなたの仕事を見たら、Coordinape Gorillaであなたを保証し、YFIを獲得する道を歩むことができます。[こちら](https://coordinape.com)からCoordinapeをチェックしてください。
 
-Here’s what we believe: If you have fallen down Yearn's gravity well, there is a reason. Let's bump against the impossible and see if it moves.
+私たちが信じていることがあります。もしあなたがYearnの重力に落ちてしまったら、それには理由があります。不可能なものにぶつかってそれが動くかどうか見てみましょう。
 
-We are building a ship. It will carry anyone who wants to board. Any age, any gender, any worldview. You are all welcome. Yearn is a ship from the fleet of tomorrow. And all that matters is that we sail.
+私たちは船を作っているところです。乗りたい人を乗せます。年齢、性別、世界観は問いません。皆さんを歓迎します。Yearnは明日の艦隊の船です。重要なのは私たちが航海することです。
 
-What if the most radical component of Yearn isn’t the yield machine, after all? The machine is a technical apparatus constructed of code. It cannot exist without its network of hearts and minds.
+Yearnの最も革命的な要素がただのイールドマシンではないとしたら？マシンはコードで構成された技術的な装置です。心や思考のネットワークなしには存在できません。
 
-Perhaps the network itself is the most radical part of Yearn… our unique DAO and those who embody it. Perhaps the most radical component of Yearn will soon be you.
+もしかしたら、ネットワーク自体がYearnの最も革命的な部分なのかもしれません...我々のユニークなDAOとそれを体現する人々です。もしかしたら、Yearnの最も革命的な部分はもうすぐあなたになるかもしれません。
 
-Check out more details [here](https://twitter.com/iearnfinance/status/1445799269189881864?s=20).
+詳細は[こちら](https://twitter.com/iearnfinance/status/1445799269189881864?s=20)をご覧ください。
 
-## Call for Ideas: YFI Tokenomics Revamp
+## アイデア募集：YFIトークンノミクスの改良
 
 ![](image5.png)
 
-With the renewed interest in YFI tokenomics in recent days and the v3 protocol development still being in the phase when it’s malleable enough, it might be a good time to properly tie the two together. Everything is on the table, be it token split, liquidity mining, tail emission, veCRV-style lockups. If you started YFI right now, how would you structure it? We are looking forward to the suggestions that our community puts forward, and would love to implement it in the future.
+ここ数日、YFIトークンノミクスに新たな関心が寄せられています。v3プロトコルの開発はまだ十分に調整可能な段階にあるため、この2つを適切に結びつけるには良い時期かもしれません。トークンの分割、リクイディティマイニング、テールエミッション、veCRVスタイルのロックアップなど、すべてがテーブルの上にあります。もし今からYFIを始めるとしたらどのように構成しますか？私たちはコミュニティが提示する提案を楽しみにしており、将来的にはそれを実装したいと考えています。
 
-Check out the forum post [here](https://gov.yearn.finance/t/call-for-ideas-yfi-tokenomics-revamp/11573/8).
+フォーラムの投稿は[こちら](https://gov.yearn.finance/t/call-for-ideas-yfi-tokenomics-revamp/11573/8)からご確認ください。
 
-## Transparency at Yearn
+## Yearnの透明性
 
 ![](image6.png)
 
-Through transparency and on-chain verifiability, we firmly believe crypto will change the world. Yearn hopes to exemplify this transparency, and below, we have showcased some examples.
+私たちはクリプトが透明性とオンチェーンでの検証可能性によって世界を変えると確信しています。Yearnはこの透明性の模範となることを望んでおり、以下にいくつかの例を紹介します。
 
-See Yearn’s balance sheets, EBITDA, income and more every quarter: [https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf)
+Yearnの貸借対照表、EBITDA、収入などを四半期ごとにご覧いただけます： [https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf)
 
-In fact, you can track every single Yearn-related transaction in real time at [yfistats.com](https://www.yfistats.com/). There, you’ll find sortable: transaction records, protocol income, protocol expenses, income statements, EOM balances, charts, revenue projections, $YFI buybacks, & much more. All of this information is carefully curated by the yBudget team and, as usual, freely accessible to everyone.
+実際、[yfistats.com](https://www.yfistats.com/)ではYearnに関連するすべての取引をリアルタイムで追跡することができます。そこでは、取引記録、プロトコルの収入、プロトコルの支出、損益計算書、EOM残高、ハーツ、収益予測、$YFIのバイバック、その他多くの情報を分類して見ることができます。これらの情報はすべてyバジェットチームによって慎重に管理されており、いつものように誰でも自由にアクセスすることができます。
 
-Don’t like websites? You can even track our income with custom “harvest bots” in [Discord](https://discord.com/invite/6PNv2nF) and [Telegram](https://t.me/yfi_harvest_tracker).
+ウェブサイトは嫌いですか？[Discord](https://discord.com/invite/6PNv2nF)や[Telegram](https://t.me/yfi_harvest_tracker)のカスタム「ハーベストボット」で私たちの収入を追跡することもできます。
 
-Want to join one of the most open and transparent platforms in history? Good news: we show you exactly how you can contribute with a list of tasks just waiting for new contributors: https://contribute.yearn.rocks
+歴史上最もオープンで透明性の高いプラットフォームの一つに参加したいですか？良いニュースです。私たちは新しいコントリビューターを待っているタスクのリストを使って、あなたがどのように貢献できるかを正確に示しています： [https://contribute.yearn.rocks](https://contribute.yearn.rocks)
 
-The future is here, it’s just not evenly distributed.
+未来はここにあります。ただ、それは均等に分配されているわけではありません。
 
-Thank you to the Yearn community and all the contributors at Yearn who helped to make this happen. If you’d like to contribute, come join our public [discord](https://discord.gg/8rF374XkXy), create an issue in one of the [repos](https://github.com/yearn) linked in the [medium](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f), or share your designs with us on [twitter](https://twitter.com/iearnfinance)!
+これを実現するために協力してくれたYearnコミュニティとYearnのすべてのコントリビューターに感謝します。コントリビュートしたい方は、私たちの公開している[discord](https://discord.gg/8rF374XkXy)に参加したり、[medium](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f)にリンクされている[repos](https://github.com/yearn)のいずれかに課題を作成したり、[twitter](https://twitter.com/iearnfinance)でデザインを共有したり、いつでもお待ちしています！
 
-Read an in-depth thread on Yearn’s transparency [here](https://twitter.com/iearnfinance/status/1445143482830446600?s=20).
+Yearnの透明性に関する詳細なスレッドは [こちら](https://twitter.com/iearnfinance/status/1445143482830446600?s=20)。
 
-Check out the vaults [here](http://yearn.finance/vaults).
+vaultsをチェックするのは[こちら](http://yearn.finance/vaults)。
 
-## Vaults At Yearn
+## Yearnのvaults
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+私たちが活動しているすべてのyVaultsのストラテジーの詳細説明は[こちら](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)でご覧いただけます。
 
-## Ecosystem News
+## エコシステムニュース
 
-[MyEtherWallet users now have access to Yearn vaults on the Android app](https://twitter.com/myetherwallet/status/1443283619867414537)
+[MyEtherWalletユーザーがAndroidアプリでYearnのvaultにアクセス可能になりました](https://twitter.com/myetherwallet/status/1443283619867414537)
 
-[storming0x has joined yAcademyDAO, where he will be starting off auditing a rebalancer strategy for Yearn](https://twitter.com/yAcademyDAO/status/1443138482604371974)
+[storming0xはyAcademyDAOに参加し、まずはYearnのリバランサーストラテジーの監査を行う予定です](https://twitter.com/yAcademyDAO/status/1443138482604371974)
 
-[Check out a comprehensive report on Yearn written by the Economics Design team](https://econteric.com/fundamentals/yearn-finance/)
+[Economics DesignチームによるYearnの包括的なレポートをご覧ください](https://econteric.com/fundamentals/yearn-finance/)
 
-[Earn fixed APR on your YFI or speculate on YFI’s variable yield on Aave on 88mph](https://twitter.com/88mphapp/status/1445880439420325889)
+[YFIの固定APRを獲得するか、AaveでYFIの変動利回りに投機するか(88mph)](https://twitter.com/88mphapp/status/1445880439420325889)
 
-[A proposal has been created to donate Curve voter airdrops to yvBOOST ](https://gov.yearn.finance/t/donate-curve-voter-airdrops-to-yvboost/11587)
+[Curve有権者のエアドロップをyvBOOSTに寄付するという提案がされています](https://gov.yearn.finance/t/donate-curve-voter-airdrops-to-yvboost/11587)
 
-[Check out a summary of issues and fixes that the yAcademyDAO has recently made for a Yearn strategy](https://twitter.com/yAcademyDAO/status/1445414387573997569)
+[yAcademyDAOが最近作ったYearnストラテジーの課題と修正点のまとめをご覧ください](https://twitter.com/yAcademyDAO/status/1445414387573997569)
 
-[As integrators, we urge COMP holders to vote on cancelling the passage of Compound Proposal 63](https://twitter.com/bantg/status/1445312250827390979?s=20)
+[インテグレーターとして、COMPホルダーはCompound提案63号の通過を中止するよう投票をお願いします](https://twitter.com/bantg/status/1445312250827390979?s=20)
 
-[Yearn v2 portfolios on Fantom are now tracked on DeBank](https://twitter.com/DeBankDeFi/status/1446624448744886273)
+[FantomのYearn v2のポートフォリオがDeBankでもトラッキングされるようになりました](https://twitter.com/DeBankDeFi/status/1446624448744886273)
 
-[Short thread on Yearn and the future from Wot\_Is\_Goin\_On](https://twitter.com/Wot_Is_Goin_On/status/1446540007292952579)
+[Wot\_Is\_Goin\_OnからのYearnと将来に関する短いスレッドです](https://twitter.com/Wot_Is_Goin_On/status/1446540007292952579)

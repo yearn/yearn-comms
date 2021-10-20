@@ -1,19 +1,19 @@
 # Top Menu
 topmenu:
 
-- title: Annoucements
+- title: アナウンス
   url: "annoucements/"  
 
-- title: Newsletters
+- title: ニュースレター
   url: "newsletters/"
 
-- title: Tweets
+- title: ツイート
   url: "tweets/"
 
-- title: Articles
+- title: 記事
   url: "articles/"
 
-- title: Financials
+- title: 財務諸表
   url: "financials/"
 
 - title: yearn.finance
@@ -24,7 +24,7 @@ topmenu:
 # Footer Menu
 footermenu:
 
-- title: about
+- title: 〜について
   url: "about/"
 
 - title: github
@@ -37,17 +37,17 @@ footermenu:
   class: "ml-2 btn btn-primary text-white px-3"
   external: true
 
-- title: yearn docs
+- title: yearn 資料
   url: https://docs.yearn.finance/
   class: "ml-2 btn btn-primary text-white px-3"
   external: true
 
-- title: yearn contribute
+- title: yearn コントリビュート
   url: https://contribute.yearn.rocks
   class: "ml-2 btn btn-primary text-white px-3"
   external: true  
 
-- title: yearn onboarding
+- title: yearn オンボーディング
   url: https://yearnfinance.notion.site
   class: "ml-2 btn btn-primary text-white px-3"
   external: true  

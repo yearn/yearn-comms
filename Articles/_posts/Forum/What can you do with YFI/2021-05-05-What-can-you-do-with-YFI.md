@@ -5,7 +5,7 @@ categories: [ Articles ]
 image: ./What-can-you-do-with-YFI/image1.png
 author: Dark Ghosty
 translator:
-publish: true
+publish: false
 ---
 
 # What can you do with YFI?

@@ -4,14 +4,14 @@ title:  "Token Terminal"
 categories: [ Annoucements ]
 image: ./Token-Terminal/1.jpg
 author: Yearn
-translator:
+translator: Cripu
 publish: true
 ---
 
 ![](1.jpg)
 
-Yearn Fundamentals Dashboard on Token Terminal
+Token TerminalのYearnファンダメンタルズ指標ダッシュボード
 
-Our friends at [@tokenterminal](https://twitter.com/tokenterminal) now track fundamental metrics of YFI such as supply-side and protocol revenues, P/S and P/E ratios, annualized capital deployed.
+わたしたちの友達である[@tokenterminal](https://twitter.com/tokenterminal)では、サプライサイドやプロトコルの収益、P/SやP/Eレシオ、年率換算した投下資本など、YFIのファンダメンタルズ指標を確認できます
 
-[https://www.tokenterminal.com/terminal/projects/yearn-finance](https://www.tokenterminal.com/terminal/projects/yearn-finance)
+https://www.tokenterminal.com/terminal/projects/yearn-finance
