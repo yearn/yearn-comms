@@ -127,13 +127,11 @@ authors:
 
 # Translators
 translators:
-  translator_name_01:
-    name: translator_name_01
-    display_name: translator_name_01
-    twitter: https://twitter.com/iearnfinance
-    telegram:
-    blog: https://yearn.substack.com
-    web: https://yearn.finance/
+  Bee926:
+    name: Bee926
+    display_name: Bee926
+    twitter: https://twitter.com/bee_926
+    web: https://www.youtube.com/channel/UCEmqb4A_fJ5Jseb-TBpGaIg
 
   translator_name_02:
     name: translator_name_02

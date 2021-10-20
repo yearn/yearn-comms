@@ -4,7 +4,7 @@ title:  "Yearn Finance 最新动态 #43"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-43/image1.jpg
 author: Yearn
-translator:
+translator: Bee926
 publish: true
 ---
 
