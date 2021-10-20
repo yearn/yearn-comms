@@ -11,9 +11,11 @@ permalink: "/newsletters.html"
       {% for post in site.categories.Newsletters %}
       {% if post.title != null %}
       {% if group == null or group == post.group %}
+      {% unless post.publish == false %}
       <div class="col-md-6 mb-5">
         {% include postbox.html %}
       </div>
+      {% endunless %}
       {% endif %}
       {% endif %}
       {% endfor %}

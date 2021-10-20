@@ -4,6 +4,8 @@ title:  "Yearn Finance 最新动态 #47"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-47/image1.png
 author: Yearn
+translator:
+publish: true
 ---
 # Yearn Finance 最新动态 #47
 
