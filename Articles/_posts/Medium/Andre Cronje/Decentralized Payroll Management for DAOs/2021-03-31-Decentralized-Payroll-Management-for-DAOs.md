@@ -4,6 +4,8 @@ title:  "Decentralized payroll management for DAOs"
 categories: [ Articles ]
 image: ./Decentralized-Payroll-Management-for-DAOs/andre-hero.png
 author: Andre
+translator:
+publish: true
 ---
 
 # Decentralized payroll management for DAOs
