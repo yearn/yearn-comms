@@ -4,7 +4,10 @@ title:  "Yearn Finance Newsletter #48"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-48/image1.png
 author: Yearn
+translator:
+publish: true
 ---
+
 # Yearn Finance Newsletter #48
 
 ### Woche bis zum 10. Oktober 2021

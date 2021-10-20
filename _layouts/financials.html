@@ -9,9 +9,11 @@ permalink: "/financials.html"
 {% for post in site.categories.Financials %}
 {% if post.title != null %}
 {% if group == null or group == post.group %}
+{% unless post.publish == false %}
 <div class="col-md-4 mb-5">
 {% include postbox.html %}
 </div>
+{% endunless %}
 {% endif %}
 {% endif %}
 {% endfor %}
