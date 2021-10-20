@@ -1,0 +1,17 @@
+/* 
+Don't want to use sass and simply modify the stylesheet in the old css fashion? 
+Just customize your theme here.
+================================================== */
+
+body {
+    background-color: #f3f3f3;
+    background-image: url(../images/waifu_grey.jpg);
+    background-repeat: no-repeat;
+    background-position: 100% 60%;
+    background-attachment: fixed;
+    background-size: 60%;
+    color: #000000;
+    font-family: Helvetica, Arial, sans-serif;
+    display: grid;
+    justify-content: center;
+  }
