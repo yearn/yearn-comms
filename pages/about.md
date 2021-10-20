@@ -14,7 +14,7 @@ All content here has been translated into your language by our contributors. The
 
 for Chinese / 汉语 : [@Bee926](https://twitter.com/bee_926), [@mesa1ee](https://twitter.com/mesa1ee)
 
-for French / Français :  [@Cryptouf](https://twitter.com/cryptouf){
+for French / Français :  [@Cryptouf](https://twitter.com/cryptouf)
 
 for German / Deutsch : [@Nesyeth](), [@fin2thepeople](), [@jeffor12](https://twitter.com/jeff84431381)
 
