@@ -22,8 +22,6 @@ sass:
   style: :compressed
 ganalytics: UA-
 
-show_drafts: false
-
 # Authors
 authors:
   Yearn:

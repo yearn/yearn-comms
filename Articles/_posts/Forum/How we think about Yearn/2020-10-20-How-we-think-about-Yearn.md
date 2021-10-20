@@ -4,6 +4,7 @@ title:  "How we think about Yearn"
 categories: [ Articles ]
 image: ./How-we-think-about-Yearn/YFI1.jpeg
 author: Yearn DAO Contributors
+published: false
 ---
 
 # How we think about Yearn
