@@ -4,4 +4,4 @@ title: Categories
 permalink: "/categories/"
 ---
 
-This page lists all categories.
+このページでは、すべてのカテゴリーが一覧表示されます。
