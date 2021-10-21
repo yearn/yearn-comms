@@ -4,36 +4,36 @@ title: About
 permalink: "/about/"
 ---
 
-### yearn-comms
+### yearn-commsについて
 
-This is a collection of communication, announcements, tweets, newsletters, and other articles about yearn.
+こちらではYearnに関する通信、お知らせ、ツイート、ニュースレターなどの記事をまとめています。
 
-### Translations
+### 翻訳について
 
-All content here has been translated into your language by our contributors. They are also hard at work translating the documentation and generally pushing DeFi and crypto content all around the world!
+こちらに掲載されているすべてのコンテンツは、Yearnのコントリビューターによってあなたの言語に翻訳されています。また、ドキュメントの翻訳をはじめ、DeFiやクリプトのコンテンツを世界中に広める活動にも尽力しています。
 
-for Chinese / 汉语 : [@Bee926](https://twitter.com/bee_926), [@mesa1ee](https://twitter.com/mesa1ee)
+中国語 / 汉语 : [@Bee926](https://twitter.com/bee_926), [@mesa1ee](https://twitter.com/mesa1ee)
 
-for French / Français :  [@Cryptouf](https://twitter.com/cryptouf)
+フランス語 / Français :  [@Cryptouf](https://twitter.com/cryptouf)
 
-for German / Deutsch : [@Nesyeth](), [@fin2thepeople](), [@jeffor12](https://twitter.com/jeff84431381)
+ドイツ語 / Deutsch : [@Nesyeth](), [@fin2thepeople](), [@jeffor12](https://twitter.com/jeff84431381)
 
-for Hindi / हिन्दी : [@jengajojo](), [@Major-Rager]()
+ヒンディー語 / हिन्दी : [@jengajojo](), [@Major-Rager]()
 
-for Japanese / 日本語 : [@Cripu](https://twitter.com/CRYPTANNEWS)
+日本語 / 日本語 : [@Cripu](https://twitter.com/CRYPTANNEWS)
 
-for Portuguese / Português : [@JKtranslator](https://twitter.com/jameskbh)
+ポルトガル語 / Português : [@JKtranslator](https://twitter.com/jameskbh)
 
-for Spanish / Español : [RestlessMik3](https://twitter.com/margjr84), [@japzar]()
+スペイン語 / Español : [RestlessMik3](https://twitter.com/margjr84), [@japzar]()
 
-for Turkish / Türkçe : [@Dastronom](https://twitter.com/Dastronomm)
+トルコ語 / Türkçe : [@Dastronom](https://twitter.com/Dastronomm)
 
-for Vietnamese / Tiếng Việt : [@xy-cypher]()
+ベトナム語 / Tiếng Việt : [@xy-cypher]()
 
 ### Join us!
 
-If you have written about us, and would like to be featured here, please get in touch with [@DarkGhosty](https://t.me/DarkGhosty).
+Yearnのことを書いてくださった方で、ここで紹介されたい場合は[@DarkGhosty](https://t.me/DarkGhosty)までご連絡ください。
 
-If you would like to help us share our articles in your language, please reach out to [@DarkGhosty](https://t.me/DarkGhosty).
+Yearnの記事をあなたの言語でシェアすることにご協力いただける場合も[@DarkGhosty](https://t.me/DarkGhosty)までご連絡ください。
 
-Interested in working at Yearn? Yearn is always looking for enthusiastic contributors and there is always work to be done in the Yearn DAO. Please check [https://yearnfinance.notion.site/](https://yearnfinance.notion.site/), where you will find information on how to get started.
+Yearnで働くことに興味がありますか？Yearnでは熱心なコントリビューターを常に募集しており、Yearn DAOには常に仕事があります。[https://yearnfinance.notion.site/](https://yearnfinance.notion.site/)をご覧ください。

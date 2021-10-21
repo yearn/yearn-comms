@@ -4,4 +4,4 @@ title: Articles
 permalink: "/articles/"
 ---
 
-This page collects Yearn Articles.
+このページでは、Yearnについての記事を掲載しています。
