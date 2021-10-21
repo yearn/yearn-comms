@@ -4,4 +4,4 @@ title: Financials
 permalink: "/financials/"
 ---
 
-This page collects Yearn Financials.
+このページでは、Yearnの財務諸表を掲載しています。
