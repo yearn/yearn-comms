@@ -15,7 +15,7 @@ Chào mừng các bạn đến với Bản tin Yearn.Finance Số #45! Chúng t�
 
 ## **Bất kỳ ai Cấp Thanh khoản cho ALPHA và YFI Sẽ Nhận được Một NFT Đặc biệt**
 
-![](./image2.jfif)
+![](image2.jfif)
 
 Bất kỳ ai cấp thanh khoản cho bể góp vốn Uniswap ETH/YFI và Sushiswap ETH/YFI ở các bể của Alpha Homora V2 sẽ nhận được một NFT đặc biệt, nhã ý từ Yearn, Alpha và Project Galaxy.
 
