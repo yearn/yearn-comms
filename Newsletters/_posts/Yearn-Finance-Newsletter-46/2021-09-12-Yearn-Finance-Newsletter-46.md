@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Bản tin Yearn.Finance Số #46"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-46/image1_vn.png
+author: Yearn
+translator: 🤖💵💵💰💰.eth
+publish: true
+---
+
 # Bản tin Yearn.Finance Số #46
 #### Tuần Kết thúc Ngày 12/09/2021
 

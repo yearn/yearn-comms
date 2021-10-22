@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Bản tin Yearn.Finance Số #43"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-43/image1_newsletter_header_vn.png
+author: Yearn
+translator: 🤖💵💵💰💰.eth
+publish: true
+---
+
 # Bản tin Yearn.Finance Số #43
 
 ![](https://i.imgur.com/mD1d7Nv.png)

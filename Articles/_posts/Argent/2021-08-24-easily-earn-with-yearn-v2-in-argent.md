@@ -2,7 +2,7 @@
 layout: post
 title:  "Kiếm tiền dễ dàng với Yearn V2 trong Argent"
 categories: [ Articles ]
-image: ./easily-earn-with-yearn-v2-in-argent/Image1.jpg
+image: ./easily-earn-with-yearn-v2-in-argent/1argent_yearn-v2-article.jpg
 author: Argent
 translator: 🤖💵💵💰💰.eth
 publish: true
