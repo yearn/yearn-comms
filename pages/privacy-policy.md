@@ -5,33 +5,34 @@ permalink: /privacy-policy/
 comments: false
 ---
 
-### Information that is gathered from visitors
-In common with other websites, log files are stored on the web server saving details such as the visitor's IP address, browser type, referring page and time of visit.
+### 訪問者から収集される情報について
+訪問者から収集される情報
+他のウェブサイトと同様にログファイルがウェブサーバーに保存され、訪問者のIPアドレス、ブラウザの種類、参照ページ、訪問時間などの詳細が記録されます。
 
-Cookies may be used to remember visitor preferences when interacting with the website.
+クッキーは、ウェブサイトを利用する際の訪問者の好みを記憶するために使用されることがあります。
 
-Where registration is required, the visitor's email and a username will be stored on the server.
+登録が必要な場合は、訪問者のメールアドレスとユーザー名がサーバーに保存されます。
 
-### How the Information is used
-The information is used to enhance the vistor's experience when using the website to display personalised content and possibly advertising.
+### 情報の使用方法について
+これらの情報はウェブサイトを利用するユーザーの利便性を向上させ、パーソナライズされたコンテンツや、場合によっては広告を表示するために使用されます。
 
-E-mail addresses will not be sold, rented or leased to 3rd parties.
+メールアドレスを第三者に販売、貸与、リースすることはありません。
 
-E-mail may be sent to inform you of news of our services or offers by us or our affiliates.
+メールアドレスにYearnのサービスや関連会社が提供するお知らせを送信することがあります。
 
-### Visitor Options
-If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in e-mail that you receive.
+### 訪問者のオプションについて
+訪問者がYearnのサービスのいずれかを購読されている場合、受信したメールに記載されている指示に従って購読を中止することができます。
 
-You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website.
+訪問者はブラウザの設定によりクッキーを拒否することができますが、その場合ウェブサイトの一部の機能にアクセスできなくなる可能性があります。
 
-### Cookies
-Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website.
+### クッキーについて
+クッキーとは、訪問者のwebブラウザに保存される小さなデジタル署名ファイルのことであり、ウェブサイトを訪問する際に訪問者の好みを記録することができます。また、ウェブサイトへの再訪問を追跡するために使用されることもあります。
 
-3rd party advertising companies may also use cookies for tracking purposes.
+また、第三者の広告会社がトラッキング目的でクッキーを使用することもあります。
 
-### Google Ads
-Google, as a third party vendor, uses cookies to serve ads.
+### グーグル広告について
+Googleは、サードパーティベンダーとして広告を配信するためにクッキーを使用しています。
 
-Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
+Googleは、DARTクッキーを使用することにより、インターネット上で訪問したサイトに基づいて訪問者に広告を配信することができます。
 
-Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+ウェブサイトの訪問者は、Googleの広告およびコンテンツネットワークのプライバシーポリシーを参照することにより、DARTクッキーの使用を停止することができます。
