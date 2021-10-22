@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Thêm hệ số kích, lãi kép và mô-hi-tô cho bạn với yvBOOST"
+categories: [ Articles ]
+image: ./thats-boost-folks/image4.png
+author: Qosmonot
+translator: 🤖💵💵💰💰.eth
+publish: true
+---
+
 # Thêm hệ số kích, lãi kép và mô-hi-tô cho bạn với yvBOOST
 
 ### Quan hệ hợp tác với [Curve.fi](http://curve.fi/) đóng vai trò then chốt trong cơ sở hạ tầng của Yearn, cũng như giúp người dùng nâng cao hệ số kích (`boost`) cho chính mình.
