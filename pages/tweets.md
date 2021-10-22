@@ -4,4 +4,4 @@ title: Tweets
 permalink: "/tweets/"
 ---
 
-This page collects tweets from Yearn Finance DAO contributors.
+このページでは、Yearn Finance DAOのコントリビューターからのツイートを掲載しています。
