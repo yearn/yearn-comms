@@ -1,19 +1,19 @@
 # Top Menu
 topmenu:
 
-- title: Annoucements
+- title: Thông báo
   url: "annoucements/"  
 
-- title: Newsletters
+- title: Bản Tin
   url: "newsletters/"
 
-- title: Tweets
+- title: Tweet
   url: "tweets/"
 
-- title: Articles
+- title: Bài viết
   url: "articles/"
 
-- title: Financials
+- title: Tài chính
   url: "financials/"
 
 - title: yearn.finance
@@ -24,7 +24,7 @@ topmenu:
 # Footer Menu
 footermenu:
 
-- title: about
+- title: chi tiết
   url: "about/"
 
 - title: github
@@ -37,17 +37,17 @@ footermenu:
   class: "ml-2 btn btn-primary text-white px-3"
   external: true
 
-- title: yearn docs
+- title: tư liệu yearn
   url: https://docs.yearn.finance/
   class: "ml-2 btn btn-primary text-white px-3"
   external: true
 
-- title: yearn contribute
+- title: Đóng góp cho yearn
   url: https://contribute.yearn.rocks
   class: "ml-2 btn btn-primary text-white px-3"
   external: true  
 
-- title: yearn onboarding
+- title: yia nhập yearn
   url: https://yearnfinance.notion.site
   class: "ml-2 btn btn-primary text-white px-3"
   external: true  
