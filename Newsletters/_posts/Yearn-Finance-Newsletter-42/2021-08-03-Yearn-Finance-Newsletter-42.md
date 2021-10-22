@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Bản tin Yearn.Finance Số #42"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-42/image1_newsletter_header_vn.png
+author: Yearn
+translator: 🤖💵💵💰💰.eth
+publish: true
+---
+
 # Bản tin Yearn.Finance Số #42
 
 ![](image1_newsletter_header_vn.png)
