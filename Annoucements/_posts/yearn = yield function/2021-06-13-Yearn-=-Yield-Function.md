@@ -5,7 +5,7 @@ categories: [ Annoucements ]
 image: ./Yearn-=-Yield-Function/yield1.jpg
 author: Yearn
 translator:
-publish: true
+publish: false
 ---
 
 ![](yield1.jpg)
