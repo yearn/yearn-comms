@@ -4,4 +4,4 @@ title: Newsletters
 permalink: "/newsletters/"
 ---
 
-This page collects Yearn Newsletters.
+このページでは、Yearnのニュースレターを掲載しています。
