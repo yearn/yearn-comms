@@ -1,7 +1,7 @@
 title: "Yearn Blog"
 email: yearnblog@protonmail.com
 timezone: UTC
-url: https://yearn-comms.vercel.app
+url: https://vietnamese-yearn-comms.vercel.app
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/yearn_logo.svg'
