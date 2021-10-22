@@ -1,12 +1,12 @@
-# Yearn Finance Newsletter #48
+# Newsletter #47 de Yearn Finance
 
-### Week Ending October 10th, 2021
+### Semana del 16 de Octubre de 2021
 
 ![](image1.png)
 
-Welcome to the 48th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Bienvenidos a la edición número 47 de la newsletter de Yearn Finance. Nuestro objetivo es mantener informada a la comunidad de Yearn y de cripto en general con las últimas noticias, incluyendo lanzamiento de productos, cambios de gobernanza y actualizaciones del ecosistema. Si estás interesado en aprender más sobre Yearn Finance, sigue las cuentas oficiales de [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn).
 
-## Summary
+## Resumen
 
 -   Yearn Goes Multichain with Fantom
     
