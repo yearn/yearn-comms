@@ -1,91 +1,95 @@
 ---
 layout: post
-title:  "Easily earn with Yearn V2 in Argent"
+title:  "Kiếm tiền dễ dàng với Yearn V2 trong Argent"
 categories: [ Articles ]
 image: ./easily-earn-with-yearn-v2-in-argent/Image1.jpg
 author: Argent
-translator:
+translator: 🤖💵💵💰💰.eth
 publish: true
 ---
 
-# Easily earn with Yearn v2 in Argent
+# Kiếm tiền dễ dàng với Yearn V2 trong Argent
+![](1argent_yearn-v2-article.jpg)
 
-![](Image1.jpg)
+Các Kho bạc Yearn V2 giờ chỉ một chạm là tới trong ví Argent! Kiếm lên đến 16.47% APY\* Ròng với hệ thống tự động tạo hoa lợi. Tính năng này dựa trên [Kho bạc V1](https://www.argent.xyz/blog/yearn-vaults-in-argent/) của Yearn mà chúng tôi hỗ trợ.
 
-Yearn V2 Vaults are now just a tap away in Argent! Earn up to 16.47% Net APY\* with automated yield generation. This builds on our existing support for Yearn's [V1 Vaults](https://www.argent.xyz/blog/yearn-vaults-in-argent/).
+## **Lợi ích khi sử dụng Yearn với Argent**
 
-## **Benefits of using Yearn with Argent**
+Kiếm tiền với [Yearn](https://yearn.finance/vaults) qua Argent rất độc đáo là vì:
 
-Earning with [Yearn](https://yearn.finance/vaults) through Argent is unique because of its:
+* **Đơn giản**: Chỉ cần một giao dịch. (Không cần thực hiện giao tác "duyệt").
+* **An toàn:** Không có chuyện duyệt số lượng tôken không giới hạn ('infinite token approval'); chỉ tự động duyệt những gì cần dùng. Bạn cũng yên tâm rằng mình luôn tương tác với hợp đồng ('contract') đúng.
 
-- **Simplicity**: Only one transaction required. (No need for a separate approval).
-- **Security**: No infinite token approvals; you automatically only approve what you need to spend. You also have peace of mind that you're interacting with the right contracts.
+Chúng tôi đã chính thức phát hành với 7 Kho bạc (USDC, DAI, SNX, 1INCH, YFI, WBTC, USDT, UNI, ETH).
 
-We've launched with 7 Vaults (USDC, DAI, SNX, 1INCH, YFI, WBTC, USDT, UNI, ETH).
+**Tại sao Yearn đáng chú ý**
 
-## **Why Yearn matters**
+Yearn đã tăng trưởng với [tốc độ chóng mặt](https://defipulse.com/yearn.finance) kể từ lúc phát hành vào đầu năm 2020. Yearn giúp bất cứ ai cũng có thể dễ dàng "cày" hoa lợi (tối đa hóa lợi nhuận từ tài sản của mình bằng cách sử dụng nhiều giao thức ĐeFi). Có thể so sánh Yearn như cách đầu tư thụ động (hay phòng vệ).
 
-Yearn has grown at a [monumental pace](https://defipulse.com/yearn.finance) since its launch in early 2020. Yearn makes it easy for anyone to "yield farm" (trying to maximize the return on your assets by utilizing multiple DeFi protocols). Yearn compare their approach to passive investing.
+![](2argent_Yearn+TVL+.jpg)
+Biểu đồ của DeFi Pulse thể hiện Tổng Giá trị Ký gửi ('Total Value Locked' hay TVL) trong Yearn.Finance
 
-![](Image2.jpg)DeFi Pulse Graph showing the total value locked (TVL) in Yearn.Finance
+Chưa kể lợi ích lớn từ việc tiết kiệm chi phí sử dụng mạng Ethereum ("phí gas"). Phí gas được "xã hội hóa" giữa tất cả những ai cùng sử dụng một Kho bạc ('Vault'), mang lại hiệu quả kinh tế cho người dùng bình thường.
 
-There's also a big benefit when it comes to Ethereum network fees ('gas'). Gas is "socialized" across everyone using that Vault making it much more economical for the average user.
+[Các chiến lược](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) được cộng đồng đề xuất và biểu quyết thông qua bởi hệ thống quản trị của Yearn.
 
-[Strategies](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) are proposed by the community and voted on by Yearn's governance.
+Với V2, mỗi Kho bạc ('Vault') có thể vận dụng nhiều chiến lược cùng lúc, trong khi V1 bị giới hạn ở một chiến lược mỗi kho.
 
-With V2, each Vault can employ multiple strategies, whereas V1 Vaults used just one each.
+## **Cách sử dụng Kho bạc Yearn V2 trong Argent**
 
-## **How to use Yearn V2 Vaults in Argent**
+### **Mua**
 
-### **Buy**
+* Bấm vào mục **"Đầu tư" (hay 'Invest')** trong Argent
+* Bấm **"Kho bạc Yearn V2" (hay 'Yearn V2 Vaults')**
+* Chọn một Kho bạc ('Vault')
+* Bấm **"Mua Đầu tư" (hay 'Buy Investment')**
+* Chọn số lượng (& chắc chắn rằng chi phí dùng mạng là chấp nhận được đối với mình)
+* Mua
 
-- Tap **'Invest'** tab in Argent
-- Tap **'Yearn V2 Vaults'**
-- Choose a Vault
-- Tap **'Buy Investment'**
-- Select amount (& confirm you're happy with the network fee)
-- Buy
+### **Chi phí**
 
-### **Fees**
+Argent không thu phụ phí gì.
 
-Argent does not take a fee.
+Yearn thu:
 
-Yearn takes:
+* 20% phí thành quả (trừ đi từ hoa lợi)
+* 2% phí quản lý (trừ đi từ tổng số dư hàng năm)
 
-- 20% performance fee (deducted from the yield)
-- 2% management fee (deducted from total balance per year).
+Bạn cũng cần phải trả phí gas.
 
-You also need to pay for gas.
+![](3argent_yearn-v2-blog-post_background_black.jpg)
+Sử dụng Yearn trong ứng dụng Argent
 
-![](Image3.jpg)
-Using yearn in the Argent app
+## **Theo dõi hiệu suất Kho bạc ('Vault') của mình**
 
-## **Tracking your Vault's performance**
+Số dư không cập nhật đều đặn vì nó phụ thuộc vào thời điểm gọi chức năng "harvest()" vốn "diễn ra bất thường", theo tư liệu của Yearn.
 
-Balances are not updated continuously; they are updated on a "fluctuating basis", according to Yearn.
+Để theo dõi lợi nhuận, bạn có thể sử dụng:
 
-To track the returns, you can use
+* [Zapper](https://zapper.fi/)
+* [Zerion](https://app.zerion.io/)
+* [Bộ tính ROI Kho bạc Yearn](https://yearn-roi.xyz/#/)
+* [yVault ROI](https://yvault-roi.netlify.app/)
 
-- [Zapper](https://zapper.fi/)
-- [Zerion](https://app.zerion.io/)
-- [Yearn Vault ROI Calculator](https://yearn-roi.xyz/#/)
-- [yVault ROI](https://yvault-roi.netlify.app/)
+## **Đọc thêm & nguồn tham khảo**
 
-## **Further reading & resources**
+* [Tư liệu của Yearn](https://docs.yearn.finance/)
+* [Tình trạng các Kho bạc của Yearn (cập nhật hàng tuần)](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)
+* [Twitter của Yearn](https://twitter.com/iearnfinance) 
 
-- [Yearn's docs](https://docs.yearn.finance/)
-- [Yearn's State of the Vaults (weekly update)](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)
-- [Yearn's Twitter](https://twitter.com/iearnfinance)
+## **Rủi ro**
 
-## **Risks**
+Như thường lệ, trong thế giới tiền mã thuật số ('crypto') và ĐeFi, bạn phải tự mình đánh giá cũng như nghiên cứu kỹ rủi ro. Những rủi ro này có thể bao gồm vấn đề về hợp đồng thông minh ('smart contract') và kinh tế của các giao thức. Báo cáo kiểm toán Yearn được công bố [tại đây](https://docs.yearn.finance/resources/audits).
 
-As always in crypto and DeFi, you should do your own research on the risks. These include smart contracts and the economics of the protocols. Yearn's audits can be found [here](https://docs.yearn.finance/resources/audits).
+\*APY (Phần trăm Hoa lợi Một năm) là một biến số và không nên áp dụng máy móc định nghĩa này như thường gặp ở tài chính truyền thống (tập trung). Xin vui lòng xem [phân tích của Yearn](https://docs.yearn.finance/resources/guides/how-to-understand-yvault-roi#roi-calculation) để biết thêm chi tiết về mặt tính toán.
 
-\*APY is variable and the concept does not technically directly apply as it does in centralized finance. Please see [Yearn's explanation](https://docs.yearn.finance/resources/guides/how-to-understand-yvault-roi#roi-calculation) for more.
+## **Tải Argent**
 
-## **Download Argent**
+Bắt đầu với Argent [tại đây](https://argent.link/yearn-v2-post). Nếu có bất kỳ thắc mắc nào, bạn có thể liên lạc với chúng tôi qua:
 
-Get started with Argent [here](https://argent.link/yearn-v2-post). If you have any questions you can find us at:
+* [Discord](https://discord.com/invite/GWSyrHg)
+* [Twitter](https://twitter.com/argentHQ)
+* [Kênh Hỗ trợ](https://support.argent.xyz/hc/en-us)
 
 - [Discord](https://discord.com/invite/GWSyrHg)
 - [Twitter](https://twitter.com/argentHQ)
