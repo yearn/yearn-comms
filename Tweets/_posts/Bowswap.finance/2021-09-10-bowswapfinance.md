@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Bowswap Finance"
+categories: [ Tweets ]
+image: ./bowswapfinance/image1_bowswap_vi.jpg
+author: Facu
+translator: 🤖💵💵💰💰.eth
+publish: true
+---
+
 Tác giả: @[Facu](https://twitter.com/fameal)
 
 Liên kết: https://twitter.com/fameal/status/1424857239505018880
