@@ -7,34 +7,36 @@ image:
 
 ### yearn-comms
 
-This is a collection of communication, announcements, tweets, newsletters, and other articles about yearn.
+这是个收集Yearn的通讯，公告，推文，周报和其他文章的集合
 
-### Translations
+这个博客是由[@qosmonot](https://twitter.com/cryptouf)和[@DarkGhosty](https://t.me/DarkGhosty)建立和维护的
 
-All content here has been translated into your language by our contributors. They are also hard at work translating the docs and generally pushing DeFi and crypto content all around the world!
+### 翻译
 
-for Chinese / 汉语 : [@Bee926](https://twitter.com/bee_926){:target="_blank"}, [@mesa1ee](https://twitter.com/mesa1ee){:target="_blank"}
+此处所有内容已由我们的贡献者翻译成您的母语。他们也正在非常努力地翻译我们的文档并在世界各个角落推广DeFi和加密内容。
 
-for French / Français :  [@Cryptouf](https://twitter.com/cryptouf){:target="_blank"}
+Chinese / 汉语 : [@Bee926](https://twitter.com/bee_926){:target="_blank"}, [@mesa1ee](https://twitter.com/mesa1ee){:target="_blank"}
 
-for German / Deutsch : [@Nesyeth](), [@fin2thepeople](), [@jeffor12](https://twitter.com/jeff84431381){:target="_blank"}
+French / Français :  [@Cryptouf](https://twitter.com/cryptouf){:target="_blank"}
 
-for Hindi / हिन्दी : [@jengajojo](), [@Major-Rager]()
+German / Deutsch : [@Nesyeth](), [@fin2thepeople](), [@jeffor12](https://twitter.com/jeff84431381){:target="_blank"}
 
-for Japanese / 日本語 : [@Cripu](https://twitter.com/CRYPTANNEWS){:target="_blank"}
+Hindi / हिन्दी : [@jengajojo](), [@Major-Rager]()
 
-for Portuguese / Português : [@JKtranslator]()
+Japanese / 日本語 : [@Cripu](https://twitter.com/CRYPTANNEWS){:target="_blank"}
 
-for Spanish / Español : [RestlessMik3](https://twitter.com/margjr84){:target="_blank"}, [@japzar]()
+Portuguese / Português : [@JKtranslator]()
 
-for Turkish / Türkçe : [@Dastronom](https://twitter.com/Dastronomm){:target="_blank"}
+Spanish / Español : [RestlessMik3](https://twitter.com/margjr84){:target="_blank"}, [@japzar]()
 
-for Vietnamese / Tiếng Việt : [@xy-cypher]()
+Turkish / Türkçe : [@Dastronom](https://twitter.com/Dastronomm){:target="_blank"}
 
-### Join us!
+Vietnamese / Tiếng Việt : [@xy-cypher]()
 
-If you have written about us, and would like to be featured here, please get in touch with [@user]().
+### 加入我们
 
-If you would like to help us share our articles in your language, please reach out to [@user]().
+如果您写了关于我们的文章并希望被添加到我们的集合中，请联系[@DarkGhosty](https://t.me/DarkGhosty)
 
-Interested in working at Yearn? Yearn is always looking for enthusiastic contributors and there is always work to be done in the Yearn DAO. Please check [https://yearnfinance.notion.site/](https://yearnfinance.notion.site/){:target="_blank"}, where you will find information on how to get started.
+如果您想帮我们以您的母语分享我们的文章，请联系[@DarkGhosty](https://t.me/DarkGhosty)
+
+有兴趣在Yearn工作吗？Yearn总是在找贡献者，在Yearn DAO中总是有工作要做。 请查看[https://yearnfinance.notion.site/](https://yearnfinance.notion.site/)，在那里您可以找到有关如何开始的信息。
