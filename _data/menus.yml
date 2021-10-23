@@ -1,19 +1,19 @@
 # Top Menu
 topmenu:
 
-- title: Annoucements
-  url: "annoucements/"  
+- title: 公告
+  url: "annoucements/"
 
-- title: Newsletters
+- title: 周报
   url: "newsletters/"
 
-- title: Tweets
+- title: 推文
   url: "tweets/"
 
-- title: Articles
+- title: 文章
   url: "articles/"
 
-- title: Financials
+- title: 财务报告
   url: "financials/"
 
 - title: yearn.finance
@@ -24,7 +24,7 @@ topmenu:
 # Footer Menu
 footermenu:
 
-- title: about
+- title: 有关
   url: "about/"
 
 - title: github
@@ -37,17 +37,17 @@ footermenu:
   class: "ml-2 btn btn-primary text-white px-3"
   external: true
 
-- title: yearn docs
+- title: 文档
   url: https://docs.yearn.finance/
   class: "ml-2 btn btn-primary text-white px-3"
   external: true
 
-- title: yearn contribute
+- title: 贡献
   url: https://contribute.yearn.rocks
   class: "ml-2 btn btn-primary text-white px-3"
-  external: true  
+  external: true
 
-- title: yearn onboarding
+- title: 入职流程
   url: https://yearnfinance.notion.site
   class: "ml-2 btn btn-primary text-white px-3"
-  external: true  
+  external: true
