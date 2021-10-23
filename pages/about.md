@@ -15,23 +15,23 @@ image:
 
 此处所有内容已由我们的贡献者翻译成您的母语。他们也正在非常努力地翻译我们的文档并在世界各个角落推广DeFi和加密内容。
 
-Chinese / 汉语 : [@Bee926](https://twitter.com/bee_926){:target="_blank"}, [@mesa1ee](https://twitter.com/mesa1ee){:target="_blank"}
+Chinese / 汉语 : [@Bee926](https://twitter.com/bee_926), [@mesa1ee](https://twitter.com/mesa1ee)
 
-French / Français :  [@Cryptouf](https://twitter.com/cryptouf){:target="_blank"}
+French / Français :  [@Cryptouf](https://twitter.com/cryptouf)
 
-German / Deutsch : [@Nesyeth](), [@fin2thepeople](), [@jeffor12](https://twitter.com/jeff84431381){:target="_blank"}
+German / Deutsch : @Nesyeth, @fin2thepeople, [@jeffor12](https://twitter.com/jeff84431381)
 
-Hindi / हिन्दी : [@jengajojo](), [@Major-Rager]()
+Hindi / हिन्दी : @jengajojo, @Major-Rager
 
-Japanese / 日本語 : [@Cripu](https://twitter.com/CRYPTANNEWS){:target="_blank"}
+Japanese / 日本語 : [@Cripu](https://twitter.com/CRYPTANNEWS)
 
-Portuguese / Português : [@JKtranslator]()
+Portuguese / Português : @JKtranslator
 
-Spanish / Español : [RestlessMik3](https://twitter.com/margjr84){:target="_blank"}, [@japzar]()
+Spanish / Español : [RestlessMik3](https://twitter.com/margjr84), @japzar
 
-Turkish / Türkçe : [@Dastronom](https://twitter.com/Dastronomm){:target="_blank"}
+Turkish / Türkçe : [@Dastronom](https://twitter.com/Dastronomm)
 
-Vietnamese / Tiếng Việt : [@xy-cypher]()
+Vietnamese / Tiếng Việt : [🤖💵💵💰💰.eth](https://y.at/🤖💵💵💰💰)
 
 ### 加入我们
 
