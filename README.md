@@ -1,2 +1,2 @@
 # yearn-comms
-This is a collection of communication, announcements, tweets, newsletters, and other articles about yearn. 
+这是个收集Yearn的通讯，公告，推文，周报和其他文章的集合
