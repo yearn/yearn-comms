@@ -41,7 +41,7 @@ post_class: post-template
 				{% if page.author %}
 				<div class="post-date">
 					<div class="">
-						By {{ author.display_name }}
+						由 {{ author.display_name }} 撰写
 
 						{% if author.twitter %}
 						<a target="_blank" href="{{ author.twitter }}" class="btn follow">Twitter</a>
@@ -66,7 +66,7 @@ post_class: post-template
 				{% if page.translator %}
 				<div class="post-date">
 					<div class="font-italic">
-						translated by {{ translator.display_name }}
+						由 {{ translator.display_name }} 翻译
 
 						{% if translator.twitter %}
 						<a target="_blank" href="{{ translator.twitter }}" class="btn follow">Twitter</a>
