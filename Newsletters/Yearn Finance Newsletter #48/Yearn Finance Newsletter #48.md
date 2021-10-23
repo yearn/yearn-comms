@@ -8,128 +8,128 @@ Bienvenidos a la edición número 47 de la newsletter de Yearn Finance. Nuestro 
 
 ## Resumen
 
--   Yearn Goes Multichain with Fantom
+-   Yearn se convierte en multicadena con Fantom
     
--   Yearn Reaches $5B TVL (Again)
+-   Yearn alcanza los $5.000 millones de TVL (de nuevo)
     
--   How You Can Contribute to Yearn
+-   Cómo puede contribuir a Yearn
     
--   Call for Ideas: YFI Tokenomics Revamp
+-   Convocatoria de ideas: Renovación de Tokenomics de YFI
     
--   Transparency at Yearn
+-   Transparencia en Yearn
     
--   Vaults at Yearn
+-   Vaults en Yearn
     
--   Ecosystem News
+-   Noticias del ecosistema
 
-## Yearn Goes Multichain with Fantom
+## Yearn se convierte en multicadena con Fantom
 
 ![](image2.png)
 
-The Realm of Multichain beckons. And Yearn has heeded the call. 
+El Reino Multicadena llama. Y Yearn ha atendido la llamada. 
 
-Today, we go multichain with the launch of Iron Bank Fantom and the first Fantom vaults on
+Hoy, nos volvemos multicadena con el lanzamiento de Iron Bank Fantom y las primeras bóvedas de Fantom en
 
 https://beta.yearn.finance
 
-You may ask, “Why multichain now?”. This is because Yearn requires specific infrastructure to safely and efficiently function, both external (Gnosis safe, DEX liquidity, block explorer) and internal (frontend and backend).
+Te preguntarás, “¿Por qué multicadena ahora?”. Esto se debe a que Yearn requiere una infraestructura específica para funcionar de forma segura y eficiente, tanto externa (Gnosis safe, liquidez DEX, explorador de bloques) como interna (frontend y backend).
 
-Our v2 vault codebase has hardened over the past few months, and the new beta website is a vast improvement, allowing us to switch chains relatively easily, something we simply could not have done in the past.
+La base de código de nuestra bóveda v2 se ha endurecido en los últimos meses, y el nuevo sitio web beta es un gran avance que nos permite cambiar de cadena con relativa facilidad, algo que no podíamos hacer en el pasado.
 
-Fantom is fast, simple to use, and easy to bridge to thanks to Anyswap. Additionally, it is well-supported by our development tools and by our Iron Bank partners at CREAM Finance. Check out the article on the Fantom Iron Bank [here](https://medium.com/cream-finance/c-r-e-a-m-dd4982004bb9).  
+Fantom es rápido, fácil de usar y fácil de conectar gracias a Anyswap. Además, está bien respaldado por nuestras herramientas de desarrollo y por nuestros socios de Iron Bank en CREAM Finance. Consulte el artículo sobre Iron Bank en Fantom [aquí](https://medium.com/cream-finance/c-r-e-a-m-dd4982004bb9).  
   
-And it doesn't hurt that Andre Cronje is a big fan.
+Y no está de más que Andre Cronje sea un gran admirador.
 
-The first vaults on Fantom are: yvWFTM, yvUSDC, yvDAI, and yvMIM. We’ve launched support for a native Fantom Iron Bank as well. Head to [beta.yearn.finance](https://beta.yearn.finance) to check them out for yourself.
+Las primeras bóvedas en Fantom son: yvWFTM, yvUSDC, yvDAI y yvMIM. También lanzamos soporte para un Iron Bank en Fantom nativo. Dirígase a [beta.yearn.finance](https://beta.yearn.finance) para comprobarlas usted mismo.
 
-So to answer your questions of when Arbitrum, Optimism, Polygon, Avalanche, and others are arriving, there will definitely be more multichain fun coming soon. Ultimately, we’d love to bring Yearn to any chain where we can safely operate and simplify the process of earning yield for users and partners.
+Así que para responder a sus preguntas sobre cuándo llegarán Arbitrum, Optimism, Polygon, Avalanche y otros, definitivamente habrá más diversión multicadena pronto. Por último, nos encantaría llevar Yearn a cualquier cadena en la que podamos operar con seguridad y simplificar el proceso de obtención de rendimiento para los usuarios y socios.
 
-The Realm expands and we go with it. We want to meet people where they are, including new users and users with smaller deposits. Multichain expansion is a natural way to do this.
+El Dominio se expande y nosotros también. Queremos conocer a las personas donde sea que estén, incluidos los nuevos usuarios y los usuarios con depósitos más pequeños. Expandirse a varias cadenas es la forma natural de hacer esto.
 
-Got questions or want to learn more? Join us on Telegram or [Discord](https://discord.com/invite/SNPvCpjRET).
+¿Tiene preguntas o quiere saber más? Únase a nosotros en Telegram o [Discord](https://discord.com/invite/SNPvCpjRET).
 
-## Yearn Reaches $5B TVL (Again)
+## Yearn alcanza los $5.000 millones de TVL (de nuevo)
 
  ![](image3.png)
 
-Total value locked across all Yearn products has surpassed $5 billion once again, and $1 billion has been added in the last month alone. Yearn is continuing to see parabolic growth among its products with no indication of slowing down. The Iron Bank and v2 vaults are particularly notable components of our exponential growth. You can view and track TVL metrics among our products using [yearn.science](https://yearn.science/). 
+El valor total bloqueado en todos los productos de Yearn ha vuelto a superar los $5.000 millones, y sólo en el último mes se han añadido $1.000 millones. Yearn continúa experimentando un crecimiento parabólico entre sus productos sin indicios de que vaya a frenar. Iron Bank y las bóvedas v2 son componentes particularmente notables de nuestro crecimiento exponencial. Puede ver y seguir las métricas de TVL entre nuestros productos utilizando [yearn.science](https://yearn.science/). 
 
-A big thank you to everyone in the Yearn ecosystem, our partners, and of course you, the users.
+Muchas gracias a todos los integrantes del ecosistema de Yearn, a nuestros socios y, por supuesto, a ustedes, los usuarios.
 
-## How You Can Contribute to Yearn
+## Cómo puede contribuir a Yearn
 
  ![](image4.png)
 
-You may ask, “How can I contribute to Yearn?” For one, Yearn has no papers of incorporation, no headquarters, nor even a list of names and locations for its contributors. It’s a radical experiment in decentralization & here’s how easy it is to get involved.
+Te preguntarás: "¿Cómo puedo contribuir a Yearn?". Por un lado, Yearn no tiene documentos de incorporación, ni sede, ni siquiera una lista de nombres y ubicaciones de sus contribuyentes. Es un experimento radical de descentralización y así es cómo puede involucrarse fácilmente.
 
-Visit our public page at [yearnfinance.notion.site](https://yearnfinance.notion.site). Here, you’ll learn about Yearn’s decentralized structure, culture of doing, open roles, and how to get in touch.
+Visite nuestra página pública en [yearnfinance.notion.site](https://yearnfinance.notion.site). Aquí, aprenderá sobre la estructura descentralizada de Yearn, la cultura del hacer, los roles abiertos y cómo ponerse en contacto.
 
-Looking to jump in now and start doing? 1. Visit [contribute.yearn.rocks](https://contribute.yearn.rocks) 2. Scan the list of available tasks 3. Do one that you want to do!
+¿Quiere lanzarse ahora y empezar a hacerlo? 1. Visite [contrib.yearn.rocks](https://contribute.yearn.rocks) 2. Escanee la lista de tareas disponibles 3. ¡Haz una que quieras hacer!
 
-Don’t see a task you want to do on the list? Good. You may know what Yearn is better than we do. Come show us. Submit your idea in our [shimmy pool of ideas](https://yearnfinance.notion.site/Pool-of-Ideas-d75383ade9154d8bb6163388c6c2b39b). Or join us in [Discord](https://discord.com/invite/6PNv2nF) and share your voice.
+¿No ve una tarea que desea hacer en la lista? Perfecto. Puede que sepa qué es Yearn mejor que nosotros. Venga a mostrarnos. Envíe su idea a nuestro [grupo de ideas](https://yearnfinance.notion.site/Pool-of-Ideas-d75383ade9154d8bb6163388c6c2b39b). O únase a nosotros en [Discord](https://discord.com/invite/6PNv2nF) y comparta su voz.
 
-How to farm YFI by working for a DAO: When other Yearn contributors see your work, they can vouch for you in Coordinape Gorilla and you’ll be on your way to earning YFI! Check out Coordinape [here](https://coordinape.com).
+Cómo farmear YFI trabajando para un DAO: cuando otros colaboradores de Yearn vean su trabajo, ¡pueden responder por usted en Coordinape Gorilla y estará en camino de ganar YFI! Eche un vistazo a Coordinape [aquí](https://coordinape.com).
 
-Here’s what we believe: If you have fallen down Yearn's gravity well, there is a reason. Let's bump against the impossible and see if it moves.
+Esto es lo que creemos: si has caído en el pozo de gravedad de Yearn, hay una razón. Choquemos contra lo imposible y veamos si se mueve.
 
-We are building a ship. It will carry anyone who wants to board. Any age, any gender, any worldview. You are all welcome. Yearn is a ship from the fleet of tomorrow. And all that matters is that we sail.
+Estamos construyendo un barco. Llevará a todo el que quiera embarcar. Cualquier edad, cualquier género, cualquier cosmovisión. Todos son bienvenidos. Yearn es un barco de la flota del mañana. Y lo único que importa es que naveguemos.
 
-What if the most radical component of Yearn isn’t the yield machine, after all? The machine is a technical apparatus constructed of code. It cannot exist without its network of hearts and minds.
+¿Y si el componente más radical de Yearn no es, después de todo, la máquina de rendimiento? La máquina es un aparato técnico construido con código. No puede existir sin su red de corazones y mentes.
 
-Perhaps the network itself is the most radical part of Yearn… our unique DAO and those who embody it. Perhaps the most radical component of Yearn will soon be you.
+Quizás la propia red es la parte más radical de Yearn... nuestra DAO única y quienes lo encarnan. Quizás el componente más radical de Yearn pronto seas tú.
 
-Check out more details [here](https://twitter.com/iearnfinance/status/1445799269189881864?s=20).
+Consulte más detalles [aquí](https://twitter.com/iearnfinance/status/1445799269189881864?s=20).
 
-## Call for Ideas: YFI Tokenomics Revamp
+## Convocatoria de Ideas: Renovación de Tokenomía de YFI
 
 ![](image5.png)
 
-With the renewed interest in YFI tokenomics in recent days and the v3 protocol development still being in the phase when it’s malleable enough, it might be a good time to properly tie the two together. Everything is on the table, be it token split, liquidity mining, tail emission, veCRV-style lockups. If you started YFI right now, how would you structure it? We are looking forward to the suggestions that our community puts forward, and would love to implement it in the future.
+Con el renovado interés por la tokenomía de YFI en los últimos días y el desarrollo del protocolo v3 todavía en una fase suficientemente maleable, podría ser un buen momento para unir adecuadamente ambos. Todo está sobre la mesa, ya sea la división de tokens, minería de liquidez, emisión de cola y bloqueos al estilo veCRV. Si comenzara YFI ahora mismo, ¿cómo lo estructuraría? Esperamos las sugerencias de nuestra comunidad y nos encantaría ponerlas en práctica en el futuro.
 
-Check out the forum post [here](https://gov.yearn.finance/t/call-for-ideas-yfi-tokenomics-revamp/11573/8).
+Consulte la publicación del foro [aquí](https://gov.yearn.finance/t/call-for-ideas-yfi-tokenomics-revamp/11573/8).
 
-## Transparency at Yearn
+## Transparencia en Yearn
 
 ![](image6.png)
 
-Through transparency and on-chain verifiability, we firmly believe crypto will change the world. Yearn hopes to exemplify this transparency, and below, we have showcased some examples.
+Mediante la transparencia y la verificabilidad on-chain, creemos firmemente que las criptomonedas cambiarán el mundo. Yearn espera ejemplificar esta transparencia y, a continuación, mostramos algunos ejemplos.
 
-See Yearn’s balance sheets, EBITDA, income and more every quarter: [https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf)
+Consulte los balances, el EBITDA, los ingresos y más de Yearn cada trimestre: [https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf)
 
-In fact, you can track every single Yearn-related transaction in real time at [yfistats.com](https://www.yfistats.com/). There, you’ll find sortable: transaction records, protocol income, protocol expenses, income statements, EOM balances, harts, revenue projections, $YFI buybacks, & much more. All of this information is carefully curated by the yBudget team and, as usual, freely accessible to everyone.
+De hecho, puede seguir cada una de las transacciones relacionadas con Yearn en tiempo real en [yfistats.com](https://www.yfistats.com/). Allí, encontrará varios clasificables: registros de transacciones, ingresos de protocolo, gastos de protocolo, declaraciones de ingresos, balances de fin de mes, reservas, proyecciones de ingresos, recompras de $YFI y mucho más. Toda esta información está cuidadosamente seleccionada por el equipo de yBudget y, como siempre, es de libre acceso para todos.
 
-Don’t like websites? You can even track our income with custom “harvest bots” in [Discord](https://discord.com/invite/6PNv2nF) and [Telegram](https://t.me/yfi_harvest_tracker).
+¿No le gustan los sitios web? Incluso puede seguir nuestros ingresos con "bots de colectas" personalizados en [Discord](https://discord.com/invite/6PNv2nF) y [Telegram](https://t.me/yfi_harvest_tracker).
 
-Want to join one of the most open and transparent platforms in history? Good news: we show you exactly how you can contribute with a list of tasks just waiting for new contributors: https://contribute.yearn.rocks
+¿Quiere unirse a una de las plataformas más abiertas y transparentes de la historia? Buenas noticias: le mostramos exactamente cómo puede contribuir con una lista de tareas a la espera de nuevos colaboradores: https://contribute.yearn.rocks
 
-The future is here, it’s just not evenly distributed.
+El futuro está aquí, simplemente no está distribuido de manera uniforme.
 
-Thank you to the Yearn community and all the contributors at Yearn who helped to make this happen. If you’d like to contribute, come join our public [discord](https://discord.gg/8rF374XkXy), create an issue in one of the [repos](https://github.com/yearn) linked in the [medium](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f), or share your designs with us on [twitter](https://twitter.com/iearnfinance)!
+Gracias a la comunidad de Yearn y a todos los colaboradores de Yearn que ayudaron a que esto sucediera. Si desea contribuir, únase a nuestro [Discord](https://discord.gg/8rF374XkXy) público , cree un problema en uno de los [repositorios](https://github.com/yearn) vinculados en el [Medium](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f), ¡o comparta sus diseños con nosotros en [twitter](https://twitter.com/iearnfinance)!
 
-Read an in-depth thread on Yearn’s transparency [here](https://twitter.com/iearnfinance/status/1445143482830446600?s=20).
+Lea un hilo en profundidad sobre la transparencia de Yearn [aquí](https://twitter.com/iearnfinance/status/1445143482830446600?s=20).
 
-Check out the vaults [here](http://yearn.finance/vaults).
+Consulte las vaults [aquí](http://yearn.finance/vaults).
 
-## Vaults At Yearn
+## Vaults en Yearn
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Puede leer una descripción detallada de las estrategias de todas nuestras yVaults activas [aquí](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-## Ecosystem News
+## Noticias del ecosistema
 
-[MyEtherWallet users now have access to Yearn vaults on the Android app](https://twitter.com/myetherwallet/status/1443283619867414537)
+[Los usuarios de MyEtherWallet ahora tienen acceso a las vaults de Yearn en la aplicación de Android](https://twitter.com/myetherwallet/status/1443283619867414537)
 
-[storming0x has joined yAcademyDAO, where he will be starting off auditing a rebalancer strategy for Yearn](https://twitter.com/yAcademyDAO/status/1443138482604371974)
+[storming0x se ha unido a yAcademyDAO, donde comenzará a auditar una estrategia de reequilibrio para Yearn](https://twitter.com/yAcademyDAO/status/1443138482604371974)
 
-[Check out a comprehensive report on Yearn written by the Economics Design team](https://econteric.com/fundamentals/yearn-finance/)
+[Consulte un informe completo sobre Yearn escrito por el equipo de Diseño Económico](https://econteric.com/fundamentals/yearn-finance/)
 
-[Earn fixed APR on your YFI or speculate on YFI’s variable yield on Aave on 88mph](https://twitter.com/88mphapp/status/1445880439420325889)
+[Obtenga APR fijo en su YFI o especule sobre el rendimiento variable de YFI en Aave en 88mph](https://twitter.com/88mphapp/status/1445880439420325889)
 
-[A proposal has been created to donate Curve voter airdrops to yvBOOST ](https://gov.yearn.finance/t/donate-curve-voter-airdrops-to-yvboost/11587)
+[Se ha creado una propuesta para donar airdrops de votantes de Curve a yvBOOST](https://gov.yearn.finance/t/donate-curve-voter-airdrops-to-yvboost/11587)
 
-[Check out a summary of issues and fixes that the yAcademyDAO has recently made for a Yearn strategy](https://twitter.com/yAcademyDAO/status/1445414387573997569)
+[Consulte un resumen de problemas y soluciones que yAcademyDAO ha realizado recientemente para una estrategia Yearn](https://twitter.com/yAcademyDAO/status/1445414387573997569)
 
-[As integrators, we urge COMP holders to vote on cancelling the passage of Compound Proposal 63](https://twitter.com/bantg/status/1445312250827390979?s=20)
+[Como integradores, instamos a los holders de COMP a votar para cancelar la aprobación de la Propuesta Compuesta 63](https://twitter.com/bantg/status/1445312250827390979?s=20)
 
-[Yearn v2 portfolios on Fantom are now tracked on DeBank](https://twitter.com/DeBankDeFi/status/1446624448744886273)
+[Los portafolios de Yearn v2 en Fantom ahora se registran en DeBank](https://twitter.com/DeBankDeFi/status/1446624448744886273)
 
-[Short thread on Yearn and the future from Wot\_Is\_Goin\_On](https://twitter.com/Wot_Is_Goin_On/status/1446540007292952579)
+[Hilo breve sobre Yearn y el futuro de Wot \ _Is \ _Goin \ _On](https://twitter.com/Wot_Is_Goin_On/status/1446540007292952579)
