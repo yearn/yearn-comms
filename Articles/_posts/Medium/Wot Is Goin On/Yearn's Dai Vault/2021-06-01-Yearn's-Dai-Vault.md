@@ -4,6 +4,7 @@ title:  "Yearn’s Dai Vault —did you know it’s now a top 20 DeFi protocol?"
 categories: [ Articles ]
 image: ./Yearn's-Dai-Vault/img-Wot_Is_Goin_On.png
 author: Wot_Is_Goin_On
+translator: 
 published: false
 ---
 

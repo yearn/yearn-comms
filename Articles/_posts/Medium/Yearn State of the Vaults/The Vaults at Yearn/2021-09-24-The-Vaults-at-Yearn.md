@@ -4,6 +4,7 @@ title:  "The Vaults at Yearn"
 categories: [ Articles ]
 image: ./The-Vaults-at-Yearn/header.gif
 author: Yearn
+translator: 
 published: false
 ---
 

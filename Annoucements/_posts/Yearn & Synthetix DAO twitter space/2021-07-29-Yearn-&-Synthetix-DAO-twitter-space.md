@@ -4,6 +4,7 @@ title:  "Yearn & Synthetix DAO twitter space"
 categories: [ Annoucements ]
 image: ./Yearn-&-Synthetix-DAO-twitter-space/1.jpg
 author: Yearn
+translator: 
 published: false
 ---
 

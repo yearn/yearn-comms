@@ -4,6 +4,7 @@ title:  "Claim from old yGov"
 categories: [ Tweets ]
 image: ./Claim-from-old-ygov/amount-in-old-ygov.jpg
 author: Dudesahn
+translator: 
 published: false
 ---
 

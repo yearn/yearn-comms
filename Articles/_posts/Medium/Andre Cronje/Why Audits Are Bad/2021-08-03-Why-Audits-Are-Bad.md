@@ -4,6 +4,7 @@ title:  "Why audits are bad"
 categories: [ Articles ]
 image: ./Why-Audits-Are-Bad/andre-hero.png
 author: Andre
+translator: 
 published: false
 ---
 
