@@ -1,8 +1,16 @@
-Author: @[Dudesahn](https://twitter.com/dudesahn)
+---
+layout: post
+title:  "Claim from old yGov"
+categories: [ Tweets ]
+image: ./Claim-from-old-ygov/amount-in-old-ygov.jpg
+author: Dudesahn
+translator:
+publish: false
+---
 
-Link: https://twitter.com/dudesahn/status/1413567068583104512
+original source: [twitter](https://twitter.com/dudesahn/status/1413567068583104512)
 
-# 1
+##### 1
 
 Just checked out the old [@iearnfinance](https://twitter.com/iearnfinance) staking contracts:
 
@@ -14,7 +22,7 @@ Almost $29m in staked LPs, YFI, and claimable rewards :point_down:
 
 ![](image1.jfif)
 
-# 2
+##### 2
 
 Unsure if you might have some funds to claim?
 
@@ -23,7 +31,7 @@ Head to https://etherscan.io, and enter one of the following addresses:
 • YFI Farming Pool 1: 0x0001FB050Fe7312791bF6475b96569D83F695C9f
 • YFI Farming Pool 2: 0x033E52f513F9B98e129381c6708F9faA2DEE5db5
 
-# 3
+##### 3
 
 • YFI Farming Pool 3: 0x3A22dF48d84957F907e67F4313E3D43179040d6E
 • YFI Gov Staking v1: 0xb01419E74D8a2abb1bbAD82925b19c36C191A701
@@ -33,7 +41,7 @@ Under Contract, click Read Contract, and put in your address under balanceOf �
 
 ![](image2.jfif)
 
-# 4
+##### 4
 
 If a value >0 shows up, then congrats, you have YFI and/or rewards to claim! :partying_face:
 
@@ -41,11 +49,11 @@ To claim all of your staked assets and rewards, head over to Write Contract, con
 
 ![](image3.jfif)
 
-# 5
+##### 5
 
 With your fresh YFI or yCRV in hand, you can head to http://yearn.finance/vaults and deposit them into one of our vaults. Alternatively, head over to our good friends at @CreamdotFinance 🍦 and borrow against those assets, or even use @MIM_Spell 🧙‍♂️ to borrow against your new yvYFI.
 
-# 6
+##### 6
 
 Also worth adding here: just because you don't have any funds still staked doesn't mean you can't claim rewards! Similar to balanceOf(), you can check for claimable rewards under Read Contract with earned(), and then claim any available under Write Contract using getReward()! 🤑
 
