@@ -13,6 +13,7 @@ post_class: post-template
 
 		<!-- Post -->
         {% assign author = site.authors[page.author] %}
+				{% assign translator = site.translators[page.translator] %}
 
 		<div class="col-sm-8">
       <!-- Post Featured Image -->
@@ -60,6 +61,29 @@ post_class: post-template
 				</div>
 				{% endif %}
 				<!-- End Post Author, Date -->
+
+				<!-- Post Translator-->
+				{% if page.translator %}
+				<div class="post-date">
+					<div class="font-italic">
+						translated by {{ translator.display_name }}
+
+						{% if translator.twitter %}
+						<a target="_blank" href="{{ translator.twitter }}" class="btn follow">Twitter</a>
+						{% endif %}
+						{% if translator.telegram %}
+						<a target="_blank" href="{{ translator.telegram }}" class="btn follow">Telegram</a>
+						{% endif %}
+						{% if translator.blog %}
+						<a target="_blank" href="{{ translator.blog }}" class="btn follow">Blog</a>
+						{% endif %}
+						{% if translator.web %}
+						<a target="_blank" href="{{ translator.web }}" class="btn follow">Web</a>
+						{% endif %}
+					</div>
+				</div>
+				{% endif %}
+				<!-- End Post Translator -->
 
 				</div>
 

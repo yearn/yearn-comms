@@ -4,6 +4,8 @@ title:  "Bowswap.Finance"
 categories: [ Tweets ]
 image: ./bowswapfinance/image1.jpg
 author: Facu
+translator:
+publish: true
 ---
 
 original source: [twitter](https://twitter.com/fameal/status/1424857239505018880)
