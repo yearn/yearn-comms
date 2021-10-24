@@ -4,6 +4,7 @@ title:  "The Blue Pill"
 categories: [ Articles ]
 image: ./The-Blue-Pill/bluepill.jpg
 author: Yearn
+publish: false
 ---
 
 The Blue Pill
@@ -58,16 +59,16 @@ FROM THE GAP YOU’VE NEVER NOTICED IN THE HEDGES
 
 Will you take the well-worn
 paths of yesterday? It asks
-Or do you wish to go  
+Or do you wish to go
 somewhere new?
 
 The Yearn Blue Pill has
 one overriding goal:
-to communicate  
+to communicate
 Yearn’s vision
 
 But how do you
-do that from  
+do that from
 within a network
 with no leader?
 
@@ -85,7 +86,7 @@ YOU CAN’T
 
 We’re all here for
 different reasons
-We all have  
+We all have
 different goals
 
 But through candid
@@ -95,13 +96,13 @@ we’ve found common ground
 This document is
 the result of those
 conversations
-We recognize  
+We recognize
 these pages as
 dangerous
 
 Naming our vision
 could limit us
-And we are  
+And we are
 limitless
 
 But today, one year
@@ -114,7 +115,7 @@ vision on paper
 So that when forks arise
 in the road, there is a place
 contributors can go
-To get an answer to  
+To get an answer to
 the question:
 
 Is this Yearn?
@@ -129,7 +130,7 @@ PART ONE: PAST
 Every contributor to Yearn has a story,
 arc, or journey
 And we must begin
-with the story  
+with the story
 of the first
 Andre Cronje
 
@@ -139,18 +140,18 @@ He published reviews for all to read
 
 And in that process, he found the
 truth: that most projects were
-built on lies and hype  
+built on lies and hype
 They were forks with fancy names
 or forks of forks that didn’t do
 what they promised
 But some of them were
 altogether different
-Some of them  
+Some of them
 inspired him to build
 
 In 2019, Andre put
 on his coveralls
-and became  
+and became
 a yield farmer
 
 But he was not your typical yield farmer
@@ -158,7 +159,7 @@ But he was not your typical yield farmer
 He tended his crops with code
 He built and automated all of his
 processes directly on Ethereum
-And by doing so, he built the  
+And by doing so, he built the
 world’s first yield aggregator
 
 It was a perpetual
@@ -183,7 +184,7 @@ ANDRE PROCLAIMED
 BE WARNED
 iEARN WAS NOT AUDITED
 IT WAS “DANGEROUS”
-AND IT WAS  
+AND IT WAS
 REVOLUTIONARY
 
 The revolutionaries noticed
@@ -202,13 +203,13 @@ fantastical names
 (THE GLASS OF MILK)
 
 They weren’t merely interested
-in finance; they were  
+in finance; they were
 interested in the FUTURE
 
 They saw what this experimental
-project could become:  
+project could become:
 a gargantuan, unstoppable,
-extra-governmental,  
+extra-governmental,
 decentralized, permissionless,
 self-healing, collective organism
 with a heart pumping yield to
@@ -222,30 +223,30 @@ golden cufflinks required
 
 They wanted to contribute and
 they asked to get involved
-They helped iEarn  
+They helped iEarn
 morph into Yearn
 They suffered attacks, hacks,
 and scathing criticisms
 
-But they worked together…  
+But they worked together…
 United across the globe by an
 unspoken sense of purpose
 
 “It has been amazingly fun to
-face all these challenges,  
+face all these challenges,
 and each one I believe has
 created a more robust ecosystem,”
-Andre wrote on February 4, 2020.  
+Andre wrote on February 4, 2020.
 “Looking forward to many
 more problems to come”
 
 At Yearn, contributors don’t shy
 away from the hard things,
 they seek them out
-Remember: they hide  
+Remember: they hide
 opportunities
-There’s a philosophy in  
-Andre’s message:  
+There’s a philosophy in
+Andre’s message:
 Look forward to problems
 
 PROBLEMS ARE
@@ -273,7 +274,7 @@ Not three months later
 it was clear the experiment
 had become something
 much larger than any
-one contributor  
+one contributor
 It was a movement
 “I am not Yearn,”
 Andre wrote
@@ -294,8 +295,8 @@ a failure, than all the critics deeming it so.”
 
 There are few things in the
 world more powerful
-than the gift  
-Andre Cronje gave  
+than the gift
+Andre Cronje gave
 away all the YFI
 Every
 Single
@@ -318,19 +319,19 @@ And Yearn was what he summoned
 PART TWO: PRESENT
 
 Question: What is Yearn?
-An innovation factory?  
+An innovation factory?
 A yield-aggregator protocol?
 An intersubjective life-form?
 Something else, entirely?
 Question: Who can contribute to Yearn?
 Answer: You
 Whoever you are, wherever you are,
-you may know what Yearn is  
+you may know what Yearn is
 better than we do
 Come show us
 
 Yearn is an emergent
-and evolving experiment  
+and evolving experiment
 in decentralized collaboration
 It has no papers of incorporation,
 no headquarters, nor even a list
@@ -345,12 +346,12 @@ to sell yourself because your
 contributions speak for you
 
 AT YEARN, YOUR WORK
-IS NOT ASSIGNED  
+IS NOT ASSIGNED
 IT IS GUIDED BY YOUR INNER VOICE
 
 Question: What if the most radical component of Yearn
 isn’t the yield machine? The machine, after all, is
-a technical apparatus constructed of code  
+a technical apparatus constructed of code
 It cannot exist without its
 network of hearts and minds
 
@@ -359,22 +360,22 @@ Most radical part of Yearn
 Our unique DAO (DECENTRALIZED AUTONOMOUS ORGANIZATION)
 and those who embody it
 
-In October 2020,  
-Yearn contributors  
+In October 2020,
+Yearn contributors
 laid out a manifesto
 First, it named what Yearn is not:
 
-YEARN IS NOT  
+YEARN IS NOT
 A COMPANY
-YEARN DOES NOT  
+YEARN DOES NOT
 HAVE INVESTORS
-YEARN DOES NOT  
+YEARN DOES NOT
 CATER TO SPECULATORS
 
-YEARN DOES NOT  
+YEARN DOES NOT
 HAVE AN OFFICIAL VOICE
-YEARN IS NOT  
-OWED ANYTHING  
+YEARN IS NOT
+OWED ANYTHING
 FROM ANYONE
 
 Then, it named what
@@ -382,13 +383,13 @@ Yearn is:
 
 YEARN IS A COLLECTIVE
 OF CONTRIBUTORS
-YEARN IS EQUAL  
+YEARN IS EQUAL
 OPPORTUNITY
 YEARN IS FOR BUILDERS
-YEARN IS FOR  
+YEARN IS FOR
 SELF-STARTERS
 
-YEARN IS FOR  
+YEARN IS FOR
 COLLABORATORS
 YEARN IS INFLUENCED
 BY MERIT
@@ -399,12 +400,12 @@ YEARN’S CONTRIBUTORS
 YEARN IS
 CONSTANTLY EVOLVING
 
-AND FINALLY:  
+AND FINALLY:
 “WHAT YEARN IS TODAY,
 MAY NOT BE WHAT IT
 IS TOMORROW −
 WHAT YOU DO AFTER
-READING THIS MAY  
+READING THIS MAY
 CHANGE YEARN FOREVER.
 IT’S UP TO YOU.”
 
@@ -412,12 +413,12 @@ Yearn has contributors who
 haven’t written a line of code and
 others who have spent decades
 developing software
-Both groups ask,  
+Both groups ask,
 “Am I good enough to be here?”
 
 The answer is simple
 YES
-It’s not about  
+It’s not about
 what’s come before,
 it’s about now
 

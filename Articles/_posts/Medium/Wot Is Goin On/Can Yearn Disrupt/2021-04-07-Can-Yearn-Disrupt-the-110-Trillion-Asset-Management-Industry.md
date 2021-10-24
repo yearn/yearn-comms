@@ -4,6 +4,8 @@ title:  "Can Yearn disrupt the $110 trillion asset management industry?"
 categories: [ Articles ]
 image: ./Can-Yearn-Disrupt-the-110-Trillion-Asset-Management-Industry/img-Wot_Is_Goin_On.png
 author: Wot_Is_Goin_On
+translator:
+publish: true
 ---
 
 # Can Yearn disrupt the $110 trillion asset management industry?

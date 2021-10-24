@@ -4,6 +4,8 @@ title:  "Yearn Finance and Money Robots"
 categories: [ Articles ]
 image: ./Yearn-Finance-and-Money-Robots/image1.png
 author: Gemini/Cryptopedia
+translator:
+publish: true
 ---
 
 original publication: [https://www.gemini.com/cryptopedia/yearn-finance-defi-lending-protocol](https://www.gemini.com/cryptopedia/yearn-finance-defi-lending-protocol)
