@@ -4,7 +4,7 @@ title:  "Yearn Finance Newsletter #47"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-47/image1.png
 author: Yearn
-translator:
+translator: Fin2thepeople
 publish: true
 ---
 

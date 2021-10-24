@@ -4,13 +4,13 @@ title:  "Yearn Finance Newsletter #45"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-45/image1.jfif
 author: Yearn
-translator:
+translator: Nesyeth
 publish: true
 ---
 
 # Yearn Finance Newsletter #45
 
-![](/image1.jfif)
+![](image1.jfif)
 
 Willkommen zur 45. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter möchten wir die Yearn- und die breitere Krypto-Community über die neuesten Nachrichten informieren, darunter Produkteinführungen, Änderungen in der Unternehmensführung und Aktualisierungen im Ökosystem. Wenn du mehr über Yearn Finance erfahren möchtest, folge unseren offiziellen [Twitter](https://twitter.com/iearnfinance)- und [Medium](https://medium.com/iearn)-Konten.
 
@@ -25,7 +25,7 @@ Willkommen zur 45. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter 
 
 ## **ALPHA- und YFI-Liquiditätsanbieter kommen für ein spezielles NFT in Frage**
 
-![](./image2.jfif)
+![](image2.jfif)
 
 Liquiditätsanbieter für die Uniswap-ETH/YFI- und Sushiswap-ETH/YFI-Pools in den Alpha-Homora-V2-Pools kommen in den Genuss eines speziellen NFT-Drops mit freundlicher Genehmigung von Yearn, Alpha und Project Galaxy.
 

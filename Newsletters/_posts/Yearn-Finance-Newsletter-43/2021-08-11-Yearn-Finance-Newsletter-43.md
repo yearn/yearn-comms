@@ -4,7 +4,7 @@ title:  "Yearn Finance Newsletter #43"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-43/image1.jpg
 author: Yearn
-translator:
+translator: Nesyeth
 publish: true
 ---
 

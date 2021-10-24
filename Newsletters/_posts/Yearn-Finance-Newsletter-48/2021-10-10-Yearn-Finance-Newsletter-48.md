@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Yearn Finance Newsletter #48"
-categories: [ Newsletters ]
+title: "Yearn Finance Newsletter #48"
+categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-48/image1.png
 author: Yearn
-translator:
+translator: Nesyeth
 publish: true
 ---
 
@@ -60,7 +60,7 @@ Hast du Fragen oder möchtest du mehr erfahren? Schließe dich uns auf Telegram 
 
 ## Yearn erreicht (erneut) $5B TVL
 
- ![](image3.png)
+![](image3.png)
 
 Der Gesamtwert aller Yearn-Produkte hat erneut die 5-Milliarden-Dollar-Grenze überschritten, und allein im letzten Monat sind 1 Milliarde Dollar hinzugekommen. Yearn verzeichnet weiterhin ein parabolisches Wachstum bei seinen Produkten, und es gibt keine Anzeichen für eine Verlangsamung. Die Iron Bank und v2 Vaults sind besonders bemerkenswerte Komponenten unseres exponentiellen Wachstums. Du kannst die TVL-Metriken unserer Produkte unter [yearn.science](https://yearn.science/) einsehen und verfolgen.
 
@@ -68,7 +68,7 @@ Ein großes Dankeschön an alle im Yearn-Ökosystem, an unsere Partner und natü
 
 ## Wie du zu Yearn beitragen kannst
 
- ![](image4.png)
+![](image4.png)
 
 Du fragst dich vielleicht: "Wie kann ich zu Yearn beitragen?" Zum einen hat Yearn keine Gründungsurkunde, keinen Hauptsitz und nicht einmal eine Liste mit Namen und Standorten der Mitwirkenden. Es ist ein radikales Experiment in Sachen Dezentralisierung & so einfach ist es, sich zu beteiligen.
 
