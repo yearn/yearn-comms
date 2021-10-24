@@ -15,7 +15,7 @@ image:
 
 此处所有内容已由我们的贡献者翻译成您的母语。他们也正在非常努力地翻译我们的文档并在世界各个角落推广DeFi和加密内容。
 
-Chinese / 汉语 : [@Bee926](https://twitter.com/bee_926), [@mesa1ee](https://twitter.com/mesa1ee)
+Chinese / 汉语 : [@Bee926](https://twitter.com/bee_926) ([coinversation.org](http://coinversation.org/)), [@mesa1ee](https://twitter.com/mesa1ee)
 
 French / Français :  [@Cryptouf](https://twitter.com/cryptouf)
 
@@ -25,13 +25,13 @@ Hindi / हिन्दी : @jengajojo, @Major-Rager
 
 Japanese / 日本語 : [@Cripu](https://twitter.com/CRYPTANNEWS)
 
-Portuguese / Português : @JKtranslator
+Portuguese / Português : [@JKtranslator](https://twitter.com/jameskbh)
 
-Spanish / Español : [RestlessMik3](https://twitter.com/margjr84), @japzar
+Spanish / Español : [RestlessMik3](https://twitter.com/margjr84), [@japzar](https://twitter.com/OraculumEth)
 
 Turkish / Türkçe : [@Dastronom](https://twitter.com/Dastronomm)
 
-Vietnamese / Tiếng Việt : [🤖💵💵💰💰.eth](https://y.at/🤖💵💵💰💰)
+Vietnamese / Tiếng Việt : [🤖💵💵💰💰.eth](https://y.at/robot.banknote.banknote.money-bag.money-bag)
 
 ### 加入我们
 
