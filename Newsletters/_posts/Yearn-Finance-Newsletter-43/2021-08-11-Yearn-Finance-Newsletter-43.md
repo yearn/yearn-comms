@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Yearn Finance Newsletter #43"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-43/image1.jpg
+author: Yearn
+translator: Dastronom
+publish: true
+---
+
 # Yearn Finance Bülteni #43
 
 ![](image1.jpg)

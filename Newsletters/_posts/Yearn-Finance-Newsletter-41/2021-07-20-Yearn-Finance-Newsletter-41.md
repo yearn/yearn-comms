@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Yearn Finance Newsletter #41"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-41/image1.png
+author: Yearn
+translator: Dastronom
+publish: true
+---
+
 ![alt_text](image1.png "image_tooltip")
 
 # Yearn Haber Bülteni #41

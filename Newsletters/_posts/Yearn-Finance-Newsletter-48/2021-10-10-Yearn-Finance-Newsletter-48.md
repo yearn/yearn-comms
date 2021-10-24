@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Yearn Finance Newsletter #48"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-48/image1.png
+author: Yearn
+translator: Dastronom
+publish: true
+---
+
 # Yearn Finance Bülteni #48
 
 ### 10 Ekim 2021'de Sona Eren Hafta

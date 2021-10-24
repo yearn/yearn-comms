@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Yearn Finance Newsletter #47"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-47/image1.png
+author: Yearn
+translator: Dastronom
+publish: true
+---
+
 # Yearn Finance Bülteni #47
 
 ### 26 Eylül 2021'de Sona Eren Hafta
