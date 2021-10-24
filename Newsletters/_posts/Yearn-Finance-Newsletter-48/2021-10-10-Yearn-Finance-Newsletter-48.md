@@ -4,7 +4,10 @@ title:  "Yearn Finance Newsletter #48"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-48/image1.png
 author: Yearn
+translator:
+publish: true
 ---
+
 # Yearn Finance Newsletter #48
 
 ### Week Ending October 10th, 2021
@@ -16,17 +19,17 @@ Welcome to the 48th edition of the Yearn Finance Newsletter. Our aim with this n
 ## Summary
 
 -   Yearn Goes Multichain with Fantom
-    
+
 -   Yearn Reaches $5B TVL (Again)
-    
+
 -   How You Can Contribute to Yearn
-    
+
 -   Call for Ideas: YFI Tokenomics Revamp
-    
+
 -   Transparency at Yearn
-    
+
 -   Vaults at Yearn
-    
+
 -   Ecosystem News
 
 ## Yearn Goes Multichain with Fantom
@@ -44,7 +47,7 @@ You may ask, “Why multichain now?”. This is because Yearn requires specific 
 Our v2 vault codebase has hardened over the past few months, and the new beta website is a vast improvement, allowing us to switch chains relatively easily, something we simply could not have done in the past.
 
 Fantom is fast, simple to use, and easy to bridge to thanks to Anyswap. Additionally, it is well-supported by our development tools and by our Iron Bank partners at CREAM Finance. Check out the article on the Fantom Iron Bank [here](https://medium.com/cream-finance/c-r-e-a-m-dd4982004bb9).  
-  
+
 And it doesn't hurt that Andre Cronje is a big fan.
 
 The first vaults on Fantom are: yvWFTM, yvUSDC, yvDAI, and yvMIM. We’ve launched support for a native Fantom Iron Bank as well. Head to [beta.yearn.finance](https://beta.yearn.finance) to check them out for yourself.

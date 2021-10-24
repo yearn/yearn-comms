@@ -1,7 +1,7 @@
 title: "Yearn Blog"
-email: yearnblog@protonmail.com
+email: people@yearn.finance
 timezone: UTC
-url: https://yearn-comms.vercel.app/
+url: https://blog.yearn.finance
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/yearn_logo.svg'
@@ -78,7 +78,7 @@ authors:
     display_name: LexPunk DAO
     web: https://www.lexpunk.army
     description: Amidst intensifying regulatory scrutiny of DeFi, we formed LeXpunK’s Builder Defense DAO dedicated to legal advocacy for builder-centric DeFi communities. The LeXpunK_DAO is governed by builders from its founding contributing communities (Yearn, Curve & Lido) and practicing lawyers from the LeXpunK Army. L3X, the non-transferable reputational token of the LeXpunK Army, is being airdropped to the founding communities, additional contributing DAOs, and a broader community of legal and developer advocates who are identified to date as active in the DeFi space and aligned with the LeXpunK mission, to enable direct sentiment polling on relevant legal issues from DeFi community. LeXpunK will effect additional airdrops from time to time, proportionally in line with the relative contributions of advocates, LeXpunK Army contributors and other builder communities, with the goal of forming a broad coalition to pool resources for funding shared advocacy goals.
-     
+
   Weaver:
     name: Weaver
     display_name: Weaver
@@ -124,6 +124,37 @@ authors:
     web: https://www.seba.swiss/research
     twitter:
     description:
+
+# Translators
+translators:
+  Bee926:
+    name: Bee926
+    display_name: Bee926
+    twitter: https://twitter.com/bee_926
+    web: https://www.youtube.com/channel/UCEmqb4A_fJ5Jseb-TBpGaIg
+
+  Cryptouf:
+    name: Cryptouf
+    display_name: Cryptouf
+    twitter: https://twitter.com/cryptouf
+    blog: https://cryptoouf.com
+    web: https://cryptoouf.com/newsletter
+
+  Cripu:
+    name: Cripu
+    display_name: Cripu
+    twitter: https://twitter.com/CRYPTANNEWS
+    blog: https://www.cryptannews.com/
+
+  Dastronom:
+    name: Dastronom
+    display_name: Dastronom
+    twitter: https://twitter.com/Dastronomm
+
+  RestlessMik3:
+    name: RestlessMik3
+    display_name: RestlessMik3
+    twitter: https://twitter.com/margjr84
 
 # Social
 social:
