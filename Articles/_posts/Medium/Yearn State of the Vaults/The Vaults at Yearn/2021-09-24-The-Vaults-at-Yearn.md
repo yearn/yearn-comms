@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Vaults at Yearn"
+title:  "Yearn'deki Vault'lar"
 categories: [ Articles ]
 image: ./The-Vaults-at-Yearn/header.gif
 author: Yearn
