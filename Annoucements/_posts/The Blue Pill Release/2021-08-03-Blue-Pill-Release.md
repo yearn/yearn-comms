@@ -5,7 +5,7 @@ categories: [ Annoucements ]
 image: ./Blue-Pill-Release/thebluepill.jpg
 author: Yearn
 translator:
-publish: true
+publish: false
 ---
 
 Last week we announced The Blue Pill book and gave early Yearn supporters a first look via a limited series of NFTs.

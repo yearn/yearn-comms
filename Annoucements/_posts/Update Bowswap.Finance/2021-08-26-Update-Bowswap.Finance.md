@@ -5,7 +5,7 @@ categories: [ Annoucements ]
 image: ./Update-Bowswap.Finance/image1.jpg
 author: Yearn
 translator:
-publish: true
+publish: false
 ---
 
 # Bowswap.Finance [Update](https://t.me/yearnupdates/483)

@@ -5,7 +5,7 @@ categories: [ Annoucements ]
 image: ./Legal-Activism-DAO/1.jpg
 author: LexPunk DAO
 translator:
-publish: true
+publish: false
 ---
 
 ![](1.jpg)
