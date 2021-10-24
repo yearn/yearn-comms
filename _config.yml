@@ -194,11 +194,45 @@ translators:
     name: Stathis
     display_name: Stathis
 
+<<<<<<< HEAD
   Xiaona:
     name: Xiaona
     display_name: Xiaona
     twitter: https://twitter.com/latingi44239287
     blog: https://www.youtube.com/channel/UCacoBnE--eGgPnxBnu3DFJw
+=======
+  🤖💵💵💰💰.eth:
+      name: 🤖💵💵💰💰.eth
+      display_name: 🤖💵💵💰💰.eth
+
+  Nesyeth:
+    name: Nesyeth
+    display_name: Nesyeth
+
+  Fin2thepeople:
+    name: Fin2thepeople
+    display_name: Fin2thepeople
+
+  Jeffor12:
+    name: Jeffor12
+    display_name: Jeffor12
+
+  Jengajojo:
+    name: Jengajojo
+    display_name: Jengajojo
+
+  Major-Rager:
+    name: Major-Rager
+    display_name: Major-Rager
+
+  JKtranslator:
+    name: JKtranslator
+    display_name: JKtranslator
+
+  Japzar:
+    name: Japzar
+    display_name: Japzar
+>>>>>>> 81ca10e (update(config): add translators)
 
 # Social
 social:
