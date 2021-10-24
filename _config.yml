@@ -1,15 +1,15 @@
 title: "Yearn Blog"
 email: people@yearn.finance
 timezone: UTC
-url: https://blog.yearn.finance
+url: https://turkish.blog.yearn.finance
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/yearn_logo.svg'
 favicon: 'assets/images/favicon.ico'
 author: yearn
 paginate: 30
-locale: en_us
-lang: en_us
+locale: tr-TR
+lang: tr-TR
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
