@@ -30,7 +30,7 @@ for Spanish / Español : [RestlessMik3](https://twitter.com/margjr84), [@japzar]
 
 for Turkish / Türkçe : [@Dastronom](https://twitter.com/Dastronomm)
 
-for Vietnamese / Tiếng Việt : @xy-cypher
+for Vietnamese / Tiếng Việt : [🤖💵💵💰💰.eth](https://y.at/robot.banknote.banknote.money-bag.money-bag)
 
 ### Join us!
 
