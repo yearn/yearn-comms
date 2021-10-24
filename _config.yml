@@ -131,7 +131,8 @@ translators:
     name: Bee926
     display_name: Bee926
     twitter: https://twitter.com/bee_926
-    web: https://www.youtube.com/channel/UCEmqb4A_fJ5Jseb-TBpGaIg
+    blog: https://www.youtube.com/channel/UCEmqb4A_fJ5Jseb-TBpGaIg
+    web: http://coinversation.org/
 
   Cryptouf:
     name: Cryptouf
@@ -155,6 +156,42 @@ translators:
     name: RestlessMik3
     display_name: RestlessMik3
     twitter: https://twitter.com/margjr84
+
+  🤖💵💵💰💰.eth:
+      name: 🤖💵💵💰💰.eth
+      display_name: 🤖💵💵💰💰.eth
+
+  Nesyeth:
+    name: Nesyeth
+    display_name: Nesyeth
+
+  Fin2thepeople:
+    name: Fin2thepeople
+    display_name: Fin2thepeople
+
+  Jeffor12:
+    name: Jeffor12
+    display_name: Jeffor12
+
+  Jengajojo:
+    name: Jengajojo
+    display_name: Jengajojo
+
+  Major-Rager:
+    name: Major-Rager
+    display_name: Major-Rager
+
+  JKtranslator:
+    name: JKtranslator
+    display_name: JKtranslator
+
+  Japzar:
+    name: Japzar
+    display_name: Japzar
+
+  JKtranslator:
+    name: JKtranslator
+    display_name: JKtranslator
 
 # Social
 social:
