@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yearn Finance Newsletter #41"
+title:  "Yearn Finance Haber Bülteni #41"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-41/image1.png
 author: Yearn
@@ -10,7 +10,7 @@ publish: true
 
 ![alt_text](image1.png "image_tooltip")
 
-# Yearn Haber Bülteni #41
+# Yearn Finance Haber Bülteni #41
 
 Yearn Finans Bülteninin 41. baskısına hoş geldiniz. Bu bülten ile amacımız ürün lansmanları, denetim değişiklikleri ve ekosistem güncellemeleri dahil olmak üzere Yearn ve daha geniş kripto topluluklarını son gelişmeler hakkında bilgilendirmektir. Yearn Finans hakkında daha fazla bilgi sahibi olmak için resmi [Twitter](https://twitter.com/iearnfinance) ve [Medium](https://medium.com/iearn) hesaplarımızı takip ediniz.
 
@@ -18,7 +18,7 @@ Yearn Finans Bülteninin 41. baskısına hoş geldiniz. Bu bülten ile amacımı
 
 - YFI’nin birinci yıl kutlamaları
 - Yearn’ın yükselen Aggregator Piyasalarındaki Pazar payı
-- Yearn’ın Compound'a eklenecek olması 
+- Yearn’ın Compound'a eklenecek olması
 - MakerDAO’da Yearn borçlanma oranı
 - Yearn’deki Vault’lar
 - Ekosistem haberleri

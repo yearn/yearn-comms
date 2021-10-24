@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yearn Finance Newsletter #46"
+title:  "Yearn Finance Haber Bülteni #46"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-46/image1.png
 author: Yearn
@@ -8,7 +8,7 @@ translator: Dastronom
 publish: true
 ---
 
-# Yearn Finance Bülteni #46
+# Yearn Finance Haber Bülteni #46
 #### 12 Eylül 2021'de Sona Eren Hafta
 
 ![](image1.png)

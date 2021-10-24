@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yearn Finance Newsletter #43"
+title:  "Yearn Finance Haber Bülteni #43"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-43/image1.jpg
 author: Yearn
@@ -8,7 +8,7 @@ translator: Dastronom
 publish: true
 ---
 
-# Yearn Finance Bülteni #43
+# Yearn Finance Haber Bülteni #43
 
 ![](image1.jpg)
 
@@ -17,7 +17,7 @@ Yearn Finance Bülteninin 43. baskısına hoş geldiniz. Bu bültenle amacımız
 ## **Özet**
 
 - YIP-63: Fon Oluşturucu-İlk DAO Yasal Aktivizmi
-- Alchemix, Yearn v2'ye Taşınıyor 
+- Alchemix, Yearn v2'ye Taşınıyor
 - YFI, Compound Finance'a Eklendi
 - Tek İşlemde Yearn Vault'lar Arasında Takas
 - Yearn'deki Vault'lar
@@ -43,7 +43,7 @@ YIP onaylandı. Sonuçları [buradan](https://gov.yearn.finance/t/proposal-fund-
 
 Alchemix, son çıkan yenyvDAI'ya başarıyla taşındı. Grafikteki küçük artış, v1 vault'larından v2 vault'larına geçişte 400 milyon dolardır. DeFi için en yüksek getiri sağlayan backend olmaktan gurur duyuyoruz.
 
-Yearn, son birkaç ayda üstel bir büyüme yaşadı ve bunun bir kısmını, Yearn'i vault altyapısı olarak kullanan Alchemix gibi ortaklarımıza atfedilebiliriz. Vault'larımız, DeFi'de riske göre ayarlanmış en iyi getirilerden bazılarını sağlarken aynı zamanda en basit olanı olduğu için bu büyümenin devam etmesini bekliyoruz. Yearn'in sizin için zor işi yapmasına ve fonlarınızı sürekli olarak birleştirmesine izin verin. 
+Yearn, son birkaç ayda üstel bir büyüme yaşadı ve bunun bir kısmını, Yearn'i vault altyapısı olarak kullanan Alchemix gibi ortaklarımıza atfedilebiliriz. Vault'larımız, DeFi'de riske göre ayarlanmış en iyi getirilerden bazılarını sağlarken aynı zamanda en basit olanı olduğu için bu büyümenin devam etmesini bekliyoruz. Yearn'in sizin için zor işi yapmasına ve fonlarınızı sürekli olarak birleştirmesine izin verin.
 
 Kasalara [buradan](https://yearn.finance/vaults) göz atın.
 

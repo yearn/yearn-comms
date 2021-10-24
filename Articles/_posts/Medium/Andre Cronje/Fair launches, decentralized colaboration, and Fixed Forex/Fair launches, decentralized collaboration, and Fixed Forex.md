@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fair launches, decentralized collaboration, and Fixed Forex"
+title:  "Adil lansmanlar, merkezi olmayan işbirliği ve Sabit Forex"
 categories: [ Articles ]
 image: ./Fair-launches-decentralized-collaboration-and-Fixed-Forex/andre-hero.png
 author: Andre

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yearn Finance Newsletter #44"
+title:  "Yearn Finance Haber Bülteni #44"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-44/image1.jfif
 author: Yearn
@@ -8,7 +8,7 @@ translator: Dastronom
 publish: true
 ---
 
-# Yearn Finance Bülteni #42
+# Yearn Finance Haber Bülteni #44
 
 ![](image1.jfif)
 
@@ -103,4 +103,3 @@ Tüm etkin yVault'larımıza yönelik stratejilerin ayrıntılı bir açıklamas
 [Argent ile Yearn V2 nasıl kullanılır](https://twitter.com/argentHQ/status/1431205382865760257)
 
 [Yearn, Atlantis World'e 2D piksel metaverse oluşturması için bir hibe verdi](https://twitter.com/iearnfinance/status/1432387438014435332)
-

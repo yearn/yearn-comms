@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yearn Finance Newsletter #42"
+title:  "Yearn Finance Haber Bülteni #42"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-42/image1.png
 author: Yearn
@@ -8,7 +8,7 @@ translator: Dastronom
 publish: true
 ---
 
-# Yearn Finance Bülteni #42
+# Yearn Finance Haber Bülteni #42
 
 ![](image1.png)
 

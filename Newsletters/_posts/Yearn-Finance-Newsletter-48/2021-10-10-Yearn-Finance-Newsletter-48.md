@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yearn Finance Newsletter #48"
+title:  "Yearn Finance Haber Bülteni #48"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-48/image1.png
 author: Yearn
@@ -8,7 +8,7 @@ translator: Dastronom
 publish: true
 ---
 
-# Yearn Finance Bülteni #48
+# Yearn Finance Haber Bülteni #48
 
 ### 10 Ekim 2021'de Sona Eren Hafta
 
@@ -36,7 +36,7 @@ Yearn Finance Bülteninin 48. baskısına hoş geldiniz. Bu bültenle amacımız
 
 ![](image2.png)
 
-The Realm of Multichain çağırıyor. Ve Yearn çağrıya kulak verdi. 
+The Realm of Multichain çağırıyor. Ve Yearn çağrıya kulak verdi.
 
 Bugün, Iron Bank Fantom'un ve ilk Fantom vault'larının piyasaya sürülmesiyle çoklu zincire geçiyoruz.
 
@@ -61,15 +61,15 @@ Sorularınız mı var veya daha fazlasını mı öğrenmek istiyorsunuz? Telegra
 ## Yearn 5 milyar dolarlık TVL'ye ulaştı (Yine)
 
  ![](image3.png)
- 
+
  Tüm Yearn ürünlerinde kilitlenen toplam değer bir kez daha 5 milyar doları aştı ve yalnızca geçen ay 1 milyar dolar eklendi. Yearn, hiçbir yavaşlama belirtisi göstermeden ürünleri arasında parabolik büyüme görmeye devam ediyor. Iron Bank ve v2 vault'ları, üstel büyümemizin özellikle dikkate değer bileşenleridir. [yearn.science](https://yearn.science/) kullanarak ürünlerimiz arasındaki TVL metriklerini görüntüleyebilir ve takip edebilirsiniz.
- 
+
 Yearn ekosistemindeki herkese, ortaklarımıza ve tabii ki siz kullanıcılara çok teşekkür ederiz.
- 
+
 ## Yearn'e Nasıl Katkıda Bulunabilirsiniz?
 
  ![](image4.png)
- 
+
 “Yılbaşına nasıl katkıda bulunabilirim?” diye sorabilirsiniz. Birincisi, Yearn'in hiçbir kuruluş belgesi, merkezi yok, hatta katkıda bulunanlar için bir isim ve yer listesi bile yok. Bu, ademi merkeziyetçilik konusunda radikal bir deney ve işte dahil olmanın ne kadar kolay olduğunu gösterir.
 
 [yearnfinance.notion.site](https://yearnfinance.notion.site) adresindeki herkese açık sayfamızı ziyaret edin. Burada Yearn'in merkezi olmayan yapısı, iş yapma kültürü, açık roller ve nasıl iletişime geçileceği hakkında bilgi edineceksiniz.
