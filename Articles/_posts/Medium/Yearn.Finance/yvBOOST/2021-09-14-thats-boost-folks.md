@@ -5,7 +5,7 @@ categories: [ Articles ]
 image: ./thats-boost-folks/image4.png
 author: Qosmonot
 translator:
-publish: true
+publish: false
 ---
 
 # More boosts, compounding, and mojitos for you with yvBOOST

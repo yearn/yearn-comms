@@ -5,7 +5,7 @@ categories: [ Articles ]
 image: ./How-we-think-about-Yearn/YFI1.jpeg
 author: Yearn DAO Contributors
 translator:
-publish: true
+publish: false
 ---
 
 # How we think about Yearn

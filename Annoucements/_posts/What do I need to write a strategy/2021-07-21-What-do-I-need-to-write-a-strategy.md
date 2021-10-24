@@ -5,7 +5,7 @@ categories: [ Annoucements ]
 image: ./What-do-I-need-to-write-a-strategy/image1.jpg
 author: Yearn
 translator:
-publish: true
+publish: false
 ---
 
 ![](image1.jpg) <br>

@@ -5,7 +5,7 @@ categories: [ Annoucements ]
 image: ./Token-Terminal/1.jpg
 author: Yearn
 translator:
-publish: true
+publish: false
 ---
 
 ![](1.jpg)
