@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "More boosts, compounding, and mojitos for you with yvBOOST"
+title:  "yvBOOST Kullanarak Pasif Verim elde etmek"
 categories: [ Articles ]
 image: ./thats-boost-folks/image4.png
 author: Qosmonot
