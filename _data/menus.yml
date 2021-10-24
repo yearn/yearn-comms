@@ -2,7 +2,7 @@
 topmenu:
 
 - title: Ankündigungen
-  url: "annoucements/"  
+  url: "annoucements/"
 
 - title: Newsletters
   url: "newsletters/"
@@ -16,8 +16,8 @@ topmenu:
 - title: Finanzen
   url: "financials/"
 
-- title: blog.yearn.finanz
-  url: https://german.blog.yearn.finance
+- title: yearn.finance
+  url: https://beta.yearn.finance
   class: "ml-2 btn btn-primary text-white px-3"
   external: true
 
@@ -32,7 +32,7 @@ footermenu:
   class: "ml-2 btn btn-primary text-white px-3"
   external: true
 
-- title: yearn.finanz
+- title: yearn.finance
   url: https://beta.yearn.finance/
   class: "ml-2 btn btn-primary text-white px-3"
   external: true
@@ -45,9 +45,9 @@ footermenu:
 - title: zu Yearn beitragen
   url: https://contribute.yearn.rocks
   class: "ml-2 btn btn-primary text-white px-3"
-  external: true  
+  external: true
 
 - title: Yearn onboarding
   url: https://yearnfinance.notion.site
   class: "ml-2 btn btn-primary text-white px-3"
-  external: true  
+  external: true
