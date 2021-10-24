@@ -6,34 +6,36 @@ permalink: "/about/"
 
 ### yearn-comms
 
-This is a collection of communication, announcements, tweets, newsletters, and other articles about yearn.
+Il s’agit d’une collection de communications, d’annonces, de tweets, de newsletters et d’autres articles sur Yearn.
 
-### Translations
+Ce blog a été developpé et est maintenu par [@qosmonot](https://twitter.com/qosmonot) et [@DarkGhosty](https://t.me/DarkGhosty).
 
-All content here has been translated into your language by our contributors. They are also hard at work translating the documentation and generally pushing DeFi and crypto content all around the world!
+### Traductions
 
-for Chinese / 汉语 : [@Bee926](https://twitter.com/bee_926), [@mesa1ee](https://twitter.com/mesa1ee)
+Tous le contenu present ici a été traduit par nos contributeurs. Ils travaillent d’arrache pied pour vous proposer ce contenu dans votre langue d’origine et participe plus generalement à l’adoption de la DeFi dans le monde entier!
 
-for French / Français :  [@Cryptouf](https://twitter.com/cryptouf)
+pour Chinese / 汉语 : [@Bee926](https://twitter.com/bee_926) ([coinversation.org](http://coinversation.org/)), [@mesa1ee](https://twitter.com/mesa1ee)
 
-for German / Deutsch : [@Nesyeth](), [@fin2thepeople](), [@jeffor12](https://twitter.com/jeff84431381)
+pour French / Français :  [@Cryptouf](https://twitter.com/cryptouf)
 
-for Hindi / हिन्दी : [@jengajojo](), [@Major-Rager]()
+pour German / Deutsch : @Nesyeth, @fin2thepeople, [@jeffor12](https://twitter.com/jeff84431381)
 
-for Japanese / 日本語 : [@Cripu](https://twitter.com/CRYPTANNEWS)
+pour Hindi / हिन्दी : @jengajojo, @Major-Rager
 
-for Portuguese / Português : [@JKtranslator](https://twitter.com/jameskbh)
+pour Japanese / 日本語 : [@Cripu](https://twitter.com/CRYPTANNEWS)
 
-for Spanish / Español : [RestlessMik3](https://twitter.com/margjr84), [@japzar]()
+pour Portuguese / Português : [@JKtranslator](https://twitter.com/jameskbh)
 
-for Turkish / Türkçe : [@Dastronom](https://twitter.com/Dastronomm)
+pour Spanish / Español : [RestlessMik3](https://twitter.com/margjr84), [@japzar](https://twitter.com/OraculumEth)
 
-for Vietnamese / Tiếng Việt : [@xy-cypher]()
+pour Turkish / Türkçe : [@Dastronom](https://twitter.com/Dastronomm)
 
-### Join us!
+pour Vietnamese / Tiếng Việt : [🤖💵💵💰💰.eth](https://y.at/robot.banknote.banknote.money-bag.money-bag)
 
-If you have written about us, and would like to be featured here, please get in touch with [@DarkGhosty](https://t.me/DarkGhosty).
+### Rejoignez-nous!
 
-If you would like to help us share our articles in your language, please reach out to [@DarkGhosty](https://t.me/DarkGhosty).
+Si vous avez parlé de nous et que vous souhaitez que votre travail soit partagé ici, veuillez contacter [@DarkGhosty](https://t.me/DarkGhosty).
 
-Interested in working at Yearn? Yearn is always looking for enthusiastic contributors and there is always work to be done in the Yearn DAO. Please check [https://yearnfinance.notion.site/](https://yearnfinance.notion.site/), where you will find information on how to get started.
+Si vous souhaitez nous aider à partager nos articles dans votre langue, veuillez contacter [@DarkGhosty](https://t.me/DarkGhosty).
+
+Vous souhaitez travailler chez Yearn? Nous sommestoujours à la recherche de contributeurs enthousiastes et talenteux et il y a toujours quelque chose à faire dans la DAO de Yearn . Visitez [https://yearnfinance.notion.site/](https://yearnfinance.notion.site/), vous y trouverez des informations pour vous lancer.
