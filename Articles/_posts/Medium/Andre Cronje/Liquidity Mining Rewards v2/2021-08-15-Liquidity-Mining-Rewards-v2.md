@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Liquidity Mining Prämien v2"
+categories: [ Articles ]
+image: ./Liquidity-Mining-Rewards-v2/andre-hero.png
+author: Andre
+translator: Nesyeth
+publish: true
+---
+
 # Liquidity Mining Prämien v2
 
 Author: [Andre Cronje](https://twitter.com/AndreCronjeTech)</br>

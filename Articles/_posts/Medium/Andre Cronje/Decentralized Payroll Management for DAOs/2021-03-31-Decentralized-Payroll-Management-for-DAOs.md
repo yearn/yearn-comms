@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Dezentralisierte Lohnabrechnung für DAOs"
+categories: [ Articles ]
+image: ./Decentralized-Payroll-Management-for-DAOs/andre-hero.png
+author: Andre
+translator: Nesyeth
+publish: true
+---
+
 # Dezentralisierte Lohnabrechnung für DAOs
 
 Author: [Andre Cronje](https://twitter.com/AndreCronjeTech)</br>

@@ -1,8 +1,16 @@
+---
+layout: post
+title:  "Warum Audits schlecht sind"
+categories: [ Articles ]
+image: ./Why-Audits-Are-Bad/andre-hero.png
+author: Andre
+translator: Nesyeth
+publish: true
+---
+
 # Audit der Iron Bank Fixed Forex: Warum Audits schlecht sind
 
-Author: [Andre Cronje](https://twitter.com/AndreCronjeTech)</br>
-
-3. August 2021
+3.August 2021
 
 Ich wollte einen reißerischen Titel. Eine Prüfung für die öffentliche Wahrnehmung ist schlecht, eine Prüfung für den persönlichen Gebrauch ist gut.
 

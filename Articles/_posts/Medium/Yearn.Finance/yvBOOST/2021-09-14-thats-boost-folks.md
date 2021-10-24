@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Mehr Boosts, Compounding und Mojitos mit yvBOOST für dich"
+categories: [ Articles ]
+image: ./thats-boost-folks/image4.png
+author: Qosmonot
+translator: Nesyeth
+publish: true
+---
+
 # Mehr Boosts, Compounding und Mojitos mit yvBOOST für dich
 
 ### Die Zusammenarbeit von Yearn mit [Curve.fi](http://curve.fi/) ist das Herzstück unserer Infrastruktur und die Grundlage dafür, dass du deine Boosts steigern kannst.
@@ -77,7 +87,7 @@ Der Einsatz deiner CRV direkt auf der [Curve.fi](http://curve.fi/)-Plattform bed
 Beide Yearn Vaults belohnen CRV-Staker mit einem Anteil an dem von Yearn gesperrten CRV, was sie zu einem idealen Ziel für diejenigen macht, die CRV einsetzen und dabei liquide bleiben wollen:
 
 -   Verdiene einen Anteil an den Handelsgebühren des [Curve.fi](http://curve.fi/) Protokolls (3Crv), die automatisch reinvestiert werden (für den yvBOOST Vault).
--   Verdiene einen Anteil an Yearns Anspruch auf die Gebühren des [Curve.fi](http://curve.fi/)-Protokolls, zusätzlich zu deinen eigenen Belohnungen (mehr 3CRV!), die automatisch reinvestiert werden (für den yvBOOST Vault). 
+-   Verdiene einen Anteil an Yearns Anspruch auf die Gebühren des [Curve.fi](http://curve.fi/)-Protokolls, zusätzlich zu deinen eigenen Belohnungen (mehr 3CRV!), die automatisch reinvestiert werden (für den yvBOOST Vault).
 -   Die kollektive Stimmkraft der veCRV-Tokens wird automatisch optimiert und neu ausbalanciert, um die Belohnungen in allen Curve Pool Vaults von Yearn zu maximieren.
 -   Du erhälst yveCRV- oder yvBOOST-Token für deine eingezahlten CRV und kannst so ganz einfach Gewinne erzielen oder deine eingesetzte CRV-Position verlassen
 
