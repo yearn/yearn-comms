@@ -7,7 +7,7 @@ retweets: 60
 replies: 21
 ---
 
-original source: [twitter](https://twitter.com/iearnfinance/status/1432387438014435332)
+![](image1.jpg)
 
 # यर्न फाइनेंस ने [@atlantis0x](https://twitter.com/atlantis0x) को एक 2d पिक्सेल मेटावर्स बनाने में मदद करने के लिए एक अनुदान जारी किया है। क्यों?:
 

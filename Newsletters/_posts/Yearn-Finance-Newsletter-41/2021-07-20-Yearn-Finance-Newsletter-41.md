@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Yearn Finance Newsletter #41"
+title:  "यर्न फिनांस समाचार पत्र #४१"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-41/image1.png
 author: Yearn
-translator:
+translator: Jengajojo
 publish: true
 ---
 

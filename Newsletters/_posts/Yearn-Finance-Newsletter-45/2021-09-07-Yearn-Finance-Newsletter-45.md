@@ -14,7 +14,7 @@
 
 ## **ALPHA और YFI चलनिधि प्रदाता एक विशेष NFT के लिए पात्र हैं**
 
-![](./image2.jfif)
+![](image2.jfif)
 
 Alpha Homora V2 पूल में Uniswap ETH/YFI और SushiSwap ETH/YFI पूल के लिए चलनिधि प्रदाता एक विशेष NFT ड्रॉप के लिए पात्र होंगे, जो कि यर्न, Alpha और Project Galaxy के सौजन्य से होंगे।
 
