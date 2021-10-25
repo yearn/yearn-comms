@@ -127,68 +127,15 @@ authors:
 
 # Translators
 translators:
-  Bee926:
-    name: Bee926
-    display_name: Bee926
-    twitter: https://twitter.com/bee_926
-    blog: https://www.youtube.com/channel/UCEmqb4A_fJ5Jseb-TBpGaIg
-    web: http://coinversation.org/
-
-  Cryptouf:
-    name: Cryptouf
-    display_name: Cryptouf
-    twitter: https://twitter.com/cryptouf
-    blog: https://cryptoouf.com
-    web: https://cryptoouf.com/newsletter
-
-  Cripu:
-    name: Cripu
-    display_name: Cripu
-    twitter: https://twitter.com/CRYPTANNEWS
-    blog: https://www.cryptannews.com/
-
-  Dastronom:
-    name: Dastronom
-    display_name: Dastronom
-    twitter: https://twitter.com/Dastronomm
-
-  RestlessMik3:
-    name: RestlessMik3
-    display_name: RestlessMik3
-    twitter: https://twitter.com/margjr84
-
-  🤖💵💵💰💰.eth:
-      name: 🤖💵💵💰💰.eth
-      display_name: 🤖💵💵💰💰.eth
-      web: https://y.at/robot.banknote.banknote.money-bag.money-bag
-
-  Nesyeth:
-    name: Nesyeth
-    display_name: Nesyeth
-
-  Fin2thepeople:
-    name: Fin2thepeople
-    display_name: Fin2thepeople
-
-  Jeffor12:
-    name: Jeffor12
-    display_name: Jeffor12
-
-  Jengajojo:
-    name: Jengajojo
-    display_name: Jengajojo
-
-  Major-Rager:
-    name: Major-Rager
-    display_name: Major-Rager
-
   JKtranslator:
     name: JKtranslator
     display_name: JKtranslator
+    twitter: https://twitter.com/jameskbh
 
-  Japzar:
-    name: Japzar
-    display_name: Japzar
+  translator_02:
+    name:
+    display_name:
+    twitter:
 
 # Social
 social:
