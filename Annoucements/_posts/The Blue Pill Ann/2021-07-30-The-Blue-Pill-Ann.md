@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "The Blue Pill"
+categories: [ Annoucements ]
+image: ./The-Blue-Pill-Ann/thebluebook.jpg
+author: Yearn
+translator: JKtranslator
+publish: true
+---
+
 Hoje convidamos você para celebrar o primeiro ano de Yearn com [The Blue Pill](https://medium.com/iearn/the-blue-pill-ca44ed01f16f), um guia espiritual para o passado, presente e futuro de. Um lindo livro que setá disponível para nossos 13,500 mais leais apoiadores.
 
 Sua contribuição foi imortalizada num [set de sete únicos NFTs](https://galaxy.eco/yearn) feitos por
