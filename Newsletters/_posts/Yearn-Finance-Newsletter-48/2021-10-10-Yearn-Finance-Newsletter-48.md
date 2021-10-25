@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Yearn Finance Newsletter #48"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-48/image1.png
+author: Yearn
+translator: JKtranslator
+publish: true
+---
+
 # Yearn Finance Newsletter #48
 
 ### Semana encerrada em 10 de outubro de 2021
@@ -9,24 +19,24 @@ Bem-vindo à 48ª edição da Yearn Finance Newsletter. Nosso objetivo com este 
 ## Sumário
 
 - Yearn vai Multichain com Fantom
-    
+
 - Yearn atinge US$ 5 bilhões TVL (novamente)
-    
+
 - Como você pode contribuir para Yearn
-    
+
 - Chamada de ideias: Reestruturação do modelo econômico do token YFI
-    
+
 - Transparência na Yearn
-    
+
 - Vaults na Yearn
-    
+
 - Notícias do Ecossistema
 
 ## Yearn vai Multichain com Fantom
 
 ![](image2.png)
 
-O Reino Multichain acena. E Yearn atendeu ao chamado. 
+O Reino Multichain acena. E Yearn atendeu ao chamado.
 
 Hoje, vamos multichain com o lançamento do Iron Bank Fantom e os primeiros vaults Fantom em
 
@@ -36,8 +46,8 @@ Você pode perguntar: “Por que multichain agora?”. Isso ocorre porque Yearn 
 
 Nossa base de código dos vaults v2 se fortaleceu nos últimos meses, e o novo site beta é uma grande melhoria, permitindo-nos mudar de cadeia com relativa facilidade, algo que simplesmente não poderíamos ter feito no passado.
 
-Fantom é rápido, simples de usar e fácil de conectar graças ao Anyswap. Além disso, é bem apoiado por nossas ferramentas de desenvolvimento e por nossos parceiros do Iron Bank na CREAM Finance. Confira o artigo sobre o Fantom Iron Bank [aqui](https://medium.com/cream-finance/c-r-e-a-m-dd4982004bb9). 
-  
+Fantom é rápido, simples de usar e fácil de conectar graças ao Anyswap. Além disso, é bem apoiado por nossas ferramentas de desenvolvimento e por nossos parceiros do Iron Bank na CREAM Finance. Confira o artigo sobre o Fantom Iron Bank [aqui](https://medium.com/cream-finance/c-r-e-a-m-dd4982004bb9).
+
 E não faz mal que Andre Cronje seja um grande fã da rede.
 
 Os primeiros vaults do Fantom são: yvWFTM, yvUSDC, yvDAI e yvMIM. Também lançamos suporte para um Iron Bank nativo em Fantom. Acesse [beta.yearn.finance](https://beta.yearn.finance) para conferir você mesmo.
@@ -52,7 +62,7 @@ Tem dúvidas ou deseja saber mais? Junte-se a nós no Telegram ou [Discord](http
 
  ![](image3.png)
 
-O valor total bloqueado em todos os produtos Yearn ultrapassou US$ 5 bilhões mais uma vez, e US$ 1 bilhão foi adicionado apenas no último mês. Yearn continua a ver um crescimento parabólico entre seus produtos, sem nenhuma indicação de desaceleração. O Iron Bank e os vaults v2 são componentes particularmente notáveis de nosso crescimento exponencial. Você pode visualizar e rastrear métricas de TVL entre nossos produtos usando [yearn.science](https://yearn.science/). 
+O valor total bloqueado em todos os produtos Yearn ultrapassou US$ 5 bilhões mais uma vez, e US$ 1 bilhão foi adicionado apenas no último mês. Yearn continua a ver um crescimento parabólico entre seus produtos, sem nenhuma indicação de desaceleração. O Iron Bank e os vaults v2 são componentes particularmente notáveis de nosso crescimento exponencial. Você pode visualizar e rastrear métricas de TVL entre nossos produtos usando [yearn.science](https://yearn.science/).
 
 Um grande obrigado a todos no ecossistema Yearn, nossos parceiros e, claro, a vocês, os usuários.
 
@@ -133,4 +143,3 @@ Você pode ler uma descrição detalhada das estratégias para todos os nossos y
 [Portfólios Yearn v2 no Fantom agora são rastreados no DeBank](https://twitter.com/DeBankDeFi/status/1446624448744886273)
 
 [Um fio curto de Wot \ _Is \ _Goin \ _On sobre Yearn e o futuro](https://twitter.com/Wot_Is_Goin_On/status/1446540007292952579)
-

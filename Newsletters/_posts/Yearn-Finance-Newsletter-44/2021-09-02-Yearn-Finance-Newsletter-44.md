@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Yearn Finance Newsletter #44"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-44/image1.jfif
+author: Yearn
+translator:
+publish: false
+---
+
 # Yearn Finance Newsletter #44
 
 ![](image1.jfif)
@@ -6,7 +16,7 @@ Bem-vindo à 44ª edição do Yearn Finance Newsletter. Nosso objetivo com este 
 
 ## **Resumo**
 
-- YIP-63 aprovado 
+- YIP-63 aprovado
 - Pesquisa de usuário de produto
 - Apresentando quatro novos yVaults
 - Yearn integrado no Defi Saver
@@ -28,8 +38,8 @@ Verifique a transação de Yearn para o DAO [aqui](https://etherscan.io/tx/0x0ec
 
 ## **Pesquisa de Usuário de Produto**
 
-Lançamos uma nova pesquisa de usuário para avaliar o que você, a comunidade de Yearn, gostaria de ver adicionado. 
-  
+Lançamos uma nova pesquisa de usuário para avaliar o que você, a comunidade de Yearn, gostaria de ver adicionado.
+
 Yearn está sempre iterando entre nós mesmos e com a ajuda da comunidade, mas com esta pesquisa, gostaríamos de fazer uma abordagem mais prática para ver o que vocês, a comunidade, têm em mente para melhorar Yearn. Vimos um crescimento exponencial no curto período em que estivemos ativos e esperamos continuar inovando nos produtos que lançamos e adicionar mais utilidade ao token YFI. Acreditamos que podemos melhorar a experiência do usuário no Yearn dez vezes com a ajuda de seus pensamentos e, assim, nos tornarmos os mais competitivos no espaço de agregação de rendimento entre os vários outros setores em que atuamos.
 
 Preencha a pesquisa [aqui](https://yearnfinance.typeform.com/to/ojp3J8gn).
@@ -38,8 +48,8 @@ Preencha a pesquisa [aqui](https://yearnfinance.typeform.com/to/ojp3J8gn).
 
 ![](image3.jfif)
 
-Quatro novos yVaults estão agora disponíveis em nossao site. Deposite hoje e ganhe rendimento em seu AAVE, COMP, TUSD e SUSHI 
-  
+Quatro novos yVaults estão agora disponíveis em nossao site. Deposite hoje e ganhe rendimento em seu AAVE, COMP, TUSD e SUSHI
+
 Os vaults AAVE, COMP e SUSHI estão ganhando rendimento com pools de stake unilateral em [universe.xyz](https://universe.xyz/polymorphs), sem exposição a perdas impermanentes. O TUSD está ganhando rendimento com Kashi no SushiSwap.
 
 Você pode ver os últimos APYs para esses vaults e fazer um depósito usando este [link](https://yearn.finance/vaults).
@@ -48,8 +58,8 @@ Você pode ver os últimos APYs para esses vaults e fazer um depósito usando es
 
 ![](image4.jfif)
 
-YFI foi integrado ao Defi Saver Recipe Creator. Com esta integração, você pode depositar quaisquer ativos suportados em vaults Yearn usando DeFi Saver, bem como combinar esta ação com quaisquer outras interações de protocolo. Alguns exemplos são detalhados a seguir. 
-  
+YFI foi integrado ao Defi Saver Recipe Creator. Com esta integração, você pode depositar quaisquer ativos suportados em vaults Yearn usando DeFi Saver, bem como combinar esta ação com quaisquer outras interações de protocolo. Alguns exemplos são detalhados a seguir.
+
 Primeiro, você pode criar um MakerDAO Vault e depositar a DAI emprestada em Yearn, tudo em uma única transação. A taxa de estabilidade para ETH-A no Maker é de 2% e o APY líquido atual para o DAI Yearn Vault é de aproximadamente 6,5%. A receita pode ser encontrada [aqui](https://app.defisaver.com/recipes/create?recipe=V3JhcEV0aEFjdGlvbiwyMDtSZWZsZXhlck9wZW5TYWZlQWN0aW9uLEVUSC1BO1JlZmxleGVyU3VwcGx5QWN0aW9uLCQyLHJlY2lwZSxBbGwgYXZhaWxhYmxlO1JlZmxleGVyR2VuZXJhdGVBY3Rpb24sJDIsNjY2NixyZWNpcGU7U2VsbEFjdGlvbiwweDAzYWI0NTg2MzQ5MTBhYWQyMGVmNWYxYzhlZTk2ZjFkNmFjNTQ5MTkscmVjaXBlLDY2NjYsMHhBMGI4Njk5MWM2MjE4YjM2YzFkMTlENGEyZTlFYjBjRTM2MDZlQjQ4LHJlY2lwZSwxO1llYXJuU3VwcGx5QWN0aW9uLDB4QTBiODY5OTFjNjIxOGIzNmMxZDE5RDRhMmU5RWIwY0UzNjA2ZUI0OCxyZWNpcGUsQWxsIGF2YWlsYWJsZSx3YWxsZXQ%3D).
 
 Como alternativa, você pode abrir um Reflexer ETH Safe e pedir um RAI emprestado. A taxa de estabilidade no Reflexer é de -0,5% e você pode trocar o RAI por um ativo de maior rendimento, USDC ou DAI, e depositar no Yearn. A receita pode ser encontrada [aqui](https://app.defisaver.com/recipes/create?recipe=V3JhcEV0aEFjdGlvbiwyMDtSZWZsZXhlck9wZW5TYWZlQWN0aW9uLEVUSC1BO1JlZmxleGVyU3VwcGx5QWN0aW9uLCQyLHJlY2lwZSxBbGwgYXZhaWxhYmxlO1JlZmxleGVyR2VuZXJhdGVBY3Rpb24sJDIsNjY2NixyZWNpcGU7U2VsbEFjdGlvbiwweDAzYWI0NTg2MzQ5MTBhYWQyMGVmNWYxYzhlZTk2ZjFkNmFjNTQ5MTkscmVjaXBlLDY2NjYsMHhBMGI4Njk5MWM2MjE4YjM2YzFkMTlENGEyZTlFYjBjRTM2MDZlQjQ4LHJlY2lwZSwxO1llYXJuU3VwcGx5QWN0aW9uLDB4QTBiODY5OTFjNjIxOGIzNmMxZDE5RDRhMmU5RWIwY0UzNjA2ZUI0OCxyZWNpcGUsQWxsIGF2YWlsYWJsZSx3YWxsZXQ%3D).
@@ -61,7 +71,7 @@ Confira outras receitas usando Yearn [aqui](https://app.defisaver.com/).
 ![](image5.jfif)
 
 Ao converter YFI em WOOFY a uma taxa de um YFI por um milhão de WOOFY, você pode lp com ele, fazer uma ponte para outras cadeias como Polygon ou Fantom e depositar em [ape.tax](https://ape.tax/) para rendimentos incríveis.
-  
+
 Troque seu YFI por WOOFY [aqui](https://woofy.finance/).
 
 ## **Vaults na Yearn**

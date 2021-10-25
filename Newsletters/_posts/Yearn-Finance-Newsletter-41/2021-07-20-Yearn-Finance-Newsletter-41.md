@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Yearn Finance Newsletter #41"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-41/image1.png
+author: Yearn
+translator:
+publish: false
+---
+
 ![alt_text](image1.png "image_tooltip")
 
 # Yearn Finance Newsletter #41

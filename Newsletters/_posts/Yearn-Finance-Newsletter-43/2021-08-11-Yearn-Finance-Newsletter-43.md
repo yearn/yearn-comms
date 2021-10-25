@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Yearn Finance Newsletter #43"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-43/image1.jpg
+author: Yearn
+translator: JKtranslator
+publish: true
+---
+
 # Yearn Finance Newsletter #43
 
 ![](image1.jpg)
@@ -72,4 +82,3 @@ Você pode ler uma descrição detalhada das estratégias para todos os nossos y
 [Bate-papo de Anna Rose e Tarun Chitra do Zero Knowledge Podcast com Facu Ameal e tracheopteryx sobre Yearn] (https://www.zeroknowledge.fm/192)
 
 [Confira o novo twitter do Keep3r] (https://twitter.com/thekeep3r)
-

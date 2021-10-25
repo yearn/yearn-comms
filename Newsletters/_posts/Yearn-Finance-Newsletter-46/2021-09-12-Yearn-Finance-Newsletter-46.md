@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Yearn Finance Newsletter #46"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-46/image1.png
+author: Yearn
+translator: JKtranslator
+publish: true
+---
+
 # Yearn Finance Newsletter #46
 #### Semana encerrada em 12 de setembro de 2021
 
@@ -7,13 +17,13 @@ Bem-vindo à 46ª edição da Yearn Finance Newsletter. Nosso objetivo com este 
 
 ## **Resumo**
 
-- Nos bastidores de Yearn 
-- Primer no yvBOOSTVault 
-- Relatório Financeiro Trimestral Yearn 
-- A receita cumulativa do protocolo atinge US$ 41 milhões 
-- Vaults na Yearn 
+- Nos bastidores de Yearn
+- Primer no yvBOOSTVault
+- Relatório Financeiro Trimestral Yearn
+- A receita cumulativa do protocolo atinge US$ 41 milhões
+- Vaults na Yearn
 - Notícias do Ecossistema
-    
+
 
 ## **Nos bastidores de Yearn**
 

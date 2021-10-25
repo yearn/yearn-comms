@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Yearn Finance Newsletter #47"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-47/image1.png
+author: Yearn
+translator: JKtranslator
+publish: true
+---
+
 # Yearn Finance Newsletter #47
 
 ### Semana encerrada em 26 de setembro de 2021
@@ -9,17 +19,17 @@ Bem-vindo à 47ª edição da Yearn Finance Newsletter. Nosso objetivo com este 
 ## Sumário
 
 - Apresentando a V3 da IU de Yearn
-    
+
 - Confira a nova seção Labs
-    
+
 - Yearn comprou $320K de YFI em setembro
-    
+
 - A receita cumulativa do protocolo atinge US$43 milhões
-    
+
 - Vaults na Yearn
-    
+
 - Notícias do Ecossistema
-    
+
 
 ## Apresentando a V3 da IU de Yearn
 
@@ -27,7 +37,7 @@ Bem-vindo à 47ª edição da Yearn Finance Newsletter. Nosso objetivo com este 
 
 Esta semana, abrimos o novo Yearn v3 em beta para os usuários. A nova interface mais amigável mostra todos os dados de que você precisa para uma visão panorâmica de seus ativos e histórico de ganhos. Ele também simula transações para que você não sofra com slippage inesperada ou transações com falha.
 
-Reconstruída do zero, a v3 é a realização de uma visão compartilhada de um sistema leve e escalonável pronto para o futuro multichain. Os componentes principais da pilha Yearn V3 foram divididos em vários componentes distintos: Lens, Meta, Subgraph, Exporter, SDK e Front-end. 
+Reconstruída do zero, a v3 é a realização de uma visão compartilhada de um sistema leve e escalonável pronto para o futuro multichain. Os componentes principais da pilha Yearn V3 foram divididos em vários componentes distintos: Lens, Meta, Subgraph, Exporter, SDK e Front-end.
 
 Quanto à IU, renovamos a experiência do Yearn para usuários móveis e adicionamos novas seções, como as páginas Home, Wallet, Labs, Iron Bank e Configurações. Além disso, haverá vários temas de interface do usuário, com alguns sendo desbloqueáveis para proprietários de NFT específicos. Consulte [galaxy.eco/yearn](https://galaxy.eco/yearn) para NFTs em potencial que se qualificam para temas futuros.
 
@@ -57,7 +67,7 @@ Portanto, confira o Labs em [beta.yearn.finance/#labs](https://beta.yearn.financ
 
 De acordo com YIP-56: Buyback and Build Yearn, que foi aprovado em janeiro de 2021, a Tesouraria de Yearn comprou um valor adicional de $ 320K em YFI.
 
-A Tesouraria de Yearn comprará periodicamente YFI adicional no futuro, usando os lucros obtidos pelo protocolo, até que uma nova proposta de governança seja aprovada que altere essa política de recompra. Você pode ler sobre a proposta BABY [aqui](https://snapshot.org/#/yearn/proposal/Qmb6gBzjvgLMazSrQQGVcjutLNdkVyM2Lh6yckMzdoaHWZ). 
+A Tesouraria de Yearn comprará periodicamente YFI adicional no futuro, usando os lucros obtidos pelo protocolo, até que uma nova proposta de governança seja aprovada que altere essa política de recompra. Você pode ler sobre a proposta BABY [aqui](https://snapshot.org/#/yearn/proposal/Qmb6gBzjvgLMazSrQQGVcjutLNdkVyM2Lh6yckMzdoaHWZ).
 
 Os dados sobre as recompras podem ser encontrados [aqui](https://www.yfistats.com/financials/YFIBuybacks.html).
 
@@ -88,4 +98,3 @@ Você pode ler uma descrição detalhada das estratégias para todos os nossos y
 [Use yvFTM como garantia em abracadraba.money no Fantom](https://twitter.com/MIM_Spell/status/1441912161001820161?s=20)
 
 [Confira o Painel de Fundamentos do Yearn em Token Terminal](https://twitter.com/iearnfinance/status/1441179921523507200)
-
