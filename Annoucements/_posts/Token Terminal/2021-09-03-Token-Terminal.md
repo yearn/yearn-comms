@@ -10,8 +10,8 @@ publish: false
 
 ![](1.jpg)
 
-Yearn Fundamentals Dashboard on Token Terminal
+Yearn'in Temel Bilgiler Panosu Token Terminal'de
 
-Our friends at [@tokenterminal](https://twitter.com/tokenterminal) now track fundamental metrics of YFI such as supply-side and protocol revenues, P/S and P/E ratios, annualized capital deployed.
+[@tokenterminal](https://twitter.com/tokenterminal)'deki arkadaşlarımız artık arz tarafı ve protokol gelirleri, P/S ve P/E oranları, dağıtılan yıllık sermaye gibi YFI'nin temel ölçümlerini takip ediyor.
 
 [https://www.tokenterminal.com/terminal/projects/yearn-finance](https://www.tokenterminal.com/terminal/projects/yearn-finance)
