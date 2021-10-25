@@ -1,6 +1,6 @@
 # Newsletter #45 de Yearn Finance 
 
-![](/image1.jfif)
+![](image1.jfif)
 
 Bienvenidos a la edición número 45 de la Newsletter de Yearn Finance. Con esta newsletter nuestra idea es mantener informada a la comunidad de Yearn y de cripto en general con las últimas noticias, incluyendo lanzamiento de productos, cambios de gobernanza y actualizaciones del ecosistema. Si estás interesado en aprender más sobre Yearn Finance, sigue las cuentas oficiales de [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn). 
 
@@ -15,7 +15,7 @@ Bienvenidos a la edición número 45 de la Newsletter de Yearn Finance. Con esta
 
 ## **Los proveedores de liquidez de ALPHA y YFI serán elegibles para un NFT especial**
 
-![](./image2.jfif)
+![](image2.jfif)
 
 Proveedores de los fondos de liquidez de ETH/FYI en Alpha Homora V2 dentro de Uniswap y Sushiswap serán elegibles para el envío de un NFT especial, cortesía de Yearn, Alpha y Project Galaxy.
 
