@@ -8,8 +8,8 @@ translator:
 publish: false
 ---
 
-Last week we announced The Blue Pill book and gave early Yearn supporters a first look via a limited series of NFTs.
+Geçen hafta The Blue Pill kitabını duyurduk ve erken Yearn destekçilerine sınırlı bir NFT serisi aracılığıyla ilk izlenimleri verdik.
 
-Today we invite everyone to experience The Blue Pill:
+Bugün herkesi Blue Pill'i deneyimlemeye davet ediyoruz:
 
 [https://thebluepill.eth.link](https://thebluepill.eth.link)
