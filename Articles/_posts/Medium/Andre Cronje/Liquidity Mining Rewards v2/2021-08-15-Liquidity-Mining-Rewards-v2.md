@@ -1,8 +1,14 @@
+---
+layout: post
+title:  "Recompensas De Mineração de Liquidez v2"
+categories: [ Articles ]
+image: ./Liquidity-Mining-Rewards-v2/andre-hero.png
+author: Andre
+translator: JKtranslator
+publish: true
+---
+
 # Recompensas De Mineração de Liquidez v2
-
-Autor: [Andre Cronje](https://twitter.com/AndreCronjeTech)</br>
-
-15 de agosto de 2021
 
 Conceito e arquitetura por [pods.finance](https://www.pods.finance/)
 

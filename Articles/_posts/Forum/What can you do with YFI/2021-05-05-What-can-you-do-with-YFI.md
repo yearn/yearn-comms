@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "O que você pode fazer com YFI?"
+categories: [ Articles ]
+image: ./What-can-you-do-with-YFI/image1.png
+author: Dark Ghosty
+translator: JKtranslator
+publish: true
+---
+
 # O que você pode fazer com YFI?
 Neste artigo, examinamos o que se pode fazer com seu YFI para obter rendimento em [DeFi](https://www.coindesk.com/what-is-defi), quais riscos estão associados a cada opção e o rendimento aproximado que você pode obter.
 

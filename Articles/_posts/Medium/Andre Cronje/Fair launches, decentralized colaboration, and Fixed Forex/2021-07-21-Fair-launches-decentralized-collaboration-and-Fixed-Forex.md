@@ -1,8 +1,14 @@
+---
+layout: post
+title:  "Lançamentos justos, colaboração descentralizada e Fixed Forex"
+categories: [ Articles ]
+image: ./Fair-launches-decentralized-collaboration-and-Fixed-Forex/andre-hero.png
+author: Andre
+translator: JKtranslator
+publish: true
+---
+
 # Lançamentos justos, colaboração descentralizada e Fixed Forex
-
-Autor: [Andre Cronje](https://twitter.com/AndreCronjeTech)</br>
-
-27 de julho de 2021
 
 **\-Lançamentos justos-**
 

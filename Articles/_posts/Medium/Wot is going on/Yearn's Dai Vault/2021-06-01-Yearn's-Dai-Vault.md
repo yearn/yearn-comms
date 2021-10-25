@@ -1,8 +1,14 @@
+---
+layout: post
+title:  "Dai Vault de Yearn - você sabia que agora ele é um dos 20 principais protocolos DeFi?"
+categories: [ Articles ]
+image: ./Yearn's-Dai-Vault/img-Wot_Is_Goin_On.png
+author: Wot_Is_Goin_On
+translator: JKtranslator
+publish: true
+---
+
 # **Dai Vault de Yearn - você sabia que agora ele é um dos 20 principais protocolos DeFi?**
-
-Autor: [Wot_Is_Goin_On](https://twitter.com/Wot_Is_Goin_On)<br/>
-
-1 de junho de 2021
 
 Se você for ao [site de Yearn](https://yearn.finance/vaults), verá uma lista de quase 50 vaults de criptoativos, com o [vault SNX](https://twitter.com/iearnfinance/status/1395413780012666881) sendo o mais recente. Ao [depositar seu cripto](https://docs.yearn.finance/resources/guides/how-to-participate-in-a-yvault) em um dos vaults de Yearn, o protocolo começará a gerar um rendimento para você.
 

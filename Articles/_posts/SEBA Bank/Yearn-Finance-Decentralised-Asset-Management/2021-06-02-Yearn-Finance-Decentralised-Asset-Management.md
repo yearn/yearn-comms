@@ -1,6 +1,12 @@
-Wednesday, 2 June, 2021
-
-# The Digital Investor
+---
+layout: post
+title:  "Yearn Finance - Decentralised Asset Management"
+categories: [ Articles ]
+image: ./Yearn-Finance-Decentralised-Asset-Management/seba.jpg
+author: The Digital Investor
+translator: 
+publish: false
+---
 
 ## Yearn Finance – Decentralised Asset Management
 

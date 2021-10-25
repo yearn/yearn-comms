@@ -1,8 +1,14 @@
+---
+layout: post
+title:  "Pode Yearn ser disruptivo no setor de gerenciamento de ativos de US$ 110 trilhões?"
+categories: [ Articles ]
+image: ./Can-Yearn-Disrupt-the-110-Trillion-Asset-Management-Industry/img-Wot_Is_Goin_On.png
+author: Wot_Is_Goin_On
+translator: JKtranslator
+publish: true
+---
+
 # Pode Yearn ser disruptivo no setor de gerenciamento de ativos de US$ 110 trilhões?
-
-Autor: [Wot_Is_Goin_On](https://twitter.com/Wot_Is_Goin_On)<br/>
-
-7 de abril de 2021
 
 **Resumo**
 

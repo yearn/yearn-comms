@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Mais incentivos, juros compostos e mojitos para você com yvBOOST"
+categories: [ Articles ]
+image: ./thats-boost-folks/image4.png
+author: Qosmonot
+translator: JKtranslator
+publish: true
+---
+
 # Mais incentivos, juros compostos e mojitos para você com yvBOOST
 
 ### O relacionamento colaborativo de Yearn com [Curve.fi](http://curve.fi/) é fundamental para nossa infraestrutura e para você impulsionar seus incentivos.

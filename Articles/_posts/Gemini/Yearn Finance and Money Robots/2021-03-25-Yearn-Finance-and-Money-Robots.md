@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Yearn Finance e Robôs de Dinheiro"
+categories: [ Articles ]
+image: ./Yearn-Finance-and-Money-Robots/image1.png
+author: Gemini/Cryptopedia
+translator: JKtranslator
+publish: true
+---
+
 Escrito por nossos amigos em Gemini & pela [equipe da Cryptopedia](https://www.gemini.com/cryptopedia/authors#cryptopedia-staff)
 
 Atualizado em 25 de março, 2021

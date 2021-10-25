@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "O pensamos sobre Yearn"
+categories: [ Articles ]
+image: ./How-we-think-about-Yearn/YFI1.jpeg
+author: Yearn DAO Contributors
+translator: JKtranslator
+publish: true
+---
+
 # O pensamos sobre Yearn
 
 ## O que Yearn não é

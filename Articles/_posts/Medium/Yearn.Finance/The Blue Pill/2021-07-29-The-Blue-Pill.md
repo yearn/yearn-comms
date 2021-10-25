@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "The Blue Pill"
+categories: [ Articles ]
+image: ./The-Blue-Pill/pill-wt-text.png
+author: Weaver
+translator:
+publish: false
+---
+
 # The Blue Pill
 
 Author: [Weaver](https://medium.com/@0xWeaver)</br>

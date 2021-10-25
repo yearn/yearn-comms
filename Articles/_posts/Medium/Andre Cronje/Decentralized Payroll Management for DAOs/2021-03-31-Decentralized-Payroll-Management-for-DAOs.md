@@ -1,8 +1,14 @@
+---
+layout: post
+title:  "Gerenciamento descentralizado da folha de pagamento para DAOs"
+categories: [ Articles ]
+image: ./Decentralized-Payroll-Management-for-DAOs/andre-hero.png
+author: Andre
+translator: JKtranslator
+publish: true
+---
+
 # Gerenciamento descentralizado da folha de pagamento para DAOs
-
-Autor: [Andre Cronje](https://twitter.com/AndreCronjeTech)</br>
-
-31 de março de 2021
 
 Um DAO não tem gerenciamento de cima para baixo. Não há departamento de RH. Não há contratos nem negociações salariais. Como você incentiva e recompensa adequadamente os colaboradores?
 

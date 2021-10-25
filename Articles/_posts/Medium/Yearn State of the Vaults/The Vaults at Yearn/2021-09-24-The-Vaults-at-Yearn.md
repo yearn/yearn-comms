@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Os Vaults de Yearn"
+categories: [ Articles ]
+image: ./The-Vaults-at-Yearn/header.gif
+author: Yearn
+translator: JKtranslator
+publish: true
+---
+
 # Os Vaults de Yearn
 
 Atualizado em 9 de agosto de 2021

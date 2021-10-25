@@ -1,8 +1,14 @@
+---
+layout: post
+title:  "Por que as auditorias são ruins"
+categories: [ Articles ]
+image: ./Why-Audits-Are-Bad/andre-hero.png
+author: Andre
+translator: JKtranslator
+publish: true
+---
+
 # Auditoria do Fixed Forex do Iron Bank: Por que as auditorias são ruins
-
-Autor: [Andre Cronje](https://twitter.com/AndreCronjeTech)</br>
-
-3 de agosto de 2021
 
 Eu queria um título sensacionalista. O papel da auditoria na percepção do público é ruim, uma auditoria para uso pessoal é boa.
 
