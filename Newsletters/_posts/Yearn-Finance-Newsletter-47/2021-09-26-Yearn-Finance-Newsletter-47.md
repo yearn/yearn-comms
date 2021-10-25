@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "यर्न फाइनेंस समाचार पत्र #४७"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-47/image1.png
+author: Yearn
+translator: Jengajojo
+publish: true
+---
+
 # यर्न फाइनेंस समाचार पत्र #४७
 
 ### २६  सितंबर, २०२१  को समाप्त होने वाला सप्ताह

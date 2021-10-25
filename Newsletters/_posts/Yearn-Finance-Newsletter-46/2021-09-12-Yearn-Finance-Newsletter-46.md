@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "यर्न फाइनेंस समाचार पत्र #४६"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-46/image1.png
+author: Yearn
+translator: Major-Rager
+publish: true
+---
+
 # यर्न फाइनेंस समाचार पत्र #४६ 
 #### १२  सितंबर, २०२१  का अन्तिम सप्ताह
 

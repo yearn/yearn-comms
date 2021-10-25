@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "यर्न फिनांस त समाचार पत्र #४३"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-43/image1.png
+author: Yearn
+translator: Jengajojo
+publish: true
+---
+
 # यर्न फिनांस त समाचार पत्र #४३ 
 
 ![](image1.jpg)

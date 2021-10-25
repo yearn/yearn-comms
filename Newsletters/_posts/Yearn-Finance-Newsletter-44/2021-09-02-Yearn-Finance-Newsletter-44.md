@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "यर्न फिनांस त समाचार पत्र #४४"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-44/image1.jfif
+author: Yearn
+translator: Major-Rager
+publish: true
+---
+
 # यर्न फिनांस त समाचार पत्र #४४
 
 ![](image1.jfif)

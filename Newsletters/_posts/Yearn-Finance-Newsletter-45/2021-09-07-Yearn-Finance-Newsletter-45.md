@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "यर्न फाइनेंस समाचार पत्र #४५"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-45/image1.jfif
+author: Yearn
+translator: Major-Rager
+publish: true
+---
+
 # यर्न फाइनेंस समाचार पत्र #४५ 
 
 ![](/image1.jfif)
