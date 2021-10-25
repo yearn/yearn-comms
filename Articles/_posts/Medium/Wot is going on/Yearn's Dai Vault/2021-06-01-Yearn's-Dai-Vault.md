@@ -178,7 +178,7 @@ Para aqueles que dizem que o DeFi está em uma bolha, o valor “economizado” 
 
 **Crypto.com**
 
-Crypto.com, uma exchange centralizada de bilhões de dólares com mais de 10 milhões de usuários, permite que você [ganhe juros de Yearn](https://help.crypto.com/en/articles/4933348-defi-earn-yearn-earn- v2). Ele oferece uma versão anterior do vault Dai de Yearn.
+Crypto.com, uma exchange centralizada de bilhões de dólares com mais de 10 milhões de usuários, permite que você [ganhe juros de Yearn](https://help.crypto.com/en/articles/4933348-defi-earn-yearn-earn-v2). Ele oferece uma versão anterior do vault Dai de Yearn.
 
 As integrações com exchanges centralizadas, que terão um conjunto completamente diferente de considerações de risco em comparação com os protocolos DeFi, são um voto de confiança nos vaults de Yearn.
 
