@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "E se Yearn = a "função de rendimento" da web?"
+title:  "E se Yearn = a 'função de rendimento' da web?"
 categories: [ Annoucements ]
 image: ./Yearn-=-Yield-Function/yield1.jpg
 author: Yearn
