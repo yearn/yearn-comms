@@ -4,8 +4,8 @@ title:  "Yearn Finance Newsletter #44"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-44/image1.jfif
 author: Yearn
-translator:
-publish: false
+translator: JKtranslator
+publish: true
 ---
 
 # Yearn Finance Newsletter #44
