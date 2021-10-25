@@ -1,6 +1,6 @@
 # yearn-comms
 
-This is a collection of communication, announcements, tweets, newsletters, and other articles about yearn. 
+Esta é uma coleção de comunicações, anúncios, tweets, newsletters e outros artigos sobre Yearn.
 
 ## Run locally
 
