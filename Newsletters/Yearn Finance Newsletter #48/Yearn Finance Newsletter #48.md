@@ -32,7 +32,7 @@ Hoy, nos convertimos en multi blockchain con el lanzamiento del Iron Bank Fantom
 
 Te preguntarás, ¿por qué multi blockchain ahora?. Es porque Yearn requiere una infraestructura específica para funcionar de forma eficiente, tanto de forma externa (Gnosis safe, liquidez en DEX, explorador de bloques) e internamente (frontend y backend).
 
-La base de código de nuestra vault V2 se ha fortalecido en los pasados meses, y la nueva web versión beta ha sido una mejora importante, permitiéndonos cambiar de blockchain con relativa facilidad, algo que implemente no podíamos hacer en el pasado.
+La base de código de nuestra vault V2 se ha fortalecido en los pasados meses, y la nueva web versión beta ha sido una mejora importante, permitiéndonos cambiar de blockchain con relativa facilidad, algo que simplemente no podíamos hacer en el pasado.
 
 Fantom es rápido, simple de usar y permite utilizar puentes fácilmente, gracias a Anyswap. Adicionalmente, está muy bien soportada por nuestras herramientas de desarrollo y por nuestros colaboradores del Iron Bank en CREAM finance. Echa un vistazo al artículo sobre el Iron Bank en Fantom [Aquí](https://medium.com/cream-finance/c-r-e-a-m-dd4982004bb9). 
   
@@ -40,7 +40,7 @@ Desde luego no hace daño tampoco que Andre Cronje sea un gran fan.
 
 Las primeras vaults en Fantom son: yvWFTM, yvDAI y yvMIM. Lanzamos también soporte nativo para el Iron Bank de Fantom. Puedes verlo por ti mismo en [beta.yearn.finance](https://beta.yearn.finance).
 
-Para responder a tu pregunta, Arbitrum, Optimism, Polygon, Avalanche y otras están disponibles pronto. Finalmente nos encantaría llevar a Yearn a cualquier otra blockchain donde pueda operar con seguridad y así simplificar los procesos de obtención de rendimiento para sus los usuarios y colaboradores.
+Para responder a tu pregunta, Arbitrum, Optimism, Polygon, Avalanche y otras estarán disponibles pronto. Finalmente nos encantaría llevar a Yearn a cualquier otra blockchain donde pueda operar con seguridad y así simplificar los procesos de obtención de rendimiento para los usuarios y colaboradores.
 
 El reino se expande y nosotros con él. Queremos conocer personas donde estén, incluyendo nuevos usuarios con depósitos más pequeños. La expansión multi blockchain es el camino natural para esto.
 
@@ -50,7 +50,7 @@ El reino se expande y nosotros con él. Queremos conocer personas donde estén, 
 
  ![](image3.png)
 
-El valor total bloqueado (TVL) a través de todo Yearn ha superado los 5 billones de dólares una vez más y 1 ilion ha sido obtenido en el mes pasado. Yearn continúa viendo crecimiento parabólico en sus productos sin mostrar signos de disminuir el paso. El Iron Bank y la versión V2 son componentes fundamentales de nuestro crecimiento exponencial. Puedes ver y monitorizar las métricas del TVL en todos nuestros productos utilizando [yearn.science](https://yearn.science/). 
+El valor total bloqueado (TVL) a través de todo Yearn ha superado los 5 billones de dólares una vez más y 1 billón ha sido obtenido en el mes pasado. Yearn continúa viendo crecimiento parabólico en sus productos sin mostrar signos de disminuir el paso. El Iron Bank y la versión V2 son componentes fundamentales de nuestro crecimiento exponencial. Puedes ver y monitorizar las métricas del TVL en todos nuestros productos utilizando [yearn.science](https://yearn.science/). 
 
 Muchas gracias a todos los participantes del ecosistema de Yearn, nuestros colaboradores y por supuesto a los usuarios.
 
@@ -58,13 +58,13 @@ Muchas gracias a todos los participantes del ecosistema de Yearn, nuestros colab
 
  ![](image4.png)
 
-Te preguntarás, ¿cómo puedo colaborar con Yearn? Para empezar, Yearn no posee papeles de incorporación, no hay headquaters y ni siquiera una lista de nombres de locaciones para sus contribuidores. En un experimento radical en la descentralización y así es como puedes involucrarte.
+Te preguntarás, ¿cómo puedo colaborar con Yearn? Para empezar, Yearn no posee papeles de incorporación, no hay headquaters y ni siquiera una lista de nombres de locaciones para sus contribuidores. Es un experimento radical de descentralización y así es como puedes involucrarte.
 
-Visita nuestra página pública en [yearnfinance.notion.site](https://yearnfinance.notion.site). Aquí aprenderás sobre la estructura descentralizada de Yearn, la cultura del hacer, roles disponibles y como ponerte en contacto.
+Visita nuestra página pública en [yearnfinance.notion.site](https://yearnfinance.notion.site). Aquí aprenderás sobre la estructura descentralizada de Yearn, la cultura del hacer, roles disponibles y cómo ponerte en contacto.
 
-¿Buscas empezar ahora y empezar a colaborar? 1.- Visita [contribute.yearn.rocks](https://contribute.yearn.rocks) 2.- Revisa la lista de tareas disponibles 3.- ¡Haz alguna que te interese!
+¿Quieres empezar a colaborar? 1.- Visita [contribute.yearn.rocks](https://contribute.yearn.rocks) 2.- Revisa la lista de tareas disponibles 3.- ¡Haz alguna que te interese!
 
-¿No ves una tarea que te gustaría en la lista? Bien. Pede que sepas lo que Yearn necesita mejor que nosotros. Ven y muestranos. Plantéanos tus ideas en [shimmy pool of ideas](https://yearnfinance.notion.site/Pool-of-Ideas-d75383ade9154d8bb6163388c6c2b39b). O únete a nosotros en [Discord](https://discord.com/invite/6PNv2nF) y hazte escuchar.
+¿No ves una tarea que te gustaría en la lista? Bien. Puede que sepas lo que Yearn necesita mejor que nosotros. Ven y muestranos. Plantéanos tus ideas en [shimmy pool of ideas](https://yearnfinance.notion.site/Pool-of-Ideas-d75383ade9154d8bb6163388c6c2b39b). O únete a nosotros en [Discord](https://discord.com/invite/6PNv2nF) y hazte escuchar.
 
 ¿Como hacer farm de YFI trabajando con un DAO?: Cuando otros participantes de Yearn vean tu trabajo, pueden responder por ti en Coordinape Gorilla y ¡estarás en camino a obtener YFI! Echa un vistazo a Coordinape [Aquí](https://coordinape.com).
 
@@ -116,7 +116,7 @@ Puedes leer una descripción detallada de las estrategias disponibles para todas
 
 [Los usuarios de MyEtherWallet tienen acceso a las vaults de Yearn en Android](https://twitter.com/myetherwallet/status/1443283619867414537)
 
-[storming0x se ha unido a yAcademyDAO, donde realizara una auditoria de la estrategia de rebalanceo para Yearn](https://twitter.com/yAcademyDAO/status/1443138482604371974)
+[storming0x se ha unido a yAcademyDAO, donde realizará una auditoria de la estrategia de rebalanceo para Yearn](https://twitter.com/yAcademyDAO/status/1443138482604371974)
 
 [Echa un vistazo al reporte sobre Yearn, escrito por el equipo de diseño de economía](https://econteric.com/fundamentals/yearn-finance/) 
 
