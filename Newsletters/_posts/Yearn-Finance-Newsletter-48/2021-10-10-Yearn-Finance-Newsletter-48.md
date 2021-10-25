@@ -1,26 +1,31 @@
+---
+layout: post
+title: "Newsletter #48 de Yearn Finance"
+categories: [Newsletters]
+image: ./Yearn-Finance-Newsletter-48/image1.png
+author: Yearn
+translator: RestlessMik3
+publish: true
+---
+
 # Newsletter #48 de Yearn Finance
 
 ### Semana del 10 de Octubre, 2021
 
 ![](image1.png)
 
-Bienvenidos a la edición número 48 de la newsletter de Yearn Finance. Con esta newsletter nuestra idea es mantener informada a la comunidad de Yearn y de cripto en general con las últimas noticias, incluyendo lanzamiento de productos, cambios de gobernanza y actualizaciones del ecosistema. Si estás interesado en aprender más sobre Yearn Finance, sigue las cuentas oficiales de [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn). 
+Bienvenidos a la edición número 48 de la newsletter de Yearn Finance. Con esta newsletter nuestra idea es mantener informada a la comunidad de Yearn y de cripto en general con las últimas noticias, incluyendo lanzamiento de productos, cambios de gobernanza y actualizaciones del ecosistema. Si estás interesado en aprender más sobre Yearn Finance, sigue las cuentas oficiales de [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn).
 
 ## **Resumen**
 
--   Yearn se convierte en multi blockchain con la ayuda de Fantom
+- Yearn se convierte en multi blockchain con la ayuda de Fantom
 
--   Yearn alcanza 5 Billones de dólares en TVL (De nuevo)
-    
--   ¿Cómo puedes colaborar con Yearn?
-    
--   Convocatoria de ideas: Nuevas Tokenomics de YFI
-    
--   Transparencia en Yearn
-    
--   Las vaults de Yearn
-    
--   Noticias del ecosistema
+- Yearn alcanza 5 Billones de dólares en TVL (De nuevo)
+- ¿Cómo puedes colaborar con Yearn?
+- Convocatoria de ideas: Nuevas Tokenomics de YFI
+- Transparencia en Yearn
+- Las vaults de Yearn
+- Noticias del ecosistema
 
 ## Yearn se convierte en multi blockchain con la ayuda de Fantom
 
@@ -34,8 +39,8 @@ Te preguntarás, ¿por qué multi blockchain ahora?. Es porque Yearn requiere un
 
 La base de código de nuestra vault V2 se ha fortalecido en los pasados meses, y la nueva web versión beta ha sido una mejora importante, permitiéndonos cambiar de blockchain con relativa facilidad, algo que implemente no podíamos hacer en el pasado.
 
-Fantom es rápido, simple de usar y permite utilizar puentes fácilmente, gracias a Anyswap. Adicionalmente, está muy bien soportada por nuestras herramientas de desarrollo y por nuestros colaboradores del Iron Bank en CREAM finance. Echa un vistazo al artículo sobre el Iron Bank en Fantom [Aquí](https://medium.com/cream-finance/c-r-e-a-m-dd4982004bb9). 
-  
+Fantom es rápido, simple de usar y permite utilizar puentes fácilmente, gracias a Anyswap. Adicionalmente, está muy bien soportada por nuestras herramientas de desarrollo y por nuestros colaboradores del Iron Bank en CREAM finance. Echa un vistazo al artículo sobre el Iron Bank en Fantom [Aquí](https://medium.com/cream-finance/c-r-e-a-m-dd4982004bb9).
+
 Desde luego no hace daño tampoco que Andre Cronje sea un gran fan.
 
 Las primeras vaults en Fantom son: yvWFTM, yvDAI y yvMIM. Lanzamos también soporte nativo para el Iron Bank de Fantom. Puedes verlo por ti mismo en [beta.yearn.finance](https://beta.yearn.finance).
@@ -48,15 +53,15 @@ El reino se expande y nosotros con él. Queremos conocer personas donde estén, 
 
 ## Yearn alcanza 5 Billones de dólares en TVL (De nuevo)
 
- ![](image3.png)
+![](image3.png)
 
-El valor total bloqueado (TVL) a través de todo Yearn ha superado los 5 billones de dólares una vez más y 1 ilion ha sido obtenido en el mes pasado. Yearn continúa viendo crecimiento parabólico en sus productos sin mostrar signos de disminuir el paso. El Iron Bank y la versión V2 son componentes fundamentales de nuestro crecimiento exponencial. Puedes ver y monitorizar las métricas del TVL en todos nuestros productos utilizando [yearn.science](https://yearn.science/). 
+El valor total bloqueado (TVL) a través de todo Yearn ha superado los 5 billones de dólares una vez más y 1 ilion ha sido obtenido en el mes pasado. Yearn continúa viendo crecimiento parabólico en sus productos sin mostrar signos de disminuir el paso. El Iron Bank y la versión V2 son componentes fundamentales de nuestro crecimiento exponencial. Puedes ver y monitorizar las métricas del TVL en todos nuestros productos utilizando [yearn.science](https://yearn.science/).
 
 Muchas gracias a todos los participantes del ecosistema de Yearn, nuestros colaboradores y por supuesto a los usuarios.
 
 ## ¿Cómo puedes colaborar con Yearn?
 
- ![](image4.png)
+![](image4.png)
 
 Te preguntarás, ¿cómo puedo colaborar con Yearn? Para empezar, Yearn no posee papeles de incorporación, no hay headquaters y ni siquiera una lista de nombres de locaciones para sus contribuidores. En un experimento radical en la descentralización y así es como puedes involucrarte.
 
@@ -72,7 +77,7 @@ Esto es lo que creemos: si has sido atraído por la gravedad de Yearn, hay una r
 
 Estamos construyendo un barco. Llevará a todo quien quiera montarse. Cualquier edad, cualquier género, cualquier visión del mundo. Sois todos bienvenidos. Yearn es barco de la flota del mañana y lo único que importa es que naveguemos.
 
-El componente más radical de Yearn no es la generación de rendimiento, esta no es más que un aparato técnico construido con código y no podría existir sin una red de mentes y corazones. 
+El componente más radical de Yearn no es la generación de rendimiento, esta no es más que un aparato técnico construido con código y no podría existir sin una red de mentes y corazones.
 
 Tal vez la red en sí misma es la parte más radical de Yearn… nuestro DAO único y todos los que forman parte. Tal vez el siguiente componente más radical de Yearn eres tú.
 
@@ -118,7 +123,7 @@ Puedes leer una descripción detallada de las estrategias disponibles para todas
 
 [storming0x se ha unido a yAcademyDAO, donde realizara una auditoria de la estrategia de rebalanceo para Yearn](https://twitter.com/yAcademyDAO/status/1443138482604371974)
 
-[Echa un vistazo al reporte sobre Yearn, escrito por el equipo de diseño de economía](https://econteric.com/fundamentals/yearn-finance/) 
+[Echa un vistazo al reporte sobre Yearn, escrito por el equipo de diseño de economía](https://econteric.com/fundamentals/yearn-finance/)
 
 [Gana APR fijo con tu YFI o especula con el rendimiento variable de YFI en 88mph de Aave](https://twitter.com/88mphapp/status/1445880439420325889)
 
@@ -130,4 +135,4 @@ Puedes leer una descripción detallada de las estrategias disponibles para todas
 
 [Los portafolios V2 de Yearn en Fantom ahora son trackeados con DeBank](https://twitter.com/DeBankDeFi/status/1446624448744886273)
 
-[Hilo corto de Wot\_Is\_Goin\_On sobre Yearn y el futuro](https://twitter.com/Wot_Is_Goin_On/status/1446540007292952579)
+[Hilo corto de Wot_Is_Goin_On sobre Yearn y el futuro](https://twitter.com/Wot_Is_Goin_On/status/1446540007292952579)

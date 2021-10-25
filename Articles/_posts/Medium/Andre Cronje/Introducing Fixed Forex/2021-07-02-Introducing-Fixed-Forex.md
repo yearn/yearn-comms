@@ -5,7 +5,7 @@ categories: [ Articles ]
 image: ./Introducing-Fixed-Forex/andre-hero.png
 author: Andre
 translator:
-publish: true
+publish: false
 ---
 
 # Introducing Fixed Forex (USD, EUR, ZAR, JPY, CNY, etc)

@@ -1,8 +1,18 @@
-# Newsletter #45 de Yearn Finance 
+---
+layout: post
+title: "Newsletter #45 de Yearn Finance"
+categories: [Newsletters]
+image: ./Yearn-Finance-Newsletter-45/image1.jfif
+author: Yearn
+translator: RestlessMik3
+publish: true
+---
+
+# Newsletter #45 de Yearn Finance
 
 ![](image1.jfif)
 
-Bienvenidos a la edición número 45 de la Newsletter de Yearn Finance. Con esta newsletter nuestra idea es mantener informada a la comunidad de Yearn y de cripto en general con las últimas noticias, incluyendo lanzamiento de productos, cambios de gobernanza y actualizaciones del ecosistema. Si estás interesado en aprender más sobre Yearn Finance, sigue las cuentas oficiales de [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn). 
+Bienvenidos a la edición número 45 de la Newsletter de Yearn Finance. Con esta newsletter nuestra idea es mantener informada a la comunidad de Yearn y de cripto en general con las últimas noticias, incluyendo lanzamiento de productos, cambios de gobernanza y actualizaciones del ecosistema. Si estás interesado en aprender más sobre Yearn Finance, sigue las cuentas oficiales de [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn).
 
 ## **Resumen**
 

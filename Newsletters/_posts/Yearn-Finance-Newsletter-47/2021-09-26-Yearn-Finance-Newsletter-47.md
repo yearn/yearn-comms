@@ -1,25 +1,29 @@
-# Newsletter #47 de Yearn Finance 
+---
+layout: post
+title: "Newsletter #47 de Yearn Finance"
+categories: [Newsletters]
+image: ./Yearn-Finance-Newsletter-47/image1.png
+author: Yearn
+translator: RestlessMik3
+publish: true
+---
+
+# Newsletter #47 de Yearn Finance
 
 ### Semana del 26 de Septiembre de 2021
 
 ![](image1.png)
 
-Bienvenidos a la edición número 47 de la newsletter de Yearn Finance. Nuestro objetivo es mantener informada a la comunidad de Yearn y de cripto en general con las últimas noticias, incluyendo lanzamiento de productos, cambios de gobernanza y actualizaciones del ecosistema. Si estás interesado en aprender más sobre Yearn Finance, sigue las cuentas oficiales de [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn). 
+Bienvenidos a la edición número 47 de la newsletter de Yearn Finance. Nuestro objetivo es mantener informada a la comunidad de Yearn y de cripto en general con las últimas noticias, incluyendo lanzamiento de productos, cambios de gobernanza y actualizaciones del ecosistema. Si estás interesado en aprender más sobre Yearn Finance, sigue las cuentas oficiales de [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn).
 
 ## Resumen
 
--   Presentación de la interfaz de usuario V3 de Yearn
-    
--   Echa un vistazo a la nueva sección de laboratorio (Labs)
-    
--   Yearn ha comprado 320k dólares de YFI en Septiembre
-        
--   Los ingresos acumulados del protocolo alcanzan los 43M de dólares
-    
--   Vaults de Yearn
-    
--   Noticias del ecosistema
-    
+- Presentación de la interfaz de usuario V3 de Yearn
+- Echa un vistazo a la nueva sección de laboratorio (Labs)
+- Yearn ha comprado 320k dólares de YFI en Septiembre
+- Los ingresos acumulados del protocolo alcanzan los 43M de dólares
+- Vaults de Yearn
+- Noticias del ecosistema
 
 ## Presentación de la interfaz de usuario V3 de Yearn
 
@@ -57,7 +61,7 @@ Echa un vistazo a Labs en beta.yearn.finance/#labs donde podrás encontrar estra
 
 De acuerdo con el YIP-56: re-comprar y construir Yearn, el cual fue aprobado en enero de 2021, la tesorería de Yearn ha comprado $320K en YFI.
 
-La tesorería de Yearn comprará YFI periódicamente en el futuro usando los ingresos generados por el protocolo hasta una nueva propuesta de gobernanza que altere la política de re-compra. Puedes leer la propuesta BABY [Aquí](https://snapshot.org/#/yearn/proposal/Qmb6gBzjvgLMazSrQQGVcjutLNdkVyM2Lh6yckMzdoaHWZ). 
+La tesorería de Yearn comprará YFI periódicamente en el futuro usando los ingresos generados por el protocolo hasta una nueva propuesta de gobernanza que altere la política de re-compra. Puedes leer la propuesta BABY [Aquí](https://snapshot.org/#/yearn/proposal/Qmb6gBzjvgLMazSrQQGVcjutLNdkVyM2Lh6yckMzdoaHWZ).
 
 Información sobre las re-compras [Aquí](https://www.yfistats.com/financials/YFIBuybacks.html).
 

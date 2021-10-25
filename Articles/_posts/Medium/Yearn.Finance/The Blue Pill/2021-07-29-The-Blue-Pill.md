@@ -5,7 +5,7 @@ categories: [ Articles ]
 image: ./The-Blue-Pill/pill-wt-text.png
 author: Weaver
 translator:
-publish: true
+publish: false
 ---
 
 # The Blue Pill
