@@ -1,8 +1,8 @@
 # Top Menu
 topmenu:
 
-- title: Annoucements
-  url: "annoucements/"  
+- title: Anúncios
+  url: "annoucements/"
 
 - title: Newsletters
   url: "newsletters/"
@@ -10,10 +10,10 @@ topmenu:
 - title: Tweets
   url: "tweets/"
 
-- title: Articles
+- title: Artigos
   url: "articles/"
 
-- title: Financials
+- title: Finanças
   url: "financials/"
 
 - title: yearn.finance
@@ -24,7 +24,7 @@ topmenu:
 # Footer Menu
 footermenu:
 
-- title: about
+- title: sobre
   url: "about/"
 
 - title: github
@@ -37,17 +37,17 @@ footermenu:
   class: "ml-2 btn btn-primary text-white px-3"
   external: true
 
-- title: yearn docs
+- title: docs yearn
   url: https://docs.yearn.finance/
   class: "ml-2 btn btn-primary text-white px-3"
   external: true
 
-- title: yearn contribute
+- title: colaborar com yearn
   url: https://contribute.yearn.rocks
   class: "ml-2 btn btn-primary text-white px-3"
-  external: true  
+  external: true
 
-- title: yearn onboarding
+- title: fazer parte de yearn
   url: https://yearnfinance.notion.site
   class: "ml-2 btn btn-primary text-white px-3"
-  external: true  
+  external: true
