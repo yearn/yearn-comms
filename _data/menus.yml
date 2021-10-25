@@ -1,19 +1,19 @@
 # Top Menu
 topmenu:
 
-- title: Annoucements
+- title: घोषणा
   url: "annoucements/"  
 
-- title: Newsletters
+- title: समाचार पत्रिका
   url: "newsletters/"
 
-- title: Tweets
+- title: ट्वीट
   url: "tweets/"
 
-- title: Articles
+- title: लेख
   url: "articles/"
 
-- title: Financials
+- title: वित्तीय स्थिति
   url: "financials/"
 
 - title: yearn.finance
@@ -24,10 +24,10 @@ topmenu:
 # Footer Menu
 footermenu:
 
-- title: about
+- title: अबाउट
   url: "about/"
 
-- title: github
+- title: गिटहब
   url: https://github.com/yearn/yearn-comms
   class: "ml-2 btn btn-primary text-white px-3"
   external: true
@@ -37,17 +37,17 @@ footermenu:
   class: "ml-2 btn btn-primary text-white px-3"
   external: true
 
-- title: yearn docs
+- title: यर्न दस्तावेज़
   url: https://docs.yearn.finance/
   class: "ml-2 btn btn-primary text-white px-3"
   external: true
 
-- title: yearn contribute
+- title: यर्न योगदान
   url: https://contribute.yearn.rocks
   class: "ml-2 btn btn-primary text-white px-3"
   external: true  
 
-- title: yearn onboarding
+- title: यर्न ज्ञानप्राप्ति
   url: https://yearnfinance.notion.site
   class: "ml-2 btn btn-primary text-white px-3"
   external: true  
