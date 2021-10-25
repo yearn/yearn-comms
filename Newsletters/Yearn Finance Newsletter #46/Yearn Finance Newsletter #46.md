@@ -10,7 +10,7 @@ Bienvenidos a la edición número 46 de la newsletter de Yearn Finance. Con esta
 - Tras bastidores de Yearn  
 - Lanzamiento de la vault yvBOOST  
 - Informe financiero trimestral de Yearn  
-- Los ingresos acumulados del protocolo alcanzan los 41M  
+- Los ingresos acumulados del protocolo alcanzan los 41M$  
 - Las vaults de Yearn  
 - Noticias del ecosistema
     
@@ -19,11 +19,11 @@ Bienvenidos a la edición número 46 de la newsletter de Yearn Finance. Con esta
 
 Como sabrás, Yearn es el protocolo de generación de rendimiento de Defi, con distintos estrategas generando código para obtener retornos óptimos para nuestros usuarios utilizando contratos inteligentes flexibles que asignan recursos de manera eficiente en varios protocolos. Debido a que Yearn requiere mantenerse al día con el competitivo mercado de generación de rendimiento, necesitamos desplegar estrategias rápidamente lo cual conlleva riesgos de seguridad.
 
-Hay 176 estrategas en 63 vaults en total el día de hoy y para poder evitar riesgos de seguridad, necesitamos una solida estructura de riesgo. Para mitigar riesgos de seguridad, hemos agregado opciones como bots de simulación para encontrar problemas y para mantener la salud de del protocolo. Puedes leer mas sobre los procedimientos de emergencia [Aquí](https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/EMERGENCY.md).
+Hay 176 estrategas en 63 vaults en total el día de hoy y para poder evitar riesgos de seguridad, necesitamos una solida estructura de riesgo. Para mitigar riesgos de seguridad, hemos agregado opciones como bots de simulación para encontrar problemas y para mantener la salud de del protocolo. Puedes leer más sobre los procedimientos de emergencia [Aquí](https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/EMERGENCY.md).
 
 También puedes ver los detalles de las vaults y estrategias en [yearn.watch](https://yearn.watch/).
 
-Obtén mas información de los procedimiento de seguridad de Yearn en el tweet de storming0x [Aquí](https://twitter.com/storming0x/status/1436851219864059906).
+Obtén mas información de los procedimientos de seguridad de Yearn en el tweet de storming0x [Aquí](https://twitter.com/storming0x/status/1436851219864059906).
 
 ## **Lanzamiento de la vault yvBOOST**
 
@@ -33,7 +33,7 @@ CRV es el token de gobernanza de Curve.fi, el mismo puedo dejarse bloqueado por 
 
 Sin embargo, depositando veCRV en Yearn (mediante yveCRV) no tendrás poder de voto en Curve. No obstante Yearn realiza simulaciones y vota por ti para maximizar el rendimiento a través de todas las vaults.
 
-Una de nuestras nuevas creaciones en Yearn es la vault llamada yvBOOST, la cual es la versión compuesta de la vault yveCRV. Si bloqueas CRV en dicha vault, la vault utilizará las recompensas del protocolo y automáticamente comprara mas yveCRV de esta forma generando rendimiento compuesto. No podrás votar con yvBOOST, pero la vault lo hará de forma atuomatica por ti. Simplemente deposita y disfruta las recompensas.    
+Una de nuestras nuevas creaciones en Yearn es la vault llamada yvBOOST, la cual es la versión compuesta de la vault yveCRV. Si bloqueas CRV en dicha vault, la vault utilizará las recompensas del protocolo y automáticamente comprará más yveCRV de esta forma generando rendimiento compuesto. No podrás votar con yvBOOST, pero la vault lo hará de forma automática por ti. Simplemente deposita y disfruta las recompensas.    
 
 Puedes intercambiar yveCRV y yvBOOST por stablecoins en Sushiswap.
 
@@ -51,11 +51,11 @@ Varios miembros de la comunidad de Yearn, han creado un informe trimestral infor
 
 Puedes ver este reporte [Aquí](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf).
 
-## **Los ingresos acumulados del protocolo alcanzan los 41M**
+## **Los ingresos acumulados del protocolo alcanzan los 41M$**
 
 ![](image4.png)
 
-Yearn ha generado ingresos de casi 41 millones de dolares desde su lanzamiento (excluyendo los intereses generados por los depositantes). En los últimos 30 días, casi 6 millones de dolares han sido generados en ingresos del protocolo. Esta data permite proyectar ingresos anuales de casi 60 millones de dolares.
+Yearn ha generado ingresos de casi 41 millones de dólares desde su lanzamiento (excluyendo los intereses generados por los depositantes). En los últimos 30 días, casi 6 millones de dólares han sido generados en ingresos del protocolo. Estos datos permiten proyectar ingresos anuales de casi 60 millones de dólares.
 
 Los ingresos acumulados de Yearn y otras estadísticas son visibles [Aquí](https://www.yfistats.com/).
 
@@ -65,11 +65,11 @@ Puedes leer una descripción detallada de las estrategias para todas nuestras yV
 
 ## **Noticias del ecosistema**
 
-[Registrate para convertirte en interno en el DAO de la yAcademy para auditar contratos inteligentes activos](https://twitter.com/yAcademyDAO/status/1435866622556659717) 
+[Regístrate para convertirte en interno en el DAO de la yAcademy para auditar contratos inteligentes activos](https://twitter.com/yAcademyDAO/status/1435866622556659717) 
 
 [Los tokens de liquidez YFI/ETH de SushiSwap están disponibles como colateral en las vaults Alphade OnX](https://twitter.com/OnXFinance/status/1435229990681972741)
 
-[Yearn está apoyando ETHGlobal y ETHOnline, con $4,000 en premios disponibles para hackers y la posibilidad de colaborar con el equipo de Yearn](https://twitter.com/iearnfinance/status/1436302183545196546)
+[Yearn está apoyando ETHGlobal y ETHOnline, con $4000 en premios disponibles para hackers y la posibilidad de colaborar con el equipo de Yearn](https://twitter.com/iearnfinance/status/1436302183545196546)
 
 [Han sido agregadas recompensas de rKP3R a Fixed Forex ](https://twitter.com/thekeep3r/status/1437402914474037256)
 
