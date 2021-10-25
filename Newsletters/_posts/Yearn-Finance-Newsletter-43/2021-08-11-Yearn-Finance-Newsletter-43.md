@@ -2,7 +2,7 @@
 layout: post
 title:  "यर्न फिनांस त समाचार पत्र #४३"
 categories: [ Newsletters ]
-image: ./Yearn-Finance-Newsletter-43/image1.png
+image: ./Yearn-Finance-Newsletter-43/image1.jpg
 author: Yearn
 translator: Jengajojo
 publish: true
