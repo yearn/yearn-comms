@@ -1,6 +1,16 @@
+---
+layout: post
+title:  "DAO के लिए विकेन्द्रीकृत पेरोल प्रबंधन"
+categories: [ Articles ]
+image: ./Decentralized-Payroll-Management-for-DAOs/andre-hero.png
+author: Andre
+translator: Major-Rager
+publish: true
+---
+
 # DAO के लिए विकेन्द्रीकृत पेरोल प्रबंधन
 
-लेखक: [आंद्रे क्रोन्ये](https://twitter.com/AndreCronjeTech)</br>
+लेखक: [आंद्रे क्रोन्ये](https://twitter.com/AndreCronjeTech)
 
 मार्च 31, 2021
 

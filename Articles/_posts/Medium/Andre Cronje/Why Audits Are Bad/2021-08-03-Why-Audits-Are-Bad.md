@@ -1,6 +1,17 @@
+---
+layout: post
+title:  "आयरन बैंक फिक्स्ड फॉरेक्स ऑडिट: ऑडिट खराब क्यों हैं"
+categories: [ Articles ]
+image: ./Why-Audits-Are-Bad/andre-hero.png
+author: Andre
+translator: Major-Rager
+publish: true
+---
+
+
 # आयरन बैंक फिक्स्ड फॉरेक्स ऑडिट: ऑडिट खराब क्यों हैं
 
-लेखक: [आंद्रे क्रोन्ये](https://twitter.com/AndreCronjeTech)</br>
+लेखक: [आंद्रे क्रोन्ये](https://twitter.com/AndreCronjeTech)
 
 3 अगस्त 2021
 
