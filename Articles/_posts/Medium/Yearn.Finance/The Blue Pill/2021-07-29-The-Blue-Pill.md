@@ -4,49 +4,51 @@ title:  "The Blue Pill"
 categories: [ Articles ]
 image: ./The-Blue-Pill/pill-wt-text.png
 author: Weaver
-translator:
-publish: false
+translator: Cryptouf
+publish: true
 ---
 
 # The Blue Pill
 
-We refer to it simply as The Gift.
+Nous l'appelons simplement Le Cadeau.
 
-One year ago in July 2020, Andre gave YFI tokens to anyone in the DeFi community who wanted to be a part of the project by staking, farming or voting.
+Il y a un an, en juillet 2020, Andre a distribué des jetons YFI à toute personne de la communauté DeFi qui souhaitait faire partie du projet en stakant, en cultivant ou en votant.
 
-Nobody, including Andre, knew what YFI and Yearn would become…
+Personne, y compris Andre, ne savait ce que le YFI et Yearn allaient devenir…
 
-A DeFi blue chip.
+Un DeFi blue chip.
 
-A magnet for talent and for billions in TVL.
+Un aimant pour les talents et pour des milliards de TVL.
 
-A collective of builders who value collaboration over competition and integrity over all else.
+Un collectif de constructeurs qui valorisent la collaboration plutôt que la concurrence et l'intégrité avant tout.
 
-Today, just 12 months later, we honor the makers, doers, builders and believers, with the release of a book:
+Aujourd'hui, à peine 12 mois plus tard, nous honorons les artisans, les faiseurs, les constructeurs et les croyants, avec la sortie d'un livre :
 
 ![](image1.png)
-The Blue Pill: A spiritual guide for the past, present, and future of Yearn.
 
-Its pages document the origin story of Yearn and lay out a crude map for where we go next.
+Ses pages documentent l'histoire originelle de Yearn et présentent une vague ébauche des prochaines étapes.
 
-Yearn is reimagining and rebuilding finance, but it’s also reimagining and rebuilding organizations and the very nature of collaboration, too.
+Yearn réinvente et reconstruit la finance, mais il ré-imagine et reconstruit également les organisations et la nature même de la collaboration.
 
-The book is an invitation for you to join us in the land of infinite possibilities and contribute to the journey ahead.
+Ce livre est une invitation à nous rejoindre au pays des possibilités infinies et à contribuer au voyage à venir.
 
 ![](image2.png)
 
-To honor the legends who participated in Yearn during Year One, we’ve worked with artist [@ZemmNFT](https://twitter.com/Zemm_NFT) to create [a series of legendary and rare NFTs](https://galaxy.eco/yearn) that grant online access to the book.
 
-You are the farmers, the stakers, the voters, and the givers who shaped and held YFI from the beginning. We’ve taken snapshots of each of these groups and worked with our friends [@ProjectGalaxyHQ](https://twitter.com/ProjectGalaxyHQ) to bring them to you today.
+Pour honorer les légendes qui ont participé au succès de Yearn lors de cette première année, nous avons travaillé avec l'artiste  [@ZemmNFT](https://twitter.com/Zemm_NFT) pour créer [une série de NFT légendaires et rares](https://galaxy.eco/yearn)  qui permette d’accéder a une version en ligne de ce livre.
 
-Yearn OGs appearing on multiple snapshots can also claim special, rare NFTs. All of the Blue Pill NFTs come with a link to the digital version of The Blue Pill book.
+Vous êtes les farmer, les stakeurs, les votants et les donateurs qui ont façonné et soutenu le YFI depuis le début. Nous avons pris des snapshot de chacun de ces groupes et travaillé avec nos amis de [@ProjectGalaxyHQ](https://twitter.com/ProjectGalaxyHQ) pour vous les offrir.
 
-Those on the snapshots will be the first to view the book, but just as YFI began with a gift this digital book is free and intended to be shared by all.
+Les piliers apparaissant sur plusieurs snapshot peuvent également reclamer des NFT spéciaux et rares. Tous les NFT Blue Pill sont accompagnés d'un lien vers la version numérique du livre The Blue Pill.
 
-So go forth, ye original sowers of the seeds of Yearn.
+Les personnes présentent sur les snapshots seront les premiers à voir le livre, mais tout comme le YFI, qui est apparue sous la forme d’un cadeau à la communauté, ce livre numérique est gratuit et destiné à être partagé avec vous tous.
 
-Accept our humble invitation to join us in celebration of one year of YFI.
+Allez donc de l'avant, vous les semeurs de graines Yearn.
 
-[Claim the NFTs](https://galaxy.eco/yearn) as a symbol of your place in Yearn history, and share this book those who might join us in building what Yearn is yet to become.
+Acceptez notre humble invitation à vous joindre à nous pour célébrer un an de YFI.
+
+[ Réclamez vos NFT](https://galaxy.eco/yearn)comme un symbole de votre place dans l'histoire de Yearn, et partagez ce livre avec ceux qui souhaitent nous rejoindre pour construire le futur de Yearn .
+
+
 
 ![](image3.jpg)
