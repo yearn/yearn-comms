@@ -111,7 +111,7 @@ Comment farmer du YFI en travaillant pour une DAO : lorsque d'autres contributeu
 
 Nous construisons un navire. Il transportera tous ceux qui voudront embarquer. Tout âge, tout sexe, toute vision du monde. Vous êtes tous les bienvenus. Et tout ce qui compte, c'est que nous naviguions.
 
- Et si après tout la composante la plus radicale de Yearn n'était pas de créer une machine à rendement ? Cette machine est un appareil technique composée de millier de pièces.
+Et si après tout la composante la plus radicale de Yearn n'était pas de créer une machine à rendement ? Cette machine est un appareil technique composée de millier de pièces.
 
 Plus de details [ici](https://twitter.com/iearnfinance/status/1445799269189881864?s=20)..
 
@@ -134,7 +134,7 @@ Vous n'aimez pas les sites Web ? Vous pouvez même suivre nos revenus avec des �
 
 Vous voulez rejoindre l'une des plateformes les plus ouvertes et transparentes de l'histoire ? Bonne nouvelle : nous vous montrons exactement comment vous pouvez contribuer avec une liste de tâches qui n'attendent que vous : https://contribute.yearn.rocks 
 
-Merci à la communauté de Yearn et à tous les contributeurs de Yearn qui contribuente. Si vous souhaitez contribuer, rejoignez notre [discord](https://discord.gg/8rF374XkXy) , créez une issue dans l'un des [repos](https://github.com/yearn) partagés dans le [medium](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f) ou partagez vos créations avec nous sur [twitter](https://twitter.com/iearnfinance)! !
+Merci à la communauté de Yearn et à tous les contributeurs de Yearn qui contribuente. Si vous souhaitez contribuer, rejoignez notre [discord](https://discord.gg/8rF374XkXy) , créez une issue dans l'un des [repos](https://github.com/yearn) partagés dans le [medium](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f) ou partagez vos créations avec nous sur [twitter](https://twitter.com/iearnfinance)! 
 
 
 
