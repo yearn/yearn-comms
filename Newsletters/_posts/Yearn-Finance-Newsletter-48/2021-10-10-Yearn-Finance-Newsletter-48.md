@@ -104,7 +104,7 @@ https://beta.yearn.finance
 
 पारदर्शिता और ऑन-चेन सत्यापन के माध्यम से, हम मानते हैं कि, क्रिप्टो, दुनिया को बदल देगा। यर्न इस पारदर्शिता का उदाहरण देने की उम्मीद करता है, और नीचे, हमने कुछ उदाहरण प्रदर्शित किए हैं।
 
-हर तिमाही में यर्न की बैलेंस शीट, EBITDA, आय और बहुत कुछ देखें: [https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn- तिमाही-report.pdf](https:/ /github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn- तिमाही-report.pdf)
+हर तिमाही में यर्न की बैलेंस शीट, EBITDA, आय और बहुत कुछ देखें: [https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf)
 
 वास्तव में, आप [yfistats.com](https://www.yfistats.com/) पर वास्तविक समय में प्रत्येक यर्न से संबंधित लेनदेन को ट्रैक कर सकते हैं। वहां, आपको सॉर्ट करने योग्य: लेनदेन रिकॉर्ड, प्रोटोकॉल आय , प्रोटोकॉल खर्च, आय विवरण, ईओएम शेष, हर्ट्स, राजस्व अनुमान, $YFI बायबैक, और बहुत कुछ मिलेगा। यह सारी जानकारी yBudget टीम द्वारा सावधानीपूर्वक तैयार की गई है और हमेशा की तरह, सभी के लिए स्वतंत्र रूप से सुलभ है।
 
