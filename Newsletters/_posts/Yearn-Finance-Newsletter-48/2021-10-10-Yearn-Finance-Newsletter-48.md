@@ -10,7 +10,7 @@ publish: false
 
 # Yearn Finance Newsletter #48
 
-### Week Ending October 10th, 2021
+### Semaine du 10 Octobre, 2021
 
 ![](image1.png)
 
