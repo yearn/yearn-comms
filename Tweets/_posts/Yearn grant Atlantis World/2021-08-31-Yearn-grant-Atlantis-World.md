@@ -1,10 +1,11 @@
 ---
-लेखक: "yearn.finance"
-हैंडल: "@iearnfinance"
-स्रोत: "https://twitter.com/iearnfinance/status/1432387438014435332"
-likes: 357
-retweets: 60
-replies: 21
+layout: post
+title:  "Atlantis World Grant"
+categories: [ Tweets ]
+image: ./Yearn-grant-Atlantis-World/image2.jpg
+author: Yearn
+translator: Major-Rager
+publish: true
 ---
 
 ![](image1.jpg)
