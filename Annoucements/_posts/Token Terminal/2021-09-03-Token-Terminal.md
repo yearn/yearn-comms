@@ -4,8 +4,8 @@ title:  "Token Terminal"
 categories: [ Annoucements ]
 image: ./Token-Terminal/1.jpg
 author: Yearn
-translator:
-publish: false
+translator: Dastronom
+publish: true
 ---
 
 ![](1.jpg)
