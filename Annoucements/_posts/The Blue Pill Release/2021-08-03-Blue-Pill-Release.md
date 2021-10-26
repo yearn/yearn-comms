@@ -4,8 +4,8 @@ title:  "Blue Pill Release"
 categories: [ Annoucements ]
 image: ./Blue-Pill-Release/thebluepill.jpg
 author: Yearn
-translator:
-publish: false
+translator: Dastronom
+publish: true
 ---
 
 Geçen hafta The Blue Pill kitabını duyurduk ve erken Yearn destekçilerine sınırlı bir NFT serisi aracılığıyla ilk izlenimleri verdik.
