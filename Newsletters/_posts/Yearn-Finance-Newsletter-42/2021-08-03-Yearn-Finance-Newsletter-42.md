@@ -4,99 +4,113 @@ title:  "Yearn Finance Newsletter #42"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-42/image1.png
 author: Yearn
-translator:
-publish: false
+translator: Cryptouf
+publish: true
 ---
 
 # Yearn Finance Newsletter #42
 
 ![](image1.png)
 
-Welcome to the 42nd edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If youΓÇÖre interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Bienvenue à la 42e édition de la Newsletter Yearn Finance. Notre objectif avec cette newsletter est de tenir la communauté Yearn, et plus généralement la communauté crypto, au courant des dernières nouvelles, y compris les lancements de produits, les changements de gouvernance et les mises à jour de l'écosystème. Si vous souhaitez en savoir plus sur Yearn Finance, suivez nos comptes [Twitter](https://twitter.com/iearnfinance) et [Medium](https://medium.com/iearn) officiels.
 
 ## **Summary**
 
-- The Yearn Blue Pill
-- Woofy Week 11 Snapshot
-- Migrate Or Die
-- New Curve Gauge Voting Strategy
-- Check Out The Pickle Jars
-- What It Takes To Be A Strategist
-- Audits Published For Yearn V2
-- Vaults at Yearn
-- Ecosystem News
+- Les NFTs The Blue Pill
+- Woofy Snapshot semaine 11
+- Migrer ou Mourir
+- Nouvelle stratégie de vote sur la Gauge de Curve
+- Découvrez les Jars de Pickle
+- Ce qu'il faut pour être un stratège
+- Audits publiés  pour les yVaults V2 
+- Vaults chez Yearn
+- Nouvelles de l'écosystème
 
-## **The Blue Pill NFTs**
+## **Les NFTs The Blue Pills**
 
 ![](image2.png)
 
-To celebrate the first year of Yearn, we have collaborated once again with Project Galaxy to bring you The Blue Pill, a spiritual guide for the past, present and future of Yearn. Made by Zemm, The Blue Pill is a beautifully-typeset book available to our 13,500 most loyal supporters. This is a series of seven unique NFTs for the various farmers, stakers, voters, and givers of the Yearn community. Join us in celebrating the gift of YFI!
+Pour célébrer l’anniversaire de Yearn, nous avons de nouveau collaboré avec Project Galaxy pour vous proposer “The Blue Pill”, un guide spirituel pour le passé, le présent et l'avenir de Yearn. Réalisé par Zemm, The Blue Pill est un livre magnifique, distribue a nos 13 500 supporters les plus fidèles. Il s'agit d'une série de sept NFT uniques pour les différents farmeur, stakeurs, électeurs et donateurs de la communauté Yearn. Joignez-vous à nous pour célébrer ce cadeau qu’est le YFI !
 
-Read more about the NFT drop on the Yearn blog [here](https://medium.com/iearn/the-blue-pill-ca44ed01f16f).
+En savoir plus sur ce drop de NFT sur le blog Yearn [ici](https://medium.com/iearn/the-blue-pill-ca44ed01f16f).
 
-Claim your books [here](https://galaxy.eco/yearn) and check out the full book [here](https://thebluepill.eth.link/).
+Réclamez vos livres ici et consultez le livre complet [ici](https://thebluepill.eth.link/).
 
-## **Woofy Week 11 Snapshot**
+
+
+## **Woofy Snapshot semaine 11**
 
 ![](image3.png)
 
-New WOOFY holders can expect an NFT gift via a collaboration between Yearn and Project Galaxy. These are from a series of six unique WOOFY NFTs as shown above. These snapshots cover token holders, LPs, stakers, and vault users across multiple chains.
 
-Claim your Woofy NFTs [here](https://galaxy.eco/yearn).
+Les nouveaux détenteurs de WOOFY peuvent s'attendre à un cadeau sous forme de NFT via une collaboration entre Yearn et Project Galaxy. C’est une série de six WOOFY NFT uniques, comme indiqué ci-dessus. Ces snapshot couvrent les détenteurs de jetons, les LPs, les stakeurs et les utilisateurs de coffres sur plusieurs chaînes.
 
-## **Migrate Or Die**
+Réclamez vos Woofy NFT [ici](https://galaxy.eco/yearn).
+
+## **Migrer ou Mourir**
 
 ![](image4.png)
 
-The v1 vaults have served everyone as a reliable source of yield for almost a year, but now the time has come to say goodbye. All old vaults have been harvested one last time and strategies have been unwinded. As a reminder, our v2 vaults entail several changes such as deploying capital across several strategies for more efficiency and better risk-adjusted yield.
+Les coffres v1 ont servi à tout le monde de source de rendement fiable pendant près d'un an, mais le moment est maintenant venu de dire leur dire au revoir. Tous les anciens coffres ont été récoltés une dernière fois et les stratégies ont été stoppées. Pour rappel, nos coffres v2 impliquent plusieurs changements tels que le déploiement de capital à travers plusieurs stratégies pour plus d'efficacité et un meilleur rendement ajusté au risque.
 
-You can migrate to v2 at any time without fees.
+Vous pouvez migrer vers les v2 à tout moment et sans frais.
 
-Check out the vaults here at [yearn.finance/vaults](https://yearn.finance/vaults).
+Découvrez les coffres-forts sur [yearn.finance/vaults](https://yearn.finance/vaults).
 
-## **New Curve Gauge Voting Strategy**
 
-Thanks to the great work of the Strategists at Yearn, we have discovered the most optimal Curve Finance gauge voting strategy to generate our users the most yield. This newer strategy has enabled us to get up to 20% higher yields on our current positions utilizing veCRV.
 
-As always, we are striving to bring you all the best risk-adjusted yields in DeFi, with Strategists constantly pushing code to make the Yearn experience better. Deposit capital into the yVaults and let our Strategists do the hard work.
+## **Nouvelle stratégie de vote sur la Gauge de Curve**
 
-Check out the vaults [here](https://yearn.finance/vaults).
+Grâce à l'excellent travail des stratèges de Yearn, nous avons developé la stratégie de vote sur la gauge de Curve Finance la plus optimale pour générer le plus de rendement possible pour nos utilisateurs. Cette nouvelle stratégie nous a permis d'obtenir des rendements jusqu'à 20 % plus élevés en utilisant nos veCRV.
 
-## **Check Out The Pickle Jars**
+Comme toujours, nous nous efforçons de vous offrir les meilleurs rendements ajustés au risque de la DeFi, avec des stratèges poussant constamment les limites pour améliorer l'expérience Yearn. Déposez du capital dans les yVaults et laissez nos stratèges faire le travail acharné.
+
+Découvrez les coffres [ici](https://yearn.finance/vaults).
+
+
+## **Découvrez les Jars de Pickle**
 
 ![](image5.png)
 
-At Pickle Finance, you can find impressive rates from 7% to 40% on your favorite yVault tokens. You can earn on Yearn FRAX, Yearn LUSD, yUSDC, and many more!
+Chez Pickle Finance, vous pouvez trouver des taux impressionnants de 7% à 40% sur vos jetons yVault préférés. 
 
-Pickle is one of our amazing partners who take part in our revenue sharing program in which your project can earn up to 50% of the fees Yearn generates.
+Pickle est l'un de nos partenaires et participe à notre programme de partage des revenus dans lequel un projet peut gagner jusqu'à 50% des frais générés par Yearn.
 
-Check out the various farms [here](https://app.pickle.finance/farms).
+Découvrez les différentes farms [ici](https://app.pickle.finance/farms).
 
-View more details about partnerships [here](https://twitter.com/iearnfinance/status/1367508483952771075) and apply [here](https://yearnfinance.typeform.com/to/uP7xOJUN).
+Voir plus de détails sur les partenariats [ici](https://twitter.com/iearnfinance/status/1367508483952771075)  et postuler [ici](https://yearnfinance.typeform.com/to/uP7xOJUN).
 
-## **What It Takes To Be A Strategist**
+
+
+## **Ce qu'il faut pour être un stratège**
 
 ![](image6.png)
 
-Over $5M has been paid to Yearn strategists in 2021. At EthCC, Facu Ameal broke down what it takes to become a mighty strategist like him. Strategies, as you may know, are the backbone to Yearn and allow you to earn the best risk-adjusted yield on your tokens.
 
-To summarize, Facu goes over the information about vaults and strategies, the interactions between them, and finally, the tools and procedures used to write and release strategies to the general public.
+Plus de 5 millions de dollars ont été versés aux stratèges de Yearn en 2021. A l’ EthCC, Facu Ameal a expliqué ce qu'il faut pour devenir un puissant stratège comme lui. Les stratégies, comme vous le savez peut-être, sont l'épine dorsale de Yearn et vous permettent d'obtenir le meilleur rendement ajusté au risque sur vos jetons.
 
-Check the [video](https://www.youtube.com/watch?v=NVR3teJw0Y0), which includes an invite to YFI Boarding School
+Pour résumer, Facu passe en revue les informations sur les coffres-forts et les stratégies, les interactions entre eux et les outils et procédures utilisés pour rédiger et diffuser des stratégies au grand public.
 
-## **Audits Published For Yearn V2**
+Regardez la [video](https://www.youtube.com/watch?v=NVR3teJw0Y0), qui comprend une invitation à l'internat YFI
+
+
+
+## **Audits publiés  pour les yVaults V2 **
 
 ![](image7.png)
 
-Yearn has connected with Trail of Bits on an audit of the v2 Vault, BaseStrategy and BaseWrapper contracts. The findings of the audit were addressed in the 0.4.x series of the contracts released in May.
+Yearn s'est rapproché de Trail of Bits pour effectuer un audit des contrats v2 Vault ainsi que la BaseStrategy et le BaseWrapper. Les résultats ont été publies dans la série 0.4.x des contrats publiés en mai.
 
-View the report [here](https://github.com/trailofbits/publications/blob/master/reviews/YearnV2Vaults.pdf).
+Voir le rapport [ici](https://github.com/trailofbits/publications/blob/master/reviews/YearnV2Vaults.pdf).
 
-## **Vaults At Yearn**
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-## **Ecosystem News**
+## Vaults chez Yearn
+
+Vous pouvez trouver une description détaillée des stratégies de tous nos yVaults actifs [ici](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+
+
+## Nouvelles de l'écosystème
 
 [Element Finance launches their fourth asset, DAI, which relies on Yearn for fixed yield](https://twitter.com/element_fi/status/1417880198033387526)
 
