@@ -4,8 +4,8 @@ title:  "Update Bowswap"
 categories: [ Annoucements ]
 image: ./Update-Bowswap.Finance/image1.jpg
 author: Yearn
-translator:
-publish: false
+translator: Dastronom
+publish: true
 ---
 
 # Bowswap.Finance [Güncel](https://t.me/yearnupdates/483)
