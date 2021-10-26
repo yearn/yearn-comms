@@ -4,66 +4,73 @@ title:  "Yearn Finance Newsletter #45"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-45/image1.jfif
 author: Yearn
-translator:
-publish: false
+translator: Cryptouf
+publish: true
 ---
 
 # Yearn Finance Newsletter #45
 
 ![](/image1.jfif)
 
-Welcome to the 45th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you're interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Bienvenue à la 45e édition de la Newsletter Yearn Finance. Notre objectif avec cette newsletter est de tenir la communauté Yearn, et plus généralement la communauté crypto, au courant des dernières nouvelles, y compris les lancements de produits, les changements de gouvernance et les mises à jour de l'écosystème. Si vous souhaitez en savoir plus sur Yearn Finance, suivez nos comptes [Twitter](https://twitter.com/iearnfinance) et [Medium](https://medium.com/iearn) officiels.
 
-## **Summary**
+## **Résumé**
 
-- ALPHA and YFI Liquidity Providers Eligible For A Special NFT
-- Reminder To Migrate To V2
-- How To Swap Into Yearn Vaults
-- Cumulative Protocol Revenue Reaches $39M
-- Vaults at Yearn
-- Ecosystem News
-
-## **ALPHA and YFI Liquidity Providers Eligible For A Special NFT**
+- Les fournisseurs de liquidités ALPHA et YFI sont éligibles pour un NFT spécial
+- Souvenez vous de migrer vers la V2Présentation de quatre nouveaux yVaults
+- Comment passer d’un yVault à un autre
+- Les revenus cumulés du protocole atteignent 39 millions de dollars
+- Vaults chez Yearn
+- Nouvelles de l'écosystème
+- 
+## **- Les fournisseurs de liquidités ALPHA et YFI sont éligibles pour un NFT spécial**
 
 ![](./image2.jfif)
 
-Liquidity providers for the Uniswap ETH/YFI and Sushiswap ETH/YFI pools in Alpha Homora V2 pools will be eligible for a special NFT drop courtesy of Yearn, Alpha, and Project Galaxy.
+Les fournisseurs de liquidités pour les pools Uniswap ETH / YFI et Sushiswap ETH / YFI  sur Alpha Homora V2 seront éligibles pour recevoir un NFT spéciale offert par Yearn, Alpha et Project Galaxy.
 
-This drop will last 3 full days, from 9/3-9/9. Users that open/have existing positions in eligible pools will be able to claim their NFT on Project Galaxy's website [here](https://galaxy.eco/AlphaFinanceLab/campaign/117).
+Cette distribution dureraencore  3 jours complets, du 9 / 3 au 9 / 9. Les utilisateurs qui ouvrent / ont des positions existantes dans des pools éligibles pourront réclamer leur NFT sur le site Web de Project Galaxy [ici](https://galaxy.eco/AlphaFinanceLab/campaign/117).
 
-Note that users will only be able to claim their NFT during the window and must claim with the wallet address that has the positions currently open
+Notez que les utilisateurs ne pourront réclamer leur NFT que pendant cette fenêtre et doivent réclamer avec l'adresse du portefeuille  possédant les positions.
 
-View more details [here](https://twitter.com/AlphaFinanceLab/status/1433689307152195591).
+Voir plus de détails [ici](https://twitter.com/AlphaFinanceLab/status/1433689307152195591).
 
-## **Reminder To Migrate To V2**
 
-As v2 has been live for months, the v1 vaults have been deprecated and strategies have been shut down, with users still in the vaults earning no yield. These vaults have served the DeFi community over a year as a reliable source of yield, and now, it's time for an upgrade. As a reminder, our v2 vaults entail several changes such as deploying capital across several strategies for more efficiency and better risk-adjusted yield. You can migrate to v2 at any time without fees.
+## **Souvenez vous de migrer vers la V2Présentation de quatre nouveaux yVaults**
 
-Check out the vaults here at [yearn.finance/vaults](https://yearn.finance/vaults).
+Comme les v2 sont en ligne depuis des mois, les yVault v1 ont été dépréciés et les stratégies ont été fermées, les utilisateurs toujours dans les vaults ne gagnent donc aucun rendement. Ces vaults ont servi la communauté DeFi pendant un an en tant que source fiable de rendement, il est maintenant  temps de procéder à une mise à niveau. Pour rappel, nos vaults v2 impliquent plusieurs changements tels que le déploiement de capital à travers plusieurs stratégies pour plus d'efficacité et un meilleur rendement ajusté au risque. Vous pouvez migrer vers la v2 à tout moment et sans frais.
 
-## **How To Swap Into Yearn Vaults**
+Découvrez les coffres-forts sur [yearn.finance/vaults](https://yearn.finance/vaults).
+
+
+## **Comment passer d’un yVault à un autre**
 
 ![](image3.jfif)
 
-One of the best ways to do Yearn Vaults swaps funds from one vault to another is typically using [curve.fi](https://curve.fi/) or with zaps built into Yearn's UI. This is gas efficient, but may cost extra in slippage or additional fees.
+L'un des meilleurs moyens d'échanger des fonds d'un vault Yearn  à un autre consiste généralement à utiliser [curve.fi](https://curve.fi/) ou des zaps intégrés à l'interface utilisateur de Yearn. Ceci est économe en terme de gaz, mais peut coûter plus cher à cause du slippage ou des frais supplémentaires.
 
-Another way of migrating funds from Compound and AAVE to Yearn is with the use of [bowswap.finance](https://bowswap.finance/). It lets you withdraw from the protocol and deposit into a Yearn vault, with it additionally showing both protocol's APYs for comparison and allowing you to select multiple tokens at a time. No extra fees!
+Une autre façon de migrer des fonds de Compound et AAVE vers Yearn consiste à utiliser [bowswap.finance](https://bowswap.finance/). Il vous permet de vous retirer du protocole et de déposer dans un yVault  proposant, en outre, des APY  pour interessantes. L’UI de bowswap vous indique les APY des deux protocoles à des fins de comparaison et vous permet de sélectionner plusieurs jetons à la fois. Pas de frais supplémentaires !
 
-Thanks to [cryptouf](https://twitter.com/cryptouf) for curating this short guide.
+Merci à [cryptouf](https://twitter.com/cryptouf) d'avoir réalisé ce petit guide.
 
-## **Cumulative Protocol Revenue Reaches $39M**
+
+
+## **Les revenus cumulés du protocole atteignent 39 millions de dollars**
 
 ![](image4.png)
 
-Yearn has earned over $39 million in revenue, since launch (excluding the interest earned by depositors). In the past 30 days, over $5 million dollars in revenue has been generated by the protocol. An extrapolation of this data projects annual revenue to be nearly $30 million.
+Yearn a généré plus de 39 millions de dollars de revenus depuis son lancement (hors intérêts perçus par les déposants). Au cours des 30 derniers jours, plus de 5 millions de dollars de revenus ont été générés par le protocole. Une extrapolation de ces données prévoit un chiffre d'affaires annuel de près de 30 millions de dollars.
 
-Yearn's cumulative revenue and other statistics are viewable [here](https://www.yfistats.com/).
+Les revenus cumulés de Yearn et d'autres statistiques sont consultables [ici](https://www.yfistats.com/).
 
-## **Vaults At Yearn**
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-## **Ecosystem News**
+## Vaults chez Yearn
+
+Vous pouvez trouver une description détaillée des stratégies de tous nos yVaults actifs [ici](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+
+
+## Nouvelles de l'écosystème
 
 [Keep3r Network v3 liquidity incentives](https://twitter.com/AndreCronjeTech/status/1434125562281332737)
 
