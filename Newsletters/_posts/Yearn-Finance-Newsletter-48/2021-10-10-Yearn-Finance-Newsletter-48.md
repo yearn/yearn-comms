@@ -4,8 +4,8 @@ title:  "Yearn Finance Newsletter #48"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-48/image1.png
 author: Yearn
-translator:
-publish: false
+translator: Cryptouf
+publish: true
 ---
 
 # Yearn Finance Newsletter #48
