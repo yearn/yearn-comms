@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "More boosts, compounding, and mojitos for you with yvBOOST"
+title:  "Plus de boosts, rendements composés et mojitos avec le yvBOOST"
 categories: [ Articles ]
 image: ./thats-boost-folks/image4.png
 author: Qosmonot
