@@ -4,64 +4,65 @@ title:  "Yearn Finance Newsletter #41"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-41/image1.png
 author: Yearn
-translator:
-publish: false
+translator: Cryptouf
+publish: true
 ---
 
 ![alt_text](image1.png)
 
 # Yearn Finance Newsletter #41
 
-Welcome to the 41st edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Bienvenue à la 41e édition de la Newsletter Yearn Finance. Notre objectif avec cette newsletter est de tenir la communauté Yearn, et plus généralement la communauté crypto, au courant des dernières nouvelles, y compris les lancements de produits, les changements de gouvernance et les mises à jour de l'écosystème. Si vous souhaitez en savoir plus sur Yearn Finance, suivez nos comptes [Twitter](https://twitter.com/iearnfinance) et [Medium](https://medium.com/iearn) officiels.
 
-## Summary
+## Résumé
 
-- Celebrating YFI’s First Year
-- Yearn’s Market Share In The Aggregator Market Rises
-- Yearn To Be Added To Compound
-- YFI Borrowing Rate Lowered At MakerDAO
-- Vaults at Yearn
-- Ecosystem News
+- Célébrons le premier anniversaire de Yearn
+- La part de marché de Yearn dans le marché des agrégateurs augmente
+- Yearn va être ajouté sur Compound
+- Le Taux d'emprunt du YFI abaissé sur MakerDAO
+- Vaults chez Yearn
+- Nouvelles de l'écosystème
 
-## Celebrating YFI’s First Year
+## Célébrons le premier anniversaire de Yearn
 
 ![alt_text](image5.png)
 
-One year ago on July 17, 2020, the YFI token was launched. Thank you all for creating an unforgettable moment in DeFi and what is now one of the strongest DeFi ecosystems.
+Il y a un an, le 17 juillet 2020, le jeton YFI était lancé. Merci à tous d'avoir participé à ce moment inoubliable dans la DeFi et ce qui est maintenant l'un des écosystèmes DeFi les plus forts.
 
-Thanks to [loldefi](https://twitter.com/loldefi), apparel celebrating YFI’s first anniversary can be found [here](https://ymerch.finance/).
-
-## Yearn’s Market Share In Aggregator Market Rises
+## La part de marché de Yearn dans le marché des agrégateurs augmente
 
 ![alt_text](image4.png)
 
-In Q2 2021, Yearn’s market share in the yield aggregator market rose from 29% to 69%. We saw an impressive 136% growth in our AUM, as it reached over five billion dollars. We are working constantly to find you the best risk-adjusted returns in the market. Deposit capital to our yVaults and let the Strategists do all the hard work for you.
+Au deuxième trimestre 2021, la part de marché de Yearn sur le marché des agrégateurs de rendement est passée de 29 % à 69 %. Nous avons enregistré une croissance impressionnante avec une augmentation de 136 % de nos actifs sous gestion, puisqu'ils ont atteint plus de cinq milliards de dollars. Nous travaillons constamment pour vous proposer  les meilleurs rendements ajustés au risque du marché. Déposez vos capitaux dans nos yVaults et laissez les stratèges faire tout le travail pour vous.
 
-View more details about Yearn and general DeFi analytics in this Messari [report](https://messari.io/article/q2-21-defi-review?utm_source=ryanwatkins_&utm_medium=tweet&utm_campaign=q2-21-defi-review).
+Voir plus de détails sur Yearn et les analyses générales dans ce [rapport](https://messari.io/article/q2-21-defi-review?utm_source=ryanwatkins_&utm_medium=tweet&utm_campaign=q2-21-defi-review) de Messari.
 
-## Yearn To Be Added To Compound
+
+## Yearn va être ajouté sur Compound 
 
 ![alt_text](image3.png)
 
-A proposal has been created and contracts have been deployed to add YFI as a market to Compound Finance. Each token will have a zero collateral factor (initially), the same interest rate model (as COMP/LINK), and a reserve factor of 25% for each market (which is standard).
+Une proposition a été créée et des contrats ont été déployés pour ajouter le $YFI sur Compound Finance. Chaque jeton aura un facteur de garantie nul (initialement), le même modèle de taux d'intérêt (comme COMP/LINK) et un facteur de réserve de 25 % pour chaque marché (ce qui est standard).
 
-In the near future, collateral factors will be increased and users will be able to supply YFI on Compound and borrow coins with that collateral.
+Dans un avenir proche, les facteurs de garantie seront augmentés et les utilisateurs pourront fournir du $YFI sur compound et emprunter des jetons avec cette garantie.
 
-View more details about the post on Compound’s forum [here](https://www.comp.xyz/t/add-markets-mkr-aave-sushi-yfi/1977).
+Voir plus de détails sur le forum de Compound [ici](https://www.comp.xyz/t/add-markets-mkr-aave-sushi-yfi/1977).
 
-## YFI Borrowing Rate Lowered At MakerDAO
+
+## Le Taux d'emprunt du YFI abaissé sur MakerDAO
 
 ![alt_text](image2.png)
 
-MakerDAO has lowered the YFI-A stability fee to 1% and the ETH-C stability fee to 0.50%. These are incredibly beneficial for Yearn’s YFI and ETH strategies as they lower the cost of borrowing. The reduced cost of capital generates more net yield for users, improving returns.
+MakerDAO a abaissé les frais de stabilité YFI-A à 1% et les frais de stabilité ETH-C à 0,50%. Cela est incroyablement bénéfique pour les stratégies YFI et ETH de Yearn car ils réduisent le coût d'emprunt. Le coût réduit  génère plus de rendement net pour les utilisateurs, améliorant ainsi les rendements.
 
-More about the changes can be read [here](https://forum.makerdao.com/t/maker-relay-ep-53/9305) and the vaults can be found [here](https://yearn.finance/vaults).
+Plus d'informations sur les changements peuvent être trouvées [ici](https://forum.makerdao.com/t/maker-relay-ep-53/9305) et les vauls [ici](https://yearn.finance/vaults).
 
-## Vaults At Yearn
+## Vaults chez Yearn
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Vous pouvez trouver une description détaillée des stratégies de tous nos yVaults actifs [ici](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-## Ecosystem News
+
+## Nouvelles de l'écosystème
 
 [Element Finance launches their third asset, crvSTETH, which relies on Yearn for fixed yield](https://twitter.com/element_fi/status/1414990472569831427)
 
