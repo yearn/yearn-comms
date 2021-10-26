@@ -4,95 +4,107 @@ title:  "More boosts, compounding, and mojitos for you with yvBOOST"
 categories: [ Articles ]
 image: ./thats-boost-folks/image4.png
 author: Qosmonot
-translator:
-publish: false
+translator: Cryptouf
+publish: true
 ---
 
-# More boosts, compounding, and mojitos for you with yvBOOST
+# Plus de boosts, rendements composés et mojitos avec le yvBOOST.
 
-### Yearn’s collaborative relationship with [Curve.fi](http://curve.fi/) is core to our infrastructure, and core to you boosting your boosts.
+### L'un des composants essentiels de l'infrastructure de Yearn comprend une relation collaborative avec [Curve.fi](http://curve.fi/).
+
+
 
 🔵🤝🌈
 
-_post written by Yearn contributor_ [_qosmonot_](http://twitter.com/qosmonot)
+_post écrit par [_qosmonot_](http://twitter.com/qosmonot)
 
-Many Yearn vaults have strategies built on Curve pools and therefore use CRV token to optimize them by voting to direct reward allocations towards those pools. Yearn has been steadily growing its stack of CRV tokens to provide increasing rewards for those vaults.
+De nombreux yVaults  Yearn ont des stratégies construites sur les pools Curve et utilisent donc le jeton CRV pour les optimiser en votant pour diriger les allocations des récompenses vers ces pools. Yearn a régulièrement augmenté sa réserve de jetons CRV pour offrir des récompenses croissantes à ces vaults.
+
 
 ![](image1.png)
 
-Anyone can benefit from this by choosing to stake their CRV tokens through Yearn. Let us walk you through what Yearn can offer you and how you too can grow your CRV holdings with a boost!
+Tout le monde peut en bénéficier en choisissant de staker ses jetons CRV via Yearn. Laissez-nous vous expliquer ce que Yearn peut vous offrir et comment vous pouvez utiliser vos CRV et bénéficier d’un coup de pouce !
 
-## What is CRV?
+## Qu'est-ce que le CRV ?
 
-CRV is the governance and utility token for CurveDAO, the decentralized organization running the [Curve.fi](http://curve.fi/) protocol. The CRV token’s main purpose is to incentivize liquidity providers on the [Curve.fi](http://curve.fi/) platform as well as getting as many users as possible involved in the protocol’s governance. The CRV token has three main uses: voting, staking, and boosting. Those three things require the users to “vote lock” their CRV in exchange for veCRV. veCRV stands for vote-escrowed CRV, and simply represents CRV locked for a period of time (anywhere from 1 week to 4 years).
+Le $CRV est le jeton de gouvernance de CurveDAO, l'organisation décentralisée contrôlant le protocole [Curve.fi](http://curve.fi/). L'objectif principal du jeton CRV est d'inciter les fournisseurs de liquidités sur la plate-forme [Curve.fi](http://curve.fi/) et d'impliquer autant d'utilisateurs que possible dans la gouvernance du protocole. Le jeton CRV a trois utilisations principales : le vote, le staking et le boost. Ces trois choses obligent les utilisateurs à « vote lock » , c’est-à-dire verrouiller, leur CRV en échange de veCRV. Ce veCRV signifie que votre CRV est bloqué pour pouvoir voter, et représente simplement le CRV verrouillé pendant une période de temps (de 1 semaine à 4 ans).
 
 ### Staking
 
-veCRV (staked CRV), receives a share of trading fees from the Curve protocol (50% of all trading fees generated). Those fees are collected and used to buy 3CRV, the LP token for the TriPool (DAI+USDC+USDT), which are then distributed to veCRV holders.
+veCRV (staked CRV), reçoit une part des frais de négociation du protocole Curve (50 % de tous les frais de négociation générés). Ces frais sont collectés et utilisés pour acheter des $3CRV, le jeton LP pour la TriPool (DAI+USDC+USDT), qui sont ensuite distribués aux détenteurs de veCRV.
 
-### Boosting
 
-Beyond staking, another major incentive for CRV is the ability to boost your rewards on provided liquidity. Vote locking CRV allows you to acquire voting power to participate in the DAO and direct CRV reward allocations towards selected pools, earning a boost of up to 2.5x on the liquidity you are providing.
+### Booster
 
-### Voting
+Au-delà du staking, une autre incitation majeure pour le CRV est la possibilité d'augmenter vos récompenses sur la liquidité fournie. Le verrouillage de CRV vous permet d'acquérir le droit de vote pour participer à la DAO et de diriger les allocations de récompenses sous forme de CRV vers des pools sélectionnés, gagnant un boost jusqu’à 2,5 fois sur la liquidité que vous fournissez.
 
-Once CRV holders vote-lock their CRV, changing it into veCRV, they can then vote on various DAO proposals and pool parameter changes which are proposed, or propose their own changes.
 
-It is worth noting that native veCRV cannot be transferred, and the only way to obtain it is by vote-locking CRV.
+### Vote
 
-You can stake CRV on [Curve.fi](http://curve.fi/) and actively manage your boosts for Liquidity Pools yourself, or you can let Yearn take care of CRV staking for you with our dedicated vaults: yveCRV, and yvBOOST. Also our yVault tokens are tradeable and transferable unlike staking CRV at [Curve.fi](http://curve.fi/).
+Une fois que les détenteurs de CRV ont  verrouillé leurs CRV, en le transformant en veCRV, ils peuvent alors voter sur diverses propositions de la DAO et décider des modifications de paramètres qui sont proposées, ou proposer eux même leurs propres modifications.
 
-## The yveCRV yVault
+Il convient de noter que le veCRV natif ne peut pas être transféré et que le seul moyen de l'obtenir est de verrouiller des CRV.
+
+Vous pouvez staker vos CRV sur [Curve.fi](http://curve.fi/) et gérer activement vos boosts pour les pools de liquidité vous-même, ou vous pouvez laisser Yearn s'occuper de cela avec les yVault dédiés  : yveCRV et yvBOOST. De plus, nos jetons yVault sont échangeables et transférables contrairement au veCRV de [Curve.fi](http://curve.fi/).
+
+
+## Le yveCRV yVault 
 
 ![](image2.png)
 
-### Earn CRV with a better boost
+### Gagnez des CRV avec un meilleur boost
 
-When a user deposits CRV into the vault, that CRV is locked on the [Curve.fi](http://curve.fi/) platform as veCRV and the user is returned a tokenized version of veCRV, yveCRV. This vault earns you a continuous share of Curve’s trading fees. Every week, these rewards can be claimed as 3Crv (Curve’s 3pool LP token).
 
-You could do this yourself directly on the [Curve.fi](http://curve.fi/), but there is a very good reason one would prefer to use the yveCRV yVault: **more rewards!**
+Lorsqu'un utilisateur dépose du CRV dansce yvault, le CRV est verrouillé sur la plate-forme [Curve.fi](http://curve.fi/)  en tant que veCRV et l'utilisateur reçoit une version tokenisée de ce veCRV, le yveCRV. Ce yVault vous rapporte une part continue des frais de trading de Curve. Chaque semaine, ces récompenses peuvent être réclamées sous forme de 3Crv (le jeton 3pool LP de Curve).
 
-How much more? Your rewards through this vault can be more than double! Yearn achieves this because it periodically donates 10% of the farmed CRV it earns through all [Curve.fi](http://curve.fi/) based strategies to this yveCRV vault and allows yveCRV vault depositors to claim Yearn’s share of Curve protocol fees. This means we give all of Yearn’s rewards, which we could have claimed for the protocol, to yveCRV depositors, boosting their weekly rewards.
+Vous pouvez le faire vous-même directement sur le [Curve.fi](http://curve.fi/) , mais il y a une très bonne raison pour laquelle vous voudrez utiliser le yveCRV yVault : **plus de récompenses !**
 
-Locking your CRV tokens into the vault means that you delegate your [Curve.fi](http://curve.fi/) voting power to yearn. Yearn constantly runs simulations to optimize its voting allocations which maximizes yield across all vaults, benefiting your deposits in other vaults!
+Combien en plus? Vos récompenses grâce à ce yvault peuvent être plus que doublées ! Yearn y parvient, car il fait périodiquement don à ce yVault yveCRV de 10% du CRV farmés qu'il gagne grâce à toutes les stratégies basées sur [Curve.fi](http://curve.fi/) et permet aux déposants dans le yvault yveCRV de réclamer la part de Yearn des frais du protocole Curve. Cela signifie que nous donnons toutes les récompenses de Yearn, que nous aurions pu réclamer pour le protocole, aux déposants yveCRV, augmentant ainsi leurs récompenses hebdomadaires.
 
-**You can now claim your rewards and spend that money on mojitos while you enjoy retirement.** Though, another option you might want instead is to add your rewards back into the vault to compound your gains and you can even find a “Restake” button to do just that. You could very well do this manually, but Yearn has you covered here with …
+Verrouiller vos jetons CRV dans le yVault signifie que vous déléguez votre pouvoir de vote sur [Curve.fi](http://curve.fi/) à Yearn. Yearn exécute constamment des simulations pour optimiser ses allocations de vote, ce qui maximise le rendement de tous les yVaults, au profit de vos dépôts dans d'autres coffres !
 
-## The yvBOOST yVault
+**Vous pouvez désormais réclamer vos récompenses et dépenser cet argent en mojitos pendant que vous profitez de votre retraite.** Cependant, une autre option que vous voudrez peut-être utiliser, consiste à redeposer vos récompenses dans le yvault pour augmenter vos gains. Vous trouverez un bouton « Restake » pour faire cela. Vous pourriez très bien le faire manuellement, mais Yearn s’en occupe pour vous.
+
+
+
+## Le yvBOOST yVault
 
 ![](image3.png)
 
-### Earn boosted CRV with compounding
+### Gagnez des récompenses avec la composition
 
-The yvBOOST yVault is a fully automated and compounding version of the yveCRV yVault explained above.
+Le yvBOOST yVault est une version entièrement automatisée et composée du yveCRV yVault ,expliqué ci-dessus.
 
-To put it simply, this vault claims your weekly 3CRV rewards automatically and uses them to acquire more yveCRV (either via market-buy or mint, depending on which is most efficient at time of harvest).
+Pour faire simple, ce yVault réclame automatiquement vos récompenses hebdomadaires en 3CRV et les utilise pour acquérir plus de yveCRV (soit via un achat sur le marché, soit via le mint, selon ce qui est le plus efficace au moment de la réclamation).
 
-Once deposited, just as in the yveCRV yVault, your CRV tokens’s voting power is handled and optimized by Yearn. You do not need to worry about claiming [Curve.fi](http://curve.fi/)’s weekly protocol fees, the vault does this for you!
+Une fois déposés, comme dans le yveCRV yVault, le pouvoir de vote de vos jetons CRV est géré et optimisé par Yearn. Vous n'avez pas à vous soucier de réclamer vos récompenses, le yVault le fait pour vous !
 
-This is a “set-and-forget” vault where your CRV tokens grow exponentially, harnessing the power of compound interest!
+Il s'agit d'un yVault  « déposer et oublier » où vos jetons CRV augmentent de façon exponentielle, exploitant le pouvoir des intérêts composés !
 
-Now you might be wondering how one would extract any gains made from your CRV tokens in the vault, when as mentioned earlier, any CRV deposited into either the yveCRV or the yvBOOST are locked. While you cannot withdraw from the yveCRV vault, you can actually swap both of these vault tokens on Sushiswap. This is because Yearn and its users provide liquidity on Sushiswap to allow swapping of your yveCRV and yvBOOST tokens for ETH (or anything, really).
+Maintenant, vous vous demandez peut-être comment extraire les gains réalisés à partir de vos jetons CRV de ce yVault, alors que, comme mentionné précédemment, tout le CRV déposé dans le yveCRV ou le yvBOOST est verrouillé. Bien que vous ne puissiez pas vous retirer du yVault  yveCRV, vous pouvez en fait échanger ces deux jetons sur Sushiswap. En effet, Yearn et ses utilisateurs fournissent des liquidités sur Sushiswap pour permettre l'échange de vos jetons yveCRV et yvBOOST contre de l’ETH (ou quoi que ce soit).
 
-### A little alpha.
 
-Yearn buys yvBOOST from the market, unwraps it into yveCRV, and donates that yveCRV into the yvBOOST vault, increasing the underlying value of yvBOOST.
 
-## Yearn yVaults for CRV Stakers
 
-Staking your CRV directly on the [Curve.fi](http://curve.fi/) platform means locking your CRV token in exchange for a non-transferrable veCRV token that allows you to manually claim a share of the protocol’s fee (3CRV). You can use this veCRV token to manually rebalance your votes to obtain a boost on your provided liquidity to the [Curve.fi](http://curve.fi/) platform.
+## Yearn yVaults pour les Stakers de CRV 
 
-## Enter Yearn’s yveCRV and yveBOOST vaults
+Le staking de votre CRV directement sur la plateforme [Curve.fi](http://curve.fi/) signifie que vous devez verrouiller vos jetons CRV en échange d'un jeton veCRV non transférable qui vous permet de réclamer manuellement une part des frais du protocole (3CRV). Vous pouvez utiliser ce jeton veCRV pour rééquilibrer manuellement vos votes afin d'obtenir un coup de pouce sur vos liquidités fournies à la plate-forme [Curve.fi](http://curve.fi/).
 
-Both of these Yearn vaults reward CRV stakers with a share of the CRV locked by Yearn, making it an ideal destination for those who wish to stake CRV whilst remaining liquid:
+## Entrez dans les yvaults yveCRV et yveBOOST de Yearn
 
--   Earn a share of trading fees from the [Curve.fi](http://curve.fi/) protocol (3Crv), automatically reinvested (for the yvBOOST vault).
--   Earn a share of Yearn’s claim of [Curve.fi](http://curve.fi/) protocol fees, on top of your own rewards (more 3CRV!), automatically reinvested (for the yvBOOST vault).
--   The collective voting power of the veCRV tokens is optimized and rebalanced automatically to maximize rewards in all of Yearn’s Curve Pool vaults.
--   Receive yveCRV or yvBOOST tokens for your deposited CRV, allowing you to easily extract profit or exit your staked CRV position
+Ces deux yVault de Yearn récompensent les stakeur de CRV avec une part du CRV verrouillé par Yearn, ce qui en fait une destination idéale pour ceux qui souhaitent staker leurs CRV tout en restant liquide :
 
-Yearn’s work to automate the yield generation and rebalancing of your crypto assets is especially true in the case of your CRV holdings, and Yearn’s yveCRV or yvBOOST offers a powerful, compounding, “set-and-forget” place to stake your CRV!
+- Gagnez une part des frais de trading du protocole [Curve.fi](http://curve.fi/)  (3Crv), automatiquement réinvestis (pour le yvault yvBOOST).
 
-In our next post, we’ll cover keepCRV and the processes for bribes and EPS. Until then…
+- Gagnez une part des frais de protocole [Curve.fi](http://curve.fi/)  réclamés par Yearn, en plus de vos propres récompenses (plus de 3CRV !), automatiquement réinvesties (pour le yvault yvBOOST).
+
+- Le pouvoir de vote collectif des jetons veCRV est optimisé et rééquilibré automatiquement pour maximiser les récompenses dans tous les yvault de utilisant des pools Curve.
+
+- Recevez des jetons yveCRV ou yvBOOST pour votre CRV déposé, vous permettant de générer facilement des bénéfices ou de quitter votre position de CRV stakés.
+
+Le travail de Yearn pour automatiser la génération de rendement et le rééquilibrage de vos actifs cryptographiques est particulièrement utile dans si vous possédez des CRV. Les yvaults  yveCRV et yvBOOST de Yearn offre un endroit puissant, composé, « déposer et oublier » pour staker votre CRV !
+
+
+
 
 ![](image4.png)
