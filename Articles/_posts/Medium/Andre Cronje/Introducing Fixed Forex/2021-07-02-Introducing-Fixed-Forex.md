@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "पेश है फिक्स्ड फॉरेक्स"
+categories: [ Articles ]
+image: ./Introducing-Fixed-Forex/andre-hero.png
+author: Andre
+translator: Major-Rager
+publish: true
+---
+
 # पेश है फिक्स्ड फॉरेक्स (USD, EUR, ZAR, JPY, CNY, etc)
 
 लेखक: [आंद्रे क्रोन्ये](https://twitter.com/AndreCronjeTech)</br>
