@@ -8,6 +8,6 @@ translator:
 publish: true
 ---
 
-Yearn and Synthetix talk DAO governance and decision making, check it out below👇
+Yearn ve Synthetix, DAO yönetişimi ve karar alma hakkında konuşuyor, aşağıdaki linkten ulaşabilirsiniz👇
 
 [https://www.spreaker.com/user/14928562/synthetix-yearn-governance](https://www.spreaker.com/user/14928562/synthetix-yearn-governance)
