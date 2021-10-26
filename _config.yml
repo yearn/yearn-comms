@@ -1,7 +1,7 @@
 title: "Yearn Blog"
 email: people@yearn.finance
 timezone: UTC
-url: https://blog.yearn.finance
+url: https://french.blog.yearn.finance
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/yearn_logo.svg'
