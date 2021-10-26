@@ -22,7 +22,7 @@ Bienvenue à la 45e édition de la Newsletter Yearn Finance. Notre objectif avec
 - Les revenus cumulés du protocole atteignent 39 millions de dollars
 - Vaults chez Yearn
 - Nouvelles de l'écosystème
-- 
+
 ## **- Les fournisseurs de liquidités ALPHA et YFI sont éligibles pour un NFT spécial**
 
 ![](./image2.jfif)
