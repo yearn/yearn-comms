@@ -10,10 +10,6 @@ publish: true
 
 # Likidite sağlayıcı ödülleri v2
 
-Yazar: [Andre Cronje](https://twitter.com/AndreCronjeTech)</br>
-
-15 Ağustos, 2021
-
 Konsept ve mimari [pods.finance](https://www.pods.finance/)'den
 
 [LM çağrı seçeneği ödül sözleşmesi](https://twitter.com/AndreCronjeTech/status/1426580528510251008)
