@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blue Pill Release"
+title:  "Blue Pill Piyasaya Sürüldü"
 categories: [ Annoucements ]
 image: ./Blue-Pill-Release/thebluepill.jpg
 author: Yearn
