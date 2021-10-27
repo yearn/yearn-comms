@@ -1,24 +1,24 @@
 ---
 layout: post
-title:  "Why audits are bad"
+title:  "Denetimler neden kötü"
 categories: [ Articles ]
 image: ./Why-Audits-Are-Bad/andre-hero.png
 author: Andre
-translator:
-publish: false
+translator: Dastronom
+publish: true
 ---
 
-# Iron Bank Fixed Forex audit: Why audits are bad
+# Iron Bank Sabit Forex denetimi: Denetimler neden kötü
 
-I wanted a sensationalist title. An audits role on public perception is bad, an audit for personal use, is good.
+Sansasyonel bir başlık istedim. Kamu algısı üzerindeki denetim rolü kötüdür, kişisel kullanım için ise denetim iyidir.
 
-Nowadays you'll see audits being requested, not to be reviewed, but simply as a line item. "Is the project audited? \[Yes\] \[No\]", often, the link to the audit won't even be required, simply \[Yes\]\[No\].
+Günümüzde denetimlerin incelenmek üzere değil, yalnızca bir satır öğesi olarak istendiğini göreceksiniz. “Proje denetleniyor mu? \[Evet\] \[Hayır\]", genellikle, denetime bağlantıya gerek bile kalmaz, sadece \[Evet\] \[Hayır\].
 
-Let's use Fixed Forex as an example, "Is the project audited?" \[Yes\], and here is the [audit](https://github.com/andrecronje/fixed-forex-audit/blob/main/PeckShield-Audit-Report-ERC20-ibEUR-v1.0.pdf). You might have even opened the link, and then you might have even scrolled down to the findings;
+Sabit Forex'i örnek olarak kullanalım, “Proje denetleniyor mu?” \[Evet\] ve işte [denetim](https://github.com/andrecronje/fixed-forex-audit/blob/main/PeckShield-Audit-Report-ERC20-ibEUR-v1.0.pdf). Bağlantıyı bile açmış olabilirsiniz ve ardından bulgulara bile inmiş olabilirsiniz;
 
 ![](1.png)
 
-Great right? 1 low and 1 informational. But now let's look at it contextually, this is essentially an ERC20 contract, and while it does show that ibEUR and subsequent ib-assets are a simple ERC20 implementation, what about the rest of the ecosystem?
+Harika değil mi? 1 kural ve 1 bilgilendirme. Ama şimdi bağlamsal olarak bakalım, bu esasen bir ERC20 sözleşmesidir ve ibEUR ve sonraki ib-varlıklarının basit bir ERC20 uygulaması olduğunu gösterse de, ekosistemin geri kalanı ne olacak?
 
 [ibEUR gauge](https://etherscan.io/address/0x9d7ca778d067045a9d6b871c9d28589875308018)  
 [ibKRW gauge](https://etherscan.io/address/0x8992fd229b574b8083de1249bc6fd3711fda45dd)  
@@ -28,12 +28,12 @@ Great right? 1 low and 1 informational. But now let's look at it contextually, t
 [ib rewards](https://etherscan.io/address/0x83893c4a42f8654c2dd4ff7b4a7cd0e33ae8c859)  
 [Fee distribution](https://etherscan.io/address/0x27761efeb0c7b411e71d0fd0aee5dde35c810cc2)
 
-Now, its very easy for me to have left it at a simple tweet, "Fixed Forex audit report", and be done with that, and this is why, even in the past, I hated sharing audit reports, we use them as a stamp of approval, non-technical individuals use it as confirmation that they are "safe". Nothing about what we are doing is safe, nothing about what we are trying to do is easy, and we have no future guarantees.
+Şimdi, "Sabit Forex denetim raporu" gibi basit bir tweet'te bırakmak benim için çok kolay ve bununla işim bitti ve bu yüzden, geçmişte bile, denetim raporlarını paylaşmaktan nefret ediyordum, onları bir rapor olarak kullanıyoruz. onay damgası, teknik bilgisi olmayan kişiler bunu "güvenli" olduklarının teyidi olarak kullanır. Yaptığımız hiçbir şey güvenli değil, yapmaya çalıştığımız hiçbir şey kolay değil ve gelecek garantimiz yok.
 
-Decentralization is a responsibility, not a right, real decentralization is incredibly hard, and almost impossible to happen over night.
+Ademi merkeziyetçilik bir hak değil, bir sorumluluktur, gerçek ademi merkeziyetçilik inanılmaz derecede zordur ve bir gecede gerçekleşmesi neredeyse imkansızdır.
 
-There is real elegance in truly being able to own your funds, but there is an inherent responsibility.
+Paranıza gerçekten sahip olmanın başka bir hoşluğu var, ancak içsel bir sorumluluğu var.
 
-Teams should use audits to supplement, its the same reason peer coding works well, or even a simple peer review, but audits are not a stamp of approval, audits are not a guarantee, and audits are not a safety net.
+Ekipler, desteklemek için denetimleri kullanmalıdır, eşdüzey kodlamanın iyi çalışmasıyla aynı şey, veya basit bir eşdüzey ekran incelemesiyle, ama denetimler bir onay damgası değildir  denetimler bir garanti değildir ve denetimler bir güvenlik ağı değildir.
 
-In fact, if I saw an audit like the above, where a team said they are "audited" and all they did was audit their ERC20, I would be even more cautious.
+Aslında, yukarıdaki gibi bir denetim görsem, bir ekibin "denetlendiğini" söyleseler ve tek yaptıkları şeyin ERC20'lerini denetlemek olduğu bilsem, daha da temkinli olurum.
