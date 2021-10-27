@@ -4,11 +4,11 @@ title:  "Zero Knowledge Podcast"
 categories: [ Annoucements ]
 image: ./Zero-Knowledge-Podcast/1.png
 author: Yearn
-translator:
-publish: false
+translator: Dastronom
+publish: true
 ---
 
-Our very own [@tracheopteryx](https://twitter.com/tracheopteryx) & [@fameal](https://twitter.com/fameal) were recently on the Zero Knowledge Podcast talking about Yearn's history, evolving governance, and more!
+Kendi [@tracheopteryx](https://twitter.com/tracheopteryx) & [@fameal](https://twitter.com/fameal)'imiz yakın zamanda Zero Knowledge Podcast'inde Yearn'in tarihi, gelişen yönetişim ve daha fazlası hakkında konuşuyordu!
 
-Check it out at the link below:
+Aşağıdaki linke göz gezdirin:
 [zeroknowledge.fm/192](https://www.zeroknowledge.fm/192)
