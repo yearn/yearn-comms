@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Liquidity Mining Rewards v2"
+title:  "Likidite sağlayıcı ödülleri"
 categories: [ Articles ]
 image: ./Liquidity-Mining-Rewards-v2/andre-hero.png
 author: Andre
@@ -8,7 +8,7 @@ translator: Dastronom
 publish: true
 ---
 
-# Liquidity Mining Rewards v2
+# Likidite sağlayıcı ödülleri v2
 
 Yazar: [Andre Cronje](https://twitter.com/AndreCronjeTech)</br>
 
