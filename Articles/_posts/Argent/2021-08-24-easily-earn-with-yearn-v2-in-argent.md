@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Easily earn with Yearn V2 in Argent"
+title:  "Argent aracılığıyla Yearn v2'de kolayca kazan"
 categories: [ Articles ]
 image: ./easily-earn-with-yearn-v2-in-argent/Image1.jpg
 author: Argent
