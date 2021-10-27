@@ -4,7 +4,7 @@ title:  "हमारा यर्न के प्रति दृष्टि�
 categories: [ Articles ]
 image: ./How-we-think-about-Yearn/YFI1.jpeg
 author: Yearn DAO Contributors
-translator:Major-Rager
+translator: Major-Rager
 publish: true
 ---
 
