@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Proposal Fund Builder First Legal Activism DAO"
+title:  "Öneri Fonu Oluşturucu İlk Yasal Aktivizm DAO"
 categories: [ Annoucements ]
 image: ./Legal-Activism-DAO/1.jpg
 author: LexPunk DAO
-translator:
-publish: false
+translator: Dastronom
+publish: true
 ---
 
 ![](1.jpg)
 
-[@LeXpunK_DAO](https://twitter.com/LeXpunK_DAO) is proposing to raise a builder-centric cryptolaw activism DAO from other value-aligned communities.
+[@LeXpunK_DAO](https://twitter.com/LeXpunK_DAO), diğer değer odaklı topluluklardan oluşturucu merkezli bir kripto yasa aktivizmi DAO'yu yükseltmeyi teklif ediyor.
 
-This is for builders & degens having a more direct voice in critical cryptolaw discussions, without Silicon-Valley influence.
+Bu, kritik kripto yasası tartışmalarında Silikon Vadisi etkisi olmaksızın daha doğrudan söz sahibi olan inşaatçılar ve degenler içindir.
 
 [https://gov.yearn.finance/t/proposal-fund-builder-first-legal-activism-dao/11280](https://gov.yearn.finance/t/proposal-fund-builder-first-legal-activism-dao/11280)
