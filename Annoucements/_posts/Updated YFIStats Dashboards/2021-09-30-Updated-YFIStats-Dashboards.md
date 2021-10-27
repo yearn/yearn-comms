@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Update YFIStats Dashboards"
+title:  "Güncel YFIStats Panoları"
 categories: [ Annoucements ]
 image: ./Updated-YFIStats-Dashboards/1.jpg
 author: Yearn
