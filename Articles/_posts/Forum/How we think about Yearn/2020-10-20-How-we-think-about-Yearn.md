@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How we think about Yearn"
+title:  "Yearn hakkında ne düşünüyoruz"
 categories: [ Articles ]
 image: ./How-we-think-about-Yearn/YFI1.jpeg
 author: Yearn DAO Contributors
