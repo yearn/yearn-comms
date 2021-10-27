@@ -1,30 +1,30 @@
 ---
 layout: post
-title:  "How we think about Yearn"
+title:  "हमारा यर्न के प्रति दृष्टिकोन"
 categories: [ Articles ]
 image: ./How-we-think-about-Yearn/YFI1.jpeg
 author: Yearn DAO Contributors
-translator:
-publish: false
+translator:Major-Rager
+publish: true
 ---
 
-# How we think about Yearn
+# हमारा यर्न के प्रति दृष्टिकोन
 
-## What Yearn is not
+## यर्न क्या नही है
 
-1. **Yearn is not a company.** It does not have a board. There is no CEO, there is no team of managers. There is no room for bureaucrats.
-2. **Yearn does not have investors.** There are no VCs, no angels, no SPACs, and no SPVs that are pulling the strings in the background.
-3. **Yearn does not cater to speculators.** Pump it, dump it, hedge it, short it, long it, lend it, nobody cares. Yearn is agnostic to price.
-4. **Yearn does not have an official voice.** There’s no legal entity, there’s no foundation, no copyright, no patent, no central authority to stamp announcements with official seals from some great leader.
-5. **Yearn is not owed anything from anyone.** Contributors come together and work on this project voluntarily. Nobody has authority over anyone else, and nobody owes Yearn anything. Similarly nobody has any right to ask anything from Yearn. You get back what you put in.
+१. **यर्न कोई कंपनी नहीं है।** इसका कोई बोर्ड नहीं है। कोई CEO नहीं है, प्रबंधकों की कोई टीम नहीं है। नौकरशाहों के लिए कोई जगह नहीं है।
+२. **यर्न में निवेशक नहीं होते।** कोई VC, कोई एँजल इनवेस्टर, कोई SPAC, और कोई SPV नहीं हैं जो पृष्ठभूमि में तार खींच रहे हैं।
+३. **यर्न स्पेक्युलेटरस की सेवा नहीं करता।** इसे पंप करें, इसे डंप करें, इसे हेज करें, इसे छोटा करें, इसे लंबा करें, इसे उधार दें, किसी को परवाह नहीं है। यर्न कीमत के लिए अज्ञेयवादी है।
+४. **यर्न की कोई आधिकारिक आवाज नहीं होती।** कोई कानूनी इकाई नहीं है, कोई आधार नहीं है, कोई कॉपीराइट नहीं है, कोई पेटेंट नहीं है, किसी महान नेता की आधिकारिक मुहरों के साथ घोषणाओं पर मुहर लगाने का कोई केंद्रीय प्राधिकरण नहीं है।
+५. **यर्न किसी से कुछ भी बकाया नहीं है।** योगदानकर्ता एक साथ आते हैं और स्वेच्छा से इस परियोजना पर काम करते हैं। किसी और पर किसी का अधिकार नहीं है, और किसी को भी यर्न का कुछ भी बकाया नहीं है। इसी तरह किसी को भी यर्न से कुछ भी पूछने का अधिकार नहीं है। आप जो डालते हैं वह आपको वापस मिल जाता है।
 
-## What Yearn is
+## यर्न क्या है
 
-1. **Yearn is a collective of contributors.** There is no difference between “the team” and “the community”, they are one and the same.
-2. **Yearn is equal opportunity.** No matter who you are, you are free to use Yearn, and you have the same right and privilege as anyone else.
-3. **Yearn is for builders.** Come with your ideas, come with your passion, come with your creativity. Actions speak louder than words.
-4. **Yearn is for self starters.** See something that’s broken? Fix it. Don’t ask for permission.
-5. **Yearn is for collaborators.** Find others who are like minded, self-organize, and get stuff done.
-6. **Yearn is influenced by merit.** Yearn runs on proof of work. Your contributions and commitment to Yearn dictate how much others listen to your voice —not your status, your wealth, or who you’re friends with.
-7. **Yearn is governed by YFI, but YFI does not govern Yearn’s contributors.** Holding YFI entitles you to signal for real, practical change that improves Yearn. It doesn’t give you the right to tell other contributors what to do. You want something done? Do it.
-8. **Yearn is constantly evolving.** What Yearn is today, may not be what it is tomorrow—what you do after reading this may change Yearn forever. It’s up to you.
+१. **यर्न योगदानकर्ताओं का एक समूह है।** "टीम" और "समुदाय" में कोई अंतर नहीं है, वे एक ही हैं।
+२. **यर्न समान अवसर है।** चाहे आप कोई भी हों, आप यर्न का उपयोग करने के लिए स्वतंत्र हैं, और आपके पास किसी अन्य व्यक्ति के समान अधिकार और विशेषाधिकार हैं।
+३. **यर्न बिल्डर्स के लिए है।** अपने विचारों के साथ आओ, अपने जुनून के साथ आओ, अपनी रचनात्मकता के साथ आओ। कथनी की तुलना में करनी ज़्यादा असरदार होती है।
+४. **यर्न स्वयं की शुरुआत के लिए है।** कुछ ऐसा देखें जो टूट गया हो? इसे ठीक करो। अनुमति के लिए मत पूछो।
+५. **यर्न सहयोगियों के लिए है।** ऐसे अन्य लोगों को खोजें जो समान विचारधारा वाले हों, स्वयं व्यवस्थित हों और काम पूरा करें।
+६. **यर्न योग्यता से प्रभावित होता है।** काम के प्रमाण पर यर्न चलता है। यर्न के लिए आपका योगदान और प्रतिबद्धता तय करती है कि दूसरे आपकी आवाज को कितना सुनते हैं—न कि आपकी हैसियत, आपकी संपत्ति, या आप किसके साथ दोस्त हैं।
+७. **यर्न YFI द्वारा नियंत्रित होता है, लेकिन YFI, यर्न के योगदानकर्ताओं को नियंत्रित नहीं करता है।** YFI को धारण करने से आपको वास्तविक, व्यावहारिक परिवर्तन के संकेत मिलते हैं जो Yearn को बेहतर बनाता है। यह आपको अन्य योगदानकर्ताओं को यह बताने का अधिकार नहीं देता है कि क्या करना है। आप कुछ करना चाहते हैं? कर दो।
+८. **यर्न लगातार विकसित हो रहा है।** आज जो यर्न है, हो सकता है वह कल न हो-इसे पढ़ने के बाद आप जो करते हैं वह यर्न हमेशा के लिए बदल सकता है। यह आप पर निर्भर करता है।
