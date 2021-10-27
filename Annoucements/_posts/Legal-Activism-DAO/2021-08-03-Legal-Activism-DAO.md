@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Proposal Fund Builder First Legal Activism DAO"
+title:  "Öneri Fonu Oluşturucu İlk Yasal Aktivizm DAO"
 categories: [ Annoucements ]
 image: ./Legal-Activism-DAO/1.jpg
 author: LexPunk DAO
