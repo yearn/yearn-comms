@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yearn & Synthetix DAO twitter space"
+title:  "Yearn & Synthetix DAO twitter ortamı"
 categories: [ Annoucements ]
 image: ./Yearn-&-Synthetix-DAO-twitter-space/1.jpg
 author: Yearn
