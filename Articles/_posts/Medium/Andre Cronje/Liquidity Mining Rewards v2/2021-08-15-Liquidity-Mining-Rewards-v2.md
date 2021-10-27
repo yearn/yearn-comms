@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Likidite sağlayıcı ödülleri"
+title:  "Likidite sağlayıcı ödülleri v2"
 categories: [ Articles ]
 image: ./Liquidity-Mining-Rewards-v2/andre-hero.png
 author: Andre
