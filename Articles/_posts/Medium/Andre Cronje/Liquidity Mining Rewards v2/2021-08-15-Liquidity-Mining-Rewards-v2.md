@@ -75,4 +75,4 @@ Geleneksel Likidite Madenciliği yerine Opsiyon Likidite Madenciliğine geçerek
 
 ## **İlişkilendirme**
 
-[pods.finance](https://www.pods.finance/), @josephdelong ve [sushi.com](https://sushi.com/) ekibine bu konsepti bulup benimle paylaştığı için teşekkür ederim.
+[pods.finance](https://www.pods.finance/), [@josephdelong](https://twitter.com/josephdelong) ve [sushi.com](https://sushi.com/) ekibine bu konsepti bulup benimle paylaştığı için teşekkür ederim.
