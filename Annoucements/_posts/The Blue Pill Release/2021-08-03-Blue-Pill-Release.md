@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Blue Pill Release"
+title:  "Blue Pill Piyasaya Sürüldü"
 categories: [ Annoucements ]
 image: ./Blue-Pill-Release/thebluepill.jpg
 author: Yearn
-translator:
-publish: false
+translator: Dastronom
+publish: true
 ---
 
-Last week we announced The Blue Pill book and gave early Yearn supporters a first look via a limited series of NFTs.
+Geçen hafta The Blue Pill kitabını duyurduk ve erken Yearn destekçilerine sınırlı bir NFT serisi aracılığıyla ilk izlenimleri verdik.
 
-Today we invite everyone to experience The Blue Pill:
+Bugün herkesi Blue Pill'i deneyimlemeye davet ediyoruz:
 
 [https://thebluepill.eth.link](https://thebluepill.eth.link)
