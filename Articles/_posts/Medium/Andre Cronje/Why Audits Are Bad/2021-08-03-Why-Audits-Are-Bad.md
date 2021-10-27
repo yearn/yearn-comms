@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why audits are bad"
+title:  "Denetimler neden kötü"
 categories: [ Articles ]
 image: ./Why-Audits-Are-Bad/andre-hero.png
 author: Andre
