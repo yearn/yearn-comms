@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is a DAO"
+title: "डाओ क्या हैं?"
 categories: [Tweets]
 image: ./What-is-a-DAO/1.jpg
 author: Tracheopteryx
