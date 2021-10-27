@@ -87,7 +87,7 @@ Voir plus de détails sur les partenariats [ici](https://twitter.com/iearnfinanc
 ![](image6.png)
 
 
-Plus de 5 millions de dollars ont été versés aux stratèges de Yearn en 2021. A l’ EthCC, Facu Ameal a expliqué ce qu'il faut pour devenir un puissant stratège comme lui. Les stratégies, comme vous le savez peut-être, sont l'épine dorsale de Yearn et vous permettent d'obtenir le meilleur rendement ajusté au risque sur vos jetons.
+Plus de 5 millions de dollars ont été versés aux stratèges de Yearn en 2021. A l’EthCC, Facu Ameal a expliqué ce qu'il faut pour devenir un puissant stratège comme lui. Les stratégies, comme vous le savez peut-être, sont l'épine dorsale de Yearn et vous permettent d'obtenir le meilleur rendement ajusté au risque sur vos jetons.
 
 Pour résumer, Facu passe en revue les informations sur les coffres-forts et les stratégies, les interactions entre eux et les outils et procédures utilisés pour rédiger et diffuser des stratégies au grand public.
 
@@ -95,7 +95,7 @@ Regardez la [video](https://www.youtube.com/watch?v=NVR3teJw0Y0), qui comprend u
 
 
 
-## **Audits publiés  pour les yVaults V2 **
+## **Audits publiés pour les yVaults V2 **
 
 ![](image7.png)
 
