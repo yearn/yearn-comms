@@ -1,78 +1,78 @@
 ---
 layout: post
-title:  "Liquidity Mining Rewards v2"
+title:  "Likidite sağlayıcı ödülleri v2"
 categories: [ Articles ]
 image: ./Liquidity-Mining-Rewards-v2/andre-hero.png
 author: Andre
-translator:
-publish: false
+translator: Dastronom
+publish: true
 ---
 
-# Liquidity Mining Rewards v2
+# Likidite sağlayıcı ödülleri v2
 
-Concept, and architecture by [pods.finance](https://www.pods.finance/)
+Konsept ve mimari [pods.finance](https://www.pods.finance/)'den
 
-[LM call option rewards contract](https://twitter.com/AndreCronjeTech/status/1426580528510251008)
+[LM çağrı seçeneği ödül sözleşmesi](https://twitter.com/AndreCronjeTech/status/1426580528510251008)
 
-## **History**
+## **Tarihçe**
 
-Liquidity Mining / Rewards / Incentives, whatever you want to call them, are innately part of crypto. Even proof of work (mining) is providing something for rewards (in proof of work, providing security \[or rather electricity\] for crypto)
+Likidite Madenciliği / Ödüller / Teşvikler, onlara ne derseniz deyin, doğası gereği kriptonun bir parçasıdır. İş kanıtı (madencilik) bile ödüller için bir şeyler sağlıyor (çalışma kanıtı olarak, kripto için güvenlik \[veya daha doğrusu elektrik\] sağlıyor)
 
-The first (to my knowledge) to provide rewards for liquidity was [synthetix.io](https://synthetix.io/), this started with the `sETH/ETH` pool, which eventually moved to the `sUSD` [curve.fi](https://curve.fi/) pool. If you provided liquidity to these pools, you were rewarded with SNX (the native Synthetix token).
+Likidite için ilk ödül sağlayan (bildiğim kadarıyla) [synthetix.io](https://synthetix.io/), bu, sonunda `sUSD` [curve.fi](https://curve.fi/) havuzuna taşınan `sETH/ETH` havuzuyla başladı. Bu havuzlara likidite sağladıysanız, SNX (yerel Synthetix token) ile ödüllendirildiniz.
 
-The somewhat legendary [StakingRewards](https://github.com/Synthetixio/synthetix/blob/develop/contracts/StakingRewards.sol) contract, was originally developed in partnership with Anton from [1inch.exchange](https://1inch.exchange/). This contract became the base for what is liquidity mining as we know it today.
+Bazı efsanevi [StakingRewards](https://github.com/Synthetixio/synthetix/blob/develop/contracts/StakingRewards.sol) sözleşmesi, aslen [1inch.exchange](https://1inch.exchange/)'den Anton ile ortaklaşa geliştirildi. Bu sözleşme, bugün bildiğimiz şekliyle likidite madenciliğinin temeli oldu.
 
-## **Problem Statement**
+## **Sorun Beyanı**
 
-As liquidity mining grew, some, non deal-breaking, flaws became apparent. I believe the following two to be the most destressing;
+Likidite madenciliği büyüdükçe, anlaşmaya varılamayan bazı kusurlar ortaya çıktı. Aşağıdaki ikisinin en yıkıcı olduğuna inanıyorum;
 
-- Liquidity locusts (or loyalty), also referred to as "stickiness"
-- Token loyalty, or opportunistic dumping
+- "Yapışkanlık" olarak da adlandırılan likidite çekirgeleri (veya sadakat)
+- Token sadakati veya fırsatçı damping
 
-Liquidity quickly disappears when incentives cease, and aggressive liquidity programs can often have a detriment on the token price, which, while I believe the latter to not necessarily be a bad thing (since it entirely depends on the tokenomics / purpose), from public perception, it is clear, when price goes down, a project is a scam.
+Teşvikler sona erdiğinde likidite hızla kaybolur ve agresif likidite programları genellikle token fiyatına zarar verebilir, ki bu, ikincisinin mutlaka kötü bir şey olmadığına inanıyorum (çünkü tamamen tokenomiklere / amaca bağlı olduğundan), kamuoyu algısından , fiyat düştüğünde, bir projenin bir aldatmaca olduğu açıktır.
 
-## **Problem Example**
+## **Sorun Örneği**
 
-I believe, at its core, the problem is the "something for nothing" problem. If you receive something for nothing, you will simply bank your profits. Let's take [curve.fi](https://curve.fi/) as a practical example, if you provide liquidity in the form of DAI/USDC/USDT to the 3pool, you receive CRV rewards. For the sake of this example, lets assume the liquidity provider is a liquidity locust, so they are only interested in receiving CRV and immediately selling it for more DAI/USDC/USDT.
+Sorunun özünde "hiçbir şey için bir şey" sorunu olduğuna inanıyorum. Karşılıği olmayan bir şey alırsanız, sadece kârınızı bankaya yatırırsınız. Pratik bir örnek olarak [curve.fi](https://curve.fi/)'yi ele alalım, 3pool'a DAI/USDC/USDT şeklinde likidite sağlarsanız CRV ödülleri alırsınız. Bu örnek için, likidite sağlayıcısının bir likidite çekirgesi olduğunu varsayalım, bu nedenle sadece CRV almak ve onu hemen daha fazla DAI/USDC/USDT'ye satmakla ilgileniyorlar.
 
-The reason for this, is that they received "something" for practically "nothing". Provide liquidity, get rewarded, that simple.
+Bunun nedeni, pratik olarak "hiç" karşılığında "bir şey" almalarıdır. Likidite sağlayan, ödüllendirilir, bu kadar basit.
 
-## **Quick Intro to Options**
+## **Seçeneklere Hızlı Giriş**
 
-Going to try to keep this simple, there are two options, a `PUT` (the right to sell), and a `CALL` (the right to buy). In this case, you can think of a `PUT` as a market sell, and a `CALL` as a market buy. So continuing with using CRV, for purpose of simplicity, lets say CRV is trading at $2. A `CALL` option with a `strike price`of $2, would allow me to buy CRV at $2, a `PUT` option with a `strike price`of $2, would allow me to sell CRV at $2.
+Bunu basit tutmaya çalışacağım, iki seçenek var, bir `PUT` (satma hakkı) ve bir `CALL` (satın alma hakkı). Bu durumda, bir `PUT`u piyasa satışı ve `CALL`ı piyasa alımı olarak düşünebilirsiniz. Bu nedenle, basitlik amacıyla CRV'yi kullanmaya devam ederek, CRV'nin 2 dolardan işlem gördüğünü varsayalım. 2$'lık `kullanım fiyatı` olan bir `CALL` seçeneği, 2$'dan CRV satın almama izin verir,`kullanım fiyatı` 2$ olan bir `PUT` seçeneği, CRV'yi 2$'dan satmama izin verir.
 
-For the rest of this article, we will only focus on CALL, the right to buy. So an option has 3 basic properties;
+Bu makalenin geri kalanında sadece CALL, yani satın alma hakkı üzerinde duracağız. Yani bir seçeneğin 3 temel özelliği vardır;
 
-- What are you buying? (In our example CRV)
-- What is the `strike price`? (aka, how much are you paying for it? In our example $2 ~ or 2 DAI)
-- When is the `expiry`? (normally some future date, in our example, expiry was `current timestamp/now`)
+-  Ne satın alıyorsun? (Örneğimizde CRV)
+- `kullanım fiyatı` nedir? (diğer bir deyişle, bunun için ne kadar ödüyorsunuz? Örneğimizde 2$ ~ veya 2 DAI)
+- `Son kullanma tarihi` ne zaman? (normalde gelecekteki bir tarih, örneğimizde sona erme `mevcut zaman damgası/şimdi` idi)
 
-## **Liquidity Mining as Options**
+## **Seçenek Olarak Likidite Madenciliği**
 
-Keeping with our [curve.fi](https://curve.fi/) example, if you provide liquidity and you claim CRV as rewards, this can be seen as exercising a CRV CALL option with `strike price` $0, and `expiry` now. When you start thinking about it in terms of CALL options, all of a sudden it gives the project a lot more power, per example, now a project could offer it as;
+[curve.fi](https://curve.fi/) örneğimize uyarak, likidite sağlıyorsanız ve ödül olarak CRV talep ediyorsanız, bu, `kullanım fiyatı` $0 olan bir CRV CALL seçeneği uygulamak ve şimdi `sona ermek` olarak görülebilir. CALL seçenekleri açısından düşünmeye başladığınızda, birdenbire projeye çok daha fazla güç veriyor, örneğin şimdi bir proje bunu şu şekilde sunabilir;
 
-- strike price = spot - 50%
-- expiry = current date + 1 month
+- kullanım fiyatı = spot - %50
+- son kullanma tarihi = geçerli tarih + 1 ay
 
-At its most basic level, we could simply say, `expiry` = now and `strike price` = spot - 50%, what would this mean? Let's say the liquidity miner, mined 1000 CRV, instead of simply receiving the CRV CALL option at `strike price` $0 and `expiry` now (1000 tokens for free), now instead they would receive the right to purchase 1000 CRV at $1000. Even if they are a liquidity locust, they would still be incentivized to do this, since they still make $1000 profit (trading value 1000 CRV @ $2 =$2000 - $1000 purchase).
+En temel düzeyinde, basitçe `sona ermek` = şimdi ve `kullanım fiyatı` = spot - %50 diyebiliriz, bu ne anlama gelir? Diyelim ki likidite madencisi, CRV CALL seçeneğini 0 $ `kullanım fiyatı` ve `sona ermek` (1000 ücretsiz token) almak yerine 1000 CRV'yi çıkardı, şimdi bunun yerine 1000 CRV'yi 1000 $'dan satın alma hakkını alacak. Bir likidite çekirgesi olsalar bile, yine de 1000$ kar elde ettikleri için bunu yapmaya teşvik edilirler (işlem değeri 1000 CRV @ 2$ = 2000$ - 1000$ satın alma).
 
-The "profits" ($1000 in above example), can now be distributed to veCRV holders, or go to the foundation, treasury DAO, etc. These funds could even be used to market make and provide additional liquidity.
+"Karlar" (yukarıdaki örnekte 1000$), artık veCRV sahiplerine dağıtılabilir veya vakıf, DAO hazinesine vb. gidebilir. Bu fonlar, piyasa yapmak ve ek likidite sağlamak için bile kullanılabilir.
 
-Now, lets take it one step further, and add a future expiry, lets say 1 month, now for argument sake, everyone that was receiving liquidity was claiming and dumping, so 1 month alter the price is $1, but the CALL option price was also $1, so at this point, there is no reason for the "dumper" to claim the option anymore, since they wouldn't make additional profit. So this further means that it set an additional price floor for the received tokens. As these tokens will simply not be claimed (can even be sent back to the DAO)
+Şimdi, bir adım daha ileri gidelim ve bir vade sonu ekleyelim, diyelim ki 1 ay, şimdi tartışma uğruna, likidite alan herkes talepte bulundu ve damping yaptı, yani 1 ay fiyatı 1 $ olarak değiştir , ancak CALL opsiyon fiyatı ayrıca 1 dolar, yani bu noktada, “damper”ın ek kar elde edemeyecekleri için artık opsiyonu talep etmesi için hiçbir sebep yok. Dolayısıyla bu, alınan jetonlar için ek bir fiyat tabanı belirlediği anlamına gelir. Bu token'ler talep edilmeyeceğinden (DAO'ya geri gönderilebilir)
 
-## **Conclusion**
+## **Çözüm**
 
-Making a few simple modifications to the existing StakingRewards contract allows us to add the above functionality, while keeping the same UX and user experience.
+Mevcut Stake Ödülleri sözleşmesinde birkaç basit değişiklik yapmak, aynı UX ve kullanıcı deneyimini korurken yukarıdaki işlevleri eklememize olanak tanır.
 
-Prototype code available [here](https://gist.github.com/andrecronje/6c3da8b294488001adeda528f70bc301)
+mevcut prototip koda [buradan](https://gist.github.com/andrecronje/6c3da8b294488001adeda528f70bc301)  ulaşabilirsiniz
 
-By switching to Options Liquidity Mining instead of traditional Liquidity Mining it means;
+Geleneksel Likidite Madenciliği yerine Opsiyon Likidite Madenciliğine geçerek;
 
-- Decreased liquidity locusts
-- Decrease selling pressure
-- Natural price floor (twap - discount % over epoch)
-- Additional fee revenue for DAO/token holders
+- Azalan likidite çekirgeleri
+- Satış baskısını azaltın
+- Doğal fiyat tabanı (twap - döneme göre indirim yüzdesi)
+- DAO/token sahipleri için ek ücret geliri
 
-## **Attribution**
+## **İlişkilendirme**
 
-Thank you to [pods.finance](https://www.pods.finance/), @josephdelong, and [sushi.com](https://sushi.com/) team for coming up with this concept and sharing it with me
+[pods.finance](https://www.pods.finance/), [@josephdelong](https://twitter.com/josephdelong) ve [sushi.com](https://sushi.com/) ekibine bu konsepti bulup benimle paylaştığı için teşekkür ederim.
