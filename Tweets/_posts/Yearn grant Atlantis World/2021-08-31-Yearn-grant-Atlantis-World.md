@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Atlantis World Grant"
+title:  "अटलांटिस वर्ल्ड ग्रांट"
 categories: [ Tweets ]
 image: ./Yearn-grant-Atlantis-World/image2.jpg
 author: Yearn
