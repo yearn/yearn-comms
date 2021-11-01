@@ -10,7 +10,7 @@ publish: true
 
 # Sabit Forex (USD, EUR, ZAR, JPY, CNY, etc) Tanıtımı
 
-Yazar: [Andre Cronje](https://twitter.com/AndreCronjeTech)</br> 
+Yazar: [Andre Cronje](https://twitter.com/AndreCronjeTech) 
 
 2 Haziran 2021
 
