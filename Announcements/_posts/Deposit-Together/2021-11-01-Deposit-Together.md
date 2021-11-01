@@ -1,25 +1,25 @@
 ---
 layout: post
-title:  "सामूहिक जमा"
+title:  "Deposit Together"
 categories: [ Annoucements ]
 image: ./Deposit-Together/DT-thumbnail.jpg
 author: Yearn
-translator: Major-Rager
-publish: true
+translator:
+publish: false
 ---
 
-घोषणा...💥
+Announcing… 💥
 
-Wido के साथ जमा करें, शुल्क विभाजित करें और गैस पर ८०%+ बचाएं
+Deposit Together with Wido, split fees & save 80%+ on gas
 
-हमारी प्यारे यर्न से शुरू 💙
+Starting with our beloved yearn 💙
 
-अंतत: आम लोगों के लिए लाभदायक यर्न 🍤🦀
+Yearn finally profitable to non whales 🍤🦀
 
-बैच में अधिक लोग = अधिक बचत
+More people in batch = more savings
 
-बोनस: USDC में $५० मित्र को आमंत्रित करने के लिए 🤑
+Bonus: $50 in USDC for inviting frens 🤑
 
-आज़माएँ: [joinwido](https://app.joinwido.com/?page=detail&address=0x8cc94ccd0f3841a468184aCA3Cc478D2148E1757)
+Try: [joinwido](https://app.joinwido.com/?page=detail&address=0x8cc94ccd0f3841a468184aCA3Cc478D2148E1757)
 
 ![](deposit-together.png)
