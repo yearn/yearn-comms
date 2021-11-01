@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deposit Together"
-categories: [ Announcements ]
+categories: [ Annoucements ]
 image: ./Deposit-Together/DT-thumbnail.jpg
 author: Yearn
 translator:
