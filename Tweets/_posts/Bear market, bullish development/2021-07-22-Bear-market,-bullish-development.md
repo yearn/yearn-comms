@@ -4,55 +4,54 @@ title:  "Bear market, bullish development"
 categories: [ Tweets ]
 image: ./Bear-market,-bullish-development/image1.jfif
 author: Dudesahn
-translator:
-publish: false
+translator: Cryptouf
+publish: true
 ---
 
-original source: [twitter](https://twitter.com/dudesahn/status/1417898521685078016)
+Source d'origine: [twitter](https://twitter.com/dudesahn/status/1417898521685078016)
 
 ##### 1
 
-Bear market, bullish development.
+Bear market, dévelopement bullish.
 
-While http://yearn.finance has recently added nice features like
-@zapper_fi
-integration for vaults, it still is in need of some love. For those following closely, you may have noticed hints about a new website in the works.
+Alors que http://yearn.finance a récemment ajouté des fonctionnalités intéressantes comme l'intégration de 
+@zapper_fi aux vaults, il a encore besoin d'amour. Pour ceux qui nous suivent de près, vous avez peut-être remarqué des indices quand à la sortie d'un nouveau site Web en préparation.
 
-A thread 🧵
+Un fil de discussion 🧵
 
 ##### 2
 
-“Wait!” you might say, “Isn’t http://yearn.fi Yearn’s new website?”
+“Attendez!” vous pourriez dire, “http://yearn.fi n'est-il pas deja un nouveau site ?”
 
-Yes and no.
+Oui et non.
 
-[@AndreCronjeTech](https://twitter.com/AndreCronjeTech) is a mad scientist, and works at light speed while building out his prototypes. Consider http://yearn.fi his playground, built by himself and [@AntonNellCrypto](https://twitter.com/AntonNellCrypto). 🧪
+[@AndreCronjeTech](https://twitter.com/AndreCronjeTech) est un scientifique fou, et travaille à la vitesse de la lumière alors qu'il travaille en même temps sur d'autres projets . Considérez http://yearn.fi comme son bac a sable, construit par lui-même et [@AntonNellCrypto](https://twitter.com/AntonNellCrypto). 🧪
 
 ##### 3
 
-yearn.finance is maintained by a separate group of contributors, and we've been implementing a completely new backend (including an SDK with several APIs) that will power our new frontend, designed specifically with the SDK in mind.
+yearn.finance est géré par un groupe distinct de contributeurs, et nous avons mis en œuvre un tout nouveau backend (y compris un SDK avec plusieurs API) qui alimentera notre nouveau frontend, conçu spécifiquement avec le SDK à l'esprit.
 
 ##### 4
 
-http://yearn.finance and http://yearn.fi have different approaches, but the hope is that they can be mutually beneficial to one another. Handshake
+http://yearn.finance et http://yearn.fi ont des approches différentes, mais nous souhaitons qu'elles puissent être mutuellement bénéfiques. 
 
 ##### 5
 
-yearn.fi is able to stand up new features very quickly, while the upcoming v3 http://yearn.finance will demonstrate the power of our reworked backend. Our goal? Abstracting away the complexity around integrating with yearn products for future partners.
+yearn.fi est capable de mettre en place de nouvelles fonctionnalités très rapidement, tandis que la prochaine v3 http://yearn.finance démontrera la puissance de notre nouveau backend. Notre objectif? Éliminez la complexité de l'intégration avec les produits yearn pour nos futurs partenaires.
 
 ##### 6
 
-Over the next few weeks, I'll go more in-depth on some of the tech we're building at yearn, why it matters, and what we're excited to work on next. And ultimately, we hope that this can make our work a little more accessible to everyone and a little less opaque. Left-pointing magnifying glass
+Au cours des prochaines semaines, nous  développerons certaines des technologies que bous developpons chez yearn, pourquoi cela est important et sur quoi nous sommes allons travailler ensuite. Finalement, nous espérons que cela pourra rendre notre travail un peu plus accessible à tous et un peu moins opaque. 
 
 ##### 7
 
-Once the new site launches, this will include improving our GitHub issue curation for bugs, maintaining a bounty board for larger features we'd like to add, and in general reaching out a hand to anyone who'd like to contribute.
+Une fois le nouveau site lancé, il inclura l'amélioration de notre curation des problèmes GitHub pour le blog, le maintien d'un tableau de bounties pour les fonctionnalités plus importantes que nous aimerions ajouter et, en général, aider ceux qui souhaitent contribuer.
 
 ##### 8
 
-If you'd like to come build with us, we'd love to have you. Simple as that.
+Si vous souhaitez construire avec nous, nous serions ravis de vous avoir. C'est aussi simple que cela.
 
-Feel free to reach out to me on telegram
-[@dudesahn](https://twitter.com/dudesahn) and we can get you started.
+N'hésitez pas à me contacter sur TG
+[@cryptouf](https://twitter.com/cryptouf) et [@dudesahn](https://twitter.com/dudesahn) peuvent vous aider à démarrer.
 
 ![](image1.jfif)
