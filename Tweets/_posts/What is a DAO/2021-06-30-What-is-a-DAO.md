@@ -8,110 +8,112 @@ translator:
 publish: false
 ---
 
-original source: [twitter](https://twitter.com/tracheopteryx/status/1410243752434753547)
+ソース: [twitter](https://twitter.com/tracheopteryx/status/1410243752434753547)
 
 ##### 1
-Really enjoyed talking to [@TrustlessState](https://twitter.com/TrustlessState) on the [@BanklessHQ](https://twitter.com/BanklessHQ) podcast about [@coordinape](https://twitter.com/coordinape) with [@fifthworldzach](https://twitter.com/fifthworldzach)
+Podcastの[@BanklessHQ](https://twitter.com/BanklessHQ)で[@coordinape](https://twitter.com/coordinape)と[@fifthworldzach](https://twitter.com/fifthworldzach)について[@TrustlessState](https://twitter.com/TrustlessState)と本当に楽しく話しました。
 
 [youtube](https://www.youtube.com/watch?v=JM0zF3AzFno)
 
-We explained what's different about Coordinape's mechanics & vision, and went pretty deep into some big ideas.
+Coordinapeのメカニズムとビジョンの違いを説明し、いくつかの大きなアイデアについてかなり深く掘り下げました。
 
-So, here's a thread on DAOs
+以下はDAOについてのスレッドです。
 
 ##### 2
-What is a DAO? There are many answers to this. It's an emergent phenomena whose story is actively being written. My answer may be a bit different from others you'll read....
+DAOとはなんでしょうか？これには多くの答えがあります。積極的にストーリーが書き込まれている新興現象です。わたしの答えは他の人の答えと少し違うかもしれません…
 
 ✨ 𝔻𝔸𝕆𝕤 𝕒𝕣𝕖 𝕒 𝕟𝕖𝕨 𝕗𝕠𝕣𝕞 𝕠𝕗 𝕝𝕚𝕗𝕖 🧫
+DAOは人生の新しい形です。
 
-I'll explain.
+説明します。
 
 ##### 3
-jfc this is hard to explain.... Ok, let's start with Ken Wilber. Wilber is many things, primarily he's a master map maker. He studied the work of philosophers, scientists, and gurus from all over the world with the driving thesis that "everybody is right."
+これは信じられないほど説明するのが難しい....よし、まずはKen Wilberから始めましょう。Wilberはさまざまな顔を持っていますが、特に地図作りの名人です。Wilberは世界中の哲学者、科学者、達人の仕事を研究し、「誰もが正しい」という命題を掲げました。
 
 ![](1.jpg)
 
 ##### 4
-Over decades he fit together all these disparate pieces of wisdom into a map of human potential called Integral Theory. Central to this understanding, is the notion of Quadrants. Each quadrant is irreducible to any other quadrant. Each a different, inherently valid frame.
+彼は何十年もかけてこれらのバラバラな知恵をひとつにし、「インテグラル理論」と呼ばれる人間の可能性の地図を作りました。この理解の中心となるのが、4象限という概念です。それぞれの象限は他のどの象限にも還元されません。それぞれが異なる、本質的に有効なフレームです。
 
 ![](2.jpg)
 
 ##### 5
-The individual interior experience of the color red is irreducible to the individual exterior concept of 650nm light. Both arise like different sides of the same coin. So where the fuck is this going, right? Here Right pointing backhand index DAOs are life forms emerging in the collective quadrants.
+赤色という個人の内面的経験は、650nmの光という個人の外面的概念を変えることはできません。どちらも同じコインの裏表のように生じます。すると、これは一体どうなりますか？ 
+こちらです。DAOは集合的な象限に出現する生命体です。
 
 ##### 6
-“Ever since the Cognitive Revolution, Sapiens have been living in a dual reality. On the one hand, the objective reality of rivers, trees and lions; and on the other hand, the imagined reality of gods, nations and corporations.”
-- Sapiens by Yuval Harari
+「認知革命以来、サピエンスは二重の現実の中で生きてきました。一方では川や木やライオンなどの客観的な現実を、もう一方では神や国や企業などの想像上の現実を、それぞれ見ているのです。"
+- 『サピエンス』 ユヴァル・ハラリ著
 
 ##### 7
-Harari writes beautifully about the power of collective fiction. Fiction has scaled human endeavor. Family, tribe, religion, nation, incorporation—the emergence of each new fiction transcends and includes the former, allowing us to coordinate in greater and greater number.
+Harari氏は集団的なフィクションの力について素晴らしく良く書いています。フィクションは人間の努力の規模を拡大してきました。家族、部族、宗教、国家、法人化......それぞれの新しいフィクションの出現はそれまでのフィクションを超越し、包含することでより多くの人々との協調を可能にしてきました。
 
 ![](3.jpg)
 
 ##### 8
-When life first emerged on earth, we were simple creatures. Single-celled. Floating. Eating each other. Then one little guy ate another little guy . . . but this one hung around; didn't get digested. From prokaryote to eukaryote. 💥 Multicellular life. Everything changed.
+地球上に生命が誕生した時、私たちは単純な生き物でした。単細胞で、浮いていました。お互いを食べていました。そして一人の小人がもう一人の小人を食べました... しかし、この小人は消化されずに残っていました。原核生物から真核生物へ。多細胞生物になりました。全てが変わりました。
 
 ![](4.jpg)
 
 ##### 9
-The world is about to take an extraordinary step. You see, the sea of the collective has been like the sea of the old earth. The forces binding the collective's cell-analog (memes?) haven't been strong enough to make the step to eukaryote. But: we have blockchain now.
+世界はとんでもない一歩を踏み出そうとしているところです。集団の海が昔の地球の海のようになっているのが分かるでしょう？集団の細胞アナログ(ミーム？)を縛る力は真核生物へのステップに進むほど強くはありませんでした。しかし、今はブロックチェーンがあります。
 
 ##### 10
-Blockchain is a new physics. A physics of /the collective space/. No one has elucidated this reality more profoundly than my co-instigator at Coordinape, [@Zemm_NFT](https://twitter.com/Zemm_NFT), speaking about NFTs in [@DirSchmidt](https://twitter.com/DirSchmidt)'s banger "The Greatest NFT Film Ever Made."
+ブロックチェーンは新しい物理学です。集団空間の物理学です。Coordinapeの共同研究者である[@Zemm_NFT](https://twitter.com/Zemm_NFT)が、[@DirSchmidt](https://twitter.com/DirSchmidt)の大ヒット作 "The Greatest NFT Film Ever Made "の中でNFTについて語っている以上にこの現実を深く理解している人はいないでしょう。
 
 https://youtube.com/watch?v=cY9lM73ie0Q&t=1575s
 
 ![](5.jpg)
 
 ##### 11
-Blockchain makes fiction real. As real as dirt. And from this dirt, new fauna blooms. [@Coordinape](https://twitter.com/coordinape) is a flower. Its petals, an invitation. It grows in the canopy of the dark forest—where trust thrives. The kind of trust those who have worked on creative teams know so well.
+ブロックチェーンはフィクションを現実にします。土のようにリアルに。そして、この土から新しいファウナが咲きます。[＠Coordinape](https://twitter.com/coordinape)は花です。その花びらは招待状です。暗い森の樹冠で育つ。そこでは信頼が栄えます。クリエイティブチームで働いたことのある人ならよく知っている信頼関係です。
 
 ##### 12
-
-Watch the bankless video or go to http://coordinape.com to learn more, but briefly: Coordinape allows protocols to grow their contributor network with an NFT badge system & distribute grants via a novel, decentralized, community-led mechanism inspired by gift economies.
+banklessのビデオを見るか、[http://coordinape.com](http://coordinape.com)に行くとより学べますが、簡単に詳細をまとめます。
+Coordinapeでは、プロトコルがNFTバッジシステムを使ってコントリビューターネットワークを拡大し、ギフト経済にヒントを得た新しい分散型のコミュニティ主導のメカニズムで助成金を分配することができます。
 
 ##### 13
-Because the kinds of tools used to support collective intelligence in an adversarial environment are ill-suited for a /collaborative/ environment. The bee & the flower do not need contracts.
+なぜなら、敵対的な環境で集団的知性をサポートするために使用されるようなツールは「協力的な」環境には適さないからです。蜂と花は契約を必要としません。
 
 ![](6.jpg)
 
 ##### 14
-We needed this kind of tool at [@iearnfinance](https://twitter.com/iearnfinance). It didn't exist, so we built Coordinape. It's one piece of a bigger puzzle. Gov 2.0, written by [@lex_node](https://twitter.com/lex_node) and I, is another. Because, like biology, DAOs are not monolithic. The decision space is vast.
+私たちは[@iearnfinance](https://twitter.com/iearnfinance)でこのようなツールを必要としていました。それが存在しなかったので、Coordinapeを作りました。これは大きなパズルの1つのピースです。[lex_node](https://twitter.com/lex_node)と私が書いた「Gov 2.0」は別のものです。生物学と同様に、DAOも一枚岩ではありません。意思決定の場は広大です。
 
 https://gov.yearn.finance/t/yip-61-governance-2-0/10460
 
 ##### 15
-Gov 2.0, or constrained delegation, starts by understanding decisions. A DAO needs to make hundreds of different decisions. Gov 2.0 deals with on-chain, gated decisions. But beyond these axes we also have to consider: timescale, impact, security, community, domain...
+Gov 2.0、つまり制約付き委任は、意思決定を理解することから始まります。DAOは何百もの異なる意思決定を行う必要があります。Gov 2.0はオンチェーンでゲート付きの意思決定を扱います。しかし、これらの軸を超えて、タイムスケール、影響、セキュリティ、コミュニティ、ドメインなども考慮しなければなりません。
 
 ![](7.png)
 
 ##### 16
-We had to invent all these kinds of tools at Yearn out of sheer need. We were born from chaos. There is no foundation, no company with processes to fall back on. [@AndreCronjeTech](https://twitter.com/AndreCronjeTech) gave away $1B in $YFI and the inflaton field from that event formed our world. Bang.
+Yearnでは、必要に迫られてこのようなツールを発明しました。私たちはカオスから生まれました。拠り所となる基盤やプロセスを持った会社はありません。[@AndreCronjeTech](https://twitter.com/AndreCronjeTech)は$1Bの$YFIを配り、そのイベントからのインフレーションフィールドが私たちの世界を形成しました。バン！
 
 ##### 17
-Not every DAO works the same way. Just like corporations, or like people, they have different worldviews. Let's go back to Wilber. The quadrants are just one part of his masterwork. He also studied Piaget, Clare Graves, Jean Gebser, Aurobindo, and many others.
+すべてのDAOが同じように動くわけではありません。企業と同じように、あるいは人間と同じように、それぞれが異なる世界観を持っています。ウィルバーの話に戻りましょう。quadrantsは彼の代表作の一部に過ぎません。彼は他にもPiaget, Clare Graves, Jean Gebser, Aurobindoなどを研究しています。
 
 ##### 18
-Wilber took the maps of human development pioneered by these scholars and combined them into a theory of levels and lines. Each of us has multiple intelligences that develop at different rates. And so do organizations.
+ウィルバーは、これらの学者たちが開拓した人間の発達の地図を、レベルとラインの理論にまとめました。私たちはそれぞれ異なる速度で発達する複数の知性を持っています。そして、組織も同様です。
 
 ![](8.jpg)
 
 ##### 19
-[@fred_laloux](https://twitter.com/fred_laloux) took Wilber's map and applied it to the companies he studied in his peerless work "Reinventing Organizations" Just because DAOs have the potential to grow like trees into the blue sky of our future, doesn't mean they will. They need the right operating system.
+[@fred_laloux](https://twitter.com/fred_laloux)は、彼が素晴らしい著作「Reinventing Organizations」で研究した企業にウィルバーの地図を適用しました。 DAOが未来の青空に向かって木のように成長する可能性があるからといって、そうなるとは限りません。適切なOSが必要なのです。
 
 ![](9.png)
 
 ##### 20
-Teal is an operating system for organizations formed from sovereign human beings taking agency and responsibility in their lives; based on self-management, wholeness, and evolutionary purpose. Where today's big companies are like machines, Teal orgs are like biology.
+Tealは、主権者である人間が自分の人生に主体性と責任を持ち、自己管理、全体的、進化的な目的に基づいて形成される組織のためのオペレーティングシステムです。
+今日の大企業が機械のようなものであるのに対し、ティールの組織は生物のようなものです。
 
 ##### 21
-Why did that little guy survive and turn into mitochondria that time the other guy ate it? Who fucking knows. But maybe it had something to do with trust. The wizard [@fifthworldzach](https://twitter.com/fifthworldzach), our other co-instigator at coordinape, says "organizations move at the speed of trust."
+もう一人の小人が食べた時、なぜあの小人は生き残ってミトコンドリアになったのでしょうか？それは誰にもわかりません。でも、もしかしたら信頼に関係しているのかもしれません。コーディネープのもう一人の共同研究者である魔法使い[@fifthworldzach](https://twitter.com/fifthworldzach)は、「組織は信頼の速度で動く」と言っています。
 
 ##### 22
-I think about this a lot. Being part of a collective life form that bleeds money and grows in realms beyond my imagination can be confusing. I /can't/ understand what it needs. I need to let go. And to do that, I need to trust I'll be ok.
-
+私はこのことについてよく考えます。私の想像を超えた領域でお金を流し、成長していく集団生命体の一部であることは、混乱を招くことがあります。それが何を必要としているのか私には理解できません。私は手放さなければなりません。そのためには、自分は大丈夫だと信じる必要があります。
 
 ##### 23
-Structures like ethereum, Teal Orgs, DAOs, coordinape, and gov 2.0 help me trust that the mind between minds will be there, and I can go wherever my interests take me, knowing the whole organism will thrive.
+イーサリアム、Teal組織、DAO、Coordinape、gov 2.0などの構造は、心と心で信頼するのに役立ちます。そして、私は自分の興味があればどこにでも行くことができ、組織全体が繁栄することを知っています。
 
-That's what we're building.
+それが私たちの作っているものです。
