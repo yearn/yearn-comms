@@ -1,98 +1,98 @@
 ---
 layout: post
-title:  "What is Yearn"
+title:  "Yearn Nedir?"
 categories: [ Tweets ]
 image: ./What-is-Yearn/3_1446243220468293632.jpg
 author: Wot_Is_Goin_On
-translator:
-publish: false
+translator: Dastronom
+publish: true
 ---
 
-original source: [twitter](https://twitter.com/Wot_Is_Goin_On/status/1446540007292952579)
+asıl kaynak: [twitter](https://twitter.com/Wot_Is_Goin_On/status/1446540007292952579)
 
 ##### 1
-People had difficulty understanding ETH in mid-2020. It wasn’t clear what the use case would be, TVL was at $8bn and hadn’t grown much in 18 months. Even out of those who believed in Ethereum, there was scepticism around how value would accrue to ETH.
+İnsanlar 2020'nin ortalarında ETH'yi anlamakta zorlandılar. Kullanım durumunun ne olacağı belli değildi, TVL 8 milyar dolardı ve 18 ayda fazla yol almamıştı. Ethereum'a inananlar arasında bile, ETH'nin nasıl değer kazanacağına dair şüpheler vardı.
 
 ##### 2
-Fast forward to today and it’s clear there’s a lot that can be built on Ethereum (DeFi, NFTs and gaming), TVL has sky-rocketed to over $100bn and throw in a token burn mechanism and people understand how value accrues to the native token.
+Bugüne hızlı bir şekilde ilerledi ve Ethereum (DeFi, NFT'ler ve oyun) üzerine inşa edilebilecek çok şey olduğu açık, TVL 100 milyar doların üzerine fırladı ve bir token yakma mekanizması yarattı ve insanlar yerel token'e değerin nasıl tahakkuk ettiğini anlıyor .
 
 ##### 3
-In some ways the perception of Yearn today is similar to that of ETH in mid-2020, at least in terms of uncertainty over what will be built on Yearn, its future growth and value accrual to YFI. Even Yearn’s OGs are getting restless.
+Bazı yönlerden bugün Yearn algısı, en azından Yearn üzerine neyin inşa edileceğine dair belirsizlik, gelecekteki büyümesi ve YFI'ye tahakkuk eden değeri açısından 2020 ortalarındaki ETH'ye benzer. Yearn'in OG'leri bile huzursuz oluyor.
 
 ![3_1446534086277861380](3_1446534086277861380.jpg)
 
 ##### 4
-Yearn’s TVL has reached an all-time high of over $5bn TVL, achieving this without offering incentives. This is higher than the much-hyped Avalanche and Polygon that trade at multiples compared to YFI.
+Yearn's TVL, 5 milyar doların üzerinde TVL ile tüm zamanların en yüksek seviyesine ulaştı ve bunu teşvikler sunmadan başardı. Bu, YFI'ye kıyasla kat be kat ticaret yapan çok duyuru yapan Avalanche ve Polygon£dan daha yüksektir.
 
 ##### 5
-Its vaults have been integrated into Badger, Enzyme Finance, Argent Wallet, [Crypto.com](http://Crypto.com) and the MEW Wallet app on Android. Making vaults widely accessible is a great start, but Yearn is waiting for its killer dapp.
+Vault'lar Badger, Enzyme Finance, Argent Wallet, [Crypto.com](http://Crypto.com) ve Android'deki MEW Wallet uygulamasına entegre edilmiştir. Vault'ları geniş çapta erişilebilir kılmak harika bir başlangıç, ancak Yearn öldürücü hamlesini bekliyor.
 
 [medium.com/myetherwallet/…](https://medium.com/myetherwallet/introducing-yearn-vaults-on-mew-wallet-app-android-274818aa830e)
 
 ##### 6
-The first dapp built on Yearn to get product market fit was Alchemix’s self-repaying loans. The sudden jumps in yvDai in early 2021 shown below happened as Yearn had to quickly increase the limits of its most popular vault to keep up with the demand.
+Ürün pazarına uyum sağlamak için Yearn üzerine kurulan ilk uygulama, Alchemix'in kendi kendini geri ödeyen kredileriydi. Aşağıda gösterilen 2021'in başlarında yvDai'deki ani sıçramalar, Yearn'in talebe ayak uydurmak için en popüler vault'unun sınırlarını hızla artırmak zorunda kalmasıyla gerçekleşti.
 
 ![3_1446534659123335169](3_1446534659123335169.jpg)
 
 ##### 7
-[@PoolTogether\_](https://twitter.com/PoolTogether_)’s no-loss lottery also opted to earn yield with Yearn. In the UK there’s over £100bn ($140bn) in premium bonds where the lottery distributes a depressing 1% annual yield.
+[@PoolTogether\_](https://twitter.com/PoolTogether_) kayıpsız piyango da Yearn ile getiri elde etmeyi seçti. İngiltere'de, piyangonun yıllık %1'lik iç karartıcı bir getiri dağıttığı prim tahvillerinde 100 milyar sterlinin (140 milyar dolar) üzerindedir.
 
 ##### 8
-If [@element_fi](https://twitter.com/element_fi) can crack fixed income, with Yearn’s vaults (the “yv” tokens) in the background, then we’re talking a total addressable market in the trillions.
+Eğer [@element_fi](https://twitter.com/element_fi) arka planda Yearn'in vault'ları ("yv" token'leri) ile sabit geliri kırabiliyorsa, o zaman trilyonlarca adreslenebilir bir pazardan bahsediyoruz demektir.
 
 ![3_1446535031292313608](3_1446535031292313608.jpg)
 
 ##### 9
-[@ribbonfinance](https://twitter.com/ribbonfinance)’s put-selling vaults leverage DeFi’s composability so that the USDC is earning a yield with Yearn in the background.
+[@ribbonfinance](https://twitter.com/ribbonfinance)'nin satış yapan vault'ları, USDC'nin arka planda Yearn ile getiri elde etmesi için DeFi'nin birleştirilebilirliğinden yararlanır.
 
 ![3_1446535099063885835](3_1446535099063885835.jpg)
 
 ##### 10
-[@longlongfinance](https://twitter.com/longlongfinance) is also available to diversify your principal and yield into different assets.
+[@longlongfinance](https://twitter.com/longlongfinance) ayrıca anaparanızı çeşitlendirmek ve farklı varlıklara getiri sağlamak için vardır.
 
 ##### 11
-Despite all the interesting protocols so far, the protocols that bring the greatest adoption to Yearn probably haven’t been built yet but there’s plenty of teams working on it.
+Şimdiye kadarki tüm ilginç protokollere rağmen, Yearn'i en fazla benimsemeyi sağlayan protokoller muhtemelen henüz oluşturulmadı, ancak üzerinde çalışan birçok ekip var.
 
 ![3_1446535242404274176](3_1446535242404274176.jpg)
 
 ##### 12
-With Yearn going multi-chain there’s potential for different types of dapps on each chain. [twitter.com/iearnfinance/s…](https://twitter.com/iearnfinance/status/1446243257336229912?s=20)
+Yearn çoklu zincire geçtiğinde, her zincirde farklı türde dapp'ler için potansiyel var. [twitter.com/iearnfinance/s…](https://twitter.com/iearnfinance/status/1446243257336229912?s=20)
 
 > ![iearnfinance](earnfinance-1223779978459770880.jpg)
 > yearn.finance ([@iearnfinance](https://twitter.com/iearnfinance))
 
-> The Realm of Multichain beckons.
+> The Realm of Multichain sizi çağırıyor.
 
-And Yearn has heeded the call. 📯
+Ve Yearn çağrıya kulak verdi. 📯
 
-Today, we go multichain with the launch of Iron Bank Fantom and the first Fantom vaults on [beta.yearn.finance](http://beta.yearn.finance)🧵
+Bugün, Iron Bank Fantom'un piyasaya sürülmesi ve [beta.yearn.finance](http://beta.yearn.finance) 🧵 üzerindeki ilk Fantom kasalarının piyasaya sürülmesiyle çoklu zincire geçiyoruz. 
 
 > ![3_1446243220468293632](3_1446243220468293632.jpg)
 
 ##### 13
-The people calling for the death of DeFi on Ethereum may need to zoom out. Yearn’s Q3 2021 TVL was $4.6bn, nearly 300% higher than 12 months before. Q3 2021 annualised revenue was over $60m, up nearly 400% over the year.
+Ethereum'da DeFi'nin ölümünü isteyen kişilerin uzaktan bakması gerekebilir. Yearn'in 3. Çeyrek 2021 TVL'si, 12 ay öncesine göre yaklaşık %300 daha yüksek olan 4.6 milyar dolardı. 2021'in üçüncü çeyreğinde yıllık bazdaki gelir, yıl boyunca yaklaşık %400 artarak 60 milyon doların üzerindeydi.
 
 ![3_1446536804035960832](3_1446536804035960832.jpg)
 
 ##### 14
-The criticism around lack of value accrual is one that can be easily fixed. However, the challenge is to design tokenomics that incentivize growth and sustainability of the protocol in terms of contributors and TVL, as well as value accrual.
+Değer tahakkuku eksikliği konusundaki eleştiri, kolayca düzeltilebilecek bir eleştiridir. Bununla birlikte, zorluk, katkıda bulunanlar ve TVL'nin yanı sıra değer tahakkuku açısından protokolün büyümesini ve sürdürülebilirliğini teşvik eden belirteçler tasarlamaktır.
 
 ##### 15
-It took Ethereum 5+ years to implement EIP-1559, and 2022 brings the migration to PoS that will reward ETH stakers instead of miners. And when cartoon animals are incentivized to figure things out, things usually get figured out.
+EIP-1559'u uygulamak Ethereum'un 5+ yılını aldı ve 2022, madenciler yerine ETH stakerlarını ödüllendirecek PoS'a geçişi getiriyor. Ve çizgi film kahramanları bir şeyleri çözmeye teşvik edildiğinde, işler genellikle çözülür.
 
 [gov.yearn.finance/t/call-for-ide…](https://gov.yearn.finance/t/call-for-ideas-yfi-tokenomics-revamp/11573/5)
 
 ##### 16
-The sustainability of liquidity mining and competition on fees, and the pace of innovation in DeFi, mean that nothing is guaranteed of course!
+Likidite madenciliğinin sürdürülebilirliği ve ücretlerdeki rekabet ve DeFi'deki inovasyon hızı, elbette hiçbir şeyin garanti edilmediği anlamına geliyor!
 
 ##### 17
-But these worries can be brushed aside safe in the knowledge that this guy deployed Yearn’s first smart contract.
+Ancak bu adamın Yearn'in ilk akıllı sözleşmesini devreye soktuğu bilgisiyle bu endişeler güvenle bir kenara atılabilir.
 
 [twitter.com/CFantom777/sta…](https://twitter.com/CFantom777/status/1446366012421468162?s=20)
 
 > ![CFantom777](CFantom777-1387931745832497152.jpg)
 > Fantom_Memes ([@CFantom777](https://twitter.com/CFantom777))
 
-> Damn it feels good to be a fantie
+> Lanet olsun fantie olmak iyi hissettiriyor
 
 [$FTM](https://twitter.com/search?q=%24FTM) [#Fantom](https://twitter.com/hashtag/Fantom) [#cryptocurrency](https://twitter.com/hashtag/cryptocurrency) [#andrecronje](https://twitter.com/hashtag/andrecronje) [pic.twitter.com/B1tTP48nqN](https://twitter.com/CFantom777/status/1446366012421468162/video/1)
