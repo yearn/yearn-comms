@@ -4,36 +4,36 @@ title:  "Atlantis World Grant"
 categories: [ Tweets ]
 image: ./Yearn-grant-Atlantis-World/image2.jpg
 author: Yearn
-translator:
-publish: false
+translator: Dastronom
+publish: true
 ---
 
-original source: [twitter](https://twitter.com/iearnfinance/status/1432387438014435332)
+asıl kaynak: [twitter](https://twitter.com/iearnfinance/status/1432387438014435332)
 
-###### Yearn Finance has issued a grant to [@atlantis0x](https://twitter.com/atlantis0x) to help build a 2d pixel metaverse. Here's why:
+###### Yearn Finance, bir 2d piksel meta veri deposu oluşturmaya yardımcı olmak için [@atlantis0x](https://twitter.com/atlantis0x) şirketine bir hibe verdi. İşte nedeni:
 
 ##### 1
 
-[Atlantis World](https://twitter.com/atlantis0x) is a Web3 metaverse designed to expand access to virtual worlds, a 2d pixelverse that doesn't require expensive tech but will still melt faces.
+[Atlantis World](https://twitter.com/atlantis0x), sanal dünyalara erişimi genişletmek için tasarlanmış bir Web3 metaverse'dir, pahalı teknoloji gerektirmeyen ancak yine de yüzleri eritecek 2 boyutlu bir piksel evrenidir.
 
 ![](image2.jpg)
 
 ##### 2
 
-They're building DAO and DeFi first, with education, community, governance, and security in mind from the start.
+Baştan beri eğitim, topluluk, yönetim ve güvenliği göz önünde bulundurarak önce DAO ve DeFi'yi oluşturuyorlar.
 
 ##### 3
 
-We think the metaverse will play a big role in the future of DAOs and culture as we connect, gamify, and evolve the ecosystem.
+Ekosistemi birbirine bağlarken, oyunlaştırırken ve geliştirirken, meta verinin DAO'ların ve kültürün geleceğinde büyük bir rol oynayacağını düşünüyoruz.
 
 ##### 4
 
-Learn more about Atlantis World:  [atlantisworld.io](https://atlantisworld.io)
+Atlantis World ile daha fazla bilgi edinin:  [atlantisworld.io](https://atlantisworld.io)
 
 ##### 5
 
-Grants to builders like [@atlantis0x](https://twitter.com/atlantis0x) are core to Yearn's strategy to constantly evolve and keep making DeFi simple.
+[@atlantis0x](https://twitter.com/atlantis0x) gibi inşaacılara verilen hibeler, Yearn'in sürekli gelişme ve DeFi'yi basitleştirme stratejisinin temelini oluşturur.
 
 ##### 6
 
-Building something next level and want to connect with us? Visit: [yearnfinance.typeform.com/yGrants](https://yearnfinance.typeform.com/yGrants)
+Bir sonraki seviyede bir şeyler inşa ediyor ve bizimle bağlantı kurmak mı istiyorsunuz? Ziyaret: [yearnfinance.typeform.com/yGrants](https://yearnfinance.typeform.com/yGrants)
