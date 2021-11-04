@@ -4,7 +4,7 @@ title:  "The Blue Pill"
 categories: [ Annoucements ]
 image: ./The-Blue-Pill-Ann/thebluebook.jpg
 author: Yearn
-translator: Cryptouf
+translator:Cryptouf
 publish: true
 ---
 
