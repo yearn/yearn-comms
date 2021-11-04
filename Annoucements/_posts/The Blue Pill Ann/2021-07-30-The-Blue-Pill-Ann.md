@@ -4,13 +4,13 @@ title:  "The Blue Pill"
 categories: [ Annoucements ]
 image: ./The-Blue-Pill-Ann/thebluebook.jpg
 author: Yearn
-translator:
-publish: false
+translator: Cryptouf
+publish: true
 ---
 
-Today we invite you to celebrate the first year of Yearn with [The Blue Pill](https://medium.com/iearn/the-blue-pill-ca44ed01f16f), a spiritual guide for the past, present and future of Yearn. A beautifully-typeset book is available to our 13,500 most loyal supporters.
+Aujourd'hui, nous vous invitons à célébrer la première année de Yearn avec [The Blue Pill](https://medium.com/iearn/the-blue-pill-ca44ed01f16f), un guide spirituel pour le passé, le présent et l'avenir de Yearn. Un livre magnifiquement composé est disponible pour nos 13 500 plus fidèles supporters.
 
-Your contribution is immortalized in a [set of seven unique NFTs](https://galaxy.eco/yearn) by
-[@Zemm_NFT](https://twitter.com/Zemm_NFT). Whether you are a farmer, a governor, a doer, or a giver, Yearn wouldn't have been the same without you. You are all necessary.
+Votre contribution est immortalisée dans un [ensemble de sept NFT uniques](https://galaxy.eco/yearn) par
+[@Zemm_NFT](https://twitter.com/Zemm_NFT). Que vous soyez un farmer, un gouverneur, un homme d'action ou un donateur, Yearn n'aurait pas été ce qu'il est aujourd'hui sans vous. Vous êtes tous nécessaires.
 
-This is an invitation to contribute. We attempt to answer what makes Yearn unique by diving deep into the magic of The Gift which has sparked the project. Keep the book close, or share it with a friend. Keep our story alive, you are already part of it.
+Ceci est une invitation à contribuer. Nous tentons de répondre à ce qui rend Yearn unique en plongeant profondément dans la magie du cadeau qui a déclenché le projet. Gardez le livre à portée de main ou partagez-le avec vos amis. Gardez notre histoire vivante et ecrivez la avec nous, vous en faites déjà partie.
