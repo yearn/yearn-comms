@@ -1,33 +1,33 @@
 ---
 layout: post
-title:  "Transparency Summary"
+title:  "Transparenz Zusammenfassung"
 categories: [ Tweets ]
 image: ./TransparencySummary/image1.jpg
 author: Yearn
 translator:
-publish: false
+publish: true
 ---
-original source: [twitter](https://twitter.com/iearnfinance/status/1445143482830446600)
+Originalquelle: [twitter](https://twitter.com/iearnfinance/status/1445143482830446600)
 
 ##### 1
 
-This is why crypto will change the world.
+Das ist der Grund, warum Krypto die Welt verändern wird.
 
-It kills shadows.
+Es tötet Schatten.
 
-Yearn’s super coders are 🌞.
+Die Super-Coder von Yearn sind 🌞
 
-Everything’s on-chain with hooman-readable labels.
+Alles ist auf der Kette mit hooman-lesbaren Etiketten.
 
-Transparency verified ✅
+Geprüfte Transparenz ✅
 
-Let’s take a look at just how transparent Yearn is 👇
+Schauen wir uns mal an, wie transparent Yearn ist 👇
 
 ![](image1.jpg)
 
 ##### 2
 
-See Yearn’s balance sheets, EBITDA, income and more EVERY quarter:
+Sieh dir die Bilanzen, das EBITDA, das Einkommen und mehr von Yearn in JEDEM Quartal an:
 
 https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf
 
@@ -41,37 +41,37 @@ https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-qu
 
 ##### 3
 
-In fact, you can track every single Yearn-related transaction in real time at [yfistats.com](http://www.yfistats.com/)
+Auf [yfistats.com](http://www.yfistats.com/) kannst du jede einzelne Transaktion im Zusammenhang mit Yearn in Echtzeit verfolgen.
 
 ![](image6.jpg)
 
 ##### 4
 
-There, you’ll find sortable:
+Dort findest du sortierbare:
 
-🔵 Transaction records
+🔵 Buchungssätze
 
-🔵 Protocol income
+🔵 Protokoll-Einnahmen
 
-🔵 Protocol expenses
+🔵 Protokoll-Ausgaben
 
-🔵 Income statements
+🔵 Gewinn- und Verlustrechnungen
 
-🔵 EOM balances
+🔵 EOM-Salden
 
-🔵 Charts
+🔵 Diagramme
 
-🔵 Revenue projects
+🔵 Einnahmeprojekte
 
-🔵 $YFI buybacks
+🔵 $YFI-Rückkäufe
 
 & much more.
 
-All of it is meticulously labelled by the yBudget team with 💙  and freely accessible to anyone in the 🌍
+All das wird vom yBudget-Team akribisch mit 💙 beschriftet und ist für jeden 🌍 frei zugänglich.
 
 ##### 5
 
-Don’t like websites? You can even track our income with custom “harvest bots” in Discord and Telegram:
+Du magst keine Websites? Du kannst unsere Einnahmen sogar mit benutzerdefinierten "Ernte-Bots" in Discord und Telegram verfolgen:
 
 🔵 Discord: [discord.com/invite/6PNv2nF](https://discord.com/invite/6PNv2nF)
 
@@ -81,16 +81,16 @@ Don’t like websites? You can even track our income with custom “harvest bots
 
 ##### 6
 
-Want to join one of the most open and transparent platforms in history?
+Möchtest du bei einer der offensten und transparentesten Plattformen der Geschichte mitmachen?
 
-Good news: we show you exactly how you can contribute with a list of tasks just waiting for new contributors: [contribute.yearn.rocks](https://contribute.yearn.rocks/)
+Die gute Nachricht: Wir zeigen dir genau, wie du einen Beitrag leisten kannst, mit einer Liste von Aufgaben, die auf neue Mitwirkende warten: [contribute.yearn.rocks](https://contribute.yearn.rocks/)
 
 ![](image8.jpg)
 
 ##### 7
 
-The future is here, it’s just not evenly distributed.
+Die Zukunft ist da, sie ist nur nicht gleichmäßig verteilt.
 
-Come live it with us at Yearn 💙
+Komm und lebe sie mit uns bei Yearn 💙
 
 ![](image9.jpg)
