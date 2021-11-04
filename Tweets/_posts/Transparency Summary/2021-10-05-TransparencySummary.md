@@ -65,7 +65,7 @@ Dort findest du sortierbare:
 
 🔵 $YFI-Rückkäufe
 
-& much more.
+& vieles mehr
 
 All das wird vom yBudget-Team akribisch mit 💙 beschriftet und ist für jeden 🌍 frei zugänglich.
 
