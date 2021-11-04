@@ -4,7 +4,7 @@ title:  "Proposition de financement de la 1ere DAO d'activisme juridique"
 categories: [ Annoucements ]
 image: ./Legal-Activism-DAO/1.jpg
 author: LexPunk DAO
-translator: cryptouf
+translator: Cryptouf
 publish: true
 ---
 
