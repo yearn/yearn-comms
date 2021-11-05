@@ -4,7 +4,7 @@ title:  "Réclamer vos récompenses provenant vieux yGov"
 categories: [ Tweets ]
 image: ./Claim-from-old-ygov/amount-in-old-ygov.jpg
 author: Dudesahn
-translator: Cryptouf
+translator:Cryptouf
 publish: true
 ---
 
