@@ -8,25 +8,25 @@ translator:
 publish: false
 ---
 
-original source: [twitter](https://twitter.com/dudesahn/status/1413567068583104512)
+ソース: [twitter](https://twitter.com/dudesahn/status/1413567068583104512)
 
 ##### 1
 
-Just checked out the old [@iearnfinance](https://twitter.com/iearnfinance) staking contracts:
+昔の[@iearnfinance](https://twitter.com/iearnfinance)のステーキングコントラクトをチェックしてみました。
 
-~30 YFI unclaimed in the original staking pools
-~8.5 YFI staked in v1 staking contract
-~764 YFI still staked in v2 staking contract with $750k in claimable yCRV 😬
+~オリジナルのステーキングプールで未クライムの約30YFI
+~v1ステーキングコントラクトでは、約8.5YFIがステークされています。
+~v2のステーキングコントラクトでは764YFIがまだステークされており、750kドルのyCRVがクライム可能😬。
 
-Almost $29m in staked LPs, YFI, and claimable rewards :point_down:
+約29mドルのステーキングされたLP、YFI、クライム可能な報酬 :point_down:
 
 ![](image1.jfif)
 
 ##### 2
 
-Unsure if you might have some funds to claim?
+自分にクライムできる資金があるかどうかわからない？
 
-Head to https://etherscan.io, and enter one of the following addresses:
+https://etherscan.io にアクセスして、次のいずれかのアドレスを入力してください。
 
 • YFI Farming Pool 1: 0x0001FB050Fe7312791bF6475b96569D83F695C9f
 • YFI Farming Pool 2: 0x033E52f513F9B98e129381c6708F9faA2DEE5db5
@@ -37,25 +37,26 @@ Head to https://etherscan.io, and enter one of the following addresses:
 • YFI Gov Staking v1: 0xb01419E74D8a2abb1bbAD82925b19c36C191A701
 • YFI Gov Staking v2: 0xBa37B002AbaFDd8E89a1995dA52740bbC013D992
 
-Under Contract, click Read Contract, and put in your address under balanceOf 👀
+コントラクトの下にある「コントラクトを読む」をクリックし、「balanceOf」の下に自分のアドレスを入れます 👀
 
 ![](image2.jfif)
 
 ##### 4
 
-If a value >0 shows up, then congrats, you have YFI and/or rewards to claim! :partying_face:
+もし、>0の値が表示されたら、おめでとうございます！あなたはYFIや報酬をクライムすることができます。:partying_face:
 
-To claim all of your staked assets and rewards, head over to Write Contract, connect your wallet, and call exit().
+ステークした資産や報酬をすべてクライムするには、Write Contractにアクセスしてウォレットを接続し、exit()を呼び出します。
 
 ![](image3.jfif)
 
 ##### 5
 
-With your fresh YFI or yCRV in hand, you can head to http://yearn.finance/vaults and deposit them into one of our vaults. Alternatively, head over to our good friends at @CreamdotFinance 🍦 and borrow against those assets, or even use @MIM_Spell 🧙‍♂️ to borrow against your new yvYFI.
+新しいYFIやyCRVを手に入れたら、http://yearn.finance/vaults にアクセスして私たちのvaultに預けることができます。また、友人である@CreamdotFinance🍦に行ってこれらの資産を借り入れたり、@MIM_Spell 🧙♂️を使って新しいyvYFIを借り入れたりすることもできます。
 
 ##### 6
 
-Also worth adding here: just because you don't have any funds still staked doesn't mean you can't claim rewards! Similar to balanceOf(), you can check for claimable rewards under Read Contract with earned(), and then claim any available under Write Contract using getReward()! 🤑
+また、次のことも付け加えておきましょう。
+ステークがないからといって、報酬をクライムできないわけではありません。balanceOf()と同様に、read Contractで請求可能な報酬をearned()で確認し、write Contractで請求可能なものはgetReward()で請求することができます! 🤑
 
 ![](image4.png) </br>
 
