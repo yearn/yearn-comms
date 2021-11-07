@@ -4,7 +4,7 @@ title:  "Yearn Finance Newsletter #42"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-42/image1.png
 author: Yearn
-translator:
+translator : Stathis
 publish: true
 ---
 
@@ -12,104 +12,104 @@ publish: true
 
 ![](image1.png)
 
-Welcome to the 42nd edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If youΓÇÖre interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Καλώς ήρθατε στην 42η έκδοση του ενημερωτικού δελτίου του Yearn Finance. Στόχος μας με αυτό το ενημερωτικό δελτίο είναι να ενημερώνουμε το Yearn και την ευρύτερη κοινότητα κρυπτονομισμάτων για τα τελευταία νέα, συμπεριλαμβανομένων των νέων προϊόντων, των αλλαγών διακυβέρνησης και των ενημερώσεων του οικοσυστήματος. Εάν ενδιαφέρεστε να μάθετε περισσότερα για το Yearn Finance, ακολουθήστε τους επίσημους λογαριασμούς μας [Twitter](https://twitter.com/iearnfinance) και [Medium](https://medium.com/iearn).
 
-## **Summary**
+## **Σύνοψη**
 
-- The Yearn Blue Pill
-- Woofy Week 11 Snapshot
-- Migrate Or Die
-- New Curve Gauge Voting Strategy
-- Check Out The Pickle Jars
-- What It Takes To Be A Strategist
-- Audits Published For Yearn V2
-- Vaults at Yearn
-- Ecosystem News
+- Το μπλε χάπι του yearn
+- Στιγμιότυπο Woofy Εβδομάδα 11
+- Μετανάστευεσε ή Πέθανε
+- Νέα Στρατηγική ψηφοφορίας του Curve Gauge
+- Ανακαλύψτε το "The Pickle Jars"
+- Τι χρειάζεται για να γίνεις Strategist
+- Έλεγχοι που δημοσιεύθηκαν για το Yearn V2
+- Θησαυροφυλάκια στο Yearn
+- Νέα Οικοσυστήματος
 
-## **The Blue Pill NFTs**
+## **Το μπλε χάπι των NFTs**
 
 ![](image2.png)
 
-To celebrate the first year of Yearn, we have collaborated once again with Project Galaxy to bring you The Blue Pill, a spiritual guide for the past, present and future of Yearn. Made by Zemm, The Blue Pill is a beautifully-typeset book available to our 13,500 most loyal supporters. This is a series of seven unique NFTs for the various farmers, stakers, voters, and givers of the Yearn community. Join us in celebrating the gift of YFI!
+Για να γιορτάσουμε τον πρώτο χρόνο του Yearn, συνεργαστήκαμε για άλλη μια φορά με το Project Galaxy για να σας φέρουμε το The Blue Pill, έναν πνευματικό οδηγό για το παρελθόν, το παρόν και το μέλλον του Yearn. Φτιαγμένο από τον Zemm, το The Blue Pill είναι ένα όμορφο βιβλίο που διατίθεται στους 13.500 πιο πιστούς υποστηρικτές μας. Αυτή είναι μια σειρά από επτά μοναδικά NFT για τους διάφορους farmers, stakers, ψηφοφόρους και δωρητές της κοινότητας Yearn. Ελάτε μαζί μας για να γιορτάσουμε το δώρο του YFI!
 
-Read more about the NFT drop on the Yearn blog [here](https://medium.com/iearn/the-blue-pill-ca44ed01f16f).
+Διαβάστε περισσότερα για το NFT στο ιστολόγιο του Yearn [εδώ](https://medium.com/iearn/the-blue-pill-ca44ed01f16f).
 
-Claim your books [here](https://galaxy.eco/yearn) and check out the full book [here](https://thebluepill.eth.link/).
+Διεκδικήστε τα βιβλία σας [εδώ](https://galaxy.eco/yearn) και δείτε ολόκληρο το βιβλίο [εδώ](https://thebluepill.eth.link/).
 
-## **Woofy Week 11 Snapshot**
+## **Στιγμιότυπο Woofy Εβδομάδα 11**
 
 ![](image3.png)
 
-New WOOFY holders can expect an NFT gift via a collaboration between Yearn and Project Galaxy. These are from a series of six unique WOOFY NFTs as shown above. These snapshots cover token holders, LPs, stakers, and vault users across multiple chains.
+Οι νέοι κάτοχοι WOOFY μπορούν να περιμένουν ένα δώρο NFT μέσω μιας συνεργασίας μεταξύ του Yearn και του Project Galaxy. Αυτά είναι από μια σειρά έξι μοναδικών WOOFY NFT όπως φαίνεται παραπάνω. Αυτά τα στιγμιότυπα καλύπτουν κατόχους tokens, LP, stakers και χρήστες θησαυροφυλάκιων σε πολλές αλυσίδες.
 
-Claim your Woofy NFTs [here](https://galaxy.eco/yearn).
+Διεκδικήστε τα Woofy NFT σας [εδώ](https://galaxy.eco/yearn).
 
-## **Migrate Or Die**
+## **Μετανάστευεσε ή Πέθανε**
 
 ![](image4.png)
 
-The v1 vaults have served everyone as a reliable source of yield for almost a year, but now the time has come to say goodbye. All old vaults have been harvested one last time and strategies have been unwinded. As a reminder, our v2 vaults entail several changes such as deploying capital across several strategies for more efficiency and better risk-adjusted yield.
+Τα θησαυροφυλάκια v1 έχουν χρησιμεύσει σε όλους ως αξιόπιστη πηγή απόδοσης για σχεδόν ένα χρόνο, αλλά τώρα ήρθε η ώρα να πούμε αντίο. Όλα τα παλιά θησαυροφυλάκια έχουν συλλεχθεί για τελευταία φορά και οι στρατηγικές έχουν σταματήσει. Υπενθυμίζουμε ότι τα θησαυροφυλάκια του v2 συνεπάγονται αρκετές αλλαγές, όπως η ανάπτυξη κεφαλαίων σε διάφορες στρατηγικές για μεγαλύτερη αποτελεσματικότητα και καλύτερη απόδοση προσαρμοσμένη στον κίνδυνο.
 
-You can migrate to v2 at any time without fees.
+Μπορείτε να κάνετε μετεγκατάσταση στο v2 ανά πάσα στιγμή χωρίς χρέωση.
 
-Check out the vaults here at [yearn.finance/vaults](https://yearn.finance/vaults).
+Δείτε τα θησαυροφυλάκια εδώ στο [yearn.finance/vaults](https://yearn.finance/vaults).
 
-## **New Curve Gauge Voting Strategy**
+## **Νέα Στρατηγική ψηφοφορίας του Curve Gauge**
 
-Thanks to the great work of the Strategists at Yearn, we have discovered the most optimal Curve Finance gauge voting strategy to generate our users the most yield. This newer strategy has enabled us to get up to 20% higher yields on our current positions utilizing veCRV.
+Χάρη στη σπουδαία δουλειά των Strategists στο Yearn, ανακαλύψαμε την πιο βέλτιστη στρατηγική ψηφοφορίας για το Curve Finance Gauge για να δημιουργήσουμε στους χρήστες μας τη μεγαλύτερη απόδοση. Αυτή η νεότερη στρατηγική μας επέτρεψε να έχουμε έως και 20% υψηλότερες αποδόσεις στις τρέχουσες θέσεις μας χρησιμοποιώντας το veCRV.
 
-As always, we are striving to bring you all the best risk-adjusted yields in DeFi, with Strategists constantly pushing code to make the Yearn experience better. Deposit capital into the yVaults and let our Strategists do the hard work.
+Όπως πάντα, προσπαθούμε να σας προσφέρουμε όλες τις καλύτερες αποδόσεις προσαρμοσμένες στον κίνδυνο στο DeFi, με τους Strategists να βελτιώνουν συνεχώς τον κώδικα για να κάνουν την εμπειρία του Yearn καλύτερη. Καταθέστε κεφάλαιο στα yVaults και αφήστε τους Strategists μας να κάνουν τη σκληρή δουλειά.
 
-Check out the vaults [here](https://yearn.finance/vaults).
+Δείτε τα θησαυροφυλάκια [εδώ](https://yearn.finance/vaults).
 
-## **Check Out The Pickle Jars**
+## **Ανακαλύψτε το "The Pickle Jars**
 
 ![](image5.png)
 
-At Pickle Finance, you can find impressive rates from 7% to 40% on your favorite yVault tokens. You can earn on Yearn FRAX, Yearn LUSD, yUSDC, and many more!
+Στο Pickle Finance, μπορείτε να βρείτε εντυπωσιακά ποσοστά από 7% έως 40% στα αγαπημένα σας yVault token. Μπορείτε να κερδίσετε σε Yearn FRAX, Yearn LUSD, yUSDC και πολλά άλλα!
 
-Pickle is one of our amazing partners who take part in our revenue sharing program in which your project can earn up to 50% of the fees Yearn generates.
+Το Pickle είναι ένας από τους καταπληκτικούς μας συνεργάτες που συμμετέχουν στο πρόγραμμα κατανομής εσόδων μας στο οποίο το έργο σας μπορεί να κερδίσει έως και το 50% των τελών που παράγει το Yearn.
 
-Check out the various farms [here](https://app.pickle.finance/farms).
+Δείτε τις διάφορες φάρμες [εδώ](https://app.pickle.finance/farms).
 
-View more details about partnerships [here](https://twitter.com/iearnfinance/status/1367508483952771075) and apply [here](https://yearnfinance.typeform.com/to/uP7xOJUN).
+Δείτε περισσότερες λεπτομέρειες για τις συνεργασίες [εδώ](https://twitter.com/iearnfinance/status/1367508483952771075) and apply [here](https://yearnfinance.typeform.com/to/uP7xOJUN).
 
-## **What It Takes To Be A Strategist**
+## **Τι χρειάζεται για να γίνεις Strategist**
 
 ![](image6.png)
 
-Over $5M has been paid to Yearn strategists in 2021. At EthCC, Facu Ameal broke down what it takes to become a mighty strategist like him. Strategies, as you may know, are the backbone to Yearn and allow you to earn the best risk-adjusted yield on your tokens.
+Πάνω από 5 εκατομμύρια δολάρια έχουν πληρωθεί στους Strategist της Yearn το 2021. Στην EthCC, ο Facu Ameal ανέλυσε ό,τι χρειάζεται για να γίνει κάποιος ένας πανίσχυρος Strategist σαν αυτόν. Οι στρατηγικές, όπως ίσως γνωρίζετε, αποτελούν τη ραχοκοκαλιά του Yearn και σας επιτρέπουν να κερδίσετε την καλύτερη προσαρμοσμένη ως προς τον κίνδυνο απόδοση των tokens σας.
 
-To summarize, Facu goes over the information about vaults and strategies, the interactions between them, and finally, the tools and procedures used to write and release strategies to the general public.
+Συνοψίζοντας, ο Facu εξετάζει τις πληροφορίες σχετικά με τα θησαυροφυλάκια και τις στρατηγικές, τις αλληλεπιδράσεις μεταξύ τους και, τέλος, τα εργαλεία και τις διαδικασίες που χρησιμοποιούνται για τη σύνταξη και την κυκλοφορία στρατηγικών στο ευρύ κοινό.
 
-Check the [video](https://www.youtube.com/watch?v=NVR3teJw0Y0), which includes an invite to YFI Boarding School
+Δείτε το [βίντεο](https://www.youtube.com/watch?v=NVR3teJw0Y0),που περιλαμβάνει πρόσκληση στο YFI Boarding School
 
-## **Audits Published For Yearn V2**
+## **Έλεγχοι που δημοσιεύθηκαν για το Yearn V2**
 
 ![](image7.png)
 
-Yearn has connected with Trail of Bits on an audit of the v2 Vault, BaseStrategy and BaseWrapper contracts. The findings of the audit were addressed in the 0.4.x series of the contracts released in May.
+Ο Yearn έχει συνδεθεί με το Trail of Bits για έλεγχο των έξυπνων συμβολαίων v2 Vault, BaseStrategy και BaseWrapper. Τα ευρήματα του ελέγχου αντιμετωπίστηκαν στη σειρά 0,4.x των συμβολαίων που κυκλοφόρησαν τον Μάιο.
 
-View the report [here](https://github.com/trailofbits/publications/blob/master/reviews/YearnV2Vaults.pdf).
+Δείτε την αναφορά [εδώ](https://github.com/trailofbits/publications/blob/master/reviews/YearnV2Vaults.pdf).
 
-## **Vaults At Yearn**
+## **Θησαυροφυλάκια στο Yearn**
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Μπορείτε να διαβάσετε μια λεπτομερή περιγραφή των στρατηγικών για όλα τα ενεργά yVault μας [εδώ](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-## **Ecosystem News**
+## **Νέα Οικοσυστήματος**
 
-[Element Finance launches their fourth asset, DAI, which relies on Yearn for fixed yield](https://twitter.com/element_fi/status/1417880198033387526)
+[Η Element Finance λανσάρει το τέταρτο περιουσιακό της στοιχείο, το DAI, το οποίο βασίζεται στο Yearn για σταθερή απόδοση](https://twitter.com/element_fi/status/1417880198033387526)
 
-[Facu Ameal details how to become a strategist at Yearn](https://youtu.be/NVR3teJw0Y0)
+[Η Facu Ameal αναλύει πώς να γίνετε Strategist στο Yearn](https://youtu.be/NVR3teJw0Y0)
 
-[BasketDAO launches a new BMI Index composed of interest-bearing USD stablecoins from Yearn vaults](https://twitter.com/BasketDAOOrg/status/1415505266221535237)
+[Η BasketDAO λανσάρει έναν νέο δείκτη BMI που αποτελείται από έντοκα σταθερά νομίσματα USD από τα θησαυροφυλάκια Yearn](https://twitter.com/BasketDAOOrg/status/1415505266221535237)
 
-[Fixed Forex by Andre Cronje leverages Iron Bank, Yearn, Sushi, and Curve to create forex liquidity and fiat ramps](https://andrecronje.medium.com/fair-launches-decentralized-collaboration-and-fixed-forex-ab327a2e4fc4)
+[Το διορθωμένο Forex από τον Andre Cronje αξιοποιεί τα Iron Bank, Yearn, Sushi και Curve για να δημιουργήσει ρευστότητα συναλλάγματος και ράμπες fiat](https://andrecronje.medium.com/fair-launches-decentralized-collaboration-and-fixed-forex-ab327a2e4fc4 )
 
-[Updates to the yearn.fi website and the new features being added to it](https://twitter.com/dudesahn/status/1417898521685078016)
+[Ενημερώσεις στον ιστότοπο yearn.fi και οι νέες δυνατότητες που προστίθενται σε αυτόν](https://twitter.com/dudesahn/status/1417898521685078016)
 
-[Watch a replay of the Fair Launch Summit, an event which featured multiple members of Yearn](https://youtu.be/1KqxvJnNRWg)
+[Παρακολουθήστε μια επανάληψη του Fair Launch Summit, μια εκδήλωση στην οποία συμμετείχαν πολλά μέλη του Yearn](https://youtu.be/1KqxvJnNRWg)
 
-[BadgerDAO continues to work on strategies leveraging Yearn](https://twitter.com/BadgerDAO/status/1420468295388520449)
+[Το BadgerDAO συνεχίζει να εργάζεται σε στρατηγικές αξιοποιώντας το Yearn](https://twitter.com/BadgerDAO/status/1420468295388520449)
 
-[Join Argent's Layer 2 waitlist for prizes including $50,000 of yvDAI](https://twitter.com/argentHQ/status/1422262937423597571)
+[Εγγραφείτε στη λίστα αναμονής του Argent's Layer 2 για βραβεία, συμπεριλαμβανομένων 50.000 $ yvDAI](https://twitter.com/argentHQ/status/1422262937423597571)
