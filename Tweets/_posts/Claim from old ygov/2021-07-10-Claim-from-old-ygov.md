@@ -15,7 +15,7 @@ Originalquelle: [twitter](https://twitter.com/dudesahn/status/141356706858310451
 Habe mir gerade die alten [@iearnfinance](https://twitter.com/iearnfinance) Stakingverträge angesehen:
 
 ~30 nicht beanspruchte YFI in den ursprünglichen Stakingpools 
-~8,5 YFI im v1-Stakingvertrag
+~8.5 YFI im v1-Stakingvertrag
 ~764 YFI noch im v2-Stakingvertrag mit $750k in beanspruchbarem yCRV 😬
 
 Fast 29 Mio. $ an eingesetzten LPs, YFI und einforderbaren Belohnungen 👇
