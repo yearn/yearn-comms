@@ -1,118 +1,119 @@
 ---
 layout: post
-title:  "Yearn Finance - Decentralised Asset Management"
+title: "Yearn Finance - Gestão de Ativos Descentralizada"
 categories: [ Articles ]
 image: ./Yearn-Finance-Decentralised-Asset-Management/seba.jpg
 author: The Digital Investor
-translator: 
+translator: jameskbh 
 publish: false
 ---
 
-## Yearn Finance – Decentralised Asset Management
+## Yearn Finance - Gestão de Ativos Descentralizada
 
-Summary
+Sumário
 
-_In this edition of Digital Investor, we cover the largest decentralised asset management protocol, Yearn Finance. We cover its fair launch, the value drivers for the token, its moat and significant protocol updates. Finally, we attempt to find a fair value for the token using DCF._
+_Nesta edição da Digital Investor, abordamos o maior protocolo de gestão descentralizada de ativos, o Yearn Finance. Cobrimos seu lançamento justo, os direcionadores de valor para o token, e atualizações significativas de protocolo. Finalmente, tentamos encontrar um valor justo para o token usando DCF._
 
-## Introduction
+## Introdução
 
-Yearn Finance is a decentralised finance (DeFi) protocol that pioneered Asset Management for passively earning yield on stable and risky assets. One can think of it as an automated asset manager allocating depositors’ funds into the best yield generating strategies for the highest returns.
+Yearn Finance é um protocolo de finanças descentralizado (DeFi) que foi o pioneiro do gerenciamento de ativos para obter rendimento passivamente, usando ativos estáveis e com algum risco. Pode-se pensar nele como um gerenciador de ativos automatizado que aloca os fundos dos depositantes nas melhores estratégias de geração de rendimento para os maiores retornos.
 
-What started as a simple yield generating product called iEarn by Andre Cronje has morphed into a financial edifice built on the bedrock of smart contracts. iEarn was a simple product that would lend assets via the highest interest generating protocol among Compound, Aave, and dYdX. However, Yearn Finance does much more than just allocating funds to different stablecoins savings accounts.
+O que começou como um produto simples de geração de rendimento chamado iEarn, criado por Andre Cronje, e que se transformou em um edifício financeiro construído sobre uma base de contratos inteligentes. iEarn era um produto simples que emprestava ativos para o protocolo que gerasse maior rendimento entre Compound, Aave e dYdX. No entanto, a Yearn Finance faz muito mais do que apenas alocar fundos para diferentes contas de poupança que usam stablecoins.
 
-Yearn Finance offers a wide range of products, the most relevant being vaults. Vaults are dynamic strategy aggregators that allocate funds to various strategies providing the best yield for the depositors in their asset of choice (instead of just stablecoin), allowing users to earn a yield while maintaining exposure to their preferred asset.
+Yearn Finance oferece uma vasta gama de produtos, sendo os mais relevantes os seus vaults. Os vaults são agregadores dinâmicos de estratégias que alocam fundos para as que proporcionam o melhor rendimento para os depositantes em seu ativo de escolha (em vez de apenas stablecoin), permitindo que os usuários ganhem um rendimento enquanto mantêm a exposição ao seu ativo preferido.
 
-### Background
+### Contexto
 
-Yearn launched its governance token YFI in mid-July 2020 and is touted as one of the fairest token distributions in the space. YFI tokens were awarded to liquidity providers of specific Curve and Balancer pools who had staked their liquidity in the protocol. In the beginning, only 30,000 YFI were minted and fully distributed to all the stakers. The community approved Proposal 0, which allowed minting more YFI to create ongoing incentives for liquidity providers, developers and contributors.
+Yearn lançou seu token de governança YFI em meados de julho de 2020 e é apontado como uma das distribuições de token mais justas do espaço. Os tokens YFI foram atribuídos a fornecedores de liquidez de pools Curve e Balancer específicos, que fizeram stake de sua liquidez no protocolo. No início, apenas 30.000 YFI foram cunhados e totalmente distribuídos para todos os stakers. A comunidade aprovou a Proposta 0, que permitiu cunhar mais YFI para criar incentivos contínuos para provedores de liquidez, desenvolvedores e colaboradores.
 
-With limited supply and high usage, YFI price skyrocketed from USD 32 to a high of approximately USD 43,000 within a couple of months of launch despite the founder’s assertion that it has zero financial value. However, we believe that the [governance token](https://www.seba.swiss/research/governance-tokens-coordinating-the-human-element/), YFI, must have significant value for the platform to function well as the token holders decide the outcome for the depositors. At the time of writing, Yearn Finance has USD 3.8 billion of value locked, of which approximately [78% is locked](https://yearn.science/) in the vaults.
+Com fornecimento limitado e alto uso, o preço da YFI disparou de US$ 32 para uma alta de aproximadamente US $ 43.000 em alguns meses após o lançamento, apesar da afirmação do fundador de que ele tem valor financeiro zero. No entanto, acreditamos que o [token de governança](https://www.seba.swiss/research/governance-tokens-coordinating-the-human-element/), YFI, deve ter um valor significativo para a plataforma funcionar bem, pois os detentores de tokens decidem o resultado para os depositantes. No momento em que este artigo foi escrito, a Yearn Finance tinha US$ 3,8 bilhões de valor sob gestão, dos quais aproximadamente [78% está investido](https://yearn.science/) nos vaults.
 
-### Why should YFI have a non-zero value?
+### Por que YFI deveria ter um valor diferente de zero?
 
-Not all governance tokens are the same. YFI allows holders to vote on strategies for different vaults, change the fee structure, mint new coins and distribute rewards to contributors. Token holders also control the protocol treasury of about USD 0.6 bn. A non-zero price means that those who take governance decisions have something to lose in case a bad decision is taken. Consequently, token holders are incentivised to take good decisions that increase the attractiveness of strategies and increase AuM and protocol revenue.
+Nem todos os tokens de governança são iguais. A YFI permite que os titulares votem em estratégias para diferentes vaults, alterem a estrutura de taxas, cunhem novas moedas e distribuam recompensas aos colaboradores. Os detentores de token também controlam a tesouraria do protocolo, de valor de cerca de US$ 0,6 bilhão. Um preço diferente de zero significa que aqueles que tomam decisões de governança têm algo a perder no caso de uma má decisão ser tomada. Consequentemente, os detentores de tokens são incentivados a tomar boas decisões que aumentam a atratividade das estratégias e aumentam a receita do AuM e do protocolo.
 
-## Yearn’s defensibility
+## Defensibilidade de Yearn
 
-Open source projects can be forked. What is Yearn’s defensibility in this case? One of the primary moats for Yearn is that it shares the spoils with the strategy writers. As per the YIP-52 (Yearn Improvement Proposal), Yearn made vault strategists equal partners in the strategy. Yearn vaults charge a 2% annual maintenance fee and a 20% performance fee from the depositors. Before YIP-52, the strategist earned only 0.5% from the performance fee, 19.5% went to the protocol treasury. After YIP-52 got approved, the profit is split equally between strategist and treasury. If the vault is sizeable, a good strategy can fetch substantial gains for its writer. Yearn has the highest AuM of any decentralised asset manager and, there- fore, provides the highest incentive for the best strategy writers to share their strategy with it alone. This creates a virtuous cycle of better returns, higher AuM and better strategists.
+Projetos de código aberto podem ser copiados. Qual é a defensibilidade de Yearn neste caso? Um dos principais obstáculos para Yearn é que ele seus lucros com os criadores das estratégias. De acordo com o YIP-52 (Proposta de Melhoria de Yearn), Yearn tornou os estrategistas de vaults parceiros iguais na estratégia. Os vaults Yearn cobram uma taxa de manutenção anual de 2% e uma taxa de desempenho de 20% dos depositantes. Antes do YIP-52, o estrategista ganhava apenas 0,5% da taxa de performance, 19,5% iam para a tesouraria do protocolo. Depois que o YIP-52 foi aprovado, o lucro é dividido igualmente entre o estrategista e a tesouraria. Se o vault for grande, uma boa estratégia pode trazer ganhos substanciais para seu criador. Yearn tem o maior AuM de qualquer gestor de ativos descentralizado e, portanto, fornece o maior incentivo para que os melhores criadores de estratégia compartilhem sua estratégia apenas com ele. Isso cria um ciclo virtuoso de melhores retornos, maior AuM e melhores estrategistas.
 
-Secondly, though ironic, trust is an essential aspect of increasing network effects. As has been seen in some Binance Smart Chain forks of Ethereum projects, hacks and exploits are more likely if the team has forked the project and does not understand it deeply. Yearn’s team is a pioneer in the space and has shown that they can adapt to a changing environment. When yields fell, they changed vaults’ strategies to increase it. When new strategies were not being developed, the governance took a call to increase strategists’ rewards. Adaptability points towards the team’s ability to deliver over the long-term while forks may have a shorter life.
+Em segundo lugar, embora irônico, a confiança é um aspecto essencial para aumentar os efeitos de rede. Como foi visto em alguns projetos copiados na Binance Smart Chain de projetos de Ethereum, hacks e exploits são mais prováveis se a equipe tiver feito o fork do projeto e não o compreender profundamente. A equipe de Yearn é pioneira no espaço e mostrou que pode se adaptar a um ambiente em mudança. Quando os rendimentos caíram, eles mudaram as estratégias dos vaults para aumentá-los. Quando novas estratégias não estavam sendo desenvolvidas, a governança recebeu uma chamada para aumentar as recompensas dos estrategistas. A adaptabilidade aponta para a capacidade da equipe de entregar a longo prazo, enquanto as cópias podem ter uma vida útil mais curta.
 
-### But is yield a constant feature of Yearn?
+### Mas o rendimento é uma característica constante do Yearn?
 
-An obvious question is whether yields within cryptoassets are constant. Thankfully, traditional finance has not set the bar too high, with close to 0 per cent interest rates in the developed world. We think that yields within the cryptoasset ecosystem will follow cycles. Higher yield attracts more users, which then increases the fees. Higher fees discourage small investors, and thus, the yield [falls](https://www.seba.swiss/research/yearn-finance-decentralised-asset-management/#1)[^1]. As smaller investors stop interacting with the blockchain, the fees drop. The next cycle of price rise combined with lower fees again encourages smaller investors to participate, and the cycle repeats. Our [previous Digital Investor](https://www.seba.swiss/research/defi-investment-strategies-a-performance-review) explains this hypothesis.
+Uma questão óbvia é se os rendimentos dentro dos criptoativos são constantes. Felizmente, as finanças tradicionais não estabeleceram um padrão muito alto, com taxas de juros próximas a 0% no mundo desenvolvido. Acreditamos que os rendimentos dentro do ecossistema de criptoativos seguirão ciclos. Maior rendimento atrai mais usuários, o que aumenta as taxas. Taxas mais altas desestimulam os pequenos investidores e, portanto, o rendimento [cai](https://www.seba.swiss/research/yearn-finance-decentralised-asset-management/#1)[^1]. Conforme os investidores menores param de interagir com o blockchain, as taxas caem. O próximo ciclo de aumento de preços, combinado com taxas mais baixas, novamente incentiva os investidores menores a participarem, e o ciclo se repete. Nosso [Digital Investor anterior](https://www.seba.swiss/research/defi-investment-strategies-a-performance-review) explica essa hipótese.
 
-Though the prices of DeFi tokens took a hit in the recent crypto crash, the number of tokens locked in various DeFi protocols was almost constant. More and more bitcoins and stable- coins want to be on the Ethereum blockchain in search of yield. We believe DeFi has a long way to go still.
+Embora os preços dos tokens DeFi tenham sofrido um golpe na recente queda de preço dos criptoativos, o número de tokens investidos em vários protocolos DeFi se manteve quase constante. Mais e mais bitcoins e stablecoins querem estar no blockchain Ethereum em busca de rendimento. Acreditamos que o DeFi ainda tem um longo caminho a percorrer.
 
-## Investment thesis
+## Tese de Investimento
 
-### Bottom-up
+### De baixo para cima
 
-The rise of DeFi allows holders to benefit not only from price increases but also from earning passive income on various assets. Yearn facilitates the latter. Though holders can independently earn this yield without Yearn, the protocol offers a few benefits. Firstly, it is safer than the average holder moving their own funds around. DeFi is a wild west, even those who understand technical aspects have been victims of hacks and exploits. An average user cannot possibly audit smart contracts and deploy funds in a dynamic environment. Yearn’s team is vastly experienced and understands the pitfalls better than its users, and therefore is in a position to provide better risk-adjusted returns. Secondly, we know gas prices can be very high. Small investors (&lt;USD 10,000) are priced out and cannot keep up with the yield farming activity. Yearn provides the option to pool the funds and thus subsidise gas costs.
+O crescimento do DeFi permite que os detentores de tokens se beneficiem não apenas dos aumentos de preços, mas também de obter renda passiva em vários ativos. Yearn facilita o último. Embora os detentores dos tokens possam obter esse rendimento de forma independente sem Yearn, o protocolo oferece alguns benefícios. Em primeiro lugar, é mais seguro do que o usuário comum movimentando seus próprios fundos. DeFi é um oeste selvagem, mesmo aqueles que entendem os aspectos técnicos foram vítimas de hacks e exploits. Um usuário comum não pode auditar contratos inteligentes e implantar fundos em um ambiente dinâmico. A equipe de Yearn tem vasta experiência e entende as armadilhas melhor do que seus usuários e, portanto, está em posição de fornecer melhores retornos ajustados ao risco. Em segundo lugar, sabemos que os preços do gás podem ser muito altos. Os pequenos investidores (<US$ 10.000) estão fora do mercado e não podem acompanhar a atividade de yield farming. Yearn oferece a opção de reunir os fundos e, assim, subsidiar os custos do gás.
 
-YFI benefits directly from the platform’s earnings. The protocol charges 2% management fees and 20% performance fee. The entire management fees and 50% of the performance fees accrues to the treasury that is controlled by the token holders. Net of expenses, protocol earnings are used to buy back YFI from the open market (see YIP-56 below). With a limited number of YFI, growing TVL, and constant buy pressure from the treasury, the tokenomics are likely to act as a strong driver for the price.
+YFI se beneficia diretamente dos ganhos da plataforma. O protocolo cobra 2% de taxas de gerenciamento e 20% de taxa de desempenho. Todas as taxas de administração e 50% das taxas de desempenho são revertidas para a tesouraria, que é controlada pelos detentores dos tokens. Líquidos de despesas, os ganhos do protocolo são usados para comprar de volta YFI do mercado aberto (ver YIP-56 abaixo). Com um número limitado de YFI, TVL crescente e pressão de compra constante da tesouraria, o modelo econômico do token provavelmente atuará como um forte impulsionador do preço.
 
-### Top-down – the macro-environment craves for a product like Yearn Finance
+### De cima para baixo - o macroambiente anseia por um produto como o Yearn Finance
 
-Most of the developed world is ageing. Baby [boomers](https://www.seba.swiss/research/yearn-finance-decentralised-asset-management/#2)[^2]will retire in the next few years, and pensions will become an essential aspect of their lives. Unlike the generation before baby boomers, the current conditions for retirement are different. Firstly, as life expectancy has increased, retirees at 60 will likely live for 25 more years, relying heavily on their pensions. Secondly, when the previous generation retired, the interest rates were around 18%, favouring savers. Currently, the interest rates are near 0, which does not incentivise saving. The combination of a large population hitting the retirement and near-zero interest rates is a poor combination. Most of the developed world is facing (or will face) this problem.
+A maior parte do mundo desenvolvido está envelhecendo. Os baby [boomers](https://www.seba.swiss/research/yearn-finance-decentralised-asset-management/#2)[^2] irão se aposentar nos próximos anos, e as pensões se tornarão um aspecto essencial da vida deles. Ao contrário da geração anterior aos baby boomers, as condições atuais para a aposentadoria são diferentes. Em primeiro lugar, com o aumento da expectativa de vida, os aposentados aos 60 anos provavelmente viverão mais 25 anos, dependendo fortemente de suas pensões. Em segundo lugar, quando a geração anterior se aposentou, as taxas de juros estavam em torno de 18%, favorecendo os poupadores. Atualmente, as taxas de juros estão próximas de 0, o que não incentiva a poupança. A combinação de uma grande população atingindo a aposentadoria e taxas de juros próximas a zero é uma combinação ruim. A maior parte do mundo desenvolvido está enfrentando (ou enfrentará) esse problema.
 
-Bitcoin has been the flag bearer of the cryptoasset industry. However, 2020 has proven that stablecoins are also one of the exciting aspects of the digital asset revolution. With stablecoins comes the opportunity of earning a yield on dollars. It is an exciting opportunity not only for crypto natives but also for sophisticated funds where the mandate would be to make about 6-8% annual returns on some part of their portfolio. Pension funds currently hold about [USD 32 trillion](https://www.oecd.org/pensions/Pension-Funds-in-Figures-2020.pdf) (the US alone holds about USD 18.8 trillion) in assets. We live in a world where the total negative-yielding debt has surpassed [USD 17 trillion](https://www.ft.com/content/378acc52-b1a5-4d58-8a87-8ea052b2c610), and public companies such as Microstrategy and Tesla are choosing bitcoin as a reserve asset.
+Bitcoin tem sido o porta-bandeira da indústria de criptoativos. No entanto, 2020 provou que stablecoins também são um dos aspectos interessantes da revolução dos ativos digitais. Com stablecoins, surge a oportunidade de lucrar em dólares. É uma oportunidade empolgante não apenas para cripto nativos, mas também para fundos sofisticados, onde o objetivo seria obter retornos anuais de cerca de 6 a 8% em alguma parte de seu portfólio. Os fundos de pensão detêm atualmente cerca de [US$ 32 trilhões](https://www.oecd.org/pensions/Pension-Funds-in-Figures-2020.pdf) (só os EUA detêm cerca de US $ 18,8 trilhões) em ativos. Vivemos em um mundo onde o total da dívida com rendimento negativo ultrapassou [US$ 17 trilhões](https://www.ft.com/content/378acc52-b1a5-4d58-8a87-8ea052b2c610) e empresas públicas como a Microstrategy e a Tesla estão escolhendo o bitcoin como um ativo de reserva.
 
-While it may be too early for pension funds, more adventurous funds and individuals might be tempted to test platforms built on Ethereum to escape from their negative yield environments. As traditional finance and decentralised finance integrate more, Yearn Finance will be well-positioned to claim a significant share of the capital as the leader in the decentralised asset management space.
+Embora possa ser muito cedo para fundos de pensão, fundos e indivíduos mais aventureiros podem ser tentados a testar plataformas construídas em Ethereum para escapar de seus ambientes de rendimento negativo. À medida que as finanças tradicionais e as finanças descentralizadas se integram mais, a Yearn Finance estará bem posicionada para reivindicar uma parte significativa do capital, como líder no espaço de gerenciamento de ativos descentralizado.
 
-## Governance and significant protocol changes
+## Governança e mudanças significativas de protocolo
 
-Yearn Finance is one of the most active protocols as far as governance is concerned. In general, proposals are first discussed on the governance forum, and then they go for on-chain voting in the form of YIP (Yearn Improvement Proposal). Yearn is also the first DeFi protocol to provide [quarterly earning’s report](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q1-yearn-quarterly-report.pdf) regularly. We think this should become the norm in the DeFi space.
+Yearn Finance é um dos protocolos mais ativos no que diz respeito à governança. Em geral, as propostas são discutidas primeiro no fórum de governança e, em seguida, passam para votação em cadeia na forma de YIP (Proposta de Melhoria Yearn). Yearn também é o primeiro protocolo DeFi a fornecer [relatório de ganhos trimestrais](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q1-yearn-quarterly-report.pdf) regularmente. Achamos que isso deve se tornar a norma no espaço DeFi.
 
-### Change in YFI supply (Proposal 0 and YIP-57)
+### Mudança no fornecimento YFI (Proposta 0 e YIP-57)
 
-The first-ever proposal was to change the YFI supply. YFI had started with one of the fairest launches, and the community decided to mint more tokens later. Recently, as per [YIP-57](https://gov.yearn.finance/t/yip-57-funding-yearns-future/9319), 6,666 new YFI tokens were minted to support protocol development. It allowed Yearn to extend vesting packages (2,222 YFI) to developers to align incentives. The rest of the tokens are with the treasury to use for protocol growth.
+A primeira proposta era mudar o fornecimento do YFI. A YFI começou com um dos lançamentos mais justos e a comunidade decidiu cunhar mais tokens depois. Recentemente, de acordo com [YIP-57](https://gov.yearn.finance/t/yip-57-funding-yearns-future/9319), 6.666 novos tokens YFI foram cunhados para oferecer suporte ao desenvolvimento de protocolo. Isso permitiu que Yearn estendesse os pacotes de incentivos (2.222 YFI) aos desenvolvedores, para alinhar os interesses. O restante dos tokens está com a tesouraria, para uso no crescimento do protocolo.
 
-### Change vault fee structure (YIP-51)
+### Alterar estrutura de taxa do vault (YIP-51)
 
-Yearn V1 vaults had a different fee structure where every withdrawal was charged. [YIP-51](https://gov.yearn.finance/t/yip-51-set-vault-v2-fee-structure/7752) changed the fee structure to a 2/20 model, where the protocol charges a 2% maintenance fee and a 20% performance fee.
+Os cofres Yearn V1 tinham uma estrutura de taxas diferente, onde cada retirada era cobrada. [YIP-51](https://gov.yearn.finance/t/yip-51-set-vault-v2-fee-structure/7752) mudou a estrutura de taxas para um modelo 2/20, onde o protocolo cobra um 2% de taxa de manutenção e 20% de taxa de desempenho.
 
-### Make strategist skin in the game partner (YIP-52)
+### Faça o estrategista um parceiro de jogo (YIP-52)
 
-Out of the 20% performance fee, 19.5% went to the treasury, while 0.5% was allocated to the vault strategist. Governance approval of [YIP-52](https://gov.yearn.finance/t/yip-52-make-strategist-skin-in-game-partner-for-make-benefit-of-glorious-brain-of-yearn/7856) made strategist an equal partner in performance. The rationale for this change was simple, yearn’s defensibility relies on strategists exploiting best of yield opportunities. And the protocol needs to incentivise the best of the strategists to do the same.
+Da taxa de desempenho de 20%, 19,5% iam para a tesouraria, enquanto 0,5% era alocado para o estrategista dos vaults. Aprovação da governança do [YIP-52](https://gov.yearn.finance/t/yip-52-make-strategist-skin-in-game-partner-for-make-benefit-of-glorious-brain-of-yearn/7856) tornou o estrategista um parceiro igual no desempenho. A justificativa para essa mudança era simples, a defensibilidade de yearn depende de estrategistas que exploram as melhores oportunidades de rendimento. E o protocolo precisa incentivar o melhor dos estrategistas a fazer o mesmo.
 
-### Buyback and build (YIP-56)
+### Recompra e construção (YIP-56)
 
-When YFI started, YFI holders had to stake YFI into the governance vault to claim a stake of protocol income. With [YIP-56](https://gov.yearn.finance/t/yip-56-buyback-and-build/8929) in effect, the governance vault was retired, and the protocol started distributing profits by buying back YFI from the market. It simplified staking and governance and spread the rewards across token holders. The YIP also made gains more tax-efficient as capital appreciation through buybacks could be taxed less than dividend income through staking rewards. Another by-product of this improvement was making YFI more efficient as holders can vote while putting YFI to use. For example, users can put YFI as collateral to mint DAI in Maker and earn interest on DAI using other DeFi protocols.
+Quando YFI começou, os titulares da YFI tiveram que depositar o YFI no vault de governança para reivindicar uma participação na receita do protocolo. Com o [YIP-56](https://gov.yearn.finance/t/yip-56-buyback-and-build/8929) em vigor, o vault de governança foi aposentado e o protocolo começou a distribuir lucros ao recomprar YFI no mercado. Isso simplificou o staking e a governança e distribuiu as recompensas entre os detentores de tokens. O YIP também tornou os ganhos mais eficientes em termos fiscais, uma vez que a valorização do capital por meio de recompras poderia ser tributada menos do que a receita de dividendos por meio de recompensas de staking. Outro subproduto dessa melhoria foi tornar o YFI mais eficiente, pois os titulares podem votar enquanto colocam o YFI em uso. Por exemplo, os usuários podem colocar YFI como garantia para emitir DAI no Maker e ganhar juros sobre DAI usando outros protocolos DeFi.
 
-## Valuation
+## Avaliação
 
-Cumulatively, Yearn has generated more than USD 8 million in rewards since August 2020, out of which close to USD 5 million earned until April 2021, where April alone amounted to USD 2.7 million.
+Cumulativamente, Yearn gerou mais de US$ 8 milhões em recompensas desde agosto de 2020, dos quais cerca de US$ 5 milhões ganhos até abril de 2021, quando apenas abril totalizou US$ 2,7 milhões.
 
-Valuing Yearn Finance is a tedious task. Yearn works with several other protocols, whether in the form of tie-ups or just using them. Some noteworthy mentions are Curve, Sushiswap, Cream, and Badger. The composability makes it difficult to project how the growth may pan out.
+Avaliar Yearn Finance é uma tarefa complexa. Yearn trabalha com vários outros protocolos, seja na forma de parcerias ou simplesmente usando-os. Algumas menções dignas de nota são Curve, Sushiswap, Cream e Badger. A composibilidade torna difícil projetar como o crescimento pode acontecer.
 
-We assume three scenarios – bullish, base-case, and conservative. Scenarios use different growth and income per unit dollar spent assumptions. For the bullish scenario, income/ expense is 2x while the same for base-case and conservative scenario 1.5x and 1.2x, respectively.
+Assumimos três cenários - otimista, caso-base e conservador. Os cenários usam diferentes pressupostos de crescimento e receita por dólar unitário gasto. Para o cenário otimista, a receita/despesa é 2x, enquanto o mesmo para o cenário-base e o cenário conservador 1,5x e 1,2x, respectivamente.
 
-Using a discounting rate of 25%, terminal growth rate of 5%, and giving equal weight to all three scenarios, we arrive at a fair value of USD ~75,000 per YFI.
+Usando uma taxa de desconto de 25%, taxa de crescimento terminal de 5%, e dando peso igual a todos os três cenários, chegamos a um valor justo de USD ~ 75.000 por YFI.
 
-### Figure 1: Bullish scenario
+### Figura 1: Cenário otimista
 
 ![alt_text](image1.png "image_tooltip")
 
-### Figure 2: Base Case Scenario
+### Figura 2: Cenário do Caso-Base
 
 ![alt_text](image2.png "image_tooltip")
 
-### Figure 3: Conservative Scenario
+### Figura 3: Cenário Conservador
 
 ![alt_text](image3.png "image_tooltip")
 
-## Risks
+## Riscos
 
-Just as all other DeFi protocols, Yearn is vulnerable to smart contract risk. Idiosyncratic risk to Yearn is yield dying out and staying low for a long time. Low yield means no incentives for investors to lock up funds in Yearn. Low yield could typically be a bear market phenomenon. How the Yearn team tackles long periods of low yields remains to be seen. Despite the recent drawdown in prices and muted sentiment, Yearn continues to offer lucrative yields on stablecoins and curve related products.
+Assim como todos os outros protocolos DeFi, Yearn é vulnerável ao risco de contrato inteligente. O risco idiossincrático para Yearn é o rendimento ir caindo e permanecer baixo por um longo tempo. O baixo rendimento significa que não há incentivos para os investidores bloquearem fundos em Yearn. O baixo rendimento normalmente pode ser um fenômeno de mercado de baixa. Ainda não se sabe como a equipe Yearn lida com longos períodos de baixo rendimento. Apesar da recente queda nos preços e do sentimento silencioso, Yearn continua a oferecer rendimentos lucrativos em moedas estáveis e produtos relacionados ao protocolo Curve.
 
-## Conclusion
+## Conclusão
 
-Despite Yearn finance being an open-source protocol where strategies can be copied, we think Yearn has a unique proposition – passively rotate funds to earn high risk-adjusted returns through well-incentivised strategists. We think Yearn Finance’s experienced team and its strong community is its moat. It has the highest TVL among the decentralised asset managers and, with equal profit sharing, is in the best position to attract smart alpha generators. Its ability to retain strategists should give passive investors the confidence that the platform will continue to find consistent alpha for them.
+Apesar do Yearn finance ser um protocolo de código aberto onde as estratégias podem ser copiadas, acreditamos que o Yearn tem uma proposta única - alternar fundos passivamente para obter retornos ajustados ao risco elevado por meio de estrategistas bem incentivados. Acreditamos que a equipe experiente da Yearn Finance e sua forte comunidade são o seu ponto forte. Possui o maior TVL entre os gestores de ativos descentralizados e, com igual participação nos lucros, está na melhor posição para atrair geradores de alfa inteligentes. Sua capacidade de reter estrategistas deve dar aos investidores passivos a confiança de que a plataforma continuará a encontrar um alfa consistente para eles.
 
-<!-- Footnotes themselves at the bottom. -->
+<!--Notas de rodapé próprias na parte inferior.-->
 
-## Notes
+## Notas
 
-[^1]: One of the most important things to understand here is the origin of the yield. Traditionally, people borrow money and create more value than the borrowed amount to pay the interest. In DeFi, yield is generated by investors believing their risky asset will outperform the interest cost of borrowing stable coins. The other source of yield is protocol issuance, where protocols distribute governance tokens to active users and contributors of the protocol.
-[^2]: Those born between 1946 and 1964
+[^1]: Uma das coisas mais importantes para entender aqui é a origem do rendimento. Tradicionalmente, as pessoas pedem dinheiro emprestado e criam mais valor do que o montante emprestado para pagar os juros. No DeFi, o rendimento é gerado por investidores que acreditam que seu ativo de risco terá um desempenho superior ao custo de juros do empréstimo de moedas estáveis. A outra fonte de rendimento é a emissão de protocolo, onde os protocolos distribuem tokens de governança para usuários ativos e colaboradores do protocolo.
+[^2]: Os nascidos entre 1946 e 1964
+
