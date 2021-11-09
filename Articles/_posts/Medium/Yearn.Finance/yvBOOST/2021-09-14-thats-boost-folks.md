@@ -1,98 +1,98 @@
 ---
 layout: post
-title:  "More boosts, compounding, and mojitos for you with yvBOOST"
+title:  "yvBOOST为您提供更多boost、复利和Mojito"
 categories: [ Articles ]
 image: ./thats-boost-folks/image4.png
 author: Qosmonot
-translator: 
-published: false
+translator: Bee926
+published: true
 ---
 
-# More boosts, compounding, and mojitos for you with yvBOOST
+# yvBOOST为您提供更多boost、复利和Mojito
 
-### Yearn’s collaborative relationship with [Curve.fi](http://curve.fi/) is core to our infrastructure, and core to you boosting your boosts.
+### Yearn与[Curve.fi](http://curve.fi/)的合作关系是我们基础设施的核心，也是提高您收益的核心。
 
 🔵🤝🌈
 
-_post written by Yearn contributor_ [_qosmonot_](http://twitter.com/qosmonot)
+_由Yearn贡献者_ [_qosmonot_](http://twitter.com/qosmonot)撰写的帖子
 
-Many Yearn vaults have strategies built on Curve pools and therefore use CRV token to optimize them by voting to direct reward allocations towards those pools. Yearn has been steadily growing its stack of CRV tokens to provide increasing rewards for those vaults.
+许多Yearn机枪池都有建立在Curve池上的策略，因此Yearn使用CRV代币通过投票将奖励直接分配给这些池来优化它们。Yearn一直在稳步增加其CRV代币堆栈，为这些机枪池提供越来越多的奖励。
 
 ![](image1.png)
 
-Anyone can benefit from this by choosing to stake their CRV tokens through Yearn. Let us walk you through what Yearn can offer you and how you too can grow your CRV holdings with a boost!
+任何人都可以选择通过Yearn质押他们的CRV代币而从中受益。让我们带您了解Yearn可以为您提供的服务，以及您可以如何快速增加CRV持有量!
 
-## What is CRV?
+## CRV是什么?
 
-CRV is the governance and utility token for CurveDAO, the decentralized organization running the [Curve.fi](http://curve.fi/) protocol. The CRV token’s main purpose is to incentivize liquidity providers on the [Curve.fi](http://curve.fi/) platform as well as getting as many users as possible involved in the protocol’s governance. The CRV token has three main uses: voting, staking, and boosting. Those three things require the users to “vote lock” their CRV in exchange for veCRV. veCRV stands for vote-escrowed CRV, and simply represents CRV locked for a period of time (anywhere from 1 week to 4 years).
+CRV是CurveDAO的治理和功能代币，CurveDAO是运行[Curve.fi](http://curve.fi/)协议的去中心化组织。CRV代币的主要目的是激励[Curve.fi](http://curve.fi/)平台上的流动性提供者，以及让尽可能多的用户参与协议的治理。CRV代币有三种主要用途：投票、质押和boost。这三件事将要求用户“投票锁定”他们的CRV以换取veCRV。veCRV代表投票托管的CRV，简单说就是代表锁仓一段时间的CRV（从 1 周到 4 年不等）。
 
-### Staking
+### 质押
 
-veCRV (staked CRV), receives a share of trading fees from the Curve protocol (50% of all trading fees generated). Those fees are collected and used to buy 3CRV, the LP token for the TriPool (DAI+USDC+USDT), which are then distributed to veCRV holders.
+veCRV（质押CRV）从Curve协议中收取一部分交易费用（产生的所有交易费用的 50%）。这些费用被收取并用于购买3CRV，即 TriPool (DAI+USDC+USDT) 的LP代币，然后将其分发给veCRV持有者。
 
-### Boosting
+### Boost
 
-Beyond staking, another major incentive for CRV is the ability to boost your rewards on provided liquidity. Vote locking CRV allows you to acquire voting power to participate in the DAO and direct CRV reward allocations towards selected pools, earning a boost of up to 2.5x on the liquidity you are providing.
+除了质押之外，CRV还能够提高您提供流动性获得的奖励。投票锁定的CRV允许您获得投票权以参与DAO并将CRV奖励分配给选定的池子，从而使您提供流动性的奖励提高2.5倍。
 
-### Voting
+### 投票
 
-Once CRV holders vote-lock their CRV, changing it into veCRV, they can then vote on various DAO proposals and pool parameter changes which are proposed, or propose their own changes.
+一旦CRV持有者投票锁定他们的CRV，将其更改为veCRV，他们就可以对提出的各种DAO提案和池参数更改进行投票，或者提出自己的更改提案。
 
-It is worth noting that native veCRV cannot be transferred, and the only way to obtain it is by vote-locking CRV.
+值得注意的是，原生veCRV无法转让，获得它的唯一途径是投票锁定CRV。
 
-You can stake CRV on [Curve.fi](http://curve.fi/) and actively manage your boosts for Liquidity Pools yourself, or you can let Yearn take care of CRV staking for you with our dedicated vaults: yveCRV, and yvBOOST. Also our yVault tokens are tradeable and transferable unlike staking CRV at [Curve.fi](http://curve.fi/).
+您可以在[Curve.fi](http://curve.fi/)上质押CRV 并自己主动管理流动性池的boost，或者您可以使用Yearn的专用机枪池为您处理CRV质押：yveCRV和yvBOOST。此外，与[Curve.fi](http://curve.fi/)上的CRV质押不同，我们的yVault代币是可交易和可转让的。
 
-## The yveCRV yVault
+## yveCRV yVault
 
 ![](image2.png)
 
-### Earn CRV with a better boost
+### 以更好的方式赚取CRV
 
-When a user deposits CRV into the vault, that CRV is locked on the [Curve.fi](http://curve.fi/) platform as veCRV and the user is returned a tokenized version of veCRV, yveCRV. This vault earns you a continuous share of Curve’s trading fees. Every week, these rewards can be claimed as 3Crv (Curve’s 3pool LP token).
+当用户将CRV存入机枪池时，该CRV将作为veCRV锁定在[Curve.fi](http://curve.fi/)平台上，并且用户将拿回一个代币化版本的veCRV，即yveCRV。这个机枪池为您持续赚取Curve的交易手续费。每周，这些奖励都可以以3Crv（Curve的3pool LP代币）的形式领取。
 
-You could do this yourself directly on the [Curve.fi](http://curve.fi/), but there is a very good reason one would prefer to use the yveCRV yVault: **more rewards!**
+您可以直接在[Curve.fi](http://curve.fi/)上自己执行此操作，但有一个很好的理由让大家更喜欢使用yveCRV yVault: **更多奖励!**
 
-How much more? Your rewards through this vault can be more than double! Yearn achieves this because it periodically donates 10% of the farmed CRV it earns through all [Curve.fi](http://curve.fi/) based strategies to this yveCRV vault and allows yveCRV vault depositors to claim Yearn’s share of Curve protocol fees. This means we give all of Yearn’s rewards, which we could have claimed for the protocol, to yveCRV depositors, boosting their weekly rewards.
+多多少呢？您通过此机枪池获得的奖励可能会增加一倍以上! Yearn能够做到这一点，因为它定期将通过所有基于[Curve.fi](http://curve.fi/)的策略获得的CRV奖励的10%捐赠给yveCRV这个机枪池，并允许yveCRV存款人领取Yearn的Curve交易手续费收入份额。这意味着我们将本属于Yearn协议的收益提供给了yveCRV存款人，从而提高他们每周的奖励。
 
-Locking your CRV tokens into the vault means that you delegate your [Curve.fi](http://curve.fi/) voting power to yearn. Yearn constantly runs simulations to optimize its voting allocations which maximizes yield across all vaults, benefiting your deposits in other vaults!
+将您的CRV代币锁定在Yearn机枪池中意味着您将您的[Curve.fi](http://curve.fi/)投票权委托给Yearn。Yearn通过不断运行模拟以优化其投票分配，从而最大程度地提高所有机枪池的收益，也使您享受其他机枪池受益!
 
-**You can now claim your rewards and spend that money on mojitos while you enjoy retirement.** Though, another option you might want instead is to add your rewards back into the vault to compound your gains and you can even find a “Restake” button to do just that. You could very well do this manually, but Yearn has you covered here with …
+**您现在可以领取奖励，享受退休生活了。** 不过，或许您想要的是另一种选择，将您的奖励重新复投到机枪池中以增加收益。点击“restake”就可以做到这一点，也许您可以很好地手动执行此操作，但是Yearn已为您提供了…
 
-## The yvBOOST yVault
+## yvBOOST yVault
 
 ![](image3.png)
 
-### Earn boosted CRV with compounding
+### 通过复利赚取更高的CRV
 
-The yvBOOST yVault is a fully automated and compounding version of the yveCRV yVault explained above.
+yvBOOST yVault是上述yveCRV yVault的全自动复合版本。
 
-To put it simply, this vault claims your weekly 3CRV rewards automatically and uses them to acquire more yveCRV (either via market-buy or mint, depending on which is most efficient at time of harvest).
+简而言之，这个机枪池会自动领取您每周的3CRV奖励，并使用它们来获得更多yveCRV（通过市场购买或铸造，取决于操作时哪种性价比更高）。
 
-Once deposited, just as in the yveCRV yVault, your CRV tokens’s voting power is handled and optimized by Yearn. You do not need to worry about claiming [Curve.fi](http://curve.fi/)’s weekly protocol fees, the vault does this for you!
+一旦存入，就像在yveCRV yVault中一样，您的CRV代币的投票权由Yearn处理和优化。您无需担心申领[Curve.fi](http://curve.fi/)的每周协议费用，Yearn的机枪池会为您做到这一点!
 
-This is a “set-and-forget” vault where your CRV tokens grow exponentially, harnessing the power of compound interest!
+这是一个“一劳永逸”的机枪池，您的CRV代币将在其中呈指数增长，这就是复利的力量!
 
-Now you might be wondering how one would extract any gains made from your CRV tokens in the vault, when as mentioned earlier, any CRV deposited into either the yveCRV or the yvBOOST are locked. While you cannot withdraw from the yveCRV vault, you can actually swap both of these vault tokens on Sushiswap. This is because Yearn and its users provide liquidity on Sushiswap to allow swapping of your yveCRV and yvBOOST tokens for ETH (or anything, really).
+现在您可能想知道如何从机枪池中提取CRV？如前所述，任何存入yveCRV或yvBOOST的CRV都被锁定。虽然您不能从yveCRV机枪池中退出，但您实际上可以在SushiSwap上交易这两个机枪池代币。这是因为Yearn及其用户在SushiSwap上提供流动性，以允许将您的yveCRV和yvBOOST代币换成ETH（或其他任何代币）。
 
-### A little alpha.
+### 一个小alpha.
 
-Yearn buys yvBOOST from the market, unwraps it into yveCRV, and donates that yveCRV into the yvBOOST vault, increasing the underlying value of yvBOOST.
+Yearn从市场上购买yvBOOST，将其拆封为yveCRV，然后将该yveCRV捐赠给yvBOOST机枪池，从而增加了yvBOOST的潜在价值。
 
-## Yearn yVaults for CRV Stakers
+## CRV 质押者
 
-Staking your CRV directly on the [Curve.fi](http://curve.fi/) platform means locking your CRV token in exchange for a non-transferrable veCRV token that allows you to manually claim a share of the protocol’s fee (3CRV). You can use this veCRV token to manually rebalance your votes to obtain a boost on your provided liquidity to the [Curve.fi](http://curve.fi/) platform.
+直接在[Curve.fi](http://curve.fi/)平台上质押您的CRV意味着锁定您的CRV代币以换取不可转让的veCRV代币，该代币允许您手动领取协议费用 (3CRV) 的份额。您可以使用此veCRV代币手动重新平衡您的投票，以提高您向[Curve.fi](http://curve.fi/)平台提供的流动性的奖励。
 
-## Enter Yearn’s yveCRV and yveBOOST vaults
+## 进入Yearn的yveCRV和yveBOOST机枪池
 
-Both of these Yearn vaults reward CRV stakers with a share of the CRV locked by Yearn, making it an ideal destination for those who wish to stake CRV whilst remaining liquid:
+这两个Yearn机枪池的CRV质押者，将分享由Yearn锁定的CRV的奖励，使其成为那些希望在保持流动性的质押CRV的用户的理想目的地:
 
--   Earn a share of trading fees from the [Curve.fi](http://curve.fi/) protocol (3Crv), automatically reinvested (for the yvBOOST vault).
--   Earn a share of Yearn’s claim of [Curve.fi](http://curve.fi/) protocol fees, on top of your own rewards (more 3CRV!), automatically reinvested (for the yvBOOST vault).
--   The collective voting power of the veCRV tokens is optimized and rebalanced automatically to maximize rewards in all of Yearn’s Curve Pool vaults.
--   Receive yveCRV or yvBOOST tokens for your deposited CRV, allowing you to easily extract profit or exit your staked CRV position
+-   从[Curve.fi](http://curve.fi/)协议 (3Crv) 中赚取一部分交易费用，自动再投资（用于 yvBOOST机枪池）。
+-   除了您自己的奖励（更多3CRV！）之外，您还可以分享Yearn协议获得的[Curve.fi](http://curve.fi/) 交易费用，并自动再投资（用yvBOOST机枪池）。
+-   veCRV代币的集体投票权经过优化和自动重新平衡，以最大程度地提高所有Yearn的Curve Pool机枪池奖励。
+-   存入CRV，获得的yveCRV或yvBOOST代币，能够让您轻松退出机枪池仓位。
 
-Yearn’s work to automate the yield generation and rebalancing of your crypto assets is especially true in the case of your CRV holdings, and Yearn’s yveCRV or yvBOOST offers a powerful, compounding, “set-and-forget” place to stake your CRV!
+Yearn自动生成收益和再平衡您的加密资产的工作，在您持有CRV的情况下表现的淋漓尽致，Yearn的yveCRV或yvBOOST提供了一个强大的、复合、和“一劳永逸”的地方来质押您的CRV!
 
-In our next post, we’ll cover keepCRV and the processes for bribes and EPS. Until then…
+在我们的下一篇文章中，我们将介绍keepCRV，bribes和EPS的流程。敬请期待…
 
 ![](image4.png)
