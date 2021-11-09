@@ -4,7 +4,7 @@ title:  "Was ist Yearn"
 categories: [ Tweets ]
 image: ./What-is-Yearn/3_1446243220468293632.jpg
 author: Wot_Is_Goin_On
-translator:
+translator: Nesyeth
 publish: true
 ---
 
