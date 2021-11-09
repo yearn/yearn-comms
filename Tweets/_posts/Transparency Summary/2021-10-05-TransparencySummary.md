@@ -4,7 +4,7 @@ title:  "Transparência em Foco"
 categories: [ Tweets ]
 image: ./TransparencySummary/image1.jpg
 author: Yearn
-translator: jameskbh
+translator: JKtranslator
 publish: true
 ---
 original source: [twitter](https://twitter.com/iearnfinance/status/1445143482830446600)
