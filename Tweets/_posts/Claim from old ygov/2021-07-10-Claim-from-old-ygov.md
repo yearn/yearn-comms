@@ -4,7 +4,7 @@ title:  "Anspruch aus der alten yGov"
 categories: [ Tweets ]
 image: ./Claim-from-old-ygov/amount-in-old-ygov.jpg
 author: Dudesahn
-translator:
+translator: Nesyeth
 publish: true
 ---
 
