@@ -24,7 +24,7 @@ Ermöglicht wird dies durch ein Team intelligenter Leute, die Strategien für de
 ![3_1436841383378120712](3_1436841383378120712.jpg)
 
 ##### 4
-Angesichts der Art und Weise, wie das yearn-Protokoll funktioniert, muss es sehr schnell umgeschaltet werden, um neue Verträge und Strategien rasch auf den Weg zu bringen, was sich auf die Sicherheit auswirkt. Eines der Hauptanliegen von yearn ist das Risiko aus allen Perspektiven. Wir sind bei der EOD im Risikogeschäft tätig. Wie lässt sich das ausgleichen?
+Angesichts der Art und Weise, wie das yearn-Protokoll funktioniert, muss es sehr schnell umgeschaltet werden, um neue Verträge und Strategien rasch auf den Weg zu bringen, was sich auf die Sicherheit auswirkt. Eines der Hauptanliegen von Yearn ist das Risiko aus allen Perspektiven. Wir sind bei der EOD im Risikogeschäft tätig. Wie lässt sich das ausgleichen?
 
 ##### 5
 Wir müssen einen Risikorahmen schaffen, um sich ein Bild zu machen. Das ist die Anzahl der Vaults + Strategien, die derzeit eingesetzt werden. An der Komplexität dieses Systems führt kein Weg vorbei, viele Teile müssen zusammenpassen, damit es funktioniert.
@@ -75,7 +75,7 @@ Der Simulations-Bot ist an die Benachrichtigung über unser Telegramm gebunden u
 ![3_1436848196399996929](3_1436848196399996929.jpg)
 
 ##### 13
-[yearn.watch](http://yearn.watch) ist die Website, die ich aufgebaut habe, um Strategien und den Zustand von Vaults zu verfolgen. Sie nutzt ein großartiges Stück Infrastruktur, das intern vom yearn-Team entwickelt wurde, um Daten abzurufen. Wir haben spezielle Multicall-Verträge, um diese Daten effizient abrufen zu können und Entscheidungen zu treffen.
+[yearn.watch](http://yearn.watch) ist die Website, die ich aufgebaut habe, um Strategien und den Zustand von Vaults zu verfolgen. Sie nutzt ein großartiges Stück Infrastruktur, das intern vom Yearn-Team entwickelt wurde, um Daten abzurufen. Wir haben spezielle Multicall-Verträge, um diese Daten effizient abrufen zu können und Entscheidungen zu treffen.
 
 ![3_1436848846378729473](3_1436848846378729473.jpg)
 
