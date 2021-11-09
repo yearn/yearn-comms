@@ -1,58 +1,58 @@
 ---
 layout: post
-title:  "Bear market, bullish development"
+title:  "Ayı piyasası, boğa gelişmesi"
 categories: [ Tweets ]
 image: ./Bear-market,-bullish-development/image1.jfif
 author: Dudesahn
-translator:
-publish: false
+translator: Dastronom
+publish: True
 ---
 
-original source: [twitter](https://twitter.com/dudesahn/status/1417898521685078016)
+asıl kaynak: [twitter](https://twitter.com/dudesahn/status/1417898521685078016)
 
 ##### 1
 
-Bear market, bullish development.
+Ayı piyasası, boğa gelişmesi.
 
-While http://yearn.finance has recently added nice features like
+http://yearn.finance kısa süre önce aşağıdaki gibi güzel özellikler eklemiş olsa da
 @zapper_fi
-integration for vaults, it still is in need of some love. For those following closely, you may have noticed hints about a new website in the works.
+vault'lar için entegrasyonun, hala biraz ilgiye ihtiyacı var. Yakından takip edenler için, çalışmalarda yeni bir web sitesi hakkında ipuçları fark etmiş olabilirsiniz.
 
-A thread 🧵
+İpucu🧵
 
 ##### 2
 
-“Wait!” you might say, “Isn’t http://yearn.fi Yearn’s new website?”
+"Bekle!" “http://yearn.fi Yearn’in yeni sitesi değil mi?” diye soruyorsunuzdur.
 
-Yes and no.
+Hem evet hem hayır.
 
-[@AndreCronjeTech](https://twitter.com/AndreCronjeTech) is a mad scientist, and works at light speed while building out his prototypes. Consider http://yearn.fi his playground, built by himself and [@AntonNellCrypto](https://twitter.com/AntonNellCrypto). 🧪
+[@AndreCronjeTech](https://twitter.com/AndreCronjeTech) çılgın bir bilim adamıdır ve prototiplerini oluştururken ışık hızında çalışır. Kendisi ve [@AntonNellCrypto](https://twitter.com/AntonNellCrypto) tarafından inşa edilen http://yearn.fi onun oyun alanı olarak düşünün. 🧪
 
 ##### 3
 
-yearn.finance is maintained by a separate group of contributors, and we've been implementing a completely new backend (including an SDK with several APIs) that will power our new frontend, designed specifically with the SDK in mind.
+yearn.finance ayrı bir katılımcı grubu tarafından yönetiliyor ve özellikle SDK düşünülerek tasarlanan front-end yüzümüzü güçlendirecek tamamen yeni bir back-end (birkaç API içeren bir SDK dahil) uyguluyoruz.
 
 ##### 4
 
-http://yearn.finance and http://yearn.fi have different approaches, but the hope is that they can be mutually beneficial to one another. Handshake
+http://yearn.finance ve http://yearn.fi farklı yaklaşımlara sahiptir, ancak umut, karşılıklı olarak birbirlerine faydalı olabilmeleridir. Tokalaşma
 
 ##### 5
 
-yearn.fi is able to stand up new features very quickly, while the upcoming v3 http://yearn.finance will demonstrate the power of our reworked backend. Our goal? Abstracting away the complexity around integrating with yearn products for future partners.
+yearn.fi yeni özellikleri çok hızlı bir şekilde kaldırabilirken, yaklaşan [yearn](http://yearn.finance) v3, yeniden işlenmiş back-end'imizin gücünü gösterecek. Hedefimiz ne? Gelecekteki ortaklıklar için yearn'in ürünlerle entegrasyon konusundaki karmaşıklığı ortadan kaldırmak.
 
 ##### 6
 
-Over the next few weeks, I'll go more in-depth on some of the tech we're building at yearn, why it matters, and what we're excited to work on next. And ultimately, we hope that this can make our work a little more accessible to everyone and a little less opaque. Left-pointing magnifying glass
+Önümüzdeki birkaç hafta boyunca, yearn'de geliştirmekte olduğumuz bazı teknolojiler, bunun neden önemli olduğu ve üzerinde çalışmak için heyecan duyduğumuz konulardan bazılarına daha derinlemesine gireceğim. Ve nihayetinde, bunun çalışmalarımızı herkes için biraz daha erişilebilir ve biraz daha şeffaf hale getirebileceğini umuyoruz.
 
 ##### 7
 
-Once the new site launches, this will include improving our GitHub issue curation for bugs, maintaining a bounty board for larger features we'd like to add, and in general reaching out a hand to anyone who'd like to contribute.
+Yeni site başlatıldığında, bu, hatalar için GitHub sorun küratörümüzü iyileştirmeyi, eklemek istediğimiz daha büyük özellikler için bir ödül panosu ve genel olarak katkıda bulunmak isteyen herkese bir el uzatmayı içerecektir.
 
 ##### 8
 
-If you'd like to come build with us, we'd love to have you. Simple as that.
+Bunu bizimle beraber inşaa etmek isterseniz, sizi aramızda görmekten memnuniyet duyarız. Bu kadar basit.
 
-Feel free to reach out to me on telegram
-[@dudesahn](https://twitter.com/dudesahn) and we can get you started.
+Bana telegram'dan ulaşmaktan çekinmeyin
+[@dudesahn](https://twitter.com/dudesahn) ve ben başlamanıza yardımcı olabiliriz.
 
 ![](image1.jfif)
