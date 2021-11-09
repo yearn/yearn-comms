@@ -5,7 +5,7 @@ categories: [ Articles ]
 image: ./easily-earn-with-yearn-v2-in-argent/Image1.jpg
 author: Argent
 translator: JKTranslator
-publish: false
+publish: true
 ---
 
 # Rendimento Fácil com V2 no Argent
