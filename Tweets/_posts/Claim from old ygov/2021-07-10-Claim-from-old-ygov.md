@@ -5,7 +5,7 @@ categories: [ Tweets ]
 image: ./Claim-from-old-ygov/amount-in-old-ygov.jpg
 author: Dudesahn
 translator: JKTranslator
-publish: false
+publish: true
 ---
 
 fonte original: [twitter](https://twitter.com/dudesahn/status/1413567068583104512)
