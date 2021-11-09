@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Claim from old yGov"
+title:  "Eski yGov'dan talep"
 categories: [ Tweets ]
 image: ./Claim-from-old-ygov/amount-in-old-ygov.jpg
 author: Dudesahn
-translator:
-publish: false
+translator: Dastronom
+publish: true
 ---
 
 asıl kaynak: [twitter](https://twitter.com/dudesahn/status/1413567068583104512)
