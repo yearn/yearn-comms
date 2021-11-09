@@ -4,14 +4,14 @@ title:  "Risiko, Werkzeuge und Einblicke"
 categories: [ Tweets ]
 image: ./Risk,-Tooling,-&-Insight/stormblessed.jpg
 author: Storm Blessed
-translator:
+translator: Nesyeth
 publish: true
 ---
 
 Originalquelle: [twitter](https://twitter.com/storming0x/status/1436851219864059906)
 
 ##### 1
-Ich habe am Wochenende etwas gecodet und beschlossen, einen Tweetstorm über [@iearnfinance](https://twitter.com/iearnfinance)-Risiken, Tools und Einblicke hinter die Kulissen zu machen.
+Ich habe am Wochenende etwas gecodet und beschlossen, einen Tweetstorm über [@iearnfinance](https://twitter.com/iearnfinance) Risiken, Tools und Einblicke hinter die Kulissen zu machen.
 
 🧵 👇
 
