@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "More boosts, compounding, and mojitos for you with yvBOOST"
+title:  "yvBOOST为您提供更多boost、复利和Mojito"
 categories: [ Articles ]
 image: ./thats-boost-folks/image4.png
 author: Qosmonot
-translator: 
-published: false
+translator: Bee926
+published: true
 ---
 
 # yvBOOST为您提供更多boost、复利和Mojito
