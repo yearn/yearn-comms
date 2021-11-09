@@ -4,9 +4,10 @@ title:  "Transparenz Zusammenfassung"
 categories: [ Tweets ]
 image: ./TransparencySummary/image1.jpg
 author: Yearn
-translator:
+translator: Nesyeth
 publish: true
 ---
+
 Originalquelle: [twitter](https://twitter.com/iearnfinance/status/1445143482830446600)
 
 ##### 1
