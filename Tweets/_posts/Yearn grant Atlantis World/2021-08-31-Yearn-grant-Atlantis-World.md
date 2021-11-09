@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Atlantis World Grant"
+title:  "Atlantis World Hibesi"
 categories: [ Tweets ]
 image: ./Yearn-grant-Atlantis-World/image2.jpg
 author: Yearn
@@ -10,7 +10,7 @@ publish: true
 
 asıl kaynak: [twitter](https://twitter.com/iearnfinance/status/1432387438014435332)
 
-###### Yearn Finance, bir 2d piksel meta veri deposu oluşturmaya yardımcı olmak için [@atlantis0x](https://twitter.com/atlantis0x) şirketine bir hibe verdi. İşte nedeni:
+###### Yearn Finance, bir 2D piksel meta veri deposu oluşturmaya yardımcı olmak için [@atlantis0x](https://twitter.com/atlantis0x) şirketine bir hibe verdi. İşte nedeni:
 
 ##### 1
 
@@ -28,7 +28,7 @@ Ekosistemi birbirine bağlarken, oyunlaştırırken ve geliştirirken, meta veri
 
 ##### 4
 
-Atlantis World ile daha fazla bilgi edinin:  [atlantisworld.io](https://atlantisworld.io)
+Atlantis World ile daha fazla bilgi edinin: [atlantisworld.io](https://atlantisworld.io)
 
 ##### 5
 
