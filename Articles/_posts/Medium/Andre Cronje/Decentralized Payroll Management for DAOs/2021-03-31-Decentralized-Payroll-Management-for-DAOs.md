@@ -1,43 +1,47 @@
 ---
 layout: post
-title:  "Decentralized payroll management for DAOs"
+title:  "DAO'lar için merkezi olmayan bordro yönetimi"
 categories: [ Articles ]
 image: ./Decentralized-Payroll-Management-for-DAOs/andre-hero.png
 author: Andre
-translator:
-publish: false
+translator: Dastronom
+publish: true
 ---
 
-# Decentralized payroll management for DAOs
+# DAO'lar için merkezi olmayan bordro yönetimi
 
-DAO's don't have top down management. There is no HR department. There are no contracts and no salary negotiations. How do you properly incentivize and reward contributors?
+Yazar: [Andre Cronje](https://twitter.com/AndreCronjeTech)</br>
 
-When the yearn DAO first started, it adopted governance weighted salaries (I use the term loosely, since technically they are once off, once per month grants, if you don't contribute the following month, no grant). Governance weighted salaries where simply proposals set up by community members, where they proposed that contributor X should receive Y payment. These require active management and need monthly DAO votes / approvals. This doesn't scale well.
+31 Mart, 2021
 
-To address the scaling and overhead problems, the yearn team built [Coordinape](https://coordinape.com/), these are my favorite kind of products since they originate out of a personal need, but can be generalized to help any other organizations / DAO's struggling with a similar problem.
+DAO'ların yukarıdan aşağıya yönetimi yoktur. İK departmanı yok. Sözleşme yok ve maaş görüşmeleri yok. Katkıda bulunanları nasıl uygun şekilde teşvik eder ve ödüllendirirsiniz?
 
-What is [Coordinape](https://coordinape.com/), simply put anyone wishing to contribute to yearn (or their own DAO) can register (currently using github details), every epoch (for yearn 1 month), you can select the team members you have been working and interacting with, below, yearn contributors;
+Yearn DAO ilk başladığında, yönetişim ağırlıklı maaşları benimsedi (Terimi öylesine kullanıyorum, katkıda bulunduğunuz ay hibe alırsınız bir sonraki ay katkıda bulunmazsanız hibe alamazsınız). Yönetim ağırlıklı maaşlar, yalnızca topluluk üyeleri tarafından oluşturulan tekliflerde, X katılımcısının Y ödemesi almasını önerdiler. Bunlar aktif yönetim gerektirir ve aylık DAO oylarına/onaylarına ihtiyaç duyar. Bu iyi ölçeklenemiyor.
+
+Ölçeklendirme ve genel gider sorunlarını ele almak için, yearn ekibi [Coordinape](https://coordinape.com/)'i inşa etti, kişisel bir ihtiyaçtan kaynaklandıkları için en sevdiğim tür ürünlerdir, ancak benzer bir sorunla mücadele eden diğer kuruluşlara / DAO'lara yardımcı olmak için genelleştirilebilir.
+
+[Coordinape](https://coordinape.com/) nedir, basitçe söylemek gerekirse, yearn'e (veya kendi DAO'ları) katkıda bulunmak isteyen herkes kayıt olabilir (şu anda github ayrıntılarını kullanarak), her dönem (1 yıl boyunca), çalışmakta olduğunuz ve etkileşimde bulunduğunuz ekip üyelerini seçebilirsiniz, aşağıda, katkıda bulunanları bekliyoruz;
 
 ![](1.jpg)
 
-For example, my interactions below (members I marked as having interacted with this past epoch);
+Örneğin, aşağıdaki etkileşimlerim (bu geçmiş dönemde etkileşime girmiş olarak işaretlediğim üyeler);
 
 ![](2.jpg)
 
-Now each member has a set amount of allocation points, and can allocate points to the contributors they have worked with based on what they think of their contributions.
+Artık her üyenin belirli bir tahsis puanı vardır ve katılım sağladığını düşündükleri kişiye veya birlikte çalıştıkları katkıda bulunanlara puan tahsis edebilirler
 
-So if we look at the current epoch contributions we see the following;
+Dolayısıyla mevcut dönem katkılarına bakarsak şunları görürüz;
 
 ![](3.jpg)
 
-Each line is an allocation from one member to the next. This builds up a contributor graph that is weighted towards the members that have the most interactions and allocations.
+Her çizgi, bir üyeden diğerine bir tahsistir. Bu, en fazla etkileşime ve tahsise sahip üyelere göre ağırlıklandırılmış bir katılımcı grafiği oluşturur.
 
-Now simply, during the epoch, yearn earns Y amount in fees / contributions / rewards / etc, this accrues to the Coordinate contributor contract, at the end of the epoch contributors can claim their grant based on their contributions in the epoch.
+Şimdi, basitçe, dönem boyunca, yearn Y miktarı kadar ücretler / katkılar / ödüller / vb. olan şeyelrden kazanç elde eder, bu, Koordinatör katılımcı sözleşmesine tahakkuk eder, dönemin sonunda katılımcılar, hibelerini dönemdeki katkılarına göre talep edebilirler.
 
-**Conclusion**
+**Çözüm**
 
-[Coordinape](https://coordinape.com/) allows decentralized teams and DAO's without top down management or HR to autonomously allocate and reward contributors with funds, all done via sybil resistant social graphs.
+[Coordinape](https://coordinape.com/), merkezi olmayan ekiplerin ve yukarıdan aşağıya yönetime veya İK'ya sahip olmayan DAO'ların, tümü sybil dirençli sosyal grafikler aracılığıyla yapılan bağışları özerk bir şekilde tahsis etmesine ve ödüllendirmesine olanak tanır.
 
-Decentralized payroll for flat organizations.
+Düz organizasyonlar için merkezi olmayan bordro.
 
-The project is currently still closed source, however the team are actively looking to engage with other DAO's and organizations, should you have any interest or queries, please reach out to [@tracheopteryx](https://twitter.com/tracheopteryx)
+Proje şu anda hala kapalı kaynaktır, ancak ekip aktif olarak diğer DAO'lar ve kuruluşlarla etkileşim kurmak istiyor, herhangi bir ilginiz veya sorunuz varsa lütfen [@tracheopteryx](https://twitter.com/tracheopteryx)'le iletişime geçin.
