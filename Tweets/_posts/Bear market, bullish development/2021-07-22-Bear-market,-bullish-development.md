@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ayı piyasası, boğa piyasasının gelişmesi"
+title:  "Ayı piyasası, boğa gelişmesi"
 categories: [ Tweets ]
 image: ./Bear-market,-bullish-development/image1.jfif
 author: Dudesahn
@@ -12,7 +12,7 @@ asıl kaynak: [twitter](https://twitter.com/dudesahn/status/1417898521685078016)
 
 ##### 1
 
-Ayı piyasası, boğa piyasasının gelişmesi.
+Ayı piyasası, boğa gelişmesi.
 
 http://yearn.finance kısa süre önce aşağıdaki gibi güzel özellikler eklemiş olsa da
 @zapper_fi
