@@ -7,7 +7,8 @@ author: Yearn
 translator: JKtranslator
 publish: true
 ---
-original source: [twitter](https://twitter.com/iearnfinance/status/1445143482830446600)
+
+fonte original: [twitter](https://twitter.com/iearnfinance/status/1445143482830446600)
 
 ##### 1
 
