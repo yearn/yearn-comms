@@ -1,31 +1,31 @@
 ---
 layout: post
-title:  "Update Bowswap"
+title:  "Aktualisierung Bowswap"
 categories: [ Annoucements ]
 image: ./Update-Bowswap.Finance/image1.jpg
 author: Yearn
 translator:
-publish: false
+publish: true
 ---
 
-# Bowswap.Finance [Update](https://t.me/yearnupdates/483)
+# Bowswap.Finance [Aktualisierung](https://t.me/yearnupdates/483)
 
-It now has two parts:
+Es besteht nun aus zwei Teilen:
 
-## 1. Between Yearn Vaults
+## 1. Zwischen Yearn Vaults
 
 ![](image1.jpg)
 
-It swaps funds from one vault to another. There's no liquidity pool. It withdraws and redeposits into the desired vault. The only swaps it does is using Curve. If the vaults have a token in common (same metapool or 3CRV for example) it will use them. While it's not cheap gas-wise, it is gas efficient - Cheaper than doing it manually, for sure
+Es tauscht Gelder von einem Vault zum anderen aus. Es gibt keinen Liquiditätspool. Es wird Geld abgehoben und wieder in den gewünschten Vault eingezahlt. Die einzigen Swaps, die er durchführt, sind die mit Curve. Wenn die Vaults ein gemeinsames Token haben (z.B. denselben Metapool oder 3CRV), wird es dieses verwenden. Das ist zwar nicht billig, aber sehr effizient - auf jeden Fall billiger als manuelles Tauschen.
 
-## 2. From DeFi to Yearn Vaults
+## 2. Von DeFi zu Yearn Vaults
 
-[Bowswap.finance](https://bowswap.finance/), now with simple migration to the best yield available. Migrate from AAVE and Compound to Yearn Finance in a few clicks, with no fees.
+[Bowswap.finance](https://bowswap.finance/), jetzt mit einfacher Migration zur besten verfügbaren Rendite. Migriere von AAVE und Compound zu Yearn Finance mit wenigen Klicks und ohne Gebühren.
 
-Sorry Stani
+Tut mir Leid Stani
 
 ![](image2.jpg)
 
-This next feature helps users migrate funds from Compound and AAVE to Yearn. It's the same concept as above, withdraw from the protocol and deposit into a Yearn Vault. Also shows both protocol's APY in the list and let's you select multiple tokens at the same time.
+Diese nächste Funktion hilft Nutzern, Gelder von Compound und AAVE zu Yearn zu migrieren. Es ist das gleiche Konzept wie oben, von dem Protokoll abheben und in einen Yearn Vault einzahlen. Außerdem werden die APY beider Protokolle in der Liste angezeigt und du kannst mehrere Token gleichzeitig auswählen.
 
-No fees are charged by Yearn on these swaps.
+Yearn erhebt für diese Swaps keine Gebühren.
