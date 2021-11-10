@@ -4,7 +4,7 @@ title:  "Was ist eine DAO"
 categories: [ Tweets ]
 image: ./What-is-a-DAO/1.jpg
 author: Tracheopteryx
-translator:
+translator: Nesyeth
 publish: true
 ---
 
