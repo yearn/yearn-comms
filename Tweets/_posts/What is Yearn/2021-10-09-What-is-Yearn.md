@@ -4,11 +4,11 @@ title: "O que é Yearn"
 categories: [ Tweets ]
 image: ./What-is-Yearn/3_1446243220468293632.jpg
 author: Wot_Is_Goin_On
-translator: jameskbh
-publish: false
+translator: JKtranslator
+publish: true
 ---
 
-original source: [twitter](https://twitter.com/Wot_Is_Goin_On/status/1446540007292952579)
+fonte original: [twitter](https://twitter.com/Wot_Is_Goin_On/status/1446540007292952579)
 
 ##### 1
 As pessoas tiveram dificuldade em entender o ETH em meados de 2020. Não estava claro qual seria o caso de uso, o TVL estava em US$ 8 bilhões e não havia crescido muito em 18 meses. Mesmo entre aqueles que acreditavam no Ethereum, havia ceticismo em torno de como o valor agregaria ao ETH.
