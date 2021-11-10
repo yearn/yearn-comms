@@ -1,552 +1,562 @@
-The Blue Pill
-A spiritual guide for the past, present, and future
+---
+layout: post
+title:  "A Pílula Azul"
+categories: [ Articles ]
+image: ./The-Blue-Pill/bluepill.jpg
+author: Yearn
+translator: JKtranslator
+publish: true
+---
 
-The Blue Pill
-PAST • PRESENT • FUTURE
+A Pílula Azul
+Um guia espiritual para o passado, presente e futuro
 
-WHAT IS
+A Pílula Azul
+PASSADO • PRESENTE • FUTURO
+
+O QUE É
 YEARN?
 
-WHERE DID
-YEARN COME FROM?
+DE ONDE
+YEARN VEM?
 
-WHERE IS YEARN
-GOING?
+PARA ONDE
+YEARN VAI?
 
-“We are like a baby bird just hatched.
-No one designed Yearn. It emerged
-from Andre's gift of all the YFI.
-It's sink or swim for us. The cells
-of Yearn either learn how to pulse
-together and move feathers and
-wings, or we die in the nest.”
+“Somos como um filhote de passarinho recém-chocado.
+Ninguém projetou Yearn. Ele emergiu
+do presente de Andre de todo YFI.
+É afundar ou nadar para nós. As células
+de Yearn ou aprendem a pulsar
+juntas e movem penas e
+asas, ou morreremos no ninho. ”
 — Anon
 
-PROLOGUE
+PRÓLOGO
 
-IN THE LAND OF
-BLUE PILLS
-EVERYTHING
-YOU THOUGHT
-WAS IMPORTANT
-CEASES TO
-MATTER
+NA TERRA DAS
+PÍLULAS AZUIS
+TUDO
+QUE VOCÊ ACHOU
+IMPORTANTE
+CESSA DE
+IMPORTAR
 
-YOUR TITLE
-YOUR NET WORTH
-YOUR NATIONALITY
-YOUR DEGREES
-YOUR LOOKS
-EVEN YOUR NAME
+SEU CARGO
+SEU PATRIMÔNIO
+SUA NACIONALIDADE
+SEUS DIPLOMAS
+SUA APARÊNCIA
+MESMO SEU NOME
 
-All that matters
-is your contribution
-This book is an
-invitation to
-contribute
+Tudo que importa
+é a sua contribuição
+Este livro é um
+convite para
+contribuir
 
-IT IS THE HAND BECKONING
-FROM THE GAP YOU’VE NEVER NOTICED IN THE HEDGES
+É A MÃO ACENANDO
+DO ESPAÇO QUE NUNCA VIU NAS BORDAS
 
-Will you take the well-worn
-paths of yesterday? It asks
-Or do you wish to go  
-somewhere new?
+Você vai seguir pelo já gasto
+caminho de ontem? Ela pergunta
+Ou você deseja ir
+a um lugar novo?
 
-The Yearn Blue Pill has
-one overriding goal:
-to communicate  
-Yearn’s vision
+A Pílula Azul Yearn tem
+um objetivo primordial:
+comunicar
+a Visão de Yearn
 
-But how do you
-do that from  
-within a network
-with no leader?
+Mas como você
+faz isso de
+dentro de uma rede
+sem líder?
 
-HOW DO YOU
-UNITE THE VIEWS
-OF HUNDREDS
-OF DIVERSE
-CONTRIBUTORS
-FROM AROUND
-THE WORLD?
+COMO VOCÊ
+UNE AS VISÕES
+DE CENTENAS
+DE DIVERSOS
+COLABORADORES
+DE TODO
+O MUNDO?
 
-THE SHORT
-ANSWER IS,
-YOU CAN’T
+A RESPOSTA
+CURTA É,
+VOCÊ NÃO FAZ ISSO
 
-We’re all here for
-different reasons
-We all have  
-different goals
+Estamos todos aqui por
+razões diferentes
+Nós todos temos
+Oojetivos  diferentes
 
-But through candid
-discussions with the community,
-we’ve found common ground
+Mas através de
+discussões com a comunidade,
+nós encontramos um terreno comum
 
-This document is
-the result of those
-conversations
-We recognize  
-these pages as
-dangerous
+Este documento é
+o resultado destas
+conversas
+Nós reconhecemos
+essas páginas como
+perigosas
 
-Naming our vision
-could limit us
-And we are  
-limitless
+Nomear nossa visão
+poderia nos limitar
+E somos
+Ilimitados
 
-But today, one year
-after the birth of YFI
-We’ve recognized the
-time has come
-We’re putting our
-vision on paper
+Mas hoje, um ano
+após o nascimento de YFI
+Nós reconhecemos que
+chegou a hora
+Estamos colocando nossa
+visão no papel
 
-So that when forks arise
-in the road, there is a place
-contributors can go
-To get an answer to  
-the question:
+Para que quando as bifurcações surjam
+na estrada, haja um lugar
+que os colaboradores possam ir
+Para obter uma resposta para
+a pergunta:
 
-Is this Yearn?
-Or is it not?
+Isso é Yearn?
+Ou será que não?
 
-TABLE OF CONTENTS
-Part One: Past 27
-Part Two: Present 59
-Part Three: Future 81
-PART ONE: PAST
+ÍNDICE
+Parte Um: Passado 27
+Parte Dois: Presente 59
+Parte Três: Futuro 81
+PARTE UM: PASSADO
 
-Every contributor to Yearn has a story,
-arc, or journey
-And we must begin
-with the story  
-of the first
+Cada colaborador de Yearn tem uma história,
+arco ou jornada
+E devemos começar
+com a história
+do primeiro
 Andre Cronje
 
-In 2018, he studied every major crypto project’s code
-He read their Githubs line-by-line
-He published reviews for all to read
-
-And in that process, he found the
-truth: that most projects were
-built on lies and hype  
-They were forks with fancy names
-or forks of forks that didn’t do
-what they promised
-But some of them were
-altogether different
-Some of them  
-inspired him to build
-
-In 2019, Andre put
-on his coveralls
-and became  
-a yield farmer
-
-But he was not your typical yield farmer
-(doing things by hand)
-He tended his crops with code
-He built and automated all of his
-processes directly on Ethereum
-And by doing so, he built the  
-world’s first yield aggregator
-
-It was a perpetual
-yield machine
-(DEPOSIT FUNDS AND WATCH THEM GROW)
-
-Hello, world!
-On Feb. 4, 2020, Andre announced the birth of
-iearn.finance (which would become Yearn)
-“Don’t do it the way I did it, which was hard,
-cost me a lot of money, and has created very
-little network effect,” he wrote
-
-But, the world has a way of
-finding things of value
-It saw iEarn, and saw
-that it was good
-And capital came flooding in
-
-“I TEST IN PROD,”
-ANDRE PROCLAIMED
-BE WARNED
-iEARN WAS NOT AUDITED
-IT WAS “DANGEROUS”
-AND IT WAS  
-REVOLUTIONARY
-
-The revolutionaries noticed
-One by one, they came…
-new contributors with
-fantastical names
-
-(THE BUNNY)
-
-(THE GHOST)
-
-(THE DUDE)
-
-(THE BIRD)
-
-(THE GLASS OF MILK)
-
-They weren’t merely interested
-in finance; they were  
-interested in the FUTURE
-
-They saw what this experimental
-project could become:  
-a gargantuan, unstoppable,
-extra-governmental,  
-decentralized, permissionless,
-self-healing, collective organism
-with a heart pumping yield to
-the rhythm of each new block
-
-A ubiquitous yield-layer to
-underpin every financial
-instrument on the planet −
-no banks or middlemen with
-golden cufflinks required
-
-They wanted to contribute and
-they asked to get involved
-They helped iEarn  
-morph into Yearn
-They suffered attacks, hacks,
-and scathing criticisms
-
-But they worked together…  
-United across the globe by an
-unspoken sense of purpose
-
-“It has been amazingly fun to
-face all these challenges,  
-and each one I believe has
-created a more robust ecosystem,”
-Andre wrote on February 4, 2020.  
-“Looking forward to many
-more problems to come”
-
-At Yearn, contributors don’t shy
-away from the hard things,
-they seek them out
-Remember: they hide  
-opportunities
-There’s a philosophy in  
-Andre’s message:  
-Look forward to problems
-
-PROBLEMS ARE
-THE CLAY WE USE
-TO MOLD THE
-FUTURE
-
-On July 17, 2020, Andre announced
-he was giving away control
-Anyone providing liquidity on Yearn could
-earn YFI, a brand new governance token
-(pronounced “wifey”) that granted holders
-power over the platform’s future
-“The control is in your hands,” Andre said
-“Good luck”
-
-“The roots of Yearn are in the gift,”
-one contributor said
-“Andre’s fair launch was a revolutionary act
-that put generosity in the DNA of
-the whole community,” another said
-Yearn doesn’t ask what it can extract
-It asks what it can give away
-Not three months later
-it was clear the experiment
-had become something
-much larger than any
-one contributor  
-It was a movement
-“I am not Yearn,”
-Andre wrote
-
-“Consider how big the ecosystem has become, consider all
-the websites, tooling, newsletters, forum, Discord, Telegram,
-and active development on Github. None of these are done by
-myself. I am a rapid prototyper and I will continue to be one.”
-
-“The Yearn team is far more skilled and capable than I am,
-and anyone that thinks Yearn is dictated, led, or in any way
-dependent on me, is doing Yearn a disservice. I am happy
-to be a contributor to something much bigger.”
-“I don’t foresee builders stopping, and I will continue to build.
-Some of it will be useful, some of it will end up failures.
-But I think there is more value in trying, even if it is
-a failure, than all the critics deeming it so.”
-
-There are few things in the
-world more powerful
-than the gift  
-Andre Cronje gave  
-away all the YFI
-Every
-Single
-One
-
-Over a billion dollars in value
-The inflaton field from this cosmic gift has left
-an indelible mark on the collective
-Its vibrations echo
-in every one of us
-It called us here
-Not for money
-Not for fame
-But because that’s what gifts do
-They are magic
-Andre cast a spell into this world woven with
-integrity, genius, and generosity
-And Yearn was what he summoned
-
-PART TWO: PRESENT
-
-Question: What is Yearn?
-An innovation factory?  
-A yield-aggregator protocol?
-An intersubjective life-form?
-Something else, entirely?
-Question: Who can contribute to Yearn?
-Answer: You
-Whoever you are, wherever you are,
-you may know what Yearn is  
-better than we do
-Come show us
-
-Yearn is an emergent
-and evolving experiment  
-in decentralized collaboration
-It has no papers of incorporation,
-no headquarters, nor even a list
-of names and locations for
-its contributors
-
-Yearn is open
-Everything it builds is visible
-Yearn is post-corporate…
-a place where you never have
-to sell yourself because your
-contributions speak for you
-
-AT YEARN, YOUR WORK
-IS NOT ASSIGNED  
-IT IS GUIDED BY YOUR INNER VOICE
-
-Question: What if the most radical component of Yearn
-isn’t the yield machine? The machine, after all, is
-a technical apparatus constructed of code  
-It cannot exist without its
-network of hearts and minds
-
-Perhaps the network itself is the
-Most radical part of Yearn
-Our unique DAO (DECENTRALIZED AUTONOMOUS ORGANIZATION)
-and those who embody it
-
-In October 2020,  
-Yearn contributors  
-laid out a manifesto
-First, it named what Yearn is not:
-
-YEARN IS NOT  
-A COMPANY
-YEARN DOES NOT  
-HAVE INVESTORS
-YEARN DOES NOT  
-CATER TO SPECULATORS
-
-YEARN DOES NOT  
-HAVE AN OFFICIAL VOICE
-YEARN IS NOT  
-OWED ANYTHING  
-FROM ANYONE
-
-Then, it named what
-Yearn is:
-
-YEARN IS A COLLECTIVE
-OF CONTRIBUTORS
-YEARN IS EQUAL  
-OPPORTUNITY
-YEARN IS FOR BUILDERS
-YEARN IS FOR  
-SELF-STARTERS
-
-YEARN IS FOR  
-COLLABORATORS
-YEARN IS INFLUENCED
-BY MERIT
-YEARN IS GOVERNED BY YFI,
-BUT YFI DOES NOT GOVERN
-YEARN’S CONTRIBUTORS
-
-YEARN IS
-CONSTANTLY EVOLVING
-
-AND FINALLY:  
-“WHAT YEARN IS TODAY,
-MAY NOT BE WHAT IT
-IS TOMORROW −
-WHAT YOU DO AFTER
-READING THIS MAY  
-CHANGE YEARN FOREVER.
-IT’S UP TO YOU.”
-
-Yearn has contributors who
-haven’t written a line of code and
-others who have spent decades
-developing software
-Both groups ask,  
-“Am I good enough to be here?”
-
-The answer is simple
-YES
-It’s not about  
-what’s come before,
-it’s about now
-
-We are here now
-If you have fallen down Yearn’s
-gravity well, there is a reason
-Let’s bump against the impossible
-and see if it moves
-
-No one knows the future
-(That’s because it doesn’t exist)
-
-PART THREE: FUTURE
-
-HERE WE ARE
-THE SELF_SOVEREIGN
-BEINGS OF YEARN
-
-We are leaders and seekers who
-Work in the gift to invent the future
-We came from chaos and have chosen not to project the
-rigid, closed, hierarchical control structures imprinted
-In our collective memory into the pure
-Formless space in front of us
-We chose the harder path
-The path of creation
-
-And we are not the first
-Decades before Satoshi, pioneering spirits had already
-begun exploring the future of coordination
-The writer Frederic Laloux calls these
-rare endeavours Teal organizations
-They have been around for decades, hidden in plain
-sight, doing things you’d think were impossible:
-functioning with radical transparency; working
-without managers, bureaucracy, or even budgets
-
-THESE TEAMS WORK AT
-THE SPEED OF TRUST −
-THE FASTEST WE CAN EVER GO
-EVERYONE IS A LEADER,
-DECIDING FOR THEMSELVES
-HOW TO FOLLOW THE GROUP’S
-EVOLUTIONARY PURPOSE
-
-This is how we work at Yearn
-We are not a machine
-We are life itself
-We are not Red, Amber,
-Orange, or Green...
-We are Teal
-And we are Blue
-
-We will chart our own course
-The future of work is like a party
-bike that we ride together, each
-peddling as much or as little as we
-want, and when someone knows
-where to go next, they get to steer
-And there is no map for
-where we are going
-
-To get there, we must cross the
-river by feeling for stones
-
-Our eyes won’t help us,
-nor will our minds
-A heart cell doesn’t know
-how to climb a mountain, but
-when it pumps blood and
-trusts its friends, well then it
-might just find the summit
-
-Now what if I told you that each
-of us is made up of whole beings,
-is a whole being, and is a part
-of larger whole beings?
-And then what if I said that those
-larger whole beings have their
-own uncharted territory ahead?
-
-Well, for those of us who have already embarked
-on this journey together, we feel this future in
-our bones, singing to us
-Our vision isn’t a roadmap with a set
-of goals and deliverables
-It is this song
-Yearn’s voice
-(YEARN AERIAL DIVISION)
-
-THE SOUNDLESS VOICE
-OF OUR COLLECTIVE,
-CALLING TO US FROM
-BETWEEN THE PAGES
-
-We are in the realm of
-networks now
-In DeFi (DECENTRALIZED FINANCE), and at Yearn,
-this is the new world
-
-We are not companies with closed boundaries,
-corporate veils, NDAs, and non-competes —
-we are permeable, overlapping network entities
-sensing and responding in real time from a
-thousand empowered autonomous beings
-
-Top-down management leveraging commandand-control heirarchies are for the mahogany
-boardrooms of yesteryear
-And we are navigators, adventurers,
-and explorers of the future
-We are married to the sea
-
-WE ARE BUILDING A SHIP
-It will carry anyone who
-wants to board
-Any age, any gender,
-any worldview
-You are all welcome
-You are all necessary
-Find an oar and start pulling
-
-Yearn is a ship from
-the fleet of tomorrow
-
-WE HAVE BUILT IT FROM
-THE LUMBER OF
-THE DARK FOREST
-NOW THAT WE’RE HERE,
-YOU CAN SEE THAT THE
-DESTINATION DOESN’T
-MATTER AT ALL
-
-We can sail the seas of yield
-aggregation, or we can
-go find new dragons
-We will write protocols
-beyond the edge of the map
-
-All that matters is
-that we sail
+Em 2018, ele estudou o código de todos os principais projetos de cripto
+Ele leu seus Githubs linha por linha
+Ele publicou avaliações para que todos pudessem ler
+
+E nesse processo, ele encontrou a
+verdade: que a maioria dos projetos eram
+construídos sobre mentiras e exageros
+Eles eram forks com nomes elegantes
+ou forks de forks que não faziam
+o que eles prometiam
+Mas alguns deles eram
+completamente diferentes
+Alguns deles
+o inspirou a construir
+
+Em 2019, Andre colocou
+seu macacão
+e se tornou
+um "agricultor" de rendimento (yield farmer)
+
+Mas ele não era o típico yield farmer
+(fazendo as coisas manualmente)
+Ele cuidou de suas plantações com código
+Ele construiu e automatizou todos os seus
+processos diretamente na rede Ethereum
+E ao fazer isso, ele construiu o
+primeiro agregador de rendimento do mundo
+
+Era uma máquina
+perpétua de rendimento
+(DEPOSITE SEUS FUNDOS E ASSISTA-OS CRESCER)
+
+Olá, mundo!
+Em 4 de fevereiro de 2020, Andre anunciou o nascimento de
+iearn.finance (que se tornaria Yearn)
+“Não faça do jeito que eu fiz, que foi difícil,
+me custou muito dinheiro e criou muito
+pouco efeito de rede”, escreveu ele
+
+Mas, o mundo tem uma maneira de
+encontrar coisas de valor
+Ele viu iEarn e viu
+que era bom
+E o capital veio inundando
+
+“EU TESTO EM PROD,”
+ANDRE PROCLAMOU
+ESTEJA AVISADO
+iEARN NÃO FOI AUDITADO
+ELE ERA “PERIGOSO”
+ALÉM DISSO,
+REVOLUCIONÁRIO
+
+Os revolucionários notaram
+Um por um, eles vieram...
+novos colaboradores com
+nomes fantásticos
+
+(O COELHO)
+
+(O FANTASMA)
+
+(O CARA)
+
+(O PÁSSARO)
+
+(O COPO DE LEITE)
+
+Eles não estavam apenas interessados
+em finanças; eles estavam
+interessados no FUTURO
+
+Eles viram o que este experimental
+projeto poderia se tornar:
+um gigantesco, imparável,
+extra-governamental,
+descentralizado, sem permissão,
+auto-curativo, organismo coletivo
+com um coração bombeando rendimento no
+o ritmo de cada novo bloco
+
+Uma camada de rendimento onipresente para
+sustentar cada instrumento
+financeiro do planeta -
+sem bancos ou intermediários com
+abotoadeiras de ouro sendo necessários
+
+Eles queriam contribuir e
+eles pediram para se envolver
+Eles ajudaram iEarn
+transformar-se em Yearn
+Eles sofreram ataques, hacks,
+e críticas contundentes
+
+Mas eles trabalharam juntos...
+Unidos ao redor do mundo por um
+senso de propósito não falado
+
+“Tem sido incrivelmente divertido
+enfrentar todos esses desafios,
+e cada um deles eu acredito que
+criou um ecossistema mais robusto,”
+Andre escreveu em 4 de fevereiro de 2020.
+"Mal posso esperar pelos
+outros problemas que virão”
+
+Na Yearn, os colaboradores não se intimidam
+com coisas difíceis,
+eles as procuram
+Lembre-se: elas escondem
+oportunidades
+Existe uma filosofia na
+mensagem de Andre:
+Procure por problemas
+
+PROBLEMAS SÃO
+A ARGILA QUE USAMOS
+PARA MOLDAR O
+FUTURO
+
+Em 17 de julho de 2020, Andre anunciou
+ele estava entregando o controle
+Qualquer um fornecendo liquidez para Yearn poderia
+receber YFI, um novo token de governança
+(pronuncia-se "wifey") que concedeu aos titulares
+poder sobre o futuro da plataforma
+“O controle está em suas mãos”, disse Andre
+“Boa Sorte”
+
+“As raízes de Yearn estão no presente,”
+um colaborador disse
+“O lançamento justo de Andre foi um ato revolucionário
+que colocou generosidade no DNA de
+toda a comunidade ”, disse outro
+Yearn não pergunta o que pode extrair
+Ele pergunta o que pode dar
+Nem três meses depois
+estava claro que o experimento
+tornou-se algo
+muito maior do que qualquer
+colaborador
+Era um movimento
+“Eu não sou Yearn,”
+Andre escreveu
+
+“Considere o quão grande o ecossistema se tornou, considere todos
+os sites, ferramentas, boletins informativos, fórum, Discord, Telegram,
+e desenvolvimento ativo no Github. Nada disso é feito por
+eu mesmo. Sou um prototipador rápido e continuarei a sê-lo. ”
+
+“A equipe Yearn é muito mais qualificada e capaz do que eu,
+e qualquer um que pensa que Yearn é ditado, conduzido ou de qualquer forma
+dependente de mim, está prestando um desserviço a Yearn. Estou feliz
+em ser um colaborador de algo muito maior.”
+“Não prevejo que os construtores parem e vou continuar a construir.
+Algumas coisas serão úteis, outras resultarão em falhas.
+Mas acho que vale mais tentar, mesmo que seja
+um fracasso, do que todos os críticos que assim o consideram.”
+
+Existem poucas coisas no
+mundo mais poderosas
+do que o presente
+Andre Cronje deu
+todo o YFI
+Cada
+Um
+Deles
+
+Mais de um bilhão de dólares em valor
+O campo do expansão deste presente cósmico deixou
+uma marca indelével no coletivo
+Suas vibrações ecoam
+em cada um de nós
+Ele nos chamou aqui
+Não por dinheiro
+Não pela fama
+Mas porque é isso que os presentes fazem
+Eles são mágicos
+Andre lançou um feitiço neste mundo tecido com
+integridade, gênio e generosidade
+E Yearn foi o que ele convocou
+
+PARTE DOIS: PRESENTE
+
+Pergunta: O que é Yearn?
+Uma fábrica de inovação?
+Um protocolo agregador de rendimento?
+Uma forma de vida intersubjetiva?
+Algo totalmente diferente?
+Pergunta: Quem pode contribuir para Yearn?
+Resposta: Você
+Seja você quem for, onde quer que esteja,
+você pode saber o que é Yearn
+melhor do que nós
+Venha nos mostrar
+
+Yearn é um emergente
+experimento em evolução,
+em colaboração descentralizada
+Não tem documentos de constituição,
+sem sede, nem mesmo uma lista
+de nomes e locais de
+seus colaboradores
+
+Yearn está aberto
+Tudo que ele constrói é visível
+Yearn é pós-corporativo...
+um lugar onde você nunca tem
+de se vender porque as suas
+contribuições falam por você
+
+NO YEARN, SEU TRABALHO
+NÃO ESTÁ ATRIBUÍDO
+ELE É GUIADO PELA SUA VOZ INTERNA
+
+Pergunta: E se o componente mais radical do Yearn
+não é a máquina de rendimento? Afinal, a máquina é
+um aparato técnico construído com código
+Não pode existir sem sua
+rede de corações e mentes
+
+Talvez a própria rede seja a
+parte mais radical de Yearn
+Nosso DAO exclusivo (ORGANIZAÇÃO AUTÔNOMA DESCENTRALIZADA)
+e aqueles que o incorporam
+
+Em outubro de 2020
+os colaboradores de Yearn
+apresentaram um manifesto
+Primeiro, eles nomearam o que Yearn não é:
+
+YEARN NÃO É
+UMA EMPRESA
+YEARN NÃO TEM
+INVESTIDORES
+YEARN NÃO TEM
+DE ATENDER A ESPECULADORES
+
+YEARN NÃO TEM
+UMA VOZ OFICIAL
+YEARN NÃO
+DEVE NADA
+PARA NINGUÉM
+
+Então, eles nomearam o que
+Yearn é:
+
+YEARN É UM COLETIVO
+DE COLABORADORES
+YEARN É IGUAL
+OPORTUNIDADE
+YEARN É PARA CONSTRUTORES
+YEARN É PARA
+PESSOAS COM INICIATIVA
+
+YEARN É PARA
+COLABORADORES
+YEARN É INFLUENCIADO
+PELO MÉRITO
+YEARN É GOVERNADO PELO YFI,
+MAS YFI NÃO GOVERNA
+OS COLABORADORES DE YEARN
+
+YEARN ESTÁ
+EM CONSTANTE EVOLUÇÃO
+
+E, FINALMENTE:
+“O QUE YEARN É HOJE,
+PODE NÃO SER O QUE
+ELE SERÁ AMANHÃ -
+O QUE VOCÊ FAZ DEPOIS
+DE LER ISTO PODE
+MUDAR YEARN PARA SEMPRE.
+ISSO CABE A VOCÊ."
+
+Yearn tem colaboradores que
+não escreveram uma linha de código e
+outros que passaram décadas
+desenvolvendo software
+Ambos os grupos perguntam:
+"Eu sou bom o suficiente para estar aqui?"
+
+A resposta é simples
+SIM
+Isso não é sobre
+o que vem antes,
+tem a ver com o agora
+
+Estamos todos aqui agora
+Se você foi atraído pela gravidade
+de Yearn, há uma razão
+Vamos enfrentar o impossível
+e ver se ele sai do caminho
+
+Ninguém conhece o futuro
+(Isso é porque ele não existe)
+
+PARTE TRÊS: FUTURO
+
+AQUI ESTAMOS
+OS SERES AUTO
+GOVERNADOS DE YEARN
+
+Somos líderes e exploradores que
+Trabalham com o presente para inventar o futuro
+Viemos do caos e optamos por não projetar as
+estruturas de controle rígidas, fechadas e hierárquicas imprimidas
+Em nossa memória coletiva neste puro
+Espaço sem forma à nossa frente
+Nós escolhemos o caminho mais difícil
+O caminho da criação
+
+E não somos os primeiros
+Décadas antes de Satoshi, espíritos pioneiros já tinham
+começado a explorar o futuro da coordenação
+O escritor Frederic Laloux chama isso de
+empreendimentos raros de organizações Teal
+Eles existem há décadas, escondidos em
+olhos vistos, fazendo coisas que você pensaria serem impossíveis:
+funcionando com transparência radical; trabalhando
+sem gerentes, burocracia ou mesmo orçamentos
+
+ESTAS EQUIPES TRABALHAM NA
+A VELOCIDADE DA CONFIANÇA -
+O MAIS RÁPIDO QUE PODEMOS IR
+TODOS SÃO UM LÍDER,
+DECIDINDO POR SI MESMOS
+COMO SEGUIR O PROPÓSITO
+EVOLUTIVO DO GRUPO
+
+É assim que trabalhamos na Yearn
+Não somos uma máquina
+Nós somos a própria vida
+Nós não somos Vermelhos, Âmbar,
+Laranja ou Verde ...
+Nós somos Teal
+E somos Azul
+
+Vamos traçar nosso próprio caminho
+O futuro do trabalho é como uma compartilhada
+bicicleta que pedalamos juntos, cada
+um pedalando tanto ou tão pouco quanto nós
+queiramos, e quando alguem sabe
+para onde ir em seguida, eles podem virar
+E não há mapa para
+onde nos estamos indo
+
+Para chegar lá, devemos cruzar o
+rio sentindo as pedras
+
+Nossos olhos não vão nos ajudar,
+nem nossas mentes
+Uma célula do coração não sabe
+como escalar uma montanha, mas
+quando bombeia sangue e
+confia em seus amigos, bem, então
+ela talvez consiga encontrar o cume
+
+Agora, e se eu te dissesse que cada
+de nós é feito de seres inteiros,
+é um ser completo, e é uma parte
+de seres inteiros maiores?
+E então o que aconteceria se eu dissesse que aqueles
+seres inteiros maiores têm seus
+próprios territórios desconhecidos pela frente?
+
+Bem, para aqueles de nós que já embarcaram
+nesta jornada juntos, sentimos esse futuro em
+nossos ossos, cantando para nós
+Nossa visão não é um roteiro com um conjunto
+de metas e resultados
+É essa musica
+A voz de Yearn
+(DIVISÃO AÉREA DE YEARN)
+
+A VOZ SEM SOM
+DE NOSSO COLETIVO,
+CHAMANDO POR NÓS DE
+ENTRE AS PÁGINAS
+
+Estamos no reino das
+redes agora
+Em DeFi (DESCENTRALIZED FINANCE), e em Yearn,
+este é o novo mundo
+
+Não somos empresas com fronteiras fechadas,
+véus corporativos, NDAs e não concorrência -
+somos entidades de rede permeáveis e sobrepostas
+sentindo e respondendo em tempo real a partir de
+milhares de seres autônomos com poderes
+
+Gerenciamento de cima para baixo, hierarquias de comando alavancadas e controle são para as salas de mogno
+do passado que ficou
+E nós somos navegadores, aventureiros,
+e exploradores do futuro
+Somos casados com o mar
+
+ESTAMOS CONSTRUINDO UM NAVIO
+Ele vai levar qualquer um que
+quer embarcar
+Qualquer idade, qualquer sexo,
+qualquer visão de mundo
+Todos vocês são bem-vindos
+Todos vocês são necessários
+Encontre um remo e comece a remar
+
+Yearn é um navio da
+frota de amanhã
+
+NÓS O CONSTRUÍMOS COM
+A MADEIRA DA
+FLORESTA ESCURA
+AGORA QUE ESTAMOS AQUI,
+VOCÊ PODE VER QUE
+O DESTINO NÃO
+IMPORTA
+
+Podemos navegar nos mares de
+agregação de rendimento, ou
+vamos procurar novos dragões
+Vamos escrever protocolos
+além da borda do mapa
+
+Tudo que importa
+é que navegamos
