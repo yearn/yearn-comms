@@ -8,8 +8,8 @@ logo: 'assets/images/yearn_logo.svg'
 favicon: 'assets/images/favicon.ico'
 author: yearn
 paginate: 30
-locale: en_us
-lang: en_us
+locale: el-GR
+lang: el-GR
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
