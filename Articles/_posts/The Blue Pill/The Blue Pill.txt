@@ -4,7 +4,8 @@ title:  "A Pílula Azul"
 categories: [ Articles ]
 image: ./The-Blue-Pill/bluepill.jpg
 author: Yearn
-publish: false
+translator: JKtranslator
+publish: true
 ---
 
 A Pílula Azul
