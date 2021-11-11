@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Bear market, bullish development
+title: Bear market, dévelopement bullish
 categories:
   - Tweets
 image: ./Bear-market,-bullish-development/image1.jfif
 author: Dudesahn
-translator: null
-publish: false
+translator: Crytpouf
+publish: true
 ---
 
 # Bear market, dévelopement bullish
