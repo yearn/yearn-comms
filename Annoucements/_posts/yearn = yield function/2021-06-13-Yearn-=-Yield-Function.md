@@ -1,23 +1,24 @@
 ---
 layout: post
-title:  "What if Yearn = the web's yield function?"
+title:  "
+Was wäre, wenn Yearn = die Ertragsfunktion des Internets wäre?"
 categories: [ Annoucements ]
 image: ./Yearn-=-Yield-Function/yield1.jpg
 author: Yearn
 translator:
-publish: false
+publish: true
 ---
 
 ![](yield1.jpg)
 
-# What if Yearn = the web's "yield function"?
+# Was wäre, wenn Yearn = die "Ertragsfunktion" des Internets wäre?
 
-In programming a "function" is a little bundle of reusable code that accomplishes a specific task… You can summon that function anytime, and it will do the same thing over and over again without fail.
+In der Programmierung ist eine "Funktion" ein kleines Bündel wiederverwendbarer Code, das eine bestimmte Aufgabe erfüllt... Du kannst diese Funktion jederzeit aufrufen, und sie wird immer wieder dasselbe tun, ohne zu versagen.
 
-With Yearn, devs anywhere on earth can take our yields and insert them into any financial flow.
+Mit Yearn können Entwickler überall auf der Welt unsere Erträge nehmen und sie in jeden Finanzfluss einfügen.
 
-People talk about money legos. Yearn isn't so much a lego as the plastic other DeFi projects can use to build their own legos.
+Die Leute reden über Geldlegos. Yearn ist weniger ein Lego als vielmehr das Plastik, aus dem andere DeFi-Projekte ihre eigenen Legos bauen können.
 
-Just as the Internet of Information uses APIs for data, the Internet of Value will use Yearn for yield. Anywhere value lies dormant (for days, hours... even minutes), Yearn will go.
+So wie das Internet der Informationen APIs für Daten verwendet, wird das Internet der Werte Yearn für den Ertrag nutzen. Überall dort, wo Werte schlummern (für Tage, Stunden... sogar Minuten), wird Yearn zum Einsatz kommen.
 
-And that means Yearn could become as big as the Internet of Value itself. Like blockchains, it could come to underlie all financial flows -- all value flows.
+Und das bedeutet, dass Yearn so groß werden könnte wie das Internet der Werte selbst. Wie Blockchains könnte es allen Finanzströmen zugrunde liegen -- allen Wertströmen.
