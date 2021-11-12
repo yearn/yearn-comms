@@ -4,7 +4,7 @@ title:  "Was brauche ich, um eine Strategie zu schreiben?"
 categories: [ Annoucements ]
 image: ./What-do-I-need-to-write-a-strategy/image1.jpg
 author: Yearn
-translator:
+translator: Nesyeth
 publish: true
 ---
 
