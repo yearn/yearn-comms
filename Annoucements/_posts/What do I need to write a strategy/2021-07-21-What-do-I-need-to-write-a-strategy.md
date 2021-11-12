@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "What do I need to write a strategy?"
+title:  "O que preciso para escrever uma estratégia?"
 categories: [ Annoucements ]
 image: ./What-do-I-need-to-write-a-strategy/image1.jpg
 author: Yearn
-translator: JKtranslator
+translator: jameskbh
 publish: true
 ---
 
