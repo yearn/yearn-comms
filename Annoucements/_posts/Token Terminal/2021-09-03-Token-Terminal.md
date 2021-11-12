@@ -4,7 +4,7 @@ title:  "Token Terminal"
 categories: [ Annoucements ]
 image: ./Token-Terminal/1.jpg
 author: Yearn
-translator:
+translator: Nesyeth
 publish: true
 ---
 
