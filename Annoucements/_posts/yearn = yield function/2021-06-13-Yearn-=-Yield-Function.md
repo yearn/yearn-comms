@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "
-Was wäre, wenn Yearn = die Ertragsfunktion des Internets wäre?"
+title:  "Was wäre, wenn Yearn = die Ertragsfunktion des Internets wäre?"
 categories: [ Annoucements ]
 image: ./Yearn-=-Yield-Function/yield1.jpg
 author: Yearn
-translator:
+translator: Nesyeth
 publish: true
 ---
 
