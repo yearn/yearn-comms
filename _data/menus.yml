@@ -42,12 +42,12 @@ footermenu:
   class: "ml-2 btn btn-primary text-white px-3"
   external: true
 
-- title: Đóng góp cho yearn
+- title: đóng góp cho yearn
   url: https://contribute.yearn.rocks
   class: "ml-2 btn btn-primary text-white px-3"
   external: true  
 
-- title: yia nhập yearn
+- title: gia nhập yearn
   url: https://yearnfinance.notion.site
   class: "ml-2 btn btn-primary text-white px-3"
   external: true  
