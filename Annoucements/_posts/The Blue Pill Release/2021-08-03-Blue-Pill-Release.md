@@ -4,7 +4,7 @@ title:  "Blue Pill Release"
 categories: [ Annoucements ]
 image: ./Blue-Pill-Release/thebluepill.jpg
 author: Yearn
-translator: JKtranslator
+translator: jameskbh
 publish: true
 ---
 
