@@ -4,13 +4,13 @@ title:  "Update YFIStats Dashboards"
 categories: [ Annoucements ]
 image: ./Updated-YFIStats-Dashboards/1.jpg
 author: Yearn
-translator:
-publish: false
+translator: jameskbh
+publish: true
 ---
 
 ![](1.jpg) </br>
 
-[YFI Stats](https://www.yfistats.com/) has been updated with some new dashboards. We now have a YFI buybacks and a CRV from EPS airdrop dashboard to help users better visualize these metrics. These have been some of the most requested features recently and now they're live! If there are any other metrics you would like to see on YFI Stats feel free to reach out. You can check it out now at the links below.
+[YFI Stats](https://www.yfistats.com/) foi atualizado novos painéis de controle. Agora temos um gráfico de recompra de YFI e um de EPD do CRV, que vai ajudar os usuários a visualizar melhor estas métricas. Estes foram pedidos recentemente, e agora estão disponíveis! Se houver alguma outra informação que gostaria de ver em YFI Stats entre em contato conosco. Você pode conferir estes dois novos nos links abaixo.
 
 YFI Buybacks: https://www.yfistats.com/financials/YFIBuybacks.html </br>
 CRV from EPS: https://www.yfistats.com/other/CRVfromEPS.html
