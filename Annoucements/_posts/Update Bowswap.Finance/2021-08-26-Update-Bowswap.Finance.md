@@ -1,31 +1,31 @@
 ---
 layout: post
-title:  "Update Bowswap"
+title:  "Bowswap Atualizado"
 categories: [ Annoucements ]
 image: ./Update-Bowswap.Finance/image1.jpg
 author: Yearn
-translator:
-publish: false
+translator: jameskbh
+publish: true
 ---
 
 # Bowswap.Finance [Update](https://t.me/yearnupdates/483)
 
-It now has two parts:
+Ele agora possui dois caminhos:
 
-## 1. Between Yearn Vaults
+## 1. Entre Vaults Yearn
 
 ![](image1.jpg)
 
-It swaps funds from one vault to another. There's no liquidity pool. It withdraws and redeposits into the desired vault. The only swaps it does is using Curve. If the vaults have a token in common (same metapool or 3CRV for example) it will use them. While it's not cheap gas-wise, it is gas efficient - Cheaper than doing it manually, for sure
+Ele movimenta fundos de um vault para o outro. Não há pool de liquidez. Ele saca e redeposita os fundos no vault desejado. As únicas trocas que faz utiliza a Curve. Se os vaults tem um token em comum (mesmo metapool ou 3CRV por exemplo) ele vai utilizá-los. Apesar de nao ser barato considerando-se o gás, é bastante eficiente - com certeza é mais barato do que fazer manualmente as operações.
 
-## 2. From DeFi to Yearn Vaults
+## 2. De protocolos DeFi para Vaults Yearn
 
-[Bowswap.finance](https://bowswap.finance/), now with simple migration to the best yield available. Migrate from AAVE and Compound to Yearn Finance in a few clicks, with no fees.
+[Bowswap.finance](https://bowswap.finance/), agora com migrações simples para o melhor rendimento disponível. Migre de AAVE e Compound para Yearn Finance em poucos cliques, sem taxas.
 
-Sorry Stani
+Desculpe Stani
 
 ![](image2.jpg)
 
-This next feature helps users migrate funds from Compound and AAVE to Yearn. It's the same concept as above, withdraw from the protocol and deposit into a Yearn Vault. Also shows both protocol's APY in the list and let's you select multiple tokens at the same time.
+Este caminho ajuda os usuários a migrar fundos de Compound e AAVE para Yearn. É o mesmo conceito apresentado acima: realizar o saque do protocolo e fazer o depósito em um Vault Yearn. Também mostra o APY de ambos protocolos na lista, e lhe permite selecionar múltiplos tokens ao mesmo tempo.
 
-No fees are charged by Yearn on these swaps.
+Nenhuma taxa é cobrada por Yearn nestas trocas.
