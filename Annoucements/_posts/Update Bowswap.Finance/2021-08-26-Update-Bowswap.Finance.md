@@ -16,7 +16,7 @@ Ele agora possui dois caminhos:
 
 ![](image1.jpg)
 
-Ele movimenta fundos de um vault para o outro. Não há pool de liquidez. Ele saca e redeposita os fundos no vault desejado. As únicas trocas que faz utiliza a Curve. Se os vaults tem um token em comum (mesmo metapool ou 3CRV por exemplo) ele vai utilizá-los. Apesar de nao ser barato considerando-se o gás, é bastante eficiente - com certeza é mais barato do que fazer manualmente as operações.
+Ele movimenta fundos de um vault para o outro. Não há pool de liquidez. Ele saca e redeposita os fundos no vault desejado. As únicas trocas que faz utiliza a Curve. Se os vaults tem um token em comum (mesmo metapool ou 3CRV por exemplo) ele vai utilizá-los. Apesar de não ser barato considerando-se o gás, é bastante eficiente - com certeza é mais barato do que fazer manualmente as operações.
 
 ## 2. De protocolos DeFi para Vaults Yearn
 
