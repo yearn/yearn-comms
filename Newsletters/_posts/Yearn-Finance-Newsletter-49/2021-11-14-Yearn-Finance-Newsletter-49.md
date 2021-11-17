@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Yearn Finance Newsletter #49"
+categories: [ Newsletters ]
+image: ./Yearn-Finance-Newsletter-49/image1.png
+author: Yearn
+translator:
+publish: true
+---
+
 # Yearn Finance Newsletter #49
 
 ### Week Ending November 14th, 2021
