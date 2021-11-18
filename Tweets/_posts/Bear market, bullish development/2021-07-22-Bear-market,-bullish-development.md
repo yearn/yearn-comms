@@ -1,58 +1,63 @@
 ---
 layout: post
-title:  "Bear market, bullish development"
+title:  "Bear market, dévelopement bullish"
 categories: [ Tweets ]
 image: ./Bear-market,-bullish-development/image1.jfif
 author: Dudesahn
-translator:
-publish: false
+translator: Cryptouf
+publish: true
 ---
 
-original source: [twitter](https://twitter.com/dudesahn/status/1417898521685078016)
 
-##### 1
 
-Bear market, bullish development.
+# Bear market, dévelopement bullish
 
-While http://yearn.finance has recently added nice features like
-@zapper_fi
-integration for vaults, it still is in need of some love. For those following closely, you may have noticed hints about a new website in the works.
+source originale: [twitter](https://twitter.com/dudesahn/status/1417898521685078016)
 
-A thread 🧵
+**1**
 
-##### 2
+Bear market, dévelopement bullish .
 
-“Wait!” you might say, “Isn’t http://yearn.fi Yearn’s new website?”
+Alors que http://yearn.finance a récemment ajoute de superbes fonctionnalités comme l'intégration de @zapper\_fi pour les coffres, il a encore besoin d'un peu d'amour. Pour ceux qui suivent de près, vous avez peut-être remarqué des indices sur un nouveau site Web en préparation.
 
-Yes and no.
+Un fil d'actualité 🧵
 
-[@AndreCronjeTech](https://twitter.com/AndreCronjeTech) is a mad scientist, and works at light speed while building out his prototypes. Consider http://yearn.fi his playground, built by himself and [@AntonNellCrypto](https://twitter.com/AntonNellCrypto). 🧪
+**2**
 
-##### 3
+"Attendez!" vous pourriez dire : « http://yearn.fi n'est-il pas le nouveau site Web de Yearn ? »
 
-yearn.finance is maintained by a separate group of contributors, and we've been implementing a completely new backend (including an SDK with several APIs) that will power our new frontend, designed specifically with the SDK in mind.
+Oui et non.
 
-##### 4
 
-http://yearn.finance and http://yearn.fi have different approaches, but the hope is that they can be mutually beneficial to one another. Handshake
 
-##### 5
+[@AndreCronjeTech](https://twitter.com/AndreCronjeTech)  est un savant fou et travaille à la vitesse de la lumière tout en développant ses prototypes. Considérez http://yearn.fi comme son terrain de jeu, construit par lui-même et @AntonNellCrypto. 🧪
 
-yearn.fi is able to stand up new features very quickly, while the upcoming v3 http://yearn.finance will demonstrate the power of our reworked backend. Our goal? Abstracting away the complexity around integrating with yearn products for future partners.
+**3**
 
-##### 6
+yearn.finance est géré par un groupe distinct de contributeurs, et nous avons mis en œuvre un tout nouveau backend (y compris un SDK avec plusieurs API) qui alimentera notre nouveau frontend, conçu spécifiquement avec le SDK à l'esprit.
 
-Over the next few weeks, I'll go more in-depth on some of the tech we're building at yearn, why it matters, and what we're excited to work on next. And ultimately, we hope that this can make our work a little more accessible to everyone and a little less opaque. Left-pointing magnifying glass
+**4**
 
-##### 7
+http://yearn.finance et http://yearn.fi ont des approches différentes, mais notre souhait est qu'ils puissent être mutuellement bénéfiques. 🤝
 
-Once the new site launches, this will include improving our GitHub issue curation for bugs, maintaining a bounty board for larger features we'd like to add, and in general reaching out a hand to anyone who'd like to contribute.
+**5**
 
-##### 8
+yearn.fi est capable de mettre en place de nouvelles fonctionnalités très rapidement, tandis que la prochaine v3 http://yearn.finance démontrera la puissance de notre nouveau backend. Notre objectif? Éliminez la complexité de l'intégration avec les produits Yearn pour les futurs partenaires.
 
-If you'd like to come build with us, we'd love to have you. Simple as that.
+**6**
 
-Feel free to reach out to me on telegram
-[@dudesahn](https://twitter.com/dudesahn) and we can get you started.
+Au cours des prochaines semaines, j'approfondirai certaines des technologies que nous développons chez yearn, pourquoi c'est important et sur quoi nous sommes allons  travailler ensuite. Et finalement, nous espérons que cela pourra rendre notre travail un peu plus accessible à tous et un peu moins opaque. 🔎
+
+**7**
+
+Une fois le nouveau site lancé, il inclura l'amélioration de notre curation des "GitHub issue"  pour les bugs, le maintien d'un tableau de bounty pour les fonctionnalités plus importantes que nous aimerions ajouter et, en général, tendre la main à tous ceux qui souhaitent contribuer.
+
+**8**
+
+Si vous souhaitez venir construire avec nous, nous serions ravis de vous compter parmi nous . C'est aussi simple que cela.&#x20;
+
+N'hésitez pas à me contacter sur telegram [@dudesahn](https://twitter.com/dudesahn)  et nous pourrons vous aider à démarrer.
+
+
 
 ![](image1.jfif)
