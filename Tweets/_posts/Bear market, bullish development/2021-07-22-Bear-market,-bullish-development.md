@@ -4,7 +4,7 @@ title:  "Bear market, dévelopement bullish"
 categories: [ Tweets ]
 image: ./Bear-market,-bullish-development/image1.jfif
 author: Dudesahn
-translator:
+translator: Cryptouf
 publish: true
 ---
 
