@@ -1,72 +1,72 @@
 ---
 layout: post
-title:  "Risk, Tooling, & Insight"
+title:  "Risiko, Werkzeuge und Einblicke"
 categories: [ Tweets ]
 image: ./Risk,-Tooling,-&-Insight/stormblessed.jpg
 author: Storm Blessed
-translator:
-publish: false
+translator: Nesyeth
+publish: true
 ---
 
-original source: [twitter](https://twitter.com/storming0x/status/1436851219864059906)
+Originalquelle: [twitter](https://twitter.com/storming0x/status/1436851219864059906)
 
 ##### 1
-Doing some weekend coding and decided to do a tweet storm about [@iearnfinance](https://twitter.com/iearnfinance) risk, tooling and insight behind the scenes.
+Ich habe am Wochenende etwas gecodet und beschlossen, einen Tweetstorm über [@iearnfinance](https://twitter.com/iearnfinance) Risiken, Tools und Einblicke hinter die Kulissen zu machen.
 
 🧵 👇
 
 ##### 2
-If you don't know about [yearn.finance](http://yearn.finance), you can think of it as the "yield function protocol". Yearn top product are the Vaults. Put money into the vaults and somehow the next day that money grows and keeps growing constantly. This is an over simplification ofc.
+Wenn man [yearn.finance](http://yearn.finance) nicht kennt, kann man es sich als "Renditefunktionsprotokoll" vorstellen. Das Spitzenprodukt von Yearn sind die Vaults. Lege Geld in die Vaults und irgendwie wächst dieses Geld am nächsten Tag und wächst ständig weiter. Das ist natürlich eine starke Vereinfachung.
 
 ##### 3
-This is made possible by a team of smart folks that code strategies for the vault to allocate money with the goal to earn returns. The strategies are smart contracts that need to be deploy and updated often. These smart contracts are flexible and dynamic. Example allocations:
+Ermöglicht wird dies durch ein Team intelligenter Leute, die Strategien für den Vault programmieren, um Geld mit dem Ziel zu verteilen, Rendite zu erzielen. Die Strategien sind intelligente Verträge, die häufig eingesetzt und aktualisiert werden müssen. Diese intelligenten Verträge sind flexibel und dynamisch. Beispielhafte Zuweisungen:
 
 ![3_1436841383378120712](3_1436841383378120712.jpg)
 
 ##### 4
-Given the way yearn protocol works, it needs a very quick turnaround to launch new contracts and strategies quickly, this has implications in security. One of the main concerns at yearn is risk from all perspectives. We are at the EOD in the risk business. How to balance this?
+Angesichts der Art und Weise, wie das yearn-Protokoll funktioniert, muss es sehr schnell umgeschaltet werden, um neue Verträge und Strategien rasch auf den Weg zu bringen, was sich auf die Sicherheit auswirkt. Eines der Hauptanliegen von Yearn ist das Risiko aus allen Perspektiven. Wir sind bei der EOD im Risikogeschäft tätig. Wie lässt sich das ausgleichen?
 
 ##### 5
-We need to come up with a risk framework. To get the picture. This is the number of vaults + strategies deployed currently. There is no way around the complexity of this system, many pieces need to fall in place to make this work.
+Wir müssen einen Risikorahmen schaffen, um sich ein Bild zu machen. Das ist die Anzahl der Vaults + Strategien, die derzeit eingesetzt werden. An der Komplexität dieses Systems führt kein Weg vorbei, viele Teile müssen zusammenpassen, damit es funktioniert.
 
 ![3_1436842206359285762](3_1436842206359285762.jpg)
 
 ##### 6
-In my previous life I had a background in aeronautics systems. I think many lessons can be taken from Aviation which is also in the risk business. The complexity like in finance is high. Still you don't think twice booking a flight for your next trip.
+In meinem früheren Leben habe ich mich mit Luftfahrtsystemen beschäftigt. Ich denke, man kann viele Lehren aus der Luftfahrt ziehen, die auch ein Risikogeschäft ist. Die Komplexität ist wie im Finanzwesen hoch. Trotzdem denkt man nicht zweimal darüber nach, einen Flug für die nächste Reise zu buchen.
 
 ##### 7
-Every day millions of flights take place, and many flights have incidents. An incident doesn't lead to an accident = plane crashing. You need many incidents concurrently to happen for a plane to crash. This in current airline operations is extremely unlikely.
+Jeden Tag finden Millionen von Flügen statt, und bei vielen Flügen kommt es zu Zwischenfällen. Ein Zwischenfall führt nicht zu einem Unfall = Flugzeugabsturz. Damit ein Flugzeug abstürzt, müssen viele Zwischenfälle gleichzeitig eintreten. Dies ist im derzeitigen Flugbetrieb äußerst unwahrscheinlich.
 
 ##### 8
-But every time there is an incident the aviation process and systems, require that you correct and fix the root cause. We have implemented a similar process in yearn, every war room doesn't lead to a loss of funds, but we are required to learn from it and improve.
+Aber jedes Mal, wenn es einen Zwischenfall gibt, verlangen die Luftfahrtprozesse und -systeme, dass man die Ursache korrigiert und behebt. Wir haben ein ähnliches Verfahren eingeführt. Nicht jedes Problem führt zu einem Verlust von Mitteln, aber wir müssen daraus lernen und uns verbessern.
 
 ##### 9
-This process was implemented early this year after a really bad month of incidents and war rooms. And several initiatives were started and implemented to automate and remove human factors as much as possible from our daily decisions.
+Dieser Prozess wurde Anfang des Jahres nach einem wirklich schlimmen Monat mit vielen Zwischenfällen und Problemen eingeführt. Und es wurden mehrere Initiativen gestartet und umgesetzt, um menschliche Faktoren zu automatisieren und so weit wie möglich aus unseren täglichen Entscheidungen zu entfernen.
 
 [twitter.com/storming0x/sta…](https://twitter.com/storming0x/status/1395452522840608768?s=20)
 
 > ![storming0x](storming0x-881012267675820034.jpg)
 > Storm Blessed 0x ([@storming0x](https://twitter.com/storming0x))
 
-> We just got out of a 16 + hour plus war room dealing with a situation in yearn. Extremely tired but grateful to have the chance to be part of these awesome team.
+> Wir haben gerade einen 16-stündigen Einsatz hinter uns, bei dem es um ein Problem bei Yearn ging. Extrem müde, aber dankbar, dass wir die Chance haben, Teil dieses großartigen Teams zu sein.
 
-Crisis resolved and no funds lost. Lots of key learnings and thing that will make [@iearnfinance](https://twitter.com/iearnfinance) stronger. Need 😴
+Die Krise wurde gelöst und es gingen keine Mittel verloren. Viele wichtige Erkenntnisse und Dinge, die [@iearnfinance](https://twitter.com/iearnfinance) stärker machen werden. Brauchen 😴
 
 ##### 10
-This ofc still can be improved, and is a constant process, but in yearn what doesn't kill us for sure makes us stronger. It's part of my job to make this process ingrained in Yearn's DNA.
+Das kann natürlich noch verbessert werden und ist ein ständiger Prozess, aber was uns nicht umbringt, macht uns stärker. Es ist Teil meiner Aufgabe, diesen Prozess in der DNA von Yearn zu verankern.
 
 [github.com/yearn/yearn-de…](https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/EMERGENCY.md)
 
 ##### 11
-We had war rooms were code had a bug and made incorrect accounting that lead to war rooms and issues.
-Fixes:
--We added simulation bots to catch issues before they happen on chain.
--On chain healthchecks that revert a trx if the asserts are not met.
+Wir hatten Situationen, in denen der Code einen Fehler aufwies und falsche Abrechnungen machte, die zu Krisensituationen und Problemen führten.
+Behebungen:
+-Wir haben Simulationsbots hinzugefügt, um Probleme zu erkennen, bevor sie in der Kette auftreten.
+-Gesundheitsprüfungen auf der Kette, die ein trx rückgängig machen, wenn die Asserts nicht erfüllt sind.
 
 [github.com/yearn/yearn-de…](https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/DEPLOYMENT.md#health-checks)
 
 ##### 12
-The simulation bot is tied to alerting on our telegram and send us with time ahead any issue. We recently had a war room completely prevented by a simulation, the strategy was winded down without having to correct anything onchain. We moved from corrective to preventive action.
+Der Simulations-Bot ist an die Benachrichtigung über unser Telegramm gebunden und sendet uns mit zeitlichem Vorlauf jedes Problem. Kürzlich konnten wir eine Krise durch eine Simulation komplett verhindern, die Strategie wurde abgewickelt, ohne dass wir etwas in der Kette korrigieren mussten. Wir sind von korrigierenden zu präventiven Maßnahmen übergegangen.
 
 ![3_1436848158034644993](3_1436848158034644993.jpg)
 
@@ -75,15 +75,15 @@ The simulation bot is tied to alerting on our telegram and send us with time ahe
 ![3_1436848196399996929](3_1436848196399996929.jpg)
 
 ##### 13
-[yearn.watch](http://yearn.watch) is the site I built to track strategies and vaults state. It uses a great piece on infra built internally by the yearn team to fetch data. We have specialized multicall contracts to be able to get this data efficiently to make decisions.
+[yearn.watch](http://yearn.watch) ist die Website, die ich aufgebaut habe, um Strategien und den Zustand von Vaults zu verfolgen. Sie nutzt ein großartiges Stück Infrastruktur, das intern vom Yearn-Team entwickelt wurde, um Daten abzurufen. Wir haben spezielle Multicall-Verträge, um diese Daten effizient abrufen zu können und Entscheidungen zu treffen.
 
 ![3_1436848846378729473](3_1436848846378729473.jpg)
 
 ![3_1436848859322273796](3_1436848859322273796.jpg)
 
 ##### 14
-We also have a risk dashboard that we came up to score each strategy to assess at any point in time our risk. This is populated by our internal infra and adjusted automatically by onchain changes.
-(Sample data below)
+Wir haben auch ein Risiko-Dashboard, das wir entwickelt haben, um jede Strategie zu bewerten und unser Risiko zu jedem Zeitpunkt einzuschätzen. Es wird von unserer internen Infrastruktur gespeist und bei Änderungen in der Kette automatisch angepasst.
+(Beispielhafte Daten unten)
 
 ![3_1436849527198085126](3_1436849527198085126.jpg)
 
@@ -92,9 +92,9 @@ We also have a risk dashboard that we came up to score each strategy to assess a
 ![3_1436849615987351553](3_1436849615987351553.jpg)
 
 ##### 15
-This is an internal risk tool that has been added very recently, is still to early to made public since we are tweaking our data and models to try come up with an objective scoring given our internal process. Once we collected more data on this I'm happy to share more on it.
+Es ist noch zu früh, um es zu veröffentlichen, da wir unsere Daten und Modelle noch optimieren, um angesichts unseres internen Prozesses eine objektive Bewertung zu erhalten. Sobald wir mehr Daten dazu gesammelt haben, werde ich gerne mehr darüber berichten.
 
 ##### 16
-We are far from solving smart contract risk and security, but the only thing we can do is keep trying. We hope this behind the scenes view can inform other projects in the ecosystem to help them or also come up with other ideas that we can all benefit from.
+Wir sind weit davon entfernt, das Risiko und die Sicherheit von Smart Contracts zu lösen, aber das Einzige, was wir tun können, ist, es weiter zu versuchen. Wir hoffen, dass dieser Blick hinter die Kulissen andere Projekte im Ökosystem informieren kann, um dir zu helfen oder auch andere Ideen zu entwickeln, von denen wir alle profitieren können.
 
-Thanks for reading!
+Vielen Dank für's Lesen!
