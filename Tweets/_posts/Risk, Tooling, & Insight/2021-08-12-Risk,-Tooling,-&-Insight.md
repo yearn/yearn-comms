@@ -48,9 +48,9 @@ yearnのプロトコルは新しいコントラクトやストラテジーを迅
 > ![storming0x](storming0x-881012267675820034.jpg)
 > Storm Blessed 0x ([@storming0x](https://twitter.com/storming0x))
 
-> We just got out of a 16 + hour plus war room dealing with a situation in yearn. Extremely tired but grateful to have the chance to be part of these awesome team.
+> 私たちは16時間以上にわたって対応しているYearnのwar roomから抜け出したところです。非常に疲れましたが、この素晴らしいチームの一員になれたことに感謝しています。
 
-Crisis resolved and no funds lost. Lots of key learnings and thing that will make [@iearnfinance](https://twitter.com/iearnfinance) stronger. Need 😴
+危機は解決し、資金の損失はありませんでした。たくさんの重要な学びと、[@iearnfinance](https://twitter.com/iearnfinance)をより強くするものがありました。😴が必要です。
 
 ##### 10
 もちろんこれにはまだ改善の余地があり絶え間ないプロセスではありますが、Yearnでは死なないものは確実に強くなるのです。このプロセスをYearnのDNAに根付かせることが、私の仕事の一つです。
