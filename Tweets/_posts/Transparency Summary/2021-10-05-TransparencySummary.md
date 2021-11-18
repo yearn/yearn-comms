@@ -1,33 +1,33 @@
 ---
 layout: post
-title:  "Transparency Summary"
+title:  "透明性の概要"
 categories: [ Tweets ]
 image: ./TransparencySummary/image1.jpg
 author: Yearn
-translator:
-publish: false
+translator: Cripu
+publish: true
 ---
-original source: [twitter](https://twitter.com/iearnfinance/status/1445143482830446600)
+ソース: [twitter](https://twitter.com/iearnfinance/status/1445143482830446600)
 
 ##### 1
 
-This is why crypto will change the world.
+これはクリプトが世界を変える理由です。
 
-It kills shadows.
+クリプトは影を殺します。
 
-Yearn’s super coders are 🌞.
+Yearnのスーパーコーダーは🌞です。
 
-Everything’s on-chain with hooman-readable labels.
+全てのオンチェーンに人間が読めるラベルがついています。
 
-Transparency verified ✅
+透明性が検証されました✅
 
-Let’s take a look at just how transparent Yearn is 👇
+Yearnがどれほど透明なのかを見てみましょう👇
 
 ![](image1.jpg)
 
 ##### 2
 
-See Yearn’s balance sheets, EBITDA, income and more EVERY quarter:
+Yearnのバランスシート、EBITDA、収入、そして全ての四半期をみてください。:
 
 https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf
 
@@ -41,37 +41,37 @@ https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-qu
 
 ##### 3
 
-In fact, you can track every single Yearn-related transaction in real time at [yfistats.com](http://www.yfistats.com/)
+実際、Yearn関連のすべてのトランザクションは[yfistats.com](http://www.yfistats.com/)にてリアルタイムで追跡することができます。
 
 ![](image6.jpg)
 
 ##### 4
 
-There, you’ll find sortable:
+そこでは次のように区分されています:
 
-🔵 Transaction records
+🔵 トランザクション記録
 
-🔵 Protocol income
+🔵 プロトコル収入
 
-🔵 Protocol expenses
+🔵 プロトコル費用
 
-🔵 Income statements
+🔵 損益計算書
 
-🔵 EOM balances
+🔵 EOMのバランス
 
-🔵 Charts
+🔵 チャート
 
-🔵 Revenue projects
+🔵 収益プロジェクト
 
-🔵 $YFI buybacks
+🔵 $YFIバイバック
 
-& much more.
+などなど。
 
-All of it is meticulously labelled by the yBudget team with 💙  and freely accessible to anyone in the 🌍
+そのすべてがyBudgetチームと💙によって綿密にラベル付けされ、🌍の誰もが自由にアクセスできます。
 
 ##### 5
 
-Don’t like websites? You can even track our income with custom “harvest bots” in Discord and Telegram:
+ウェブサイトが嫌いですか？DiscordやTelegramのカスタム「ハーベストボット」でYearnの収入を追跡することもできます。:
 
 🔵 Discord: [discord.com/invite/6PNv2nF](https://discord.com/invite/6PNv2nF)
 
@@ -81,16 +81,16 @@ Don’t like websites? You can even track our income with custom “harvest bots
 
 ##### 6
 
-Want to join one of the most open and transparent platforms in history?
+歴史上最もオープンで透明性の高いプラットフォームに参加してみませんか？
 
-Good news: we show you exactly how you can contribute with a list of tasks just waiting for new contributors: [contribute.yearn.rocks](https://contribute.yearn.rocks/)
+グッドニュース：Yearnでは、あなたがどのようにコントリビュートできるかを、新しいコントリビューターを待っているタスクのリストを使って正確に示しています。[contribute.yearn.rock](https://contribute.yearn.rocks/)
 
 ![](image8.jpg)
 
 ##### 7
 
-The future is here, it’s just not evenly distributed.
+将来はここにあります。ただし均等には存在しません。
 
-Come live it with us at Yearn 💙
+Yearnで一緒に暮らしましょう💙
 
 ![](image9.jpg)
