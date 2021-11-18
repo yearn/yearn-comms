@@ -11,7 +11,7 @@ publish: true
 fonte: [twitter](https://twitter.com/tracheopteryx/status/1410243752434753547)
 
 ##### 1
-Gostei muito de conversar com [@TrustlessState](https://twitter.com/TrustlessState) no podcast [@BanklessHQ](https://twitter.com/BanklessHQ) sobre [@coordinape](https://twitter.com / coordinape) com [@fifthworldzach](https://twitter.com/fifthworldzach)
+Gostei muito de conversar com [@TrustlessState](https://twitter.com/TrustlessState) no podcast [@BanklessHQ](https://twitter.com/BanklessHQ) sobre [@coordinape](https://twitter.com/coordinape) com [@fifthworldzach](https://twitter.com/fifthworldzach)
 
 [youtube](https://www.youtube.com/watch?v=JM0zF3AzFno)
 
@@ -57,7 +57,7 @@ Quando a vida surgiu na Terra, éramos criaturas simples. Unicelulares. Flutuand
 O mundo está prestes a dar um passo extraordinário. Veja, o mar do coletivo tem sido como o mar da velha terra. As forças que ligam o análogo celular do coletivo (memes?) não foram fortes o suficiente para dar o passo para o eucarioto. Mas: temos o blockchain agora.
 
 ##### 10
-Blockchain é uma nova física. Uma física do /espaço coletivo/. Ninguém elucidou essa realidade mais profundamente do que meu co-instigador no Coordinape, [@Zemm_NFT](https://twitter.com/Zemm_NFT), falando sobre NFTs no "The Greatest NFT Film Ever Made." de [@DirSchmidt](https://twitter.com/DirSchmidt ).
+Blockchain é uma nova física. Uma física do /espaço coletivo/. Ninguém elucidou essa realidade mais profundamente do que meu co-instigador no Coordinape, [@Zemm_NFT](https://twitter.com/Zemm_NFT), falando sobre NFTs no "The Greatest NFT Film Ever Made." de [@DirSchmidt](https://twitter.com/DirSchmidt).
 
 https://youtube.com/watch?v=cY9lM73ie0Q&t=1575s
 
@@ -68,7 +68,7 @@ Blockchain torna a ficção real. Tão real quanto o pó. E desse pó, nova faun
 
 ##### 12
 
-Assista ao vídeo bankless ou acesse http://coordinape.com para saber mais, mas resumidamente: Coordinape permite que os protocolos aumentem sua rede de colaboradores com um sistema identificações NFT e distribua seus incentivos por meio de um mecanismo novo, descentralizado e liderado pela comunidade, inspirado por economias de doações.
+Assista ao vídeo do bankless ou acesse http://coordinape.com para saber mais, mas resumidamente: Coordinape permite que os protocolos aumentem sua rede de colaboradores com um sistema identificações NFT e distribua seus incentivos por meio de um mecanismo novo, descentralizado e liderado pela comunidade, inspirado por economias de doações.
 
 ##### 13
 Porque os tipos de ferramentas usadas para apoiar a inteligência coletiva em um ambiente adverso são inadequadas para um ambiente /colaborativo/. A abelha e a flor não precisam de contratos.
