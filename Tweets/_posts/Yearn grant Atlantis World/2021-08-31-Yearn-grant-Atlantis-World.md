@@ -4,36 +4,36 @@ title:  "Atlantis World Grant"
 categories: [ Tweets ]
 image: ./Yearn-grant-Atlantis-World/image2.jpg
 author: Yearn
-translator:
-publish: false
+translator:jameskbh
+publish: true
 ---
 
-original source: [twitter](https://twitter.com/iearnfinance/status/1432387438014435332)
+fonte: [twitter](https://twitter.com/iearnfinance/status/1432387438014435332)
 
-###### Yearn Finance has issued a grant to [@atlantis0x](https://twitter.com/atlantis0x) to help build a 2d pixel metaverse. Here's why:
+###### Yearn Finance concedeu fundos para [@atlantis0x](https://twitter.com/atlantis0x) para ajudar a criar um 2d pixel metaverse. Explicamos porque:
 
 ##### 1
 
-[Atlantis World](https://twitter.com/atlantis0x) is a Web3 metaverse designed to expand access to virtual worlds, a 2d pixelverse that doesn't require expensive tech but will still melt faces.
+[Atlantis World](https://twitter.com/atlantis0x) é um Web3 metaverso criado para expandir o acesso a mundos virtuais,um 2d pixelverso que não precisa de tecnologia cara, mas que é excepcional.
 
 ![](image2.jpg)
 
 ##### 2
 
-They're building DAO and DeFi first, with education, community, governance, and security in mind from the start.
+Eles estão construindo as seções DAO e DeFi primeiro, com educação, comunidade, governança e segurança em mente desde o começo.
 
 ##### 3
 
-We think the metaverse will play a big role in the future of DAOs and culture as we connect, gamify, and evolve the ecosystem.
+Achamos que o metaverso vai ter um papel fundamental no futuro de DAOs e cultura enquanto conectamos, gamificamos e evoluimos o ecossistema.
 
 ##### 4
 
-Learn more about Atlantis World:  [atlantisworld.io](https://atlantisworld.io)
+Aprenda mais sobre o Atlantis World: [atlantisworld.io](https://atlantisworld.io)
 
 ##### 5
 
-Grants to builders like [@atlantis0x](https://twitter.com/atlantis0x) are core to Yearn's strategy to constantly evolve and keep making DeFi simple.
+Doações para desenvolvedores como [@atlantis0x](https://twitter.com/atlantis0x) são parte fundamental da estratégia de Yearn de constantemente desenvolver e manter DeFi simples.
 
 ##### 6
 
-Building something next level and want to connect with us? Visit: [yearnfinance.typeform.com/yGrants](https://yearnfinance.typeform.com/yGrants)
+Está construíndo algo excelente e quer entrar em contato conosco? Visite: [yearnfinance.typeform.com/yGrants](https://yearnfinance.typeform.com/yGrants)
