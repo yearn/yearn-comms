@@ -1,62 +1,63 @@
 ---
 layout: post
-title:  "What is Yearn"
+title:  "Yearnとは"
 categories: [ Tweets ]
 image: ./What-is-Yearn/3_1446243220468293632.jpg
 author: Wot_Is_Goin_On
-translator:
-publish: false
+translator: Cripu
+publish: true
 ---
 
-original source: [twitter](https://twitter.com/Wot_Is_Goin_On/status/1446540007292952579)
+ソース: [twitter](https://twitter.com/Wot_Is_Goin_On/status/1446540007292952579)
 
 ##### 1
-People had difficulty understanding ETH in mid-2020. It wasn’t clear what the use case would be, TVL was at $8bn and hadn’t grown much in 18 months. Even out of those who believed in Ethereum, there was scepticism around how value would accrue to ETH.
+2020年半ば、人々はETHを理解するのに苦労しました。ユースケースが明確ではなく、TVLは8Bドルで、1年半経ってもあまり成長していませんでした。イーサリアムを信じている人の中にさえ、ETHにどのような価値が発生するかについて懐疑的な人がいました。
 
 ##### 2
-Fast forward to today and it’s clear there’s a lot that can be built on Ethereum (DeFi, NFTs and gaming), TVL has sky-rocketed to over $100bn and throw in a token burn mechanism and people understand how value accrues to the native token.
+現在では、Ethereum上で構築できるもの（DeFi、NFT、ゲーム）がたくさんあることは明らかです。TVLは100Bドル以上に急騰し、トークンのバーンメカニズムも加わり、人々はネイティブトークンにどのように価値が発生するかを理解しています。
 
 ##### 3
-In some ways the perception of Yearn today is similar to that of ETH in mid-2020, at least in terms of uncertainty over what will be built on Yearn, its future growth and value accrual to YFI. Even Yearn’s OGs are getting restless.
+今日のYearnの認識は2020年半ばのETHに似ているところがあります。少なくとも、Yearn上に何が建設されるのか、その将来の成長やYFIへの価値の発生についての不確実性という点では。YearnのOGたちも落ち着きを失っています。
 
 ![3_1446534086277861380](3_1446534086277861380.jpg)
 
 ##### 4
-Yearn’s TVL has reached an all-time high of over $5bn TVL, achieving this without offering incentives. This is higher than the much-hyped Avalanche and Polygon that trade at multiples compared to YFI.
+YearnのTVLは過去最高の5Bドルを超えるTVLに達しており、インセンティブを提供せずにこれを達成しています。 
+これは、YFIと比べて数倍取引されている、注目のアバランチやポリゴンよりも高いです。
 
 ##### 5
-Its vaults have been integrated into Badger, Enzyme Finance, Argent Wallet, [Crypto.com](http://Crypto.com) and the MEW Wallet app on Android. Making vaults widely accessible is a great start, but Yearn is waiting for its killer dapp.
+Yearnのvaultは、Badger、Enzyme Finance、Argent Wallet、[Crypto.com](http://Crypto.com)、AndroidのMEW Walletアプリに統合されています。vaultに広くアクセスできるようになったことは素晴らしいスタートであり、Yearnはそのキラーdappを待っています。
 
 [medium.com/myetherwallet/…](https://medium.com/myetherwallet/introducing-yearn-vaults-on-mew-wallet-app-android-274818aa830e)
 
 ##### 6
-The first dapp built on Yearn to get product market fit was Alchemix’s self-repaying loans. The sudden jumps in yvDai in early 2021 shown below happened as Yearn had to quickly increase the limits of its most popular vault to keep up with the demand.
+Yearn上で構築され、プロダクトマーケットにフィットした最初のdappはAlchemixの自己返済型ローンでした。下図の2021年初頭のyvDaiの急激な上昇は、Yearnが最も人気のあるVaultの限度額を需要に合わせて素早く増やさなければならなかったために起こりました。
 
 ![3_1446534659123335169](3_1446534659123335169.jpg)
 
 ##### 7
-[@PoolTogether\_](https://twitter.com/PoolTogether_)’s no-loss lottery also opted to earn yield with Yearn. In the UK there’s over £100bn ($140bn) in premium bonds where the lottery distributes a depressing 1% annual yield.
+[@PoolTogether\_](https://twitter.com/PoolTogether_)のノーロス宝くじもYearnで利回りを稼ぐことを選択しました。イギリスには100bnポンド（140bnドル）以上のプレミアム債があり、宝くじは年利1％という気の毒な利回りで分配しています。
 
 ##### 8
-If [@element_fi](https://twitter.com/element_fi) can crack fixed income, with Yearn’s vaults (the “yv” tokens) in the background, then we’re talking a total addressable market in the trillions.
+もし[@element_fi](https://twitter.com/element_fi)がYearnのvault（"yv"トークン）を背景にして固定収入をクラックすることができれば、何兆ものアドレス可能な市場の総体を語ることになります。
 
 ![3_1446535031292313608](3_1446535031292313608.jpg)
 
 ##### 9
-[@ribbonfinance](https://twitter.com/ribbonfinance)’s put-selling vaults leverage DeFi’s composability so that the USDC is earning a yield with Yearn in the background.
+[@ribbonfinance](https://twitter.com/ribbonfinance)のプット売りのvaultはDeFiのコンポーザビリティをレバレッジしているため、Yearnを背景にUSDCが利回りを稼いでいます。
 
 ![3_1446535099063885835](3_1446535099063885835.jpg)
 
 ##### 10
-[@longlongfinance](https://twitter.com/longlongfinance) is also available to diversify your principal and yield into different assets.
+[@longlongfinance](https://twitter.com/longlongfinance)は、元本と利回りを異なる資産に分散させることも可能です。
 
 ##### 11
-Despite all the interesting protocols so far, the protocols that bring the greatest adoption to Yearn probably haven’t been built yet but there’s plenty of teams working on it.
+これまでの興味深いプロトコルにも関わらずYearnに最大のアドプションをもたらすプロトコルはまだ構築されていませんが、それに取り組んでいるチームはたくさんあります。
 
 ![3_1446535242404274176](3_1446535242404274176.jpg)
 
 ##### 12
-With Yearn going multi-chain there’s potential for different types of dapps on each chain. [twitter.com/iearnfinance/s…](https://twitter.com/iearnfinance/status/1446243257336229912?s=20)
+Yearnがマルチチェーン化することで、各チェーンで異なるタイプのdappsが生まれる可能性があります。[twitter.com/iearnfinance/s...](https://twitter.com/iearnfinance/status/1446243257336229912?s=20)
 
 > ![iearnfinance](earnfinance-1223779978459770880.jpg)
 > yearn.finance ([@iearnfinance](https://twitter.com/iearnfinance))
@@ -70,23 +71,23 @@ Today, we go multichain with the launch of Iron Bank Fantom and the first Fantom
 > ![3_1446243220468293632](3_1446243220468293632.jpg)
 
 ##### 13
-The people calling for the death of DeFi on Ethereum may need to zoom out. Yearn’s Q3 2021 TVL was $4.6bn, nearly 300% higher than 12 months before. Q3 2021 annualised revenue was over $60m, up nearly 400% over the year.
+イーサリアム上のDeFiの死を訴えている人たちはズームアウトする必要があるでしょう。Yearnの2021年第3四半期のTVLは4.6Bドルで、12ヶ月前に比べて300％近く増加しました。2021年第3四半期の年換算収益は60mドル以上で、前年同期比で約400％増です。
 
 ![3_1446536804035960832](3_1446536804035960832.jpg)
 
 ##### 14
-The criticism around lack of value accrual is one that can be easily fixed. However, the challenge is to design tokenomics that incentivize growth and sustainability of the protocol in terms of contributors and TVL, as well as value accrual.
+価値の発生がないという批判は簡単に修正できるものです。しかしながら、コントリビューターとTVL、そして価値の発生という観点から、プロトコルの成長と持続性にインセンティブを与えるトークンノミクスを設計することがチャレンジです。
 
 ##### 15
-It took Ethereum 5+ years to implement EIP-1559, and 2022 brings the migration to PoS that will reward ETH stakers instead of miners. And when cartoon animals are incentivized to figure things out, things usually get figured out.
+イーサリアムはEIP-1559を実装するのに5年以上かかりましたが、2022年にはPoSへの移行が行われ、マイナーではなくETHのステーカーに報酬が与えられるようになります。そして、アニメの動物たちが物事を理解するためのインセンティブを与えられると、たいていの物事は理解されます。
 
 [gov.yearn.finance/t/call-for-ide…](https://gov.yearn.finance/t/call-for-ideas-yfi-tokenomics-revamp/11573/5)
 
 ##### 16
-The sustainability of liquidity mining and competition on fees, and the pace of innovation in DeFi, mean that nothing is guaranteed of course!
+流動性マイニングの持続性と手数料の競争、そしてDeFiのイノベーションの速さを考えると、もちろん何も保証されていません！
 
 ##### 17
-But these worries can be brushed aside safe in the knowledge that this guy deployed Yearn’s first smart contract.
+しかし、この男がYearnの最初のスマートコントラクトをデプロイしたことを知っていれば、その心配は払拭することができます。
 
 [twitter.com/CFantom777/sta…](https://twitter.com/CFantom777/status/1446366012421468162?s=20)
 
