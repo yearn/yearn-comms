@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "YearnのDaiボールト —今やトップ20のDeFiプロトコルであることをご存知ですか？"
+categories: [ Articles ]
+image: ./Yearn's-Dai-Vault/img-Wot_Is_Goin_On.png
+author: Wot_Is_Goin_On
+translator: Cripu
+publish: true
+---
+
 # **YearnのDaiボールト —今やトップ20のDeFiプロトコルであることをご存知ですか？**
 
 [Yearnのウェブサイト](https://yearn.finance/vaults)にアクセスすると約50銘柄のボールトリストが表示されます。[SNXボールト](https://twitter.com/iearnfinance/status/1395413780012666881)が最も新しいボールトです。Yearnのボールトに[トークンを預ける](https://docs.yearn.finance/resources/guides/how-to-participate-in-a-yvault)と、プロトコルが利回りを生み出します。
@@ -200,4 +210,4 @@ Auctusはオプションプロトコルで、wBTCとETHのオプションを購�
 
 **どうやってこれら全部の情報を追えばいいですか？**
 
-ボールトの最新情報を知りたい方は、[State of the Vaults newsletter](https://medium.com/yearn-state-of-the-vaults) (著者 [qosmonot](https://twitter.com/qosmonot?lang=en-gb))を購読するか、YouTube [こちら](https://www.youtube.com/channel/UC_o4_cOevPVYC5pXs9OOexg)をご覧ください。また、ツイッター[こちら](https://twitter.com/Wot_Is_Goin_On)でも私をフォローできます。
+ボールトの最新情報を知りたい方は、[State of the Vaults Newsletter](https://medium.com/yearn-state-of-the-vaults) (著者 [qosmonot](https://twitter.com/qosmonot?lang=en-gb))を購読するか、YouTube [こちら](https://www.youtube.com/channel/UC_o4_cOevPVYC5pXs9OOexg)をご覧ください。また、ツイッター[こちら](https://twitter.com/Wot_Is_Goin_On)でも私をフォローできます。
