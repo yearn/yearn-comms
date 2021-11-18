@@ -4,32 +4,32 @@ title:  "Bowswap.Finance"
 categories: [ Tweets ]
 image: ./bowswapfinance/image1.jpg
 author: Facu
-translator:
-publish: false
+translator: Cryptouf
+publish: True
 ---
 
-original source: [twitter](https://twitter.com/fameal/status/1424857239505018880)
+Source: [twitter](https://twitter.com/fameal/status/1424857239505018880)
 
 ##### 1
 
-There's a new way to always have the best available yield. A simple way:
+Il existe une nouvelle façon d'avoir toujours le meilleur rendement disponible. Un moyen simple : 
 
 🏹 https://bowswap.finance
 
-You can now swap between [@iearnfinance](https://twitter.com/iearnfinance) Vaults in one single transaction ⚡️
+Vous pouvez maintenant basculer d'un [@iearnfinance](https://twitter.com/iearnfinance) Vaults a un autre en une seule transaction  ⚡️
 
 ![](image1.jpg)
 
 ##### 2
 
-In this first version you can move between some Curve LP vaults that have the same metapool.
+Dans cette première version, vous pouvez vous déplacer entre certains coffres Curve LP partageant la même metapool. 
 
 ##### 3
 
-What's a metapool? It's a pool built on top of another pool. Simple, right?
+Qu'est-ce qu'un metapool ? C'est une pool construite au-dessus d'une autre pool. Simple, non ? 
 
 ##### 4
 
-You are going to be able to swap safely thanks to the slippage protection built-in 🛡️
+Vous allez pouvoir échanger en toute sécurité grâce à la protection "anti-slippage" intégrée 🛡️
 
-Thanks [@pandabuild](https://twitter.com/pandabuild) [@MajorTom_eth](https://twitter.com/MajorTom_eth) and Ivan for building this yAmazing thing 🚀
+Merci [@pandabuild](https://twitter.com/pandabuild) [@MajorTom_eth](https://twitter.com/MajorTom_eth) and Ivan pour avoir construit cette chose yAmazing 🚀
