@@ -1,72 +1,72 @@
 ---
 layout: post
-title:  "Risk, Tooling, & Insight"
+title:  "リスク、ツール、そして洞察"
 categories: [ Tweets ]
 image: ./Risk,-Tooling,-&-Insight/stormblessed.jpg
 author: Storm Blessed
-translator:
-publish: false
+translator: Cripu
+publish: true
 ---
 
-original source: [twitter](https://twitter.com/storming0x/status/1436851219864059906)
+ソース: [twitter](https://twitter.com/storming0x/status/1436851219864059906)
 
 ##### 1
-Doing some weekend coding and decided to do a tweet storm about [@iearnfinance](https://twitter.com/iearnfinance) risk, tooling and insight behind the scenes.
+週末にコーディングをしていて、[@iearnfinance](https://twitter.com/iearnfinance)のリスク、ツール、舞台裏の洞察についてツイートをすることにしました。
 
 🧵 👇
 
 ##### 2
-If you don't know about [yearn.finance](http://yearn.finance), you can think of it as the "yield function protocol". Yearn top product are the Vaults. Put money into the vaults and somehow the next day that money grows and keeps growing constantly. This is an over simplification ofc.
+[yearn.finance](http://yearn.finance)をご存じない方は、「イールドファンクションプロトコル」と思っていただければよいと思います。Yearnのトッププロダクトは「ボールト」です。ボールトにお金を入れると次の日にはなぜかそのお金が増えていて、常に増え続けます。もちろんこれはあまりにも単純化しすぎていますが。
 
 ##### 3
-This is made possible by a team of smart folks that code strategies for the vault to allocate money with the goal to earn returns. The strategies are smart contracts that need to be deploy and updated often. These smart contracts are flexible and dynamic. Example allocations:
+これは、ボールトがリターンを得るために資金を配分するストラテジーをコード化したスマートな人々のチームによって可能となりました。このストラテジーはスマートコントラクトと呼ばれ、頻繁に展開・更新される必要があります。これらのスマートコントラクトは柔軟でダイナミックなものです。アロケーションの例:
 
 ![3_1436841383378120712](3_1436841383378120712.jpg)
 
 ##### 4
-Given the way yearn protocol works, it needs a very quick turnaround to launch new contracts and strategies quickly, this has implications in security. One of the main concerns at yearn is risk from all perspectives. We are at the EOD in the risk business. How to balance this?
+yearnのプロトコルは新しいコントラクトやストラテジーを迅速に立ち上げるために非常に早いターンアラウンドを必要としますが、これはセキュリティにも影響します。yearnの主な関心事のひとつはあらゆる観点からのリスクです。私たちはリスクビジネスの中でもEODに属しています。どうやってバランスを取りますか？
 
 ##### 5
-We need to come up with a risk framework. To get the picture. This is the number of vaults + strategies deployed currently. There is no way around the complexity of this system, many pieces need to fall in place to make this work.
+私たちはリスクフレームワークを考える必要があります。イメージをつかむために、これは現在展開されているボールト＋ストラテジーの数です。システムはどうしようもないほど複雑で、多くのピースが揃わないと機能しません。
 
 ![3_1436842206359285762](3_1436842206359285762.jpg)
 
 ##### 6
-In my previous life I had a background in aeronautics systems. I think many lessons can be taken from Aviation which is also in the risk business. The complexity like in finance is high. Still you don't think twice booking a flight for your next trip.
+前職では航空システムを担当していました。同じくリスクビジネスである航空からは、多くの教訓が得られると思います。金融のような複雑さはありません。それでも、次の旅行のために飛行機を予約するのに躊躇することはありません。
 
 ##### 7
-Every day millions of flights take place, and many flights have incidents. An incident doesn't lead to an accident = plane crashing. You need many incidents concurrently to happen for a plane to crash. This in current airline operations is extremely unlikely.
+毎日、何百万回ものフライトが行われており、多くのフライトでインシデントが発生しています。インシデントが起きたからといって、事故＝飛行機が墜落するわけではありません。飛行機が墜落するには多くのインシデントが同時に発生する必要があります。現在の航空会社のオペレーションでは、この可能性は極めて低いです。
 
 ##### 8
-But every time there is an incident the aviation process and systems, require that you correct and fix the root cause. We have implemented a similar process in yearn, every war room doesn't lead to a loss of funds, but we are required to learn from it and improve.
+しかし、航空業界のプロセスやシステムではインシデントが発生するたびに根本的な原因を修正して解決することが求められます。私たちは同様のプロセスをYearnに実施しました。すべてのwar roomが資金の損失につながるわけではありませんが、そこから学んで改善することが求められます。
 
 ##### 9
-This process was implemented early this year after a really bad month of incidents and war rooms. And several initiatives were started and implemented to automate and remove human factors as much as possible from our daily decisions.
+このプロセスは、今年の初めのインシデントやwar roomsのあった本当にひどい月の後に実施されました。そして、日々の意思決定を自動化し、人的要因をできる限り排除するためにいくつかの取り組みが開始・実施されました。
 
 [twitter.com/storming0x/sta…](https://twitter.com/storming0x/status/1395452522840608768?s=20)
 
 > ![storming0x](storming0x-881012267675820034.jpg)
 > Storm Blessed 0x ([@storming0x](https://twitter.com/storming0x))
 
-> We just got out of a 16 + hour plus war room dealing with a situation in yearn. Extremely tired but grateful to have the chance to be part of these awesome team.
+> 私たちは16時間以上にわたって対応しているYearnのwar roomから抜け出したところです。非常に疲れましたが、この素晴らしいチームの一員になれたことに感謝しています。
 
-Crisis resolved and no funds lost. Lots of key learnings and thing that will make [@iearnfinance](https://twitter.com/iearnfinance) stronger. Need 😴
+危機は解決し、資金の損失はありませんでした。たくさんの重要な学びと、[@iearnfinance](https://twitter.com/iearnfinance)をより強くするものがありました。😴が必要です。
 
 ##### 10
-This ofc still can be improved, and is a constant process, but in yearn what doesn't kill us for sure makes us stronger. It's part of my job to make this process ingrained in Yearn's DNA.
+もちろんこれにはまだ改善の余地があり絶え間ないプロセスではありますが、Yearnでは死なないものは確実に強くなるのです。このプロセスをYearnのDNAに根付かせることが、私の仕事の一つです。
 
 [github.com/yearn/yearn-de…](https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/EMERGENCY.md)
 
 ##### 11
-We had war rooms were code had a bug and made incorrect accounting that lead to war rooms and issues.
-Fixes:
--We added simulation bots to catch issues before they happen on chain.
--On chain healthchecks that revert a trx if the asserts are not met.
+コードにバグがあり不正な会計処理が行われていたため、war roomsになり問題が発生しました。
+修正しました。
+-シミュレーション・ボットを追加して、チェーン上で問題が発生する前にキャッチするようにしました。
+-チェーン上のヘルスチェックでアサートが満たされていない場合、Trxに戻すようにしました。
 
 [github.com/yearn/yearn-de…](https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/DEPLOYMENT.md#health-checks)
 
 ##### 12
-The simulation bot is tied to alerting on our telegram and send us with time ahead any issue. We recently had a war room completely prevented by a simulation, the strategy was winded down without having to correct anything onchain. We moved from corrective to preventive action.
+シミュレーション・ボットは私たちのテレグラムにアラートを出すようになっていて、何か問題があればすぐに知らせてくれます。最近では、シミュレーションによって war roomを完全に防ぐことができ、オンチェーンで何かを修正することなく終了させることができました。是正措置から予防措置へと移行しました。
 
 ![3_1436848158034644993](3_1436848158034644993.jpg)
 
@@ -75,15 +75,15 @@ The simulation bot is tied to alerting on our telegram and send us with time ahe
 ![3_1436848196399996929](3_1436848196399996929.jpg)
 
 ##### 13
-[yearn.watch](http://yearn.watch) is the site I built to track strategies and vaults state. It uses a great piece on infra built internally by the yearn team to fetch data. We have specialized multicall contracts to be able to get this data efficiently to make decisions.
+[yearn.watch](http://yearn.watch)は、ストラテジーやvaultの状態を追跡するために私が作ったサイトです。データの取得にはyearnチームが社内で構築した素晴らしいインフラを使用しています。意思決定に必要なデータを効率的に取得できるよう、専門のマルチコールコントラクトがあります。
 
 ![3_1436848846378729473](3_1436848846378729473.jpg)
 
 ![3_1436848859322273796](3_1436848859322273796.jpg)
 
 ##### 14
-We also have a risk dashboard that we came up to score each strategy to assess at any point in time our risk. This is populated by our internal infra and adjusted automatically by onchain changes.
-(Sample data below)
+また、リスクを評価するために各ストラテジーに点数をつけたリスクダッシュボードを用意しています。このダッシュボードにはYearnの情報が入力され、オンチェーンの変化によって自動的に調整されます。
+(サンプルデータはこちら）
 
 ![3_1436849527198085126](3_1436849527198085126.jpg)
 
@@ -92,9 +92,9 @@ We also have a risk dashboard that we came up to score each strategy to assess a
 ![3_1436849615987351553](3_1436849615987351553.jpg)
 
 ##### 15
-This is an internal risk tool that has been added very recently, is still to early to made public since we are tweaking our data and models to try come up with an objective scoring given our internal process. Once we collected more data on this I'm happy to share more on it.
+これはごく最近追加されたYearnのリスクツールで、社内のプロセスに基づいた客観的なスコアリングを実現するためにデータやモデルを調整しているため、公開するにはまだ早い段階にあります。より多くのデータを収集した後、さらに詳しくご紹介させていただきます。
 
 ##### 16
-We are far from solving smart contract risk and security, but the only thing we can do is keep trying. We hope this behind the scenes view can inform other projects in the ecosystem to help them or also come up with other ideas that we can all benefit from.
+スマートコントラクトのリスクとセキュリティを解決するには程遠い状況ですが、私たちにできることは挑戦し続けることだけです。この舞台裏がエコシステムの他のプロジェクトの参考になったり、私たち全員が恩恵を受けられるような他のアイデアを思いついたりすることを願っています。
 
-Thanks for reading!
+読んでいただきありがとうございました！
