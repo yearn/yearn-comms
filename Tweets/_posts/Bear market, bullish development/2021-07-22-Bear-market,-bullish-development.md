@@ -1,17 +1,18 @@
 ---
 layout: post
-title: Bear market, dévelopement bullish
-categories:
-  - Tweets
+title:  "Bear market, dévelopement bullish"
+categories: [ Tweets ]
 image: ./Bear-market,-bullish-development/image1.jfif
 author: Dudesahn
-translator: Crytpouf
+translator:
 publish: true
 ---
 
+
+
 # Bear market, dévelopement bullish
 
-&#x20;source originale: [twitter](https://twitter.com/dudesahn/status/1417898521685078016)
+source originale: [twitter](https://twitter.com/dudesahn/status/1417898521685078016)
 
 **1**
 
