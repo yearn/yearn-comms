@@ -1,117 +1,117 @@
 ---
 layout: post
-title:  "What is a DAO"
+title: "O que é um DAO"
 categories: [ Tweets ]
 image: ./What-is-a-DAO/1.jpg
 author: Tracheopteryx
-translator:
-publish: false
+translator: jameskbh
+publish: true
 ---
 
-original source: [twitter](https://twitter.com/tracheopteryx/status/1410243752434753547)
+fonte: [twitter](https://twitter.com/tracheopteryx/status/1410243752434753547)
 
 ##### 1
-Really enjoyed talking to [@TrustlessState](https://twitter.com/TrustlessState) on the [@BanklessHQ](https://twitter.com/BanklessHQ) podcast about [@coordinape](https://twitter.com/coordinape) with [@fifthworldzach](https://twitter.com/fifthworldzach)
+Gostei muito de conversar com [@TrustlessState](https://twitter.com/TrustlessState) no podcast [@BanklessHQ](https://twitter.com/BanklessHQ) sobre [@coordinape](https://twitter.com/coordinape) com [@fifthworldzach](https://twitter.com/fifthworldzach)
 
 [youtube](https://www.youtube.com/watch?v=JM0zF3AzFno)
 
-We explained what's different about Coordinape's mechanics & vision, and went pretty deep into some big ideas.
+Explicamos o que há de diferente na mecânica e visão do Coordinape e nos aprofundamos em algumas grandes ideias.
 
-So, here's a thread on DAOs
+Então, aqui está um fio sobre DAOs
 
 ##### 2
-What is a DAO? There are many answers to this. It's an emergent phenomena whose story is actively being written. My answer may be a bit different from others you'll read....
+O que é um DAO? Existem muitas respostas para isso. É um fenômeno emergente cuja história está sendo ativamente escrita. Minha resposta pode ser um pouco diferente de outras que você vai ler...
 
-✨ 𝔻𝔸𝕆𝕤 𝕒𝕣𝕖 𝕒 𝕟𝕖𝕨 𝕗𝕠𝕣𝕞 𝕠𝕗 𝕝𝕚𝕗𝕖 🧫
+✨ 𝔻𝔸𝕆𝕤 são uma nova forma de vida 🧫
 
-I'll explain.
+Vou te explicar.
 
 ##### 3
-jfc this is hard to explain.... Ok, let's start with Ken Wilber. Wilber is many things, primarily he's a master map maker. He studied the work of philosophers, scientists, and gurus from all over the world with the driving thesis that "everybody is right."
+Mas isso é muito difícil de explicar... Ok, vamos começar com Ken Wilber. Wilber é muitas coisas, principalmente ele é um mestre na criação de mapas. Ele estudou o trabalho de filósofos, cientistas e gurus de todo o mundo com a tese de que "todo mundo está certo".
 
 ![](1.jpg)
 
 ##### 4
-Over decades he fit together all these disparate pieces of wisdom into a map of human potential called Integral Theory. Central to this understanding, is the notion of Quadrants. Each quadrant is irreducible to any other quadrant. Each a different, inherently valid frame.
+Durante décadas, ele encaixou todas essas peças díspares de sabedoria em um mapa do potencial humano chamado Teoria Integral. Central para esse entendimento é a noção de quadrantes. Cada quadrante é irredutível a qualquer outro quadrante. Cada um é um quadro diferente e inerentemente válido.
 
 ![](2.jpg)
 
 ##### 5
-The individual interior experience of the color red is irreducible to the individual exterior concept of 650nm light. Both arise like different sides of the same coin. So where the fuck is this going, right? Here Right pointing backhand index DAOs are life forms emerging in the collective quadrants.
+A experiência interior individual da cor vermelha é irredutível ao conceito exterior individual de luz 650nm. Ambos surgem como lados diferentes da mesma moeda. Então, onde diabos isso vai dar, certo? Aqui, os DAOs de índice retrógrado que apontam para a direita são formas de vida emergindo nos quadrantes coletivos.
 
 ##### 6
-“Ever since the Cognitive Revolution, Sapiens have been living in a dual reality. On the one hand, the objective reality of rivers, trees and lions; and on the other hand, the imagined reality of gods, nations and corporations.”
-- Sapiens by Yuval Harari
+“Desde a Revolução Cognitiva, os Sapiens vivem em uma dupla realidade. Por um lado, a realidade objetiva dos rios, árvores e leões; e por outro lado, a realidade imaginada de deuses, nações e corporações.”
+- Sapiens por Yuval Harari
 
 ##### 7
-Harari writes beautifully about the power of collective fiction. Fiction has scaled human endeavor. Family, tribe, religion, nation, incorporation—the emergence of each new fiction transcends and includes the former, allowing us to coordinate in greater and greater number.
+Harari escreve lindamente sobre o poder da ficção coletiva. A ficção escalou o esforço humano. Família, tribo, religião, nação, incorporação - o surgimento de cada nova ficção transcende e inclui a primeira, permitindo que nos coordenemos em um número cada vez maior.
 
 ![](3.jpg)
 
 ##### 8
-When life first emerged on earth, we were simple creatures. Single-celled. Floating. Eating each other. Then one little guy ate another little guy . . . but this one hung around; didn't get digested. From prokaryote to eukaryote. 💥 Multicellular life. Everything changed.
+Quando a vida surgiu na Terra, éramos criaturas simples. Unicelulares. Flutuando. Comendo um ao outro. Então um carinha comeu outro carinha. . . mas este ficou por perto; não foi digerido. De procarionte a eucarionte. 💥 Vida multicelular. E então tudo mudou.
 
 ![](4.jpg)
 
 ##### 9
-The world is about to take an extraordinary step. You see, the sea of the collective has been like the sea of the old earth. The forces binding the collective's cell-analog (memes?) haven't been strong enough to make the step to eukaryote. But: we have blockchain now.
+O mundo está prestes a dar um passo extraordinário. Veja, o mar do coletivo tem sido como o mar da velha terra. As forças que ligam o análogo celular do coletivo (memes?) não foram fortes o suficiente para dar o passo para o eucarioto. Mas: temos o blockchain agora.
 
 ##### 10
-Blockchain is a new physics. A physics of /the collective space/. No one has elucidated this reality more profoundly than my co-instigator at Coordinape, [@Zemm_NFT](https://twitter.com/Zemm_NFT), speaking about NFTs in [@DirSchmidt](https://twitter.com/DirSchmidt)'s banger "The Greatest NFT Film Ever Made."
+Blockchain é uma nova física. Uma física do /espaço coletivo/. Ninguém elucidou essa realidade mais profundamente do que meu co-instigador no Coordinape, [@Zemm_NFT](https://twitter.com/Zemm_NFT), falando sobre NFTs no "The Greatest NFT Film Ever Made." de [@DirSchmidt](https://twitter.com/DirSchmidt).
 
 https://youtube.com/watch?v=cY9lM73ie0Q&t=1575s
 
 ![](5.jpg)
 
 ##### 11
-Blockchain makes fiction real. As real as dirt. And from this dirt, new fauna blooms. [@Coordinape](https://twitter.com/coordinape) is a flower. Its petals, an invitation. It grows in the canopy of the dark forest—where trust thrives. The kind of trust those who have worked on creative teams know so well.
+Blockchain torna a ficção real. Tão real quanto o pó. E desse pó, nova fauna floresce. [@Coordinape](https://twitter.com/coordinape) é uma flor. Suas pétalas, um convite. Ela cresce na copa da floresta escura - onde a confiança prospera. O tipo de confiança que aqueles que trabalharam em equipes de criação conhecem tão bem.
 
 ##### 12
 
-Watch the bankless video or go to http://coordinape.com to learn more, but briefly: Coordinape allows protocols to grow their contributor network with an NFT badge system & distribute grants via a novel, decentralized, community-led mechanism inspired by gift economies.
+Assista ao vídeo do bankless ou acesse http://coordinape.com para saber mais, mas resumidamente: Coordinape permite que os protocolos aumentem sua rede de colaboradores com um sistema identificações NFT e distribua seus incentivos por meio de um mecanismo novo, descentralizado e liderado pela comunidade, inspirado por economias de doações.
 
 ##### 13
-Because the kinds of tools used to support collective intelligence in an adversarial environment are ill-suited for a /collaborative/ environment. The bee & the flower do not need contracts.
+Porque os tipos de ferramentas usadas para apoiar a inteligência coletiva em um ambiente adverso são inadequadas para um ambiente /colaborativo/. A abelha e a flor não precisam de contratos.
 
 ![](6.jpg)
 
 ##### 14
-We needed this kind of tool at [@iearnfinance](https://twitter.com/iearnfinance). It didn't exist, so we built Coordinape. It's one piece of a bigger puzzle. Gov 2.0, written by [@lex_node](https://twitter.com/lex_node) and I, is another. Because, like biology, DAOs are not monolithic. The decision space is vast.
+Precisávamos desse tipo de ferramenta em [@iearnfinance](https://twitter.com/iearnfinance). Ela não existia, então construímos o Coordinape. É uma peça de um quebra-cabeça maior. Gov 2.0, escrito por [@lex_node](https://twitter.com/lex_node) e eu, é outra. Porque, como a biologia, DAOs não são monolíticos. O espaço de decisão é vasto.
 
 https://gov.yearn.finance/t/yip-61-governance-2-0/10460
 
 ##### 15
-Gov 2.0, or constrained delegation, starts by understanding decisions. A DAO needs to make hundreds of different decisions. Gov 2.0 deals with on-chain, gated decisions. But beyond these axes we also have to consider: timescale, impact, security, community, domain...
+O Gov 2.0, ou delegação restrita, começa pela compreensão das decisões. Um DAO precisa tomar centenas de decisões diferentes. Gov 2.0 lida com decisões em cadeia, com controle de acesso. Mas, além desses eixos, também temos que considerar: escala de tempo, impacto, segurança, comunidade, domínio...
 
 ![](7.png)
 
 ##### 16
-We had to invent all these kinds of tools at Yearn out of sheer need. We were born from chaos. There is no foundation, no company with processes to fall back on. [@AndreCronjeTech](https://twitter.com/AndreCronjeTech) gave away $1B in $YFI and the inflaton field from that event formed our world. Bang.
+Tivemos que inventar todos esses tipos de ferramentas em Yearn por pura necessidade. Nós nascemos do caos. Não há fundação, não há empresa com processos aos quais recorrer. [@AndreCronjeTech](https://twitter.com/AndreCronjeTech) distribuiu $ 1B em $YFI, e as consequências desse evento formaram nosso mundo. Bang.
 
 ##### 17
-Not every DAO works the same way. Just like corporations, or like people, they have different worldviews. Let's go back to Wilber. The quadrants are just one part of his masterwork. He also studied Piaget, Clare Graves, Jean Gebser, Aurobindo, and many others.
+Nem todo DAO funciona da mesma maneira. Assim como as empresas ou as pessoas, eles têm visões de mundo diferentes. Vamos voltar para Wilber. Os quadrantes são apenas uma parte de sua obra-prima. Ele também estudou Piaget, Clare Graves, Jean Gebser, Aurobindo e muitos outros.
 
 ##### 18
-Wilber took the maps of human development pioneered by these scholars and combined them into a theory of levels and lines. Each of us has multiple intelligences that develop at different rates. And so do organizations.
+Wilber pegou os mapas do desenvolvimento humano elaborados por esses estudiosos e os combinou em uma teoria de níveis e linhas. Cada um de nós tem múltiplas inteligências que se desenvolvem em ritmos diferentes. E também as organizações.
 
 ![](8.jpg)
 
 ##### 19
-[@fred_laloux](https://twitter.com/fred_laloux) took Wilber's map and applied it to the companies he studied in his peerless work "Reinventing Organizations" Just because DAOs have the potential to grow like trees into the blue sky of our future, doesn't mean they will. They need the right operating system.
+[@fred_laloux](https://twitter.com/fred_laloux) pegou o mapa de Wilber e aplicou-o às empresas que ele estudou em seu trabalho inigualável "Reinventando Organizações". Só porque DAOs têm o potencial de crescer como árvores no céu azul de nosso futuro, não significa que elas vão. Eles precisam do sistema operacional correto.
 
 ![](9.png)
 
 ##### 20
-Teal is an operating system for organizations formed from sovereign human beings taking agency and responsibility in their lives; based on self-management, wholeness, and evolutionary purpose. Where today's big companies are like machines, Teal orgs are like biology.
+Teal é um sistema operacional para organizações formadas por seres humanos soberanos que assumem agência e responsabilidade em suas vidas; com base na autogestão, integridade e propósito evolutivo. Enquanto as grandes empresas de hoje são como máquinas, as Teal orgs são como a biologia.
 
 ##### 21
-Why did that little guy survive and turn into mitochondria that time the other guy ate it? Who fucking knows. But maybe it had something to do with trust. The wizard [@fifthworldzach](https://twitter.com/fifthworldzach), our other co-instigator at coordinape, says "organizations move at the speed of trust."
+Por que aquele carinha sobreviveu e se transformou em mitocôndria quando o outro o comeu? Quem sabe? Mas talvez tenha algo a ver com confiança. O feiticeiro [@fifthworldzach](https://twitter.com/fifthworldzach), nosso outro co-instigador no coordinape, diz que "as organizações se movem na velocidade da confiança".
 
 ##### 22
-I think about this a lot. Being part of a collective life form that bleeds money and grows in realms beyond my imagination can be confusing. I /can't/ understand what it needs. I need to let go. And to do that, I need to trust I'll be ok.
+Eu penso muito sobre isso. Fazer parte de uma forma de vida coletiva que sangra dinheiro e cresce em domínios além da minha imaginação pode ser confuso. Eu /não consigo/ entender o que ele precisa. Eu preciso abrir mão. E para fazer isso, preciso confiar que vou ficar bem.
 
 
 ##### 23
-Structures like ethereum, Teal Orgs, DAOs, coordinape, and gov 2.0 help me trust that the mind between minds will be there, and I can go wherever my interests take me, knowing the whole organism will thrive.
+Estruturas como ethereum, Teal Orgs, DAOs, coordinape e gov 2.0 me ajudam a confiar que a mente entre as mentes estará lá, e posso ir aonde meus interesses me levarem, sabendo que todo o organismo prosperará.
 
-That's what we're building.
+É isso que estamos construindo.
