@@ -195,6 +195,10 @@ translators:
 
 
 
+  Stathis:
+    name: Stathis
+    display_name: Stathis
+
 # Social
 social:
   twitter: https://twitter.com/iearnfinance
