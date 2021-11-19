@@ -32,6 +32,8 @@ Welcome to the 49th edition of the Yearn Finance Newsletter. Our aim with this n
 
 -   Yearn Devs Save Robo Vault From $50M Loss
 
+-   Fixed Forex Zaps
+
 -   $2M Paid to Yearn Partners
 
 -   Vaults at Yearn
