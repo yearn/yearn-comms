@@ -226,14 +226,18 @@ translators:
     name: Major-Rager
     display_name: Major-Rager
 
-  JKtranslator:
-    name: JKtranslator
-    display_name: JKtranslator
+  Jameskbh:
+    name: Jameskbh
+    display_name: Jameskbh
 
   Japzar:
     name: Japzar
     display_name: Japzar
 >>>>>>> 81ca10e (update(config): add translators)
+
+  Stathis:
+    name: Stathis
+    display_name: Stathis
 
 # Social
 social:
