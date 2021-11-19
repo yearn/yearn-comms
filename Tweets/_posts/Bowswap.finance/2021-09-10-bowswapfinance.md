@@ -12,24 +12,24 @@ original source: [twitter](https://twitter.com/fameal/status/1424857239505018880
 
 ##### 1
 
-There's a new way to always have the best available yield. A simple way:
+有一种新方法可以始终让你获得最佳收益。很简单:
 
 🏹 https://bowswap.finance
 
-You can now swap between [@iearnfinance](https://twitter.com/iearnfinance) Vaults in one single transaction ⚡️
+你现在可以一键兑换在[@iearnfinance](https://twitter.com/iearnfinance)的机枪池仓位⚡️
 
 ![](image1.jpg)
 
 ##### 2
 
-In this first version you can move between some Curve LP vaults that have the same metapool.
+第一个版本，支持具有相同元池的Curve LP机枪池之间的兑换。
 
 ##### 3
 
-What's a metapool? It's a pool built on top of another pool. Simple, right?
+什么是元池？这是一个建在另一个池之上的池。很简单吧？
 
 ##### 4
 
-You are going to be able to swap safely thanks to the slippage protection built-in 🛡️
+有内置的​​滑点保护，这将使你能够安全地兑换 🛡️
 
-Thanks [@pandabuild](https://twitter.com/pandabuild) [@MajorTom_eth](https://twitter.com/MajorTom_eth) and Ivan for building this yAmazing thing 🚀
+感谢[@pandabuild](https://twitter.com/pandabuild) [@MajorTom_eth](https://twitter.com/MajorTom_eth)和Ivan开发的yAmazing的东西 🚀
