@@ -10,30 +10,30 @@ published: false
 
 original source: [twitter](https://twitter.com/iearnfinance/status/1432387438014435332)
 
-###### Yearn Finance has issued a grant to [@atlantis0x](https://twitter.com/atlantis0x) to help build a 2d pixel metaverse. Here's why:
+###### Yearn Finance 已向[@atlantis0x](https://twitter.com/atlantis0x)提供资助构建二维像素元宇宙。原因如下:
 
 ##### 1
 
-[Atlantis World](https://twitter.com/atlantis0x) is a Web3 metaverse designed to expand access to virtual worlds, a 2d pixelverse that doesn't require expensive tech but will still melt faces.
+[Atlantis World](https://twitter.com/atlantis0x)是一个Web3元宇宙，旨在扩展对虚拟世界的访问，二维像素世界不需要昂贵的技术，但仍会产生令人惊叹的效果。
 
 ![](image2.jpg)
 
 ##### 2
 
-They're building DAO and DeFi first, with education, community, governance, and security in mind from the start.
+他们首先构建DAO和DeFi，从一开始就考虑到教育、社区、治理和安全。
 
 ##### 3
 
-We think the metaverse will play a big role in the future of DAOs and culture as we connect, gamify, and evolve the ecosystem.
+我们认为，随着我们连接、游戏化和发展生态系统，元宇宙将在 DAO 和文化的未来发挥重要作用。
 
 ##### 4
 
-Learn more about Atlantis World:  [atlantisworld.io](https://atlantisworld.io)
+了解更多有关Atlantis World的信息:  [atlantisworld.io](https://atlantisworld.io)
 
 ##### 5
 
-Grants to builders like [@atlantis0x](https://twitter.com/atlantis0x) are core to Yearn's strategy to constantly evolve and keep making DeFi simple.
+为[@atlantis0x](https://twitter.com/atlantis0x)这样的开发者提供资助是Yearn不断发展并让DeFi变得简单的策略的核心。
 
 ##### 6
 
-Building something next level and want to connect with us? Visit: [yearnfinance.typeform.com/yGrants](https://yearnfinance.typeform.com/yGrants)
+建立更高层次的东西并想与我们联系？访问: [yearnfinance.typeform.com/yGrants](https://yearnfinance.typeform.com/yGrants)
