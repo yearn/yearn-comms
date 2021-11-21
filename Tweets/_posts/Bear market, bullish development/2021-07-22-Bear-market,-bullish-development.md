@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Bear market, bullish development"
+title:  "市场熊，发展牛"
 categories: [ Tweets ]
 image: ./Bear-market,-bullish-development/image1.jfif
 author: Dudesahn
-translator:
-published: false
+translator: xiaona & bee
+published: true
 ---
 
 original source: [twitter](https://twitter.com/dudesahn/status/1417898521685078016)
