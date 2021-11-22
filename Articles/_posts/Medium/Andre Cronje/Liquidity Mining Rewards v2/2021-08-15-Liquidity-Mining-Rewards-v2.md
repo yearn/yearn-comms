@@ -1,78 +1,47 @@
 ---
 layout: post
-title:  "Liquidity Mining Rewards v2"
+title:  "Dezentralisierte Lohnabrechnung für DAOs"
 categories: [ Articles ]
-image: ./Liquidity-Mining-Rewards-v2/andre-hero.png
+image: ./Decentralized-Payroll-Management-for-DAOs/andre-hero.png
 author: Andre
-translator:
+translator: Nesyeth
 publish: true
 ---
 
-# Liquidity Mining Rewards v2
+# Dezentralisierte Lohnabrechnung für DAOs
 
-Concept, and architecture by [pods.finance](https://www.pods.finance/)
+Author: [Andre Cronje](https://twitter.com/AndreCronjeTech)</br>
 
-[LM call option rewards contract](https://twitter.com/AndreCronjeTech/status/1426580528510251008)
+31. März 2021
 
-## **History**
+Bei DAOs gibt es kein Management von oben nach unten. Es gibt keine Personalabteilung. Es gibt keine Verträge und keine Gehaltsverhandlungen. Wie schafft man Anreize und belohnt die Mitwirkenden angemessen?
 
-Liquidity Mining / Rewards / Incentives, whatever you want to call them, are innately part of crypto. Even proof of work (mining) is providing something for rewards (in proof of work, providing security \[or rather electricity\] for crypto)
+Als die Yearn DAO anfing, führte sie Governance-gewichtete Gehälter ein (ich verwende den Begriff locker, da es sich technisch gesehen um einmalige, monatliche Zuschüsse handelt, wenn man im nächsten Monat nicht beiträgt, gibt es keinen Zuschuss). Governance-gewichtete Gehälter waren einfach Vorschläge von Community-Mitgliedern, in denen sie vorschlugen, dass Beitragszahler X eine Zahlung von Y erhalten sollte. Dies erfordert eine aktive Verwaltung und monatliche Abstimmungen / Genehmigungen der DAO. Das lässt sich nicht gut skalieren.
 
-The first (to my knowledge) to provide rewards for liquidity was [synthetix.io](https://synthetix.io/), this started with the `sETH/ETH` pool, which eventually moved to the `sUSD` [curve.fi](https://curve.fi/) pool. If you provided liquidity to these pools, you were rewarded with SNX (the native Synthetix token).
+Um die Skalierungs- und Overhead-Probleme zu lösen, hat das Yearn-Team [Coordinape](https://coordinape.com/) entwickelt. Das sind meine liebste Art von Produkten, da sie aus einem persönlichen Bedürfnis heraus entstanden sind, aber verallgemeinert werden können, um anderen Organisationen / DAOs zu helfen, die mit einem ähnlichen Problem kämpfen.
 
-The somewhat legendary [StakingRewards](https://github.com/Synthetixio/synthetix/blob/develop/contracts/StakingRewards.sol) contract, was originally developed in partnership with Anton from [1inch.exchange](https://1inch.exchange/). This contract became the base for what is liquidity mining as we know it today.
+Was ist [Coordinape](https://coordinape.com/)? Einfach ausgedrückt, jeder, der zu Yearn (oder seiner eigenen DAO) beitragen möchte, kann sich registrieren (derzeit mit Github Details), jede Epoche (für Yearn 1 Monat). Du kannst die Teammitglieder auswählen, mit denen du gearbeitet und interagiert hast, (unten Yearn-Beitragende);
 
-## **Problem Statement**
+![](1.jpg)
 
-As liquidity mining grew, some, non deal-breaking, flaws became apparent. I believe the following two to be the most destressing;
+Zum Beispiel meine Interaktionen unten (Mitglieder, die ich markiert habe, dass ich mit ihnen in der vergangenen Epoche interagiert habe);
 
-- Liquidity locusts (or loyalty), also referred to as "stickiness"
-- Token loyalty, or opportunistic dumping
+![](2.jpg)
 
-Liquidity quickly disappears when incentives cease, and aggressive liquidity programs can often have a detriment on the token price, which, while I believe the latter to not necessarily be a bad thing (since it entirely depends on the tokenomics / purpose), from public perception, it is clear, when price goes down, a project is a scam.
+Jetzt hat jedes Mitglied eine bestimmte Anzahl von Zuweisungspunkten und kann den Mitwirkenden, mit denen es zusammengearbeitet hat, Punkte zuweisen, je nachdem, was es von deren Beiträgen hält.
 
-## **Problem Example**
+Wenn wir uns also die Beiträge der aktuellen Epoche ansehen, sehen wir Folgendes;
 
-I believe, at its core, the problem is the "something for nothing" problem. If you receive something for nothing, you will simply bank your profits. Let's take [curve.fi](https://curve.fi/) as a practical example, if you provide liquidity in the form of DAI/USDC/USDT to the 3pool, you receive CRV rewards. For the sake of this example, lets assume the liquidity provider is a liquidity locust, so they are only interested in receiving CRV and immediately selling it for more DAI/USDC/USDT.
+![](3.jpg)
 
-The reason for this, is that they received "something" for practically "nothing". Provide liquidity, get rewarded, that simple.
+Jede Zeile ist eine Zuweisung von einem Mitglied zum nächsten. Auf diese Weise wird ein Beitragsdiagramm erstellt, das auf die Mitglieder mit den meisten Interaktionen und Zuweisungen ausgerichtet ist.
 
-## **Quick Intro to Options**
+Nun einfach, während der Epoche, verdient Yearn Y Betrag in Gebühren / Beiträge / Belohnungen / etc, diese fließen in den Coordinate Beitragenden Vertrag, am Ende der Epoche können Beitragende ihren Zuschuss basierend auf ihren Beiträgen in der Epoche einfordern.
 
-Going to try to keep this simple, there are two options, a `PUT` (the right to sell), and a `CALL` (the right to buy). In this case, you can think of a `PUT` as a market sell, and a `CALL` as a market buy. So continuing with using CRV, for purpose of simplicity, lets say CRV is trading at $2. A `CALL` option with a `strike price`of $2, would allow me to buy CRV at $2, a `PUT` option with a `strike price`of $2, would allow me to sell CRV at $2.
+**Zusammenfassung**
 
-For the rest of this article, we will only focus on CALL, the right to buy. So an option has 3 basic properties;
+[Coordinape](https://coordinape.com/) ermöglicht es dezentralisierten Teams und DAOs ohne Top-Down-Management oder HR, Geldmittel autonom zuzuteilen und zu belohnen, und zwar über sybil-resistente soziale Graphen.
 
-- What are you buying? (In our example CRV)
-- What is the `strike price`? (aka, how much are you paying for it? In our example $2 ~ or 2 DAI)
-- When is the `expiry`? (normally some future date, in our example, expiry was `current timestamp/now`)
+Dezentralisierte Gehaltsabrechnung für flache Organisationen.
 
-## **Liquidity Mining as Options**
-
-Keeping with our [curve.fi](https://curve.fi/) example, if you provide liquidity and you claim CRV as rewards, this can be seen as exercising a CRV CALL option with `strike price` $0, and `expiry` now. When you start thinking about it in terms of CALL options, all of a sudden it gives the project a lot more power, per example, now a project could offer it as;
-
-- strike price = spot - 50%
-- expiry = current date + 1 month
-
-At its most basic level, we could simply say, `expiry` = now and `strike price` = spot - 50%, what would this mean? Let's say the liquidity miner, mined 1000 CRV, instead of simply receiving the CRV CALL option at `strike price` $0 and `expiry` now (1000 tokens for free), now instead they would receive the right to purchase 1000 CRV at $1000. Even if they are a liquidity locust, they would still be incentivized to do this, since they still make $1000 profit (trading value 1000 CRV @ $2 =$2000 - $1000 purchase).
-
-The "profits" ($1000 in above example), can now be distributed to veCRV holders, or go to the foundation, treasury DAO, etc. These funds could even be used to market make and provide additional liquidity.
-
-Now, lets take it one step further, and add a future expiry, lets say 1 month, now for argument sake, everyone that was receiving liquidity was claiming and dumping, so 1 month alter the price is $1, but the CALL option price was also $1, so at this point, there is no reason for the "dumper" to claim the option anymore, since they wouldn't make additional profit. So this further means that it set an additional price floor for the received tokens. As these tokens will simply not be claimed (can even be sent back to the DAO)
-
-## **Conclusion**
-
-Making a few simple modifications to the existing StakingRewards contract allows us to add the above functionality, while keeping the same UX and user experience.
-
-Prototype code available [here](https://gist.github.com/andrecronje/6c3da8b294488001adeda528f70bc301)
-
-By switching to Options Liquidity Mining instead of traditional Liquidity Mining it means;
-
-- Decreased liquidity locusts
-- Decrease selling pressure
-- Natural price floor (twap - discount % over epoch)
-- Additional fee revenue for DAO/token holders
-
-## **Attribution**
-
-Thank you to [pods.finance](https://www.pods.finance/), @josephdelong, and [sushi.com](https://sushi.com/) team for coming up with this concept and sharing it with me
+Das Projekt ist derzeit noch Closed Source, aber das Team ist aktiv auf der Suche nach anderen DAOs und Organisationen. Solltest du Interesse oder Fragen haben, wende dich bitte an [@tracheopteryx](https://twitter.com/tracheopteryx)
