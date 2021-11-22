@@ -58,3 +58,5 @@ Elinizde yeni YFI veya yCRV ile http://yearn.finance/vaults adresine gidebilir v
 Şunu da eklemekte fayda var: Hâlâ yatırılmış paranızın olmaması, ödül talep edemeyeceğiniz anlamına gelmez! BalanceOf()'a benzer şekilde, Kazanılan() ile Okuma Sözleşmesi altında talep edilebilir ödülleri kontrol edebilir ve ardından getReward() kullanarak Sözleşme Yazma altında mevcut olan herhangi bir ödül talep edebilirsiniz! 🤑
 
 ![](image4.png)
+
+![](image5.png)
