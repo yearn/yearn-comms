@@ -1,156 +1,153 @@
 ---
 layout: post
-title:  "Yearn Finance Newsletter #49"
+title:  "Yearn Finance Newsletter 49号"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-49/image1.png
 author: Yearn
-translator:
-publish: false
+translator:　Cripu
+publish: true
 ---
 
-# Yearn Finance Newsletter #49
+# Yearn Finance Newsletter 49号
 
-### Week Ending November 14th, 2021
+### 2021年11月14日までの週
 
 ![](image1.png)
 
-Welcome to the 49th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Yearn Finance Newsletterの第49号へようこそ。このニュースレターの目的は、プロダクトのローンチ、ガバナンスの変更、エコシステムの更新など、最新のニュースをYearnとより広いクリプトコミュニティにお知らせすることです。Yearn Financeについてもっと知りたいという方は、私たちの公式[Twitter](https://twitter.com/iearnfinance)と[Medium](https://medium.com/iearn)アカウントをフォローしてください。
 
-## Summary
+## 概要
 
--   Yearn Tokenomics Revamp
+-   Yearnトークンノミクスの改良
 
--   Yearn Millennium Prize
+-   Yearnミレニアム賞
 
--   Yearn Total Value Locked Reaches $6B
+-   Yearnのトータルバリューロック額が60億ドルに到達
 
--   YFI Combinator’s First Project: Tesseract
+-   YFIコントリビューターの最初のプロジェクト: Tesseract
 
--   Messari Publishes A Report on Yearn
+-   MessariがYearnのレポートを発行
 
--   Yearn Treasury Status
+-   Yearnトレジャリーのステータス
 
--   Yearn Devs Save Robo Vault From $50M Loss
+-   Yearnの開発陣がRoboボールトから50Mドルの流出を防ぐ
 
--   Fixed Forex Zaps
+-   Yearnのパートナーに2Mドルの支払い
 
--   $2M Paid to Yearn Partners
+-   Yearnのボールト
 
--   Vaults at Yearn
-
--   Ecosystem News
+-   エコシステムニュース
 
 
-## YFI Tokenomics Revamp
+## YFIトークンノミクスの改良
 
 ![](image2.png)
 
-Recently, several Yearn community members and developers have banded together to create actionable plans to upgrade the YFI tokenomics. Some of these suggestions include a token split, a veCRV model, fee sharing, fee reduction, vault insurance, and many more amazing ideas. Thank you to all of the people involved for your valuable input.
+最近、何人かのYearnコミュニティのメンバーと開発陣が団結し、YFIのトークンノミクスをアップグレードするための実行可能なプランを作成しました。これらの提案の中にはトークンの分割、veCRVモデル、手数料の分配、手数料の削減、ボールト保険、その他多くの素晴らしいアイデアが含まれています。貴重なご意見をいただいた関係者の皆様、ありがとうございました。
 
-Check out the forum post [here](https://gov.yearn.finance/t/call-for-ideas-yfi-tokenomics-revamp/11573/1) and fill out a short anonymous survey to give your thoughts on how to best update YFI’s tokenomics [here](https://twitter.com/wot_is_goin_on/status/1457051296909959171?s=21). The other best way to get involved in tokenomics discussions is at the [Yearn discord server](https://discord.com/invite/A7VwrCCWDu).
+フォーラムの投稿[こちら](https://gov.yearn.finance/t/call-for-ideas-yfi-tokenomics-revamp/11573/1)をチェックして、YFIのトークンノミクス[こちら](https://twitter.com/wot_is_goin_on/status/1457051296909959171?s=21)をどのようにアップデートするのがベストなのか、あなたのご意見を匿名でお聞かせください。トークンノミクスの議論に参加するには[Yearn discord server](https://discord.com/invite/A7VwrCCWDu)もお勧めです。
 
-Overviews of the recent YFI Tokenomics Meetings can be found [here](https://www.notion.so/Tokenomics-Event-4942f645a4a546669996fcc945403776) and [here](https://docs.google.com/document/d/1Xz_0Yi1LwdZZh2ry50v4w94qc-2h5QTiNkJpVF17daI/edit).
+最近のYFIトークンノミクス会議の概要は[こちら](https://www.notion.so/Tokenomics-Event-4942f645a4a546669996fcc945403776)と[こちら](https://docs.google.com/document/d/1Xz_0Yi1LwdZZh2ry50v4w94qc-2h5QTiNkJpVF17daI/edit)からご覧いただけます。
 
-## Yearn Millennium Prize
+## Yearnミレニアム賞
 
 ![](image3.png)
 
-Write a strategy which consistently and safely earns 40% APY on $300 million or 12% on $1 billion for a month and you'll earn $1 million in monthly strategist fees.
+300Mドルで40％のAPY、1Bドルで12％のAPYを1ヶ月間一貫して安全に稼ぐストラテジーを構築すれば、毎月1Mドルのストラテジスト手数料を得ることができます。
 
-If you pull this off, Yearn would also match and reward you with a prize of $1 million.
+もしあなたがこの条件を達成すれば、Yearnからも1Mドルの賞金を提供します。
 
-This applies to WETH, WBTC, USDC, DAI, and USDT vaults. Subject to DAO approval. Limited to one prize.
+これはWETH、WBTC、USDC、DAI、USDTのボールトに適用されます。DAOの承認が必要です。賞は1つ限定です。
 
-Learn more on Yearn’s process of creating and deploying strategies [here](https://twitter.com/flashfish0x/status/1460246273488044036?s=21).
+Yearnのストラテジーの作成と展開のプロセスについては[こちら](https://twitter.com/flashfish0x/status/1460246273488044036?s=21)をご覧ください。
 
-## Yearn Total Value Locked Reaches $6B
+## Yearnのトータルバリューロック額が60億ドルに到達
 
 ![](image4.png)
 
-Total value locked across all Yearn products has reached $6 billion, and almost $1 billion has been added in the last month alone. Yearn is continuing to see parabolic growth among its products with no indication of slowing down. The Iron Bank and v2 vaults are particularly notable components of our exponential growth. You can view and track TVL metrics among our products using [yearn.science](https://yearn.science/). 
+Yearnの全プロダクトでロックされた総額は60億ドルに達し、先月だけで約10億ドルが追加されました。Yearnはプロダクト間でパラボリックに成長し続けており、その勢いは衰える気配がありません。特にIron Bankとv2ボールトはYearnの指数関数的な成長を支える注目すべきコンポーネントです。
+[yearn.science](https://yearn.science/)を使って、当社プロダクトのTVL測定値を閲覧・追跡することができます。 
 
-A big thank you to everyone in the Yearn ecosystem, our partners, and of course you, the users.
+Yearnエコシステムの皆様、パートナーの皆様、そしてもちろんユーザーの皆様に感謝いたします。
 
-To celebrate this milestone, claim your geo-located $6B TVL NFT made by @MoTomiWasTaken [here](https://6b-pill.glitch.me/).
+このマイルストーンを記念して@MoTomiWasTakenが作成した$6B TVLの地理的NFTを[こちら](https://6b-pill.glitch.me/)でクライムできます。
 
-## YFI Combinator’s First Project: Tesseract
+## YFIコントリビューターの最初のプロジェクト: Tesseract
 
 ![](image5.png)
 
-Tesseract is the first project hatched from YFI Combinator, our newest early-stage incubator. It leverages the expertise amassed at Yearn to bring the best yields to a wider audience.
+TesseractはYearnの最新のアーリーステージ・インキュベーターであるYFIコンビネーターから生まれた最初のプロジェクトです。TesseractはYearnで蓄積された専門知識を活用し、最高のイールドをより多くの人に届けるものです。
 
-Tesseract Finance is a multi-dimensional yield farming protocol where you can experience DeFi at the speed of light with the best of Yearn’s strategies - now on Polygon. Add liquidity to Tesseract and start generating juicy yields.
+Tesseract Financeは多次元のイールドファーミングプロトコルです。光の速さでYearnの最高のストラテジーのDeFiを体験することができます - 今、Polygonで。Tesseractに流動性を追加し、ジューシーなイールドを生成し始めましょう。
 
-Back in spring, the Tesseract team watched Ethereum drown in fees and thought: you know what’d be cool? A yield aggregator that’s immune to Ethereum’s scaling pains. Luckily, 2021 has been a cambrian explosion of sidechains and big-ticket L2s. 
+春を振り返ると、TesseractチームはEthereumが手数料で溺れるのを見て考えました：あなたは何がクールになるか分かりますか？イーサリアムのスケーリングの痛みに影響を受けないイールドアグリゲーターです。幸運なことに、2021年にはサイドチェーンと大口のL2がカンブリア爆発的に増えました。 
 
-They happened to see Polygon as the best fit for a Yearn-like protocol. At the time, Ethereum’s scaling solutions were just starting to raise crops. A few farms here, meadows there. Some leverage opportunities but a lot of potential.
+彼らはたまたまPolygonがYearnのようなプロトコルに最も適していると考えました。当時Ethereumのスケーリングソリューションは農作物を育て始めたばかりでした。いくつかのファームや牧草地がありました。活用の機会はいくつかですが、可能性は大いにあります。
 
-Today, Polygon is ready for industrial-level farming, which Tesseract aims to achieve. 
+今日、Polygonは産業レベルのファーミングの準備ができており、Tesseractはその実現を目指しています。 
 
-Their first dimension has launched, and it has 4 vaults: USDC, DAI, WBTC & WETH, with a strategy (leveraged AAVE). For farmer safety, we will start with a $1M cap/vault. Then, the training wheels come off.
+彼らの最初のディメンションはローンチしており、4つのボールトを持っています。USDC、DAI、WBTC、WETHで、ストラテジー（AAVEを活用）を持っています。ファーマーの安全のために、1Mドルのcap/vaultから始めます。そして補助輪を外します。
 
-A stable and safe yield aggregator on Polygon lets anyone farm yields without the ‘manual labor’. All you need to do is deposit funds in one (or more) of the four vaults. The strategy does the rest.
+Polygonのボールトをチェックするには[こちら](https://tesr.finance/#/)をご覧ください。もっと詳しく知りたい、質問があるという方は [アナウンス](https://medium.com/tesseract-finance/the-genesis-of-tesseract-finance-9b73400a05b1)をご覧ください。
 
-Check out the vaults on Polygon [here](https://tesr.finance/#/). Got questions or want to learn more? Read the [announcement](https://medium.com/tesseract-finance/the-genesis-of-tesseract-finance-9b73400a05b1).
+## MessariがYearnのレポートを発行
 
-## Messari Publishes A Report on Yearn
+Messariは最近Yearnについての包括的なレポートを発行し、Yearnの成長と様々なボールトの統計を詳細に説明しました。このレポートでは、YearnのDeFi 2.0プロトコルへのリンク、将来のマルチチェーンの拡張、更新、パートナーシップについても取り上げています。 
 
-Messari has recently published a comprehensive report on Yearn detailing our growth and statistics of various vaults. This report additionally covers Yearn’s links to “DeFi 2.0” protocols, future multichain expansions, updates, and partnerships. 
+記事は[こちら](https://messari.io/article/yearning-for-yearn)からお読みください。
 
-Read the article [here](https://messari.io/article/yearning-for-yearn).
-
-## Yearn Treasury Status
+## Yearnトレジャリーのステータス
 
 ![](image6.png)
 
-As of October 29, Yearn's Treasury holds a $27.2m balance in non-native tokens, of which $13.7m is stablecoins. 
+10月29日現在、Yearnのトレジャリーは非ネイティブトークンの残高を$27.2m保持しており、そのうち$13.7mはステーブルコインです。 
 
-We also hold 3935 YFI, currently valued at $137m. Assets excluding YFI tokens is 16.5% making it among the most diversified balance sheets in DeFi.
+また3935YFIを保有しており、現在の価値は137Mドルです。YFIトークンを除いた資産は16.5%で、DeFiの中でも最も分散されたバランスシートとなっています。
 
-Check out various Yearn statistics [here](https://yearn.vision/) and view the GitHub [here](https://github.com/BobTheBuidler/yearn-exporter/tree/treasury).
+様々なYearnの統計データ[こちら](https://yearn.vision/)や、GitHub[こちら](https://github.com/BobTheBuidler/yearn-exporter/tree/treasury)をご覧ください。
 
-## Yearn Devs Save Robo Vault From $50M Loss
+## Yearnの開発陣はRoboボールトから50Mドルの流出を防ぐ
 
 ![](image7.png)
 
-With the help of the Yearn team, Robo Vault has identified and fixed a critical issue that could have affected over $50 million in user deposits. Yearn has also salvaged over $9 million from the CREAM exploit, which has since been returned.
+Yearnチームの協力を得て、Roboボールトは50Mドル以上のユーザーの入金に影響を与える可能性のある重要な問題を特定し、修正しました。また、YearnはCREAMのエクスプロイトから900万ドル以上を回収し、それを返還しました。
 
-Read more on the process [here](https://medium.com/@RoboVault/post-mortem-next-steps-3556820b7470), and view the CREAM repayment transaction [here](https://twitter.com/iearnfinance/status/1453681370698502148).
+プロセスについては[こちら](https://medium.com/@RoboVault/post-mortem-next-steps-3556820b7470)を、CREAMの返済トランザクションについては[こちら](https://twitter.com/iearnfinance/status/1453681370698502148)をご覧ください。
 
-## Fixed Forex Zaps
+## Fixed Forexのザップイン
 
 ![](image8.png)
 
-We have collaborated with Zapper, so Yearn users can zap into Keep3r Fixed Forex vaults with almost any token in your wallet. 
+私たちはZapperとコラボレーションしているので、YearnユーザーはあなたのウォレットにあるほとんどすべてのトークンでKeep3r Fixed Forexのボールトにザップインすることができます。 
 
-Earn compounding yield natively on AUD, CHF, EUR, GBP, JPY, KRW (and ZAR soon) at [beta.yearn.finance/#/vaults](http://beta.yearn.finance/#/vaults).
+[beta.yearn.finance/#/vaults](http://beta.yearn.finance/#/vaults)でもAUD、CHF、EUR、GBP、JPY、KRW（近日中にZARも）の複利イールドをネイティブに獲得できます。
 
-## $2 Million Paid to Yearn Partners
+## Yearnのパートナーに2Mドルの支払い
 
-More projects are moving to Yearn's fertile gardens, where they can source yield and feel protected by the Citadel walls. They focus on their own products and moats and earn up to 50% of user fees back to DAO simply for building on top of Yearn. Thank you to our happy partners including Frax, BadgerDAO, Abracadrabra, Pickle, Element, Alchemix, and many others.
+多くのプロジェクトがYearnの肥沃な庭に移動しています。庭ではイールドが出現し、城の壁に守られると感じることができます。彼らは自分たちのプロダクトや堀に集中してYearnの上に構築するだけで、ユーザー手数料の最大50％をDAOに還元しています。Frax、BadgerDAO、Abracadrabra、Pickle、Element、Alchemixをはじめとする幸せなパートナー達に感謝いたします。
 
-[Check out the tweet here.](https://twitter.com/iearnfinance/status/1456736892376989697?s=21)
+[こちら](https://twitter.com/iearnfinance/status/1456736892376989697?s=21)のツイートをご確認ください。
 
-## Vaults At Yearn
+## Yearnのボールト
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+私たちが活用しているすべてのyVaultsのストラテジーの詳細な説明は[こちら](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)でご覧いただけます。
 
-## Ecosystem News
+## エコシステムニュース
 
-[Yearn Basic Income coming soon](https://twitter.com/0x7171/status/1451584344213135392)
+[Yearnベーシックインカムの導入を検討中です](https://twitter.com/0x7171/status/1451584344213135392)
 
-[Get WOOFY stickers at LX Factory in Lisbon](https://twitter.com/saltyfacu/status/1450786439306924036)
+[リスボンのLX工場でWOOFYステッカーをゲットしましょう](https://twitter.com/saltyfacu/status/1450786439306924036)
 
-[Yearn alumni Matt West is the first DeFi developer to run for Congress](https://twitter.com/CoinDesk/status/1450218098246701056)
+[YearnOGのMatt West氏が、DeFi開発者として初めて議会に出馬します](https://twitter.com/CoinDesk/status/1450218098246701056)
 
-[Join the next group of yAcademy fellows here](https://twitter.com/iearnfinance/status/1450561465463672832)
+[次のyAcademyのグループに参加する方はこちら](https://twitter.com/iearnfinance/status/1450561465463672832)
 
-[Listen to tracheopteryx as he joins Colony’s podcast to speak about compensation in DAOs](https://twitter.com/joincolony/status/1450159578268807169)
+[Colonyのポッドキャストに参加したtracheopteryxがDAOにおける補償について話しているのをお聞きください](https://twitter.com/joincolony/status/1450159578268807169)
 
-[Yearn devs are actively identifying and fixing protocol issues in war rooms](https://twitter.com/iearnfinance/status/1454092767580327938)
+[Yearnの開発陣は積極的にwar roomのプロトコル問題を特定し、修正しています](https://twitter.com/iearnfinance/status/1454092767580327938)
 
-[Check out the EthBlocks NFT commemorating the deployment of the YFI token](https://twitter.com/iearnfinance/status/1459238290394009600?s=21)
+[YFIトークンの導入を記念したEthBlockS NFTの様子をご覧ください](https://twitter.com/iearnfinance/status/1459238290394009600?s=21)
 
-[What are you going to gift this yMas?](https://twitter.com/y___gift/status/1459947639299051524?s=21)
+[このyMasに何をプレゼントしますか？](https://twitter.com/y___gift/status/1459947639299051524?s=21)
 
-[Learn how to protect your Gnosis Safe from attacks in the new Yearn Engineering blog](https://mirror.xyz/yearn-finance-engineering.eth/9uInM_sCrogPBs5qkFSNF6qe-32-0XLN5bty5wKLVqU)
+[新しいYearn Engineeringブログで、Gnosis Safeを攻撃から守る方法を紹介しています](https://mirror.xyz/yearn-finance-engineering.eth/9uInM_sCrogPBs5qkFSNF6qe-32-0XLN5bty5wKLVqU)
