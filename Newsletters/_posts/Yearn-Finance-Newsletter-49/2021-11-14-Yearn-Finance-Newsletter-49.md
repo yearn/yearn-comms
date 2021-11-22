@@ -34,6 +34,8 @@ Yearn Finance Newsletterの第49号へようこそ。このニュースレター
 
 -   Yearnのパートナーに2Mドルの支払い
 
+-   Fixed Forexのザップイン
+
 -   Yearnのボールト
 
 -   エコシステムニュース
@@ -45,7 +47,7 @@ Yearn Finance Newsletterの第49号へようこそ。このニュースレター
 
 最近、何人かのYearnコミュニティのメンバーと開発陣が団結し、YFIのトークンノミクスをアップグレードするための実行可能なプランを作成しました。これらの提案の中にはトークンの分割、veCRVモデル、手数料の分配、手数料の削減、ボールト保険、その他多くの素晴らしいアイデアが含まれています。貴重なご意見をいただいた関係者の皆様、ありがとうございました。
 
-フォーラムの投稿[こちら](https://gov.yearn.finance/t/call-for-ideas-yfi-tokenomics-revamp/11573/1)をチェックして、YFIのトークンノミクス[こちら](https://twitter.com/wot_is_goin_on/status/1457051296909959171?s=21)をどのようにアップデートするのがベストなのか、あなたのご意見を匿名でお聞かせください。トークンノミクスの議論に参加するには[Yearn discord server](https://discord.com/invite/A7VwrCCWDu)もお勧めです。
+フォーラムの投稿[こちら](https://gov.yearn.finance/t/call-for-ideas-yfi-tokenomics-revamp/11573/1)をチェックして、YFIのトークンノミクス[こちら](https://twitter.com/wot_is_goin_on/status/1457051296909959171?s=21)をどのようにアップデートするのがベストなのか、あなたのご意見を匿名でお聞かせください。トークンノミクスの議論に参加するには[Yearnのディスコード](https://discord.com/invite/A7VwrCCWDu)もお勧めです。
 
 最近のYFIトークンノミクス会議の概要は[こちら](https://www.notion.so/Tokenomics-Event-4942f645a4a546669996fcc945403776)と[こちら](https://docs.google.com/document/d/1Xz_0Yi1LwdZZh2ry50v4w94qc-2h5QTiNkJpVF17daI/edit)からご覧いただけます。
 
@@ -118,7 +120,7 @@ Yearnチームの協力を得て、Roboボールトは50Mドル以上のユー�
 
 ![](image8.png)
 
-私たちはZapperとコラボレーションしているので、YearnユーザーはあなたのウォレットにあるほとんどすべてのトークンでKeep3r Fixed Forexのボールトにザップインすることができます。 
+YearnはZapperとコラボレーションしており、YearnユーザーはあなたのウォレットにあるほとんどすべてのトークンをKeep3r Fixed Forexのボールトにザップインすることができます。 
 
 [beta.yearn.finance/#/vaults](http://beta.yearn.finance/#/vaults)でもAUD、CHF、EUR、GBP、JPY、KRW（近日中にZARも）の複利イールドをネイティブに獲得できます。
 
