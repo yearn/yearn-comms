@@ -4,8 +4,8 @@ timezone: UTC
 url: https://vietnamese.blog.yearn.finance
 baseurl: ""
 permalink: "/:title/"
-logo: 'assets/images/yearn_logo.svg'
-favicon: 'assets/images/favicon.ico'
+logo: "assets/images/yearn_logo.svg"
+favicon: "assets/images/favicon.ico"
 author: yearn
 paginate: 30
 locale: en_us
@@ -131,7 +131,8 @@ translators:
     name: Bee926
     display_name: Bee926
     twitter: https://twitter.com/bee_926
-    web: https://www.youtube.com/channel/UCEmqb4A_fJ5Jseb-TBpGaIg
+    blog: https://www.youtube.com/channel/UCEmqb4A_fJ5Jseb-TBpGaIg
+    web: http://coinversation.org/
 
   Cryptouf:
     name: Cryptouf
@@ -157,9 +158,12 @@ translators:
     twitter: https://twitter.com/margjr84
 
   🤖💵💵💰💰.eth:
-      name: 🤖💵💵💰💰.eth
-      display_name: 🤖💵💵💰💰.eth
-      
+    name: 🤖💵💵💰💰.eth
+    display_name: 🤖💵💵💰💰.eth
+
+  Stathis:
+    name: Stathis
+    display_name: Stathis
 
 # Social
 social:
@@ -167,9 +171,9 @@ social:
 
 # Plugins
 plugins:
-- jekyll-paginate
-- jekyll-sitemap
-- jekyll-feed
-- jekyll-seo-tag
-- jekyll-archives
-- jekyll-target-blank
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-target-blank
