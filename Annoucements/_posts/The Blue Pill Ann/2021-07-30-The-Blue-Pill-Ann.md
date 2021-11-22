@@ -4,13 +4,12 @@ title:  "The Blue Pill"
 categories: [ Annoucements ]
 image: ./The-Blue-Pill-Ann/thebluebook.jpg
 author: Yearn
-translator:
+translator: Dastronom
 publish: true
 ---
 
-Today we invite you to celebrate the first year of Yearn with [The Blue Pill](https://medium.com/iearn/the-blue-pill-ca44ed01f16f), a spiritual guide for the past, present and future of Yearn. A beautifully-typeset book is available to our 13,500 most loyal supporters.
+Bugün sizi Yearn'ın dünü, bugünü ve geleceği için manevi bir rehber olan [The Blue Pill](https://medium.com/iearn/the-blue-pill-ca44ed01f16f) ile Yearn'ın ilk yılını kutlamaya davet ediyoruz. En sadık 13.500 destekçimiz için güzel bir dizgi kitabı var.
 
-Your contribution is immortalized in a [set of seven unique NFTs](https://galaxy.eco/yearn) by
-[@Zemm_NFT](https://twitter.com/Zemm_NFT). Whether you are a farmer, a governor, a doer, or a giver, Yearn wouldn't have been the same without you. You are all necessary.
+Katkınız,[@Zemm_NFT](https://twitter.com/Zemm_NFT) tarafından oluşturulan [yedi benzersiz NFT](https://galaxy.eco/yearn) seti ie ölümsüzleştirildi. İster çiftçi, ister vali, ister yapıcı, ister bağışçı olun, Yearn sensiz aynı olmazdı. Hepiniz gereklisiniz.
 
-This is an invitation to contribute. We attempt to answer what makes Yearn unique by diving deep into the magic of The Gift which has sparked the project. Keep the book close, or share it with a friend. Keep our story alive, you are already part of it.
+Bu bir katkı davetidir. Yearn'i benzersiz kılan şeyin, projeyi ateşleyen Hediye'nin büyüsüne derinlemesine dalarak yanıtlamaya çalışıyoruz. Kitabı yakın tutun veya bir arkadaşınızla paylaşın. Hikayemizi canlı tutun, zaten bunun bir parçasısınız.
