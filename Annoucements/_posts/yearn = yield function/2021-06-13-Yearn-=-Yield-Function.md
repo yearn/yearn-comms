@@ -4,20 +4,20 @@ title:  "What if Yearn = the web's yield function?"
 categories: [ Annoucements ]
 image: ./Yearn-=-Yield-Function/yield1.jpg
 author: Yearn
-translator:
+translator: 🤖💵💵💰💰.eth
 publish: true
 ---
 
 ![](yield1.jpg)
 
-# What if Yearn = the web's "yield function"?
+# E se Yearn = a "função de rendimento" da web?
 
-In programming a "function" is a little bundle of reusable code that accomplishes a specific task… You can summon that function anytime, and it will do the same thing over and over again without fail.
+Na programação, uma "função" é um pequeno pacote de código reutilizável que realiza uma tarefa específica... Você pode invocar essa função a qualquer momento e ela fará a mesma coisa indefinidamente.
 
-With Yearn, devs anywhere on earth can take our yields and insert them into any financial flow.
+Com o Yearn, os desenvolvedores de qualquer lugar do mundo podem pegar nossos rendimentos e inseri-los em qualquer fluxo financeiro.
 
-People talk about money legos. Yearn isn't so much a lego as the plastic other DeFi projects can use to build their own legos.
+As pessoas falam sobre "legos monetários". Yearn não é bem um lego, mas sim o plástico que outros projetos DeFi podem usar para construir seus próprios legos.
 
-Just as the Internet of Information uses APIs for data, the Internet of Value will use Yearn for yield. Anywhere value lies dormant (for days, hours... even minutes), Yearn will go.
+Assim como a Internet da Informação usa APIs para dados, a Internet do Valor usará Yearn para obter rendimento. Em qualquer lugar que o valor esteja disponível (por dias, horas ... até minutos), Yearn irá buscá-lo.
 
-And that means Yearn could become as big as the Internet of Value itself. Like blockchains, it could come to underlie all financial flows -- all value flows.
+E isso significa que Yearn pode se tornar tão grande quanto a própria Internet do Valor. Como os blockchains, ele pode vir a ser a base de todos os fluxos financeiros - todos os fluxos de valor.
