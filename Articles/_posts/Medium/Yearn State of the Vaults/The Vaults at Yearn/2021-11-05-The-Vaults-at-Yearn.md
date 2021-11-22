@@ -148,6 +148,18 @@ Empresta WETH no AAVE para ganhar juros e acumular AAVE em stake como recompensa
 [StrategyGenericLevCompFarmWeth] (https://hackmd.io/zucTisw_RUOQCWFpZYfksg?view) 
 Fornece ETH no Compound e pega emprestado um montante adicional de ETH para maximizar os ganhos COMP. Os empréstimos instantâneos (flashloans) são usados para obter ETH adicional de dYdX para obter alavancagem adicional e impulsionar o APY. O COMP ganho é colhido e vendido por mais ETH, e depositado novamente no vault.
 
+[StrategystETHAccumulator](https://etherscan.io/address/0x0967aFe627C732d152e3dFCAdd6f9DBfecDE18c3)  
+Stakes wETH at [Lido.fi](http://lido.fi/) to mint stETH which accumulates ETH 2.0 staking rewards. This strategy will buy stETH off the market if its cheaper than staking.
+
+[ssc\_eth\_seth](https://etherscan.io/address/0xc57A4D3FBEF85e675f6C3656498beEfe6F9DcB55)  
+Deposits ETH into the sETH curve pool on [curve.fi](http://curve.fi/). Rewards are harvested, sold for more ETH, and re-deposited into the vault.
+
+[ssc\_eth\_steth](https://etherscan.io/address/0xF9fDc2B5F60355A237deb8BD62CC117b1C907f7b)  
+Deposits ETH into the stETH curve pool on [curve.fi](http://curve.fi/). Rewards are harvested, sold for more ETH, and re-deposited into the vault.
+
+[StrategyMakerV2\_ETH-C](https://etherscan.io/address/0xd33535e9F2E09485aC9cE8b27F865251161065E0)  
+Locks ETH at MakerDAO via ETH-C to mint DAI. This newly minted DAI is then deposited into the v2 DAI yVault.
+
 ![](10.png)
 
 ### v2 USDC yVault ([yvUSDC] (https://etherscan.io/address/0x5f18c75abdae578b483e5f43f12a39cf75b973a9))
@@ -256,7 +268,120 @@ Embora este vault não esteja sujeito a Perda Impermanente, o pool da Curve subj
 ✨ [Curvecrv3cryptoVoterProxy] (https://etherscan.io/address/0xbA9052141cEf06FD55733D23231c37Fc856CE6F4) 🚀 
 Este vault aceita depósitos de tokens [crv3crypto] (https://etherscan.io/address/0xc4AD29ba4B3c580e6D59105FFf484999997675Ff) obtidos pelo fornecimento de BTC, ETH ou USDT para o pool de liquidez em Curve [aqui] (https://curve.fi tricrypto2 / deposit) em troca de tokens crv3crypto. crv3crypto são colocados em stake no gauge de curve.fi para ganhar recompensas CRV. As recompensas são negociadas por um dos ativos subjacentes e depositadas novamente no pool de liquidez, para obter mais crv3crypto.
 
-![](16.png)
+[StrategyConvex3Crypto](https://etherscan.io/address/0x2055CFD5CDbc90c60A202A1AC3DDfB71AeC1cE98) 🚀  
+Supplies crv3crypto to Convex Finance to earn CRV and CVX. Rewards are harvested, sold for more crv3crypto, and deposited back into the vault.
+
+![](20.png)
+
+### ✨ Curve USDM Pool yVault ([yvCurve-USDM](https://etherscan.io/address/0x6FAfCA7f49B4Fd9dC38117469cd31A1E5aec91F5))
+
+✨ [StrategyCurveUSDM](https://etherscan.io/address/0x81329ecb1AB448DacF6b9ae696A097f790898899)  
+This vault accepts deposits of USDM3CRV-f tokens obtained by supplying either USDM, DAI, USDC, USDT (or wrapped via 3Crv tokens) to the liquidity pool on Curve [here](https://curve.fi/factory/23/deposit). USDM3CRV-f tokens are staked in the gauge on Curve to earn CRV rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more USDM3CRV-f.
+
+✨ [StrategyConvexUSDM](https://etherscan.io/address/0x240f5167A98Bc2198110BcdD4CB04D06Dd52d55d)  
+Supplies USDM3CRV-f to [Convex Finance](https://www.convexfinance.com/) to earn CRV. Rewards are harvested, sold for more USDM3CRV-f, and deposited back into the strategy.
+
+![](21.png)
+
+### ✨ Curve alETH Pool yVault ([yvCurve-alETH](https://etherscan.io/address/0x718AbE90777F5B778B52D553a5aBaa148DD0dc5D))
+
+✨ [StrategyCurvealETH](https://etherscan.io/address/0x3f4a63F3Ee9bA49004953f6879c7516D85969F5F)  
+This vault accepts deposits of alETH+ETH-f tokens obtained by supplying either alETH or ETH to the liquidity pool on Curve [here](https://curve.fi/factory/38/deposit). alETH+ETH-f tokens are staked in the gauge on Curve to earn CRV rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more alETH+ETH-f.
+
+✨ [StrategyConvexalETH](https://etherscan.io/address/0x4ec142d094BecA5f7789CCd9341D0215c8B1e43f)  
+Supplies alETH+ETH-f to [Convex Finance](https://www.convexfinance.com/) to earn CRV. Rewards are harvested, sold for more alETH+ETH-f, and deposited back into the strategy.
+
+![](22.png)
+
+### ✨ Curve EURN Pool yVault ([yvCurve-EURN](https://etherscan.io/address/0x8b9C0c24307344B6D7941ab654b2Aeee25347473))
+
+✨ [StrategyCurveEURN](https://etherscan.io/address/0x7847b7027cab6Fc4ea08cA0fF3b7464727712f91)  
+This vault accepts deposits of EURN/EURT-f tokens obtained by supplying either EURN or EURT to the liquidity pool on Curve [here](https://curve.fi/factory/33/deposit). EURN/EURT-f tokens are staked in the gauge on Curve to earn CRV rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more EURN/EURT-f.
+
+✨ [StrategyConvexEURN](https://etherscan.io/address/0x3199437193625DCcD6F9C9e98BDf93582200Eb1f)  
+Supplies EURN/EURT-f to [Convex Finance](https://www.convexfinance.com/) to earn CRV. Rewards are harvested, sold for more EURN/EURT-f, and deposited back into the strategy.
+
+![](23.png)
+
+### ✨ Curve MIM-UST ([yvCurve-MIMUST](https://etherscan.io/address/0xd8C620991b8E626C099eAaB29B1E3eEa279763bb))
+
+✨ [StrategyCurveMIMUST](https://etherscan.io/address/0xbb241fD9A2A3742ef9E10ccfd8a6C4E0EbEb03f2)  
+This vault accepts deposits of MIM-UST-f tokens obtained by supplying either MIM or UST to the liquidity pool on Curve [here](https://curve.fi/factory/48/deposit). MIM-UST-f tokens are staked in the gauge on Curve to earn CRV rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more MIM-UST-f.
+
+✨ [StrategyConvexMIMUST](https://etherscan.io/address/0x5796698A29F3626c9FE13C4d3d3dEE987c84EBB3)  
+Supplies MIM-UST-f to [Convex Finance](https://www.convexfinance.com/) to earn CRV. Rewards are harvested, sold for more MIM-UST-f, and deposited back into the strategy.
+
+![](24.png)
+
+### Curve EURT Pool yVault ([yvCurve-EURT](https://etherscan.io/address/0x0d4EA8536F9A13e4FBa16042a46c30f092b06aA5))
+
+[StrategyCurveEURT](https://etherscan.io/address/0x26AB2029083909FeEFF8Cb0fA04c1CfF52499DE7)  
+This vault accepts deposits of EURT-f tokens obtained by supplying either EURT or sEUR to the liquidity pool on Curve [here](https://curve.fi/eurt/deposit). EURT-f tokens are staked in the gauge on Curve to earn CRV rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more EURT-f.
+
+[StrategyConvexEURT](https://etherscan.io/address/0x5E10E27DEae12877e23A68cC0d6F1b134b4d517A)  
+Supplies EURT-f to Convex Finance to earn CRV and CVX. Rewards are harvested, sold for more EURT-f, and deposited back into the vault.
+
+![](25.png)
+
+### Curve MIM Pool yVault ([yvCurve-MIM](https://etherscan.io/address/0x2DfB14E32e2F8156ec15a2c21c3A6c053af52Be8))
+
+[StrategyCurveMIM](https://etherscan.io/address/0x9E1FF8638a2F1aD4B924A4B9677aD9d9b74361Cf)  
+This vault accepts deposits of MIM-3LP3CRV-f tokens obtained by supplying either MIM, DAI, USDC, USDT (or wrapped via 3Crv tokens) to the liquidity pool on Curve [here](https://curve.fi/mim/deposit). MIM-3LP3CRV-f tokens are staked in the gauge on Curve to earn CRV and SPELL rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more MIM-3LP3CRV-f.
+
+[StrategyConvexMIM](https://etherscan.io/address/0x6570B0a1593a59CcB378fb0b01A753875FCa99c4)  
+Supplies MIM-3LP3CRV-f to Convex Finance to earn CRV, SPELL, and CVX. Rewards are harvested, sold for more MIM-3LP3CRV-f, and deposited back into the vault.
+
+![](26.png)
+
+### Curve cvxCRV Pool yVault ([yvCurve-cvxCRV](https://etherscan.io/address/0x4560b99C904aAD03027B5178CCa81584744AC01f))
+
+[StrategyCurvecvxCRV](https://etherscan.io/address/0xDCecD8DC5F3dDD480d2A06C56063DBf9c2a07E09)  
+This vault accepts deposits of cvxcrv-f tokens obtained by supplying either CRV or cvxCRV to the liquidity pool on Curve [here](https://curve.fi/factory/22/deposit). cvxcrv-f tokens are staked in the gauge on Curve to earn CRV rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more cvxcrv-f.
+
+✨ [StrategyConvexcvxCRV](https://etherscan.io/address/0xAF6F42bfB29e90dFe51f2341fF1B1f99Fd776A70)  
+Supplies cvxcrv-f to [Convex Finance](https://www.convexfinance.com/) to earn CRV and CVX. Rewards are harvested, sold for more cvxcrv-f, and deposited back into the strategy.
+
+![](27.png)
+
+### Curve ibEUR Pool yVault ([yvCurve-ibEUR](https://etherscan.io/address/0x67e019bfbd5a67207755D04467D6A70c0B75bF60))
+
+[StrategyCurveibEUR](https://etherscan.io/address/0xB431A88a6cFFfa66dBCf96Ebc89aE72Ff7Fcc34f)  
+This vault accepts deposits of ibEUR+sEUR-f tokens obtained by supplying either ibEUR or sEUR to the liquidity pool on Curve [here](https://curve.fi/factory/3/deposit). ibEUR+sEUR-f tokens are staked in the gauge on Curve to earn CRV and rKP3R rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more ibEUR+sEUR-f.
+
+✨ [StrategyConvexibEUR](https://etherscan.io/address/0x214D14f94a63B1714CCc39d12b4942e8Fdd56bA7)  
+Supplies ibEUR+sEUR-f to Convex Finance to earn CRV and CVX. Rewards are harvested, sold for more ibEUR+sEUR-f, and deposited back into the vault.
+
+![](28.png)
+
+### Curve ibKRW Pool yVault ([yvCurve-ibKRW](https://etherscan.io/address/0x528D50dC9a333f01544177a924893FA1F5b9F748))
+
+[StrategyCurveibKRW](https://etherscan.io/address/0x10Ae24bce6F06b1BFfdA701736BEB2069eCd5a49)  
+This vault accepts deposits of ibKRW+sKRW-f tokens obtained by supplying either ibKRW or sKRW to the liquidity pool on Curve [here](https://curve.fi/factory/2/deposit). ibKRW+sKRW-f tokens are staked in the gauge on Curve to earn CRV and rKP3R rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more ibKRW+sKRW-f.
+
+✨ [StrategyConvexibKRW](https://etherscan.io/address/0x73c3533c159F93C924f072B065F9DAA6C0445Be2)  
+Supplies ibKRW+sKRW-f to Convex Finance to earn CRV and CVX. Rewards are harvested, sold for more ibKRW+sKRW-f, and deposited back into the vault.
+
+![](29.png)
+
+### Curve ibGBP Pool yVault ([yvCurve-ibGBP](https://etherscan.io/address/0x595a68a8c9D5C230001848B69b1947ee2A607164))
+
+[StrategyCurveibGBP](https://etherscan.io/address/0x2063FcF4883E688FEc10e984d43bDa3ed9C00fd6)  
+This vault accepts deposits of ibGBP+sGBP-f tokens obtained by supplying either ibGBP or sGBP to the liquidity pool on Curve [here](https://curve.fi/factory/30/deposit). ibGBP+sGBP-f tokens are staked in the gauge on Curve to earn CRV and rKP3R rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more ibGBP+sGBP-f.
+
+✨ [StrategyConvexibGBP](https://etherscan.io/address/0x6CfAcEf79cA2AaE173Dc5089b9179a4193dC5784)  
+Supplies ibGBP+sGBP-f to Convex Finance to earn CRV and CVX. Rewards are harvested, sold for more ibGBP+sGBP-f, and deposited back into the vault.
+
+![](30.png)
+
+### Curve ibAUD Pool yVault ([yvCurve-ibAUD](https://etherscan.io/address/0x1b905331F7dE2748F4D6a0678e1521E20347643F))
+
+[StrategyCurveibAUD](https://etherscan.io/address/0x2c9740Fc1E03457bF7FDe9dA08e04476D91c038c)  
+This vault accepts deposits of ibAUD+sAUD-f tokens obtained by supplying either ibAUD or sAUD to the liquidity pool on Curve [here](https://curve.fi/factory/29/deposit). ibAUD+sAUD-f tokens are staked in the gauge on Curve to earn CRV and rKP3R rewards. Rewards are swapped for one of the underlying assets and resupplied to the liquidity pool to obtain more ibAUD+sAUD-f.
+
+✨ [StrategyConvexibAUD](https://etherscan.io/address/0x68d8dAd442102d1aECCa4f71246E20eBA9ab7216)  
+Supplies ibAUD+sAUD-f to Convex Finance to earn CRV and CVX. Rewards are harvested, sold for more ibAUD+sAUD-f, and deposited back into the vault.
+
+![](31.png)
 
 ### v2 Curve mUSD Pool yVault ([yvCurve-mUSD] (https://etherscan.io/address/0x8cc94ccd0f3841a468184aCA3Cc478D2148E1757#code))
 
@@ -266,7 +391,7 @@ Este vault aceita depósitos de tokens [musd3CRV] (https://etherscan.io/address/
 [Convexmusd3CRV] (https://etherscan.io/address/0x75be6ABC02a010559Ed5c7b0Eab94abD2B783b65) 🚀 
 Fornece musd3CRV para Convex Finance para obter CRV e CVX. As recompensas são colhidas, vendidas por mais musd3CRV e depositadas novamente no vault.
 
-![](17.jpg)
+![](34.png)
 
 ### v2 Huobi BTC Curve yVault ([yvhCRV] (https://etherscan.io/address/0x625b7DF2fa8aBe21B0A976736CDa4775523aeD1E))
 
@@ -276,7 +401,7 @@ Este vault aceita depósitos de tokens [hCRV] (https://etherscan.io/address/0xb1
 [ConvexhCRV] (https://etherscan.io/address/0x7Ed0d52C5944C7BF92feDC87FEC49D474ee133ce) 🚀 
 Fornece hCRV para Convex Finance para obter CRV e CVX. As recompensas são colhidas, vendidas por mais hCRV e depositadas novamente no vault.
 
-![](18.png)
+![](35.png)
 
 ### v2 Curve USDK Pool yVault ([yvCurve-USDK] (https://etherscan.io/address/0x3D27705c64213A5DcD9D26880c1BcFa72d5b6B0E))
 
@@ -286,7 +411,7 @@ Este vault aceita depósitos de tokens [usdk3CRV] (https://etherscan.io/address/
 [Convexusdk3CRV] (https://hackmd.io/zucTisw_RUOQCWFpZYfksg?view) 🚀 
 Fornece usdk3CRV para [Convex Finance] (https://www.convexfinance.com/stake) para obter CRV e CVX. Os tokens ganhos são coletados, vendidos por mais usdk3CRV, que são depositados de volta na estratégia.
 
-![](19.png)
+![](36.png)
 
 ### v2 Curve Pax Pool yVault ([yvCurve-Pax] (https://etherscan.io/address/0x80bbeE2fa460dA291e796B9045e93d19eF948C6A))
 
@@ -296,7 +421,7 @@ Este vault aceita depósitos de tokens [ypaxCrv] (https://etherscan.io/address/0
 [ConvexypaxCrv](https://hackmd.io/zucTisw_RUOQCWFpZYfksg?view) 🚀  
 Fornece ypaxCrv para [Convex Finance] (https://www.convexfinance.com/stake) para obter CRV e CVX. Os tokens ganhos são coletados, vendidos por mais ypaxCRV, que são depositados de volta na estratégia.
 
-![](20.png)
+![](37.png)
 
 ### v2 Curve RSV Pool yVault ([yvCurve-RSV] (https://etherscan.io/address/0xC116dF49c02c5fD147DE25Baa105322ebF26Bd97))
 
@@ -306,7 +431,7 @@ Este vault aceita depósitos de tokens [rsv3CRV] (https://etherscan.io/address/0
 [Convexrsv3CRV](https://hackmd.io/zucTisw_RUOQCWFpZYfksg?view) 🚀  
 Fornece rsv3CRV para [Convex Finance] (https://www.convexfinance.com/stake) para obter CRV e CVX. Os tokens ganhos são coletados, vendidos por mais rsv3CRV, que são depositados de volta na estratégia.
 
-![](21.png)
+![](38.png)
 
 ### v2 Curve USDT Pool yVault ([yvCurve-USDT] (https://etherscan.io/address/0x28a5b95C101df3Ded0C0d9074DB80C438774B6a9))
 
@@ -316,7 +441,7 @@ Este vault aceita depósitos de tokens [tCrv] (https://etherscan.io/address/0x9f
 [ConvexcDAI + cUSDC + USDT] (https://hackmd.io/zucTisw_RUOQCWFpZYfksg?view) 🚀 
 Fornece tCrv para [Convex Finance] (https://www.convexfinance.com/stake) para obter CRV e CVX. Os tokens ganhos são coletados, vendidos por mais tCRV, que são depositados de volta na estratégia.
 
-![](22.png)
+![](39.png)
 
 ### v2 Curve triCrypto Pool yVault ([yvCurve-triCrypto] (https://etherscan.io/address/0x3D980E50508CFd41a13837A60149927a11c03731))
 
@@ -328,7 +453,7 @@ Este vault aceita depósitos de tokens [crvTricrypto] (https://etherscan.io/addr
 [ConvexcrvTricrypto](https://hackmd.io/zucTisw_RUOQCWFpZYfksg?view) 🚀  
 Supplies crvTricrypto to [Convex Finance](https://www.convexfinance.com/stake) to earn CRV and CVX. Os tokens ganhos são coletados, vendidos por mais crvTricrypto, que são depositados de volta na estratégia.
 
-![](23.png)
+![](40.png)
 
 ### v2 Curve EURS Pool yVault ([yvCurve-EURS] (https://etherscan.io/address/0x25212Df29073FfFA7A67399AcEfC2dd75a831A1A))
 
@@ -338,7 +463,7 @@ Este vault aceita depósitos de tokens [eursCRV] (https://etherscan.io/address/0
 [ConvexeursCRV] (https://etherscan.io/address/0x4DC2CCC9E76bD30982243C1cB915003e17a88Eb9) 🚀 
 Fornece eursCRV para Convex Finance para obter CRV e CVX. As recompensas são colhidas, vendidas por mais eursCRV e depositadas novamente no vault.
 
-![](24.png)
+![](41.png)
 
 ### v2 Curve sUSD Pool yVault ([yvCurve-sUSD] (https://etherscan.io/address/0x5a770DbD3Ee6bAF2802D29a901Ef11501C44797A))
 
@@ -348,7 +473,7 @@ Este vault aceita depósitos de tokens [sCrv] (https://etherscan.io/address/0xC2
 [ConvexcrvPlain3andSUSD] (https://etherscan.io/address/0xFA773b91b59B0895877c769000b9824b46b13a20) 🚀 
 Fornece sCRV para Convex Finance para obter CRV e CVX. As recompensas são colhidas, vendidas por mais sCRV e depositadas novamente no vault.
 
-![](25.png)
+![](42.png)
 
 ### v2 Curve AAVE Pool yVault ([yvCurve-Aave] (https://etherscan.io/address/0x39CAF13a104FF567f71fd2A4c68C026FDB6E740B))
 
@@ -358,7 +483,7 @@ Este vault aceita depósitos de tokens [a3CRV] (https://etherscan.io/address/0xF
 [Convexa3CRV] (https://etherscan.io/address/0xAC4AE0B06C913dF4608dB60E2571a8e91b74C619) 🚀 
 Fornece a3CRV para Convex Finance para obter CRV e CVX. As recompensas são colhidas, vendidas por mais a3CRV e depositadas novamente no vault.
 
-![](26.png)
+![](43.png)
 
 ### V2 Curve HUSD Pool yVault ([yvCurve-HUSD] (https://etherscan.io/address/0x054AF22E1519b020516D72D749221c24756385C9))
 
@@ -368,7 +493,7 @@ Este vault aceita depósitos de tokens [husd3CRV] (https://etherscan.io/address/
 [Convexhusd3CRV] (https://etherscan.io/address/0xdC929e76081a78e5c32552C2e79D29ECab3F6755) 🚀 
 Fornece husd3CRV para Convex Finance para obter CRV e CVX. As recompensas são colhidas, vendidas por mais husd3CRV e depositadas novamente no vault.
 
-![](27.png)
+![](44.png)
 
 ### v2 Curve USDN Pool yVault ([yvCurve-USDN] (https://etherscan.io/address/0x3B96d491f067912D18563d56858Ba7d6EC67a6fa))
 
@@ -378,7 +503,7 @@ Este vault aceita depósitos de tokens [usdn3CRV] (https://etherscan.io/address/
 [Convexusdn3CRV] (https://etherscan.io/address/0x8e87e65Cb28c069550012f92d5470dB6EB6897c0) 🚀 
 Fornece usdn3CRV para Convex Finance para obter CRV e CVX. As recompensas são colhidas, vendidas por mais usdn3CRV e depositadas novamente no vault.
 
-![](28.png)
+![](45.png)
 
 ### v2 Curve rETH Pool yVault ([yvCurve-rETH] (https://etherscan.io/address/0xBfedbcbe27171C418CDabC2477042554b1904857))
 
@@ -388,7 +513,7 @@ Este vault aceita depósitos de tokens [rCRV] (https://etherscan.io/address/0x53
 [ConvexrCRV] (https://etherscan.io/address/0x8E4AA2E00694Adaf37f0311651262671f4d7Ac16) 🚀 
 Fornece rCRV para a Convex Finance para obter CRV, CVX e FIS. As recompensas são colhidas, vendidas por mais rCRV e depositadas novamente no vault.
 
-![](29.png)
+![](46.png)
 
 ### v2 Curve ankrETH Pool yVault ([yvCurve-ankrETH] (https://etherscan.io/address/0x132d8D2C76Db3812403431fAcB00F3453Fc42125))
 
@@ -398,7 +523,7 @@ Este vault aceita depósitos de tokens [ankrCRV] (https://etherscan.io/address/0
 [ConvexankrCRV] (https://etherscan.io/address/0xB194dCFF4E11d26919Ce3B3255F69aEca5951e88) 🚀 
 Fornece ankrCRV para Convex Finance para obter CRV, CVX, ANKR e ONX. As recompensas são colhidas, vendidas por mais ankrCRV e depositadas novamente no vault.
 
-![](30.png)
+![](47.png)
 
 ### v2 Curve LINK Pool yVault ([yvCurve-LINK] (https://etherscan.io/address/0xf2db9a7c0ACd427A680D640F02d90f6186E71725))
 
@@ -408,7 +533,7 @@ Este vault aceita depósitos de tokens [linkCRV] (https://etherscan.io/address/0
 [ConvexlinkCRV] (https://etherscan.io/address/0xb7f013426d33fe27e4E8ABEE58500268554736bD) 🚀 
 Fornece linkCRV para Convex Finance para obter CRV e CVX. As recompensas são colhidas, vendidas por mais linkCRV e depositadas novamente no vault.
 
-![](31.png)
+![](48.png)
 
 ### v2 Curve alUSD Pool yVault ([yvCurve-alUSD] (https://etherscan.io/address/0xA74d4B67b3368E83797a35382AFB776bAAE4F5C8))
 
@@ -418,7 +543,7 @@ Este vault aceita depósitos de tokens [alUSD3CRV-f] (https://etherscan.io/addre
 [ConvexalUSD3CRV-f] (https://etherscan.io/address/0xf8Fb278DeeaF30Ff3F6326d928A61eA8b9397d16) 🚀 
 Fornece alUSD3CRV-f para Convex Finance para obter CRV, CVX e ALCX. As recompensas são colhidas, vendidas por mais alUSD3CRV-f e depositadas novamente no vault.
 
-![](32.png)
+![](49.png)
 
 ### v2 Curve USDP Pool yVault ([yvCurve-USDP] (https://etherscan.io/address/0xC4dAf3b5e2A9e93861c3FBDd25f1e943B8D87417))
 
@@ -428,7 +553,7 @@ Este vault aceita depósitos de tokens [usdp3CRV] (https://etherscan.io/address/
 [Convexusdp3CRV] (https://etherscan.io/address/0xfb0702469A1a0440E87C06605461E8660FD0F43d) 🚀 
 Fornece usdp3CRV para Convex Finance para obter CRV e CVX. As recompensas são colhidas, vendidas por mais usdp3CRV e depositadas novamente no vault.
 
-![](33.png)
+![](50.png)
 
 ### v2 Curve UST Pool yVault ([yvCurve-UST] (https://etherscan.io/address/0x1C6a9783F812b3Af3aBbf7de64c3cD7CC7D1af44))
 
@@ -438,7 +563,7 @@ Este vault aceita depósitos de tokens [ust3CRV] (https://etherscan.io/address/0
 [Convexust3CRV] (https://etherscan.io/address/0x0921E388e86bbE0356e37413F946ccE47EDd294D) 🚀 
 Fornece ust3CRV para Convex Finance para obter CRV e CVX. As recompensas são colhidas, vendidas por mais ust3CRV e depositadas novamente no vault.
 
-![](34.png)
+![](51.png)
 
 ### v2 Curve DUSD Pool yVault ([yvCurve-DUSD] (https://etherscan.io/address/0x30FCf7c6cDfC46eC237783D94Fc78553E79d4E9C))
 
@@ -448,7 +573,7 @@ Este vault aceita depósitos de tokens [dusd3CRV] (https://etherscan.io/address/
 [Convexdusd3CRV] (https://etherscan.io/address/0x33d7E0Fa2c7Db85Ef3AbC1C44e07E0b5cB2E4C14) 🚀 
 Fornece dusd3CRV para Convex Finance para obter CRV e CVX. As recompensas são colhidas, vendidas por mais dusd3CRV e depositadas novamente no vault.
 
-![](35.png)
+![](52.png)
 
 ### v2 Curve TUSD Pool yVault ([yvCurve-TUSD] (https://etherscan.io/address/0xf8768814b88281DE4F532a3beEfA5b85B69b9324))
 
@@ -458,7 +583,7 @@ Este vault aceita depósitos de tokens [TUSD3CRV-f] (https://etherscan.io/addres
 [ConvexTUSD3CRV-f] (https://etherscan.io/address/0x270101459e9A38Db38Ba4Cb8718FfA31953A9Af3) 🚀 
 Fornece TUSD3CRV-f para Convex Finance para obter CRV e CVX. As recompensas são colhidas, vendidas por mais TUSD3CRV-f e depositadas novamente no vault.
 
-![](36.png)
+![](53.png)
 
 ### v2 Curve Y Pool yVault ([yUSD] (https://etherscan.io/address/0x4B5BfD52124784745c1071dcB244C6688d2533d3))
 
@@ -468,7 +593,7 @@ Este vault aceita depósitos de tokens [yDAI + yUSDC + yUSDT + yTUSD] (https://e
 [ConvexyDAI + yUSDC + yUSDT + yTUSD] (https://etherscan.io/address/0xA5189cb0149761A8346D64E384924b2394dFa595) 🚀 
 Fornece yDAI + yUSDC + yUSDT + yTUSD para a Convex Finance para ganhar CRV e CVX. As recompensas são colhidas, vendidas por mais yDAI + yUSDC + yUSDT + yTUSD e depositadas de volta no vault.
 
-![](37.png)
+![](54.png)
 
 ### v2 Curve 3Pool yVault ([yvCurve-3pool] (https://etherscan.io/address/0x84E13785B5a27879921D6F685f041421C7F482dA))
 
@@ -478,7 +603,7 @@ Este vault aceita depósitos de tokens [3crv] (https://etherscan.io/address/0x6c
 [Convex3Crv] (https://etherscan.io/address/0xeC088B98e71Ba5FFAf520c2f6A6F0153f1bf494B) 🚀 
 Fornece 3crv para Convex Finance para obter CRV e CVX. As recompensas são colhidas, vendidas por mais 3CRV e depositadas novamente no vault.
 
-![](38.png)
+![](55.png)
 
 ### v2 Curve GUSD yVault ([yvCurve-GUSD] (https://etherscan.io/address/0x2a38B9B0201Ca39B17B460eD2f11e4929559071E))
 
@@ -488,7 +613,7 @@ Este vault aceita depósitos de tokens [gusd3CRV] (https://etherscan.io/address/
 [Convexgusd3CRV] (https://etherscan.io/address/0x2D42CFdC6a1B03490892AdF7DC6c62AA7228E5D6) 🚀 
 Fornece gusd3CRV para Convex Finance para ganhar CRV e as recompensas CVX são colhidas, vendidas por mais gusd3CRV e depositadas de volta no vault.
 
-![](39.png)
+![](56.png)
 
 ### v2 Curve Iron Bank yVault ([yvCurve-IB] (https://etherscan.io/address/0x27b7b1ad7288079A66d12350c828D3C00A6F07d7))
 
@@ -498,7 +623,7 @@ Este vault aceita depósitos de tokens [ib3CRV] (https://etherscan.io/address/0x
 [StrategyConvexIronBank] (https://etherscan.io/address/0x864F408B422B7d33416AC678b1a1A7E6fbcF5C8c) 🚀 
 Fornece ib3crv para Convex Finance para obter CRV e CVX. As recompensas são colhidas, vendidas por mais ib3CRV e depositadas novamente no vault.
 
-![](40.png)
+![](57.png)
 
 ### v2 Curve sETH Pool yvault ([yveCRV] (https://etherscan.io/address/0x986b4AFF588a109c09B50A03f42E4110E29D353F))
 
@@ -508,7 +633,7 @@ Este vault aceita depósitos de tokens [eCRV] (https://etherscan.io/address/0xA3
 [StrategyConvexsETH] (https://etherscan.io/address/0xc2fC89E79D4Fd2570dD9B413b851F38076bCd930) 🚀 
 Fornece ecrv para Convex Finance para obter CRV e CVX. As recompensas são colhidas, vendidas por mais eCRV e depositadas novamente no vault.
 
-![](41.png)
+![](58.png)
 
 ### v2 Curve stETH Pool yVault ([yvsteCRV] (https://etherscan.io/address/0xdcd90c7f6324cfa40d7169ef80b12031770b4325))
 
@@ -518,7 +643,7 @@ Este vault aceita depósitos de tokens [steCRV] (https://etherscan.io/address/0x
 [StrategyConvexstETH] (https://etherscan.io/address/0x6C0496fC55Eb4089f1Cf91A4344a2D56fAcE51e3) 🚀 
 Fornece stecrv para Convex Finance para obter CRV e CVX. As recompensas são colhidas, vendidas por mais steCRV e depositadas novamente no vault.
 
-![](42.png)
+![](59.png)
 
 ### v2 Curve sBTC Pool yVault ([yvCurve-sBTC] (https://etherscan.io/address/0x8414Db07a7F743dEbaFb402070AB01a4E0d2E45e))
 
@@ -528,7 +653,7 @@ Este vault aceita depósitos de tokens [sbtcCrv] (https://etherscan.io/address/0
 [ConvexcrvRenWSBTC] (https://etherscan.io/address/0x7aB4DB515bf258A88Bb14f3685769a0f70B8778f) 🚀 
 Fornece sbtccrv para Convex Finance para obter CRV e CVX. As recompensas são colhidas, vendidas por mais sbtcCRV e depositadas novamente no vault.
 
-![](43.png)
+![](60.png)
 
 ### v2 Curve renBTC Pool yVault ([yvCurve-renBTC] (https://etherscan.io/address/0x7047F90229a057C13BF847C0744D646CFb6c9E1A))
 
@@ -538,9 +663,9 @@ Este vault aceita depósitos de tokens [crvRenWBTC] (https://etherscan.io/addres
 [ConvexcrvRenWBTC] (https://etherscan.io/address/0x7799F476522Ebe259fc525C1A21E84f7Dd551955) 🚀 
 Fornece crvRenWBTC para Convex Finance para obter CRV e CVX. As recompensas são colhidas, vendidas por mais crvRenWBTC e depositadas novamente no vault.
 
-![](44.png)
+![](61.png)
 
-### v2 Curve oBTC Pool yVault (yvCurve-oBTC)
+### Curve oBTC Pool yVault (yvCurve-oBTC)
 
 [CurveoBTC / sbtcCRVVoterProxy] (https://etherscan.io/address/0x24579b82E06aBe25C8ffC4Ee6C2dB676e57F1a32) 🚀 
 Este vault aceita depósitos de tokens [oBTC / sbtcCRV] (https://etherscan.io/address/0x2fE94ea3d5d4a175184081439753DE15AeF9d614) obtidos através do fornecimento de oBTC, renBTC, wBTC ou sBTC para o pool de liquidez na Curve [aqui] (https:// curve.fi/obtc/deposit). Os tokens oBTC/sbtcCRV são colocados no gauge na Curve para ganhar CRV e [BOR] (https://www.coingecko.com/en/coins/boringdao). As recompensas são negociadas por um dos ativos subjacentes e depositadas novamente no pool de liquidez, para obter mais oBTC/sbtcCRV.
@@ -548,7 +673,7 @@ Este vault aceita depósitos de tokens [oBTC / sbtcCRV] (https://etherscan.io/ad
 [ConvexoBTC / sbtcCRV] (https://etherscan.io/address/0xDb2D3F149270630382D4E6B4dbCd47e665D78D76) 🚀 
 Fornece oBTC/sbtcCRV para Convex Finance para obter CRV e CVX. As recompensas são colhidas, vendidas por mais oBTC/sbtcCRV e depositadas novamente no vault.
 
-![](45.png)
+![](62.png)
 
 ### v2 Curve pBTC Pool yVault ([yvCurve-pBTC] (https://etherscan.io/address/0x3c5DF3077BcF800640B5DAE8c91106575a4826E6))
 
@@ -558,7 +683,7 @@ Este vault aceita depósitos de tokens [pBTC / sbtcCRV] (https://etherscan.io/ad
 [ConvexpBTC / sbtcCRV] (https://etherscan.io/address/0x7b5cb4694b0A299ED2F65db7d87B286461549e84) 🚀 
 Fornece pBTC/sbtcCRV para Convex Finance para obter CRV e CVX. As recompensas são colhidas, vendidas por mais pBTC/sbtcCRV e depositadas novamente no vault.
 
-![](46.png)
+![](63.png)
 
 ### v2 Curve tBTC Pool yVault ([yvCurve-tBTC] (https://etherscan.io/address/0x23D3D0f1c697247d5e0a9efB37d8b0ED0C464f7f))
 
@@ -568,7 +693,7 @@ Este vault aceita depósitos de tokens [tBTC/sbtcCrv] (https://etherscan.io/addr
 [Convextbtc / sbtcCrv] (https://etherscan.io/address/0x07fb6A53185E2F095253099A47F34CD410eB2A89) 🚀 
 Fornece tBTC/sbtcCrv para Convex Finance para obter CRV e CVX. As recompensas são colhidas, vendidas por mais tBTC/sbtcCRV e depositadas novamente no vault.
 
-![](47.png)
+![](64.png)
 
 ### v2 Curve FRAX Pool yVault ([yvCurve-FRAX] (https://etherscan.io/address/0xB4AdA607B9d6b2c9Ee07A275e9616B84AC560139#code))
 
@@ -578,7 +703,7 @@ Este vault aceita depósitos de tokens [FRAX3CRV-f] (https://etherscan.io/addres
 [ConvexFRAX3CRV-f] (https://etherscan.io/address/0x8c312B63Bc4000f61E1C4df4868A3A1f09b31A73) 🚀 
 Fornece FRAX3CRV-f para Convex Finance para ganhar CRV, CVX e FXS. As recompensas são colhidas, vendidas por mais FRAX3CRV-f e depositadas novamente no vault.
 
-![](48.png)
+![](65.png)
 
 ### v2 Curve LUSD Pool yVault ([yvCurve-LUSD] (https://etherscan.io/address/0x5fA5B62c8AF877CB37031e0a3B2f34A78e3C56A6#code))
 
@@ -588,7 +713,7 @@ Este vault aceita depósitos de tokens  [LUSD3CRV-f](https://etherscan.io/addres
 [ConvexLUSD3CRV-f] (https://etherscan.io/address/0x789685963DF287337759A9FaB65d8c645a3B4cba) 🚀 
 Fornece LUSD3CRV-f para Convex Finance para obter CRV e CVX. As recompensas são colhidas, vendidas por mais LUSD3CRV-f e depositadas novamente no vault.
 
-![](49.png)
+![](66.png)
 
 ### v2 Curve SAAVE Pool yVault ([yvCurve-sAave] (https://etherscan.io/address/0xb4D1Be44BfF40ad6e506edf43156577a3f8672eC#code))
 
@@ -598,7 +723,7 @@ Este vault aceita depósitos de tokens [saCRV] (https://etherscan.io/address/0x0
 [ConvexsaCRV] (https://etherscan.io/address/0xF5636591256195414f25d19034B70A4742Fc2A2e) 🚀 
 Fornece saCRV para Convex Finance para obter CRV e CVX. As recompensas são colhidas, vendidas por mais saCRV e depositadas novamente no vault.
 
-![](50.png)
+![](67.png)
 
 ### v2 Curve bBTC Pool yVault ([yvCurve-bBTC] (https://etherscan.io/address/0x8fA3A9ecd9EFb07A8CE90A6eb014CF3c0E3B32Ef))
 
@@ -608,7 +733,7 @@ Este vault aceita depósitos de tokens [bBTC/sbtcCrv] (https://etherscan.io/addr
 [ConvexbBTC / sbtcCRV] (https://etherscan.io/address/0xE9ac8D34C546CBfdAD98F9a4546Db5fE08D01bF2) 🚀 
 Fornece bBTC/sbtccrv para Convex Finance para obter CRV e CVX. As recompensas são colhidas, vendidas por mais bBTC/sbtcCRV e depositadas novamente no vault.
 
-![](51.png)
+![](68.png)
 
 ### v2 Curve BUSD Pool yVault ([yvCurve-BUSD] (https://etherscan.io/address/0x6Ede7F19df5df6EF23bD5B9CeDb651580Bdf56Ca#code))
 
@@ -618,7 +743,7 @@ Este vault aceita depósitos de tokens [BUSD3CRV-f] (https://etherscan.io/addres
 [ConvexBUSD3CRV-f] (https://etherscan.io/address/0xA44F947e51Ec6456A1d786F82ea5865F87Da9C30) 🚀 
 Fornece BUSD3CRV-f para Convex Finance para obter CRV e CVX. As recompensas são colhidas, vendidas por mais BUSD3CRV-f e depositadas novamente no vault.
 
-![](52.png)
+![](69.png)
 
 ### v2 Curve yBUSD Pool yVault ([yyDAI + yUSDC + yUSDT + yBUSD] (https://etherscan.io/address/0x2994529C0652D127b7842094103715ec5299bBed#code))
 
@@ -628,7 +753,7 @@ Este vault aceita depósitos de tokens [yDAI + yUSDC + yUSDT + yBUSD] (https://e
 [ConvexyDAI + yUSDC + yUSDT + yBUSD] (https://etherscan.io/address/0x3cA0B4d7eedE71061B0bAdb4F0E86E99b0FEa613) 🚀 
 Fornece yDAI + yUSDC + yUSDT + yTUSD para a Convex Finance para ganhar CRV e CVX. As recompensas são colhidas, vendidas por mais yDAI + yUSDC + yUSDT + yBUSD e depositadas de volta no vault.
 
-![](53.png)
+![](70.png)
 
 ### v2 Curve Compound Pool yVault ([yvCurve-Compound] (https://etherscan.io/address/0xD6Ea40597Be05c201845c0bFd2e96A60bACde267))
 
@@ -659,6 +784,10 @@ Este vault deposita o TUSD no YPool on Curve [aqui] (https://www.curve.fi/iearn/
 
 Esses vaults não estão mais ativos ou estão em processo de migração para uma versão mais recente, e sendo eliminados gradualmente. As estratégias podem ter sido pausadas, os depósitos podem ter sido fechados ou podem ter sido removidos inteiramente do site.
 
+### v2 YFI yVault ([yvYFI](https://etherscan.io/address/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1#readContract)) — v0.3.2
+
+⚠️ **This vault is being migrated to a newer version.** It is recommended you migrate your balance to the v2 YFI yVault — v0.4.2 to continue earning the best yield.
+
 ### v2 DAI yVault ([yvDAI](https://etherscan.io/address/0x19d3364a399d251e894ac732651be8b0e4e85001))[📺](https://youtu.be/4kHgQuTx6_U) — v0.3.0
 
 ⚠️**Este vault está sendo migrado para uma versão mais recente.** Recomenda-se que você migre seu saldo para o v2 DAI yVault - v0.4.2 para continuar obtendo o melhor rendimento.
@@ -674,6 +803,10 @@ Esses vaults não estão mais ativos ou estão em processo de migração para um
 ### v2 HEGIC yVault ([yvHEGIC](https://etherscan.io/address/0xe11ba472f74869176652c35d30db89854b5ae84d))
 
 ⚠️ **Este vault não está mais ativo.** Favor retirar seus fundos.
+
+### v1 TrueUSD yVault ([yTUSD](https://etherscan.io/address/0x37d19d1c4E1fa9DC47bD1eA12f742a0887eDa74a#code))
+
+⚠️ **This vault is no longer active.** This vault is inactive and will no longer generate any yield. The v1 TrueUSD yVault has been deprecated for the v2 TrueUSD yVault. Please migrate your funds via our zap or withdrawal.
 
 ### v1 aLINK yVault ([yaLINK](https://etherscan.io/address/0x29E240CFD7946BA20895a7a02eDb25C210f9f324#code))
 
@@ -813,7 +946,7 @@ Usando o pool crvCOMP, como exemplo, os provedores de liquidez ganham aproximada
 
 Os depositantes podem aumentar as recompensas de CRV ganhas travando o CRV no módulo de escrow de voto, com um aumento máximo de **2,5x**. O tamanho do incentivo depende da quantidade de CRV travado no escrow de voto e do tamanho do depósito no pool de liquidez; no entanto, esta [calculadora](https://dao.curve.fi/minter/calc) é útil na modelagem de potenciais multiplicadores de incentivos. O inventivo máximo para o pool crvCOMP rende um APY de 61,81% adicional na forma de recompensas CRV, que é exibido abaixo.
 
-![](55.png)
+![](71.png)
 
 Yearn faz stake do token de provedor de liquidez Curve no gauge para obter recompensas CRV. 10% dessas recompensas estão travadas em nosso vault yveCRV-DAO (descrito acima) para aumentar as recompensas de todos os yVaults com estratégias Curve.
 

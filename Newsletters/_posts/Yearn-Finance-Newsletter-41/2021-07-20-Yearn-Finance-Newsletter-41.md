@@ -25,7 +25,7 @@ Welcome to the 41st edition of the Yearn Finance Newsletter. Our aim with this n
 
 ## Celebrating YFI’s First Year
 
-![alt_text](image5.png "image_tooltip")
+![alt_text](image5.png)
 
 One year ago on July 17, 2020, the YFI token was launched. Thank you all for creating an unforgettable moment in DeFi and what is now one of the strongest DeFi ecosystems.
 
@@ -33,7 +33,7 @@ Thanks to [loldefi](https://twitter.com/loldefi), apparel celebrating YFI’s fi
 
 ## Yearn’s Market Share In Aggregator Market Rises
 
-![alt_text](image4.png "image_tooltip")
+![alt_text](image4.png)
 
 In Q2 2021, Yearn’s market share in the yield aggregator market rose from 29% to 69%. We saw an impressive 136% growth in our AUM, as it reached over five billion dollars. We are working constantly to find you the best risk-adjusted returns in the market. Deposit capital to our yVaults and let the Strategists do all the hard work for you.
 
@@ -41,7 +41,7 @@ View more details about Yearn and general DeFi analytics in this Messari [report
 
 ## Yearn To Be Added To Compound
 
-![alt_text](image3.png "image_tooltip")
+![alt_text](image3.png)
 
 A proposal has been created and contracts have been deployed to add YFI as a market to Compound Finance. Each token will have a zero collateral factor (initially), the same interest rate model (as COMP/LINK), and a reserve factor of 25% for each market (which is standard).
 
@@ -51,7 +51,7 @@ View more details about the post on Compound’s forum [here](https://www.comp.x
 
 ## YFI Borrowing Rate Lowered At MakerDAO
 
-![alt_text](image2.png "image_tooltip")
+![alt_text](image2.png)
 
 MakerDAO has lowered the YFI-A stability fee to 1% and the ETH-C stability fee to 0.50%. These are incredibly beneficial for Yearn’s YFI and ETH strategies as they lower the cost of borrowing. The reduced cost of capital generates more net yield for users, improving returns.
 

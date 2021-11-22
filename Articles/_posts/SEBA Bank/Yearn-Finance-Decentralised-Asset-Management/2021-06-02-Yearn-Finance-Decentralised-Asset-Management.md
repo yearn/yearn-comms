@@ -116,4 +116,3 @@ Apesar do Yearn finance ser um protocolo de código aberto onde as estratégias 
 
 [^1]: Uma das coisas mais importantes para entender aqui é a origem do rendimento. Tradicionalmente, as pessoas pedem dinheiro emprestado e criam mais valor do que o montante emprestado para pagar os juros. No DeFi, o rendimento é gerado por investidores que acreditam que seu ativo de risco terá um desempenho superior ao custo de juros do empréstimo de moedas estáveis. A outra fonte de rendimento é a emissão de protocolo, onde os protocolos distribuem tokens de governança para usuários ativos e colaboradores do protocolo.
 [^2]: Os nascidos entre 1946 e 1964
-

@@ -57,6 +57,6 @@ Com o seu YFI ou yCRV em mãos, vocÊ pode ir para http://yearn.finance/vaults e
 
 Também cabe mencionar: só porque você não tem nenhum saldo ainda em stake, isso não significa que você não pode reinvidicar recompensas! Da mesma forma que balanceOf(), você pode verificar as recompensas disponíveis na aba Ler Contrato com earned(), e então reinvidicar o que tiver disponível em Escrever contrato usando getReward()! 🤑
 
-![](image4.png) </br>
+![](image4.png)
 
 ![](image5.png)

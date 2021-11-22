@@ -8,7 +8,7 @@ translator: JKtranslator
 publish: true
 ---
 
-![](yield1.jpg) </br>
+![](yield1.jpg)
 
 # E se Yearn = a "função de rendimento" da web?
 
