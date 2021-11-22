@@ -1,35 +1,39 @@
 ---
 layout: post
-title:  "Bowswap.Finance"
+title:  "Bowswap Finance"
 categories: [ Tweets ]
-image: ./bowswapfinance/image1.jpg
+image: ./bowswapfinance/image1_bowswap_vi.jpg
 author: Facu
-translator:
+translator: 🤖💵💵💰💰.eth
 publish: true
 ---
 
-original source: [twitter](https://twitter.com/fameal/status/1424857239505018880)
+Tác giả: @[Facu](https://twitter.com/fameal)
 
-##### 1
+Liên kết: https://twitter.com/fameal/status/1424857239505018880
 
-There's a new way to always have the best available yield. A simple way:
+Liên kết: https://twitter.com/fameal/status/1424857239505018880
+
+Một cách mới để luôn có lãi suất tốt nhất hiện tại. Một cách đơn giản:
 
 🏹 https://bowswap.finance
 
-You can now swap between [@iearnfinance](https://twitter.com/iearnfinance) Vaults in one single transaction ⚡️
+Giờ đây, bạn có thể đổi giữa các Kho bạc (Vault) của [@iearnfinance](https://twitter.com/iearnfinance) chỉ bằng một giao dịch ⚡️
 
-![](image1.jpg)
+👇
 
-##### 2
+![](image1_bowswap_vi.jpg)
 
-In this first version you can move between some Curve LP vaults that have the same metapool.
+👇
 
-##### 3
+Ở phiên bản đầu tiên này, bạn có thể chuyển qua lại giữa vài "kho&nbsp;bạc&nbsp;LP&nbsp;Curve" (Curve&nbsp;LP&nbsp;vault) có cùng bể tổng hợp (metapool).
 
-What's a metapool? It's a pool built on top of another pool. Simple, right?
+Bể tổng hợp (metapool) là gì? Nó là một bể góp vốn được xây dựng phía trên bể khác. Đơn giản chưa?
 
-##### 4
+Bể tổng hợp (metapool) là gì? Nó là một bể góp vốn được xây dựng phía trên bể khác. Đơn giản chưa?
 
-You are going to be able to swap safely thanks to the slippage protection built-in 🛡️
+# 4
 
-Thanks [@pandabuild](https://twitter.com/pandabuild) [@MajorTom_eth](https://twitter.com/MajorTom_eth) and Ivan for building this yAmazing thing 🚀
+Bạn sẽ có thể đổi qua lại một cách an toàn nhờ chức năng chống trượt giá quá lớn, mặc định tích hợp sẵn 🛡️
+
+Cảm ơn [@pandabuild](https://twitter.com/pandabuild), [@TBouder](https://twitter.com/TBouder) và Ivan đã mang lại chức năng yTuyệt-vời này 🚀
