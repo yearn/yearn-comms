@@ -4,7 +4,7 @@ title:  "市场熊，发展牛"
 categories: [ Tweets ]
 image: ./Bear-market,-bullish-development/image1.jfif
 author: Dudesahn
-translator: xiaona & bee
+translator: Bee926, Xiaona
 published: true
 ---
 

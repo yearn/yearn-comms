@@ -236,7 +236,7 @@ Sushiswap is an AMM which generally has higher yields than Uniswap as its pools 
 - [Sushiswap](https://app.sushi.com/yield)
 #### Tools
 - [YFI Sushi pools](https://analytics.sushi.com/tokens/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e)
-- [apy.vision YFI/ETH Sushi Pool](https://apy.vision/#/pools/0x088ee5007c98a9677165d78dd2109ae4a3d04d0c)
+- [apy.vision YFI/ETH Sushi Pool](https://app.apy.vision/pools/sushiswap_eth-YFI-WETH-pool-0x088ee5007c98a9677165d78dd2109ae4a3d04d0c)
 - [Zap into Sushiswap YFI/WETH Pool](https://zapper.fi/invest?protocol=sushiswap&contractAddress=0x088ee5007c98a9677165d78dd2109ae4a3d04d0c&modal=invest)
 
 #### Risks
@@ -260,7 +260,7 @@ Generally on AMM's such as Uniswap, Bancor, and Sushiswap you want to be in the 
 - [Zapper Uni YFI/WETH](https://zapper.fi/invest?protocol=uniswapV2&contractAddress=0x2fdbadf3c4d5a8666bc06645b8358ab803996e28&modal=invest)
 - [IL Calculator for YFI/WETH Pair](https://app.sommelier.finance/pair?id=0x2fdbadf3c4d5a8666bc06645b8358ab803996e28&timeWindow=total): This can help show how much you will gain or lose if you started to LP in this pool at a certain date.
 - [Uniswap Analytics YFI/WETH](https://info.uniswap.org/pair/0x2fdbadf3c4d5a8666bc06645b8358ab803996e28)
-- [Apy.vision YFI/WETH](https://apy.vision/#/pools/0x2fdbadf3c4d5a8666bc06645b8358ab803996e28)
+- [Apy.vision YFI/WETH](https://app.apy.vision/pools/uniswap_eth-YFI-WETH-pool-0x2fdbadf3c4d5a8666bc06645b8358ab803996e28)
 - [Zap into Uniswap v2 YFI/WETH Pool](https://zapper.fi/invest?protocol=uniswapV2&contractAddress=0x2fdbadf3c4d5a8666bc06645b8358ab803996e28&modal=invest)
 
 #### Risks
@@ -272,7 +272,7 @@ For DeFi insurance, you would only need to insure Uniswap to have full coverage 
 #### APY
 APY: 20.79%
 Calculation: Last 30 days annualized after subtracting IL.
-Source: [apy.vision](https://apy.vision/#/pools/0x2fdbadf3c4d5a8666bc06645b8358ab803996e28)
+Source: [apy.vision](https://app.apy.vision/pools/uniswap_eth-YFI-WETH-pool-0x2fdbadf3c4d5a8666bc06645b8358ab803996e28)
 
 ### Pickle.Finance pSUSHI YFI/WETH jar
 Pickle is a type of vault-like Yearn's (called jars) that will let you auto-compound your SUSHI rewards from the SUSHI YFI/WETH pool and they also give you PICKLE as extra rewards for staking with them.
