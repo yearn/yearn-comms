@@ -1,14 +1,18 @@
-Written by our friends at Gemini & the [Cryptopedia Staff](https://www.gemini.com/cryptopedia/authors#cryptopedia-staff)
+---
+layout: post
+title:  "Yearn Finance and Money Robots"
+categories: [ Articles ]
+image: ./Yearn-Finance-and-Money-Robots/image1.png
+author: Gemini/Cryptopedia
+---
 
-Updated March 25, 2021
-
-[https://www.gemini.com/cryptopedia/yearn-finance-defi-lending-protocol](https://www.gemini.com/cryptopedia/yearn-finance-defi-lending-protocol)
+original publication: [https://www.gemini.com/cryptopedia/yearn-finance-defi-lending-protocol](https://www.gemini.com/cryptopedia/yearn-finance-defi-lending-protocol)
 
 # Yearn Finance and Money Robots: Automated DeFi Strategy
 
 Yearn Finance offers a suite of investment strategies powered by robots that contain “wisdom sourced from the crowd” — Yearn’s own community.
 
-![alt_text](image1.png "image_tooltip")
+![alt_text](image1.png)
 
 ## Summary
 
