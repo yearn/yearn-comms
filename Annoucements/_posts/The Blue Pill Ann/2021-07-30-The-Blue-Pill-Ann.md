@@ -4,7 +4,7 @@ title:  "Die blaue Pille"
 categories: [ Annoucements ]
 image: ./The-Blue-Pill-Ann/thebluebook.jpg
 author: Yearn
-translator:
+translator: Nesyeth
 publish: true
 ---
 
