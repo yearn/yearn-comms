@@ -29,7 +29,7 @@ Bienvenidos a la edición número 46 de la newsletter de Yearn Finance. Con esta
 
 Como sabrás, Yearn es el protocolo de generación de rendimiento de Defi, con distintos estrategas generando código para obtener retornos óptimos para nuestros usuarios utilizando contratos inteligentes flexibles que asignan recursos de manera eficiente en varios protocolos. Debido a que Yearn requiere mantenerse al día con el competitivo mercado de generación de rendimiento, necesitamos desplegar estrategias rápidamente lo cual conlleva riesgos de seguridad.
 
-Hay 176 estrategas en 63 vaults en total el día de hoy y para poder evitar riesgos de seguridad, necesitamos una solida estructura de riesgo. Para mitigar riesgos de seguridad, hemos agregado opciones como bots de simulación para encontrar problemas y para mantener la salud de del protocolo. Puedes leer más sobre los procedimientos de emergencia [Aquí](https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/EMERGENCY.md).
+Hay 176 estrategas en 64 vaults en total el día de hoy y para poder evitar riesgos de seguridad, necesitamos una solida estructura de riesgo. Para mitigar riesgos de seguridad, hemos agregado opciones como bots de simulación para encontrar problemas y para mantener la salud de del protocolo. Puedes leer más sobre los procedimientos de emergencia [Aquí](https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/EMERGENCY.md).
 
 También puedes ver los detalles de las vaults y estrategias en [yearn.watch](https://yearn.watch/).
 
