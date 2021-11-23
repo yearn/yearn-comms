@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Atlantis World Grant"
+title:  "Atlantis World 赠款"
 categories: [ Tweets ]
 image: ./Yearn-grant-Atlantis-World/image2.jpg
 author: Yearn
-translator: 
-published: false
+translator: Xiaona, Bee926
+published: true
 ---
 
 original source: [twitter](https://twitter.com/iearnfinance/status/1432387438014435332)
 
-###### Yearn Finance 已向[@atlantis0x](https://twitter.com/atlantis0x)提供资助构建二维像素元宇宙。原因如下:
+###### Yearn Finance已向[@atlantis0x](https://twitter.com/atlantis0x)提供资助构建二维像素元宇宙。原因如下:
 
 ##### 1
 
@@ -24,7 +24,7 @@ original source: [twitter](https://twitter.com/iearnfinance/status/1432387438014
 
 ##### 3
 
-我们认为，随着我们连接、游戏化和发展生态系统，元宇宙将在 DAO 和文化的未来发挥重要作用。
+我们认为，随着我们连接、游戏化和发展生态系统，元宇宙将在DAO和文化的未来发挥重要作用。
 
 ##### 4
 
