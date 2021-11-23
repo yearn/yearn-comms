@@ -1,16 +1,15 @@
 ---
 layout: post
-title:  "The Blue Pill"
+title:  "The Blue Pill - 蓝色药丸"
 categories: [ Annoucements ]
 image: ./The-Blue-Pill-Ann/thebluebook.jpg
 author: Yearn
-translator: 
-published: false
+translator: mesalee
+published: true
 ---
 
-Today we invite you to celebrate the first year of Yearn with [The Blue Pill](https://medium.com/iearn/the-blue-pill-ca44ed01f16f), a spiritual guide for the past, present and future of Yearn. A beautifully-typeset book is available to our 13,500 most loyal supporters.
+今天，我们邀请你与[The Blue Pill](https://medium.com/iearn/the-blue-pill-ca44ed01f16f)一起庆祝 Yearn 的第一年，这是一本记录了Yearn过往、当下和未来的精神指南。 我们13,500名最忠实的支持者可以获得这本排版精美的书。
 
-Your contribution is immortalized in a [set of seven unique NFTs](https://galaxy.eco/yearn) by
-[@Zemm_NFT](https://twitter.com/Zemm_NFT). Whether you are a farmer, a governor, a doer, or a giver, Yearn wouldn't have been the same without you. You are all necessary.
+你的贡献被[@Zemm_NFT](https://twitter.com/Zemm_NFT)的[一组七个独特的NFT](https://galaxy.eco/yearn)记录下来，永垂不朽。 无论您是挖矿农民、治理者、实干者还是给予者，没有你们，Yearn都不会和现在一样，每个人都不可或缺。
 
-This is an invitation to contribute. We attempt to answer what makes Yearn unique by diving deep into the magic of The Gift which has sparked the project. Keep the book close, or share it with a friend. Keep our story alive, you are already part of it.
+这是一份邀请各位来贡献的请帖。这份礼物激发了Yearn，而我们试图通过深入探讨这份礼物的魔力，来找到Yearn众不同的原因。 把书藏好，或找个朋友分享。 让我们的故事保持鲜活，你已经是故事中的一部分了。
