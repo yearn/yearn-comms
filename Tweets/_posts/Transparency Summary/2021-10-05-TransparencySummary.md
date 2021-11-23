@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Transparency Summary"
+title:  "透明度概要"
 categories: [ Tweets ]
 image: ./TransparencySummary/image1.jpg
 author: Yearn
-translator: 
-published: false
+translator: Xiaona, Bee926
+published: true
 ---
 original source: [twitter](https://twitter.com/iearnfinance/status/1445143482830446600)
 
@@ -15,7 +15,7 @@ original source: [twitter](https://twitter.com/iearnfinance/status/1445143482830
 
 它杀死阴影。
 
-Yearn的超级程序员 🌞.
+Yearn的超级程序员 🌞。
 
 一切都在链上，带有人类可读的标签。
 
@@ -27,7 +27,7 @@ Yearn的超级程序员 🌞.
 
 ##### 2
 
-看一下 Yearn 每季度的资产负债表，EBITDA，收入和更多:
+看一下Yearn每季度的资产负债表，EBITDA，收入和更多:
 
 https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf
 
@@ -47,7 +47,7 @@ https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-qu
 
 ##### 4
 
-在那里，您会发现可排序的:
+在那里，你会发现可排序的:
 
 🔵 交易记录
 
