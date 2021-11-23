@@ -4,7 +4,7 @@ title:  "Aktualisierung Bowswap"
 categories: [ Annoucements ]
 image: ./Update-Bowswap.Finance/image1.jpg
 author: Yearn
-translator:
+translator: Nesyeth
 publish: true
 ---
 
