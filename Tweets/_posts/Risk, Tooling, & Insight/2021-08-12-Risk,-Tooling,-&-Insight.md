@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Risk, Tooling, & Insight"
+title:  "风险, 工具, & 洞察力 "
 categories: [ Tweets ]
 image: ./Risk,-Tooling,-&-Insight/stormblessed.jpg
 author: Storm Blessed
-translator: 
+translator: Xiaona, Bee926
 published: false
 ---
 
@@ -16,7 +16,7 @@ original source: [twitter](https://twitter.com/storming0x/status/143685121986405
 🧵 👇
 
 ##### 2
-如果你还不知道[yearn.finance](http://yearn.finance)，你可以把它理解为“收益函数协议”。Yearn的顶级产品是机枪池。将钱存入机枪池，第二天钱便会增多并不断增多。当然这是个极度简化的解释。
+如果你还不知道 [yearn.finance](http://yearn.finance)，你可以把它理解为“收益函数协议”。Yearn的顶级产品是机枪池。将钱存入机枪池，第二天钱便会增多并不断增多。当然这是个极度简化的解释。
 
 ##### 3
 这是由一群聪明的人实现的，他们为机枪池编写分配资金以赚取回报的策略。这些策略是需要部署和经常更新的智能合约。这些智能合约是灵活和动态的。资金分配示例:
@@ -50,7 +50,7 @@ original source: [twitter](https://twitter.com/storming0x/status/143685121986405
 
 > 我们刚完成在作战室的16个小时解决一些在Yearn的状况。很累但很高兴可以于一个很棒的团队工作。
 
-问题解决并没有失去任何资金。学了很多，这会让[@iearnfinance](https://twitter.com/iearnfinance)更棒. 需要 😴
+问题解决并没有失去任何资金。学了很多，这会让[@iearnfinance](https://twitter.com/iearnfinance)更棒。需要 😴
 
 ##### 10
 当然这个仍然可以改进，并且是一个持续的过程，但在Yearn，那些杀不死我们的东西肯定会让我们变得更强大。让这个过程融入到Yearn的DNA中是我工作的一部分。
