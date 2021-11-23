@@ -4,7 +4,7 @@ title:  "YFIStats Dashboards aktualisieren"
 categories: [ Annoucements ]
 image: ./Updated-YFIStats-Dashboards/1.jpg
 author: Yearn
-translator:
+translator: Nesyeth
 publish: true
 ---
 
