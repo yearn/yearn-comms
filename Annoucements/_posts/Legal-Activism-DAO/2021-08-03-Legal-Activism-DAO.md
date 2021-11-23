@@ -4,7 +4,7 @@ title:  "Vorschlag Fonds-Ersteller Erste Legal Activism DAO"
 categories: [ Annoucements ]
 image: ./Legal-Activism-DAO/1.jpg
 author: LexPunk DAO
-translator:
+translator: Nesyeth
 publish: true
 ---
 
