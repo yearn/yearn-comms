@@ -4,8 +4,8 @@ title: "Yearn Finance Newsletter #46"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-46/image1.png
 author: Yearn
-translator:
-publish: false
+translator: RestlessMik3
+publish: true
 ---
 
 # Newsletter #46 de Yearn Finance 
@@ -25,7 +25,6 @@ Bienvenidos a la edición número 46 de la newsletter de Yearn Finance. Con esta
 - Las vaults de Yearn  
 - Noticias del ecosistema
     
-
 ## **Tras bastidores de Yearn**
 
 Como sabrás, Yearn es el protocolo de generación de rendimiento de Defi, con distintos estrategas generando código para obtener retornos óptimos para nuestros usuarios utilizando contratos inteligentes flexibles que asignan recursos de manera eficiente en varios protocolos. Debido a que Yearn requiere mantenerse al día con el competitivo mercado de generación de rendimiento, necesitamos desplegar estrategias rápidamente lo cual conlleva riesgos de seguridad.
