@@ -67,7 +67,7 @@ Si vous réussissez, Yearn doublera cette somme avec 1 million de dollars suplem
 
 Cela s'applique aux coffres WETH, WBTC, USDC, DAI et USDT. Soumis à l'approbation de la DAO. Limité à un seul prix.
 
-En savoir plus sur le processus de création et de déploiement de stratégies chez Yearn [ici] (https://twitter.com/flashfish0x/status/1460246273488044036?s=21).
+En savoir plus sur le processus de création et de déploiement de stratégies chez Yearn [ici](https://twitter.com/flashfish0x/status/1460246273488044036?s=21).
 
 
 
@@ -79,7 +79,7 @@ La valeur totale vérouilleée sur tous les produits Yearn a atteint 6 milliards
 
 Un grand merci à tous  nos partenaires, et bien sûr vous, les utilisateurs.
 
-Pour célébrer cette étape, réclamez votre NFT  réalisé par @MoTomiWasTaken [ici] (https://6b-pill.glitch.me/)
+Pour célébrer cette étape, réclamez votre NFT  réalisé par @MoTomiWasTaken [ici](https://6b-pill.glitch.me/)
 
 
 
@@ -102,7 +102,7 @@ Leur première dimension est lancée, et elle compte 4 coffres : USDC, DAI, WBTC
 
 Un agrégateur de rendement stable et sûr sur Polygon permet à quiconque de générer des rendements sans « travail manuel ». Tout ce que vous avez à faire est de déposer des fonds dans un (ou plusieurs) des quatre coffres. La stratégie fait le reste.
 
-Découvrez les coffres sur Polygon [ici] (https://tesr.finance/#/). Vous avez des questions ou souhaitez en savoir plus ? Lisez l'[annonce](https://medium.com/tesseract-finance/the-genesis-of-tesseract-finance-9b73400a05b1).
+Découvrez les coffres sur Polygon [ici](https://tesr.finance/#/). Vous avez des questions ou souhaitez en savoir plus ? Lisez l'[annonce](https://medium.com/tesseract-finance/the-genesis-of-tesseract-finance-9b73400a05b1).
 
 
 
@@ -118,13 +118,12 @@ Lisez l'article [ici] (https://messari.io/article/yearning-for-yearn).
 ## Trésorerie de Yearn 
 
 ![](image6.png)
-§
 
 Au 29 octobre, la trésorerie de Yearn détenait 27,2 millions de dollars en jetons non natifs, dont 13,7 millions de dollars en stablecoins.
 
 Nous détenons également 3935 YFI, actuellement évalués à 137 millions de dollars. Notre portion de jetons hors YFI est de 16,5%, ce qui en fait de notre trésorerie l'une des diversifiés de la DeFi.
 
-Consultez diverses statistiques concernant Yearn [ici] (https://yearn.vision/) et consultez le GitHub [ici] (https://github.com/BobTheBuidler/yearn-exporter/tree/treasury).
+Consultez diverses statistiques concernant Yearn [ici](https://yearn.vision/) et consultez le GitHub [ici](https://github.com/BobTheBuidler/yearn-exporter/tree/treasury).
 
 
 
@@ -164,7 +163,7 @@ De plus en plus de projets se promennent dans les jardins fertiles de Yearn, où
 
 ## Vaults chez Yearn
 
-Vous pouvez lire une description détaillée des stratégies pour tous nos yVaults actifs [ici] (https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Vous pouvez lire une description détaillée des stratégies pour tous nos yVaults actifs [ici](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
 
 ## Nouvelles de l’écosystème
