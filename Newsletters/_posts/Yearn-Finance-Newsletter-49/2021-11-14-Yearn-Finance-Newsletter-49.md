@@ -40,26 +40,19 @@ Bienvenue à la 49e édition de la Newsletter Yearn Finance. Notre objectif avec
 
 -   Nouvelles de l’écosystème
 
-
 ## La refonte de la tokenomics Yearn 
 
 ![](image2.png)
 
-
 Récemment, plusieurs membres et développeurs de la communauté Yearn se sont regroupés pour créer des plans d'action visant à mettre à niveau la tokenomics du  YFI. Certaines de ces suggestions incluent une division de jetons, un modèle type veCRV, le partage des frais, la réduction des frais, l'assurance de coffre  et bien d'autres idées étonnantes. Merci à toutes les personnes impliquées pour vos précieuses contributions.
-
 
 Consultez le post sur le forum [ici](https://gov.yearn.finance/t/call-for-ideas-yfi-tokenomics-revamp/11573/1) et repondez à un court sondage anonyme pour donner votre avis sur la meilleur façon de mettre à jour les tokenomics de YFI [ici](https://twitter.com/wot_is_goin_on/status/1457051296909959171?s=21). Vous pouvez aussi rejoindre dans les discussions  concernant la tokenomic sur le [serveur Yearn Discord](https://discord.com/invite/A7VwrCCWDu).
 
-
 Des aperçus des récentes réunions autour de la YFI Tokenomics sont disponibles [ici](https://www.notion.so/Tokenomics-Event-4942f645a4a546669996fcc945403776) et [ici](https://docs.google.com/document/d/1Xz_0Yi1LwdZZh2ry50v4w94qc-2h5QTiNkJpVF17daI/edit).
-
-
 
 ## Prix Millennium Yearn
 
 ![](image3.png)
-
 
 Développez une stratégie qui rapporte de manière continue et sûre 40 % APY sur 300 millions de dollars ou 12 % sur 1 milliard de dollars pendant un mois et vous gagnerez 1 million de dollars en frais !
 
@@ -68,8 +61,6 @@ Si vous réussissez, Yearn doublera cette somme avec 1 million de dollars suplem
 Cela s'applique aux coffres WETH, WBTC, USDC, DAI et USDT. Soumis à l'approbation de la DAO. Limité à un seul prix.
 
 En savoir plus sur le processus de création et de déploiement de stratégies chez Yearn [ici](https://twitter.com/flashfish0x/status/1460246273488044036?s=21).
-
-
 
 ## La Total Value Locked de Yearn a atteint $6B
 
@@ -81,12 +72,9 @@ Un grand merci à tous  nos partenaires, et bien sûr vous, les utilisateurs.
 
 Pour célébrer cette étape, réclamez votre NFT  réalisé par @MoTomiWasTaken [ici](https://6b-pill.glitch.me/)
 
-
-
 ## Le 1er aggregateur YFI: Tesseract
 
 ![](image5.png)
-
 
 Tesseract est le premier projet né de YFI Combinator, notre tout nouvel incubateur. Il s'appuie sur l'expertise accumulée par Yearn pour apporter les meilleurs rendements à un public plus large.
 
@@ -104,29 +92,21 @@ Un agrégateur de rendement stable et sûr sur Polygon permet à quiconque de g�
 
 Découvrez les coffres sur Polygon [ici](https://tesr.finance/#/). Vous avez des questions ou souhaitez en savoir plus ? Lisez l'[annonce](https://medium.com/tesseract-finance/the-genesis-of-tesseract-finance-9b73400a05b1).
 
-
-
 ## Messari a publié un rapport sur Yearn
-
 
 Messari a récemment publié un rapport complet sur Yearn détaillant notre croissance et les statistiques de divers coffres. Ce rapport couvre en outre les liens de Yearn avec les protocoles « DeFi 2.0 », les futures extensions multichaînes, les mises à jour et les partenariats.
 
 Lisez l'article [ici](https://messari.io/article/yearning-for-yearn).
 
-
-
 ## Trésorerie de Yearn 
 
 ![](image6.png)
-
 
 Au 29 octobre, la trésorerie de Yearn détenait 27,2 millions de dollars en jetons non natifs, dont 13,7 millions de dollars en stablecoins.
 
 Nous détenons également 3935 YFI, actuellement évalués à 137 millions de dollars. Notre portion de jetons hors YFI est de 16,5%, ce qui en fait de notre trésorerie l'une des diversifiés de la DeFi.
 
 Consultez diverses statistiques concernant Yearn [ici](https://yearn.vision/) et consultez le GitHub [ici](https://github.com/BobTheBuidler/yearn-exporter/tree/treasury).
-
-
 
 ## Les Devs Yearn ont évite a Robo Vault de perdre $50M
 
@@ -136,32 +116,23 @@ Avec l'aide de l'équipe de Yearn, Robo Vault a identifié et résolu un problè
 
 En savoir plus sur ce qu'il s'est passé [ici](https://medium.com/@RoboVault/post-mortem-next-steps-3556820b7470), et voir la transaction de remboursement concernant CREAM [ici](https://twitter.com/iearnfinance/status/1453681370698502148).
 
-
-
 ## Zaps pour le Fixed Forex 
 
 ![](image8.png)
-
-
 
 Nous avons collaboré avec Zapper, pour que les utilisateurs de Yearn puissent zapper dans les coffres Keep3r Fixed Forex avec presque n'importe quel jeton dans leur portefeuille.
 
 Générer un rendement composé  avec l'AUD, le CHF, l'EUR, le GBP, le JPY, le KRW (et bientôt le ZAR) sur [beta.yearn.finance/#/vaults](http://beta.yearn.finance/#/vaults).
 
-
-
 ## $2 Million distribués aux partenraire de Yearn 
-
 
 De plus en plus de projets se promennent dans les jardins fertiles de Yearn, où ils peuvent obtenir du rendement et se sentir protégés par les murs de la citadelle. Ils se concentrent sur leurs propres produits et gagnent jusqu'à 50% des frais d'utilisation pour leur DAO simplement pour avoir construit sur Yearn. Merci à nos heureux partenaires dont Frax, BadgerDAO, Abracadrabra, Pickle, Element, Alchemix et bien d'autres.
 
 [Découvrez le tweet ici.](https://twitter.com/iearnfinance/status/1456736892376989697?s=21)
 
-
 ## Vaults chez Yearn
 
 Vous pouvez lire une description détaillée des stratégies pour tous nos yVaults actifs [ici](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
-
 
 ## Nouvelles de l’écosystème
 
