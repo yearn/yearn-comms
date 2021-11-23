@@ -172,6 +172,7 @@ translators:
   Jeffor12:
     name: Jeffor12
     display_name: Jeffor12
+    twitter: https://twitter.com/jeff84431381
 
   Jengajojo:
     name: Jengajojo
@@ -181,13 +182,17 @@ translators:
     name: Major-Rager
     display_name: Major-Rager
 
-  JKtranslator:
-    name: JKtranslator
-    display_name: JKtranslator
+  Jameskbh:
+    name: Jameskbh
+    display_name: Jameskbh
 
   Japzar:
     name: Japzar
     display_name: Japzar
+
+  Stathis:
+    name: Stathis
+    display_name: Stathis
 
 # Social
 social:

@@ -10,7 +10,7 @@ publish: true
 
 # पेश है फिक्स्ड फॉरेक्स (USD, EUR, ZAR, JPY, CNY, etc)
 
-लेखक: [आंद्रे क्रोन्ये](https://twitter.com/AndreCronjeTech)</br>
+लेखक: [आंद्रे क्रोन्ये](https://twitter.com/AndreCronjeTech)
 
 २ जुलाई २०२१ 
 
