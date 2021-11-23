@@ -1,45 +1,49 @@
 ---
 layout: post
-title:  "Introducing Fixed Forex"
+title:  "पेश है फिक्स्ड फॉरेक्स"
 categories: [ Articles ]
 image: ./Introducing-Fixed-Forex/andre-hero.png
 author: Andre
-translator:
+translator: Major-Rager
 publish: true
 ---
 
-# Introducing Fixed Forex (USD, EUR, ZAR, JPY, CNY, etc)
+# पेश है फिक्स्ड फॉरेक्स (USD, EUR, ZAR, JPY, CNY, etc)
 
-**Disclaimer;**
+लेखक: [आंद्रे क्रोन्ये](https://twitter.com/AndreCronjeTech)
 
-- No token
-- Audit has not been completed
-- Contract is experimental
+२ जुलाई २०२१ 
 
-**Key features;**
+**दावा-त्याग;**
 
-- 0 governance (or multisig)
-- 0 configuration
-- 0 fees
-- 0 value extraction
-- Gentle liquidations
-- Dynamic minting caps based on on-chain liquidity
-- Dynamic LTVs based on on-chain protocols
+- कोई टोकन नहीं
+- ऑडिट पूरा नहीं हुआ है
+- अनुबंध प्रयोगात्मक है
 
-**Fixed Forex**
+**प्रमुख विशेषताऐं;**
 
-Fixed Forex is designed to be an immutable, 0 fee, 0 governance, decentralized stable coin framework.
+- 0 शासन (या मल्टीसिग)
+- 0 विन्यास
+- 0 फीस
+- 0 मूल्य निष्कर्षण
+- जेंटल लिक्विडेशन्स 
+- ऑन-चेन लिक्विडिटी पर आधारित डायनेमिक मिंटिंग कैप
+- ऑन-चेन प्रोटोकॉल पर आधारित डायनेमिक एलटीवी
 
-LTVs (Loan-to-value ratios) are derived from Compound, Aave v1, Aave v2, and Iron Bank. As these systems add or update their accepted collateral, so does Fixed Forex dynamically update.
+**फिक्स्ड फॉरेक्स**
 
-Minting caps (how much liquidity a user can mint against a given collateral) are derived from available on-chain liquidity, the higher the on-chain liquidity, the higher the minting caps.
+फिक्स्ड फॉरेक्स को एक अपरिवर्तनीय, 0 शुल्क, 0 शासन, विकेन्द्रीकृत स्थिर सिक्का ढांचे के रूप में डिज़ाइन किया गया है।
 
-Fixed Forex introduces gentle liquidations, the absolute minimum amount of debt is repaid to bring a users position back to even, no more worrying about the full stack being liquidated during draw down events.
+एलटीवी (ऋण-से-मूल्य अनुपात) कंपाउंड, आवे v1, आवे v2 और आयरन बैंक से प्राप्त होते हैं। चूंकि ये सिस्टम अपने स्वीकृत संपार्श्विक को जोड़ते या अपडेट करते हैं, इसलिए फिक्स्ड फॉरेक्स गतिशील रूप से अपडेट होता है।
 
-For purposes of this release, the contract will not be verified on etherscan, however, you can find the address and ABI below;
+मिंटिंग कैप (किसी दिए गए संपार्श्विक के खिलाफ एक उपयोगकर्ता कितनी नकद प्राप्त कर सकता है) उपलब्ध ऑन-चेन नकद से प्राप्त होता है, ऑन-चेन नकद जितनी अधिक होती है, उतनी ही अधिक मिंटिंग कैप।
+
+फिक्स्ड फॉरेक्स जेंटल लिक्विडेशन्स का परिचय देता है, उपयोगकर्ता की स्थिति को वापस सम करने के लिए ऋण की पूर्ण न्यूनतम राशि का भुगतान किया जाता है, ड्रॉ डाउन घटनाओं के दौरान पूर्ण स्टैक के परिसमापन के बारे में कोई चिंता नहीं है।
+
+इस रिलीज के प्रयोजनों के लिए, अनुबंध को इथरस्कैन पर सत्यापित नहीं किया जाएगा, हालांकि, आप नीचे पता और एबीआई पा सकते हैं;
 
 [0x92FC8E6EfdF389e2527d14393b15F543f9a03420](https://etherscan.io/address/0x92fc8e6efdf389e2527d14393b15f543f9a03420)
 
 [ABI](https://gist.github.com/andrecronje/4ce11e8603a7f61af4619a86647db1d4)
 
-The full release will be based on curve.fi’s crypto pools, to allow for a decentralized forex market.
+विकेन्द्रीकृत विदेशी मुद्रा बाजार की अनुमति देने के लिए पूर्ण रिलीज कर्व.फाई के क्रिप्टो पूल पर आधारित होगी।
