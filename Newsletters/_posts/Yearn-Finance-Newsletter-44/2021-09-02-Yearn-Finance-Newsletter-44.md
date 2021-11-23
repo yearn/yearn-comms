@@ -5,7 +5,7 @@ categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-44/image1.jfif
 author: Yearn
 translator:
-publish: true
+publish: false
 ---
 
 # Yearn Finance Newsletter #44
