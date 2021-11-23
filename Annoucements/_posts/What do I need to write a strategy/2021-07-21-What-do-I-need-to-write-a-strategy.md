@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "What do I need to write a strategy?"
+title:  "我需要什么条件才能编写策略？"
 categories: [ Annoucements ]
 image: ./What-do-I-need-to-write-a-strategy/image1.jpg
 author: Yearn
-translator: 
-published: false
+translator: mesalee
+published: true
 ---
 
 ![](image1.jpg) <br>
 
-Over $5M has been paid to [Yearn](https://t.me/yearnupdates) strategists in 2021. Today [@EthCC](https://twitter.com/EthCC/) [Facu](https://t.me/fameal) broke down what it takes to become a mighty strategist like himself. Check the video below for an amazing overview! 👇
+2021年，[Yearn](https://t.me/yearnupdates)策略家已经获得了超过500万美元的报酬。今天，来自[@EthCC](https://twitter.com/EthCC/)的[Facu](https://t.me/fameal)详细解答了成为像他一样强大的策略家所需的条件。 查看下面的视频，听听精彩纷呈的讲解！ 👇
 
 [https://www.youtube.com/watch?v=NVR3teJw0Y0](https://www.youtube.com/watch?v=NVR3teJw0Y0)
