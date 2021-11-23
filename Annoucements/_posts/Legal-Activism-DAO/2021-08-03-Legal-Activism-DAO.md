@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Proposal Fund Builder First Legal Activism DAO"
+title:  "Proposta para Obtenção de Fundos do Primeiro DAO de Ativismo Legal"
 categories: [ Annoucements ]
 image: ./Legal-Activism-DAO/1.jpg
 author: LexPunk DAO
-translator:
-publish: false
+translator: jameskbh
+publish: true
 ---
 
 ![](image1.jpg)
 
-[@LeXpunK_DAO]https://twitter.com/LeXpunK_DAO) is proposing to raise a builder-centric cryptolaw activism DAO from other value-aligned communities.
+[@LeXpunK_DAO]https://twitter.com/LeXpunK_DAO) está propondo a criação de um DAO de ativismo de cripto-advocacia focado em desenvolvedores com outras comunidades com valores alinhados.
 
-This is for builders & degens having a more direct voice in critical cryptolaw discussions, without Silicon-Valley influence.
+Ele é para que construtores & degens tenham uma voz mais direta nas discussões sobre leis relacionadas com cripto, sem a influência do Vale do Silício.
 
 https://gov.yearn.finance/t/proposal-fund-builder-first-legal-activism-dao/11280
