@@ -4,7 +4,7 @@ title:  "Veröffentlichung der Blauen Pille"
 categories: [ Annoucements ]
 image: ./Blue-Pill-Release/thebluepill.jpg
 author: Yearn
-translator:
+translator: Nesyeth
 publish: true
 ---
 
