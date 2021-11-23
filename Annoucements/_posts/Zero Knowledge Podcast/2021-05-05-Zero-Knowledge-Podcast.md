@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Zero Knowledge Podcast"
+title:  "Zero Knowledge播客"
 categories: [ Annoucements ]
 image: ./Zero-Knowledge-Podcast/1.png
 author: Yearn
-translator: 
-published: false
+translator: mesalee
+published: true
 ---
 
-Our very own [@tracheopteryx](https://twitter.com/tracheopteryx) & [@fameal](https://twitter.com/fameal) were recently on the Zero Knowledge Podcast talking about Yearn's history, evolving governance, and more!
+我们的[@tracheopteryx](https://twitter.com/tracheopteryx)和[@fameal](https://twitter.com/fameal)最近在Zero Knowledge播客上讨论了Yearn的历史、持续发展的治理等等！
 
-Check it out at the link below:
+点击下面的链接收听:
 [zeroknowledge.fm/192](https://www.zeroknowledge.fm/192)
