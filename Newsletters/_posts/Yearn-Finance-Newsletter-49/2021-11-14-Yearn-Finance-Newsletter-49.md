@@ -4,7 +4,7 @@ title:  "Yearn Finance Newsletter #49"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-49/image1.png
 author: Yearn
-translator: jengajojo
+translator: Jengajojo
 publish: true
 ---
 
