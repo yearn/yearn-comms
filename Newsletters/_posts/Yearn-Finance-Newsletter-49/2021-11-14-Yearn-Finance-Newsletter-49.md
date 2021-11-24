@@ -5,7 +5,7 @@ categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-49/image1.png
 author: Yearn
 translator: jengajojo
-publish: false
+publish: true
 ---
 
 # यर्न फाइनेंस समाचार पत्र #४९ 
@@ -89,7 +89,7 @@ Tesseract Finance एक बहु-आयामी ब्याज खेती 
 
 पॉलीगॉन पर एक स्थिर और सुरक्षित उपज/ब्याज एग्रीगेटर किसी को भी 'मैनुअल लेबर' के बिना खेती करने देता है। आपको केवल चार तिजोरियों में से एक (या अधिक) में धनराशि जमा करने की आवश्यकता है। रणनीति बाकी का काम करती है।
 
-पोलीगोन पर वाल्ट देखें [यहां](https://tesr.finance/#/)। प्रश्न हैं या अधिक जानना चाहते हैं? [घोषणा] (https://medium.com/tesseract-finance/the-genesis-of-tesseract-finance-9b73400a05b1) पढ़ें।
+पोलीगोन पर वाल्ट देखें [यहां](https://tesr.finance/#/)। प्रश्न हैं या अधिक जानना चाहते हैं? [घोषणा](https://medium.com/tesseract-finance/the-genesis-of-tesseract-finance-9b73400a05b1) पढ़ें।
 
 ## मेसारी ने यर्न पर एक रिपोर्ट प्रकाशित की
 
