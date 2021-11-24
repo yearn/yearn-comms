@@ -4,153 +4,151 @@ title:  "Yearn Finance Newsletter #49"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-49/image1.png
 author: Yearn
-translator:
+translator: Jengajojo
 publish: true
 ---
 
-# Yearn Finance Newsletter #49
+# यर्न फाइनेंस समाचार पत्र #४९ 
 
-### Week Ending November 14th, 2021
+### १४ नवंबर, २०२१ को समाप्त होने वाला सप्ताह
 
 ![](image1.png)
 
-Welcome to the 49th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+यर्न फाइनेंस समाचार पत्र के ४९ वें संस्करण में आपका स्वागत है। इस न्यूजलेटर के साथ हमारा उद्देश्य उत्पाद लॉन्च, शासन परिवर्तन और पारिस्थितिकी तंत्र अपडेट सहित नवीनतम समाचारों के बारे में यर्न और व्यापक क्रिप्टो समुदाय को सूचित करना है। अगर आप यर्न फाइनेंस के बारे में अधिक जानने में रुचि रखते हैं, तो हमारे आधिकारिक twitter और medium खातों का अनुसरण करें।
 
-## Summary
+## सारांश
 
--   Yearn Tokenomics Revamp
+-   यर्न टोकनोमिक्स सुधार 
 
--   Yearn Millennium Prize
+-   यर्न मिलेनियम पुरस्कार
 
--   Yearn Total Value Locked Reaches $6B
+-   यर्न कुल मूल्य बंद $६ बिलियन तक पहुँचता है
 
--   YFI Combinator’s First Project: Tesseract
+-   YFI कॉम्बिनेटर का पहला प्रोजेक्ट: टेस्सेरैक्ट 
 
--   Messari Publishes A Report on Yearn
+-   मेसारी ने यर्न पर एक रिपोर्ट प्रकाशित की
 
--   Yearn Treasury Status
+-   यर्न के राज्य-कोष की स्थिति
 
--   Yearn Devs Save Robo Vault From $50M Loss
+-   यर्न के डेवेलपर्स ने रोबो वॉल्ट को $५० मिलियन के नुकसान से बचाया 
 
--   Fixed Forex Zaps
+-   यर्न के भागीदारों को $२ मिलियन का भुगतान किया गया
 
--   $2M Paid to Yearn Partners
+-   यर्न की तिजोरियां 
 
--   Vaults at Yearn
-
--   Ecosystem News
+-   पारिस्थितिकी तंत्र समाचार
 
 
-## YFI Tokenomics Revamp
+## यर्न टोकनोमिक्स सुधार 
 
 ![](image2.png)
 
-Recently, several Yearn community members and developers have banded together to create actionable plans to upgrade the YFI tokenomics. Some of these suggestions include a token split, a veCRV model, fee sharing, fee reduction, vault insurance, and many more amazing ideas. Thank you to all of the people involved for your valuable input.
+हाल ही में, कई यर्न समुदाय के सदस्यों और डेवलपर्स ने YFI टोकनोमिक्स को अपग्रेड करने के लिए कार्रवाई योग्य योजना बनाने के लिए एक साथ मिलान किया है। इनमें से कुछ सुझाव: एक टोकन विभाजन, एक veCRV मॉडल, शुल्क साझाकरण, शुल्क में कमी, तिजोरी बीमा और कई अन्य अद्भुत विचार शामिल हैं। आपके बहुमूल्य इनपुट के लिए शामिल सभी लोगों को धन्यवाद।
 
-Check out the forum post [here](https://gov.yearn.finance/t/call-for-ideas-yfi-tokenomics-revamp/11573/1) and fill out a short anonymous survey to give your thoughts on how to best update YFI’s tokenomics [here](https://twitter.com/wot_is_goin_on/status/1457051296909959171?s=21). The other best way to get involved in tokenomics discussions is at the [Yearn discord server](https://discord.com/invite/A7VwrCCWDu).
+फ़ोरम पोस्ट देखें [यहाँ](https://gov.yearn.finance/t/call-for-ideas-yfi-tokenomics-revamp/11573/1) और एक छोटा गुमनाम सर्वेक्षण भरें, ताकि आप इस पर अपने विचार दे सकें कि कैसे YFI के टोकनोमिक्स को सर्वोत्तम रूप से अपडेट करने के लिए [यहां](https://twitter.com/wot_is_goin_on/status/1457051296909959171?s=21)। टोकनोमिक्स चर्चा में शामिल होने का दूसरा सबसे अच्छा तरीका है [ईयर डिस्कॉर्ड सर्वर](https://discord.com/invite/A7VwrCCWDu)।
 
-Overviews of the recent YFI Tokenomics Meetings can be found [here](https://www.notion.so/Tokenomics-Event-4942f645a4a546669996fcc945403776) and [here](https://docs.google.com/document/d/1Xz_0Yi1LwdZZh2ry50v4w94qc-2h5QTiNkJpVF17daI/edit).
+हाल की YFI टोकन मीटिंग के अवलोकन [यहां](https://www.notion.so/Tokenomics-Event-4942f645a4a546669996fcc945403776) और [यहां](https://docs.google.com/document/d/1Xz_0Yi1LwdZZh2ry50v4w94qc-2h5QTiNkJpVF17daI/edit)।
 
-## Yearn Millennium Prize
+## यर्न मिलेनियम पुरस्कार
 
 ![](image3.png)
 
-Write a strategy which consistently and safely earns 40% APY on $300 million or 12% on $1 billion for a month and you'll earn $1 million in monthly strategist fees.
+एक रणनीति लिखें जो लगातार और सुरक्षित रूप से $३०० मिलियन पर ४०% एपीवाई या एक महीने के लिए $१  बिलियन पर १२ % कमाती है और आप मासिक रणनीतिकार शुल्क में १ मिलियन डॉलर कमाएंगे।
 
-If you pull this off, Yearn would also match and reward you with a prize of $1 million.
+यदि आप इसे हासिल कर लेते हैं तो यर्न भी आपकी बराबरी करेगा और आपको $१ मिलियन का पुरस्कार देगा।
 
-This applies to WETH, WBTC, USDC, DAI, and USDT vaults. Subject to DAO approval. Limited to one prize.
+यह WETH, WBTC, USDC, DAI और USDT वॉल्ट पर लागू होता है। DAO अनुमोदन के अधीन। एक पुरस्कार तक सीमित।
 
-Learn more on Yearn’s process of creating and deploying strategies [here](https://twitter.com/flashfish0x/status/1460246273488044036?s=21).
+रणनीति बनाने और लागू करने की यर्न की प्रक्रिया के बारे में अधिक जानें [यहां](https://twitter.com/flashfish0x/status/1460246273488044036?s=21)।
 
-## Yearn Total Value Locked Reaches $6B
+## यर्न कुल मूल्य बंद $६ बिलियन तक पहुँचता है
 
 ![](image4.png)
 
-Total value locked across all Yearn products has reached $6 billion, and almost $1 billion has been added in the last month alone. Yearn is continuing to see parabolic growth among its products with no indication of slowing down. The Iron Bank and v2 vaults are particularly notable components of our exponential growth. You can view and track TVL metrics among our products using [yearn.science](https://yearn.science/). 
+सभी यर्न उत्पादों का कुल मूल्य $६ बिलियन तक पहुंच गया है, और केवल पिछले महीने में ही लगभग $१  बिलियन जोड़ा गया है। यर्न में अपने उत्पादों के बीच परवलयिक वृद्धि देखी जा रही है, जिसमें मंदी का कोई संकेत नहीं है। आयरन बैंक और v2 वॉल्ट हमारे घातीय विकास के विशेष रूप से उल्लेखनीय घटक हैं। आप [yearn.science](https://yearn.science/) का उपयोग करके हमारे उत्पादों के बीच TVL मीट्रिक देख और ट्रैक कर सकते हैं।
 
-A big thank you to everyone in the Yearn ecosystem, our partners, and of course you, the users.
+यर्न इकोसिस्टम के सभी लोगों, हमारे भागीदारों और निश्चित रूप से आप, उपयोगकर्ताओं को बहुत-बहुत धन्यवाद।
 
-To celebrate this milestone, claim your geo-located $6B TVL NFT made by @MoTomiWasTaken [here](https://6b-pill.glitch.me/).
+इस उपलब्धि का जश्न मनाने के लिए, @MoTomiWasTaken [यहां](https://6b-pill.glitch.me/) द्वारा बनाए गए $६बिलियन TVL NFT पर दावा करें।
 
-## YFI Combinator’s First Project: Tesseract
+## YFI कॉम्बिनेटर का पहला प्रोजेक्ट: टेस्सेरैक्ट 
 
 ![](image5.png)
 
-Tesseract is the first project hatched from YFI Combinator, our newest early-stage incubator. It leverages the expertise amassed at Yearn to bring the best yields to a wider audience.
+Tesseract पहला प्रोजेक्ट है जो YFI कॉम्बिनेटर द्वारा तैयार किया गया है, जो हमारे नवीनतम प्रारंभिक चरण का इनक्यूबेटर है। यह व्यापक दर्शकों के लिए सर्वोत्तम ब्याज  लाने के लिए यर्न में एकत्रित विशेषज्ञता का लाभ उठाता है।
 
-Tesseract Finance is a multi-dimensional yield farming protocol where you can experience DeFi at the speed of light with the best of Yearn’s strategies - now on Polygon. Add liquidity to Tesseract and start generating juicy yields.
+Tesseract Finance एक बहु-आयामी ब्याज खेती का प्रोटोकॉल है जहां आप यर्न की सर्वोत्तम रणनीतियों के साथ प्रकाश की गति से DeFi का अनुभव कर सकते हैं - अब पॉलीगॉन पर। Tesseract में धन जोड़ें और ब्याज पैदा करना शुरू करें।
 
-Back in spring, the Tesseract team watched Ethereum drown in fees and thought: you know what’d be cool? A yield aggregator that’s immune to Ethereum’s scaling pains. Luckily, 2021 has been a cambrian explosion of sidechains and big-ticket L2s. 
+वसंत में , Tesseract टीम ने एथेरेयम को फीस में डूबते देखा और सोचा: 'आप जानते हैं कि क्या अच्छा होगा?' एक ब्याज एग्रीगेटर जो एथेरियम के स्केलिंग दर्द के प्रति प्रतिरक्षित है। सौभाग्य से, २०२१ साइडचेन और बड़े L2 का कैम्ब्रियन विस्फोट रहा है 
 
-They happened to see Polygon as the best fit for a Yearn-like protocol. At the time, Ethereum’s scaling solutions were just starting to raise crops. A few farms here, meadows there. Some leverage opportunities but a lot of potential.
+वे पॉलीगॉन को एक यर्न-जैसे प्रोटोकॉल के लिए सबसे उपयुक्त मानते थे। उस समय, एथेरियम के स्केलिंग समाधान ब्याज कमाने लगे थे। कुछ उत्तोलन के अवसर लेकिन बहुत अधिक संभावनाएं।
 
-Today, Polygon is ready for industrial-level farming, which Tesseract aims to achieve. 
+आज, पोलीगोन औद्योगिक-स्तर पर ब्याज कमाने के लिए तैयार है, जिसे Tesseract प्राप्त करेगा।
 
-Their first dimension has launched, and it has 4 vaults: USDC, DAI, WBTC & WETH, with a strategy (leveraged AAVE). For farmer safety, we will start with a $1M cap/vault. Then, the training wheels come off.
+उनका पहला आयाम लॉन्च हो गया है, और इसमें ४ वॉल्ट हैं: USDC, DAI, WBTC और WETH, एक रणनीति (लीवरेज AAVE ) के साथ। किसान सुरक्षा के लिए, हम $१ मिलियन कैप/वॉल्ट के साथ शुरुआत करेंगे। फिर, प्रशिक्षण के पहिये बंद हो जाते हैं।
 
-A stable and safe yield aggregator on Polygon lets anyone farm yields without the ‘manual labor’. All you need to do is deposit funds in one (or more) of the four vaults. The strategy does the rest.
+पॉलीगॉन पर एक स्थिर और सुरक्षित उपज/ब्याज एग्रीगेटर किसी को भी 'मैनुअल लेबर' के बिना खेती करने देता है। आपको केवल चार तिजोरियों में से एक (या अधिक) में धनराशि जमा करने की आवश्यकता है। रणनीति बाकी का काम करती है।
 
-Check out the vaults on Polygon [here](https://tesr.finance/#/). Got questions or want to learn more? Read the [announcement](https://medium.com/tesseract-finance/the-genesis-of-tesseract-finance-9b73400a05b1).
+पोलीगोन पर वाल्ट देखें [यहां](https://tesr.finance/#/)। प्रश्न हैं या अधिक जानना चाहते हैं? [घोषणा](https://medium.com/tesseract-finance/the-genesis-of-tesseract-finance-9b73400a05b1) पढ़ें।
 
-## Messari Publishes A Report on Yearn
+## मेसारी ने यर्न पर एक रिपोर्ट प्रकाशित की
 
-Messari has recently published a comprehensive report on Yearn detailing our growth and statistics of various vaults. This report additionally covers Yearn’s links to “DeFi 2.0” protocols, future multichain expansions, updates, and partnerships. 
+मेसारी ने हाल ही में हमारे विकास और विभिन्न वाल्टों के आंकड़ों का विवरण देते हुए यर्न पर एक व्यापक रिपोर्ट प्रकाशित की है। इस रिपोर्ट में "DeFi 2.0" प्रोटोकॉल, भविष्य के बहु-श्रृंखला विस्तार, अपडेट और साझेदारी के लिए यर्न के लिंक भी शामिल हैं।
 
-Read the article [here](https://messari.io/article/yearning-for-yearn).
+लेख पढ़ें [यहां](https://messari.io/article/yearning-for-yearn)।
 
-## Yearn Treasury Status
+##  यर्न के राज्य-कोष की स्थिति
 
 ![](image6.png)
 
-As of October 29, Yearn's Treasury holds a $27.2m balance in non-native tokens, of which $13.7m is stablecoins. 
+२९ अक्टूबर तक, यर्न ट्रेजरी में गैर-देशी टोकन में $ २७ मिलियन शेष राशि है, जिसमें से $ १३,७ मिलियन स्थिर मुद्रा है। 
 
-We also hold 3935 YFI, currently valued at $137m. Assets excluding YFI tokens is 16.5% making it among the most diversified balance sheets in DeFi.
+हमारे पास ३९३५ YFI भी है, जिसका वर्तमान में मूल्य $१३७ मिलियन है। YFI टोकन को छोड़कर संपत्ति १६.५ % है जो इसे DeFi में सबसे विविध बैलेंस शीट में बनाती है।
 
-Check out various Yearn statistics [here](https://yearn.vision/) and view the GitHub [here](https://github.com/BobTheBuidler/yearn-exporter/tree/treasury).
+विभिन्न यर्न के आंकड़े देखें [यहां](https://yearn.vision/) और गिटहब देखें [यहां](https://github.com/BobTheBuidler/yearn-exporter/tree/treasury)।
 
-## Yearn Devs Save Robo Vault From $50M Loss
+## यर्न के डेवेलपर्स ने रोबो वॉल्ट को $५० मिलियन के नुकसान से बचाया
 
 ![](image7.png)
 
-With the help of the Yearn team, Robo Vault has identified and fixed a critical issue that could have affected over $50 million in user deposits. Yearn has also salvaged over $9 million from the CREAM exploit, which has since been returned.
+यर्न टीम की मदद से, रोबो वॉल्ट ने एक महत्वपूर्ण समस्या की पहचान की और उसे ठीक किया जो उपयोगकर्ता डिपाजिट में $ ५० मिलियन से अधिक को प्रभावित कर सकता था। यर्न ने क्रीम के शोषण से $९ मिलियन से अधिक की बचत भी की है, जिसे तब से वापस कर दिया गया है।
 
-Read more on the process [here](https://medium.com/@RoboVault/post-mortem-next-steps-3556820b7470), and view the CREAM repayment transaction [here](https://twitter.com/iearnfinance/status/1453681370698502148).
+प्रक्रिया के बारे में और अधिक पढ़ें [यहां](https://medium.com/@RoboVault/post-mortem-next-steps-3556820b7470), और क्रीम पुनर्भुगतान लेनदेन देखें [यहां](https://twitter.com/iearnfinance/status/1453681370698502148)।
 
-## Fixed Forex Zaps
+## फिक्स्ड फॉरेक्स जैप्स
 
 ![](image8.png)
 
-We have collaborated with Zapper, so Yearn users can zap into Keep3r Fixed Forex vaults with almost any token in your wallet. 
+हमने जैपर के साथ सहयोग किया है, इसलिए यर्न उपयोगकर्ता आपके वॉलेट में लगभग किसी भी टोकन के साथ Keep3r फिक्स्ड फॉरेक्स वॉल्ट में जा सकते हैं। 
 
-Earn compounding yield natively on AUD, CHF, EUR, GBP, JPY, KRW (and ZAR soon) at [beta.yearn.finance/#/vaults](http://beta.yearn.finance/#/vaults).
+[beta.yearn.finance/#/vaults](http://beta.yearn.finance/#/vaults) पर AUD, CHF, EUR, GBP, JPY, KRW (और जल्द ही ZAR) पर मूल रूप से कंपाउंडिंग यील्ड अर्जित करें।
 
-## $2 Million Paid to Yearn Partners
+## यर्न के भागीदारों को $२ मिलियन का भुगतान किया गया
 
-More projects are moving to Yearn's fertile gardens, where they can source yield and feel protected by the Citadel walls. They focus on their own products and moats and earn up to 50% of user fees back to DAO simply for building on top of Yearn. Thank you to our happy partners including Frax, BadgerDAO, Abracadrabra, Pickle, Element, Alchemix, and many others.
+अधिक परियोजनाएं यर्न के उपजाऊ उद्यानों में जा रही हैं, जहां वे उपज/ब्याज प्राप्त कर सकते हैं और गढ़ की दीवारों से सुरक्षित महसूस कर सकते हैं। वे अपने स्वयं के उत्पादों और खंदकों पर ध्यान केंद्रित करते हैं और डाओ को उपयोगकर्ता शुल्क का ५० % तक केवल यर्न के शीर्ष पर निर्माण के लिए अर्जित करते हैं। फ्रॉक्स, बॉजर डाओ  , अब्राकाडराबरा , पिकल , एलीमेंट, अल्केमिक्स, और कई अन्य सहित हमारे खुश भागीदारों के लिए धन्यवाद।
 
-[Check out the tweet here.](https://twitter.com/iearnfinance/status/1456736892376989697?s=21)
+[ट्वीट यहां देखें।](https://twitter.com/iearnfinance/status/1456736892376989697?s=21)
 
-## Vaults At Yearn
+## यर्न की तिजोरियां 
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+आप हमारे सभी सक्रिय yVaults के लिए रणनीतियों का विस्तृत विवरण पढ़ सकते हैं [यहां](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)।
 
-## Ecosystem News
+## पारिस्थितिकी तंत्र समाचार
 
-[Yearn Basic Income coming soon](https://twitter.com/0x7171/status/1451584344213135392)
+[यर्न मूल आय जल्द ही आ रही है](https://twitter.com/0x7171/status/1451584344213135392)
 
-[Get WOOFY stickers at LX Factory in Lisbon](https://twitter.com/saltyfacu/status/1450786439306924036)
+[लिस्बन में एलएक्स फैक्ट्री में WOOFY स्टिकर प्राप्त करें](https://twitter.com/saltyfacu/status/1450786439306924036)
 
-[Yearn alumni Matt West is the first DeFi developer to run for Congress](https://twitter.com/CoinDesk/status/1450218098246701056)
+[पूर्व यर्न सदस्य, मैट वेस्ट कांग्रेस के लिए चलने वाले पहले DeFi डेवलपर हैं](https://twitter.com/CoinDesk/status/1450218098246701056)
 
-[Join the next group of yAcademy fellows here](https://twitter.com/iearnfinance/status/1450561465463672832)
+[यहाँ yAcademy के साथियों के अगले समूह में शामिल हों](https://twitter.com/iearnfinance/status/1450561465463672832)
 
-[Listen to tracheopteryx as he joins Colony’s podcast to speak about compensation in DAOs](https://twitter.com/joincolony/status/1450159578268807169)
+[ट्रेकोप्टेरिक्स को सुनें क्योंकि वह डाओ में मुआवजे के बारे में बोलने के लिए कॉलोनी के पॉडकास्ट में शामिल होता है](https://twitter.com/joincolony/status/1450159578268807169)
 
-[Yearn devs are actively identifying and fixing protocol issues in war rooms](https://twitter.com/iearnfinance/status/1454092767580327938)
+[यर्न डेवलपर सक्रिय रूप से वॉर रूम में प्रोटोकॉल मुद्दों की पहचान कर रहे हैं और उन्हें ठीक कर रहे हैं](https://twitter.com/iearnfinance/status/1454092767580327938)
 
-[Check out the EthBlocks NFT commemorating the deployment of the YFI token](https://twitter.com/iearnfinance/status/1459238290394009600?s=21)
+[YFI टोकन के परिनियोजन के उपलक्ष्य में EthBlocks NFT देखें](https://twitter.com/iearnfinance/status/1459238290394009600?s=21)
 
-[What are you going to gift this yMas?](https://twitter.com/y___gift/status/1459947639299051524?s=21)
+[आप इस yMas को क्या उपहार देने जा रहे हैं?](https://twitter.com/y___gift/status/1459947639299051524?s=21)
 
-[Learn how to protect your Gnosis Safe from attacks in the new Yearn Engineering blog](https://mirror.xyz/yearn-finance-engineering.eth/9uInM_sCrogPBs5qkFSNF6qe-32-0XLN5bty5wKLVqU)
+[नए यर्न के इंजीनियरिंग ब्लॉग में जानें कि अपने ग्नोसिस सेफ को हमलों से कैसे बचाएं](https://mirror.xyz/yearn-finance-engineering.eth/9uInM_sCrogPBs5qkFSNF6qe-32-0XLN5bty5wKLVqU)
