@@ -47,7 +47,7 @@ publish: true
 
 फ़ोरम पोस्ट देखें [यहाँ](https://gov.yearn.finance/t/call-for-ideas-yfi-tokenomics-revamp/11573/1) और एक छोटा गुमनाम सर्वेक्षण भरें, ताकि आप इस पर अपने विचार दे सकें कि कैसे YFI के टोकनोमिक्स को सर्वोत्तम रूप से अपडेट करने के लिए [यहां](https://twitter.com/wot_is_goin_on/status/1457051296909959171?s=21)। टोकनोमिक्स चर्चा में शामिल होने का दूसरा सबसे अच्छा तरीका है [ईयर डिस्कॉर्ड सर्वर](https://discord.com/invite/A7VwrCCWDu)।
 
-हाल की YFI टोकन मीटिंग के अवलोकन [यहां](https://www.notion.so/Tokenomics-Event-4942f645a4a546669996fcc945403776) और [यहां](https://docs.google.com/document/d/1Xz_0Yi1LwdZZh2c50v4w94q -2h5QTiNkJpVF17daI/संपादित करें)।
+हाल की YFI टोकन मीटिंग के अवलोकन [यहां](https://www.notion.so/Tokenomics-Event-4942f645a4a546669996fcc945403776) और [यहां](https://docs.google.com/document/d/1Xz_0Yi1LwdZZh2ry50v4w94qc-2h5QTiNkJpVF17daI/edit)।
 
 ## यर्न मिलेनियम पुरस्कार
 
@@ -113,7 +113,7 @@ Tesseract Finance एक बहु-आयामी ब्याज खेती 
 
 यर्न टीम की मदद से, रोबो वॉल्ट ने एक महत्वपूर्ण समस्या की पहचान की और उसे ठीक किया जो उपयोगकर्ता डिपाजिट में $ ५० मिलियन से अधिक को प्रभावित कर सकता था। यर्न ने क्रीम के शोषण से $९ मिलियन से अधिक की बचत भी की है, जिसे तब से वापस कर दिया गया है।
 
-प्रक्रिया के बारे में और अधिक पढ़ें [यहां](https://medium.com/@RoboVault/post-martum-next-steps-3556820b7470), और क्रीम पुनर्भुगतान लेनदेन देखें [यहां](https://twitter.com/iearnfinance /स्थिति/1453681370698502148)।
+प्रक्रिया के बारे में और अधिक पढ़ें [यहां](https://medium.com/@RoboVault/post-mortem-next-steps-3556820b7470), और क्रीम पुनर्भुगतान लेनदेन देखें [यहां](https://twitter.com/iearnfinance/status/1453681370698502148)।
 
 ## फिक्स्ड फॉरेक्स जैप्स
 
