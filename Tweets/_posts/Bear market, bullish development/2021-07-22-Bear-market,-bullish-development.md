@@ -50,6 +50,6 @@ yearn.fi能很快实现新功能，而即将推出的V3 http://yearn.finance 将
 
 如果你想和我们一起建造，我们很乐意。方法很简单。
 
-随时请通过电报与我联系[@dudesahn]。(https://twitter.com/dudesahn) 让我们协助你开始吧。
+随时请通过电报与我联系[@dudesahn](https://twitter.com/dudesahn)。让我们协助你开始吧。
 
 ![](image1.jfif)
