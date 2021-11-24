@@ -1,4 +1,4 @@
-—--
+---
 layout: post
 title:  "Yearn Finance Newsletter #49"
 categories: [ Newsletters ]
