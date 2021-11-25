@@ -1,7 +1,11 @@
 name: Auto Close Issues
 
 on:
+<<<<<<< HEAD
   pull_request_target:
+=======
+  pull_request:
+>>>>>>> 4009b3c (feat: add workflow)
     types: [closed]
 jobs:
   close:
