@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "如果Yearn = 网络的“yield函数”?"
+title:  "如果Yearn = 互联网的“收益函数”?"
 categories: [ Annoucements ]
 image: ./Yearn-=-Yield-Function/yield1.jpg
 author: Yearn
@@ -10,7 +10,7 @@ published: true
 
 ![](yield1.jpg)
 
-# 如果Yearn = 互联网的"yield函数"?
+# 如果Yearn = 互联网的"收益函数"?
 
 在编程中，“函数”是完成特定任务的一组可重复调用的代码……您可以随时调用该函数，它会一遍又一遍地执行相同的操作，不会出错。
 
