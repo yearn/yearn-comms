@@ -133,6 +133,7 @@ translators:
     twitter: https://twitter.com/bee_926
     blog: https://www.youtube.com/channel/UCacoBnE--eGgPnxBnu3DFJw
     web: http://coinversation.org/
+<<<<<<< HEAD
 
   Cryptouf:
     name: Cryptouf
@@ -160,39 +161,31 @@ translators:
   🤖💵💵💰💰.eth:
       name: 🤖💵💵💰💰.eth
       display_name: 🤖💵💵💰💰.eth
+=======
+>>>>>>> 12b8f9d (update config)
 
-  Nesyeth:
-    name: Nesyeth
-    display_name: Nesyeth
+  Cryptouf:
+    name: Cryptouf
+    display_name: Cryptouf
+    twitter: https://twitter.com/cryptouf
+    blog: https://cryptoouf.com
+    web: https://cryptoouf.com/newsletter
 
-  Fin2thepeople:
-    name: Fin2thepeople
-    display_name: Fin2thepeople
+  Cripu:
+    name: Cripu
+    display_name: Cripu
+    twitter: https://twitter.com/CRYPTANNEWS
+    blog: https://www.cryptannews.com/
 
-  Jeffor12:
-    name: Jeffor12
-    display_name: Jeffor12
-    twitter: https://twitter.com/jeff84431381
+  Dastronom:
+    name: Dastronom
+    display_name: Dastronom
+    twitter: https://twitter.com/Dastronomm
 
-  Jengajojo:
-    name: Jengajojo
-    display_name: Jengajojo
-
-  Major-Rager:
-    name: Major-Rager
-    display_name: Major-Rager
-
-  Jameskbh:
-    name: Jameskbh
-    display_name: Jameskbh
-
-  Japzar:
-    name: Japzar
-    display_name: Japzar
-
-  Stathis:
-    name: Stathis
-    display_name: Stathis
+  RestlessMik3:
+    name: RestlessMik3
+    display_name: RestlessMik3
+    twitter: https://twitter.com/margjr84
 
 <<<<<<< HEAD
   Xiaona:
@@ -238,6 +231,12 @@ translators:
   Stathis:
     name: Stathis
     display_name: Stathis
+
+  Xiaona:
+    name: Xiaona
+    display_name: Xiaona
+    twitter: https://twitter.com/latingi44239287
+    blog: https://www.youtube.com/channel/UCacoBnE--eGgPnxBnu3DFJw
 
 # Social
 social:
