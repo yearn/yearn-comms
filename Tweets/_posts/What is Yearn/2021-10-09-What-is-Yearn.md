@@ -4,7 +4,7 @@ title:  "What is Yearn"
 categories: [ Tweets ]
 image: ./What-is-Yearn/3_1446243220468293632.jpg
 author: Wot_Is_Goin_On
-translator: japzar
+translator: Japzar
 publish: true
 ---
 
@@ -20,7 +20,7 @@ Hoy en día está claro que hay mucho que se puede desarrollar en Ethereum (Defi
 
 ## 3/n
 
-De laguna manera, la percepción de Yearn hoy es similar a la de ETH a mediados de 2020, al menos en términos de incertidumbre sobre lo que se construirá en Yearn, su crecimiento futuro y la acumulación de valor para YFI. Incluso los fanáticos más viejos de Yearn están inquietos. [pic.twitter.com/TQDFz74CFc](https://twitter.com/Wot_Is_Goin_On/status/1446540013576065026/photo/1)
+De alguna manera, la percepción de Yearn hoy es similar a la de ETH a mediados de 2020, al menos en términos de incertidumbre sobre lo que se construirá en Yearn, su crecimiento futuro y la acumulación de valor para YFI. Incluso los fanáticos más viejos de Yearn están inquietos. [pic.twitter.com/TQDFz74CFc](https://twitter.com/Wot_Is_Goin_On/status/1446540013576065026/photo/1)
 
 ![3_1446534086277861380](3_1446534086277861380.jpg)
 
@@ -46,7 +46,7 @@ La lotería sin pérdidas de [@PoolTogether\_](https://twitter.com/PoolTogether_
 
 ## 8/n
 
-Si [@element_fi] (https://twitter.com/element_fi) puede acabar con los ingresos fijos, con las bóvedas de Yearn (los tokens "yv") en segundo plano, entonces hablamos de un mercado total direccionable de billones. [pic.twitter.com/R7mkC8h7Bq](https://twitter.com/Wot_Is_Goin_On/status/1446540026507038731/photo/1)
+Si [@element_fi] (https://twitter.com/element_fi) puede acabar con los ingresos fijos, con las bóvedas de Yearn (los tokens "yv") en segundo plano, entonces hablamos de un mercado total de billones. [pic.twitter.com/R7mkC8h7Bq](https://twitter.com/Wot_Is_Goin_On/status/1446540026507038731/photo/1)
 
 ![3_1446535031292313608](3_1446535031292313608.jpg)
 
@@ -89,7 +89,7 @@ Aquellos que creen que Defi en Ethereum está muerto deberían reconsiderarlo. E
 
 ## 14/n
 
-La crítica en torno a la falta de acumulación de valor se puede solucionar fácilmente. Sin embargo, el desafío es diseñar una economía de token que incentive el crecimiento y la sostenibilidad del protocolo en términos de contribuyentes y TVL, así como la acumulación de valor.
+La crítica en torno a la falta de acumulación de valor se puede solucionar fácilmente. Sin embargo, el desafío es diseñar una economía de token que incentive el crecimiento y la sostenibilidad del protocolo en términos de colaboradores y TVL, así como la acumulación de valor.
 
 ## 15/n
 
