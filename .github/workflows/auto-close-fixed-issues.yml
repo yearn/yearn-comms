@@ -10,7 +10,7 @@ jobs:
       - uses: wow-actions/auto-close-fixed-issues@v1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # optional comment
+          # optional comment yolo
           # comment: 'This issue was closed by #{{ pr }}.'
           # default ignore the pr merge to the default branch
           # ignore: true
