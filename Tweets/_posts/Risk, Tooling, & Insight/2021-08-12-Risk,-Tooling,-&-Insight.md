@@ -4,69 +4,69 @@ title:  "Risk, Tooling, & Insight"
 categories: [ Tweets ]
 image: ./Risk,-Tooling,-&-Insight/stormblessed.jpg
 author: Storm Blessed
-translator:
-publish: false
+translator: Dastronom
+publish: true
 ---
 
-original source: [twitter](https://twitter.com/storming0x/status/1436851219864059906)
+orjinal kaynak: [twitter](https://twitter.com/storming0x/status/1436851219864059906)
 
 ##### 1
-Doing some weekend coding and decided to do a tweet storm about [@iearnfinance](https://twitter.com/iearnfinance) risk, tooling and insight behind the scenes.
+Hafta sonu biraz kodlama yaparken [@iearnfinance](https://twitter.com/iearnfinance) risklei, araçları ve perde arkası bilgileri hakkında bir tweet fırtınası yapmaya karar verdim.
 
 🧵 👇
 
 ##### 2
-If you don't know about [yearn.finance](http://yearn.finance), you can think of it as the "yield function protocol". Yearn top product are the Vaults. Put money into the vaults and somehow the next day that money grows and keeps growing constantly. This is an over simplification ofc.
+[yearn.finance](http://yearn.finance) hakkında bilginiz yoksa “getiri fonksiyon protokolü” olarak düşünebilirsiniz. Yearn'in en iyi ürünü Vault'lardır. Vault'lara para koyun ve bir şekilde ertesi gün o para büyür ve durmadan büyümeye devam eder. Bu tabiki de aşırı basitleştirilmiştir.
 
 ##### 3
-This is made possible by a team of smart folks that code strategies for the vault to allocate money with the goal to earn returns. The strategies are smart contracts that need to be deploy and updated often. These smart contracts are flexible and dynamic. Example allocations:
+Bu, vault'un getiri elde etmek amacıyla para tahsis etmesi için stratejileri kodlayan akıllı insanlardan oluşan bir ekip tarafından mümkün kılınmıştır. Stratejiler, sıklıkla uygulanması ve güncellenmesi gereken akıllı sözleşmelerdir. Bu akıllı sözleşmeler esnek ve dinamiktir. Örnek tahsisler:
 
 ![3_1436841383378120712](3_1436841383378120712.jpg)
 
 ##### 4
-Given the way yearn protocol works, it needs a very quick turnaround to launch new contracts and strategies quickly, this has implications in security. One of the main concerns at yearn is risk from all perspectives. We are at the EOD in the risk business. How to balance this?
+Yearn protokolünün çalışma şekli göz önüne alındığında, yeni sözleşmeleri ve stratejileri hızlı bir şekilde başlatmak için çok hızlı bir geri dönüş gerekiyor, bunun güvenlik üzerinde etkileri var. Yearn'deki ana endişelerden biri, tüm açılardan varolan risklerdir. Risk işinde tehlikenin sınırındayız. Peki bunu nasıl dengeleriz?
 
 ##### 5
-We need to come up with a risk framework. To get the picture. This is the number of vaults + strategies deployed currently. There is no way around the complexity of this system, many pieces need to fall in place to make this work.
+Bir risk çerçevesi oluşturmamız gerekiyor. genel resmi görmek için. Bu, şu anda dağıtılan kasa + strateji sayısıdır. Bu sistemin karmaşıklığını aşmanın bir yolu yok, bu işin yürümesi için birçok parçanın yerine oturması gerekiyor.
 
 ![3_1436842206359285762](3_1436842206359285762.jpg)
 
 ##### 6
-In my previous life I had a background in aeronautics systems. I think many lessons can be taken from Aviation which is also in the risk business. The complexity like in finance is high. Still you don't think twice booking a flight for your next trip.
+Önceki hayatımda havacılık sistemlerinde bir geçmişim vardı. Risk işinde de olan Havacılık'tan çok dersler alınabileceğini düşünüyorum. Finansta olduğu gibi karmaşıklık yüksektir. Yine de bir sonraki seyahatiniz için bir uçak rezervasyonu yaparken iki kez düşünmüyorsunuz.
 
 ##### 7
-Every day millions of flights take place, and many flights have incidents. An incident doesn't lead to an accident = plane crashing. You need many incidents concurrently to happen for a plane to crash. This in current airline operations is extremely unlikely.
+Her gün milyonlarca uçuş gerçekleşiyor ve birçok uçuşta olaylar yaşanıyor. Bir olay kazaya yol açmaz = uçak kazası. Bir uçağın düşmesi için aynı anda birçok olaya ihtiyacınız var. Mevcut havayolu operasyonlarında bu çok olası değildir.
 
 ##### 8
-But every time there is an incident the aviation process and systems, require that you correct and fix the root cause. We have implemented a similar process in yearn, every war room doesn't lead to a loss of funds, but we are required to learn from it and improve.
+Ancak her olay olduğunda havacılık süreci ve sistemleri, temel nedeni düzeltmenizi ve onarmanızı gerektirir. Yearn'da da benzer bir süreç uyguladık, her komuta merkezi toplantısı kaynak kaybına yol açmaz ama bundan ders alıp gelişmemiz gerekiyor.
 
 ##### 9
-This process was implemented early this year after a really bad month of incidents and war rooms. And several initiatives were started and implemented to automate and remove human factors as much as possible from our daily decisions.
+Bu süreç, olaylar ve komuta merkezi ile geçen çok kötü bir ayın ardından bu yılın başlarında hayata geçirildi. Ve insan faktörlerini günlük kararlarımızdan mümkün olduğunca çıkarmak ve otomatikleştirmek için çeşitli girişimler başlatıldı ve uygulandı.
 
 [twitter.com/storming0x/sta…](https://twitter.com/storming0x/status/1395452522840608768?s=20)
 
 > ![storming0x](storming0x-881012267675820034.jpg)
 > Storm Blessed 0x ([@storming0x](https://twitter.com/storming0x))
 
-> We just got out of a 16 + hour plus war room dealing with a situation in yearn. Extremely tired but grateful to have the chance to be part of these awesome team.
+> Yearn içindeki bir durumla uğraşatığımız 16 saaten fazla süren durum odası toplantısından yeni çıktık. Son derece yorgun ama bu harika ekibin bir parçası olma şansına sahip olduğum için minnettarım.
 
-Crisis resolved and no funds lost. Lots of key learnings and thing that will make [@iearnfinance](https://twitter.com/iearnfinance) stronger. Need 😴
+Kriz çözüldü ve para kaybı olmadı. [@iearnfinance](https://twitter.com/iearnfinance)'i daha güçlü kılacak şeyler ve daha çok önemli bilgiler edindik. 😴
 
 ##### 10
-This ofc still can be improved, and is a constant process, but in yearn what doesn't kill us for sure makes us stronger. It's part of my job to make this process ingrained in Yearn's DNA.
+Bu elbette hala geliştirilebilir ve sürekli bir süreçtir, ancak yearn'da bizi öldürmeyen şey kesinlikle bizi güçlendirir. Bu süreci Yearn'ın DNA'sına yerleştirmek işimin bir parçasıdır.
 
 [github.com/yearn/yearn-de…](https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/EMERGENCY.md)
 
 ##### 11
-We had war rooms were code had a bug and made incorrect accounting that lead to war rooms and issues.
-Fixes:
--We added simulation bots to catch issues before they happen on chain.
--On chain healthchecks that revert a trx if the asserts are not met.
+Durum odalarımız vardı, kodun bir hatası vardı ve durum odalarına ve sorunlara yol açan yanlış muhasebe yaptılmıştı.
+Düzeltmeler:
+-Sorunları zincirde ortaya çıkmadan önce yakalamak için simülasyon botları ekledik.
+iddialar karşılıksızsa trx'i geri alacak zincir üzeri sağlık kontrolleri.
 
 [github.com/yearn/yearn-de…](https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/DEPLOYMENT.md#health-checks)
 
 ##### 12
-The simulation bot is tied to alerting on our telegram and send us with time ahead any issue. We recently had a war room completely prevented by a simulation, the strategy was winded down without having to correct anything onchain. We moved from corrective to preventive action.
+Simülasyon botu, telgram'ımıza uyarı vermeye ve herhangi bir sorunda bizi zamanında ikaz etmeye uyarlıdır. Yakın zamanda bir simülasyon tarafından tamamen engellenen bir durum odamız vardı, strateji zincir üzerinde hiçbir şeyi düzeltmek zorunda kalmadan sona erdi. Düzeltici faaliyetten önleyici faaliyete geçtik.
 
 ![3_1436848158034644993](3_1436848158034644993.jpg)
 
@@ -75,15 +75,15 @@ The simulation bot is tied to alerting on our telegram and send us with time ahe
 ![3_1436848196399996929](3_1436848196399996929.jpg)
 
 ##### 13
-[yearn.watch](http://yearn.watch) is the site I built to track strategies and vaults state. It uses a great piece on infra built internally by the yearn team to fetch data. We have specialized multicall contracts to be able to get this data efficiently to make decisions.
+[yearn.watch](http://yearn.watch), stratejileri ve vault'ların durumunu izlemek için oluşturduğum sitedir. Verileri almak için yearn ekibi tarafından dahili olarak oluşturulmuş harika bir alt yapı kullanır. Karar vermek için bu verileri verimli bir şekilde alabilmek için özel çoklu arama sözleşmelerimiz var.
 
 ![3_1436848846378729473](3_1436848846378729473.jpg)
 
 ![3_1436848859322273796](3_1436848859322273796.jpg)
 
 ##### 14
-We also have a risk dashboard that we came up to score each strategy to assess at any point in time our risk. This is populated by our internal infra and adjusted automatically by onchain changes.
-(Sample data below)
+Ayrıca, herhangi bir zamanda riskimizi değerlendirmek için her stratejiyi puanlamak için geldiğimiz bir risk gösterge tablomuz var. Bu, dahili altyapımız tarafından doldurulur ve zincir üzerindeki değişikliklerle otomatik olarak ayarlanır.
+(Aşağıdaki örnek veriler)
 
 ![3_1436849527198085126](3_1436849527198085126.jpg)
 
@@ -92,9 +92,9 @@ We also have a risk dashboard that we came up to score each strategy to assess a
 ![3_1436849615987351553](3_1436849615987351553.jpg)
 
 ##### 15
-This is an internal risk tool that has been added very recently, is still to early to made public since we are tweaking our data and models to try come up with an objective scoring given our internal process. Once we collected more data on this I'm happy to share more on it.
+Bu, çok yakın zamanda eklenen bir dahili risk aracıdır ve dahili sürecimiz göz önüne alındığında nesnel bir puanlama bulmaya çalışmak için verilerimizi ve modellerimizi değiştirdiğimiz için henüz kamuya açıklamak için erkendir. Bununla ilgili daha fazla veri topladığımızda, daha fazlasını paylaşmaktan mutluluk duyarım.
 
 ##### 16
-We are far from solving smart contract risk and security, but the only thing we can do is keep trying. We hope this behind the scenes view can inform other projects in the ecosystem to help them or also come up with other ideas that we can all benefit from.
+Akıllı sözleşme riskini ve güvenliğini çözmekten çok uzağız ama yapabileceğimiz tek şey denemeye devam etmek. Bu perde arkası görünümün, ekosistemdeki diğer projeleri onlara yardımcı olmak için bilgilendirebileceğini veya hepimizin faydalanabileceği başka fikirler bulabileceğini umuyoruz.
 
-Thanks for reading!
+Okuduğunuz için teşekkür ederim!
