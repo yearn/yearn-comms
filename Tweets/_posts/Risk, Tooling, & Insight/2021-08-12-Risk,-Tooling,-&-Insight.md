@@ -1,72 +1,72 @@
 ---
 layout: post
-title:  "Risk, Tooling, & Insight"
+title:  "风险, 工具, & 洞察力 "
 categories: [ Tweets ]
 image: ./Risk,-Tooling,-&-Insight/stormblessed.jpg
 author: Storm Blessed
-translator: 
-published: false
+translator: Xiaona, Bee926
+published: true
 ---
 
 original source: [twitter](https://twitter.com/storming0x/status/1436851219864059906)
 
 ##### 1
-Doing some weekend coding and decided to do a tweet storm about [@iearnfinance](https://twitter.com/iearnfinance) risk, tooling and insight behind the scenes.
+在做一些周末编码，并决定写篇关于[@iearnfinance](https://twitter.com/iearnfinance)幕后的风险、工具和洞察力的推文。
 
 🧵 👇
 
 ##### 2
-If you don't know about [yearn.finance](http://yearn.finance), you can think of it as the "yield function protocol". Yearn top product are the Vaults. Put money into the vaults and somehow the next day that money grows and keeps growing constantly. This is an over simplification ofc.
+如果你还不知道 [yearn.finance](http://yearn.finance)，你可以把它理解为“收益函数协议”。Yearn的顶级产品是机枪池。将钱存入机枪池，第二天钱便会增多并不断增多。当然这是个极度简化的解释。
 
 ##### 3
-This is made possible by a team of smart folks that code strategies for the vault to allocate money with the goal to earn returns. The strategies are smart contracts that need to be deploy and updated often. These smart contracts are flexible and dynamic. Example allocations:
+这是由一群聪明的人实现的，他们为机枪池编写分配资金以赚取回报的策略。这些策略是需要部署和经常更新的智能合约。这些智能合约是灵活和动态的。资金分配示例:
 
 ![3_1436841383378120712](3_1436841383378120712.jpg)
 
 ##### 4
-Given the way yearn protocol works, it needs a very quick turnaround to launch new contracts and strategies quickly, this has implications in security. One of the main concerns at yearn is risk from all perspectives. We are at the EOD in the risk business. How to balance this?
+鉴于Yearn协议的工作方式，它需要非常快速的周转以便于快速启动新合约和策略，这就会对安全性有影响。Yearn的最关注的问题之一是全方位的风险。我们正处于风险业务的排爆期。如何找到平衡呢?
 
 ##### 5
-We need to come up with a risk framework. To get the picture. This is the number of vaults + strategies deployed currently. There is no way around the complexity of this system, many pieces need to fall in place to make this work.
+我们需要一个风险框架。图片所示，是当前部署的机枪池数量 + 策略数量。目前还没有针对这个系统复杂性的解决方案，多个部分需要落实到位才能完成这项工作。
 
 ![3_1436842206359285762](3_1436842206359285762.jpg)
 
 ##### 6
-In my previous life I had a background in aeronautics systems. I think many lessons can be taken from Aviation which is also in the risk business. The complexity like in finance is high. Still you don't think twice booking a flight for your next trip.
+我过去的生活，有航空系统的背景。我认为可以从同样从事风险业务的航空业中吸取很多教训。金融的复杂性很高。预订下一次旅行航班时，您仍然不会三思而后行。
 
 ##### 7
-Every day millions of flights take place, and many flights have incidents. An incident doesn't lead to an accident = plane crashing. You need many incidents concurrently to happen for a plane to crash. This in current airline operations is extremely unlikely.
+每天都有数以百万计的航班，有不少航班发生了事故。并非每次事故都导致飞机坠毁。需要同时发生许多事件才能使飞机坠毁。这在目前的航空公司运营中可能性极低。
 
 ##### 8
-But every time there is an incident the aviation process and systems, require that you correct and fix the root cause. We have implemented a similar process in yearn, every war room doesn't lead to a loss of funds, but we are required to learn from it and improve.
+但是每次航空流程和系统发生事故时，都需要改正并解决根本原因。我们在Yearn实施了类似的流程，每个作战室都不会导致资金损失，但需要我们从中学习和改进。
 
 ##### 9
-This process was implemented early this year after a really bad month of incidents and war rooms. And several initiatives were started and implemented to automate and remove human factors as much as possible from our daily decisions.
+在经历了一个非常糟糕的事故和作战室月之后，今年年初实施了这个流程。启动并实施了一些措施，以尽可能地在我们的日常决策中实现自动化并消除人为因素。
 
 [twitter.com/storming0x/sta…](https://twitter.com/storming0x/status/1395452522840608768?s=20)
 
 > ![storming0x](storming0x-881012267675820034.jpg)
 > Storm Blessed 0x ([@storming0x](https://twitter.com/storming0x))
 
-> We just got out of a 16 + hour plus war room dealing with a situation in yearn. Extremely tired but grateful to have the chance to be part of these awesome team.
+> 我们刚完成在作战室的16个小时解决一些在Yearn的状况。很累但很高兴可以于一个很棒的团队工作。
 
-Crisis resolved and no funds lost. Lots of key learnings and thing that will make [@iearnfinance](https://twitter.com/iearnfinance) stronger. Need 😴
+问题解决并没有失去任何资金。学了很多，这会让[@iearnfinance](https://twitter.com/iearnfinance)更棒。需要 😴
 
 ##### 10
-This ofc still can be improved, and is a constant process, but in yearn what doesn't kill us for sure makes us stronger. It's part of my job to make this process ingrained in Yearn's DNA.
+当然这个仍然可以改进，并且是一个持续的过程，但在Yearn，那些杀不死我们的东西肯定会让我们变得更强大。让这个过程融入到Yearn的DNA中是我工作的一部分。
 
 [github.com/yearn/yearn-de…](https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/EMERGENCY.md)
 
 ##### 11
-We had war rooms were code had a bug and made incorrect accounting that lead to war rooms and issues.
-Fixes:
--We added simulation bots to catch issues before they happen on chain.
--On chain healthchecks that revert a trx if the asserts are not met.
+我们有作战室，因代码出错、发生统计错误而导致问题的地方。
+修复方法:
+-我们添加了模拟机器人以在上链之前发现问题。
+-如果仍不满足，则通过链上健康检查重置交易。
 
 [github.com/yearn/yearn-de…](https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/DEPLOYMENT.md#health-checks)
 
 ##### 12
-The simulation bot is tied to alerting on our telegram and send us with time ahead any issue. We recently had a war room completely prevented by a simulation, the strategy was winded down without having to correct anything onchain. We moved from corrective to preventive action.
+模拟机器人与我们的电报相关联，并提前向我们发送问题。我们最近有一个作战室，通过模拟被完全阻止了，该策略在无需更正链上任何内容的情况下就结束了。我们从纠正行为转向预防行为。
 
 ![3_1436848158034644993](3_1436848158034644993.jpg)
 
@@ -75,15 +75,15 @@ The simulation bot is tied to alerting on our telegram and send us with time ahe
 ![3_1436848196399996929](3_1436848196399996929.jpg)
 
 ##### 13
-[yearn.watch](http://yearn.watch) is the site I built to track strategies and vaults state. It uses a great piece on infra built internally by the yearn team to fetch data. We have specialized multicall contracts to be able to get this data efficiently to make decisions.
+[yearn.watch](http://yearn.watch)是我建立的跟踪策略和机枪池状态的网站。它使用了由Yearn团队内部构建的基础设施来获取数据。我们有专门的多呼叫合约，能够有效地获取这些数据以做出决策。
 
 ![3_1436848846378729473](3_1436848846378729473.jpg)
 
 ![3_1436848859322273796](3_1436848859322273796.jpg)
 
 ##### 14
-We also have a risk dashboard that we came up to score each strategy to assess at any point in time our risk. This is populated by our internal infra and adjusted automatically by onchain changes.
-(Sample data below)
+我们还有一个风险仪表板，我们用它来对每个策略进行评分，以在任何时间点评估我们的风险。这是由我们的内部基础设施填充的，并根据链上的变化自动调整。
+(以下为示例数据)
 
 ![3_1436849527198085126](3_1436849527198085126.jpg)
 
@@ -92,9 +92,9 @@ We also have a risk dashboard that we came up to score each strategy to assess a
 ![3_1436849615987351553](3_1436849615987351553.jpg)
 
 ##### 15
-This is an internal risk tool that has been added very recently, is still to early to made public since we are tweaking our data and models to try come up with an objective scoring given our internal process. Once we collected more data on this I'm happy to share more on it.
+这是一个最近才添加的内部风险工具，因为我们正在调整我们的数据和模型，以尝试根据我们的内部流程得出一个客观的评分，所以公开还为时尚早。一旦我们收集了更多关于此的数据，我很乐意分享更多相关信息。
 
 ##### 16
-We are far from solving smart contract risk and security, but the only thing we can do is keep trying. We hope this behind the scenes view can inform other projects in the ecosystem to help them or also come up with other ideas that we can all benefit from.
+我们离解决智能合约风险还很远，但我们唯一能做的就是不断尝试。我们希望这些幕后的观点可以帮助到生态中的其他项目，或者其他项目也可以提出让我们都可以从中受益的想法。
 
-Thanks for reading!
+谢谢阅读!
