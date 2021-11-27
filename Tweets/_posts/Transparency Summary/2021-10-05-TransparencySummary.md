@@ -1,33 +1,33 @@
 ---
 layout: post
-title:  "Transparency Summary"
+title:  "透明度概要"
 categories: [ Tweets ]
 image: ./TransparencySummary/image1.jpg
 author: Yearn
-translator: 
-published: false
+translator: Xiaona, Bee926
+published: true
 ---
 original source: [twitter](https://twitter.com/iearnfinance/status/1445143482830446600)
 
 ##### 1
 
-This is why crypto will change the world.
+这是加密将改变世界的原因。
 
-It kills shadows.
+它杀死阴影。
 
-Yearn’s super coders are 🌞.
+Yearn的超级程序员 🌞。
 
-Everything’s on-chain with hooman-readable labels.
+一切都在链上，带有人类可读的标签。
 
-Transparency verified ✅
+透明验证 ✅
 
-Let’s take a look at just how transparent Yearn is 👇
+让我们来看看Yearn到底有多透明 👇
 
 ![](image1.jpg)
 
 ##### 2
 
-See Yearn’s balance sheets, EBITDA, income and more EVERY quarter:
+看一下Yearn每季度的资产负债表，EBITDA，收入和更多:
 
 https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf
 
@@ -41,37 +41,37 @@ https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-qu
 
 ##### 3
 
-In fact, you can track every single Yearn-related transaction in real time at [yfistats.com](http://www.yfistats.com/)
+事实上，你可以实时跟踪每一笔于Yearn相关的交易 [yfistats.com](http://www.yfistats.com/)
 
 ![](image6.jpg)
 
 ##### 4
 
-There, you’ll find sortable:
+在那里，你会发现可排序的:
 
-🔵 Transaction records
+🔵 交易记录
 
-🔵 Protocol income
+🔵 协议收入
 
-🔵 Protocol expenses
+🔵 协议费用
 
-🔵 Income statements
+🔵 损益表
 
-🔵 EOM balances
+🔵 EOM余额
 
-🔵 Charts
+🔵 图表
 
-🔵 Revenue projects
+🔵 收入项目
 
-🔵 $YFI buybacks
+🔵 $YFI回购
 
-& much more.
+＆ 更多。
 
-All of it is meticulously labelled by the yBudget team with 💙  and freely accessible to anyone in the 🌍
+所有这一切都被yBudget团队细心标记 💙 地球上的任何人都可以访问 🌍
 
 ##### 5
 
-Don’t like websites? You can even track our income with custom “harvest bots” in Discord and Telegram:
+不喜欢网站？你也可以通过定制“收获机器人”在Discord和telegram跟踪我们的收入:
 
 🔵 Discord: [discord.com/invite/6PNv2nF](https://discord.com/invite/6PNv2nF)
 
@@ -81,16 +81,16 @@ Don’t like websites? You can even track our income with custom “harvest bots
 
 ##### 6
 
-Want to join one of the most open and transparent platforms in history?
+想加入有史以来最开放、最透明的平台之一吗?
 
-Good news: we show you exactly how you can contribute with a list of tasks just waiting for new contributors: [contribute.yearn.rocks](https://contribute.yearn.rocks/)
+好消息：让我们来告诉你应该如何做贡献，任务列表正在等待新的贡献者: [contribute.yearn.rocks](https://contribute.yearn.rocks/)
 
 ![](image8.jpg)
 
 ##### 7
 
-The future is here, it’s just not evenly distributed.
+未来已来，只是分布还不均。
 
-Come live it with us at Yearn 💙
+加入Yearn吧 💙
 
 ![](image9.jpg)

@@ -14,9 +14,7 @@ original source: [twitter](https://twitter.com/dudesahn/status/14178985216850780
 
 市场熊，发展牛。
 
-虽然 http://yearn.finance 最近增加了不错的功能，比如
-@zapper_fi
-机枪池的整合，它仍然需要一些关爱。对于那些密切关注的人，您可能已经注意到Yearn正在开发的新网站。聊聊这个话题。
+虽然 http://yearn.finance 最近增加了不错的功能，比如 @zapper_fi 机枪池的整合，它仍然需要一些关爱。对于那些密切关注的人，你可能已经注意到Yearn正在开发的新网站。聊聊这个话题。
 
 一系列推文 🧵
 
@@ -30,15 +28,15 @@ original source: [twitter](https://twitter.com/dudesahn/status/14178985216850780
 
 ##### 3
 
-yearn.finance是由一个独立的贡献者小组维护的，我们已经实现了一个全新的后端（包括多个API的SDK）来支持前端，设计时特别考虑到SDK。
+yearn.finance 是由一个独立的贡献者小组维护的，我们已经实现了一个全新的后端（包括多个API的SDK）来支持前端，设计时特别考虑到SDK。
 
 ##### 4
 
-http://yearn.finance和http://yearn.fi采用不同的方法，但希望他们能够彼此互惠互利。
+http://yearn.finance 和 http://yearn.fi 采用不同的方法，但希望他们能够彼此互惠互利。
 
 ##### 5
 
-yearn.fi能很快实现新功能，而即将推出的V3http://yearn.finance 将展示我们整顿的后端。我们的目标是什么呢？消除未来的合作伙伴与Yearn的产品集成的复杂性。
+yearn.fi能很快实现新功能，而即将推出的V3 http://yearn.finance 将展示我们整顿的后端。我们的目标是什么呢？消除未来的合作伙伴与Yearn的产品集成的复杂性。
 
 ##### 6
 
@@ -52,6 +50,6 @@ yearn.fi能很快实现新功能，而即将推出的V3http://yearn.finance 将�
 
 如果你想和我们一起建造，我们很乐意。方法很简单。
 
-随时请通过电报与我联系[@dudesahn](https://twitter.com/dudesahn)让我们帮您开始吧。
+随时请通过电报与我联系[@dudesahn](https://twitter.com/dudesahn)。让我们协助你开始吧。
 
 ![](image1.jfif)
