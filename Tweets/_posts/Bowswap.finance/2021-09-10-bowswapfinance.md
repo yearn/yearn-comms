@@ -4,7 +4,7 @@ title:  "Bowswap.Finance"
 categories: [ Tweets ]
 image: ./bowswapfinance/image1.jpg
 author: Facu
-translator: japzar  
+translator: Japzar  
 publish: true
 ---
 
