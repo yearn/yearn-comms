@@ -67,7 +67,6 @@ https://youtube.com/watch?v=cY9lM73ie0Q&t=1575s
 Blockchain makes fiction real. As real as dirt. And from this dirt, new fauna blooms. [@Coordinape](https://twitter.com/coordinape) is a flower. Its petals, an invitation. It grows in the canopy of the dark forest—where trust thrives. The kind of trust those who have worked on creative teams know so well.
 
 ##### 12
-
 Watch the bankless video or go to http://coordinape.com to learn more, but briefly: Coordinape allows protocols to grow their contributor network with an NFT badge system & distribute grants via a novel, decentralized, community-led mechanism inspired by gift economies.
 
 ##### 13
