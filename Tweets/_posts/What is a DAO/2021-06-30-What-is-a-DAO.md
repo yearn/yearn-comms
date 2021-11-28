@@ -109,7 +109,6 @@ Why did that little guy survive and turn into mitochondria that time the other g
 ##### 22
 I think about this a lot. Being part of a collective life form that bleeds money and grows in realms beyond my imagination can be confusing. I /can't/ understand what it needs. I need to let go. And to do that, I need to trust I'll be ok.
 
-
 ##### 23
 Structures like ethereum, Teal Orgs, DAOs, coordinape, and gov 2.0 help me trust that the mind between minds will be there, and I can go wherever my interests take me, knowing the whole organism will thrive.
 
