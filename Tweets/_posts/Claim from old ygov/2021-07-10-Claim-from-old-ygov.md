@@ -57,6 +57,6 @@ original source: [twitter](https://twitter.com/dudesahn/status/14135670685831045
 
 请注意: 如果你已经没质押你还是可以领取奖励！和 balanceOf() 一样的，你可以在 Read Contract with earned() 查看可领取的奖励，然后用 Write Contract using getReward() 来领取！🤑
 
-![](image4.png) </br>
+![](image4.png) <br>
 
 ![](image5.png)
