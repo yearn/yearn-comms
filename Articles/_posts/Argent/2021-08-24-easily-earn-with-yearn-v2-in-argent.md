@@ -1,94 +1,94 @@
 ---
 layout: post
-title:  "Easily earn with Yearn V2 in Argent"
+title:  "使用Argent中的Yearn V2轻松赚取被动收入"
 categories: [ Articles ]
 image: ./easily-earn-with-yearn-v2-in-argent/Image1.jpg
 author: Argent
-translator: 
-published: false
+translator: Bee926
+published: true
 ---
 
-# Easily earn with Yearn v2 in Argent
+# 使用Argent中的Yearn V2轻松赚取被动收入
 
 ![](Image1.jpg)
 
-Yearn V2 Vaults are now just a tap away in Argent! Earn up to 16.47% Net APY\* with automated yield generation. This builds on our existing support for Yearn's [V1 Vaults](https://www.argent.xyz/blog/yearn-vaults-in-argent/).
+目前在Argent中，用户只需一键即可进入Yearn V2机枪池！通过自动生成收益，用户可赚取高达16.47%的净APY*。这使用了我们为Yearn的[V1机枪池](https://www.argent.xyz/blog/yearn-vaults-in-argent/)建立的现有支持。
 
-## **Benefits of using Yearn with Argent**
+## **在Argent里使用Yearn的好处**
 
-Earning with [Yearn](https://yearn.finance/vaults) through Argent is unique because of its:
+在Argent里使用[Yearn](https://yearn.finance/vaults)赚被动收入的独特性是:
 
-- **Simplicity**: Only one transaction required. (No need for a separate approval).
-- **Security**: No infinite token approvals; you automatically only approve what you need to spend. You also have peace of mind that you're interacting with the right contracts.
+- **简易**: 只需要一次交易。(无需做额外的批准交易)。
+- **安全**: 没有无限的代币批准；它自动化的只批准你需要花费的金额。你也可以放心因为它只会让你与正确的合约进行交互。
 
-We've launched with 7 Vaults (USDC, DAI, SNX, 1INCH, YFI, WBTC, USDT, UNI, ETH).
+我们已推出了7个机枪池 (USDC, DAI, SNX, 1INCH, YFI, WBTC, USDT, UNI, ETH).
 
-## **Why Yearn matters**
+## **Yearn的优势**
 
-Yearn has grown at a [monumental pace](https://defipulse.com/yearn.finance) since its launch in early 2020. Yearn makes it easy for anyone to "yield farm" (trying to maximize the return on your assets by utilizing multiple DeFi protocols). Yearn compare their approach to passive investing.
+自2020年初推出以来，Yearn以[爆炸性的速度](https://defipulse.com/yearn.finance) 发展。Yearn让任何人都可以轻松的做”收益农场”（它通过应用多种DeFi协议来最大化你的资产回报）。被动投资是Yearn使用的方法。
 
 ![](Image2.jpg)DeFi Pulse Graph showing the total value locked (TVL) in Yearn.Finance
 
-There's also a big benefit when it comes to Ethereum network fees ('gas'). Gas is "socialized" across everyone using that Vault making it much more economical for the average user.
+在以太坊网络费（gas）用方面也有一个很大的好处。Gas费由使用机枪池的每个人分摊，这对普通用户来说更加经济。
 
-[Strategies](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) are proposed by the community and voted on by Yearn's governance.
+[策略](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)由社区提出并通过Yearn的治理进行投票。
 
-With V2, each Vault can employ multiple strategies, whereas V1 Vaults used just one each.
+新的V2允许每个机枪池采用多种策略，而V1机枪池每个只使用一种。
 
-## **How to use Yearn V2 Vaults in Argent**
+## **如何在Argent中使用Yearn的V2机枪池**
 
-### **Buy**
+### **投资（Buy）**
 
-- Tap **'Invest'** tab in Argent
-- Tap **'Yearn V2 Vaults'**
-- Choose a Vault
-- Tap **'Buy Investment'**
-- Select amount (& confirm you're happy with the network fee)
-- Buy
+- 点Argent中的**'Invest'**按钮
+- 点**'Yearn V2 Vaults'**
+- 选择机枪池（Vault）
+- 点**'Buy Investment'**
+- 选择金额（&确认你对网络费用没问题)
+- 投资（Buy)
 
-### **Fees**
+### **费用**
 
-Argent does not take a fee.
+Argent不收费用。
 
-Yearn takes:
+Yearn的费用:
 
-- 20% performance fee (deducted from the yield)
-- 2% management fee (deducted from total balance per year).
+- 20%绩效费（从利润中扣除)
+- 2%管理费 (从年总额中扣除)
 
-You also need to pay for gas.
+你也需要支付gas费。
 
 ![](Image3.jpg)
 Using yearn in the Argent app
 
-## **Tracking your Vault's performance**
+## **跟踪你的机枪池投资回报率**
 
-Balances are not updated continuously; they are updated on a "fluctuating basis", according to Yearn.
+余额不会被持续的更新；根据Yearn的解释，它们是在“不一致的基础”上更新的。
 
-To track the returns, you can use
+如果你需要跟踪投资回报率，你可以使用
 
 - [Zapper](https://zapper.fi/)
 - [Zerion](https://app.zerion.io/)
 - [Yearn Vault ROI Calculator](https://yearn-roi.xyz/#/)
 - [yVault ROI](https://yvault-roi.netlify.app/)
 
-## **Further reading & resources**
+## **进一步的阅读&资源**
 
 - [Yearn's docs](https://docs.yearn.finance/)
 - [Yearn's State of the Vaults (weekly update)](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)
 - [Yearn's Twitter](https://twitter.com/iearnfinance)
 
-## **Risks**
+## **风险**
 
-As always in crypto and DeFi, you should do your own research on the risks. These include smart contracts and the economics of the protocols. Yearn's audits can be found [here](https://docs.yearn.finance/resources/audits).
+与所有相关加密和DeFi的事物一样，你应该自己研究相关风险。这包括智能合约和协议经济。你可以在[这里](https://docs.yearn.finance/resources/audits)找到Yearn的审计。
 
-\*APY is variable and the concept does not technically directly apply as it does in centralized finance. Please see [Yearn's explanation](https://docs.yearn.finance/resources/guides/how-to-understand-yvault-roi#roi-calculation) for more.
+\*APY是动态的，而且该概念和集中式金融所用的不一样。请参阅[Yearn的解释](https://docs.yearn.finance/resources/guides/how-to-understand-yvault-roi#roi-calculation)以了解更多信息。
 
-## **Download Argent**
+## **下载Argent**
 
-Get started with Argent [here](https://argent.link/yearn-v2-post). If you have any questions you can find us at:
+从[这里](https://argent.link/yearn-v2-post)你可以开始使用Argent。如果你有任何问题，你可以联系我们:
 
 - [Discord](https://discord.com/invite/GWSyrHg)
 - [Twitter](https://twitter.com/argentHQ)
 - [Support](https://support.argent.xyz/hc/en-us)
 
-_This should go without saying but in case it doesn't: we are NOT a bank _**🙄**_. We are not a regulated financial entity._
+_这应该是个明显的事实，但如果不是很清楚：我们不是银行  _**🙄**_。我们不是受监管的金融机构。_
