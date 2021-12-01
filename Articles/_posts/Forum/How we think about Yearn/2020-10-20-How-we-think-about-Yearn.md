@@ -1,30 +1,30 @@
 ---
 layout: post
-title:  "How we think about Yearn"
+title:  "我们如何看待Yearn"
 categories: [ Articles ]
 image: ./How-we-think-about-Yearn/YFI1.jpeg
 author: Yearn DAO Contributors
-translator: 
-published: false
+translator: Xiaona
+published: true
 ---
 
-# How we think about Yearn
+# 我们如何看待Yearn
 
-## What Yearn is not
+## Yearn不是...
 
-1. **Yearn is not a company.** It does not have a board. There is no CEO, there is no team of managers. There is no room for bureaucrats.
-2. **Yearn does not have investors.** There are no VCs, no angels, no SPACs, and no SPVs that are pulling the strings in the background.
-3. **Yearn does not cater to speculators.** Pump it, dump it, hedge it, short it, long it, lend it, nobody cares. Yearn is agnostic to price.
-4. **Yearn does not have an official voice.** There’s no legal entity, there’s no foundation, no copyright, no patent, no central authority to stamp announcements with official seals from some great leader.
-5. **Yearn is not owed anything from anyone.** Contributors come together and work on this project voluntarily. Nobody has authority over anyone else, and nobody owes Yearn anything. Similarly nobody has any right to ask anything from Yearn. You get back what you put in.
+1. **Yearn不是一家公司。** 它没有董事会，没有CEO，没有管理团队，没有官僚体制。
+2. **Yearn没有投资人。** 没有VC，没有天使，没有SPAC，也没有幕后的SPV。
+3. **Yearn不迎合投机者。** 币价涨、跌、对冲、做空、做多、借出，在这里没人关心这些东西。Yearn与市场价格无关。
+4. **Yearn没有所谓的官方声音。** 没有法人实体，没有基金会，没有版权，没有专利，也不是个需要在公告上加盖公章的中心化机构。
+5. **Yearn不欠任何人任何东西。** 贡献者们聚集在一起，参与这个项目热情是完全出于自愿的。没有人对其他人拥有权威，也没有人欠Yearn任何东西。同样的，没有人有权向Yearn索取任何东西。你拿回的是你所投入的.
 
-## What Yearn is
+## Yearn是...
 
-1. **Yearn is a collective of contributors.** There is no difference between “the team” and “the community”, they are one and the same.
-2. **Yearn is equal opportunity.** No matter who you are, you are free to use Yearn, and you have the same right and privilege as anyone else.
-3. **Yearn is for builders.** Come with your ideas, come with your passion, come with your creativity. Actions speak louder than words.
-4. **Yearn is for self starters.** See something that’s broken? Fix it. Don’t ask for permission.
-5. **Yearn is for collaborators.** Find others who are like minded, self-organize, and get stuff done.
-6. **Yearn is influenced by merit.** Yearn runs on proof of work. Your contributions and commitment to Yearn dictate how much others listen to your voice —not your status, your wealth, or who you’re friends with.
-7. **Yearn is governed by YFI, but YFI does not govern Yearn’s contributors.** Holding YFI entitles you to signal for real, practical change that improves Yearn. It doesn’t give you the right to tell other contributors what to do. You want something done? Do it.
-8. **Yearn is constantly evolving.** What Yearn is today, may not be what it is tomorrow—what you do after reading this may change Yearn forever. It’s up to you.
+1. **Yearn是一个贡献者的集体。** “团队”和“社区”没有区别，它们是一体的。
+2. **Yearn是机会均等的。** 无论你是谁，你可以自由使用Yearn，你与其他任何人都享有同样的权利和特权。
+3. **Yearn是属于开发者的空间。** 带着你的想法来，带着你的热情来，带着你的创造力来。行动胜于言辞。
+4. **Yearn是属于主动者的空间。** 看到有东西坏了？就主动修理它。不需要征求许可。
+5. **Yearn是属于合作者的空间。** 寻找志同道合的人、形成组织并完成工作。
+6. **Yearn是注重功绩的。** Yearn是运行在以工作为证明上的。你对Yearn的贡献和承诺决定了其他人对你的认可——而非你的地位、财富或你认识谁。
+7. **Yearn是通过YFI进行治理的，但YFI并不掌控Yearn的贡献者。** 持有YFI使你对让Yearn有真正、实用的改进提案具有发言权。它并没有赋予你告诉其他贡献者该做什么的权利。你想做点什么？那就做吧.
+8. **Yearn正在不断的发展。** 今天的Yearn，可能不是明天的Yearn——你读完这篇文章后所做的，可能会永远改变Yearn。这取决于你的行动。
