@@ -4,322 +4,322 @@ title:  "What can you do with YFI?"
 categories: [ Articles ]
 image: ./What-can-you-do-with-YFI/image1.png
 author: Dark Ghosty
-translator:
-publish: false
+translator: Dastrono
+publish: true
 ---
 
-# What can you do with YFI?
-In this article, we look into what one can do with their YFI to earn yield in [DeFi](https://www.coindesk.com/what-is-defi), what risks are associated with each option, and the approximate yield you could get.
+# YFI ile neler yapabilirsiniz?
+Bu makalede, [DeFi](https://www.coindesk.com/what-is-defi)'de getiri elde etmek için YFI'ları ile neler yapılabileceğini, her bir seçenekle ilişkili risklerin neler olduğunu ve yaklaşık alabileceğiniz verim değerlerini inceleyeceğiz.
 
-- All APY quotes are from April 27th.
-- All positions that take out debt assume borrowing at 70% of the max rate to be able to withstand a 30% reduction in YFI price.
-- This is not financial advice. Interacting with DeFi protocols is **risky**, please do your own research.
+- Tüm APY verileri 27 Nisan'a aittir.
+- Borç alan tüm pozisyonlar, YFI fiyatında %30'luk bir düşüşe dayanabilmek için maksimum oranın %70'inde borçlanmayı varsayar.
+- Bu finansal tavsiye değildir. DeFi protokolleriyle etkileşim kurmak **risklidir**, lütfen kendi araştırmanızı yapın.
 
 ___
 
-## **Before you start, consider insuring your YFI with DeFi Insurance**
-A note about DeFi insurance and how it works. DeFi insurance *mostly* covers bugs in the solidity code that leads to a material loss of funds for that specific protocol. But be sure to read each Defi insurance documentation carefully to know what they do and don't cover.
+## **Başlamadan önce YFI'nizi DeFi Sigorta ile sigortalamayı düşünün**
+DeFi sigortası ve nasıl çalıştığı hakkında bir not. DeFi sigortası *çoğunlukla*, söz konusu protokol için maddi bir fon kaybına yol açan sağlamlık kodundaki hataları kapsar. Ancak, ne yaptıklarını ve kapsamadıklarını bilmek için her Defi sigorta belgesini dikkatlice okuduğunuzdan emin olun.
 
-As an example, say someone had insurance for their yearn vault, but there was a bug with MakerDAO's code and the vault's CDP lost some funds because of this. This person having only insurance on Yearn, wouldn't be able to claim any losses and their insurance wouldn't payout in this case. This is because it was not a bug in yearn's smart contracts that caused the loss. For more info on insurance feel free to ask in our [discord](discord.yearn.finance) in #support.
+Örnek olarak, birinin yearn vault'u için sigortası olduğunu, ancak MakerDAO'nun kodunda bir hata olduğunu ve vault'un CDP'sinin bu nedenle bir miktar para kaybettiğini varsayalım. Sadece Yearn'de sigortası olan bu kişi herhangi bir zarar talep edemeyecek ve bu durumda sigortası ödeme yapmayacaktır. Bunun sebebi, kaybetmeye neden olan yearn'ın akıllı sözleşmelerinde bir hata olması değildir. Sigorta hakkında daha fazla bilgi için [discord](discord.yearn.finance) 'umuzun #support bölümünde soru sormaktan çekinmeyin.
 
-### **DeFi Coverage Providers**
+## **DeFi kapsamlı sigorta sağlayıcıları**
 - [Nexus Mutual](https://app.nexusmutual.io/#/SmartContractCover)
-    - [Documentation](https://nexusmutual.gitbook.io/docs/)
-- [Cover Protocol](https://app.coverprotocol.com/)
-    - [Documentation](https://docs.coverprotocol.com/)
+    - [Dokümantasyon](https://nexusmutual.gitbook.io/docs/)
+- [Teminat Tutanağı](https://app.coverprotocol.com/)
+    - [Dokümantasyon](https://docs.coverprotocol.com/)
 
 ___
 
 ## ***Direct Deposit***
-This section addresses ways that you can make use of your YFI by itself. Alternative methods of generating yield, like providing liquidity to a decentralized exchange's [automated market maker (AMM)](https://www.gemini.com/cryptopedia/amm-what-are-automated-market-makers) may require you to pair your YFI with another token which could compromise your full exposure to YFI. This isn't to say that it is risk-free, but that you won't have to deal with what is referred to as [impermanent loss (IL)](https://www.gemini.com/cryptopedia/decentralized-finance-impermanent-loss-defi). *Having funds in smart contracts always carries some risk.*
+Bu bölüm, YFI'nizi tek başına kullanabileceğiniz yolları ele almaktadır. Merkezi olmayan bir borsanın otomatik piyasa yapıcısına [automated market maker (AMM)](https://www.gemini.com/cryptopedia/amm-what-are-automated-market-makers) likidite sağlamak gibi alternatif getiri elde etme yöntemleri, YFI'nizi,başka bir token'le eşleştirmenizi gerektirebilir ve YFI'ye tam olarak maruz kalmanızı tehlikeye atabilecek. Bu, risksiz olduğu anlamına gelmez, ancak [kalıcı kayıp (IL)](https://www.gemini.com/cryptopedia/decentralized-finance-impermanent-loss-defi) olarak adlandırılan şeyle uğraşmak zorunda kalmayacağınız anlamına gelir. *Akıllı sözleşmelerde para bulundurmak her zaman biraz risk taşır.*
 
 ### Yearn: v2 YFI yVault
-The Yearn Finance YFI v2 yVault lets you deposit YFI and sit back and relax while it earns yield for you at the optimal places to do so. At the time of writing the vault currently opens a CDP and uses the DAI minted to farm with. Also, the yVault lends out YFI to CREAM and AAVE for more yield.
+Yearn Finance YFI v2 yVault, YFI yatırmanıza ve bunu yapmak için en uygun yerlerde sizin için getiri elde ederken arkanıza yaslanıp rahatlamanıza olanak tanır. Yazma sırasında vault o anda bir CDP açar ve farm yapmak için basılan DAI'yi kullanır.
 
 #### Site
 - [Yearn.Finance](https://yearn.finance/vaults/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1)
 
-#### Tools
+#### Araçlar
 - [Yearn Hub](https://yearn-hub.vercel.app/vault/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1): This link will show how much of the funds in the vault are allocated to which strategies.
 - [Vaults at Yearn](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3): Here you can see what each strategy in the yvYFI v2 vault does.
 - [Yearn Vision](yearn.vision): Dashboards for vault statistics.
 - [Zap into v2 YFI yVault](https://zapper.fi/invest?protocol=yearn&contractAddress=0xe14d13d8b3b85af791b2aadd661cdbd5e6097db1&modal=invest)
 
-#### Risks
-Currently, the risks associated with this vault are smart contract risk for yearn's vault contracts (which are [audited](https://github.com/yearn/yearn-security/tree/master/audits)), MakerDAO CDP risks, and since a strategy lends out YFI to CREAM and AAVE for extra yield, and smart contract risk for both platforms as well. The vault has monitoring of its CDP and keeps a [health ratio](https://medium.com/iearn/delegated-vaults-explained-fa81f1c3fce2) of 3 which means it will only mint 1/3 of the max available for minting in DAI then use that DAI to farm with.
+#### Riskler
+Şu anda, bu vault'la ilişkili riskler, yearn vault sözleşmeleri ([denetlenen](https://github.com/yearn/yearn-security/tree/master/audits)) için akıllı sözleşme riski, MakerDAO CDP riskleri ve bir strateji ekstra getiri için YFI'yi CREAM ve AAVE'ye ödünç verdiğinden ve her iki platform için de akıllı sözleşme riskidir. Vault, CDP'sini izler ve [sağlık oranını](https://medium.com/iearn/delegated-vaults-explained-fa81f1c3fce2) 3 olarak tutar; bu, DAI'de para basmak için mevcut olan maksimum değerin yalnızca 1/3'ünü basacağı ve ardından bu DAI ile farm yapmak için kullanacağı anlamına gelir.
 
-#### Insurance
-At the time of writing to be fully insured in the YFI v2 vault, you would need coverage for Yearn, MakerDAO, AAVE, and CREAM. You can be selective about which coverage to purchase and only pay for cover of the protocols you believe to be risky. You can see which protocols this yVault interacts with for insurance at [yearn hub](https://yearn-hub.vercel.app/vault/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1).
+#### Sigorta
+YFI v2 kasasında tamamen sigortalı olmak için bu yazıyı yazarken, Yearn, MakerDAO, AAVE ve CREAM kapsamına ihtiyacınız olacaktır. Hangi sigortayı satın alacağınız konusunda seçici olabilir ve yalnızca riskli olduğuna inandığınız protokollerin sigortası için ödeme yapabilirsiniz. Bu yVault'un sigorta için hangi protokollerle etkileşime girdiğini [yearn hub](https://yearn-hub.vercel.app/vault/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1)'da görebilirsiniz.
 
 #### APY
 APY: 2.866%
-Calculation: Last month net, annualized.
-Source: [vaults.finance: yearn v2 API](https://vaults.finance/all)
-Sidenote: APY peaked for a time to 24%
+Hesaplama: Last month net, annualized.
+Kaynak: [vaults.finance: yearn v2 API](https://vaults.finance/all)
+bu arada: APY bir süreliğine %24'e ulaştı
 
-This vault is the most up-to-date YFI vault from the yearn team and has proven that it can move quickly to jump into upcoming YFI farms for better yield if they are safe to be farmed, as they recently did with farming BDP: Big Data Protocol.
+Bu vault, yearn ekibinin en güncel YFI vault'udur ve yakın zamanda BDP:Big Data Protocol çiftçiliğinde olduğu gibi, ekilmeleri güvenliyse daha iyi verim için yakında gelecek YFI çiftliklerine atlamak için hızla hareket edebileceğini kanıtlamıştır.
 
 - [Yearn.Finance: YFI Vault](https://yearn.finance/vaults/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1): Yearn's vault page shows Weekly or Monthly APY based on a formula.  
 
 ___
 
-## ***Direct Deposit, possible IL***
-Some yield-generating techniques are designed to reduce the risk of IL, but not remove it entirely. An example of this is providing liquidity to the Bancor protocol. If funds are kept in Bancor for over 100 days, and they were exposed to IL, they would be subsidized with BNT at the time of withdrawal for the equivalent amount of value lost (which the user is free to convert back to YFI). In practice, this means that you don't have to worry about IL if you stake more than 100 days with Bancor.
+## ***Doğrudan Depozit, muhtemel kalıcı olmayan kayıp IL***
+Bazı verim yaratan teknikler, IL riskini azaltmak için tasarlanmıştır, ancak onu tamamen ortadan kaldırmaz. Buna bir örnek, Bancor protokolüne likidite sağlamaktır. Fonlar 100 günden fazla Bancor'da tutulursa ve IL'ye maruz kalırlarsa, para çekme sırasında kaybedilen değerin eşdeğeri (kullanıcının YFI'ye geri dönüştürmekte özgür olduğu) için BNT ile sübvanse edilecektir. Pratikte bu, Bancor'da 100 günden fazla stake yaparsanız IL hakkında endişelenmenize gerek olmadığı anlamına gelir.
 
-### Bancor: YFI/BNT Single-Sided Protected Pool
+### Bancor: YFI/BNT Tek Yönlü Korumalı Havuz
 
-Bancor is an AMM like Sushiswap and Uniswap, but with one key difference which was rolled out in Bancor v2.1. Bancor now has IL protection *if* you stay in the pool for longer than 100 days. This protection starts at 30 days and scales to full protection over 100 days. Currently, incentivized rewards for the YFI pool have stopped, but there is a [proposal](https://gov.bancor.network/t/proposal-re-enable-lm-rewards-on-yfi/1838) to bring them back, and if it gets approved it will mean higher yields on this YFI pool.
+Bancor, Sushiswap ve Uniswap gibi bir AMM'dir, ancak Bancor v2.1'de sunulan önemli bir fark vardır. *Eğer* Bancor havuzda 100 günden fazla kalırsanız IL korumasına sahiptir. Bu koruma 30 gün içinde başlar ve 100 gün boyunca tam korumaya ölçeklenir. Şu anda, YFI havuzu için teşvik edilen ödüller durdu, ancak onları getirecek bir [teklif](https://gov.bancor.network/t/proposal-re-enable-lm-rewards-on-yfi/1838) var ve onaylanırsa geri dönecek, bu YFI havuzunda daha yüksek getiri anlamına gelecektir.
 
 
 #### Site
 
-[Bancor YFI Pool](https://app.bancor.network/eth/portfolio/stake/add/single/0xAeB3a1AeD77b5D6e3feBA0055d79176532e5cEb8)
+[Bancor YFI Havuzu](https://app.bancor.network/eth/portfolio/stake/add/single/0xAeB3a1AeD77b5D6e3feBA0055d79176532e5cEb8)
 
 #### Tools
 
-- [Ceazor's Guide to Bancor v2.1: YFI/BNT Single-Sided Protected Pool](https://youtu.be/LhLMhizDNwE?t=23)
-- [Bancor Documentation](https://docs.bancor.network/)
-- [Bancor Dune dashboard](https://duneanalytics.com/Bancor/bancor_1)
-- [Bancor v2.1 Staking for (DeFi) Dummies](https://blog.bancor.network/bancor-v2-1-staking-for-defi-dummies-f104a6a8281e)
-- [Zap into YFI/BNT Single-Sided Protected Pool](https://zapper.fi/invest?protocol=bancor&contractAddress=0x555981b82743aa443cb1c3002c85ba9d795d4596&modal=legacy-invest)
+- [Ceazor'un Bancor Rehberi v2.1: Bancor: YFI/BNT Tek Yönlü Korumalı Havuz](https://youtu.be/LhLMhizDNwE?t=23)
+- [Bancor Dokümanları](https://docs.bancor.network/)
+- [Bancor Dune Gösterge Paneli](https://duneanalytics.com/Bancor/bancor_1)
+- [Bancor v2.1 (DeFi) Yeni Başlayanlar için Stake Etme](https://blog.bancor.network/bancor-v2-1-staking-for-defi-dummies-f104a6a8281e)
+- [YFI/BNT Tek Yönlü Korumalı Havuzuna Gir](https://zapper.fi/invest?protocol=bancor&contractAddress=0x555981b82743aa443cb1c3002c85ba9d795d4596&modal=legacy-invest)
 
-#### Risks
+#### Riskler
 
-Bancor smart contract risk and trusting the [bancor v2.1 model](https://blog.bancor.network/proposing-bancor-v2-1-single-sided-amm-with-elastic-bnt-supply-bcac9fe655b). Bancor is [audited](https://docs.bancor.network/ethereum-contracts/security).
+Bancor akıllı sözleşme riski ve [bancor v2.1 modeline](https://blog.bancor.network/proposing-bancor-v2-1-single-sided-amm-with-elastic-bnt-supply-bcac9fe655b) güvenme. Bancor [denetleniyor](https://docs.bancor.network/ethereum-contracts/security).
 
-##### Insurance
+##### Sigorta
 
-For DeFi insurance, you would only need to insure Bancor to have full coverage in case of a smart contract bug that led to the loss of funds.  
+DeFi sigortası için, yalnızca fon kaybına yol açan bir akıllı sözleşme hatası durumunda Bancor'un tam kapsama sahip olmasını sağlamanız gerekir.  
 
 #### APY
 
 APY: 3.7%
-Calculation: Last month, annualized.
-Source: Bancor Team
+Hesaplamalar: Geçen ay, yıllık olarak.
+Kaynak: Bancor Ekibi
 
-- [YFI Pool APY](https://duneanalytics.com/queries/30793/62118): Single click on each pool until only YFI is left. This will show APY stats for the pool.
+- [YFI Havuzu APY](https://duneanalytics.com/queries/30793/62118): Single click on each pool until only YFI is left. This will show APY stats for the pool.
 
 ___
 
-## ***[Collateralized Debt Position](https://defipulse.com/blog/what-is-a-cdp)***
+## ***[Teminatlı Borç Pozisyonu](https://defipulse.com/blog/what-is-a-cdp)***
 
-CDP-based protocols allow you to deposit your YFI in exchange for a lesser amount of the protocol-issued token, which is usually a stablecoin. You can then use the issued token to farm and generate yield. Using this method is more time-intensive than the others and requires constant monitoring of the CDP to make sure you're above the liquidation ratio. Also, it requires you to use the stablecoins minted to find yield elsewhere and manage that as well.
+CDP tabanlı protokoller, YFI'nizi, genellikle bir sabit para olan protokol tarafından verilen daha az miktarda token karşılığında yatırmanıza olanak tanır. Daha sonra verilen token'i farm etmek ve verim elde etmek için kullanabilirsiniz. Bu yöntemi kullanmak diğerlerinden daha fazla zaman gerektirir ve tasfiye oranının üzerinde olduğunuzdan emin olmak için CDP'nin sürekli izlenmesini gerektirir. Ayrıca, başka yerlerde verim bulmak için basılan sabit paraları kullanmanız ve bunu da yönetmeniz gerekir.
 
-In this section, we use collateral ratio which is a percent. What this means is if the collateral ratio is 69%, like in Unit Protocol's case, then if the price of your YFI deposited for minting stablecoins is worth $1000, the max you will be able to mint in their stablecoin is $690. Note that this is the *MAX* you can borrow and if it goes above this ratio you will get liquidated -- we suggest you borrow far below this so that doesn't happen to you.
+Bu bölümde yüzdelik olan teminat oranını kullanıyoruz. Bunun anlamı, Birim Protokolü örneğinde olduğu gibi teminat oranı %69 ise, o zaman sabit para basımı için yatırılan YFI'nizin fiyatı 1000$ değerindeyse, sabit para basabileceğiniz maksimum değer 690$'dır. Bunun ödünç alabileceğiniz *MAKS* olduğunu ve bu oranın üzerine çıkarsa tasfiye edileceğinizi unutmayın -- bunun çok altında borç almanızı öneririz, böylece buna mağruz kalmazsınız.
 
 
 ### MakerDAO
-MakerDAO is the oldest and longest-running Dapp for taking a loan out with your cryptocurrency. You can use your YFI at MakerDAO to mint DAI stablecoin and then use that DAI to yield farm with.
+MakerDAO, kripto para biriminizle borç almak için en eski ve en uzun süredir devam eden Dapp'tir. MakerDAO'daki YFI'nizi, DAI stabil coin'i basmak için kullanabilir ve ardından bu DAI'yi kullanarak farm'dan kar elde edebilirsiniz.
 
 #### Site
 - [Oasis.app](https://oasis.app/borrow)
 
-#### Tools
-- [DeFiSaver](https://app.defisaver.com/): help manage your CDP health ratio
+#### Araçlar
+- [DeFiSaver](https://app.defisaver.com/): CDP sağlık oranınızı yönetmenize yardımcı olur
 
 #### Risks
-Risk of liquidation if your CDP goes above a collateral ratio of 57%, smart contract failure for Makerdao, oracle failure, and smart contract failure of the protocol where you deposit or lend out your DAI.
+CDP'niz %57'lik bir teminat oranının üzerine çıkarsa, Makerdao için akıllı sözleşme başarısızlığı, Oracle başarısızlığı ve DAI'nizi yatırdığınız veya ödünç verdiğiniz protokolün akıllı sözleşme başarısızlığı riski.
 
-#### Insurance
-For DeFi insurance, you would need to insure MakerDAO and also the protocol where you lend out or deposit your DAI stablecoins to in order to have full coverage in case of a smart contract bug that led to the loss of funds.
+#### Sigorta
+DeFi sigortası için, fon kaybına yol açan bir akıllı sözleşme hatası durumunda tam kapsama sahip olmak için MakerDAO'yu ve ayrıca DAI sabit paralarınızı ödünç verdiğiniz veya yatırdığınız protokolü sigortalamanız gerekir.
 
 #### APY
-APY: -5.5% + (21.07% * 0.44) = 3.7708%
-Calculation: Dai Fee - (Stablecoin Yield Farm APY (Zap to v2 crvIB yVault) * % of DAI you can mint and be safe).
-Sidenote: For borrowing DAI you need to pay a 5.5% annual fee to MakerDAO. This is an example but you could yield farm anywhere.
-Source: [Oasis App Borrow - Select collateral type YFI-A](https://oasis.app/borrow)
+APY: -%5.5 + (%21.07 * %0.44) = %3.7708
+Hesaplama: Dai Ücreti - (Stablecoin Verim Çiftliği APY (Zap'tan v2 crvIB yVault'a) * basıp güvende olabileceğiniz DAI'nin %'si).
+Bu arada: DAI ödünç almak için MakerDAO'ya yıllık %5,5 ücret ödemeniz gerekir. Bu bir örnek, ancak herhangi bir yerde farm edebilirsiniz.
+Kaynak: [Oasis App Borrow - Select collateral type YFI-A](https://oasis.app/borrow)
 
 ### Unit Protocol
-Unit Protocol is a CDP platform similar to MakerDAO, except this one, lets you mint USDP stablecoin instead of DAI. With Unit, they have a collateral ratio of 69% which is higher than MakerDAO and they have been audited, but they are a newer platform.
+Unit Protocol, MakerDAO'ya benzer bir CDP platformudur, bunun dışında DAI yerine USDP stablecoin basmanıza izin verir. Unit ile MakerDAO'dan daha yüksek %69 teminat oranına sahipler ve denetlendiler, ancak daha yeni bir platform.
 
 #### Site
 - [Unit Protocol](https://unit.xyz/)
 
 #### Tools
-- [Documentation](https://docs.unit.xyz/)
-- [Ceazor Video Tutorial](https://youtu.be/zlFBeoTHJUs?t=33)
+- [Dokümantasyon](https://docs.unit.xyz/)
+- [Ceazor Eğitim Videosu](https://youtu.be/zlFBeoTHJUs?t=33)
 
 #### Risks
-Risk of liquidation if the collateral ratio exceeds 69%, smart contract failure for Unit Protocol, oracle failure, and smart contract failure for where you lend or deposit your USDP to. You can find their audits [here](https://github.com/unitprotocol/protocol_docs).
+Teminat oranı %69'u aşarsa tasfiye riski, Unit Protocol için akıllı sözleşme başarısızlığı, oracle başarısızlığı ve USDP'nizi ödünç verdiğiniz veya yatırdığınız yer için akıllı sözleşme başarısızlığı. Denetimlerini [burada](https://github.com/unitprotocol/protocol_docs) bulabilirsiniz.
 
-#### Insurance
-For DeFi insurance, you would need to insure Unit Protocol and wherever you lend out your USDP stablecoins to in order to have full coverage in case of a smart contract bug that led to the loss of funds.
+#### Sigorta
+DeFi sigortası için, fon kaybına yol açan bir akıllı sözleşme hatası durumunda tam kapsama sahip olmak için Unit Protocol'ünü ve USDP sabit paralarınızı ödünç verdiğiniz her yerde sigortalamanız gerekir.
 
 #### APY
-APY: -5.5% + (21.07% * 0.53)  = 5.67%
-Calculation: 5.5 annual fee from unit + (yield from using the [v2 crvIB yVault](https://yearn.finance/vaults/0x27b7b1ad7288079A66d12350c828D3C00A6F07d7) * % of USDP you can mint and be safe).
-Sidenote: You can use your USDP anywhere if you find a higher yield, we use the USDP vault at Yearn as an example.
-Source: [Unit Protocol](https://unit.xyz/asset/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e)
+APY: -%5.5 + (%21.07 * 0.53) = %5.67
+Hesaplama: Unit'ten 5,5 yıllık ücret + (v2 crvIB yVault kullanımından elde edilen verim * USDP'nin basıp ve güvende olacağınız %'si).
+Bu arada: Daha yüksek bir getiri bulursanız USDP'nizi her yerde kullanabilirsiniz, örnek olarak Yearn'deki USDP vault'unu kullanıyoruz.
+Kaynak: [Unit Protocol](https://unit.xyz/asset/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e)
 
 ___
 
-## ***Lending & Borrowing***
+## ***Borçlanma ve Borç Verme***
 
 
-In this section, we cover the platforms that allow you to lend out your YFI, or to use your YFI as collateral to borrow stablecoins, or other tokens, which you can then use to farm with. This differs from opening a CDP which lets you mint stablecoins at a fixed yearly rate whereas lending and borrowing are usually variable rate. In this category, you have to not only worry about where to lend out the stablecoins you borrow but also both the borrow and lending rates as well as the utilization rate of the pool. If the YFI pool you are lending your YFI to is fully utilized, meaning people are borrowing every YFI that was lent, then you will have to wait to withdrawal until there is free liquidity in the pool to do so.
+Bu bölümde, YFI'nizi ödünç vermenize veya YFI'nizi teminat olarak kullanarak stabil coinler veya daha sonra farm yapmak için kullanabileceğiniz diğer token'leri ödünç almanıza izin veren platformları ele alıyoruz. Bu, sabit bir yıllık oranda sabit para basmanıza izin veren bir CDP açmaktan farklıdır, oysa borç verme ve ödünç alma genellikle değişken oranlıdır. Bu kategoride, sadece ödünç aldığınız stabilcoinleri nereye ödünç vereceğiniz konusunda değil, aynı zamanda hem ödünç alma hem de ödünç verme oranları ve havuzun kullanım oranı hakkında endişelenmeniz gerekiyor. YFI'nizi ödünç verdiğiniz YFI havuzu tamamen kullanılıyorsa, yani insanlar ödünç verilen her YFI'yi ödünç alıyorsa, bunu yapmak için havuzda serbest likidite olana kadar çekmeyi beklemeniz gerekecektir.
 
 ### Cream Finance
-Cream.Finance is a decentralized lending protocol. You can borrow stablecoins against your YFI for up to 50% of your total collateral.
+Cream.Finance, merkezi olmayan bir borç verme protokolüdür. YFI'nize karşı toplam teminatınızın %50'sine kadar sabit para ödünç alabilirsiniz.
 
 #### Site
 - [Cream.Finance](https://app.cream.finance)
 
-#### Tools
+#### Araçlar
 - [Cream Documentation](https://docs.cream.finance/)
-- [Ceazor Video Tutorial: Getting Paid to Lend while Borrowing](https://youtu.be/AJx_TH3CMZc?t=598)
+- [Ceazor Eğitim Videosu: Borç Alırken Ödünç Almak](https://youtu.be/AJx_TH3CMZc?t=598)
 
-#### Risks
-Risk of liquidation if you go over 50% collateral ratio, smart contract failure for Cream Finance, oracle failure, and smart contract failure for where you lend or deposit your stablecoins to. Also, you need to manually check that the APY on your yield farm exceeds that of your borrowing APY or you will lose money. You can find their audit [here](https://docs.cream.finance/audit-report).
+#### Riskler
+%50 teminat oranını aşarsanız tasfiye riski, Cream Finance için akıllı sözleşme başarısızlığı, oracle başarısızlığı ve istikrarlı paralarınızı ödünç verdiğiniz veya yatırdığınız yer için akıllı sözleşme başarısızlığı. Ayrıca, verim çiftliğinizdeki APY'nin ödünç aldığınız APY'yi aştığını manuel olarak kontrol etmeniz gerekir, aksi takdirde para kaybedersiniz. Denetimlerini [burada](https://docs.cream.finance/audit-report) bulabilirsiniz.
 
-#### Insurance
-For DeFi insurance, you would need to insure Cream Finance and wherever you lend out your stablecoins to in order to have full coverage in case of a smart contract bug that led to the loss of funds.
+#### Sigorta
+DeFi sigortası için, fon kaybına yol açan bir akıllı sözleşme hatası durumunda tam kapsama sahip olmak için Cream Finance'i ve stabilcoin'lerinizi ödünç verdiğiniz her yeri sigortalamanız gerekir.
 
 #### APY
 APY: 0.27% - 18.81% + (60.30% * .39) = 4.977%
-Calculation: Supply APY (YFI) - Borrow APY (USDC) + (Stablecoin Yield Farm APY (Zap to v1 crvEURS yVault) * % of stablecoin you can borrow and be safe).
-Sidenote: This is an example but you could yield farm anywhere.
-Source: [Cream](https://app.cream.finance) and [Yearn](https://yearn.finance/vaults/0x98B058b2CBacF5E99bC7012DF757ea7CFEbd35BC) Yields.
+hesaplamalar: Yatırma APY (YFI) - Borçlanma APY (USDC) + (Stablecoin Getiri Çiftliği APY (v1 servEURS Vault'a zap edin) * Ödünç alabileceğiniz ve güvende olabileceğiniz stabilcoin yüzdesi.
+Bu arada: Bu bir örnek, ancak herhangi bir yerde farm yapabilirsiniz.
+Kaynak: [Cream](https://app.cream.finance) ve [Yearn](https://yearn.finance/vaults/0x98B058b2CBacF5E99bC7012DF757ea7CFEbd35BC) Verimleri.
 
 ### Iron Bank
-The Iron Bank is just like Cream v1, but they are more selective of the assets they list and they let white-listed protocols borrow funds with little or no collateral such as Alpha Homora v2 and Yearn Finance. Because protocols can borrow with little collateral, utilization rates in Iron Bank tend to be higher than at CREAM or AAVE.
+Iron Bank, Cream v1'e benzer, ancak listeledikleri varlıklar konusunda daha seçicidirler ve beyaz listedeki protokollerin Alpha Homora v2 ve Yearn Finance gibi çok az teminatla veya hiç teminat olmadan borç almasına izin verirler. Protokoller çok az teminatla borçlanabildiğinden, Iron Bank kullanım oranları CREAM veya AAVE'den daha yüksek olma eğilimindedir.
 
 #### Site
 - [Iron Bank](https://v1.yearn.finance/lending)
 
 #### Tools
-- [Iron Bank Documentation](https://docs.cream.finance/iron-bank/collateral-and-reserve-factor)
+- [Iron Bank Dokümantasyonu](https://docs.cream.finance/iron-bank/collateral-and-reserve-factor)
 
 #### Risks
-Risk of liquidation if you go over the posted collateral ratio, smart contract failure for Iron Bank, oracle failure, and smart contract failure for where you lend your borrowed stablecoins out to. You can find their audit [here](https://github.com/trailofbits/publications/blob/master/reviews/CREAMSummary.pdf).
+Yayınlanan teminat oranını, Iron Bank için akıllı sözleşme başarısızlığını, oracle başarısızlığını ve ödünç aldığınız sabit paraları ödünç verdiğiniz akıllı sözleşme başarısızlığını aşarsanız tasfiye riski. Denetimlerini [burada](https://github.com/trailofbits/publications/blob/master/reviews/CREAMSummary.pdf) bulabilirsiniz.
 
-#### Insurance
-For DeFi insurance, you would need to insure Ironbank and wherever you lend out your stablecoins to, to have full coverage in case of a smart contract bug that led to the loss of funds.
+#### Sigorta
+DeFi sigortası için, para kaybına neden olan bir akıllı sözleşme hatası durumunda tam kapsama sahip olmak için Ironbank'ı ve stablecoin'lerinizi ödünç verdiğiniz her yerde sigorta yaptırmanız gerekir.
 
 #### APY
 APY:
-Calculation:
-Source:
-Note: Currently you cannot borrow against your YFI on Ironbank but this could change in the future.
+Hesaplamalar:
+Kaynak:
+Not: Şu anda Ironbank'ta YFI'nıza karşı borç alamazsınız, ancak bu gelecekte değişebilir.
 
 ### AAVE
-AAVE is another place where you can take a loan out on your YFI. You can borrow up to 40% in other coins at AAVE. AAVE has both fixed and variable rates for borrowing stablecoins, whereas at MakerDAO and Unit it is always 5.5%. It is possible to get a cheaper rate at AAVE for borrowing stables but you need to watch both your collateral levels and the borrowing rate if it is not variable when taking a loan out here.
+AAVE, YFI'nizden borç alabileceğiniz başka bir yerdir. AAVE'de diğer madeni paralarda %40'a kadar ödünç alabilirsiniz. AAVE, stabilcoin ödünç almak için hem sabit hem de değişken oranlara sahipken MakerDAO ve Unit'te her zaman %5,5'tir. Stable ödünç almak için AAVE'de daha ucuz bir oran almak mümkün ama buradan kredi çekerken hem teminat seviyenizi hem de borçlanma oranı değişken değilse de gözlemeniz gerekiyor.
 
 #### Site
 - [AAVE](https://app.aave.com/)
 
-#### Tools
-- [Ceazor Video Tutorial: AAVE v2](https://youtu.be/eMP_uIwniHc?t=46)
-- [Ceazor Video Tutorial: Getting Paid to Lend while Borrowing](https://youtu.be/AJx_TH3CMZc?t=407)
+#### Araçlar
+- [Ceazor Eğitim Videoları: AAVE v2](https://youtu.be/eMP_uIwniHc?t=46)
+- [Ceazor Eğitim Videoları: Borç Alırken Ödünç Almak](https://youtu.be/AJx_TH3CMZc?t=407)
 
-#### Risks
-Risk of liquidation if you go over 40% collateral ratio, smart contract failure for AAVE, oracle failure (uses Chainlink), and smart contract failure for where you lend your stablecoins out to. You can find their audits [here](https://docs.aave.com/developers/security-and-audits).
+#### Riskler
+%40 teminat oranını aşarsanız tasfiye riski, AAVE için akıllı sözleşme başarısızlığı, oracle başarısızlığı (Chainlink kullanır) ve istikrarlı paralarınızı ödünç verdiğiniz yer için akıllı sözleşme başarısızlığı. Denetimlerini [burada](https://docs.aave.com/developers/security-and-audits) bulabilirsiniz.
 
-#### Insurance
-For DeFi insurance, you would need to insure AAVE and wherever you lend out your stablecoins to, to have full coverage in case of a smart contract bug that led to the loss of funds.
+#### Sigorta
+DeFi sigortası için, fon kaybına yol açan bir akıllı sözleşme hatası durumunda tam kapsama sahip olmak için AAVE'yi ve stablecoin'lerinizi ödünç verdiğiniz her yerde sigorta yaptırmanız gerekir.
 
-#### APY
-APY: 0.11% - 3.98% + (60.30% * .31) = 14.83%
-Calculation: Supply APY (YFI) - Borrow APY (TUSD) + (Stablecoin Yield Farm APY (Zap to v1 crvEURS yVault) * % of stablecoin you can borrow and be safe)
-Sidenote: This is just an example. You can borrow any stablecoin and use it at the yield farm of your choice.
-Source: [AAVE - YFI](https://app.aave.com/deposit/YFI-0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e0xb53c1a33016b2dc2ff3653530bff1848a515c8c5)
+#### 
+APY: %0,11 - %3,98 + (%60,30 * %0,31) = %14,83
+Hesaplama: Yatırma APY (YFI) - Ödünç APY (TUSD) + (Stablecoin Farm Getiri APY (v1 crvEURS yVault'a zapla) * Ödünç alabileceğiniz ve güvende olabileceğiniz stablecoin yüzdesi)
+Buarada: Bu sadece bir örnektir. Herhangi bir stablecoin ödünç alabilir ve seçtiğiniz getiri çiftliğinde kullanabilirsiniz.
+Kaynak: [AAVE - YFI](https://app.aave.com/deposit/YFI-0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e0xb53c1a33016b2dc2ff3653530bff1848a515c8c5)
 
 ___
 
-## ***Liquidity Providing***
+## ***Likidite Sağlama***
 
-This section discusses strategies that expose you to impermanent loss, and you also have to provide liquidity to both sides of the AMM pool. **If you want to stake YFI, you will also have to add an equal $ amount of ETH as well.**
+Bu bölüm, sizi kalıcı kayıplara maruz bırakan stratejileri tartışıyor ve ayrıca AMM havuzunun her iki tarafına da likidite sağlamanız gerekiyor. **YFI stake etmek istiyorsanız, aynı zamanda eşit miktarda ETH de eklemeniz gerekecektir.**
 
-### Sushiswap YFI/WETH Pool
-Sushiswap is an AMM which generally has higher yields than Uniswap as its pools are subsidized with SUSHI rewards.
+### Sushiswap YFI/WETH Havuzu
+Sushiswap, havuzları SUSHI ödülleriyle sübvanse edildiğinden genellikle Uniswap'tan daha yüksek getirisi olan bir AMM'dir.
 
 #### Site
 - [Sushiswap](https://app.sushi.com/yield)
-#### Tools
-- [YFI Sushi pools](https://analytics.sushi.com/tokens/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e)
-- [apy.vision YFI/ETH Sushi Pool](https://app.apy.vision/pools/sushiswap_eth-YFI-WETH-pool-0x088ee5007c98a9677165d78dd2109ae4a3d04d0c)
-- [Zap into Sushiswap YFI/WETH Pool](https://zapper.fi/invest?protocol=sushiswap&contractAddress=0x088ee5007c98a9677165d78dd2109ae4a3d04d0c&modal=invest)
+#### Araçlar
+- [YFI Sushi Havuzları](https://analytics.sushi.com/tokens/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e)
+- [apy.vision YFI/ETH Sushi Havuzu](https://app.apy.vision/pools/sushiswap_eth-YFI-WETH-pool-0x088ee5007c98a9677165d78dd2109ae4a3d04d0c)
+- [Sushiswap YFI/WETH havuzuna zapla](https://zapper.fi/invest?protocol=sushiswap&contractAddress=0x088ee5007c98a9677165d78dd2109ae4a3d04d0c&modal=invest)
 
-#### Risks
-Impermanent Loss, smart contract risk for Sushiswap.
+#### Riskler
+Geçici Kayıp, Sushiswap için akıllı sözleşme riski.
 
-#### Insurance
-For DeFi insurance, you would only need to insure Sushiswap to have full coverage in case of a smart contract bug that led to the loss of funds.
+#### Sigorta
+DeFi sigortası için, fon kaybına neden olan bir akıllı sözleşme hatası durumunda Sushiswap'ın tam kapsama sahip olmasını sağlamanız gerekir.
 
 #### APY
 APY: 39.08%
-Calculation: Yearly APY from staking your YFI/WETH sushi SLP token at sushi.
-Source: [Sushiswap Yield](https://app.sushi.com/yield)
+Hesaplama: YFI/WETH sushi SLP token'inizi sushi'de stake etmek için yıllık APY.
+Kaynak: [Sushiswap Yield](https://app.sushi.com/yield)
 
-### Uniswap v2 YFI/WETH Pool
-Generally on AMM's such as Uniswap, Bancor, and Sushiswap you want to be in the pool with the most volume as that means more fees for liquidity providers. On average Sushiswap has more liquidity than Uniswap so generally, it would be better to LP there, but Uniswap could have better yields than Sushiswap.
+### Uniswap v2 YFI/WETH Havuzu
+Genel olarak Uniswap, Bancor ve Sushiswap gibi AMM'lerde en fazla hacme sahip havuzda olmak istersiniz çünkü bu, likidite sağlayıcıları için daha fazla ücret anlamına gelir. Ortalama olarak Sushiswap, Uniswap'tan daha fazla likiditeye sahiptir, bu nedenle genel olarak, orada LP yapmak daha iyidir, ancak Uniswap, Sushiswap'tan daha iyi getiriye sahip olabilir.
 
 #### Site
-- [Uniswap YFI/WETH Pool](https://app.uniswap.org/#/add/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e)
+- [Uniswap YFI/WETH Havuzu](https://app.uniswap.org/#/add/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e)
 
 #### Tools
 - [Zapper Uni YFI/WETH](https://zapper.fi/invest?protocol=uniswapV2&contractAddress=0x2fdbadf3c4d5a8666bc06645b8358ab803996e28&modal=invest)
-- [IL Calculator for YFI/WETH Pair](https://app.sommelier.finance/pair?id=0x2fdbadf3c4d5a8666bc06645b8358ab803996e28&timeWindow=total): This can help show how much you will gain or lose if you started to LP in this pool at a certain date.
-- [Uniswap Analytics YFI/WETH](https://info.uniswap.org/pair/0x2fdbadf3c4d5a8666bc06645b8358ab803996e28)
+- [YFI/WETH İkilisi için IL Hesaplayıcı](https://app.sommelier.finance/pair?id=0x2fdbadf3c4d5a8666bc06645b8358ab803996e28&timeWindow=total): This can help show how much you will gain or lose if you started to LP in this pool at a certain date.
+- [Uniswap YFI/WETH Analitiği](https://info.uniswap.org/pair/0x2fdbadf3c4d5a8666bc06645b8358ab803996e28)
 - [Apy.vision YFI/WETH](https://app.apy.vision/pools/uniswap_eth-YFI-WETH-pool-0x2fdbadf3c4d5a8666bc06645b8358ab803996e28)
-- [Zap into Uniswap v2 YFI/WETH Pool](https://zapper.fi/invest?protocol=uniswapV2&contractAddress=0x2fdbadf3c4d5a8666bc06645b8358ab803996e28&modal=invest)
+- [Uniswap v2 YFI/WETH Havuzuna zapla](https://zapper.fi/invest?protocol=uniswapV2&contractAddress=0x2fdbadf3c4d5a8666bc06645b8358ab803996e28&modal=invest)
 
 #### Risks
-Impermanent loss and smart contract risk are the concerns to be aware of when providing liquidity at Uniswap.
+Kalıcı kayıp ve akıllı sözleşme riski, Uniswap'ta likidite sağlarken dikkat edilmesi gereken konulardır.
 
-#### Insurance
-For DeFi insurance, you would only need to insure Uniswap to have full coverage in case of a smart contract bug that led to the loss of funds.
+#### Sigorta
+DeFi sigortası için, fon kaybına yol açan bir akıllı sözleşme hatası durumunda Uniswap'ın tam kapsama sahip olmasını sağlamanız gerekir.
 
 #### APY
 APY: 20.79%
-Calculation: Last 30 days annualized after subtracting IL.
-Source: [apy.vision](https://app.apy.vision/pools/uniswap_eth-YFI-WETH-pool-0x2fdbadf3c4d5a8666bc06645b8358ab803996e28)
+Hesaplama: Kalıcı kayıbı çıkarıldıktan sonra yıllığa vurulmuş son 30 gün.
+Kaynak: [apy.vision](https://app.apy.vision/pools/uniswap_eth-YFI-WETH-pool-0x2fdbadf3c4d5a8666bc06645b8358ab803996e28)
 
-### Pickle.Finance pSUSHI YFI/WETH jar
-Pickle is a type of vault-like Yearn's (called jars) that will let you auto-compound your SUSHI rewards from the SUSHI YFI/WETH pool and they also give you PICKLE as extra rewards for staking with them.
+### Pickle.Finance pSUSHI YFI/WETH Kavanozu
+Pickle, SUSHI YFI/WETH havuzundan SUSHI ödüllerinizi otomatik olarak birleştirmenize izin veren vault'a benzer bir Yearn türüdür(kavanoz olarak adlandırılır) ve ayrıca onlarla stake ettiğiniz için size ekstra ödül olarak PICKLE verir.
 
-To deposit with Pickle.Finance you need to stake your SLP (Sushiswap LP token) into their pickle jar [here](https://app.pickle.finance/jars) and then deposit it into their farm [here](https://app.pickle.finance/farms). You can now also lock PICKLE for DILL, boosting your PICKLE rewards earned in the farm by up to 2.5x.
+Pickle.Finance ile para yatırmak için SLP'nizi (Sushiswap LP token'ine) [buradaki](https://app.pickle.finance/jars) pickle kavanozuna yatırmanız ve ardından [buradaki](https://app.pickle.finance/farms) çiftliğine yatırmanız gerekir. Artık DILL için PICKLE'ı kilitleyebilir ve çiftlikte kazandığınız PICKLE ödüllerini 2,5 katına kadar artırabilirsiniz.
 
 #### Site
 - [Pickle.Finance Farm](https://app.pickle.finance/farms)
 - [Pickle.Finance Jar](https://app.pickle.finance/jars)
 
-#### Tools
-- [Dill boost calculator](https://app.pickle.finance/dill)
-- [Ceazor's tutorial: Yearn Zap into yveCRV-ETH Pickle Farm](https://youtu.be/Q3HELI9TfjQ?t=25)
+#### Araçlar
+- [Dill artırma hesabı](https://app.pickle.finance/dill)
+- [Ceazor'un İpuçları: yveCRV-ETH Pickle Çiftliğine zapla](https://youtu.be/Q3HELI9TfjQ?t=25)
 
-#### Risks
-Impermanent Loss on the Sushiswap LP position, smart contract risk for Pickle.Finance and Sushiswap.
+#### Riskler
+Sushiswap LP pozisyonunda Kalıcı Kayıp, Pickle.Finance ve Sushiswap için akıllı sözleşme riski.
 
-#### Insurance
-For DeFi insurance, you would need to insure both Sushiswap and Pickle.Finance to have full coverage in case of a smart contract bug that led to the loss of funds.
+#### Sigorta
+DeFi sigortası için, fon kaybına yol açan bir akıllı sözleşme hatası durumunda hem Sushiswap hem de Pickle.Finance'ın tam kapsama sahip olmasını sağlamanız gerekir.
 
 #### APY
-APY: 43% not boosted, 58% fully boosted.
-Calculation: APY, Fully boosted is boosted by locking PICKLE for DILL
-Source: [Pickle.Finance Farms](https://app.pickle.finance/farms)
+APY: %43 artırılmadı, %58 tamamen artırıldı.
+Hesaplama: APY, DILL için PICKLE'ı kilitleyerek tamamen artırılır
+Kaynak: [Pickle.Finance Çiftlikleri](https://app.pickle.finance/farms)
 
 ___
 
-## ***Leveraged Liquidity Providing***
-In this section, you can be subject to impermanent loss, and you will have to watch your debt ratios to make sure you are not liquidated.
+## ***Kaldıraçlı Likidite Sağlama***
+Bu bölümde kalıcı kayıplara maruz kalabilirsiniz ve tasfiye olmadığınızdan emin olmak için borç oranlarınızı gözlemlemeniz gerekecektir.
 
 ### Alpha Homora v2
-Alpha Homora v2 lets you take your Uniswap or Sushiswap LP token and deposit it with them to farm with up to 1.75x leverage. With Alpha Homora you can farm these pools with 1 asset (basically auto-zaps to the other asset in the pool), they automate all steps with 3 transactions, and farmed tokens in the pool get auto-compounded like at pickle.finance. In the same way that pickle.finance will give you PICKLE if you use their Farm product, if you use leverage to farm AMM pools (Uniswap or Sushiswap) Alpha Homora will give you ALPHA on top of the yield you would normally receive as shown [here](https://alphafinancelab.gitbook.io/alpha-homora/where-does-apy-come-from-for-each-pool).
+Alpha Homora v2, Uniswap veya Sushiswap LP token'inizi almanızı ve 1,75x'e kadar kaldıraçla farm yapmak için onlarla birlikte yatırmanızı sağlar. Alpha Homora ile bu havuzları 1 varlıkla gruplandırabilirsiniz (temelde havuzdaki diğer varlığa otomatik olarak geçiş yapar), tüm adımları 3 işlemle otomatikleştirilir ve havuzdaki çiftlik token'leri pickle.finance'daki gibi otomatik olarak birleştirilir. Aynı şekilde, Pickle.finance, Farm ürününü kullanırsanız size PICKLE verir, AMM havuzlarını (Uniswap veya Sushiswap) toplamak için kaldıraç kullanırsanız, Alpha Homora, [burada](https://alphafinancelab.gitbook.io/alpha-homora/where-does-apy-come-from-for-each-pool) gösterildiği gibi normalde alacağınız verimin üzerine bir de ALPHA verecektir.
 
 #### Site
 - [Alpha Finance](https://homora.alphafinance.io/farm)
 
-#### Tools
-- [Documentation](https://alphafinancelab.gitbook.io/alpha-homora/)
-- [Ceazor Video Tutorial](https://youtu.be/WKW8TsTyGOg?t=41)
+#### Araçlar
+- [Dokümantasyon](https://alphafinancelab.gitbook.io/alpha-homora/)
+- [Ceazor eğitim videoları](https://youtu.be/WKW8TsTyGOg?t=41)
 
-#### Risks
-Risk of liquidation if your debt ratio exceeds 60% LTV (Loan to Value), smart contract failure for Alpha Homora v2, smart contract failure for which pool you are leveraging (Uniswap or Sushiswap). You can find their audits [here](https://github.com/peckshield/publications/blob/master/reviews/PeckShield-Security-Review-Alpha-Homora-v1.0.pdf).
+#### Riskler
+Borç oranınız %60 LTV'yi (Krediden Değere) aşarsa tasfiye riski, Alpha Homora v2 için akıllı sözleşme başarısızlığı, hangi havuz için kullandığınız akıllı sözleşme başarısızlığı (Uniswap veya Sushiswap). Denetimlerini [burada](https://github.com/peckshield/publications/blob/master/reviews/PeckShield-Security-Review-Alpha-Homora-v1.0.pdf) bulabilirsiniz. .
 
 #### Insurance
-For defi insurance you would need to insure Alpha Finance and the AMM that you're using, to have full coverage in case of a smart contract bug that led to the loss of funds.
+Defi sigortası için, fon kaybına yol açan bir akıllı sözleşme hatası durumunda tam kapsama sahip olmak için Alpha Finance'i ve kullandığınız AMM'yi sigortalamanız gerekir.
 
 #### APY
 APY: 75.38%
-Calculation: This is at 1.5x leverage on the Sushi ETH/YFI Pool.
-Source: [Alpha Homora - Farm](https://homora.alphafinance.io/farm)
+Hesaplama: Bu, Sushi ETH/YFI Havuzunda 1,5 kat kaldıraçta.
+Kaynak: [Alpha Homora - Farm](https://homora.alphafinance.io/farm)
