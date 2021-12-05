@@ -4,73 +4,72 @@ title:  "Yearn Finance Newsletter #45"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-45/image1.jfif
 author: Yearn
-translator:
+translator: Stathis
 publish: true
 ---
 
 # Yearn Finance Newsletter #45
 
 ![](/image1.jfif)
+Καλώς ήρθατε στην 45η έκδοση του ενημερωτικού δελτίου του Yearn Finance. Στόχος μας με αυτό το ενημερωτικό δελτίο είναι να ενημερώνουμε το Yearn και την ευρύτερη κοινότητα κρυπτονομισμάτων για τα τελευταία νέα, συμπεριλαμβανομένων των νέων προϊόντων, των αλλαγών διακυβέρνησης και των ενημερώσεων του οικοσυστήματος. Εάν ενδιαφέρεστε να μάθετε περισσότερα για το Yearn Finance, ακολουθήστε τους επίσημους λογαριασμούς μας [Twitter](https://twitter.com/iearnfinance) και [Medium](https://medium.com/iearn).
 
-Welcome to the 45th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you're interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
 
-## **Summary**
+## **Σύνοψη**
 
-- ALPHA and YFI Liquidity Providers Eligible For A Special NFT
-- Reminder To Migrate To V2
-- How To Swap Into Yearn Vaults
-- Cumulative Protocol Revenue Reaches $39M
-- Vaults at Yearn
-- Ecosystem News
+- Πάροχοι ρευστότητας ALPHA και YFI επιλέχτηκαν για ένα special NFT
+- Υπενθύμιση για μετεγκατάσταση στο V2
+- Πώς να ανταλλάξετε σε θησαυροφυλάκια Yearn
+- Τα έσοδα πρωτοκόλλου φτάνουν τα 39 εκατομμύρια $
+- Θησαυροφυλάκια στο Yearn
+- Νέα Οικοσυστήματος
 
-## **ALPHA and YFI Liquidity Providers Eligible For A Special NFT**
+## **Πάροχοι ρευστότητας ALPHA και YFI επιλέχτηκαν για ένα special NFT**
 
 ![](./image2.jfif)
 
-Liquidity providers for the Uniswap ETH/YFI and Sushiswap ETH/YFI pools in Alpha Homora V2 pools will be eligible for a special NFT drop courtesy of Yearn, Alpha, and Project Galaxy.
+Οι πάροχοι ρευστότητας για τα pools Uniswap ETH/YFI και Sushiswap ETH/YFI στα pools Alpha Homora V2 θα είναι επιλέξιμοι για μια ειδική παραλαβή NFT από τους Yearn, Alpha και Project Galaxy.
 
-This drop will last 3 full days, from 9/3-9/9. Users that open/have existing positions in eligible pools will be able to claim their NFT on Project Galaxy's website [here](https://galaxy.eco/AlphaFinanceLab/campaign/117).
+Αυτή η παραλαβή θα διαρκέσει 3 ολόκληρες ημέρες, από 9/3-9/9. Οι χρήστες που ανοίγουν/έχουν υπάρχουσες θέσεις σε επιλεγμένα pools θα μπορούν να διεκδικήσουν το NFT τους στον ιστότοπο του Project Galaxy [εδώ](https://galaxy.eco/AlphaFinanceLab/campaign/117).
 
-Note that users will only be able to claim their NFT during the window and must claim with the wallet address that has the positions currently open
+Λάβετε υπόψη ότι οι χρήστες θα μπορούν να διεκδικήσουν το NFT τους μόνο κατά τη διάρκεια του παραπάνω χρονικού διαστήματος και πρέπει να διεκδικήσουν με τη διεύθυνση πορτοφολιού που έχει τις θέσεις ανοιχτές αυτήν τη στιγμή
 
-View more details [here](https://twitter.com/AlphaFinanceLab/status/1433689307152195591).
+Δείτε περισσότερες λεπτομέρειες [εδώ](https://twitter.com/AlphaFinanceLab/status/1433689307152195591).
 
-## **Reminder To Migrate To V2**
+## **Υπενθύμιση για μετεγκατάσταση στο V2**
 
-As v2 has been live for months, the v1 vaults have been deprecated and strategies have been shut down, with users still in the vaults earning no yield. These vaults have served the DeFi community over a year as a reliable source of yield, and now, it's time for an upgrade. As a reminder, our v2 vaults entail several changes such as deploying capital across several strategies for more efficiency and better risk-adjusted yield. You can migrate to v2 at any time without fees.
+Καθώς το v2 είναι διαθέσιμο εδώ και μήνες, τα θησαυροφυλάκια του v1 έχουν καταργηθεί και οι στρατηγικές έχουν κλείσει, με τους χρήστες που εξακολουθούν να βρίσκονται στα θησαυροφυλάκια να μην κερδίζουν καμία απόδοση. Αυτά τα θησαυροφυλάκια έχουν χρησιμεύσει στην κοινότητα του DeFi για ένα χρόνο ως αξιόπιστη πηγή απόδοσης και τώρα, ήρθε η ώρα για αναβάθμιση. Υπενθυμίζουμε ότι τα θησαυροφυλάκια του v2 συνεπάγονται πολλές αλλαγές, όπως η ανάπτυξη κεφαλαίων σε διάφορες στρατηγικές για μεγαλύτερη αποτελεσματικότητα και καλύτερη απόδοση προσαρμοσμένη στον κίνδυνο. Μπορείτε να κάνετε μετεγκατάσταση στο v2 ανά πάσα στιγμή χωρίς χρεώσεις.
 
-Check out the vaults here at [yearn.finance/vaults](https://yearn.finance/vaults).
-
-## **How To Swap Into Yearn Vaults**
+Δείτε τα θησαυροφυλάκια εδώ στη διεύθυνση [yearn.finance/vaults](https://yearn.finance/vaults).
+## **Πώς να ανταλλάξετε σε θησαυροφυλάκια Yearn**
 
 ![](image3.jfif)
 
-One of the best ways to do Yearn Vaults swaps funds from one vault to another is typically using [curve.fi](https://curve.fi/) or with zaps built into Yearn's UI. This is gas efficient, but may cost extra in slippage or additional fees.
+Ένας από τους καλύτερους τρόπους για να κάνετε Yearn Vaults ανταλλαγές κεφαλαίων από το ένα vault στο άλλο είναι συνήθως η χρήση του [curve.fi](https://curve.fi/) ή με τα zaps ενσωματωμένα στη διεπαφή χρήστη του Yearn. Αυτό εξοικονομεί χρεώσεις gas, αλλά μπορεί να κοστίσει επιπλέον σε slippage ή πρόσθετες χρεώσεις.
 
-Another way of migrating funds from Compound and AAVE to Yearn is with the use of [bowswap.finance](https://bowswap.finance/). It lets you withdraw from the protocol and deposit into a Yearn vault, with it additionally showing both protocol's APYs for comparison and allowing you to select multiple tokens at a time. No extra fees!
+Ένας άλλος τρόπος μεταφοράς κεφαλαίων από το Compound και το AAVE στο Yearn είναι με τη χρήση του [bowswap.finance](https://bowswap.finance/). Σας επιτρέπει να αποσύρετε από το πρωτόκολλο και να καταθέτετε σε ένα θησαυροφυλάκιο Yearn, με επιπλέον να εμφανίζει και τα δύο APY του κάθε πρωτοκόλλου για σύγκριση και να σας επιτρέπει να επιλέξετε πολλά tokens τη φορά. Χωρίς επιπλέον χρεώσεις!
 
-Thanks to [cryptouf](https://twitter.com/cryptouf) for curating this short guide.
+Ευχαριστούμε τον [cryptouf](https://twitter.com/cryptouf) για την επιμέλεια αυτού του σύντομου οδηγού.
 
-## **Cumulative Protocol Revenue Reaches $39M**
+## **Τα έσοδα πρωτοκόλλου φτάνουν τα 39 εκατομμύρια $**
 
 ![](image4.png)
 
-Yearn has earned over $39 million in revenue, since launch (excluding the interest earned by depositors). In the past 30 days, over $5 million dollars in revenue has been generated by the protocol. An extrapolation of this data projects annual revenue to be nearly $30 million.
+Η Yearn έχει κερδίσει έσοδα άνω των 39 εκατομμυρίων δολαρίων, από την κυκλοφορία του (χωρίς τους τόκους που κερδίζουν οι καταθέτες). Τις τελευταίες 30 ημέρες, πάνω από 5 εκατομμύρια δολάρια σε έσοδα έχουν δημιουργηθεί από το πρωτόκολλο. Μια επέκταση αυτών των δεδομένων προβλέπει ότι τα ετήσια έσοδα θα είναι σχεδόν 30 εκατομμύρια δολάρια.
 
-Yearn's cumulative revenue and other statistics are viewable [here](https://www.yfistats.com/).
+Τα σωρευτικά έσοδα της Yearn και άλλα στατιστικά στοιχεία μπορούν να προβληθούν [εδώ](https://www.yfistats.com/).
 
-## **Vaults At Yearn**
+## **Θησαυροφυλάκια στο Yearn**
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Μπορείτε να διαβάσετε μια λεπτομερή περιγραφή των στρατηγικών για όλα τα ενεργά yVault μας [εδώ](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-## **Ecosystem News**
+## **Νέα Οικοσυστήματος**
 
-[Keep3r Network v3 liquidity incentives](https://twitter.com/AndreCronjeTech/status/1434125562281332737)
+[Κίνητρα ρευστότητας Keep3r Network v3](https://twitter.com/AndreCronjeTech/status/1434125562281332737)
 
-[ySNX vault users qualify for an airdrop from Thales Markets](https://twitter.com/thalesmarket/status/1434889906657144834)
+[Οι χρήστες θησαυροφυλάκιου ySNX πληρούν τις προϋποθέσεις για airdrop από την Thales Markets](https://twitter.com/thalesmarket/status/1434889906657144834)
 
-[yvcrvSTETH added to abracadabra.money as a lending market](https://twitter.com/MIM_Spell/status/1430975000350281732?s=20)
+[Το yvcrvSTETH προστέθηκε στο abracadabra.money ως αγορά δανεισμού](https://twitter.com/MIM_Spell/status/1430975000350281732?s=20)
 
-[The Defiant breaks down the Yearn ecosystem](https://thedefiant.io/yearn-finance-ecosystem-breakdown-pushing-the-boundaries-of-human-coordination/)
+[The Defiant αναλύει το οικοσύστημα Yearn](https://thedefiant.io/yearn-finance-ecosystem-breakdown-pushing-the-boundaries-of-human-coordination/)
 
-[Yearn crvTricrypto coverage market live on cozy.finance](https://twitter.com/cozyfinance/status/1433602125792038913)
+[ Η κάλυψη αγοράς Yearn crvTricrypto είναι διαθέσιμη στο cozy.finance](https://twitter.com/cozyfinance/status/1433602125792038913)
