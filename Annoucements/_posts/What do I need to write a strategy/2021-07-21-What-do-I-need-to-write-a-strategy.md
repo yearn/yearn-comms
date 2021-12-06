@@ -1,15 +1,16 @@
 ---
 layout: post
-title:  "What do I need to write a strategy?"
+title:  "De quoi avez-vous besoin pour rédiger une stratégie?"
 categories: [ Annoucements ]
 image: ./What-do-I-need-to-write-a-strategy/image1.jpg
 author: Yearn
-translator:
-publish: false
+translator: Cryptouf  
+publish: true
 ---
 
 ![](image1.jpg) <br>
 
-Over $5M has been paid to [Yearn](https://t.me/yearnupdates) strategists in 2021. Today [@EthCC](https://twitter.com/EthCC/) [Facu](https://t.me/fameal) broke down what it takes to become a mighty strategist like himself. Check the video below for an amazing overview! 👇
+Plus de 5 millions de dollars ont été versés aux stratèges de [Yearn](https://t.me/yearnupdates) en 2021. Aujourd'hui, [@EthCC](https://twitter.com/EthCC/) [Facu](https:// t.me/fameal) a expliqué en details ce qu'il faut pour devenir un stratège efficace comme lui. Regardez la vidéo ci-dessous pour en avoir un aperçu! ??
+
 
 [https://www.youtube.com/watch?v=NVR3teJw0Y0](https://www.youtube.com/watch?v=NVR3teJw0Y0)
