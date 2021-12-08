@@ -62,7 +62,7 @@ Emeklilik fonları için henüz çok erken olsa da, daha maceracı fonlar ve bir
 
 ## ## Yönetim ve önemli protokol değişiklikleri
 
-Yearn Finance, yönetişim açısından en aktif protokollerden biridir. Genel olarak, teklifler önce yönetişim forumunda tartışılır ve daha sonra YIP (Yıl İyileştirme Önerisi) şeklinde zincirleme oylamaya giderler. Yearn ayrıca düzenli olarak [üç aylık kazanç raporu](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q1-yearn-quarnly-report.pdf) sağlayan ilk DeFi protokolüdür. Bunun DeFi alanında norm haline gelmesi gerektiğini düşünüyoruz.
+Yearn Finance, yönetişim açısından en aktif protokollerden biridir. Genel olarak, teklifler önce yönetişim forumunda tartışılır ve daha sonra YIP (Yıl İyileştirme Önerisi) şeklinde zincirleme oylamaya giderler. Yearn ayrıca düzenli olarak [üç aylık kazanç raporu](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q1-yearn-quarterly-report.pdf) sağlayan ilk DeFi protokolüdür. Bunun DeFi alanında norm haline gelmesi gerektiğini düşünüyoruz.
 
 ### YFI arzındaki değişiklik (0.Teklifve YIP-57)
 
