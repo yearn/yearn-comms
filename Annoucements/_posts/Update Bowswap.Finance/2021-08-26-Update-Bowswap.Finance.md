@@ -4,28 +4,28 @@ title:  "Update Bowswap"
 categories: [ Annoucements ]
 image: ./Update-Bowswap.Finance/image1.jpg
 author: Yearn
-translator:
+translator: Stathis
 publish: true
 ---
 
-# Bowswap.Finance [Update](https://t.me/yearnupdates/483)
+# Bowswap.Finance [Ενημέρωση](https://t.me/yearnupdates/483)
 
 It now has two parts:
 
-## 1. Between Yearn Vaults
+## 1. Μεταξύ των Yearn Vaults
 
 ![](image1.jpg)
 
-It swaps funds from one vault to another. There's no liquidity pool. It withdraws and redeposits into the desired vault. The only swaps it does is using Curve. If the vaults have a token in common (same metapool or 3CRV for example) it will use them. While it's not cheap gas-wise, it is gas efficient - Cheaper than doing it manually, for sure
+Ανταλλάσσει κεφάλαια από το ένα θησαυροφυλάκιο στο άλλο. Δεν υπάρχει pool ρευστότητας. Αποσύρει και επανακαταθέτει στο επιθυμητό θησαυροφυλάκιο. Οι μόνες ανταλλαγές που κάνει είναι να χρησιμοποιεί το Curve. Εάν τα θησαυροφυλάκια έχουν κοινό token (ίδια metapool ή 3CRV για παράδειγμα) θα τα χρησιμοποιήσει. Αν και δεν είναι φθηνό όσον αφορά το gas, είναι αποδοτικό - Φθηνότερο από το να το κάνετε με το χέρι, σίγουρα.
 
-## 2. From DeFi to Yearn Vaults
+## 2. Από DeFi σε Yearn Vaults
 
-[Bowswap.finance](https://bowswap.finance/), now with simple migration to the best yield available. Migrate from AAVE and Compound to Yearn Finance in a few clicks, with no fees.
+[Bowswap.finance](https://bowswap.finance/), τώρα με απλή μετάβαση στην καλύτερη διαθέσιμη απόδοση. Μετεγκατάσταση από το AAVE και το Compound στο Yearn Finance με λίγα κλικ, χωρίς χρέωση.
 
-Sorry Stani
+Σόρρυ Stani
 
 ![](image2.jpg)
 
-This next feature helps users migrate funds from Compound and AAVE to Yearn. It's the same concept as above, withdraw from the protocol and deposit into a Yearn Vault. Also shows both protocol's APY in the list and let's you select multiple tokens at the same time.
+Αυτή η επόμενη δυνατότητα βοηθά τους χρήστες να μεταφέρουν χρήματα από το Compound και το AAVE στο Yearn. Είναι η ίδια ιδέα με την παραπάνω, αποσύρετε από το πρωτόκολλο και καταθέστε σε ένα Yearn Vault. Εμφανίζει επίσης το APY και των δύο πρωτοκόλλων στη λίστα και σας επιτρέπει να επιλέξετε πολλά tokens ταυτόχρονα.
 
-No fees are charged by Yearn on these swaps.
+Δεν χρεώνονται προμήθειες από τo Yearn σε αυτές τις ανταλλαγές.
