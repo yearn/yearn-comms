@@ -67,7 +67,7 @@ Découvrez les nouveaux documents [ici](https://docs.yearn.finance/).
 ## La YIP-64 n'a pas atteind le Quorum
 
 
-![](image4.png)
+![](image3.png)
 
 YIP-64 : Ajuster les frais sur les yVaults non stables est entré dans la phase de vote et s'est terminé par un vote majoritaire contre l'ajustement des frais.
 
@@ -75,7 +75,7 @@ Consultez la proposition [ici](https://snapshot.org/#/ybaby.eth/proposal/0xfe729
 
 ## Yearn délègue 23 millions de veCRV à Convexe
 
-![](image5.png)
+![](image4.png)
 
 Yearn a délégué 23 millions de veCRV à Convex Finance à l'aide de la nouvelle fonctionnalité native de délégation de boost de Curve. Cela augmentera les rendements des pools d'usine pour nos deux DAO. Cela n'affecte pas les pools réguliers, les frais ou le vote.
 
