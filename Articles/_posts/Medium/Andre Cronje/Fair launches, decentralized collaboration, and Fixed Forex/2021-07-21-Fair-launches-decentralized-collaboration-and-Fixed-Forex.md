@@ -1,103 +1,103 @@
 ---
 layout: post
-title:  "Fair launches, decentralized collaboration, and Fixed Forex"
+title:  "Faire Markteinführungen, dezentrale Zusammenarbeit und feste Devisen"
 categories: [ Articles ]
 image: ./Fair-launches-decentralized-collaboration-and-Fixed-Forex/andre-hero.png
 author: Andre
-translator:
-publish: false
+translator: Nesyeth
+publish: true
 ---
 
-# Fair launches, decentralized collaboration, and Fixed Forex
+# Faire Markteinführungen, dezentrale Zusammenarbeit und feste Devisen
 
-**\-Fair launches-**
+**\-Faire Markteinführungen-**
 
-It took awhile for me to finally realize the essence behind a fair launch. It isn’t giving the tokens away, it isn’t because there was no presale, simply put, it was because everyone had the same advantage, everyone had the same ruleset, there was no secret “friends and family” round, seed rounds, influencer allocation, there were no whitelists, no capped participation, the rules were provided, and anyone could participate. I finally feel comfortable in saying a fair launch, is a launch in which all participants have the same ruleset.
+Es hat eine Weile gedauert, bis ich endlich begriffen habe, was hinter einer fairen Markteinführung steckt. Es geht nicht darum, die Token zu verschenken, es geht nicht darum, dass es keinen Vorverkauf gab, sondern einfach darum, dass jeder den gleichen Vorteil hatte, jeder hatte die gleichen Regeln, es gab keine geheime "Freunde und Familie"-Runde, keine Seed-Runden, keine Influencer-Zuteilung, es gab keine Whitelists, keine Teilnahmebeschränkung, die Regeln wurden zur Verfügung gestellt, und jeder konnte teilnehmen. Ich kann mit gutem Gewissen sagen, dass ein fairer Start ein Start ist, bei dem für alle Teilnehmer die gleichen Regeln gelten.
 
-**\-Decentralized collaboration-**
+**\-Dezentralisierte Zusammenarbeit-**
 
-I still see a lot of tribalism, I guess that’s understandable, I never understood how people became so tribal over sport teams, I’ve started to wonder how much of that tribalism is because of betting on the teams, afterall, that’s what crypto is, betting on your favorite team. Just like I never understood the tribalism in sports, I also don’t understand it in crypto. By my standards, I simply see “right” and “wrong”, doesn’t matter if its a team I’m associated with or not, if I see the “right”, I praise it, if I see the “wrong”, I scold it.
+Ich sehe immer noch viel Tribalismus, ich schätze, das ist verständlich, ich habe nie verstanden, wie die Leute so besessen von Sportteams geworden sind, ich habe angefangen, mich zu fragen, wie viel von diesem Tribalismus wegen der Wetten auf die Teams ist, schließlich ist es das, was Krypto ist, Wetten auf dein Lieblingsteam. So wie ich den Tribalismus im Sport nie verstanden habe, verstehe ich ihn auch in der Kryptowelt nicht. Nach meinen Maßstäben sehe ich einfach "richtig" und "falsch", egal, ob es sich um ein Team handelt, mit dem ich verbunden bin oder nicht, wenn ich das "Richtige" sehe, lobe ich es, wenn ich das "Falsche" sehe, verurteile ich es.
 
-But I think some teams, often discount the value in collaboration, its something I always enjoyed about yveCRV, and by extention, its clones, stCRV and cvxCRV, its the product of collaboration between curve, yearn, sushi, and pickle. It can’t exist without all those entities. Same reason before yveCRV, the y pool was my pride and joy, it was the collaboration between curve, yearn, aave, compound, and dydx.
+Aber ich denke, dass einige Teams oft den Wert der Zusammenarbeit außer Acht lassen. Das ist etwas, was mir an yveCRV immer gefallen hat, und damit auch an seinen Klonen, stCRV und cvxCRV, es ist das Produkt der Zusammenarbeit zwischen curve, yearn, sushi und pickle. Es kann ohne all diese Entitäten nicht existieren. Aus demselben Grund war vor yveCRV der y-Pool mein ganzer Stolz, er war das Ergebnis der Zusammenarbeit zwischen curve, yearn, aave, compound und dydx.
 
-With this in mind, I realized, to continue to succeed, products can’t be isolated, they need to be an amalgamation of products and teams. My original iteration of Fixed Forex was standalone, unupgradable, ungovernable, without any value extraction, and tokenless.
+Vor diesem Hintergrund wurde mir klar, dass Produkte nicht isoliert sein können, sondern dass sie eine Verschmelzung von Produkten und Teams sein müssen, um weiterhin erfolgreich zu sein. Meine ursprüngliche Iteration von festen Devisen war eigenständig, nicht erweiterbar, nicht verwaltbar, ohne jegliche Wertschöpfung und ohne Token.
 
-**\-Fixed Forex-**
+**\-Feste Devisen (Fixed Forex)-**
 
-We keep talking about disrupting exchange control, we keep talking about disrupting fiat, in their own way, Tether and Circle did more for disrupting exchange control, than crypto did, exchange control tends to have a simple rule, money can’t leave its territory without special permission. Both Tether and Circle take deposits locally, the fiat never leaves the bank account, thus no exchange control (in theory, in practice and regulation its a very different story). So let’s consider you want to make a payment from the US to Korea, from USD to KRW, a “simple” path, would be deposit USD for USDT, transfer USDT to Upbit, swap USDT for KRW, withdraw KRW.
+Wir sprechen immer wieder über die Störung der Devisenkontrolle, wir sprechen immer wieder über die Störung des Fiat, auf ihre eigene Art und Weise, Tether und Circle haben mehr für die Störung der Devisenkontrolle getan, als Krypto. Sowohl Tether als auch Circle nehmen Einlagen vor Ort entgegen, das Fiat-Geld verlässt nie das Bankkonto, daher gibt es keine Devisenkontrolle (in der Theorie, in der Praxis und bei der Regulierung sieht es ganz anders aus). Nehmen wir also an, du möchtest eine Zahlung von den USA nach Korea tätigen, von USD zu KRW. Ein "einfacher" Weg wäre die Einzahlung von USD für USDT, der Transfer von USDT zu Upbit, der Tausch von USDT in KRW und die Abhebung von KRW.
 
-Fixed Forex is designed to accomplish the above without end users being aware or knowledgeable of the steps, Fixed Forex has two core components, forex on-chain liquidity, and decentralized fiat on and off ramps.
+Die festen Devisen wurde entwickelt, um die oben genannten Ziele zu erreichen, ohne dass die Endnutzer sich der Schritte bewusst sind oder sie kennen. Feste Devisen bestehen aus zwei Kernkomponenten: Devisen mit auf-der-Kette-Liquidität und dezentralisierte Fiat-an- und aus-Rampen.
 
-While I am most excited about the latter, its go-live date is only possible after we achieve on-chain liquidity. So for purposes of this article, we will explain how Fixed Forex works, and how users can participate.
+Obwohl ich von letzterem am meisten begeistert bin, ist der Starttermin erst möglich, wenn wir die Liquidität auf der Kette erreicht haben. In diesem Artikel werden wir daher erklären, wie die festen Devisen funktionieren und wie Nutzer daran teilnehmen können.
 
-**\-Iron Bank Fixed Forex (ibff)-**
+**\-Iron Bank Feste Devisen (ibff)-**
 
-Fixed Forex leveraged Iron Bank, Yearn, Sushi, and Curve
+Feste Devisen unterstützen Iron Bank, Yearn, Sushi, und Curve
 
 ![](image1.jpg)
 
-**Disclaimers;**
+**Haftungsausschlüsse**
 
-- Unaudited.
-- 0 benefit for early participation, only risk.
-- The initial token distribution will be a fraction of the emission, this serves only for testing purposes.
-- Given the incredibly low initial distribution, do not buy these tokens, do not provide liquidity for these tokens, you will lose money.
+- Ungeprüft
+- 0 Nutzen für eine frühe Teilnahme, nur Risiko.
+- Die anfängliche Token-Ausschüttung wird ein Bruchteil der Ausgaben sein, dies dient nur zu Testzwecken.
+- Angesichts der unglaublich niedrigen anfänglichen Ausschüttung, kaufe diese Token nicht, stelle keine Liquidität für diese Token bereit, da du sonst Geld verlieren wirst.
 
-Fixed Forex is the collective name for USD, EUR, ZAR, JPY, CNY, AUD, AED, CAD, INR, and any other forex pairs launched under the Fixed Forex moniker.
+Feste Devisen ist der Sammelname für USD, EUR, ZAR, JPY, CNY, AUD, AED, CAD, INR und alle anderen Feste Devisen-Paare, die unter dem Namen Fixed Forex eingeführt werden.
 
-The first available option is [ibEUR](https://www.coingecko.com/en/coins/iron-bank-euro) which can be minted via [yearn.fi/lend](https://yearn.fi/lend)
+Die erste verfügbare Option ist [ibEUR](https://www.coingecko.com/en/coins/iron-bank-euro), die über [yearn.fi/lend](https://yearn.fi/lend) gemintet werden kann.
 
 ![](image2.png)
 
-All forex options can be minted via any of the accepted collateral on [yearn.fi](https://yearn.fi/lend)
+Alle Devisen-Optionen können über eine der akzeptierten Sicherheiten auf [yearn.fi](https://yearn.fi/lend) gemintet werden.
 
 ![](image3.png)
 
-For up to date collateral factors, you can visit the Iron Bank documentation, [here](https://docs.cream.finance/iron-bank/collateral-and-reserve-factor)
+Die aktuellen Sicherheitenfaktoren findest du in der Iron Bank-Dokumentation, [hier](https://docs.cream.finance/iron-bank/collateral-and-reserve-factor)
 
-Each forex pair will target 2 liquidity pools;
+Jedes Devisenpaar wird auf 2 Liquiditätspools ausgerichtet;
 
 ib\*/\* ([curve.fi](https://curve.fi/))  
 ib\*/ETH ([sushi.com](https://sushi.com/))
 
 ![](image4.png)
 
-For each asset, liquidity providers will have four available yield options;
+Für jeden Vermögenswert stehen den Liquiditätsanbietern vier Renditeoptionen zur Verfügung;
 
-1.  Provide ib\* to [yearn.fi/lend](https://yearn.fi/lend) and earn interest (currently 6.38%)
-2.  Provide ib\*/ETH to [sushi.com](https://sushi.com/) (currently 390%)
-3.  Provide ib\*/\* to [curve.fi](https://curve.fi/) (pool pending)
-4.  Stake in Iron Bank Fixed Forex and earn the native token IBFF (vested, veIBFF)
+1.  Bereitstellung von ib* auf [yearn.fi/lend](https://yearn.fi/lend) und Zinsen erhalten (derzeit 6,38%)
+2.  Bereitstellung von ib\*/ETH an [sushi.com](https://sushi.com/) (derzeit 390%)
+3.  Bereitstellung von ib\*/\* für [curve.fi](https://curve.fi/) (Pool in Vorbereitung)
+4.  Stake in Iron Bank Fixed Forex und verdienen das native Token IBFF (vested, veIBFF)
 
 \-veIBFF-
 
-The IBFF mechanism is complex, and should be carefully understood before participating.
+Der IBFF-Mechanismus ist komplex und sollte vor der Teilnahme sorgfältig verstanden werden.
 
-The initial launch will target only a single pool, [ibEUR/ETH](https://analytics.sushi.com/tokens/0x96e61422b6a9ba0e068b6c5add4ffabc6a4aae27)
+Die anfängliche Einführung zielt nur auf einen einzigen Pool ab, [ibEUR/ETH](https://analytics.sushi.com/tokens/0x96e61422b6a9ba0e068b6c5add4ffabc6a4aae27)
 
-As an LP you can stake the LP token in the IBFF [faucet](https://etherscan.io/address/0x7d254d9adc588126edaee52a1029278180a802e8), this provides a fractional token drip, this is required to create a token lock in the vesting contract, [veIBFF](https://etherscan.io/address/0x4d0518c9136025903751209ddddf6c67067357b1).
+Als LP kannst du den LP-Token in den IBFF [faucet](https://etherscan.io/address/0x7d254d9adc588126edaee52a1029278180a802e8) einbringen, der einen Bruchteil des Token-Tropfens liefert, der erforderlich ist, um eine Token-Sperre im Vesting-Kontrakt [veIBFF](https://etherscan.io/address/0x4d0518c9136025903751209ddddf6c67067357b1) zu erzeugen.
 
-The system’s true native token is veIBFF, or vested IBFF, veIBFF earns protocol fees, these fees are dynamic based on supply and demand. Currently, these fees are 10.15% of TVL.
+Der eigentliche systemeigene Token ist veIBFF, oder vested IBFF, veIBFF verdient Protokollgebühren, diese Gebühren sind dynamisch und basieren auf Angebot und Nachfrage. Derzeit betragen diese Gebühren 10,15% der TVL.
 
-IBFF owners can choose to create a vesting lock, up to 4 years, with linear decay on the veIBFF [contract](https://etherscan.io/address/0x4d0518c9136025903751209ddddf6c67067357b1)
+IBFF-Eigentümer können eine Sperrfrist von bis zu 4 Jahren mit linearem Verfall für den veIBFF [Vertrag](https://etherscan.io/address/0x4d0518c9136025903751209ddddf6c67067357b1) festlegen.
 
-Once a lock has been created, LPs can stake ibEUR/ETH in the distribution [contract](https://etherscan.io/address/0x1da8a6fe33bd35b99505d67843eec9fa124f2d4b), the distribution contract will distribute tokens every 7 days linearly.
+Sobald eine Sperre erstellt wurde, können LPs ibEUR/ETH in den [Verteilungsvertrag](https://etherscan.io/address/0x1da8a6fe33bd35b99505d67843eec9fa124f2d4b) investieren. Der Verteilungsvertrag wird die Token alle 7 Tage linear verteilen.
 
-Distribution tokens are rewarded based on your vesting lock. If the vesting lock is 1 years, you receive 1/4 tokens as veIBFF, which will become unlocked in 1 year. The remainder 3/4 tokens is distributed to the fee distribution [contract](https://etherscan.io/address/0x83893c4a42f8654c2dd4ff7b4a7cd0e33ae8c859).
+Verteilungs-Token werden auf der Grundlage deiner Sperrfrist vergütet. Wenn die Sperrfrist 1 Jahr beträgt, erhälst du 1/4 Token als veIBFF, die in 1 Jahr freigeschaltet werden. Die verbleibenden 3/4 Token werden auf den [Gebührenverteilungsvertrag](https://etherscan.io/address/0x83893c4a42f8654c2dd4ff7b4a7cd0e33ae8c859) verteilt.
 
-veIBFF holders have two weekly claims, claim 1 is protocol accumulated fees (10.15% of TVL currently), and distributed IBFF from the [distribution contract](https://etherscan.io/address/0x83893c4a42f8654c2dd4ff7b4a7cd0e33ae8c859).
+VeIBFF-Inhaber haben zwei wöchentliche Ansprüche, Anspruch 1 ist das Protokoll der aufgelaufenen Gebühren (10,15% der TVL derzeit), und verteilte IBFF aus dem [Vertriebsvertrag](https://etherscan.io/address/0x83893c4a42f8654c2dd4ff7b4a7cd0e33ae8c859).
 
-Simply put, the greater your time investment, the more disproportionate your reward.
+Einfach ausgedrückt, je mehr Zeit du investierst, desto unverhältnismäßiger ist deine Belohnung.
 
-**Disclaimers;**
+**Haftungsausschlüsse;** 
 
-- Unaudited.
-- 0 benefit for early participation, only risk.
-- The initial token distribution will be a fraction of the emission, this serves only for testing purposes.
-- Given the incredibly low initial distribution, do not buy these tokens, do not provide liquidity for these tokens, you will lose money.
+- Ungeprüft.
+- 0 Nutzen für eine frühe Teilnahme, nur Risiko.
+- Die anfängliche Token-Ausschüttung wird ein Bruchteil der Ausgaben sein, dies dient nur zu Testzwecken.
+- In Anbetracht der unglaublich niedrigen anfänglichen Ausschüttung, kaufe Sie diese Token nicht, biete keine Liquidität für diese Token, da du Geld verlieren wirst.
 
 **Links;**
 
 [Forum](https://gov.yearn.finance/c/projects/fixed-forex/26)  
 [Website](https://yearn.fi/lend)  
-No social media
+Keine sozialen Medien
