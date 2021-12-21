@@ -1,98 +1,98 @@
 ---
 layout: post
-title:  "What is Yearn"
+title:  "यर्न क्या है"
 categories: [ Tweets ]
 image: ./What-is-Yearn/3_1446243220468293632.jpg
 author: Wot_Is_Goin_On
-translator:
-publish: false
+translator: Major_Rager
+publish: true
 ---
 
-original source: [twitter](https://twitter.com/Wot_Is_Goin_On/status/1446540007292952579)
+मूल स्रोत: [ट्विटर] (https://twitter.com/Wot_Is_Goin_On/status/1446540007292952579)
 
-##### 1
-People had difficulty understanding ETH in mid-2020. It wasn’t clear what the use case would be, TVL was at $8bn and hadn’t grown much in 18 months. Even out of those who believed in Ethereum, there was scepticism around how value would accrue to ETH.
+##### १
+२०२० के मध्य में लोगों को ETH को समझने में कठिनाई हुई। यह स्पष्ट नहीं था कि उपयोग का मामला क्या होगा, TVL $८bn पर था और १८ महीनों में बहुत अधिक नहीं बढ़ा था। एथेरियम में विश्वास करने वालों में से भी, इस बात पर संदेह था कि ETH का मूल्य कैसे अर्जित होगा।
 
-##### 2
-Fast forward to today and it’s clear there’s a lot that can be built on Ethereum (DeFi, NFTs and gaming), TVL has sky-rocketed to over $100bn and throw in a token burn mechanism and people understand how value accrues to the native token.
+##### २
+आज यह स्पष्ट है कि एथेरियम (DeFi, NFT और गेमिंग) पर बहुत कुछ बनाया जा सकता है, TVL ने $१०० बिलियन से अधिक का आसमान छू लिया है और एक टोकन भस्म तंत्र स्थापित कर दें तो लोग समझ गये हैं कि मूल टोकन का मूल्य कैसे अर्जित होता है .
 
-##### 3
-In some ways the perception of Yearn today is similar to that of ETH in mid-2020, at least in terms of uncertainty over what will be built on Yearn, its future growth and value accrual to YFI. Even Yearn’s OGs are getting restless.
+##### ३
+कुछ मायनों में आज यर्न की धारणा २०२० के मध्य में ETH के समान है, कम से कम अनिश्चितता के संदर्भ में कि यर्न पर क्या बनाया जाएगा, इसकी भविष्य की वृद्धि और YFI के लिए मूल्य अर्जित किया जाएगा। यहां तक कि यर्न के OG भी बेचैन हो रहे हैं।
 
 ![3_1446534086277861380](3_1446534086277861380.jpg)
 
-##### 4
-Yearn’s TVL has reached an all-time high of over $5bn TVL, achieving this without offering incentives. This is higher than the much-hyped Avalanche and Polygon that trade at multiples compared to YFI.
+##### ४
+यर्न का TVL $५ अरब से अधिक के अब तक के उच्चतम स्तर पर पहुंच गया है और बिना किसी प्रोत्साहन के इसे हासिल कर लिया है। यह बहुप्रचारित Avalanche और Polygon से अधिक है जो YFI की तुलना में गुणकों पर व्यापार करता है।
 
-##### 5
-Its vaults have been integrated into Badger, Enzyme Finance, Argent Wallet, [Crypto.com](http://Crypto.com) and the MEW Wallet app on Android. Making vaults widely accessible is a great start, but Yearn is waiting for its killer dapp.
+##### ५
+इसकी तिजोरी को Badger, Enzyme फाइनेंस, Argent वॉलेट, [Crypto.com] (http://Crypto.com) और Android पर MEW वॉलेट ऐप में एकीकृत किया गया है। तिजोरी को व्यापक रूप से सुलभ बनाना एक शानदार शुरुआत है, लेकिन यर्न अपने घातक डैप की प्रतीक्षा कर रहा है।
 
 [medium.com/myetherwallet/…](https://medium.com/myetherwallet/introducing-yearn-vaults-on-mew-wallet-app-android-274818aa830e)
 
-##### 6
-The first dapp built on Yearn to get product market fit was Alchemix’s self-repaying loans. The sudden jumps in yvDai in early 2021 shown below happened as Yearn had to quickly increase the limits of its most popular vault to keep up with the demand.
+##### ६
+उत्पाद बाजार में फिट होने के लिए यर्न पर बनाया गया पहला डैप Alchemix का स्व-भुगतान ऋण था। २०२१ की शुरुआत में yvDai में अचानक उछाल नीचे दिखाया गया है। यह हुआ क्योंकि यर्न को मांग को पूरा करने के लिए अपनी सबसे लोकप्रिय तिजोरी की सीमा को जल्दी से बढ़ाना पड़ा।
 
 ![3_1446534659123335169](3_1446534659123335169.jpg)
 
-##### 7
-[@PoolTogether\_](https://twitter.com/PoolTogether_)’s no-loss lottery also opted to earn yield with Yearn. In the UK there’s over £100bn ($140bn) in premium bonds where the lottery distributes a depressing 1% annual yield.
+##### ७
+[@PoolTogether\_](https://twitter.com/PoolTogether_) की नुकसान-रहित लॉटरी ने भी यर्न के साथ यील्ड कमाने का विकल्प चुना। UK में प्रीमियम बांड में £१००bn ($१४०bn) से अधिक है जहां लॉटरी एक निराशाजनक १% वार्षिक उपज वितरित करती है।
 
-##### 8
-If [@element_fi](https://twitter.com/element_fi) can crack fixed income, with Yearn’s vaults (the “yv” tokens) in the background, then we’re talking a total addressable market in the trillions.
+##### ८
+अगर [@element_fi](https://twitter.com/element_fi) पृष्ठभूमि में यर्न की तिजोरीयों ("yv" टोकन) के साथ निश्चित आय को तोड़ सकता है, तो हम कुल योग्य बाजार में खरबों की बात कर रहे हैं।
 
 ![3_1446535031292313608](3_1446535031292313608.jpg)
 
-##### 9
-[@ribbonfinance](https://twitter.com/ribbonfinance)’s put-selling vaults leverage DeFi’s composability so that the USDC is earning a yield with Yearn in the background.
+##### ९
+[@ribbonfinance](https://twitter.com/ribbonfinance) की पुट-सेलिंग तिजोरियाँ DeFi की कंपोज़ेबिलिटी का लाभ उठातीं हैं ताकि USDC बैकग्राउंड में यरन के साथ उपज कमा सके।
 
 ![3_1446535099063885835](3_1446535099063885835.jpg)
 
-##### 10
-[@longlongfinance](https://twitter.com/longlongfinance) is also available to diversify your principal and yield into different assets.
+##### १०
+[@longlongfinance](https://twitter.com/longlongfinance) आपके मूलधन में विविधता लाने और अलग-अलग संपत्तियों में उपज देने के लिए भी उपलब्ध है।
 
-##### 11
-Despite all the interesting protocols so far, the protocols that bring the greatest adoption to Yearn probably haven’t been built yet but there’s plenty of teams working on it.
+##### ११
+अब तक के सभी दिलचस्प प्रोटोकॉल के बावजूद, यर्न को सबसे बड़ा अपनाने वाले प्रोटोकॉल शायद अभी तक नहीं बनाए गए हैं, लेकिन इस पर बहुत सारी टीमें काम कर रही हैं।
 
 ![3_1446535242404274176](3_1446535242404274176.jpg)
 
-##### 12
-With Yearn going multi-chain there’s potential for different types of dapps on each chain. [twitter.com/iearnfinance/s…](https://twitter.com/iearnfinance/status/1446243257336229912?s=20)
+##### १२
+यर्न की मल्टी-चेन स्थाप्ना के साथ प्रत्येक चेन पर विभिन्न प्रकार के डैप की संभावना है। [twitter.com/iearnfinance/s…](https://twitter.com/iearnfinance/status/1446243257336229912?s=20)
 
 > ![iearnfinance](earnfinance-1223779978459770880.jpg)
 > yearn.finance ([@iearnfinance](https://twitter.com/iearnfinance))
 
-> The Realm of Multichain beckons.
+> मल्टीचैन का दायरा बुलावा दें रहा है।
 
-And Yearn has heeded the call. 📯
+और यर्न ने बुलावा सुन लिया है। 📯
 
-Today, we go multichain with the launch of Iron Bank Fantom and the first Fantom vaults on [beta.yearn.finance](http://beta.yearn.finance)🧵
+आज, हम [beta.yearn.finance](http://beta.yearn.finance)🧵 पर आयरन बैंक Fantom और पहले Fantom तिजोरीयों की स्थापना के साथ मल्टीचेन की ओर बढ़ रहे हैं।
 
-> ![3_1446243220468293632](3_1446243220468293632.jpg)
+> ![3_1446243220468293632](3_1446243220468293632.जेपीजी)
 
-##### 13
-The people calling for the death of DeFi on Ethereum may need to zoom out. Yearn’s Q3 2021 TVL was $4.6bn, nearly 300% higher than 12 months before. Q3 2021 annualised revenue was over $60m, up nearly 400% over the year.
+##### १३
+एथेरियम पर DeFi की मौत का आह्वान करने वाले लोगों को बड़े दृश्य देखने की आवश्यकता हो सकती है। यर्न का Q३ २०२१ TVL $४.६bn था, जो १२ महीने पहले की तुलना में लगभग ३००% अधिक था। Q३ २०२१ का वार्षिक राजस्व $६०m से अधिक था, वर्ष भर में लगभग ४००%।
 
 ![3_1446536804035960832](3_1446536804035960832.jpg)
 
-##### 14
-The criticism around lack of value accrual is one that can be easily fixed. However, the challenge is to design tokenomics that incentivize growth and sustainability of the protocol in terms of contributors and TVL, as well as value accrual.
+##### १४
+मूल्य संचय की कमी के बारे में आलोचना वह है जिसे आसानी से ठीक किया जा सकता है। हालांकि, चुनौती ऐसे टोकनोमिक्स को डिजाइन करना है जो योगदानकर्ताओं और TVL के साथ-साथ मूल्य संचय के संदर्भ में प्रोटोकॉल के विकास और स्थिरता को प्रोत्साहित करते हैं।
 
-##### 15
-It took Ethereum 5+ years to implement EIP-1559, and 2022 brings the migration to PoS that will reward ETH stakers instead of miners. And when cartoon animals are incentivized to figure things out, things usually get figured out.
+##### १५
+EIP-१५५९ को लागू करने में एथेरियम को ५+ साल लगे, और २०२२ PoS में माइग्रेशन लाता है जो खनिकों के बजाय ETH स्टेकर्स को पुरस्कृत करेगा। और जब कार्टून जानवरों को चीजों का पता लगाने के लिए प्रोत्साहित किया जाता है, तो आमतौर पर चीजों का पता चल जाता है।
 
 [gov.yearn.finance/t/call-for-ide…](https://gov.yearn.finance/t/call-for-ideas-yfi-tokenomics-revamp/11573/5)
 
-##### 16
-The sustainability of liquidity mining and competition on fees, and the pace of innovation in DeFi, mean that nothing is guaranteed of course!
+##### १६
+तरलता खनन की स्थिरता और फीस पर प्रतिस्पर्धा, और DeFi में नवाचार की गति का मतलब है कि निश्चित रूप से कुछ भी गारंटी नहीं है!
 
-##### 17
-But these worries can be brushed aside safe in the knowledge that this guy deployed Yearn’s first smart contract.
+##### १७
+लेकिन इन चिंताओं को इस ज्ञान में सुरक्षित रखा जा सकता है कि इस व्यक्ति ने यर्न का पहला स्मार्ट कोंट्रैक्ट तैनात किया है।
 
-[twitter.com/CFantom777/sta…](https://twitter.com/CFantom777/status/1446366012421468162?s=20)
+[ट्विटर.com/CFantom777/sta…](https://twitter.com/CFantom777/status/1446366012421468162?s=20)
 
 > ![CFantom777](CFantom777-1387931745832497152.jpg)
 > Fantom_Memes ([@CFantom777](https://twitter.com/CFantom777))
 
-> Damn it feels good to be a fantie
+> फैंटी होना बहुत आनंद जनक है
 
 [$FTM](https://twitter.com/search?q=%24FTM) [#Fantom](https://twitter.com/hashtag/Fantom) [#cryptocurrency](https://twitter.com/hashtag/cryptocurrency) [#andrecronje](https://twitter.com/hashtag/andrecronje) [pic.twitter.com/B1tTP48nqN](https://twitter.com/CFantom777/status/1446366012421468162/video/1)
