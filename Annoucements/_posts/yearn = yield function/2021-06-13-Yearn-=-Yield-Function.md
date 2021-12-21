@@ -1,23 +1,23 @@
 ---
 layout: post
-title:  "What if Yearn = the web's yield function?"
+title:  "क्या होगा अगर यर्न वेब का यील्ड फंक्शन हो तो ?"
 categories: [ Annoucements ]
 image: ./Yearn-=-Yield-Function/yield1.jpg
-author: Yearn
-translator:
+author: यर्न
+translator: jengajojo
 publish: false
 ---
 
 ![](yield1.jpg)
 
-# What if Yearn = the web's "yield function"?
+# क्या होगा अगर यर्न वेब का यील्ड फंक्शन हो तो?
 
-In programming a "function" is a little bundle of reusable code that accomplishes a specific task… You can summon that function anytime, and it will do the same thing over and over again without fail.
+प्रोग्रामिंग में एक "फ़ंक्शन" पुन: प्रयोज्य कोड का एक छोटा बंडल है जो एक विशिष्ट कार्य को पूरा करता है ... आप उस फ़ंक्शन को कभी भी बुला सकते हैं, और यह बिना किसी असफलता के बार-बार वही काम करेगा।
 
-With Yearn, devs anywhere on earth can take our yields and insert them into any financial flow.
+यर्न के साथ, पृथ्वी पर कहीं भी डेवेलपर्स हमारी उपज ले सकते हैं और उन्हें किसी भी वित्तीय प्रवाह में डाल सकते हैं।
 
-People talk about money legos. Yearn isn't so much a lego as the plastic other DeFi projects can use to build their own legos.
+लोग पैसे लेगो के बारे में बात करते हैं। यर्न लेगो नहीं है बल्कि एक प्लास्टिक हैं जो अन्य DeFi परियोजनाएं अपने स्वयं के लेगो बनाने के लिए उपयोग कर सकती हैं।
 
-Just as the Internet of Information uses APIs for data, the Internet of Value will use Yearn for yield. Anywhere value lies dormant (for days, hours... even minutes), Yearn will go.
+जिस तरह इंटरनेट ऑफ इंफॉर्मेशन डेटा के लिए एपीआई का इस्तेमाल करता है, उसी तरह इंटरनेट ऑफ वैल्यू यील्ड के लिए यर्न का इस्तेमाल करेगा। जहाँ कहीं भी मूल्य निष्क्रिय रहता है (दिन, घंटे, यहां तक कि मिनटों के लिए), यर्न वहां जाएगा।
 
-And that means Yearn could become as big as the Internet of Value itself. Like blockchains, it could come to underlie all financial flows -- all value flows.
+और इसका मतलब है कि यर्न इंटरनेट ऑफ वैल्यू जितना बड़ा हो सकता है। ब्लॉकचेन की तरह, यह सभी वित्तीय प्रवाहों - सभी मूल्य प्रवाहों का आधार बन सकता है।
