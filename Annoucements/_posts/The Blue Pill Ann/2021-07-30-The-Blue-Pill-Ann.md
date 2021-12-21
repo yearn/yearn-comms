@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "The Blue Pill"
+title:  "एक नीली गोली"
 categories: [ Annoucements ]
 image: ./The-Blue-Pill-Ann/thebluebook.jpg
 author: Yearn
-translator:
+translator: jengajojo
 publish: true
 ---
 
-Today we invite you to celebrate the first year of Yearn with [The Blue Pill](https://medium.com/iearn/the-blue-pill-ca44ed01f16f), a spiritual guide for the past, present and future of Yearn. A beautifully-typeset book is available to our 13,500 most loyal supporters.
+आज हम आपको [एक नीली गोली](https://medium.com/iearn/the-blue-pill-ca44ed01f16f) के साथ यर्न के पहले वर्ष का जश्न मनाने के लिए आमंत्रित करते हैं, जो कि यर्न के अतीत, वर्तमान और भविष्य के लिए एक आध्यात्मिक मार्गदर्शक है। हमारे १३५०० सबसे वफादार समर्थकों के लिए एक सुंदर-टाइपसेट पुस्तक उपलब्ध है।
 
-Your contribution is immortalized in a [set of seven unique NFTs](https://galaxy.eco/yearn) by
-[@Zemm_NFT](https://twitter.com/Zemm_NFT). Whether you are a farmer, a governor, a doer, or a giver, Yearn wouldn't have been the same without you. You are all necessary.
+आपका योगदान [सात अद्वितीय एनएफटी के सेट](https://galaxy.eco/yearn) में अमर है
+[@Zemm_NFT](https://twitter.com/Zemm_NFT)। चाहे आप किसान हों, राज्यपाल हों, कर्ता हों या देने वाले हों, आपके बिना यर्न नहीं होता। आप सभी आवश्यक हैं।
 
-This is an invitation to contribute. We attempt to answer what makes Yearn unique by diving deep into the magic of The Gift which has sparked the project. Keep the book close, or share it with a friend. Keep our story alive, you are already part of it.
+यह योगदान करने का निमंत्रण है। हम यह जवाब देने का प्रयास करते हैं कि 'द गिफ्ट' के जादू में गहराई से गोता लगाकर यर्न को क्या विशिष्ट बनाता है जिसने परियोजना को जन्म दिया है। पुस्तक को पास रखें, या किसी मित्र के साथ साझा करें। हमारी कहानी को जीवित रखें, आप पहले से ही इसका हिस्सा हैं।
