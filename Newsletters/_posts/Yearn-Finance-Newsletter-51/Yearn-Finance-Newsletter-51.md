@@ -90,7 +90,7 @@ Get in on Project Galaxy's Holiday Treasure Hunt and grab this Yearn Holiday Car
 
 Collect all 12 NFTs from Project Galaxy ecosystem partners and you'll get an additional Galaxy Girl NFT, which our friends at Project Galaxy will use to drop you future goodies. Probably nothing.
 
-Steps are as follows: subscribe to Yearn’s weekly [newsletter](https://yearn.substack.com/), confirm your (new or existing) subscription on this [Google form[(https://forms.gle/gsVpRsjdSXxyaXha9), and claim your rewards [here](https://galaxy.eco/yearn/campaign/GCTj8UUaoD). 
+Steps are as follows: subscribe to Yearn’s weekly [newsletter](https://yearn.substack.com/), confirm your (new or existing) subscription on this [Google form](https://forms.gle/gsVpRsjdSXxyaXha9), and claim your rewards [here](https://galaxy.eco/yearn/campaign/GCTj8UUaoD). 
 
 Happy hunting and happy holidays from Yearn!
 
