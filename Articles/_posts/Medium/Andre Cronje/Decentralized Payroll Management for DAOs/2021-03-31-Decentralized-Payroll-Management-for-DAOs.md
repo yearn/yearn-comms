@@ -1,43 +1,43 @@
 ---
 layout: post
-title:  "Decentralized payroll management for DAOs"
+title:  "DAOのための分散型給与管理"
 categories: [ Articles ]
 image: ./Decentralized-Payroll-Management-for-DAOs/andre-hero.png
 author: Andre
-translator:
-publish: false
+translator: Cripu
+publish: true
 ---
 
-# Decentralized payroll management for DAOs
+# DAOのための分散型給与管理
 
-DAO's don't have top down management. There is no HR department. There are no contracts and no salary negotiations. How do you properly incentivize and reward contributors?
+DAOにはトップダウンのマネジメントはありません。人事部もありません。契約も給与交渉もありません。どうやって貢献者に適切なインセンティブと報酬を与えるのでしょうか？
 
-When the yearn DAO first started, it adopted governance weighted salaries (I use the term loosely, since technically they are once off, once per month grants, if you don't contribute the following month, no grant). Governance weighted salaries where simply proposals set up by community members, where they proposed that contributor X should receive Y payment. These require active management and need monthly DAO votes / approvals. This doesn't scale well.
+yearnのDAOが始まった頃は、ガバナンス重視の給与体系を採用していました。（テクニカル的には月に一度、一度きりの報酬であり、その月に何も貢献しなければ報酬は無しとなるため、一応この言葉を使いました）。コミュニティメンバーによるシンプルな提案によって成り立つガバナンス重視の給与体系は、貢献者XがYの支払いを受けるべきだという提案です。これらはアクティブな管理が必須であり、DAOの投票・承認を毎月承認する必要があります。これではうまくスケールしません。
 
-To address the scaling and overhead problems, the yearn team built [Coordinape](https://coordinape.com/), these are my favorite kind of products since they originate out of a personal need, but can be generalized to help any other organizations / DAO's struggling with a similar problem.
+このスケーリングとオーバーヒートの問題に対処するため、Yearnのチームは[Coordinape](https://coordinape.com/)を立ち上げました。Coordinapeは個人的な必要性から生まれたものですが、同じ問題に悩む他の組織やDAOのために一般化することができ、わたしの好きなタイプのプロダクトです。
 
-What is [Coordinape](https://coordinape.com/), simply put anyone wishing to contribute to yearn (or their own DAO) can register (currently using github details), every epoch (for yearn 1 month), you can select the team members you have been working and interacting with, below, yearn contributors;
+[Coordinape](https://coordinape.com/)というのは、簡単にいうと、Yearn（または自分のDAO）に貢献した人は誰でも登録することができ（現在はgithubの詳細を使用）、エポック毎（Yearnの場合は月に一度）に自分が働いたり交流したメンバーを選択することができます。以下がYearnの貢献者です。
 
 ![](1.jpg)
 
-For example, my interactions below (members I marked as having interacted with this past epoch);
+例えば、わたしのインタラクションは以下の通りです。（前回のエポックで交流したメンバーをマークしました。）；
 
 ![](2.jpg)
 
-Now each member has a set amount of allocation points, and can allocate points to the contributors they have worked with based on what they think of their contributions.
+今、各メンバーは一定の配分ポイントを持っており、一緒に仕事をした貢献者の評価に応じてポイントを配分することをできます。
 
-So if we look at the current epoch contributions we see the following;
+つまり、今のエポックの貢献者を見ると以下のようになります。
 
 ![](3.jpg)
 
-Each line is an allocation from one member to the next. This builds up a contributor graph that is weighted towards the members that have the most interactions and allocations.
+各ラインはあるメンバーから次のメンバーへの配分を示しています。もっとも多くのインタラクションと配分を行なっているメンバーに重きを置いた貢献者グラフが構築されます。
 
-Now simply, during the epoch, yearn earns Y amount in fees / contributions / rewards / etc, this accrues to the Coordinate contributor contract, at the end of the epoch contributors can claim their grant based on their contributions in the epoch.
+簡単にいうと、エポックの間にYearnはY額を手数料 / 貢献 / 報酬などで稼ぎ（Coordinapeの貢献者コントラクトに発生）、エポックの最後に貢献者は貢献度に応じた報酬を請求することができます。
 
-**Conclusion**
+**結論**
 
-[Coordinape](https://coordinape.com/) allows decentralized teams and DAO's without top down management or HR to autonomously allocate and reward contributors with funds, all done via sybil resistant social graphs.
+[Coordinape](https://coordinape.com/)は、トップダウンマネジメントや人事部を持たない分散型のチームやDAOが、資産を貢献者に自動的に配分し、報酬を与えることを可能にします。全てはシビル耐性のあるソーシャルグラフを介して行われます。
 
-Decentralized payroll for flat organizations.
+フラット組織のための分散型給与支払いです。
 
-The project is currently still closed source, however the team are actively looking to engage with other DAO's and organizations, should you have any interest or queries, please reach out to [@tracheopteryx](https://twitter.com/tracheopteryx)
+このプロジェクトは現在まだ公開されていませんが、チームは他のDAOや組織との連携を積極的に模索しています。ご興味やご質問がございましたら[@tracheopteryx](https://twitter.com/tracheopteryx)までご連絡ください。
