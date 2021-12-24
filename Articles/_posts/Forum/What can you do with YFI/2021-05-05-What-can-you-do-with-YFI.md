@@ -17,16 +17,14 @@ En este artículo, hablamos sobre las cosas que se pueden realizar con YFI para 
 
 ___
 
-## **Antes de que empieces, considera asegurar tu YFI con seguro de Defi**
-Una nota sobre cómo funcionan los seguros de Defi. Los seguros de Defi *mayormente* cubren para errores en el código de solidity que conlleve una pérdida material de fondos para ese protocolo específico. Asegurate de leer cuidadosamente la documentación de cada seguro de Defi para conocer que cubren y que no.
+## **Antes de que empieces, considera asegurar tu YFI con una póliza de seguros de Defi**
+Una nota sobre cómo funcionan los seguros de Defi. Los seguros de Defi mayormente cubren para errores en el código de solidity que conlleve una pérdida material de fondos para ese protocolo específico. Asegúrate de leer cuidadosamente la documentación de cada seguro de Defi para conocer qué cubren y qué no.
 
 Por ejemplo, digamos que alguien tiene un seguro para una vault de Yearn, pero hubo un error en el código de MakerDAO y el CDP de la vault pierde parte de los fondos debido a esto. Debido a que esta persona tiene seguro en Yearn, no podría reclamar sus pérdidas y su seguro no le pagaría en este caso. Esto es debido a que no ha sido un error en el contrato inteligente de Yearn. Para más información sobre estos seguros, siéntete libre de preguntar en nuestro [discord](discord.yearn.finance) en #support.
 
 ### **Proveedores de cobertura de Defi**
 - [Nexus Mutual](https://app.nexusmutual.io/#/SmartContractCover)
     - [Documentación](https://nexusmutual.gitbook.io/docs/)
-- [Protocolo de cobertura](https://app.coverprotocol.com/)
-    - [Documentación](https://docs.coverprotocol.com/)
 
 ___
 
@@ -46,20 +44,20 @@ Las yVaults YFI v2 permiten depositar YFI, sentarte y relajarte mientras genera 
 - [Haz Zap directo a las yVault YFI v2 ](https://zapper.fi/invest?protocol=yearn&contractAddress=0xe14d13d8b3b85af791b2aadd661cdbd5e6097db1&modal=invest)
 
 #### Riesgos
-Actualmente los riesgos asociados a esta vault son riesgos asociados a el contrato inteligente (los cuales son [auditados](https://github.com/yearn/yearn-security/tree/master/audits)),riesgos de ls CDP de MakerDAO, y como la estrategia presta YFI a CREAM y AAVE para generar rendimiento adicional, riesgo de contrato para esas dos plataformas tambien. La vault tiene monitorizaciones para sus riesgos de CDP y mantiene un [ratio saludable](https://medium.com/iearn/delegated-vaults-explained-fa81f1c3fce2) de los 3, lo que quiere decir que solo creará 1/3 del máximo disponible para ser creado en DAI para farmear.
+Actualmente los riesgos asociados a esta vault son riesgos asociados a el contrato inteligente (los cuales están [auditados](https://github.com/yearn/yearn-security/tree/master/audits)),riesgos de ls CDP de MakerDAO, y como la estrategia presta YFI a CREAM y AAVE para generar rendimiento adicional, riesgo de contrato para esas dos plataformas tambien. La vault tiene monitorizaciones para sus riesgos de CDP y mantiene un [ratio saludable](https://medium.com/iearn/delegated-vaults-explained-fa81f1c3fce2) de los 3, lo que quiere decir que solo creará 1/3 del máximo disponible para ser creado en DAI para farmear.
 
 #### Seguros
 En este momento para estar completamente asegurado en la vault YFI v2, tendrías que tener cobertura para Yearn, MakerDAO y Cream. Puedes ser selectivo con respecto a cuál cobertura comprar y solo pagar por cobertura en los protocolos que consideres riesgosos. Puedes ver con cuales protocolos interactua esta vault en el [hub de yearn](https://yearn-hub.vercel.app/vault/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1).
 
 #### APY
 - APY: 2.866%
-- Calculos: Neto del mes pasado anualizado.
+- Cálculos: Neto del mes pasado anualizado.
 - Fuente: [vaults.finance: yearn v2 API](https://vaults.finance/all)
 - Nota: El APY alcanzó un pico de 24% por un momento.
 
 Esta vault es la más actualizada de las vaults del equipo de Yearn y ha sido probado que puede saltar a nuevas farms de Yearn para obtener mejor rendimiento cuando sean seguras para ser utilizadas. Recientemente lo hizo con la farm de BDP: Big Data Protocol.
 
-- [Yearn.Finance: Vault YFI ](https://yearn.finance/vaults/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1): La página de Vaults de Yearn muestra el APY de forma semanal y mensual calculada en función a una formula.
+- [Yearn.Finance: Vault YFI ](https://yearn.finance/vaults/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1): La página de Vaults de Yearn muestra el APY de forma semanal y mensual calculada en función a una fórmula.
 
 ___
 
@@ -68,7 +66,7 @@ Algunas técnicas generadoras de rendimiento están diseñadas para reducir el r
 
 ### Bancor: Pool protegida de un solo lado (YFI/BNT)
 
-Banco es un AMM como Sushiswap o Uniswap pero con una diferencia clave que ha sido desplegada en Bancor v2.1. Bancor tiene ahora protección contra IL *si* te mantienes en el pool por más de 100 días. Esta protección empieza a los 30 días y escala hasta la protección completa en 100 días. Actualmente las recompensas incentivadas de la pool de YFI están desactividadas pero hay una [propuesta](https://gov.bancor.network/t/proposal-re-enable-lm-rewards-on-yfi/1838) para traerlas de vuelta, y si se aprueba, significará que el pool de YFI tendrá una rentabilidad mayor.
+Bancor es un AMM como Sushiswap o Uniswap pero con una diferencia clave que ha sido desplegada en Bancor v2.1. Bancor tiene ahora protección contra IL *si* te mantienes en el pool por más de 100 días. Esta protección empieza a los 30 días y escala hasta la protección completa en 100 días. Actualmente las recompensas incentivadas de la pool de YFI están desactividadas pero hay una [propuesta](https://gov.bancor.network/t/proposal-re-enable-lm-rewards-on-yfi/1838) para traerlas de vuelta, y si se aprueba, significará que el pool de YFI tendrá una rentabilidad mayor.
 
 #### Web
 
@@ -96,7 +94,7 @@ Solo necesitas asegurar Bancor para asegurarte en Defi y tener cobertura complet
 - Cálculos: Mes pasado anualizado.
 - Fuente: Equipo de Bancor
 
-- [YFI Pool APY](https://duneanalytics.com/queries/30793/62118): Has clic en cada pool hasta que solo quede YFI, de esta manera se mostrará las APY para esta pool.
+- [YFI Pool APY](https://duneanalytics.com/queries/30793/62118): Haz clic en cada pool hasta que solo quede YFI, de esta manera se mostrará las APY para esta pool.
 
 ___
 
@@ -168,7 +166,7 @@ Cream.Finance es un protocolo de préstamos descentralizado. Puedes tomar presta
 Riesgo de liquidación si excedes el ratio de colateral del 50%, riesgo de contrato inteligente de Cream Finance, riesgo de fallo de oráculo y riesgo del contrato inteligente donde prestes o deposites tus monedas estables. Además deberás revisar de forma manual que el APY de tu farmeo exceda el APY del préstamo tomado de manera de no perder dinero. Puedes encontrar la auditoría [Aquí](https://docs.cream.finance/audit-report).
 
 #### Seguros 
-Para un seguro de Defi, tendrás que asegurar MakerDAO así como el protocolo donde vayas a utilizar los DAI creados para generar rendimiento de manera de tener cobertura total en caso de pérdida de fondos por error en el contrato inteligente.
+Para un seguro de Defi, tendrás que asegurar Cream.Finance así como el protocolo donde vayas a prestar tus DAI de manera de tener cobertura total en caso de pérdida de fondos por error en el contrato inteligente.
 
 #### APY
 - APY: 0.27% - 18.81% + (60.30% * .39) = 4.977%.
