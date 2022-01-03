@@ -1,31 +1,31 @@
 ---
 layout: post
-title:  "Update Bowswap"
+title:  "Bowswap更新"
 categories: [ Annoucements ]
 image: ./Update-Bowswap.Finance/image1.jpg
 author: Yearn
-translator: 
-published: false
+translator: Bee926
+published: true
 ---
 
-# Bowswap.Finance [Update](https://t.me/yearnupdates/483)
+# Bowswap.Finance [更新](https://t.me/yearnupdates/483)
 
-It now has two parts:
+现在有两个部分：
 
-## 1. Between Yearn Vaults
+## 1. 在Yearn机枪池之间
 
 ![](image1.jpg)
 
-It swaps funds from one vault to another. There's no liquidity pool. It withdraws and redeposits into the desired vault. The only swaps it does is using Curve. If the vaults have a token in common (same metapool or 3CRV for example) it will use them. While it's not cheap gas-wise, it is gas efficient - Cheaper than doing it manually, for sure
+它可以将资金从一个机枪池换到另一个机枪池。没有涉及到任何流动性池。它可提出资金并重新存入另一个用户要的机枪池。换币的运作涉及到的是Curve。 如果这些机枪池有涉及到共同的代币（例如同样的metapool或3CRV）这个机制会选择使用它们。虽然gas费并不便宜，它是非常有效率的 - 至少比手工操作还便宜。
 
-## 2. From DeFi to Yearn Vaults
+## 2. 从DeFi到Yearn的机枪池
 
-[Bowswap.finance](https://bowswap.finance/), now with simple migration to the best yield available. Migrate from AAVE and Compound to Yearn Finance in a few clicks, with no fees.
+[Bowswap.finance](https://bowswap.finance/), 现在为用户提供简单的迁移到最高收益的农场。从AAVE和Compound迁移到Yearn Finance只需点击几下，而且不必付手续费。 
 
-Sorry Stani
+抱歉，Stani
 
 ![](image2.jpg)
 
-This next feature helps users migrate funds from Compound and AAVE to Yearn. It's the same concept as above, withdraw from the protocol and deposit into a Yearn Vault. Also shows both protocol's APY in the list and let's you select multiple tokens at the same time.
+这个功能可以帮助用户将资金从Compound和AAVE迁移到Yearn。其概念和以上提到的功能一样，将资产从协议上提出，然后重新存入Yearn的机枪池。它还可以显示两个协议的APY，并能够让你一次选择多个代币。
 
-No fees are charged by Yearn on these swaps.
+Yearn不收任何代币互换的手续费。
