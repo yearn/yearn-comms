@@ -36,8 +36,7 @@ LTV（贷款价值比）源自Compound、Aave v1、Aave v2 Iron Bank。随着这
 
 Fixed Forex引入了温和的清算，偿还了绝对最低限度的债务以使用户的头寸恢复平衡，不再担心在币价大幅波动事件期间全栈被清算。
 
-出于本次发布的目的，合约将不会在etherscan上进行验证，但是，你可以在下面找到地址和ABI
-;
+出于本次发布的目的，合约将不会在etherscan上进行验证，但是，你可以在下面找到地址和ABI;
 
 [0x92FC8E6EfdF389e2527d14393b15F543f9a03420](https://etherscan.io/address/0x92fc8e6efdf389e2527d14393b15f543f9a03420)
 
