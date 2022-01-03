@@ -81,8 +81,8 @@ Getting back to what to do, I created this diagram based on the Japanese concept
 I'll walk through each circle.
 
 <table><tr>
-<td> <img src="3_1473304133268643850.jpg"/> </td>
-<td> <img src="3_1473304319655043081.jpg"/> </td>
+<td> <img src="3_1473304133268643850.jpg" style="width: 250px;"/> </td>
+<td> <img src="3_1473304319655043081.jpg" style="width: 250px;"/> </td>
 </tr></table>
 
 ---
