@@ -29,11 +29,10 @@ Welcome to the 50th edition of the Yearn Finance Newsletter. Our aim with this n
 -   Yearn Delegates 23M veCRV to Convex
     
 -   Yearn Snapshot Strategy
-    
+
 -   Vaults at Yearn
-    
+
 -   Ecosystem News
-    
 
 ## New Yearn UI
 
