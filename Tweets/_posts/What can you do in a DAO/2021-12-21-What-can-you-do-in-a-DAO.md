@@ -44,7 +44,7 @@ You are in the soup and you need to figure out what to do with very little guida
 
 We've suffered hundreds of years of gaslighting to construct the idea of a "work ethic" ... <br>
 
-![yoda](yoda.gif)
+<img src="yoda.gif" width="100%">
 
 ---
 
@@ -81,8 +81,8 @@ Getting back to what to do, I created this diagram based on the Japanese concept
 I'll walk through each circle.
 
 <table><tr>
-<td> <img src="3_1473304133268643850.jpg" style="width: 250px;"/> </td>
-<td> <img src="3_1473304319655043081.jpg" style="width: 250px;"/> </td>
+<td> <img src="3_1473304133268643850.jpg" style="width: 500px;"/> </td>
+<td> <img src="3_1473304319655043081.jpg" style="width: 500px;"/> </td>
 </tr></table>
 
 ---
