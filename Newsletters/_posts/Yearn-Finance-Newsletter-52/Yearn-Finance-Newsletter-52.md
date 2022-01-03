@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Yearn Finance Newsletter #52"
-categories: [ Newsletters ]
+title: "Yearn Finance Newsletter #52"
+categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-52/image1.png
 author: Yearn
 translator:
@@ -11,7 +11,6 @@ publish: true
 # Yearn Finance Newsletter #52
 
 ### Week Ending January 2nd, 2022
-
 
 ![](image1.png)
 
@@ -31,18 +30,13 @@ Welcome to the 52th edition of the Yearn Finance Newsletter. Our aim with this n
 
 - Ecosystem News
 
-
-
-
-    
-
 ## YIP-65 Enters Voting
 
 ![](image2.png)
 
 In summary, YIP-65 seeks to evolve the role YFI plays in Yearn over four distinct phases, cementing the vision of the token as the fundamental foundation of governance.
 
-This will be done by directing a portion of YFI that is bought back by the Treasury as a result of [BABY](https://yips.yearn.finance/YIPS/yip-56) as rewards to those YFI token holders who actively participate in Yearn Governance. 
+This will be done by directing a portion of YFI that is bought back by the Treasury as a result of [BABY](https://yips.yearn.finance/YIPS/yip-56) as rewards to those YFI token holders who actively participate in Yearn Governance.
 
 Then, the role YFI plays in Yearn Governance will be evolved through four distinct components.
 
@@ -62,10 +56,7 @@ Read more about the proposed tokenomics upgrades and benefits [here](https://gov
 
 Special thanks to authors: @0xJiji, @banteg, daryllautk, HAtTip3675, @onlylarping, @vany365, and @Wot_Is_Goin_On for creating this important proposal.
 
-
-
 ## [Proposal] Mean - DCA Buyback Pilot Program
-
 
 ![](image3.png)
 
@@ -79,7 +70,7 @@ Read more about the proposal [here](https://gov.yearn.finance/t/proposal-mean-dc
 
 ## Reflecting on Yearn
 
-It’s 2022, time to re-analyze your DeFi bets. Here's a short overview of why Yearn is different. 
+It’s 2022, time to re-analyze your DeFi bets. Here's a short overview of why Yearn is different.
 
 Whilst Yearn is usually labeled as a “yield aggregator” this can lead to the idea that a team works on generating a yield. Even worse it's sometimes considered a simple CRV farmer. This is not a useful way to understand Yearn.
 
@@ -97,18 +88,17 @@ After security comes capital efficiency – figuring out how a vault should be s
 
 Part of the reason behind YFI's "fair launch" was the realization that producing a high risk-adjusted yield for the trillions of dollars sitting in TradFi would be too much work for one team. The YFI boarding school is now training first-time strategists.
 
-Scalability requires reducing manual processes - buybacks, harvests, changing the strategy weightings, hedging after price movements. It's no coincidence Andre created 
+Scalability requires reducing manual processes - buybacks, harvests, changing the strategy weightings, hedging after price movements. It's no coincidence Andre created
 
 Keep3r. There's even a data analysis group working on the optimal time to do buybacks.
 
-Coordination with decentralization – how do you build a system that incentivizes people who’ve never met to make all this happen? Coordinape helps - a tool whose origins go back to a Yearn group that first ran into the problem -  is now being used by countless DAOs.
+Coordination with decentralization – how do you build a system that incentivizes people who’ve never met to make all this happen? Coordinape helps - a tool whose origins go back to a Yearn group that first ran into the problem - is now being used by countless DAOs.
 
 Each new DeFi protocol creates a potential opportunity for a strategist. The new strategy improves the risk-adjusted yield for the vaults which incentivizes more capital, leading to more fees which can be used to build this beast of a platform.
 
 The examples in this thread show how Yearn is attempting to solve the generalized problems in DeFi. The term "DeFi protocol" doesn't seem to do it justice, maybe Yearn could be better described as a fintech DAO.
 
 Thank you to Wot_Is_Goin_On for the amazing thread that can be found [here](https://twitter.com/Wot_Is_Goin_On/status/1477277152336916484).
-
 
 ## Yearn Has Received a 1M FTM Grant From the Fantom Foundation
 
@@ -120,20 +110,16 @@ We didn't dump, over 90% was donated to the FTM vault. Other vaults got a propor
 
 This grant is the first of many, we will continue receiving more as we hit TVL goals.
 
-
-
-
-
 ## Vaults At Yearn
 
 You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
 ## Ecosystem News
 
-[Check out DeFi Saver’s new Smart Savings dashboard including Yearn](https://twitter.com/DeFiSaver/status/1476614075815809028?s=20) 
+[Check out DeFi Saver’s new Smart Savings dashboard including Yearn](https://twitter.com/DeFiSaver/status/1476614075815809028?s=20)
 
-[See the 2021 Yearn contributor hoodie made by loldefi](https://twitter.com/loldefi/status/1477062572595884032) 
+[See the 2021 Yearn contributor hoodie made by loldefi](https://twitter.com/loldefi/status/1477062572595884032)
 
 [Yearn continues to buyback yvBOOST](https://twitter.com/wavey0x/status/1474946151006842884)
 
-[Read an analysis on $CRV bribes including yvBOOST](https://twitter.com/0xSEM/status/1475284063204388867) 
+[Read an analysis on $CRV bribes including yvBOOST](https://twitter.com/0xSEM/status/1475284063204388867)
