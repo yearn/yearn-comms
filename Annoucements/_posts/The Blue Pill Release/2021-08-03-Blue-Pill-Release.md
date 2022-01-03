@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Blue Pill Release"
+title:  "发布Blue Pill"
 categories: [ Annoucements ]
 image: ./Blue-Pill-Release/thebluepill.jpg
 author: Yearn
-translator: 
-published: false
+translator: Bee926
+published: true
 ---
 
-Last week we announced The Blue Pill book and gave early Yearn supporters a first look via a limited series of NFTs.
+上周我们公开宣布The Blue Pill书，然后给Yearn的早期支持者抢先看限量系列的NFT。
 
-Today we invite everyone to experience The Blue Pill:
+今天我们正式邀请大家来亲身体验The Blue Pill:
 
 [https://thebluepill.eth.link](https://thebluepill.eth.link)
