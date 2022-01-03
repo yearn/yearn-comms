@@ -107,7 +107,7 @@ Each new DeFi protocol creates a potential opportunity for a strategist. The new
 
 The examples in this thread show how Yearn is attempting to solve the generalized problems in DeFi. The term "DeFi protocol" doesn't seem to do it justice, maybe Yearn could be better described as a fintech DAO.
 
-Thank you to Wot_Is_Goin_On for the amazing thread that can be found here.
+Thank you to Wot_Is_Goin_On for the amazing thread that can be found [here](https://twitter.com/Wot_Is_Goin_On/status/1477277152336916484).
 
 
 ## Yearn Has Received a 1M FTM Grant From the Fantom Foundation
