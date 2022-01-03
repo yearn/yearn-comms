@@ -5,7 +5,7 @@ categories: [ Tweets ]
 image: ./TransparencySummary/image1.jpg
 author: Yearn
 translator: comraderoyce
-publish: false
+publish: true
 ---
 source originale: [twitter](https://twitter.com/iearnfinance/status/1445143482830446600)
 
