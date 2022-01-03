@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Yearn Finance Newsletter #51"
-categories: [ Newsletters ]
+title: "Yearn Finance Newsletter #51"
+categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-51/image1.png
 author: Yearn
 translator:
@@ -18,24 +18,13 @@ Welcome to the 51th edition of the Yearn Finance Newsletter. Our aim with this n
 
 ## Summary
 
--   YFI Tokenomics Poll Finalized
-    
--   Yearn Has Purchased $7.5M of YFI
-    
--   Proposal: Evolving YFI’s Tokenomics
-    
--   Report: Reborn As A Black Hole
-    
--   Yearn Holiday Card NFT
-    
--   Vaults at Yearn
-    
--   Ecosystem News
-
-
-
-
-    
+- YFI Tokenomics Poll Finalized
+- Yearn Has Purchased $7.5M of YFI
+- Proposal: Evolving YFI’s Tokenomics
+- Report: Reborn As A Black Hole
+- Yearn Holiday Card NFT
+- Vaults at Yearn
+- Ecosystem News
 
 ## YFI Tokenomics Poll Finalized
 
@@ -43,10 +32,7 @@ The YFI tokenomics poll has ended with xYFI as the leading option. xYFI suggests
 
 Huge thanks to [Fin4Dao](https://twitter.com/Fin4Dao) for all the facilitation work. Check out the snapshot [here](https://snapshot.org/#/ybaby.eth/proposal/0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea).
 
-
-
 ## Yearn Has Purchased $7.5M of YFI
-
 
 ![](image2.png)
 
@@ -60,7 +46,7 @@ We have also been purchasing back a significant amount of yvBOOST in order to re
 
 ![](image3.png)
 
-Step 1 is xYFI, where one stakes in the xYFI vault, earning back YFI from the treasury. 
+Step 1 is xYFI, where one stakes in the xYFI vault, earning back YFI from the treasury.
 
 Step 2 is veYFI, where one vote-locks YFI, with decay and time extension. Max-lock and earn disproportionate rewards compared to those who lock for shorter duration. Early exit any time but pay a penalty to the other stakers.
 
@@ -86,14 +72,13 @@ Special thanks to [Ape Froman](https://medium.com/@portiadog) for the thoughtful
 
 ![](image5.png)
 
-Get in on Project Galaxy's Holiday Treasure Hunt and grab this Yearn Holiday Card NFT, just for being a Yearn Newsletter subscriber. 
+Get in on Project Galaxy's Holiday Treasure Hunt and grab this Yearn Holiday Card NFT, just for being a Yearn Newsletter subscriber.
 
 Collect all 12 NFTs from Project Galaxy ecosystem partners and you'll get an additional Galaxy Girl NFT, which our friends at Project Galaxy will use to drop you future goodies. Probably nothing.
 
-Steps are as follows: subscribe to Yearn’s weekly [newsletter](https://yearn.substack.com/), confirm your (new or existing) subscription on this [Google form](https://forms.gle/gsVpRsjdSXxyaXha9), and claim your rewards [here](https://galaxy.eco/yearn/campaign/GCTj8UUaoD). 
+Steps are as follows: subscribe to Yearn’s weekly [newsletter](https://yearn.substack.com/), confirm your (new or existing) subscription on this [Google form](https://forms.gle/gsVpRsjdSXxyaXha9), and claim your rewards [here](https://galaxy.eco/yearn/campaign/GCTj8UUaoD).
 
 Happy hunting and happy holidays from Yearn!
-
 
 ## Vaults At Yearn
 
