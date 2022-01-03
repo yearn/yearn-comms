@@ -44,7 +44,7 @@ You are in the soup and you need to figure out what to do with very little guida
 
 We've suffered hundreds of years of gaslighting to construct the idea of a "work ethic" ... <br>
 
-<img src="yoda.gif" width="100%">
+<img src="Yoda.gif" width="100%">
 
 ---
 
