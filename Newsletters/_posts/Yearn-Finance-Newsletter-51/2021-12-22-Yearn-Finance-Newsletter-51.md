@@ -29,7 +29,8 @@ Bienvenue à la 51e édition de la Newsletter Yearn Finance. Notre objectif avec
 
 - Carte NFT pour les vacances 
 
-
+-  Vaults chez Yearn
+-  Nouvelles de l'écosystème
 
 
     
@@ -97,4 +98,24 @@ Collectionnez les 12 NFT des partenaires de l'écosystème Project Galaxy et vou
 Les étapes sont les suivantes : abonnez-vous à la [newsletter](https://yearn.substack.com/) hebdomadaire de Yearn, confirmez votre abonnement (nouveau ou existant) en remplissant ce [Google form](https://forms.gle/gsVpRsjdSXxyaXha9) et réclamez vos récompenses [ici](https://galaxy.eco/yearn/campaign/GCTj8UUaoD).
 
 Bonne chasse et bonnes vacances de la part de Yearn !
+
+## Vaults chez Yearn
+
+Vous pouvez trouver une description détaillée des stratégies de tous nos yVaults actifs [ici](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+
+## Nouvelles de l'écosystème
+
+
+[Check out Facu’s security chat with the Wido team who are building on top of Yearn](https://www.joinwido.com/blog/chat-with-facu-about-wido-together-and-its-security-model)
+
+[Deposit in Yearn with lower gas fees thanks to Argent’s L2 Wallet](https://twitter.com/argentHQ/status/1471503921851944983)
+
+[See the YFI pendant made by loldefi](https://twitter.com/loldefi/status/1470449196939493383)
+
+[$GEAR holders are eligible to vote on GIP-2 and GIP-3 to include YFI and Yearn contracts](https://twitter.com/GearboxProtocol/status/1472299963149426696?s=20)
+
+[Anyone in the world can contribute to the Yearn experience](https://twitter.com/bantg/status/1472038972092207107?s=20)
+
+[Get insured on your Yearn deposits with solace.fi](https://twitter.com/SolaceFi/status/1471594979638321153?s=20)
+
 
