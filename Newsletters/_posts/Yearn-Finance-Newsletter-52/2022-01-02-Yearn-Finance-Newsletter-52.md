@@ -19,15 +19,11 @@ Bienvenue à la 52e édition de la Newsletter Yearn Finance. Notre objectif avec
 ## Résumé
 
 - Le vote pour YIP-65 est passé
-
 - [Proposition] - Programme pilote de rachat en DCA
-
 - Repenser Yearn
-
 - Yearn a reçu une subvention de 1 million FTM de la part de la Fondation Fantom
 - Vaults chez Yearn
-
--Nouvelles de l'écosystème
+- Nouvelles de l'écosystème
 
 ## YIP-65 Enters Voting
 
@@ -39,13 +35,13 @@ Cela se fera en dirigeant une partie des $YFI qui est rachetée par la Trésorer
 
 Ensuite, le rôle que joue le $YFI dans la gouvernance de Yearn évoluera à travers quatre composants distincts.
 
-1 : xYFI. Distribuez les $YFI qui ont été rachetés comme récompenses dans un vault YFI.
+1: xYFI. Distribuez les $YFI qui ont été rachetés comme récompenses dans un vault YFI.
 
 2: YFI verrouillé par le vote. Introduira le verrouillage de style ve du $YFI (veYFI) jusqu'à quatre ans (la durée maximale exacte reste à déterminer), où une durée de verrouillage plus longue donne une plus grande part du pouvoir de vote et une plus grande part des récompenses $YFI. Une sortie anticipée de ce verrouillage est possible en payant une pénalité qui est redistribuée aux autres détenteurs de jetons verrouillés.
 
 3: Jauges de coffre + Vote. Introduira des jauges de coffre où les déposants stakent leurs jetons et gagnent des récompenses $YFI en fonction de leur quantité de veYFI. Les $YFI sont affectés à des jauges en fonction des votes hebdomadaires sur la gouvernance.
 
-4 : Fonctionnalités « Travail utile ». Élargissez les devoirs et les responsabilités des votants et de leur $YFI verrouillé, en échange de l'obtention de récompenses supplémentaires. Dans attente de la conception du coffre tbc v3.
+4: Fonctionnalités « Travail utile ». Élargissez les devoirs et les responsabilités des votants et de leur $YFI verrouillé, en échange de l'obtention de récompenses supplémentaires. Dans attente de la conception du coffre tbc v3.
 
 Ensuite, un mandat sera donné aux développeurs de Yearn pour déployer les composants ci-dessus à leur discrétion au fur et à mesure qu'ils deviennent disponibles.
 
