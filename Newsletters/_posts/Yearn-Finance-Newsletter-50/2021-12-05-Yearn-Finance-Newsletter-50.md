@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Yearn Finance Newsletter #50"
-categories: [ Newsletters ]
+title: "Yearn Finance Newsletter #50"
+categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-50/image1.png
 author: Yearn
 translator: Cryptouf
@@ -18,16 +18,15 @@ Bienvenue à la 50e édition de la Newsletter Yearn Finance. Notre objectif avec
 
 ## Résumé
 
--   Nouvelle UI chez Yearn
--   Proposition de mise à jour de la Tokenomics du YFI 
--   Yearn Docs
--   La YIP-64 n'a pas atteind le Quorum
--   Yearn Snapshot Strategy
--   Vaults chez Yearn
+- Nouvelle UI chez Yearn
+- Proposition de mise à jour de la Tokenomics du YFI
+- Yearn Docs
+- La YIP-64 n'a pas atteind le Quorum
+- Yearn Snapshot Strategy
+- Vaults chez Yearn
+- Nouvelles de l’écosystème
 
--   Nouvelles de l’écosystème
-
-## Nouvelle UI chez Yearn  
+## Nouvelle UI chez Yearn
 
 ![](image2.png)
 
@@ -45,16 +44,13 @@ L'interface utilisateur v3 est nouvelle, donc plus de travail est fait pour amé
 
 Regardez sous le capot [ici](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f). Si vous êtes développeur, contribuez [ici](https://github.com/yearn/yearn-finance-v3).
 
-
-## Proposition de mise à jour de la Tokenomics du YFI 
-
+## Proposition de mise à jour de la Tokenomics du YFI
 
 Un sondage sur snapshot est en court pour évaluer le soutien aux propositions de la communauté sur les tokenomiques YFI.
 
 Il existe actuellement 5 options pour le vote, les noms de travail étant ySplit, veYFI, xYFI, BurnKeYs et Status Quo. La proposition [ySplit](https://docs.google.com/document/d/1dAWTkS_ZsXNy7mKKjOFUjILSlLsLz9KhGfLrwVu0GUg/edit) suggère de diviser le jeton YFI en 10 000 à 1 000 000 pour lutter contre la partialité des unités. La proposition [veYFI](https://docs.google.com/document/d/1hoi-IVccOB6iUJYzuApVbyjbQBx8-M0UuzZosb9wlWM/edit) suggère de verrouiller YFI pendant une période de temps donnée afin de recevoir des droits de gouvernance qui dictent les coffres où les revenus de trésorerie devraient aller. [xYFI](https://docs.google.com/document/d/1ev16BXu3bDC8zMSBvHmxMWIeD82ptZck6SJAO5frV5g/edit) suggère la création d'un coffre-fort de jalonnement YFI où les revenus de trésorerie excédentaires doivent être envoyés. [BurnKeYs](https://docs.google.com/document/d/1BqmRsfdfCIaCtNZULdhKqUJzpKdaHE1XOGQlVp2nuSc/edit) demande que la fonction menthe du jeton YFI soit définitivement désactivée, plafonnant ainsi l'offre à 36 666 jetons. Le statu quo laisserait le tokenomics YFI dans son état actuel et informerait les détenteurs et les investisseurs potentiels des avantages.
 
 Votez [la page snapshot](https://yearn.snapshot.page/#/proposal/0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea). Merci à tous les membres de la communauté qui ont contribué. Une mise à jour du groupe de travail, haïku inclus, peut être trouvée ici.
-
 
 ## Yearn Docs
 
@@ -65,7 +61,6 @@ Les documents entièrement actualisés sont là pour guider les utilisateurs, le
 Découvrez les nouveaux documents [ici](https://docs.yearn.finance/).
 
 ## La YIP-64 n'a pas atteind le Quorum
-
 
 ![](image3.png)
 
@@ -81,9 +76,7 @@ Yearn a délégué 23 millions de veCRV à Convex Finance à l'aide de la nouvel
 
 Déléguer des veCRV inutilisés [ici](https://convex-boost-delegation.vercel.app/) augmente les récompenses d'usine pour tous les participants Convex, cela contribue encore à augmenter le rendement pour Convex et Yearn. Notre opération de délégation se trouve [ici](https://etherscan.io/tx/0x4734c879b23c678cb97ba90591e16a14f1f7a2e0a7d71bfa67d2e7bb5d718e5f).
 
-
 ## Yearn Snapshot Strategy
-
 
 En prévision de plusieurs votes importants, la stratégie de Yearn's Snapshot a été rafraîchie.
 
@@ -91,14 +84,11 @@ Il vous permet de voter avec vos YFI productifs, à savoir les YFI dans votre po
 
 Le contrat peut être trouvé ici et le déploiement peut être trouvé [ici](https://etherscan.io/address/0xA79e803FffE9DA37477ddaFD7C6F3dbDCa1C566C#code).
 
-
-
 ## Vaults chez Yearn
 
 Vous pouvez lire une description détaillée des stratégies pour tous nos yVaults actifs [ici](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
 ## Nouvelles de l’écosystème
-
 
 [Securely use your YFI on Qredo Network’s platform](https://twitter.com/QredoNetwork/status/1461031928564436994)
 
