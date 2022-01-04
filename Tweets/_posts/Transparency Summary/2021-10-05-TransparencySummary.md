@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Transparency Summary"
+title:  "Transparence chez Yearn. Un petit recap"
 categories: [ Tweets ]
 image: ./TransparencySummary/image1.jpg
 author: Yearn
