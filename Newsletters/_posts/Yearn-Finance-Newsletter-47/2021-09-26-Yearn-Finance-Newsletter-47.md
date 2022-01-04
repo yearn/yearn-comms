@@ -4,97 +4,95 @@ title:  "Yearn Finance Newsletter #47"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-47/image1.png
 author: Yearn
-translator:
+translator: Stathis 
 publish: true
 ---
 
 # Yearn Finance Newsletter #47
 
-### Week Ending September 26th, 2021
+### Εβδομάδα Σεπτεμβρίου 26, 2021
 
 ![](image1.png)
 
-Welcome to the 47th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Καλώς ήρθατε στην 47η έκδοση του ενημερωτικού δελτίου του Yearn Finance. Στόχος μας με αυτό το ενημερωτικό δελτίο είναι να ενημερώνουμε το Yearn και την ευρύτερη κοινότητα κρυπτονομισμάτων για τα τελευταία νέα, συμπεριλαμβανομένων των νέων προϊόντων, των αλλαγών διακυβέρνησης και των ενημερώσεων του οικοσυστήματος. Εάν ενδιαφέρεστε να μάθετε περισσότερα για το Yearn Finance, ακολουθήστε τους επίσημους λογαριασμούς μας [Twitter](https://twitter.com/iearnfinance) και [Medium](https://medium.com/iearn).
 
-## Summary
 
--   Introducing V3 of Yearn’s UI
+## Σύνοψη
 
--   Check Out the New Labs Section
+- Παρουσιάζουμε το V3 του Yearn’s UI
 
--   Yearn Has Purchased $320K of YFI in September
+- Δείτε την νέα ενότητα Labs
 
--   Cumulative Protocol Revenue Reaches $43M
+- Το Yearn αγόρασε 320 χιλιάδες $ YFI τον Σεπτέμβριο
 
--   Vaults at Yearn
+- Τα σωρευτικά έσοδα πρωτοκόλλου φτάνουν τα $43 εκατομμύρια
 
--   Ecosystem News
+- Θησαυροφυλάκια στο Yearn
 
+- Ecosystem News
 
 ## Introducing V3 of Yearn’s UI
 
 ![](image2.png)
 
-This week, we have opened up the new Yearn v3 to users in beta. The new friendlier interface surfaces all the data you need for a birds-eye view of your holdings and historical plus yearly earnings. It also simulates transactions so you don't get unexpected slippage or failed transactions.
+Αυτή την εβδομάδα, ανοίξαμε το νέο Yearn v3 στους χρήστες σε έκδοση beta. Η νέα πιο φιλική διεπαφή εμφανίζει όλα τα δεδομένα που χρειάζεστε για μια πανοραμική άποψη των εκμεταλλεύσεών σας και των ιστορικών συν ετήσιων κερδών σας. Προσομοιώνει επίσης συναλλαγές, ώστε να μην λαμβάνετε απροσδόκητο slippage ή αποτυχημένες συναλλαγές.
 
-Rebuilt from the ground up, v3 is the realization of a shared vision of a lightweight, scalable system ready for the multichain future. The core components of the Yearn V3 stack have been divided up into multiple distinct components: Lens, Meta, Subgraph, Exporter, SDK, and Front-end. 
+Ανακατασκευασμένο από την αρχή, το v3 είναι η υλοποίηση ενός κοινού οράματος για ένα ελαφρύ, επεκτάσιμο σύστημα έτοιμο για το μέλλον πολλαπλών αλυσίδων. Τα βασικά στοιχεία του Stack για το Yearn V3 έχουν χωριστεί σε πολλαπλά διακριτά στοιχεία: Lens, Meta, Subgraph, Exporter, SDK και Front-end.
 
-As for the UI, we have revamped the Yearn experience for mobile users and added new sections such as the Home, Wallet, Labs, Iron Bank, and Settings pages. Additionally, there will be multiple UI themes, with some being unlockable for specific NFT holders. See [galaxy.eco/yearn](https://galaxy.eco/yearn) for potential NFTs that qualify for future themes.
+Όσον αφορά τη διεπαφή χρήστη, ανανεώσαμε την εμπειρία του Yearn για χρήστες κινητών και προσθέσαμε νέες ενότητες όπως οι σελίδες Home, Wallet, Labs, Iron Bank και Settings. Επιπλέον, θα υπάρχουν πολλά θέματα διεπαφής χρήστη, με μερικά να μπορούν να ξεκλειδωθούν για συγκεκριμένους κατόχους NFT. Δείτε το [galaxy.eco/yearn](https://galaxy.eco/yearn) για πιθανά NFT που πληρούν τις προϋποθέσεις για μελλοντικά θέματα.
 
-Thank you to the Yearn community and all the contributors at Yearn who helped to make this happen. If you’d like to contribute, come join our public [discord](https://discord.gg/8rF374XkXy), create an issue in one of the [repos](https://github.com/yearn) linked in the [medium](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f), or share your designs with us on [twitter](https://twitter.com/iearnfinance)!
+Ευχαριστούμε την κοινότητα του Yearn και όλους τους συντελεστές στο Yearn που βοήθησαν να γίνει αυτό. Εάν θέλετε να συνεισφέρετε, ελάτε να συμμετάσχετε στο κοινό μας [discord](https://discord.gg/8rF374XkXy), δημιουργήστε ένα ζήτημα σε ένα από τα [repos](https://github.com/yearn) που συνδέονται στο  [medium](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f) ή μοιραστείτε τα σχέδιά σας μαζί μας στο [twitter](https://twitter.com/iearnfinance)!
 
-Read an in-depth rundown on the V3 UI [here](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f).
+Διαβάστε μια αναλυτική περίληψη του V3 UI [εδώ](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f).
 
-Check out [beta.yearn.finance](https://beta.yearn.finance/).
+Ρίξτε μια ματιά στο [beta.yearn.finance](https://beta.yearn.finance/).
 
-## Check Out the New Labs Section
-
+## Δείτε την νέα ενότητα Labs
 ![](image3.png)
 
-Introducing the Labs section on the new Yearn V3 UI, a set of experimental vaults that push the boundaries of yield in DeFi. Let’s take a look at these new vaults.
+Παρουσιάζουμε την ενότητα Labs στη νέα διεπαφή χρήστη του Yearn V3, ένα σύνολο πειραματικών θησαυροφυλακίων που ξεπερνούν τα όρια απόδοσης στο DeFi. Ας ρίξουμε μια ματιά σε αυτά τα νέα θησαυροφυλάκια.
 
-The vaults that live in the LABS section are not the usual Yearn vaults. Yearn vaults were created with the idea of being long only and that users could withdraw at any time. You asked for different types of vaults and strategies on various platforms and our recent product survey. We listened!
+Τα θησαυροφυλάκια που βρίσκονται στην ενότητα LABS δεν είναι τα συνηθισμένα θησαυροφυλάκια της Yearn. Τα θησαυροφυλάκια Yearn δημιουργήθηκαν με την ιδέα να είναι μόνο Long και ότι οι χρήστες θα μπορούσαν να αποσυρθούν ανά πάσα στιγμή. Ζητήσατε διαφορετικούς τύπους θησαυροφυλακίων και στρατηγικών σε διάφορες πλατφόρμες και την πρόσφατη έρευνα προϊόντων μας. Ακούσαμε!
 
-In labs, experimentation is the norm, not the exception. Read what each vault does, and read carefully. Strategies may allow lock-ups and the potential for temporary losses in pursuit of increased, long-term sustainable yield.
+Στα εργαστήρια, ο πειραματισμός είναι ο κανόνας, όχι η εξαίρεση. Διαβάστε τι κάνει κάθε θησαυροφυλάκιο και διαβάστε προσεκτικά. Οι στρατηγικές ενδέχεται να επιτρέπουν δεσμεύσεις και την πιθανότητα προσωρινών απωλειών για την επιδίωξη αυξημένης, μακροπρόθεσμης βιώσιμης απόδοσης.
 
-You may already know yveCRV, yvBOOST, and our yvBOOST-ETH pJar (a collab with Pickle Finance), which are now live in Labs. We will shortly be adding more vaults to Labs, with detailed pages for each.
+Ίσως γνωρίζετε ήδη τα yveCRV, yvBOOST και το yvBOOST-ETH pJar (συνεργασία με την Pickle Finance), τα οποία είναι πλέον ζωντανά στα Labs. Σύντομα θα προσθέσουμε περισσότερα θησαυροφυλάκια στα Labs, με αναλυτικές σελίδες για το καθένα.
 
-So, check out Labs at [beta.yearn.finance/#labs](https://beta.yearn.finance/#/labs) and come back for more emerging strategies. Just remember, these vaults are usually riskier than others, as they can involve token locking, impermanent loss, and various other risks.
+Επομένως, ρίξτε μια ματιά στο Labs στη διεύθυνση [beta.yearn.finance/#labs](https://beta.yearn.finance/#/labs) και επιστρέψτε για περισσότερες αναδυόμενες στρατηγικές. Απλώς θυμηθείτε, αυτά τα θησαυροφυλάκια είναι συνήθως πιο επικίνδυνα από άλλα, καθώς μπορεί να περιλαμβάνουν κλείδωμα tokens, μόνιμη απώλεια και διάφορους άλλους κινδύνους.
 
-## Yearn Has Purchased $320K of YFI in September
+## Το Yearn αγόρασε 320 χιλιάδες $ YFI τον Σεπτέμβριο
 
 ![](image4.png)
 
-In accordance with YIP-56: Buyback and Build Yearn, which was passed in January 2021, the Yearn Treasury has purchased an additional $320K worth of YFI.
+Σύμφωνα με το YIP-56: Buyback and Build Yearn, το οποίο εγκρίθηκε τον Ιανουάριο του 2021, το Yearn Treasury αγόρασε επιπλέον YFI αξίας 320.000 $.
 
-Yearn Treasury will periodically purchase additional YFI in the future using profits earned by the protocol until a new governance proposal is passed that alters this buyback policy. You can read about the BABY proposal [here](https://snapshot.org/#/yearn/proposal/Qmb6gBzjvgLMazSrQQGVcjutLNdkVyM2Lh6yckMzdoaHWZ). 
+Το Yearn Treasury θα αγοράζει περιοδικά επιπλέον YFI στο μέλλον χρησιμοποιώντας τα κέρδη που αποκτήθηκαν από το πρωτόκολλο έως ότου εγκριθεί μια νέα πρόταση διακυβέρνησης που θα αλλάξει αυτήν την πολιτική επαναγοράς. Μπορείτε να διαβάσετε για την πρόταση BABY [εδώ](https://snapshot.org/#/yearn/proposal/Qmb6gBzjvgLMazSrQQGVcjutLNdkVyM2Lh6yckMzdoaHWZ).
 
-Data on the buybacks can be found [here](https://www.yfistats.com/financials/YFIBuybacks.html).
+Μπορείτε να βρείτε δεδομένα για τις εξαγορές [εδώ](https://www.yfistats.com/financials/YFIBuybacks.html).
 
-## Cumulative Protocol Revenue Reaches $43M
+## Τα σωρευτικά έσοδα πρωτοκόλλου φτάνουν τα $43 εκατομμύρια
 
 ![](image5.png)
 
-Yearn has earned nearly $43 million in revenue, since launch (excluding the interest earned by depositors). In the past 30 days, nearly $6 million dollars in revenue has been generated by the protocol. An extrapolation of this data projects annual revenue to be nearly $70 million. 
+Η Yearn έχει κερδίσει σχεδόν 43 εκατομμύρια δολάρια σε έσοδα από την κυκλοφορία του (χωρίς τους τόκους που κερδίζουν οι καταθέτες). Τις τελευταίες 30 ημέρες, σχεδόν 6 εκατομμύρια δολάρια σε έσοδα έχουν δημιουργηθεί από το πρωτόκολλο. Μια επέκταση αυτών των δεδομένων προβλέπει ότι τα ετήσια έσοδα θα είναι σχεδόν 70 εκατομμύρια δολάρια.
 
-Yearn’s cumulative revenue and other statistics are viewable [here](https://www.yfistats.com/).
+Τα σωρευτικά έσοδα και άλλα στατιστικά στοιχεία της Yearn είναι ορατά [εδώ](https://www.yfistats.com/).
 
-## Vaults At Yearn
+## Θησαυροφυλάκια στο Yearn
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Μπορείτε να διαβάσετε μια λεπτομερή περιγραφή των στρατηγικών για όλα τα ενεργά yVault μας [εδώ](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-## Ecosystem News
+## Νέα Οικοσυστήματος
+[Δείτε το Metaguild χρησιμοποιώντας το πλαίσιο Coordinape](https://twitter.com/metaguildcom/status/1440368717888557068)
 
-[Check out Metaguild using the Coordinape framework](https://twitter.com/metaguildcom/status/1440368717888557068)
+[Tracheopteryx και 0xMaki μιλούν για το σχέδιασμό DAO στην εκδήλωση Messari Mainnet](https://twitter.com/MessariCrypto/status/1440412651457110020)
 
-[Tracheopteryx and 0xMaki speak about DAO design at the Messari Mainnet event](https://twitter.com/MessariCrypto/status/1440412651457110020)
+[Το Steakwallet υποστηρίζει τα θησαυροφυλάκια Yearn εντός εφαρμογής](https://twitter.com/steakwallet/status/1440734147194994694)
 
-[Steakwallet supports Yearn vaults in-app](https://twitter.com/steakwallet/status/1440734147194994694)
+[Το Donut δημιουργεί μια φιλική προς το λιανικό εμπόριο εφαρμογή αποταμίευσης βασιζμόμενη στο Yearn](https://twitter.com/bantg/status/1438680337735987209)
 
-[Donut is building a retail-friendly savings app on top of Yearn](https://twitter.com/bantg/status/1438680337735987209)
+[Τα bounties Yearn έχουν κυκλοφορήσει στο Flipside Crypto](https://twitter.com/flipsidecrypto/status/1438613782507446273)
 
-[Yearn bounties have launched on Flipside Crypto](https://twitter.com/flipsidecrypto/status/1438613782507446273)
+[Χρησιμοποιήστε το yvFTM ως εγγύηση στο abracadraba.money στο Fantom](https://twitter.com/MIM_Spell/status/1441912161001820161?s=20)
 
-[Use yvFTM as collateral on abracadraba.money on Fantom](https://twitter.com/MIM_Spell/status/1441912161001820161?s=20)
-
-[Check out the Yearn Fundamentals Dashboard on Token Terminal](https://twitter.com/iearnfinance/status/1441179921523507200)
+[Δείτε τον πίνακα ελέγχου Yearn Fundamentals στο Token Terminal](https://twitter.com/iearnfinance/status/1441179921523507200)
