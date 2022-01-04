@@ -4,12 +4,12 @@ title:  "Yearn Finance Newsletter #46"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-46/image1.png
 author: Yearn
-translator:
+translator: Stathis
 publish: true
 ---
 
 # Yearn Finance Newsletter #46
-#### Week Ending September 12th, 2021
+#### Εβδομάδα Σεπτεμβρίου 12, 2021
 
 
 ![](image1.png)
@@ -17,78 +17,79 @@ publish: true
 
 
 
-Welcome to the 46th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you're interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
-
-## **Summary**
-
-- Behind the Scenes at Yearn  
-- Primer on the yvBOOSTVault  
-- Yearn Quarterly Financial Report  
-- Cumulative Protocol Revenue Reaches $41M   
-- Vaults at Yearn  
-- Ecosystem News
+Καλώς ήρθατε στην 46η έκδοση του ενημερωτικού δελτίου του Yearn Finance. Στόχος μας με αυτό το ενημερωτικό δελτίο είναι να ενημερώνουμε το Yearn και την ευρύτερη κοινότητα κρυπτονομισμάτων για τα τελευταία νέα, συμπεριλαμβανομένων των νέων προϊόντων, των αλλαγών διακυβέρνησης και των ενημερώσεων του οικοσυστήματος. Εάν ενδιαφέρεστε να μάθετε περισσότερα για το Yearn Finance, ακολουθήστε τους επίσημους λογαριασμούς μας [Twitter](https://twitter.com/iearnfinance) και [Medium](https://medium.com/iearn).
 
 
-## **Behind the Scenes at Yearn**
+## **Σύνοψη**
 
-As you may know, Yearn is the yield function protocol for DeFi, with many strategists coding ways to get optimal returns for our users using flexible smart contracts that allocate efficiently to various protocols. Because Yearn needs to keep up with the competitive yield aggregation market, we need to deploy strategies quickly, and this means there are always security risks.
+- Πίσω από την σκηνή στο Yearn
+- Εισαγωγή στο yvBOOSTVault
+- Τριμηνιαία Οικονομική Έκθεση έτους
+- Τα σωρευτικά έσοδα πρωτοκόλλου φτάνουν τα $41 εκατομμύρια
+- Θησαυροφυλάκια στο Yearn
+- Νέα οικοσυστήματος
 
-There are 176 strategies for 64 vaults total as of today, and to work through security risks, we need to have a solid risk framework. To mitigate security risks, we have added options such as simulation bots to catch issues or on chain healthchecks. One can read more about Yearn's emergency procedures [here](https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/EMERGENCY.md).
 
-You can also view details about vaults and strategies on [yearn.watch](https://yearn.watch/).
+## **Πίσω από την σκηνή στο Yearn**
 
-Check out more information on Yearn's security procedures at storming0x's tweet [here](https://twitter.com/storming0x/status/1436851219864059906).
+Όπως ίσως γνωρίζετε, το Yearn είναι το πρωτόκολλο απόδοσης για το DeFi, με πολλούς Stategists του Yearn να κωδικοποιούν τρόπους για να λαμβάνουν βέλτιστες αποδόσεις οι χρήστες μας χρησιμοποιώντας ευέλικτα έξυπνα συμβόλαια που κατανέμονται αποτελεσματικά σε διάφορα πρωτόκολλα. Επειδή το Yearn πρέπει να συμβαδίζει με την ανταγωνιστική αγορά συγκέντρωσης αποδόσεων, πρέπει να αναπτύξουμε στρατηγικές γρήγορα και αυτό σημαίνει ότι υπάρχουν πάντα κίνδυνοι για την ασφάλεια.
 
-## **Primer on the yvBOOST Vault**
+Υπάρχουν 176 στρατηγικές για 64 συνολικά θησαυροφυλάκια από σήμερα, και για να αντιμετωπίσουμε τους κινδύνους ασφαλείας, πρέπει να έχουμε ένα σταθερό πλαίσιο κινδύνου. Για τον μετριασμό των κινδύνων ασφαλείας, έχουμε προσθέσει επιλογές, όπως bot προσομοίωσης για την επίλυση προβλημάτων ή ελέγχους υγείας της αλυσίδας. Μπορείτε να διαβάσετε περισσότερα για τις διαδικασίες έκτακτης ανάγκης του Yearn [εδώ](https://github.com/yearn/yearn-devdocs/blob/master/docs/developers/v2/EMERGENCY.md).
+
+Μπορείτε επίσης να δείτε λεπτομέρειες σχετικά με τα θησαυροφυλάκια και τις στρατηγικές στο [yearn.watch](https://yearn.watch/).
+
+Δείτε περισσότερες πληροφορίες σχετικά με τις διαδικασίες ασφαλείας της Yearn στο tweet του storming0x [εδώ](https://twitter.com/storming0x/status/1436851219864059906).
+
+## **Εισαγωγή στο yvBOOSTVault**
 
 ![](image2.png)
 
-CRV is curve.fi's governance token, which can be locked for up to 4 years and gives you the ability to vote and claim protocol fees. By using Yearn to lock your CRV for veCRV (vote-escrowed CRV), you can earn more rewards via Yearn periodically donating some of our farmed CRV to the yveCRV vault. So, in addition to normal CRV rewards, you will be able to claim Yearn's portion of Curve's protocol fees.
+Το CRV είναι το token διακυβέρνησης του curve.fi, το οποίο μπορεί να κλειδωθεί για έως και 4 χρόνια και σας δίνει τη δυνατότητα να ψηφίσετε και να διεκδικήσετε τέλη πρωτοκόλλου. Χρησιμοποιώντας το Yearn για να κλειδώσετε το CRV σας για veCRV (CRV με δέσμευση ψήφου), μπορείτε να κερδίσετε περισσότερες ανταμοιβές μέσω του Yearn, δωρίζοντας περιοδικά μερικά από τα CRV μας στο θησαυροφυλάκιο yveCRV. Έτσι, εκτός από τις κανονικές ανταμοιβές CRV, θα μπορείτε να διεκδικήσετε και το τμήμα του Yearn από τα τέλη πρωτοκόλλου του Curve.
 
-However, with veCRV deposited in Yearn (as yveCRV), you can't vote on Curve. Even with this minor setback, Yearn runs a simulation and votes to maximize yield across all vaults.
+Ωστόσο, με το veCRV που έχει κατατεθεί στο Yearn (ως yveCRV), δεν μπορείτε να ψηφίσετε στο Curve. Ακόμη και με αυτό το μικρό πρόβλημα, το Yearn εκτελεί μια προσομοίωση και ψηφίζει για τη μεγιστοποίηση της απόδοσης σε όλα τα θησαυροφυλάκια.
 
-One of our newer additions to Yearn is the yvBOOST vault, which is a compounding version of yveCRV. If you lock CRV here, it will claim the protocol rewards and automatically buy more yveCRV, thus compounding it. You can't vote with yvBOOST still, but the vault will automatically do it for you. Deposit and enjoy your rewards.
+Μία από τις νεότερες προσθήκες μας στο Yearn είναι το yvBOOST vault, το οποίο είναι μια σύνθετη έκδοση του yveCRV. Εάν κλειδώσετε το CRV εδώ, θα διεκδικήσει τις ανταμοιβές του πρωτοκόλλου και θα αγοράσει αυτόματα περισσότερο yveCRV, με αποτέλεσμα να το ανατοκίζει. Δεν μπορείτε να ψηφίσετε ακόμα με το yvBOOST, αλλά το θησαυροφυλάκιο θα το κάνει αυτόματα για εσάς. Καταθέστε και απολαύστε τις ανταμοιβές σας.
 
-If one needs stables from their deposits from the vaults, you can swap yveCRV and yvBOOST on SushiSwap.
+Αν κάποιος χρειάζεται stablecoins από τις καταθέσεις του από τα θησαυροφυλάκια, μπορείτε να ανταλλάξετε yveCRV και yvBOOST στο SushiSwap.
 
-If you don't have any CRV, thanks to Yearn Zaps, you can deposit virtually any crypto in your wallet into these vaults. And Yearn's smart contracts will automatically convert your tokens to yvBOOST.
+Εάν δεν έχετε CRV, χάρη στο Yearn Zaps, μπορείτε να καταθέσετε σχεδόν οποιοδήποτε tokem στο πορτοφόλι σας σε αυτά τα θησαυροφυλάκια. Και τα έξυπνα συμβόλαια του Yearn θα μετατρέψουν αυτόματα τα tokens σας σε yvBOOST.
 
-As always, thank you to our Strategists for always building top tier yield infrastructure for DeFi.
+Όπως πάντα, ευχαριστούμε τους Stategists μας που πάντα χτίζουν υποδομές κορυφαίας απόδοσης για το DeFi.
 
-Check out the vaults here at [yearn.finance/vaults](https://yearn.finance/vaults).
+Δείτε τα θησαυροφυλάκια εδώ στη διεύθυνση [yearn.finance/vaults](https://yearn.finance/vaults).
 
-## **Yearn Quarterly Financial Report**
+## **Τριμηνιαία Οικονομική Έκθεση έτους**
 
 ![](image3.png)
 
-Several Yearn community members have created an informal quarterly financial report covering the period from April 2021 to June 2021. This report was generated using publicly available information, and includes an income statement and balance sheet. This report has not been audited by a third-party professional accounting firm, and does not represent financial, investment, or advice of any kind. It is for informational purposes only.
+Αρκετά μέλη της κοινότητας του Yearn έχουν δημιουργήσει μια άτυπη τριμηνιαία οικονομική έκθεση που καλύπτει την περίοδο από τον Απρίλιο του 2021 έως τον Ιούνιο του 2021. Αυτή η αναφορά δημιουργήθηκε με χρήση δημοσίως διαθέσιμων πληροφοριών και περιλαμβάνει κατάσταση λογαριασμού αποτελεσμάτων και ισολογισμό. Αυτή η έκθεση δεν έχει ελεγχθεί από τρίτο επαγγελματικό λογιστικό εταιρεία και δεν αντιπροσωπεύει χρηματοοικονομικές, επενδυτικές ή συμβουλές οποιουδήποτε είδους. Είναι μόνο για ενημερωτικούς σκοπούς.
 
-You can view this report [here](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf).
+Μπορείτε να δείτε αυτήν την αναφορά [εδώ](https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf).
 
-## **Cumulative Protocol Revenue Reaches $41M**
+## **Τα σωρευτικά έσοδα πρωτοκόλλου φτάνουν τα $41 εκατομμύρια**
 
 ![](image4.png)
 
-Yearn has earned nearly $41 million in revenue, since launch (excluding the interest earned by depositors). In the past 30 days, nearly $6 million dollars in revenue has been generated by the protocol. An extrapolation of this data projects annual revenue to be nearly $60 million.
+Η Yearn έχει κερδίσει σχεδόν 41 εκατομμύρια δολάρια σε έσοδα από την κυκλοφορία του (χωρίς τους τόκους που κερδίζουν οι καταθέτες). Τις τελευταίες 30 ημέρες, σχεδόν 6 εκατομμύρια δολάρια σε έσοδα έχουν δημιουργηθεί από το πρωτόκολλο. Μια επέκταση αυτών των δεδομένων προβλέπει ότι τα ετήσια έσοδα θα είναι σχεδόν 60 εκατομμύρια δολάρια.
 
-Yearn's cumulative revenue and other statistics are viewable [here](https://www.yfistats.com/).
+Τα σωρευτικά έσοδα της Yearn και άλλα στατιστικά στοιχεία μπορούν να προβληθούν [εδώ](https://www.yfistats.com/).
 
 ## **Vaults At Yearn**
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Μπορείτε να διαβάσετε μια λεπτομερή περιγραφή των στρατηγικών για όλα τα ενεργά yVault μας [εδώ](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
 ## **Ecosystem News**
 
-[Sign up to become an intern at the yAcademy DAO and audit live smart contracts](https://twitter.com/yAcademyDAO/status/1435866622556659717)
+[Εγγραφείτε για να γίνετε ασκούμενος στο yAcademy DAO και ελέγξτε ζωντανά έξυπνα συμβόλαια](https://twitter.com/yAcademyDAO/status/1435866622556659717)
 
-[YFI/ETH SushiSwap liquidity tokens are available as collateral on OnX's Alpha Vaults](https://twitter.com/OnXFinance/status/1435229990681972741)
+[Τα tokens ρευστότητας YFI/ETH SushiSwap είναι διαθέσιμα ως εγγύηση στα Alpha Vaults του OnX](https://twitter.com/OnXFinance/status/1435229990681972741)
 
-[Yearn is supporting ETHGlobal and ETHOnline, with $4,000 in prizes available for hackers and the opportunity to collaborate with the Yearn team](https://twitter.com/iearnfinance/status/1436302183545196546)
+[To Yearn υποστηρίζει το ETHGlobal και το ETHOnline, με βραβεία 4.000 $ διαθέσιμα για χάκερ και την ευκαιρία να συνεργαστούν με την ομάδα του Yearn](https://twitter.com/iearnfinance/status/1436302183545196546)
 
-[rKP3R rewards added for Fixed Forex](https://twitter.com/thekeep3r/status/1437402914474037256)
+[Προστέθηκαν ανταμοιβές rKP3R στο Fixed Forex](https://twitter.com/thekeep3r/status/1437402914474037256)
 
-[Join tracheopteryx as he speaks at Messari 's #Mainnet2021 on Tuesday Sept 21 at 7:30pm UTC. This panel includes Ryan Watkins and Maki, and is called "Decentralized from Day One: Lessons in Organizational Design!"](https://twitter.com/tracheopteryx/status/1436257062971977729)
+[AΚούστε τον tracheopteryx καθώς μιλάει στο Messari's #Mainnet2021 την Τρίτη 21 Σεπτεμβρίου στις 7:30 μ.μ. UTC. Αυτό το πάνελ περιλαμβάνει τον Ryan Watkins και τον Maki και ονομάζεται "Αποκεντρωμένη από την πρώτη μέρα: Μαθήματα Οργανωτικού Σχεδιασμού!"](https://twitter.com/tracheopteryx/status/1436257062971977729)
 
-[Thank you to abracadabra.money for bringing 173.4M dollars of TVL to Yearn](https://twitter.com/danielesesta/status/1437372628054982663?s=20)
+[Ευχαριστούμε την abracadabra.money που έφερε 173,4 εκατομμύρια δολάρια TVL στο Yearn](https://twitter.com/danielesesta/status/1437372628054982663?s=20)
 
-[How to farm with your WOOFY on ape.tax](https://twitter.com/ape_tax/status/1436908119817211913?s=20)
+[Πώς να κάνετε farm αποδόσεις με το WOOFY σας στο ape.tax](https://twitter.com/ape_tax/status/1436908119817211913?s=20)
