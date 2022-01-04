@@ -19,14 +19,12 @@ Bienvenue à la 51e édition de la Newsletter Yearn Finance. Notre objectif avec
 ## Résumé
 
 - Fin du vote concernant la tokenomics du YFI
-
 - Yearn a acheté 7,5 millions de dollars de YFI
-
 - Proposition : Faire évoluer la Tokenomics de YFI
-
 - Article : Reborn As A Black Hole
-
 - Carte NFT pour les vacances
+- Vaults chez Yearn
+- Nouvelles de l’écosystème
 
 ## Fin du vote concernant la tokenomics du YFI
 
