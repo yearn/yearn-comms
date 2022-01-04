@@ -37,7 +37,7 @@ Esta seção aborda maneiras pelas quais você pode usar seu YFI sozinho. Métod
 O Yearn Finance YFI v2 yVault permite que você deposite o YFI e relaxe enquanto ganha rendimento nos melhores lugares para fazer-lo. No momento em que este artigo foi escrito, o vault abre um CDP e usa o DAI recém-criado para investir. Além disso, o yVault empresta YFI para CREAM e AAVE para obter mais rendimento.
 
 #### Site
-- [Yearn.Finance](https://yearn.finance/vaults/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1) 
+- [Yearn.Finance](https://yearn.finance/vaults/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1)
 
 #### Ferramentas
 - [Yearn Hub](https://yearn-hub.vercel.app/vault/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1): Este link mostrará quanto dos fundos no vault são alocados para quais estratégias.
@@ -207,7 +207,7 @@ AAVE é outro lugar onde você pode tomar um empréstimo usando seu YFI. Você p
 
 #### Ferramentas
 - [Ceazor Video Tutorial: AAVE v2](https://youtu.be/eMP_uIwniHc?t=46)
-- [Ceazor Video Tutorial: Getting Paid to Lend while Borrowing](https://youtu.be/AJx_TH3CMZc?t=407) 
+- [Ceazor Video Tutorial: Getting Paid to Lend while Borrowing](https://youtu.be/AJx_TH3CMZc?t=407)
 
 #### Riscos
 Risco de liquidação se você ultrapassar o índice de garantia de 40%, falha de contrato inteligente para AAVE, falha de oráculo (usa Chainlink) e falha de contrato inteligente para onde você empresta seus stablecoins. Você pode encontrar suas auditorias [aqui](https://docs.aave.com/developers/security-and-audits).

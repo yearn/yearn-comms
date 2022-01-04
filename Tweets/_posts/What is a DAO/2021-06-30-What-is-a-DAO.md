@@ -110,7 +110,6 @@ Por que aquele carinha sobreviveu e se transformou em mitocôndria quando o outr
 ##### 22
 Eu penso muito sobre isso. Fazer parte de uma forma de vida coletiva que sangra dinheiro e cresce em domínios além da minha imaginação pode ser confuso. Eu /não consigo/ entender o que ele precisa. Eu preciso abrir mão. E para fazer isso, preciso confiar que vou ficar bem.
 
-
 ##### 23
 Estruturas como ethereum, Teal Orgs, DAOs, coordinape e gov 2.0 me ajudam a confiar que a mente entre as mentes estará lá, e posso ir aonde meus interesses me levarem, sabendo que todo o organismo prosperará.
 

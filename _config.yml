@@ -127,15 +127,35 @@ authors:
 
 # Translators
 translators:
-  JKtranslator:
-    name: JKtranslator
-    display_name: JKtranslator
-    twitter: https://twitter.com/jameskbh
+  Bee926:
+    name: Bee926
+    display_name: Bee926
+    twitter: https://twitter.com/bee_926
+    blog: https://www.youtube.com/channel/UCacoBnE--eGgPnxBnu3DFJw
+    web: http://coinversation.org/
 
-  translator_02:
-    name:
-    display_name:
-    twitter:
+  Cryptouf:
+    name: Cryptouf
+    display_name: Cryptouf
+    twitter: https://twitter.com/cryptouf
+    blog: https://cryptoouf.com
+    web: https://cryptoouf.com/newsletter
+
+  Cripu:
+    name: Cripu
+    display_name: Cripu
+    twitter: https://twitter.com/CRYPTANNEWS
+    blog: https://www.cryptannews.com/
+
+  Dastronom:
+    name: Dastronom
+    display_name: Dastronom
+    twitter: https://twitter.com/Dastronomm
+
+  RestlessMik3:
+    name: RestlessMik3
+    display_name: RestlessMik3
+    twitter: https://twitter.com/margjr84
 
   🤖💵💵💰💰.eth:
       name: 🤖💵💵💰💰.eth
@@ -173,6 +193,12 @@ translators:
   Stathis:
     name: Stathis
     display_name: Stathis
+
+  Xiaona:
+    name: Xiaona
+    display_name: Xiaona
+    twitter: https://twitter.com/latingi44239287
+    blog: https://www.youtube.com/channel/UCacoBnE--eGgPnxBnu3DFJw
 
 # Social
 social:
