@@ -5,7 +5,7 @@ categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-50/image1.png
 author: Yearn
 translator:
-publish: true
+publish: false
 ---
 
 # Yearn Finance Newsletter #50
@@ -19,19 +19,12 @@ Welcome to the 50th edition of the Yearn Finance Newsletter. Our aim with this n
 ## Summary
 
 -   New Yearn UI
-    
 -   YFI Tokenomics Update Proposal
-    
 -   Updated Yearn Docs
-    
 -   YIP-64 Fails To Meet Quorum
-    
 -   Yearn Delegates 23M veCRV to Convex
-    
 -   Yearn Snapshot Strategy
-
 -   Vaults at Yearn
-
 -   Ecosystem News
 
 ## New Yearn UI
