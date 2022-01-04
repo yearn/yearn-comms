@@ -4,7 +4,7 @@ title:  "The Blue Pill"
 categories: [ Articles ]
 image: ./The-Blue-Pill/bluepill.jpg
 author: Yearn
-publish: true
+publish: false
 ---
 
 ブルーピル
