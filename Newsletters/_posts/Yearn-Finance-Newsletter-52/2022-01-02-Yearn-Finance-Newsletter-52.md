@@ -5,7 +5,7 @@ categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-52/image1.png
 author: Yearn
 translator:
-publish: true
+publish: false
 ---
 
 # Yearn Finance Newsletter #52
@@ -19,15 +19,10 @@ Welcome to the 52th edition of the Yearn Finance Newsletter. Our aim with this n
 ## Summary
 
 - YIP-65 Enters Voting
-
 - [Proposal] Mean - DCA Buyback Pilot Program
-
 - Reflecting on Yearn
-
 - Yearn Has Received a 1M FTM Grant From the Fantom Foundation
-
 - Vaults at Yearn
-
 - Ecosystem News
 
 ## YIP-65 Enters Voting
