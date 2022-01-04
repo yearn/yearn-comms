@@ -1,11 +1,7 @@
 name: Auto Close Issues
 
 on:
-<<<<<<< HEAD
   pull_request_target:
-=======
-  pull_request:
->>>>>>> 5983718 (feat: add workflow)
     types: [closed]
 jobs:
   close:
@@ -14,11 +10,7 @@ jobs:
       - uses: wow-actions/auto-close-fixed-issues@v1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-<<<<<<< HEAD
           # optional comment yolo
-=======
-          # optional comment
->>>>>>> 5983718 (feat: add workflow)
           # comment: 'This issue was closed by #{{ pr }}.'
           # default ignore the pr merge to the default branch
           # ignore: true
