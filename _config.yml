@@ -131,7 +131,7 @@ translators:
     name: Bee926
     display_name: Bee926
     twitter: https://twitter.com/bee_926
-    blog: https://www.youtube.com/channel/UCEmqb4A_fJ5Jseb-TBpGaIg
+    blog: https://www.youtube.com/channel/UCacoBnE--eGgPnxBnu3DFJw
     web: http://coinversation.org/
 
   Cryptouf:
@@ -193,6 +193,12 @@ translators:
   Stathis:
     name: Stathis
     display_name: Stathis
+
+  Xiaona:
+    name: Xiaona
+    display_name: Xiaona
+    twitter: https://twitter.com/latingi44239287
+    blog: https://www.youtube.com/channel/UCacoBnE--eGgPnxBnu3DFJw
 
 # Social
 social:

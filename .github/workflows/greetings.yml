@@ -1,0 +1,16 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Thanks for taking the time to help us improve our translation blog, we will look into this issue as soon as possible.'
+        pr-message: 'Hello! Thanks for making a PR to our translation repository. If you are a new contributor to Yearn Finance fill out our onboarding form [here](https://yearnfinance.typeform.com/onboarding) and you can reach out to us in our [discord](discord.yearn.finance) at #translations.'
