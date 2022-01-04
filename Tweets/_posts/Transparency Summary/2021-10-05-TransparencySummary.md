@@ -4,9 +4,10 @@ title:  "Transparency Summary"
 categories: [ Tweets ]
 image: ./TransparencySummary/image1.jpg
 author: Yearn
-translator:Cryptouf
+translator: Cryptouf
 publish: true
 ---
+
 source originale: [twitter](https://twitter.com/iearnfinance/status/1445143482830446600)
 
 ##### 1
@@ -48,7 +49,7 @@ En effet, vous pouvez suivre chaque transaction liée à Yearn en temps réel su
 
 ##### 4
 
-Vous y trouverez  :
+Vous y trouverez:
 
 🔵 Toutes le stransactions
 
