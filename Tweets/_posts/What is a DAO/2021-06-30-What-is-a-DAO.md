@@ -110,7 +110,6 @@ Warum hat der kleine Kerl überlebt und sich in Mitochondrien verwandelt, als de
 ##### 22
 Ich denke oft darüber nach. Teil einer kollektiven Lebensform zu sein, die Geld blutet und in Bereichen wächst, die meine Vorstellungskraft übersteigen, kann verwirrend sein. Ich kann (nicht) verstehen, was es braucht. Ich muss loslassen können. Und um das zu tun, muss ich darauf vertrauen, dass es mir gut gehen wird.
 
-
 ##### 23
 Strukturen wie Ethereum, Teal Orgs, DAOs, Coordinape und Gov 2.0 helfen mir, darauf zu vertrauen, dass der Geist zwischen den Köpfen da sein wird, und ich kann gehen, wohin meine Interessen mich führen, in dem Wissen, dass der gesamte Organismus gedeihen wird.
 
