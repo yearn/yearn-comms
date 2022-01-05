@@ -5,7 +5,7 @@ categories: [Tweets]
 image: ./What-can-you-do-in-a-DAO/3_1473291057580367879.jpg
 author: Tracheopteryx
 translator:
-publish: true
+publish: false
 ---
 
 original source: [twitter](https://twitter.com/tracheopteryx/status/1473314953713045507)
