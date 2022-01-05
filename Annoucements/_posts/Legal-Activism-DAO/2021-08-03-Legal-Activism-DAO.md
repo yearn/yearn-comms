@@ -4,8 +4,8 @@ title:  "प्रपोजल फंड बिल्डर पहला का�
 categories: [ Annoucements ]
 image: ./Legal-Activism-DAO/1.jpg
 author: LexPunk DAO
-translator:
-publish: false
+translator: jengajojo
+publish: true
 ---
 
 ![](1.jpg)
