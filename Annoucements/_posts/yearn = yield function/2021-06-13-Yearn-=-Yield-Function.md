@@ -3,9 +3,9 @@ layout: post
 title:  "क्या होगा अगर यर्न वेब का यील्ड फंक्शन हो तो ?"
 categories: [ Annoucements ]
 image: ./Yearn-=-Yield-Function/yield1.jpg
-author: यर्न
+author: Yearn
 translator: jengajojo
-publish: false
+publish: true
 ---
 
 ![](yield1.jpg)
