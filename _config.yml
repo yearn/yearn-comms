@@ -160,7 +160,6 @@ translators:
   🤖💵💵💰💰.eth:
       name: 🤖💵💵💰💰.eth
       display_name: 🤖💵💵💰💰.eth
-      web: https://y.at/robot.banknote.banknote.money-bag.money-bag
 
   Nesyeth:
     name: Nesyeth
@@ -183,21 +182,13 @@ translators:
     name: Major-Rager
     display_name: Major-Rager
 
-  JKtranslator:
-    name: JKtranslator
-    display_name: JKtranslator
-    twitter: https://twitter.com/jameskbh
+  Jameskbh:
+    name: Jameskbh
+    display_name: Jameskbh
 
   Japzar:
     name: Japzar
     display_name: Japzar
-    twitter: https://twitter.com/OraculumEth
-
-  Cripu:
-    name: Cripu
-    display_name: Cripu
-    twitter: https://twitter.com/CRYPTANNEWS
-    blog: https://www.cryptannews.com/
 
   Stathis:
     name: Stathis
