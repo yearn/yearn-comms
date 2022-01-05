@@ -5,7 +5,7 @@ categories: [Tweets]
 image: ./Why-is-Yearn-Finance-Built-Different/3_1477267208262885377.jpg
 author: Wot_Is_Goin_On
 translator:
-publish: true
+publish: false
 ---
 
 original source: [twitter](https://twitter.com/Wot_Is_Goin_On/status/1477277152336916484)
