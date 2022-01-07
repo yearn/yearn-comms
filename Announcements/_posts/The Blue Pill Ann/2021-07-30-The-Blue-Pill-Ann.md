@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Blue Pill"
-categories: [ Annoucements ]
+categories: [ Announcements ]
 image: ./The-Blue-Pill-Ann/thebluebook.jpg
 author: Yearn
 translator: JKtranslator

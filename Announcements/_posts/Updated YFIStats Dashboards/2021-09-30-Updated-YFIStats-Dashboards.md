@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Update YFIStats Dashboards"
-categories: [ Annoucements ]
+categories: [ Announcements ]
 image: ./Updated-YFIStats-Dashboards/1.jpg
 author: Yearn
 translator: jameskbh
