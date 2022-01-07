@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Update Bowswap"
-categories: [ Annoucements ]
+categories: [ Announcements ]
 image: ./Update-Bowswap.Finance/image1.jpg
 author: Yearn
 translator:
