@@ -3,7 +3,7 @@ services:
     image: jekyll/jekyll:latest
     environment:
       - JEKYLL_ENV=docker
-    command: jekyll serve --watch --force_polling --verbose --livereload
+    command: jekyll serve --watch --force_polling --verbose --livereload --config  _config.yml,_config.docker.yml
     ports:
       - 4000:4000
     volumes:
