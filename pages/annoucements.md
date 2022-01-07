@@ -1,7 +1,7 @@
 ---
-layout: annoucements
-title: Annoucements
-permalink: "/annoucements/"
+layout: announcements
+title: Announcements
+permalink: "/announcements/"
 ---
 
-This page has the most up to date annoucements from Yearn Finance. 
+This page has the most up to date announcements from Yearn Finance.

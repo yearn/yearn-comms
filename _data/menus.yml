@@ -1,8 +1,7 @@
 # Top Menu
 topmenu:
-
-- title: Annoucements
-  url: "annoucements/"  
+- title: Announcements
+  url: "announcements/"  
 
 - title: Newsletters
   url: "newsletters/"
