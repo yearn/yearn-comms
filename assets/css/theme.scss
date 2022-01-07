@@ -16,7 +16,7 @@ $blue:    #3d61fd !default;
 /* add additional CSS rules below */
 html {
     scroll-behavior: smooth;
-  }
+}
 
 body {
     background:#f3f3f3;
@@ -618,4 +618,67 @@ span.navigation:before {
 .hover-opacity:hover {
     transition: all.3s;
     opacity:.8;
+}
+
+.card-block {
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+
+.masonry-wrapper {
+    padding: 1.5em;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.masonry {
+    display: grid;
+    grid-template-columns: repeat(1, minmax(100px, 1fr));
+    grid-gap: 17px;
+    grid-auto-rows: 0;
+}
+
+@media only screen and (max-width: 1023px) and (min-width: 768px) {
+    .masonry {
+        grid-template-columns: repeat(2, minmax(100px, 1fr));
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .masonry {
+        grid-template-columns: repeat(3, minmax(100px, 1fr));
+    }
+}
+@media only screen and (max-width: 767px) {
+    .masonry {
+        margin-left: -1.5rem;
+        margin-right: -1.5rem;
+    }
+}
+
+
+.masonry-item,
+.masonry-content {
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.masonry-item {
+    filter: drop-shadow(0px 2px 2px rgba(0, 0, 0, .3));
+    transition: filter .25s ease-in-out;
+}
+
+.masonry-item:hover {
+    filter: drop-shadow(0px 5px 5px rgba(0, 0, 0, .3));
+}
+
+.masonry-content {
+    overflow: hidden;
+}
+
+.masonry-item {
+    color: #111111;
+    background-color: #f9f9f9;
 }
