@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blue Pill Release"
-categories: [ Annoucements ]
+categories: [ Announcements ]
 image: ./Blue-Pill-Release/thebluepill.jpg
 author: Yearn
 translator:
