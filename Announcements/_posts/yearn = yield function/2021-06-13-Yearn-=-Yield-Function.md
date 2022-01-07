@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What if Yearn = the web's yield function?"
-categories: [ Annoucements ]
+categories: [ Announcements ]
 image: ./Yearn-=-Yield-Function/yield1.jpg
 author: Yearn
 translator: 🤖💵💵💰💰.eth

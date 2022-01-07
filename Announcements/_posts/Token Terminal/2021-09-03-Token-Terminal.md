@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Token Terminal"
-categories: [ Annoucements ]
+categories: [ Announcements ]
 image: ./Token-Terminal/1.jpg
 author: Yearn
 translator: 🤖💵💵💰💰.eth
