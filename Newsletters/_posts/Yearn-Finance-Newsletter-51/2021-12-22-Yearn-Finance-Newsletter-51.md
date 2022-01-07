@@ -4,96 +4,97 @@ title: "Yearn Finance Newsletter #51"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-51/image1.png
 author: Yearn
-translator:
-publish: false
+translator: jameskbh
+publish: true
 ---
 
 # Yearn Finance Newsletter #51
 
-### Week Ending December 19th, 2021
+### Semana encerrada em 19 de dezembro de 2021
 
 ![](image1.png)
 
-Welcome to the 51th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Bem-vindo à 51ª edição da Yearn Finance Newsletter. Nosso objetivo com este boletim é manter a comunidade da Yearn e a comunidade cripto em geral informadas sobre as notícias mais recentes, incluindo lançamentos de produtos, mudanças de governança e atualizações do ecossistema. Se você estiver interessado em aprender mais sobre Yearn Finance, siga nossas contas oficiais [Twitter](https://twitter.com/iearnfinance) e [Medium](https://medium.com/iearn).
 
-## Summary
+## Sumário
 
-- YFI Tokenomics Poll Finalized
-- Yearn Has Purchased $7.5M of YFI
-- Proposal: Evolving YFI’s Tokenomics
-- Report: Reborn As A Black Hole
-- Yearn Holiday Card NFT
-- Vaults at Yearn
-- Ecosystem News
+- Pesquisa Modelo Econômico do Token YFI finalizado
+- Yearn comprou $ 7,5 milhões de YFI
+- Proposta: Evolução do Modelo Econômico do Token YFI
+- Relatório: Renascido como um buraco negro
+- Cartão de Natal Yearn NFT
+- Vaults na Yearn
+- Notícias do Ecossistema
 
-## YFI Tokenomics Poll Finalized
+## Pesquisa Modelo Econômico do Token YFI finalizado
 
-The YFI tokenomics poll has ended with xYFI as the leading option. xYFI suggests the creation of a YFI staking vault where excess treasury earnings are to be sent.
+A pesquisa do modelo econômico do token (tokenomics) YFI terminou com xYFI como a opção principal. xYFI sugere a criação de um vault de staking YFI para onde os lucros do tesouro excedentes devem ser enviados.
 
-Huge thanks to [Fin4Dao](https://twitter.com/Fin4Dao) for all the facilitation work. Check out the snapshot [here](https://snapshot.org/#/ybaby.eth/proposal/0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea).
+Muito obrigado a [Fin4Dao](https://twitter.com/Fin4Dao) por todo o trabalho de facilitação. Confira o snapshot [aqui](https://snapshot.org/#/ybaby.eth/proposal/0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea).
 
-## Yearn Has Purchased $7.5M of YFI
+## Yearn comprou $ 7,5 milhões de YFI
 
 ![](image2.png)
 
-Yearn has purchased $7,526,343 worth of YFI from the open market. We got 282.4 YFI (0.77% of total supply) at an average price of $26,651. More YFI has been bought back in the past month than in the prior year.
+Yearn comprou $ 7.526.343 em YFI do mercado aberto. Obtivemos 282,4 YFI (0,77% do fornecimento total) a um preço médio de $ 26.651. Mais YFI foi comprado de volta no mês passado do que no ano anterior.
 
-Now that the Treasury has more than $45 million saved up and with earnings stronger than ever, expect much more aggressive buybacks. What will you do anon?
+Agora que o Tesouro tem mais de US$ 45 milhões em caixa e com ganhos mais fortes do que nunca, espere recompras muito mais agressivas. O que você fará, anon?
 
-We have also been purchasing back a significant amount of yvBOOST in order to restore the peg. Transactions can be found here: [https://etherscan.io/token/0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a?a=0x7d2aB9CA511EBD6F03971Fb417d3492aA82513f0](https://etherscan.io/token/0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a?a=0x7d2aB9CA511EBD6F03971Fb417d3492aA82513f0)
+Também temos comprado de volta uma quantidade significativa de yvBOOST para restaurar o lastro. As transações podem ser encontradas aqui: [https://etherscan.io/token/0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a?a=0x7d2aB9CA511EBD6F03971Fb417d3492aA82513f0](https://etherscan.io/token/0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a?a=0x7d2aB9CA511EBD6F03971Fb417d3492aA82513f0)
 
-## Proposal: Evolving YFI’s Tokenomics
+## Proposta: Evolução do Modelo Econômico do Token YFI
 
 ![](image3.png)
 
-Step 1 is xYFI, where one stakes in the xYFI vault, earning back YFI from the treasury.
+A etapa 1 é xYFI, em que se faz stake no vault xYFI, ganhando de volta YFI da tesouraria.
 
-Step 2 is veYFI, where one vote-locks YFI, with decay and time extension. Max-lock and earn disproportionate rewards compared to those who lock for shorter duration. Early exit any time but pay a penalty to the other stakers.
+A etapa 2 é veYFI, onde se bloqueia o YFI para voto, com prazo definido, mas também com extensão de tempo. Faça o bloqueio pelo tempo máximo e ganhe recompensas desproporcionais em comparação com aqueles que bloqueiam por um período mais curto. Saia antecipadamente a qualquer momento, mas pague uma penalidade para os outros stakers.
 
-Step 3 is Vault gauges, where one stakes their yVault token in a gauge, earning YFI rewards, boosted by how much veYFI they have staked. Vote on which vaults should get allocated rewards. Pay a penalty to other stakers if you don't have a strong enough lock.
+A etapa 3 é os Vault gauges, onde se faz stake de seu token yVault em um gauge, ganhando recompensas YFI, aumentadas por quanto veYFI colocaram em stake. Vote em quais vaults devem receber recompensas alocadas. Pague uma penalidade para os outros stakers se você não tiver um bloqueio forte o suficiente.
 
-Step 4 is useful work, in which veYFI holders earn additional rewards by doing useful work. This is is pending the final form of the vaults v3 design. Things that it could be (but not limited to) includes configuring vault parameters, setting fees, providing insurance.
+O passo 4 é um trabalho útil, no qual os titulares da veYFI ganham recompensas adicionais por fazer um trabalho útil. Isso está aguardando a forma final do design dos vaults v3. Coisas que poderiam ser (mas não se limitando a) incluem configurar parâmetros de vault, definir taxas, fornecer seguro.
 
-The proposal asks that the mandate is given to developers to implement these high level designs at their discretion. Once rolled out, only xYFI and later veYFI would be eligible to vote in Yearn Governance.
+A proposta pede que o mandato seja dado aos desenvolvedores para implementar esses projetos de alto nível a seu critério. Uma vez implementado, apenas xYFI e posteriormente veYFI seriam elegíveis para votar na governança Yearn.
 
-What will the rewards be, you ask? The treasury is buying back more YFI than ever, and expect to be able to direct $35-45m to buybacks per year. At a YFI price of $30k, that's 100 YFI/month.
+Quais serão as recompensas, você pergunta? O tesouro está recomprando mais YFI do que nunca e espera poder direcionar US$ 35-45 milhões para recompras por ano. A um preço YFI de $ 30k, isso equivale a 100 YFI / mês.
 
-Read all the details in the proposal [here](https://gov.yearn.finance/t/proposal-evolving-yfi-tokenomics/11994), get involved, and let us know what you think. A big shout out to all the participants on the forum, Discord, and Telegram chats who helped shape the form of this proposal over the past two months.
+Leia todos os detalhes da proposta [aqui](https://gov.yearn.finance/t/proposal-evolving-yfi-tokenomics/11994), envolva-se e diga-nos o que você pensa. Um grande alô para todos os participantes do fórum, bate-papos do Discord e do Telegram que ajudaram a moldar a forma dessa proposta nos últimos dois meses.
 
-## Report: Reborn As A Black Hole
+## Relatório: Renascido como um buraco negro
 
 ![](image4.png)
 
-Ape Froman has recently published a report detailing a comprehensive overview of Yearn, and he details the recent tokenomics troubles at Yearn, potential fixes, and further integrations of the YFI token into the greater DeFi ecosystem. This will allow better value capture for holders and allow for a potential imbalance in the circulating supply of YFI - thus driving demand.
+Ape Froman publicou recentemente um relatório detalhando uma visão abrangente de Yearn, e ele detalha os problemas recentes do tokenomics em Yearn, possíveis correções e integrações adicionais do token YFI no grande ecossistema DeFi. Isso permitirá uma melhor captura de valor para os detentores do token, e permitirá um desequilíbrio potencial na oferta circulante de YFI - impulsionando assim a demanda.
 
-Special thanks to [Ape Froman](https://medium.com/@portiadog) for the thoughtful writeup. Check out the full piece [here](https://medium.com/@portiadog/yfi-reborn-as-a-black-hole-db249b90ed5a).
+Agradecimentos especiais a [Ape Froman](https://medium.com/@portiadog) pela redação atenciosa. Confira a peça completa [aqui](https://medium.com/@portiadog/yfi-reborn-as-a-black-hole-db249b90ed5a).
 
-## Yearn Holiday Card NFT
+## Cartão de Natal Yearn NFT
 
 ![](image5.png)
 
-Get in on Project Galaxy's Holiday Treasure Hunt and grab this Yearn Holiday Card NFT, just for being a Yearn Newsletter subscriber.
+Participe da caça ao tesouro do projeto Galaxy e pegue este cartão de férias Yearn NFT, apenas por ser um assinante do boletim informativo Yearn.
 
-Collect all 12 NFTs from Project Galaxy ecosystem partners and you'll get an additional Galaxy Girl NFT, which our friends at Project Galaxy will use to drop you future goodies. Probably nothing.
+Colete todos os 12 NFTs dos parceiros do ecossistema do Projeto Galaxy e você receberá um Galaxy Girl NFT adicional, que nossos amigos do Projeto Galaxy usarão para lhe entregar presentes futuros. Significa provavelmente nada.
 
-Steps are as follows: subscribe to Yearn’s weekly [newsletter](https://yearn.substack.com/), confirm your (new or existing) subscription on this [Google form](https://forms.gle/gsVpRsjdSXxyaXha9), and claim your rewards [here](https://galaxy.eco/yearn/campaign/GCTj8UUaoD).
+As etapas são as seguintes: assinar o [boletim informativo](https://yearn.substack.com/), confirmar sua assinatura (nova ou existente) neste [formulário do Google](https://forms.gle/gsVpRsjdSXxyaXha9) e resgate suas recompensas [aqui](https://galaxy.eco/yearn/campaign/GCTj8UUaoD).
 
-Happy hunting and happy holidays from Yearn!
+Boas caçadas e boas festas de Yearn!
 
-## Vaults At Yearn
+## Vaults na Yearn
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Você pode ler uma descrição detalhada das estratégias para todos os nossos yVaults ativos [aqui](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-## Ecosystem News
+## Notícias do Ecossistema
 
-[Check out Facu’s security chat with the Wido team who are building on top of Yearn](https://www.joinwido.com/blog/chat-with-facu-about-wido-together-and-its-security-model)
+[Confira o bate-papo de segurança de Facu com a equipe Wido que está construindo usando Yearn](https://www.joinwido.com/blog/chat-with-facu-about-wido-together-and-its-security-model)
 
-[Deposit in Yearn with lower gas fees thanks to Argent’s L2 Wallet](https://twitter.com/argentHQ/status/1471503921851944983)
+[Deposite em Yearn com taxas de gás mais baixas graças ao Argent L2 Wallet](https://twitter.com/argentHQ/status/1471503921851944983)
 
-[See the YFI pendant made by loldefi](https://twitter.com/loldefi/status/1470449196939493383)
+[Veja o pendente YFI feito por loldefi](https://twitter.com/loldefi/status/1470449196939493383)
 
-[$GEAR holders are eligible to vote on GIP-2 and GIP-3 to include YFI and Yearn contracts](https://twitter.com/GearboxProtocol/status/1472299963149426696?s=20)
+[Titulares de $GEAR são elegíveis para votar em GIP-2 e GIP-3 para incluir YFI e contratos Yearn](https://twitter.com/GearboxProtocol/status/1472299963149426696?s=20)
 
-[Anyone in the world can contribute to the Yearn experience](https://twitter.com/bantg/status/1472038972092207107?s=20)
+[Qualquer pessoa no mundo pode contribuir para a experiência Yearn](https://twitter.com/bantg/status/1472038972092207107?s=20)
 
-[Get insured on your Yearn deposits with solace.fi](https://twitter.com/SolaceFi/status/1471594979638321153?s=20)
+[Faça seguro de seus depósitos Yearn com solace.fi](https://twitter.com/SolaceFi/status/1471594979638321153?s=20)
+
