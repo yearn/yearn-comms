@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Yearn & Synthetix DAO twitter space"
-categories: [ Annoucements ]
+categories: [ Announcements ]
 image: ./Yearn-&-Synthetix-DAO-twitter-space/1.jpg
 author: Yearn
 translator: 
