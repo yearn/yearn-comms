@@ -28,20 +28,73 @@ background: '/img/bg-index.jpg'
 ================================================== -->
 <section class="row">
   <div class="row-sm-8">
-    <div class="row">
-      {% for post in paginator.posts %}
-      {% unless post.publish == false %}
-      <div class="col-md-4 mb-5">
-        {% include postbox.html %}
+    <div class="masonry-wrapper">
+      <div class="masonry">
+        {% for post in paginator.posts %}
+        {% unless post.publish == false %}
+        <div class="masonry-item">
+          {% include postbox.html %}
+        </div>
+        {% endunless %}
+        {% endfor %}
       </div>
-      {% endunless %}
-      {% endfor %}
     </div>
     <!-- Pagination -->
     <div class="bottompagination">
       <span class="navigation" role="navigation">
-          {% include pagination.html %}
+        {% include pagination.html %}
       </span>
     </div>
   </div>
 </section>
+
+<script src="//unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+<script>
+  function resizeMasonryItem(item) {
+    var grid = document.getElementsByClassName('masonry')[0];
+    if (grid) {
+      var rowGap = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-row-gap')),
+        rowHeight = parseInt(window.getComputedStyle(grid).getPropertyValue('grid-auto-rows')),
+        gridImagesAsContent = item.querySelector('masonry-image');
+
+      var rowSpan = Math.ceil((item.querySelector('.masonry-content').getBoundingClientRect().height + rowGap) / (
+        rowHeight + rowGap));
+
+      /* Set the spanning as calculated above (S) */
+      item.style.gridRowEnd = 'span ' + rowSpan;
+      if (gridImagesAsContent) {
+        item.querySelector('masonry-image').style.height = item.getBoundingClientRect().height + "px";
+      }
+    }
+  }
+
+  function resizeAllMasonryItems() {
+    var allItems = document.querySelectorAll('.masonry-item');
+    if (allItems) {
+      for (var i = 0; i > allItems.length; i++) {
+        resizeMasonryItem(allItems[i]);
+      }
+    }
+  }
+
+  function waitForImages() {
+    var allItems = document.querySelectorAll('.masonry-item');
+    if (allItems) {
+      for (var i = 0; i < allItems.length; i++) {
+        imagesLoaded(allItems[i], function (instance) {
+          var item = instance.elements[0];
+          resizeMasonryItem(item);
+          console.log("Waiting for Images");
+        });
+      }
+    }
+  }
+
+  /* Resize all the grid items on the load and resize events */
+  var masonryEvents = ['load', 'resize'];
+  masonryEvents.forEach(function (event) {
+    window.addEventListener(event, resizeAllMasonryItems);
+  });
+
+  waitForImages();
+</script>
