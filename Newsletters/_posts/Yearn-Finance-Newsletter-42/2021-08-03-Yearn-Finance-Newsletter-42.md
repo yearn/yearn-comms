@@ -17,7 +17,7 @@ publish: true
 ## **Σύνοψη**
 
 - Το μπλε χάπι του Yearn
-- Στιγμιότυπο Woofy Εβδομάδα 11
+- Snapshot για το Woofy, Εβδομάδα 11
 - Μετανάστευεσε ή Πέθανε
 - Νέα Στρατηγική ψηφοφορίας του Curve Gauge
 - Ανακαλύψτε το "The Pickle Jars"
@@ -36,7 +36,7 @@ publish: true
 
 Διεκδικήστε τα βιβλία σας [εδώ](https://galaxy.eco/yearn) και δείτε ολόκληρο το βιβλίο [εδώ](https://thebluepill.eth.link/).
 
-## **Στιγμιότυπο Woofy Εβδομάδα 11**
+## **Snapshot για το Woofy, Εβδομάδα 11**
 
 ![](image3.png)
 
