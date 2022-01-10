@@ -1,26 +1,26 @@
 ---
 layout: post
-title: "What can you do in a DAO?"
+title: "O que você pode fazer em um DAO?"
 categories: [Tweets]
 image: ./What-can-you-do-in-a-DAO/3_1473291057580367879.jpg
 author: Tracheopteryx
-translator:
-publish: false
+translator: jameskbh
+publish: true
 ---
 
-original source: [twitter](https://twitter.com/tracheopteryx/status/1473314953713045507)
+fonte: [twitter](https://twitter.com/tracheopteryx/status/1473314953713045507)
 
 ---
 
 ##### 1
 
-Making the jump to working for a DAO can be a challenge.
+Fazer o salto para trabalhar para um DAO pode ser um desafio.
 
-I've helped dozens of newbies into the space over these past 18 months and the thing that is often most difficult for them is this simple question:
+Ajudei dezenas de novatos no espaço nos últimos 18 meses e o que geralmente é mais difícil para eles é esta pergunta simples:
 
-"What should I do?" 🤔
+"O que eu devo fazer?" 🤔
 
-Here's a thread on how to figure that out:
+Aqui está um fio sobre como descobrir isso:
 
 ![3_1473291057580367879](3_1473291057580367879.jpg)
 
@@ -28,9 +28,9 @@ Here's a thread on how to figure that out:
 
 ##### 2
 
-In a real DAO work happens differently.
+Em um DAO real, o trabalho acontece de forma diferente.
 
-It's like the difference between a robot and an amoeba — DAOs are like bowls of amino acids waiting for some ribosome to come and stack them into proteins, not like a carefully designed servomotor awaiting its preset electrical impulse.
+É como a diferença entre um robô e uma ameba – DAOs são como tigelas de aminoácidos esperando que algum ribossomo venha e os empilhe em proteínas, não como um servomotor cuidadosamente projetado aguardando seu impulso elétrico predefinido.
 
 ![3_1473314358570766343](3_1473314358570766343.jpg)
 
@@ -38,11 +38,11 @@ It's like the difference between a robot and an amoeba — DAOs are like bowls o
 
 ##### 3
 
-And there are no college courses on how to be a DAO ribosome (yet).
+E não há cursos universitários sobre como ser um ribossomo DAO (ainda).
 
-You are in the soup and you need to figure out what to do with very little guidance. It's really like what Yoda said.
+Você está na sopa, e precisa descobrir o que fazer com muito pouca orientação. É realmente como o que Yoda disse.
 
-We've suffered hundreds of years of gaslighting to construct the idea of a "work ethic" ... <br>
+Sofremos centenas de anos de informações distorcidas para construir a ideia de uma "ética de trabalho"... <br>
 
 <img src="Yoda.gif" width="100%">
 
@@ -50,9 +50,9 @@ We've suffered hundreds of years of gaslighting to construct the idea of a "work
 
 ##### 4
 
-... in order to numb our instincts, tricking us into thinking our lives are best spent as wage slaves.
+... a fim de entorpecer nossos instintos, enganando-nos a pensar que nossas vidas são melhor gastas como escravos assalariados.
 
-Most of us have been so divorced from the connection to our own internal needs and desires that it's almost impossible to answer the question of "what do I really want?"
+A maioria de nós está tão divorciada da conexão com nossas próprias necessidades e desejos internos que é quase impossível responder à pergunta "o que eu realmente quero?"
 
 ![3_1473305925603803143](3_1473305925603803143.jpg)
 
@@ -60,25 +60,25 @@ Most of us have been so divorced from the connection to our own internal needs a
 
 ##### 5
 
-And, strange as it may seem, this is the question that DAOs need us to answer.
+E, por mais estranho que pareça, essa é a pergunta que os DAOs precisam que respondamos.
 
-Because, like biology, DAOs rely on each of us following our own wisdom. Each component of a DAO needs to be able to decide for itself what to do though self-knowledge & realtime sensing of the whole.
+Porque, como a biologia, os DAOs confiam em cada um de nós seguindo nossa própria sabedoria. Cada componente de um DAO precisa ser capaz de decidir por si mesmo o que fazer através do autoconhecimento e da percepção em tempo real do todo.
 
 ---
 
 ##### 6
 
-This is not a "flat organization" that concept doesn't work. Hierarchy is an essential feature of our reality (the sun is bigger than the earth, get over it).
+Esta não é uma "organização horizontal". Este conceito não funciona. A hierarquia é uma característica essencial da nossa realidade (o sol é maior que a terra, supere isso).
 
-What is important is fluid hierarchy where the leader is the one who knows what to do next. (And process & structure.)
+O importante é uma hierarquia fluida onde o líder é quem sabe o que fazer a seguir. (E também processo e estrutura.)
 
 ---
 
 ##### 7
 
-Getting back to what to do, I created this diagram based on the Japanese concept of Ikigai, adapting it to be DAO-centric, though most of it is the same.
+Voltando ao que fazer, criei este diagrama baseado no conceito japonês de Ikigai, adaptando-o para ser centrado em DAO, embora a maior parte seja a mesma.
 
-I'll walk through each circle.
+Vou percorrer cada círculo.
 
 <table><tr>
 <td> <img src="3_1473304133268643850.jpg" style="width: 500px;"/> </td>
@@ -91,9 +91,9 @@ I'll walk through each circle.
 
 👉 What the 𝔻𝔸𝕆 ℕ𝔼𝔼𝔻𝕊
 
-Anything in this circle is valuable for the DAO. Check github issues, bounty boards, notion pages, discord channels, or whatever other resources the DAO has for surfacing needed work.
+Qualquer coisa neste círculo é valiosa para o DAO. Verifique problemas no github, quadros de recompensas, páginas do Notion, canais do Discord ou quaisquer outros recursos que o DAO tenha para revelar o trabalho necessáro.
 
-Find some work that calls to you, and do it.
+Encontre algum trabalho que chame sua atenção e faça-o.
 
 ---
 
@@ -101,9 +101,9 @@ Find some work that calls to you, and do it.
 
 👉 What You Can Be ℙ𝔸𝕀𝔻 𝔽𝕆ℝ
 
-Not all contributions are of equal value. If you can earn $1,000/hr as a logo designer then in general that kind of work is going to be of greater service to the DAO than something you can't get paid much for.
+Nem todas as contribuições têm o mesmo valor. Se você pode ganhar $ 1.000/h como designer de logotipo, em geral esse tipo de trabalho será de maior utilidade para o DAO do que algo pelo qual você não pode ser pago muito.
 
-But that isn't the only factor.
+Mas esse não é o único fator.
 
 ---
 
@@ -111,9 +111,9 @@ But that isn't the only factor.
 
 👉 What You 𝕃𝕆𝕍𝔼
 
-Maybe you get paid bank for logos, but if you hate doing them, chances are they won't actually be that good and further, you won't stick around long.
+Talvez você seja pago muito bem por logotipos, mas se você odeia fazê-los, é provável que eles não sejam tão bons e, além disso, você não fique por muito tempo.
 
-Life is too short not to do what you love. And work done with love is always stronger.
+A vida é muito curta para não fazer o que você ama. E o trabalho feito com amor é sempre mais forte.
 
 ---
 
@@ -121,29 +121,29 @@ Life is too short not to do what you love. And work done with love is always str
 
 👉 What You Are 𝔹𝔼𝕊𝕋 𝔸𝕋
 
-One of the great joys in the world is to work with brilliant colleagues. Imagine what it would be like if we each did what we were best at?
+Uma das grandes alegrias do mundo é trabalhar com colegas brilhantes. Imagine como seria se cada um de nós fizesse o que somos melhores?
 
-(I don't have to imagine, I contribute at [@iearnfinance](https://twitter.com/iearnfinance) and [@coordinape](https://twitter.com/coordinape).)
+(Não preciso imaginar, contribuo em [@iearnfinance](https://twitter.com/iearnfinance) e [@coordinape](https://twitter.com/coordinape).)
 
 ---
 
 ##### 12
 
-We need to start thinking from the DAO's perspective.
+Precisamos começar a pensar na perspectiva do DAO.
 
-What work will be of most value to the DAO?
+Que trabalho será de maior valor para o DAO?
 
-How can I be of most service?
+Como posso ser mais útil?
 
-Everything in the "what the DAO needs" circle is valuable, but it's the red areas that will be most valuable. And the middle is where magic happens.
+Tudo no círculo "o que o DAO precisa" é valioso, mas são as áreas vermelhas que serão mais valiosas. E no meio é onde a mágica acontece.
 
 ---
 
 ##### 13
 
-We do not need to make any more FAANG behemoths. The world honestly can't survive that. DAOs can be something different.
+Não precisamos fazer mais gigantes FAANG. O mundo honestamente não pode sobreviver a isso. DAOs podem ser algo diferente.
 
-Working can be a /joy/ not a burden. Compensation can be a gift, not a competition. And maybe 'corporations' could feel like forests, not industrial lots.
+Trabalhar pode ser uma /alegria/ não um fardo. A compensação pode ser um presente, não uma competição. E talvez 'corporações' possam parecer florestas, não lotes industriais.
 
 ![3_1473312850865278988](3_1473312850865278988.jpg)
 
@@ -151,8 +151,10 @@ Working can be a /joy/ not a burden. Compensation can be a gift, not a competiti
 
 ##### 14
 
-It's not so hard to imagine if each of us only did the work that we loved, were best at, could get paid for, and that our DAOs needed.
+Não é tão difícil imaginar se cada um de nós fizer apenas o trabalho que amamos, que fazemos melhor, que podemos ser pagos e que nossos DAOs precisam.
 
-If it's not that, why do it?
+Se não é isso, por que fazer?
 
 /end
+
+
