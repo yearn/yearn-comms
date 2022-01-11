@@ -4,91 +4,91 @@ title:  "Easily earn with Yearn V2 in Argent"
 categories: [ Articles ]
 image: ./easily-earn-with-yearn-v2-in-argent/Image1.jpg
 author: Argent
-translator:
-publish: false
+translator: RestlessMik3
+publish: true
 ---
 
-# Easily earn with Yearn v2 in Argent
+# Gana fácilmente con Yearn v2 en Argent
 
-![](Image1.jpg)
+![](Imagen1.jpg)
 
-Yearn V2 Vaults are now just a tap away in Argent! Earn up to 16.47% Net APY\* with automated yield generation. This builds on our existing support for Yearn's [V1 Vaults](https://www.argent.xyz/blog/yearn-vaults-in-argent/).
+¡Las vaults de Yearn V2 ahora están a solo un toque de distancia en Argent! Obtén hasta un 16,47 % de APY neto\* con la generación de rendimiento automatizada. Esto se basa en nuestro soporte existente para [Vaults V1] de Yearn (https://www.argent.xyz/blog/yearn-vaults-in-argent/).
 
-## **Benefits of using Yearn with Argent**
+## **Beneficios de usar Yearn con Argent**
 
-Earning with [Yearn](https://yearn.finance/vaults) through Argent is unique because of its:
+Ganar con [Yearn](https://yearn.finance/vaults) a través de Argent es único por su:
 
-- **Simplicity**: Only one transaction required. (No need for a separate approval).
-- **Security**: No infinite token approvals; you automatically only approve what you need to spend. You also have peace of mind that you're interacting with the right contracts.
+- **Simplicidad**: Solo se requiere una transacción. (No hay necesidad de una aprobación por separado).
+- **Seguridad**: Sin aprobaciones infinitas de tokens; automáticamente solo apruebas lo que necesitas gastar. También tiene la tranquilidad de saber que está interactuando con los contratos correctos.
 
-We've launched with 7 Vaults (USDC, DAI, SNX, 1INCH, YFI, WBTC, USDT, UNI, ETH).
+Lanzamos con 7 Vaults (USDC, DAI, SNX, 1INCH, YFI, WBTC, USDT, UNI, ETH).
 
-## **Why Yearn matters**
+## **Por qué es importante Yearn**
 
-Yearn has grown at a [monumental pace](https://defipulse.com/yearn.finance) since its launch in early 2020. Yearn makes it easy for anyone to "yield farm" (trying to maximize the return on your assets by utilizing multiple DeFi protocols). Yearn compare their approach to passive investing.
+Yearn ha crecido a un [ritmo monumental](https://defipulse.com/yearn.finance) desde su lanzamiento a principios de 2020. Yearn hace que sea fácil para cualquiera hacer "yield farming" (tratar de maximizar el rendimiento de sus activos al utilizando múltiples protocolos DeFi). Yearn compara su enfoque con la inversión pasiva.
 
-![](Image2.jpg)DeFi Pulse Graph showing the total value locked (TVL) in Yearn.Finance
+![](Imagen2.jpg)Gráfico de Defi Pulse que muestra el valor total bloqueado (TVL) en Yearn.Finance
 
-There's also a big benefit when it comes to Ethereum network fees ('gas'). Gas is "socialized" across everyone using that Vault making it much more economical for the average user.
+También hay un gran beneficio en lo que respecta a las tarifas de la red Ethereum ("gasolina"). El gas se "socializa" entre todos los que usan esa vault, lo que lo hace mucho más económico para el usuario promedio.
 
-[Strategies](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) are proposed by the community and voted on by Yearn's governance.
+[Estrategias](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) son propuestas por la comunidad y votadas por la gobernanza de Yearn.
 
-With V2, each Vault can employ multiple strategies, whereas V1 Vaults used just one each.
+Con V2, cada Vault puede emplear múltiples estrategias, mientras que Vaults V1 usaba solo una cada una.
 
-## **How to use Yearn V2 Vaults in Argent**
+## **Cómo usar las Bóvedas de Yearn V2 en Argent**
 
-### **Buy**
+### **Comprar**
 
-- Tap **'Invest'** tab in Argent
-- Tap **'Yearn V2 Vaults'**
-- Choose a Vault
-- Tap **'Buy Investment'**
-- Select amount (& confirm you're happy with the network fee)
-- Buy
+- Toca la pestaña **'Invest'** en Argent
+- Toca **'Yearn V2 Vaults'**
+- Elije una vault
+- Toca **'Buy Investment'**
+- Selecciona la cantidad (y confirma que estás satisfecho con la tarifa de la red)
+- Compra
 
-### **Fees**
+### **Tarifa**
 
-Argent does not take a fee.
+Argent no cobra honorarios.
 
-Yearn takes:
+Yearn toma:
 
-- 20% performance fee (deducted from the yield)
-- 2% management fee (deducted from total balance per year).
+- 20% de comisión de rendimiento (deducida del rendimiento)
+- 2% de comisión de gestión (deducida del saldo total por año).
 
-You also need to pay for gas.
+También tienes que pagar por el gas.
 
-![](Image3.jpg)
-Using yearn in the Argent app
+![](Imagen3.jpg)
+Uso de yearn en la aplicación Argent
 
-## **Tracking your Vault's performance**
+## **Seguimiento del rendimiento de su bóveda**
 
-Balances are not updated continuously; they are updated on a "fluctuating basis", according to Yearn.
+Los saldos no se actualizan continuamente; se actualizan de forma "fluctuante", según Yearn.
 
-To track the returns, you can use
+Para realizar un seguimiento de las devoluciones, puede utilizar
 
 - [Zapper](https://zapper.fi/)
 - [Zerion](https://app.zerion.io/)
-- [Yearn Vault ROI Calculator](https://yearn-roi.xyz/#/)
-- [yVault ROI](https://yvault-roi.netlify.app/)
+- [Calculadora de ROI de vault de Yearn] (https://yearn-roi.xyz/#/)
+- [Retorno de la inversión de yVault](https://yvault-roi.netlify.app/)
 
-## **Further reading & resources**
+## **Otras lecturas y recursos**
 
-- [Yearn's docs](https://docs.yearn.finance/)
-- [Yearn's State of the Vaults (weekly update)](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)
-- [Yearn's Twitter](https://twitter.com/iearnfinance)
+- [Documentos de Yearn](https://docs.yearn.finance/)
+- [Estado de las vaults de Yearn (actualización semanal)](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)
+- [Twitter de Yearn](https://twitter.com/iearnfinance)
 
-## **Risks**
+## **Riesgos**
 
-As always in crypto and DeFi, you should do your own research on the risks. These include smart contracts and the economics of the protocols. Yearn's audits can be found [here](https://docs.yearn.finance/resources/audits).
+Como siempre en cripto y DeFi, debes hacer tu propia investigación sobre los riesgos. Estos incluyen contratos inteligentes y la economía de los protocolos. Las auditorías de Yearn se pueden encontrar [aquí](https://docs.yearn.finance/resources/audits).
 
-\*APY is variable and the concept does not technically directly apply as it does in centralized finance. Please see [Yearn's explanation](https://docs.yearn.finance/resources/guides/how-to-understand-yvault-roi#roi-calculation) for more.
+\*APY es variable y el concepto técnicamente no se aplica directamente como lo hace en las finanzas centralizadas. Consulte [Explicación de Yearn](https://docs.yearn.finance/resources/guides/how-to-understand-yvault-roi#roi-calculation) para obtener más información.
 
-## **Download Argent**
+## **Descargar Argent**
 
-Get started with Argent [here](https://argent.link/yearn-v2-post). If you have any questions you can find us at:
+Comience con Argent [aquí](https://argent.link/yearn-v2-post). Si tienes alguna duda puedes encontrarnos en:
 
 - [Discord](https://discord.com/invite/GWSyrHg)
 - [Twitter](https://twitter.com/argentHQ)
-- [Support](https://support.argent.xyz/hc/en-us)
+- [Soporte](https://support.argent.xyz/hc/en-us)
 
-_This should go without saying but in case it doesn't: we are NOT a bank _**🙄**_. We are not a regulated financial entity._
+_Esto debería ser evidente, pero en caso de que no sea así: NO somos un banco _**🙄**_. No somos una entidad financiera regulada._
