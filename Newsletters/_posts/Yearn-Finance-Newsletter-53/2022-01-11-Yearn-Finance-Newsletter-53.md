@@ -82,9 +82,15 @@ Vous pouvez trouver une description détaillée des stratégies de tous nos yVau
 # Nouvelles de l'écosystème
 
 [Check out the Yearn feature in the PILLS universe](https://twitter.com/pillsuniverse/status/1478321675510763520) 
+
 [Learn how ZooDAO uses Yearn to generate yield from NFTs](https://twitter.com/ZooDAO/status/1480244287526916105)
+
 [Read the proposal about a “yMarkt”](https://gov.yearn.finance/t/proposal-ymarkt-the-best-buybacks-can-get/12166)
+
 [Theorycrafting about Andre Cronje’s new AMM and Yearn’s involvement](https://gov.yearn.finance/t/yfi-solid-theorycrafting/12181)
+
 [A new CLI update has been released for Keep3r](https://twitter.com/DeFi_Wonderland/status/1478061081956343812)
+
 [Check out Element Finance’s new DAI term utilizing Yearn vaults](https://twitter.com/element_fi/status/1478819507829293058)
+
 [Try out the new ApeMode vault on Fantom](https://twitter.com/poolpitako/status/1479271890933923843) 
