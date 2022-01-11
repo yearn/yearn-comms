@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yearn Finance Newsletter #53”
+title: "Yearn Finance Newsletter #53"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-53/image1.png
 author: Yearn
