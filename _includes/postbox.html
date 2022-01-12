@@ -1,11 +1,15 @@
 <!-- begin post -->
 {% assign author = site.authors[post.author] %}
-<div class="card">
-    <a href="{{ post.url | absolute_url }}">
-        {% if post.image %} <img class="rounded-3 mb-4" src="{{ site.baseurl }}/{{ post.image }}" alt="{{ post.title }}"> {% endif %}
-    </a>
+<div class="masonry-content">
+    <div>
+        <a href="{{ post.url | absolute_url }}">
+            {% if post.image %} <img class="masonry-image rounded-3 rounded-b-0" src="{{ site.baseurl }}/{{ post.image }}" alt="{{ post.title }}"> {% endif %}
+        </a>
+    </div>
     <div class="card-block">
-        <h2 class="card-title h4 serif-font"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+        <h2 class="card-title h4 serif-font">
+            <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+        </h2>
         <!--
         <p class="card-text text-muted">{{ post.excerpt | strip_html | truncatewords:15 }}</p>
         -->
