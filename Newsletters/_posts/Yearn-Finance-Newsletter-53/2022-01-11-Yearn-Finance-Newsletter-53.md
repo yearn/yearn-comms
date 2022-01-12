@@ -8,10 +8,10 @@ translator:
 publish: true
 ---
 
-
 # Yearn Finance Newsletter #53
 
 ### Week Ending January 9nd, 2022
+
 ![](image1.png)
 
 Welcome to the 53th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
@@ -25,9 +25,8 @@ Welcome to the 53th edition of the Yearn Finance Newsletter. Our aim with this n
 - Vaults at Yearn
 - Ecosystem News
 
-
-
 # Transparency at Yearn
+
 ![](image2.png)
 
 # More transparency. More alpha.
@@ -54,8 +53,6 @@ As always, if you have feedback or suggestions for the website, or would like to
 
 Check out the updates [here](https://yearnweb.substack.com/p/update-jan-5-2022?showWelcome=true).
 
-
-
 # Register for the Next Iteration of yAcademyDAO
 
 ![](image4.png)
@@ -66,29 +63,23 @@ yAcademy dao is managed by its full-time members and active contributors, with o
 
 Check out the website [here](https://yacademy.github.io/). Apply to the yAcademyDAO [here](https://docs.google.com/forms/d/e/1FAIpQLSfc5VUYOyG_cRpiRkymJOVoHluFOuiYMRONX-R7xRuvWM25Xg/viewform).
 
-
-
 # Yearn Has Received An Additional 1M FTM Grant From the Fantom Foundation
 
 Welcome to 2022, anon. The donations continue.
 
 Yearn has received another grant from the Fantom Foundation
 
-Once again, we don't dump. 208,333 FTM have been donated, with 90%+ to the FTM vault and a proportional donation to other Fantom vaults. 
+Once again, we don't dump. 208,333 FTM have been donated, with 90%+ to the FTM vault and a proportional donation to other Fantom vaults.
 
 We will continue this with future grants.
-
-
 
 # Vaults at Yearn
 
 You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-
 # Ecosystem News
 
-
-[Check out the Yearn feature in the PILLS universe](https://twitter.com/pillsuniverse/status/1478321675510763520) 
+[Check out the Yearn feature in the PILLS universe](https://twitter.com/pillsuniverse/status/1478321675510763520)
 
 [Learn how ZooDAO uses Yearn to generate yield from NFTs](https://twitter.com/ZooDAO/status/1480244287526916105)
 
@@ -100,4 +91,4 @@ You can read a detailed description of the strategies for all of our active yVau
 
 [Check out Element Finance’s new DAI term utilizing Yearn vaults](https://twitter.com/element_fi/status/1478819507829293058)
 
-[Try out the new ApeMode vault on Fantom](https://twitter.com/poolpitako/status/1479271890933923843) 
+[Try out the new ApeMode vault on Fantom](https://twitter.com/poolpitako/status/1479271890933923843)
