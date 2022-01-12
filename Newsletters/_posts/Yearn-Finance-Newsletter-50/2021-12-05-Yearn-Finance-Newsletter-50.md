@@ -52,7 +52,7 @@ Il existe actuellement 5 options pour le vote, les noms de travail étant ySplit
 
 Votez [la page snapshot](https://yearn.snapshot.page/#/proposal/0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea). Merci à tous les membres de la communauté qui ont contribué. Une mise à jour du groupe de travail, haïku inclus, peut être trouvée ici.
 
-## Yearn Docs
+## Updated Yearn Docs
 
 Il y a plusieurs mois, les contributeurs de Yearn ont entrepris de réécrire nos documents pour les rendre conviviaux et accessibles.
 
