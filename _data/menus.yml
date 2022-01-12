@@ -2,7 +2,7 @@
 topmenu:
 
 - title: アナウンス
-  url: "annoucements/"  
+  url: "announcements/"  
 
 - title: ニュースレター
   url: "newsletters/"
