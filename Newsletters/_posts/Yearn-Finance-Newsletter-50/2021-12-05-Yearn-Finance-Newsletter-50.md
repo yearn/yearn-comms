@@ -53,7 +53,7 @@ There are currently 5 options up for vote, with the working names being ySplit, 
 
 Vote here at [the Snapshot page](https://yearn.snapshot.page/#/proposal/0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea). Thank you to all in the community who have contributed. An update from the working group, haiku included, can be found [here](https://docs.google.com/document/d/1-YEfXqXgTm-qzhPRUKs5allfX1XqYUOYwr_49FApnLU/edit).
 
-## Yearn Docs
+## Updated Yearn Docs
 
 Several months ago Yearn contributors set out to rewrite our docs to make them friendly and approachable.
 
