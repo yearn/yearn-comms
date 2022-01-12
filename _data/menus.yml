@@ -2,7 +2,7 @@
 topmenu:
 
 - title: Annonces
-  url: "annoucements/"
+  url: "announcements/"
 
 - title: Newsletters
   url: "newsletters/"
