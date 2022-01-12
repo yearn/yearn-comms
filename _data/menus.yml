@@ -2,7 +2,7 @@
 topmenu:
 
 - title: 公告
-  url: "annoucements/"
+  url: "announcements/"
 
 - title: 周报
   url: "newsletters/"
