@@ -2,7 +2,7 @@
 topmenu:
 
 - title: Thông báo
-  url: "annoucements/"  
+  url: "announcements/"  
 
 - title: Bản Tin
   url: "newsletters/"
