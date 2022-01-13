@@ -5,7 +5,7 @@ categories: [ Tweets ]
 image: ./What-is-a-DAO/1.jpg
 author: Tracheopteryx
 translator:
-publish: true
+publish: false
 ---
 
 original source: [twitter](https://twitter.com/tracheopteryx/status/1410243752434753547)
