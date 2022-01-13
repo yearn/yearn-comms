@@ -4,122 +4,122 @@ title: "Yearn Finance Newsletter #52"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-52/image1.png
 author: Yearn
-translator:
-publish: false
+translator: Nesyeth
+publish: true
 ---
 
 # Yearn Finance Newsletter #52
 
-### Week Ending January 2nd, 2022
+### Woche bis zum 2. Januar 2022
 
 ![](image1.png)
 
-Welcome to the 52th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Willkommen zur 52. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter möchten wir die Yearn- und die breitere Krypto-Community über die neuesten Nachrichten informieren, darunter Produkteinführungen, Änderungen in der Unternehmensführung und Aktualisierungen im Ökosystem. Wenn du mehr über Yearn Finance erfahren möchtest, folge unserem offiziellen [Twitter](https://twitter.com/iearnfinance)- und [Medium](https://medium.com/iearn)-Konten.
 
-## Summary
+## Zusammenfassung
 
-- YIP-65 Enters Voting
+- YIP-65 nimmt an der Abstimmung teil
 
-- [Proposal] Mean - DCA Buyback Pilot Program
+- [Vorschlag] Mean - Pilotprogramm zum DCA-Rückkauf
 
-- Reflecting on Yearn
+- Nachdenken über Yearn
 
-- Yearn Has Received a 1M FTM Grant From the Fantom Foundation
+- Yearn hat einen 1 Mio. FTM-Zuschuss von der Fantom Foundation erhalten
 
-- Vaults at Yearn
+- Vaults bei Yearn
 
-- Ecosystem News
+- Nachrichten zum Ökosystem
 
-## YIP-65 Enters Voting
+## YIP-65 nimmt an der Abstimmung teil
 
 ![](image2.png)
 
-In summary, YIP-65 seeks to evolve the role YFI plays in Yearn over four distinct phases, cementing the vision of the token as the fundamental foundation of governance.
+Zusammenfassend lässt sich sagen, dass YIP-65 darauf abzielt, die Rolle, die YFI in Yearn spielt, in vier verschiedenen Phasen weiterzuentwickeln und die Vision des Tokens als essentielle Grundlage der Governance zu festigen.
 
-This will be done by directing a portion of YFI that is bought back by the Treasury as a result of [BABY](https://yips.yearn.finance/YIPS/yip-56) as rewards to those YFI token holders who actively participate in Yearn Governance.
+Dies geschieht, indem ein Teil der YFI, die von der Schatzkammer als Ergebnis von [BABY](https://yips.yearn.finance/YIPS/yip-56) zurückgekauft werden, als Belohnung für diejenigen YFI-Token-Inhaber verwendet wird, die aktiv an der Yearn Governance teilnehmen.
 
-Then, the role YFI plays in Yearn Governance will be evolved through four distinct components.
+Anschließend wird die Rolle, die YFI im Rahmen von Yearn Governance spielt, anhand von vier verschiedenen Komponenten entwickelt.
 
-1: xYFI. Distribute YFI that's been bought back with Treasury tokens as rewards in a YFI vault.
+1: xYFI. Verteile YFI, die mit Treasury-Token zurückgekauft wurden, als Belohnungen in einem YFI-Vault.
 
-2: Vote-locked YFI. Introduce ve-style locking of YFI (veYFI) for up to four years (exact max duration tbd), where a longer locking duration gives a greater share of voting power and share of YFI rewards. An early exit from the lock is possible by paying a penalty that is rewarded to the other locked token holders.
+2: YFI mit Stimmrechtssperre. Einführung einer Sperrung von YFI (veYFI) für bis zu vier Jahre (genaue Höchstdauer noch festzulegen), wobei eine längere Sperrungsdauer einen größeren Anteil an der Stimmkraft und an den YFI-Belohnungen bedeutet. Ein vorzeitiger Ausstieg aus der Sperre ist möglich, indem eine Strafe gezahlt wird, die den anderen gesperrten Token-Inhabern als Belohnung ausgezahlt wird.
 
-3: Vault Gauges + Voting. Introduce vault gauges where vault depositors stake their vault tokens and earn YFI rewards according to their veYFI weight. YFI are allocated to gauges based on weekly governance votes.
+3: Vault-Messgeräte + Abstimmung. Führe Vault-Messgeräte ein, bei denen Vault-Deponenten ihre Vault-Token einsetzen und YFI-Belohnungen entsprechend ihrem veYFI-Gewicht verdienen. Die YFI werden den Messgeräten auf der Grundlage der wöchentlichen Abstimmungen der Governance zugewiesen.
 
-4: "Useful work" features. Expand the duties and responsibilities of veYFI voters, and their locked YFI, in exchange for earning additional protocol rewards. Pending the tbc v3 vault design.
+4: "Nützliche Arbeit"-Funktionen. Erweiterung der Aufgaben und Verantwortlichkeiten von veYFI-Wählern und ihrer gesperrten YFI im Austausch für zusätzliche Protokollbelohnungen. Ausstehend bis zum tbc v3 Vault-Designs.
 
-Next, a mandate will be given to Yearn Developers to roll out the above components at their discretion as and when they become feasible.
+Anschließend werden die Yearn-Entwickler beauftragt, die oben genannten Komponenten nach eigenem Ermessen einzuführen, sobald sie realisierbar sind.
 
-Finally, the YFI eligible to vote in Yearn Governance will be restricted to only those staked in xYFI (from Phase 1 and onwards) or vote-locked in Yearn (from Phase 2 and onwards).
+Schließlich werden die stimmberechtigten YFI in Yearn Governance auf diejenigen beschränkt, die in xYFI (ab Phase 1) oder in Yearn (ab Phase 2) stimmberechtigt sind.
 
-Read more about the proposed tokenomics upgrades and benefits [here](https://gov.yearn.finance/t/yip-65-evolving-yfi-tokenomics/11994) and vote on the snapshot [here](https://snapshot.org/#/ybaby.eth/proposal/0x8f7417fa5565d9f46e16618503e8808c36d51b2a9e8217a68c632d7c090d69d9).
+Lies [hier](https://gov.yearn.finance/t/yip-65-evolving-yfi-tokenomics/11994) mehr über die vorgeschlagenen Tokenomics-Upgrades und -Vorteile und stimme [hier](https://snapshot.org/#/ybaby.eth/proposal/0x8f7417fa5565d9f46e16618503e8808c36d51b2a9e8217a68c632d7c090d69d9) über den Snapshot ab
 
-Special thanks to authors: @0xJiji, @banteg, daryllautk, HAtTip3675, @onlylarping, @vany365, and @Wot_Is_Goin_On for creating this important proposal.
+Besonderen Dank an die Autoren: @0xJiji, @banteg, daryllautk, HAtTip3675, @onlylarping, @vany365, und @Wot_Is_Goin_On für die Erstellung dieses wichtigen Vorschlags.
 
-## [Proposal] Mean - DCA Buyback Pilot Program
+## [Vorschlag] Mean - DCA-Rückkaufpilotprogramm
 
 ![](image3.png)
 
-The objective of this pilot program is to provide a better understanding through example that DCAing is a better way to execute buy-backs within the treasury.
+Ziel dieses Pilotprogramms ist es, anhand von Beispielen ein besseres Verständnis dafür zu schaffen, dass DCAing ein besserer Weg ist, um Rückkäufe innerhalb der Schatzkammer durchzuführen.
 
-The Yearn team, on the basis that a Snapshot vote passes, will allocate $1M worth of ETH (249.376559 ETH @ $4010 per ETH) towards this buyback program and create a 30 days position YFI to ETH within Mean Finance at a rate of 8.31255197 ETH per day
+Das Yearn-Team wird im Falle einer Snapshot-Abstimmung ETH im Wert von $1 Mio. (249,376559 ETH @ $4010 pro ETH) für dieses Rückkaufprogramm bereitstellen und eine 30-Tage-Position YFI zu ETH innerhalb von Mean Finance mit einer Rate von 8,31255197 ETH pro Tag schaffen.
 
-The Mean team hopes to at least have some resounding effects within the community & leadership of the DAO.
+Das Mean-Team hofft, zumindest einige durchschlagende Effekte innerhalb der Gemeinschaft und der Führung der DAO zu erzielen.
 
-Read more about the proposal [here](https://gov.yearn.finance/t/proposal-mean-dca-buyback-pilot-program/12065).
+Lies [hier](https://gov.yearn.finance/t/proposal-mean-dca-buyback-pilot-program/12065) mehr über den Vorschlag
 
-## Reflecting on Yearn
+## Nachdenken über Yearn
 
-It’s 2022, time to re-analyze your DeFi bets. Here's a short overview of why Yearn is different.
+Es ist 2022, Zeit, deine DeFi-Wetten neu zu analysieren. Hier ist ein kurzer Überblick darüber, warum Yearn anders ist.
 
-Whilst Yearn is usually labeled as a “yield aggregator” this can lead to the idea that a team works on generating a yield. Even worse it's sometimes considered a simple CRV farmer. This is not a useful way to understand Yearn.
+Während Yearn gewöhnlich als "Ertragsaggregator" bezeichnet wird, kann dies zu der Vorstellung führen, dass ein Team an der Erzeugung eines Ertrags arbeitet. Noch schlimmer ist, dass es manchmal als einfacher CRV-Farmer betrachtet wird. Dies dient nicht dazu, um Yearn zu verstehen.
 
-There are currently significant constraints on yield generation such as a small pool of people who can build strategies, high gas fees limiting certain strategies, lack of battled-tested protocols to build strategies and a lack of ways to automate processes.
+Derzeit gibt es erhebliche Einschränkungen bei der Ertragsgenerierung, wie z. B. ein kleiner Pool von Personen, die Strategien entwickeln können, hohe Gasgebühren, die bestimmte Strategien einschränken, ein Mangel an kampferprobten Protokollen zur Entwicklung von Strategien und ein Mangel an Möglichkeiten zur Automatisierung von Prozessen.
 
-Rather than wait for these constraints to ease (and they already are with more strategists being on-boarded, other chains and L2s with low fees), Yearn has been quietly building infrastructure to optimize the interaction between protocols, strategists and capital at scale.
+Anstatt darauf zu warten, dass sich diese Beschränkungen lockern (was bereits der Fall ist, da mehr Strategen an Bord sind und andere Ketten und L2s niedrige Gebühren erheben), hat Yearn im Stillen eine Infrastruktur aufgebaut, um die Interaktion zwischen Protokollen, Strategen und Kapital in großem Umfang zu optimieren.
 
-Yearn has been building the machine that builds the machine of yield aggregation (to paraphrase Mr. Musk), ready for a world of an ever-increasing number of tokens, complex protocols, chains, strategists, tooling and capital.
+Yearn hat die Maschine gebaut, die die Maschine der Rendite-Aggregation baut (um Herrn Musk wiederzugeben), bereit für eine Welt mit einer ständig wachsenden Anzahl von Token, komplexen Protokollen, Ketten, Strategen, Werkzeugen und Kapital.
 
-With $7bn of DeFi hacks in 2021 the primary focus has been on security. Most DeFi protocols limit financial risks by tweaking parameters (e.g. lending protocols reduce the loan-to-collateral value of riskier assets), and minimize technological risks by focusing on one thing (e.g. lending).
+Mit 7 Mrd. $ an DeFi-Hacks im Jahr 2021 lag der Schwerpunkt auf der Sicherheit. Die meisten DeFi-Protokolle begrenzen finanzielle Risiken, indem sie Parameter verändern (z. B. reduzieren Kreditprotokolle den Beleihungswert von riskanteren Vermögenswerten) und minimieren technologische Risiken, indem sie sich auf eine Sache konzentrieren (z. B. die Kreditvergabe).
 
-Yearn does DeFi the hard way as it combines multiple protocols and strategies within a single vault. Other protocols boast about the number of audits they've done. Yearn's yAcademy is training the next generation of auditors - helping speed up the approval of new strategies.
+Yearn macht DeFi auf die harte Tour, da es mehrere Protokolle und Strategien in einem einzigen Vault kombiniert. Andere Protokolle rühmen sich mit der Anzahl der von ihnen durchgeführten Audits. Die yAcademy von Yearn bildet die nächste Generation von Prüfern aus und trägt dazu bei, die Genehmigung neuer Strategien zu beschleunigen.
 
-After security comes capital efficiency – figuring out how a vault should be split across lending protocols, LPs, leveraged farm opportunities and other strategies to optimize the risk-adjusted returns. And then trying to automate it.
+Nach der Sicherheit kommt die Kapitaleffizienz - man muss herausfinden, wie ein Vault auf Kreditvergabeprotokolle, LPs, Leveraged-Farm-Möglichkeiten und andere Strategien aufgeteilt werden sollte, um die risikobereinigten Erträge zu optimieren. Und dann versuchen, dies zu automatisieren.
 
-Part of the reason behind YFI's "fair launch" was the realization that producing a high risk-adjusted yield for the trillions of dollars sitting in TradFi would be too much work for one team. The YFI boarding school is now training first-time strategists.
+Einer der Gründe für den "fairen Start" von YFI war die Erkenntnis, dass die Erzielung einer hohen risikobereinigten Rendite für die Billionen von Dollar, die in TradFi lagern, zu viel Arbeit für ein Team wäre. Das YFI-Internat bildet nun erstmalig Strategen aus.
 
-Scalability requires reducing manual processes - buybacks, harvests, changing the strategy weightings, hedging after price movements. It's no coincidence Andre created
+Skalierbarkeit erfordert die Reduzierung manueller Prozesse - Rückkäufe, Ernten, Änderung der Strategiegewichtung, Absicherung nach Kursbewegungen. Es ist kein Zufall, den Andre erschafft.
 
-Keep3r. There's even a data analysis group working on the optimal time to do buybacks.
+Keep3r. Es gibt sogar eine Datenanalysegruppe, die den optimalen Zeitpunkt für Rückkäufe ermittelt.
 
-Coordination with decentralization – how do you build a system that incentivizes people who’ve never met to make all this happen? Coordinape helps - a tool whose origins go back to a Yearn group that first ran into the problem - is now being used by countless DAOs.
+Koordination mit Dezentralisierung - wie baut man ein System auf, das Anreize für Menschen schafft, die sich noch nie getroffen haben, um all dies zu ermöglichen? Coordinape hilft dabei - ein Tool, dessen Ursprünge auf eine Yearn-Gruppe zurückgeht, die sich erstmals mit diesem Problem auseinandersetzte - und das nun von unzähligen DAOs genutzt wird.
 
-Each new DeFi protocol creates a potential opportunity for a strategist. The new strategy improves the risk-adjusted yield for the vaults which incentivizes more capital, leading to more fees which can be used to build this beast of a platform.
+Jedes neue DeFi-Protokoll schafft eine potenzielle Chance für einen Strategen. Die neue Strategie verbessert die risikobereinigte Rendite für die Vaults, was einen Anreiz für mehr Kapital schafft, was zu mehr Gebühren führt, die für den Aufbau dieser riesigen Plattform verwendet werden können.
 
-The examples in this thread show how Yearn is attempting to solve the generalized problems in DeFi. The term "DeFi protocol" doesn't seem to do it justice, maybe Yearn could be better described as a fintech DAO.
+Die Beispiele in diesem Thread zeigen, wie Yearn versucht, die verallgemeinerten Probleme von DeFi zu lösen. Der Begriff "DeFi-Protokoll" scheint dem nicht gerecht zu werden, vielleicht könnte man Yearn besser als Fintech-DAO bezeichnen.
 
-Thank you to Wot_Is_Goin_On for the amazing thread that can be found [here](https://twitter.com/Wot_Is_Goin_On/status/1477277152336916484).
+Vielen Dank an Wot_Is_Goin_On für den tollen Thread, der [hier](https://twitter.com/Wot_Is_Goin_On/status/1477277152336916484) zu finden ist.
 
-## Yearn Has Received a 1M FTM Grant From the Fantom Foundation
+## Yearn hat einen FTM-Zuschuss in Höhe von 1 Mio. Euro von der Fantom-Stiftung erhalten
 
 ![](image4.png)
 
-Yearn has received a 1M FTM grant from the Fantom Foundation.
+Yearn hat einen FTM-Zuschuss in Höhe von 1 Mio. Euro von der Fantom-Stiftung erhalten.
 
-We didn't dump, over 90% was donated to the FTM vault. Other vaults got a proportional donation for an immediate 1% increase in value.
+Wir haben es nicht weggeworfen, sondern über 90 % dem FTM Vault gespendet. Andere Vaults erhielten eine anteilige Spende für einen sofortigen Wertzuwachs von 1%.
 
-This grant is the first of many, we will continue receiving more as we hit TVL goals.
+Dieser Zuschuss ist der erste von vielen, wir werden weitere erhalten, wenn wir die TVL-Ziele erreichen.
 
-## Vaults At Yearn
+## Vaults bei Yearn
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Eine detaillierte Beschreibung der Strategien für alle unsere aktiven yVaults kannst du [hier](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) lesen.
 
-## Ecosystem News
+## Nachrichten zum Ökosystem
 
-[Check out DeFi Saver’s new Smart Savings dashboard including Yearn](https://twitter.com/DeFiSaver/status/1476614075815809028?s=20)
+[Sieh dir das neue Smart Savings Dashboard von DeFi Saver mit Yearn an](https://twitter.com/DeFiSaver/status/1476614075815809028?s=20)
 
-[See the 2021 Yearn contributor hoodie made by loldefi](https://twitter.com/loldefi/status/1477062572595884032)
+[Sieh dir den 2021 Yearn Contributor Hoodie von loldefi an](https://twitter.com/loldefi/status/1477062572595884032)
 
-[Yearn continues to buyback yvBOOST](https://twitter.com/wavey0x/status/1474946151006842884)
+[Yearn kauft weiterhin yvBOOST zurück](https://twitter.com/wavey0x/status/1474946151006842884)
 
-[Read an analysis on $CRV bribes including yvBOOST](https://twitter.com/0xSEM/status/1475284063204388867)
+[Lies eine Analyse über $CRV-Bestechungen einschließlich yvBOOST](https://twitter.com/0xSEM/status/1475284063204388867)
