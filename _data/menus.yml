@@ -2,7 +2,7 @@
 topmenu:
 
 - title: Duyurular
-  url: "annoucements/"
+  url: "announcements/"
 
 - title: Bülten
   url: "newsletters/"
