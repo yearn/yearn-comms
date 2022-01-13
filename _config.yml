@@ -1,7 +1,7 @@
 title: "Yearn Blog"
 email: people@yearn.finance
 timezone: UTC
-url: https://blog.yearn.finance
+url: https://greek.blog.yearn.finance
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/yearn_logo.svg'
@@ -133,7 +133,6 @@ translators:
     twitter: https://twitter.com/bee_926
     blog: https://www.youtube.com/channel/UCacoBnE--eGgPnxBnu3DFJw
     web: http://coinversation.org/
-<<<<<<< HEAD
 
   Cryptouf:
     name: Cryptouf
@@ -158,42 +157,6 @@ translators:
     display_name: RestlessMik3
     twitter: https://twitter.com/margjr84
 
-  🤖💵💵💰💰.eth:
-      name: 🤖💵💵💰💰.eth
-      display_name: 🤖💵💵💰💰.eth
-=======
->>>>>>> 12b8f9d (update config)
-
-  Cryptouf:
-    name: Cryptouf
-    display_name: Cryptouf
-    twitter: https://twitter.com/cryptouf
-    blog: https://cryptoouf.com
-    web: https://cryptoouf.com/newsletter
-
-  Cripu:
-    name: Cripu
-    display_name: Cripu
-    twitter: https://twitter.com/CRYPTANNEWS
-    blog: https://www.cryptannews.com/
-
-  Dastronom:
-    name: Dastronom
-    display_name: Dastronom
-    twitter: https://twitter.com/Dastronomm
-
-  RestlessMik3:
-    name: RestlessMik3
-    display_name: RestlessMik3
-    twitter: https://twitter.com/margjr84
-
-<<<<<<< HEAD
-  Xiaona:
-    name: Xiaona
-    display_name: Xiaona
-    twitter: https://twitter.com/latingi44239287
-    blog: https://www.youtube.com/channel/UCacoBnE--eGgPnxBnu3DFJw
-=======
   🤖💵💵💰💰.eth:
       name: 🤖💵💵💰💰.eth
       display_name: 🤖💵💵💰💰.eth
@@ -226,17 +189,6 @@ translators:
   Japzar:
     name: Japzar
     display_name: Japzar
->>>>>>> 81ca10e (update(config): add translators)
-
-  Stathis:
-    name: Stathis
-    display_name: Stathis
-
-  Xiaona:
-    name: Xiaona
-    display_name: Xiaona
-    twitter: https://twitter.com/latingi44239287
-    blog: https://www.youtube.com/channel/UCacoBnE--eGgPnxBnu3DFJw
 
   Stathis:
     name: Stathis
