@@ -4,7 +4,7 @@ title: "Yearn Finance Newsletter #52"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-52/image1.png
 author: Yearn
-translator: "Nesyeth"
+translator: Nesyeth
 publish: true
 ---
 
