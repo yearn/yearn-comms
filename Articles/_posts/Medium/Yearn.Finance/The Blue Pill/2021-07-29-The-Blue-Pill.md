@@ -4,7 +4,7 @@ title:  "Die blaue Pille"
 categories: [ Articles ]
 image: ./The-Blue-Pill/pill-wt-text.png
 author: Weaver
-translator: "Nesyeth"
+translator: Nesyeth
 publish: true
 ---
 
