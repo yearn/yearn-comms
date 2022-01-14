@@ -5,7 +5,7 @@ categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-52/image1.png
 author: Yearn
 translator: Cripu
-publish: True
+publish: true
 ---
 
 # Yearn Finance Newsletter #52
