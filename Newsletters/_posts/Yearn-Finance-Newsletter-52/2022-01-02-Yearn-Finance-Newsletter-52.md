@@ -1,120 +1,125 @@
 ---
 layout: post
-title: "Yearn Finance Newsletter #52"
-categories: [Newsletters]
+title:  "Bản tin Yearn.Finance Số #52"
+categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-52/image1.png
 author: Yearn
-translator:
-publish: false
+translator: 🤖💵💵💰💰.eth
+publish: true
 ---
 
-# Yearn Finance Newsletter #52
+# Bản tin Yearn.Finance Số #52
 
-### Week Ending January 2nd, 2022
+### Tuần Kết thúc Ngày 02/01/2022
 
 ![](image1.png)
 
-Welcome to the 52th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Chào mừng các bạn đến với Bản tin Yearn.Finance Số #52! Chúng tôi hy vọng sẽ truyền tải được những dữ kiện mới nhất cho cộng đồng tiền mã thuật số (`crypto`) nói chung lẫn cộng đồng Yearn nói riêng; từ phát hành sản phẩm, thay đổi trong quản trị đến nhiều dự án đối tác trực thuộc hệ sinh thái Yearn. Nếu quan tâm và muốn biết thêm chi tiết về Yearn.Finance, hãy theo dõi tài khoản [Twitter](https://twitter.com/iearnfinance), [Medium](https://medium.com/iearn) cũng như [blog Tiếng Việt](https://vietnamese.blog.yearn.finance/) chính thức của chúng tôi.
 
-## Summary
+## Tóm tắt
 
-- YIP-65 Enters Voting
-- [Proposal] Mean - DCA Buyback Pilot Program
-- Reflecting on Yearn
-- Yearn Has Received a 1M FTM Grant From the Fantom Foundation
-- Vaults at Yearn
-- Ecosystem News
+- YIP-65 Vào Giai đoạn Biểu quyết
 
-## YIP-65 Enters Voting
+- [Đề xuất] Mean - Thí điểm Chương trình Mua lại DCA
+
+- Suy ngẫm về Yearn
+
+- Yearn Đã Được Khuyến khích 1&nbsp;Triệu&nbsp;FTM từ Fantom Foundation
+
+- Các Kho bạc (`Vault`) tại Yearn
+
+- Tin tức trong Hệ Sinh thái
+
+## YIP-65 Vào Giai đoạn Biểu quyết
 
 ![](image2.png)
 
-In summary, YIP-65 seeks to evolve the role YFI plays in Yearn over four distinct phases, cementing the vision of the token as the fundamental foundation of governance.
+Nhìn chung, YIP-65 tìm cách phát triển vai trò của YFI trong Yearn qua bốn pha riêng, củng cố tầm nhìn xa của tôken làm nền tảng quản trị cơ bản.
 
-This will be done by directing a portion of YFI that is bought back by the Treasury as a result of [BABY](https://yips.yearn.finance/YIPS/yip-56) as rewards to those YFI token holders who actively participate in Yearn Governance.
+Để làm điều đó, một phần YFI mà Ngân khố (`Treasury`) mua lại theo chương trình [BABY](https://yips.yearn.finance/YIPS/yip-56) sẽ được dành trao thưởng cho những ai nắm giữ tôken YFI và tích cực tham gia Quản trị Yearn.
 
-Then, the role YFI plays in Yearn Governance will be evolved through four distinct components.
+Sau đó, vai trò của YFI trong Quản trị Yearn sẽ được phát triển qua bốn thành phần riêng.
 
-1: xYFI. Distribute YFI that's been bought back with Treasury tokens as rewards in a YFI vault.
+1: xYFI. Phân bổ YFI đã mua lại bằng Ngân khố (`Treasury`) làm phần thưởng cho một kho bạc YFI.
 
-2: Vote-locked YFI. Introduce ve-style locking of YFI (veYFI) for up to four years (exact max duration tbd), where a longer locking duration gives a greater share of voting power and share of YFI rewards. An early exit from the lock is possible by paying a penalty that is rewarded to the other locked token holders.
+2: Bỏ phiếu khóa-giam YFI. Áp dụng kiểu bỏ phiếu khóa-giam YFI (veYFI) tối đa bốn năm (thời lượng chính xác sẽ được xác định sau), với việc khóa càng lâu sẽ đem lại quyền biểu quyết và phần thưởng YFI càng lớn. Người dùng có thể thoát sớm khỏi vị trí khóa bằng cách trả một khoản phí cho những chủ tôken vẫn đang khóa.
 
-3: Vault Gauges + Voting. Introduce vault gauges where vault depositors stake their vault tokens and earn YFI rewards according to their veYFI weight. YFI are allocated to gauges based on weekly governance votes.
+3: Tỷ xích Kho bạc + Biểu quyết. Áp dụng Tỷ xích Kho bạc, theo đó người dùng ký gửi tôken `yVault` của mình vào một "thang đo", thu về phần thưởng YFI, được kích thưởng thêm tùy thuộc số lượng veYFI mà bản thân đã cọc. YFI phân bổ vào tỷ xích dựa theo biểu quyết quản trị hàng tuần.
 
-4: "Useful work" features. Expand the duties and responsibilities of veYFI voters, and their locked YFI, in exchange for earning additional protocol rewards. Pending the tbc v3 vault design.
+4: Tính năng "Đóng góp hữu ích". Gia tăng trách nhiệm và nghĩa vụ cho "cử tri" veYFI cũng như YFI được khóa của họ, đổi lại bằng phần thưởng lớn hơn từ giao thức. Đây là thiết kế kho bạc v3 đang chờ hoạch định cụ thể và phê duyệt.
 
-Next, a mandate will be given to Yearn Developers to roll out the above components at their discretion as and when they become feasible.
+Tiếp theo, thẩm quyền thực hiện sẽ được trao cho cho Ê-kíp Lập trình Yearn, tùy theo quyết định của họ khi khả thi.
 
-Finally, the YFI eligible to vote in Yearn Governance will be restricted to only those staked in xYFI (from Phase 1 and onwards) or vote-locked in Yearn (from Phase 2 and onwards).
+Cuối cùng, YFI có thể biểu quyết Quản trị Yearn sẽ trở thành đặc quyền của riêng những ai đặt cọc trong xYFI (từ Pha 1 trở đi) hoặc bỏ phiếu khóa-giam trong Yearn (từ Pha 2 trở đi).
 
-Read more about the proposed tokenomics upgrades and benefits [here](https://gov.yearn.finance/t/yip-65-evolving-yfi-tokenomics/11994) and vote on the snapshot [here](https://snapshot.org/#/ybaby.eth/proposal/0x8f7417fa5565d9f46e16618503e8808c36d51b2a9e8217a68c632d7c090d69d9).
+Đọc thêm về đề xuất nâng cấp mô hình kinh tế tôken và các lợi ích [tại đây](https://gov.yearn.finance/t/yip-65-evolving-yfi-tokenomics/11994), rồi biểu quyết trên Snapshot [ở liên kết này](https://snapshot.org/#/ybaby.eth/proposal/0x8f7417fa5565d9f46e16618503e8808c36d51b2a9e8217a68c632d7c090d69d9).
 
-Special thanks to authors: @0xJiji, @banteg, daryllautk, HAtTip3675, @onlylarping, @vany365, and @Wot_Is_Goin_On for creating this important proposal.
+Đặc biệt cảm ơn các tác giả: @0xJiji, @banteg, daryllautk, HAtTip3675, @onlylarping, @vany365 và @Wot_Is_Goin_On đã soạn thảo đề xuất quan trọng này.
 
-## [Proposal] Mean - DCA Buyback Pilot Program
+## [Đề xuất] Mean - Thí điểm Chương trình Mua lại DCA
 
 ![](image3.png)
 
-The objective of this pilot program is to provide a better understanding through example that DCAing is a better way to execute buy-backs within the treasury.
+Mục tiêu của chương trình thí điểm này nhằm chứng tỏ việc Trung bình hóa Chi phí Đầu tư (`Dollar-Cost Average` hay DCA) là phương án mua lại hiệu quả hơn cho Ngân khố (`Treasury`).
 
-The Yearn team, on the basis that a Snapshot vote passes, will allocate $1M worth of ETH (249.376559 ETH @ $4010 per ETH) towards this buyback program and create a 30 days position YFI to ETH within Mean Finance at a rate of 8.31255197 ETH per day
+Ê-kíp Yearn, dựa trên cơ sở biểu quyết Snapshot đã được thông qua, sẽ dành ra số ETH trị giá 1&nbsp;Triệu&nbsp;$ (249.376559 ETH @ $4010/ETH) cho chương trình mua lại này và khởi tạo vị trí tài chính YFI-ETH trong 30 ngày với tỷ lệ 8.31255197 ETH từng hôm.
 
-The Mean team hopes to at least have some resounding effects within the community & leadership of the DAO.
+Ê-kíp Mean hy vọng sẽ tạo được ít nhất một hiệu ứng vang dội trong cộng đồng và ban lãnh đạo của ĐAO.
 
-Read more about the proposal [here](https://gov.yearn.finance/t/proposal-mean-dca-buyback-pilot-program/12065).
+Đọc thêm về đề xuất trên [tại đây](https://gov.yearn.finance/t/proposal-mean-dca-buyback-pilot-program/12065).
 
-## Reflecting on Yearn
+## Suy ngẫm về Yearn
 
-It’s 2022, time to re-analyze your DeFi bets. Here's a short overview of why Yearn is different.
+2022 đã đến, giờ là lúc nhìn lại các "ván cược" về ĐeFi của bạn. Đây là tóm tắt ngắn gọn vì sao Yearn khác biệt so với phần còn lại.
 
-Whilst Yearn is usually labeled as a “yield aggregator” this can lead to the idea that a team works on generating a yield. Even worse it's sometimes considered a simple CRV farmer. This is not a useful way to understand Yearn.
+Với việc Yearn thường gắn với nhãn hiệu "tổ hợp lãi suất”, nhiều người hay mường tượng ra một ê-kíp làm việc với mục tiêu duy nhất là "gặt hoa lợi". Lệch lạc hơn, nhiều lúc Yearn còn bị xem nhẹ như "nông dân" chỉ ngồi "cày" CRV. Đó chắc chắn không phải cách hiểu đúng về Yearn.
 
-There are currently significant constraints on yield generation such as a small pool of people who can build strategies, high gas fees limiting certain strategies, lack of battled-tested protocols to build strategies and a lack of ways to automate processes.
+Hiện tại, nhiều hạn chế còn tồn đọng như chỉ một nhóm nhỏ lập trình viên đủ khả năng xây dựng chiến lược, phí gas cao không cho phép vài chiến lược nhất định, thiếu số lượng giao thức đủ an toàn để áp dụng chiến lược, cũng như ít cách tự động hóa các tác vụ.
 
-Rather than wait for these constraints to ease (and they already are with more strategists being on-boarded, other chains and L2s with low fees), Yearn has been quietly building infrastructure to optimize the interaction between protocols, strategists and capital at scale.
+Thay vì chờ khó khăn giảm bớt (một phần đã rồi với việc "nhập môn" nhiều chiến lược gia hơn, mở rộng sang các chuỗi khối và Lớp-2 khác có phí gas thấp), Yearn âm thầm xây dựng cơ sở hạ tầng nhằm tối ưu hóa tương tác giữa những giao thức, chiến lược gia cũng như nguồn vốn ở quy mô lớn.
 
-Yearn has been building the machine that builds the machine of yield aggregation (to paraphrase Mr. Musk), ready for a world of an ever-increasing number of tokens, complex protocols, chains, strategists, tooling and capital.
+Yearn đã và đang chế tạo ra cỗ máy sản xuất được cỗ máy tổ hợp lãi suất (như kiểu diễn đạt của Chú Elon Musk), sẵn sàng cho một thế giới ngày càng nhiều tôken, giao thức phức tạp, chuỗi khối, chiến lược gia, công cụ cũng như nguồn vốn.
 
-With $7bn of DeFi hacks in 2021 the primary focus has been on security. Most DeFi protocols limit financial risks by tweaking parameters (e.g. lending protocols reduce the loan-to-collateral value of riskier assets), and minimize technological risks by focusing on one thing (e.g. lending).
+Với 7&nbsp;tỷ&nbsp;$ các vụ "hack" ĐeFi trong năm 2021, trọng tâm chính luôn là bảo đảm an toàn. Hầu hết các giao thức ĐeFi hạn chế rủi ro tài chính bằng cách điều chỉnh thông số (ví dụ: Nền tảng cho vay giảm giá trị vay-trên-thế-chấp đối với tài sản nhiều rủi ro hơn), cũng như tối thiểu hóa rủi ro công nghệ bằng cách tập trung vào một thứ (chẳng hạn như chỉ cho vay).
 
-Yearn does DeFi the hard way as it combines multiple protocols and strategies within a single vault. Other protocols boast about the number of audits they've done. Yearn's yAcademy is training the next generation of auditors - helping speed up the approval of new strategies.
+Yearn làm ĐeFi ở cấp độ khó vì kết hợp nhiều giao thức và chiến lược nội trong một kho bạc (`vault`) duy nhất. Các giao thức khác hay tự hào về số lượng kiểm chứng an toàn (`audit`) đã đạt được. "Học viện" yAcademy của Yearn đang đào tạo thế hệ kiểm toán viên tiếp theo - giúp đẩy nhanh tiến độ phê duyệt chiến lược mới.
 
-After security comes capital efficiency – figuring out how a vault should be split across lending protocols, LPs, leveraged farm opportunities and other strategies to optimize the risk-adjusted returns. And then trying to automate it.
+Ưu tiên tiếp theo là hiệu quả vốn – tìm ra cách điều phối tiền trong kho bạc khắp nhiều giao thức cho vay, cấp thanh khoản (`liquidity providing`), cơ hội "cày" với đòn bẩy tài chính và những chiến lược khác để tối ưu hóa lợi nhuận mà đỡ rủi ro nhất. Rồi đến công đoạn tự động hóa chúng.
 
-Part of the reason behind YFI's "fair launch" was the realization that producing a high risk-adjusted yield for the trillions of dollars sitting in TradFi would be too much work for one team. The YFI boarding school is now training first-time strategists.
+Một phần lý do đằng sau sự "phát hành công bằng" của YFI bắt nguồn từ nhận thức, hay sự thật phũ phàng: Thu về lợi tức cao nhưng ít rủi ro cho hàng nghìn tỷ đô-la ở thế giới Tài chính Cũ (TradFi) là công việc vô cùng quá sức cho một ê-kíp. "Trường nội trú" YFI giờ đây đang đào tạo những chiến lược gia "lần đầu".
 
-Scalability requires reducing manual processes - buybacks, harvests, changing the strategy weightings, hedging after price movements. It's no coincidence Andre created
+Yêu cầu về mở rộng quy mô đòi hỏi giảm thiểu các quy trình thủ công - mua lại, thu hoạch, đổi tỷ trọng chiến lược, phòng hộ rủi ro sau biến động giá. Andre không phải chỉ ngẫu hứng tạo ra 
 
-Keep3r. There's even a data analysis group working on the optimal time to do buybacks.
+Keep3r. Thậm chí, chúng tôi còn có cả một nhóm phân tích dữ liệu đang nghiên cứu thời điểm tối ưu để mua lại.
 
-Coordination with decentralization – how do you build a system that incentivizes people who’ve never met to make all this happen? Coordinape helps - a tool whose origins go back to a Yearn group that first ran into the problem - is now being used by countless DAOs.
+Phối hợp giữa môi trường phi tập trung, phân quyền – Xây dựng hệ thống như thế nào để khuyến khích nhiều người chưa bao giờ gặp mặt cùng bắt tay hiện thực hóa tất cả những thứ trên? Coordinape đã rất hữu ích - công cụ này bắt nguồn từ một ê-kíp Yearn khi gặp phải vấn đề này lần đầu -  giờ đây đang được sử dụng bởi vô số tổ chức ĐAO.
 
-Each new DeFi protocol creates a potential opportunity for a strategist. The new strategy improves the risk-adjusted yield for the vaults which incentivizes more capital, leading to more fees which can be used to build this beast of a platform.
+Mỗi giao thức ĐeFi mới đem lại cơ hội tiềm tàng cho chiến lược gia. Chiến lược mới làm tăng hoa lợi mà đỡ rủi ro cho các kho bạc, từ đó khuyến khích nhiều vốn ký gửi hơn, mang lại thêm phí sử dụng để tiếp tục xây dựng nền tảng khổng lồ này.
 
-The examples in this thread show how Yearn is attempting to solve the generalized problems in DeFi. The term "DeFi protocol" doesn't seem to do it justice, maybe Yearn could be better described as a fintech DAO.
+Các ví dụ trên cho thấy cách Yearn tiến hành giải quyết nhiều vấn đề chung trong ĐeFi. Thuật ngữ "giao thức ĐeFi" dường như không còn đủ sức mô tả nữa, có lẽ "tổ chức công nghệ tài chính tự-trị phi-tập-trung" hay "fintech ĐAO" sẽ đúng hơn khi nói đến Yearn.
 
-Thank you to Wot_Is_Goin_On for the amazing thread that can be found [here](https://twitter.com/Wot_Is_Goin_On/status/1477277152336916484).
+Cảm ơn Wot_Is_Goin_On về bài viết tuyệt vời này, liên kết gốc [tại đây](https://twitter.com/Wot_Is_Goin_On/status/1477277152336916484).
 
-## Yearn Has Received a 1M FTM Grant From the Fantom Foundation
+## Yearn Đã Được Khuyến khích 1&nbsp;Triệu&nbsp;FTM từ Fantom Foundation
 
 ![](image4.png)
 
-Yearn has received a 1M FTM grant from the Fantom Foundation.
+Yearn Đã Được Khuyến khích 1&nbsp;Triệu&nbsp;FTM từ Fantom Foundation
 
-We didn't dump, over 90% was donated to the FTM vault. Other vaults got a proportional donation for an immediate 1% increase in value.
+Chúng tôi không bán phá giá hay xả hết, hơn 90% được đóng góp cho kho bạc FTM. Những kho bạc khác được nhận khoản đóng góp tỷ lệ tương ứng và ngay lập tức tăng 1% giá trị.
 
-This grant is the first of many, we will continue receiving more as we hit TVL goals.
+Khoản trợ cấp này chỉ là khởi đầu, chúng tôi sẽ tiếp tục gặt hái nhiều hơn khi đạt mục tiêu về Tổng Giá trị Ký gửi (TVL).
 
-## Vaults At Yearn
+## Các Kho bạc (`Vault`) tại Yearn
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Bạn có thể đọc mô tả chi tiết các chiến lược của mọi yVault đang hoạt động [tại đây](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-## Ecosystem News
+## Tin tức trong Hệ Sinh thái
 
-[Check out DeFi Saver’s new Smart Savings dashboard including Yearn](https://twitter.com/DeFiSaver/status/1476614075815809028?s=20)
+[Xem ngay bảng tổng quan `Smart Savings` mới của DeFi Saver, có luôn Yearn](https://twitter.com/DeFiSaver/status/1476614075815809028?s=20)
 
-[See the 2021 Yearn contributor hoodie made by loldefi](https://twitter.com/loldefi/status/1477062572595884032)
+[Xem áo hoodie Yearn 2021 cho đóng góp viên do loldefi làm ra](https://twitter.com/loldefi/status/1477062572595884032)
 
-[Yearn continues to buyback yvBOOST](https://twitter.com/wavey0x/status/1474946151006842884)
+[Yearn tiếp tục mua lại yvBOOST](https://twitter.com/wavey0x/status/1474946151006842884)
 
-[Read an analysis on $CRV bribes including yvBOOST](https://twitter.com/0xSEM/status/1475284063204388867)
+[Đọc phân tích về lót tay $CRV bao gồm cả yvBOOST](https://twitter.com/0xSEM/status/1475284063204388867)
