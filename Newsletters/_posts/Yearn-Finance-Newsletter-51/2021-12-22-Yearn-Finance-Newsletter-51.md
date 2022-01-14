@@ -1,99 +1,94 @@
 ---
 layout: post
-title: "Yearn Finance Newsletter #51"
+title: "Bản tin Yearn.Finance Số #53"
 categories: [Newsletters]
-image: ./Yearn-Finance-Newsletter-51/image1.png
+image: ./Yearn-Finance-Newsletter-53/image1.png
 author: Yearn
-translator:
-publish: false
+translator: 🤖💵💵💰💰.eth
+publish: true
 ---
 
-# Yearn Finance Newsletter #51
+# Bản tin Yearn.Finance Số #53
 
-### Week Ending December 19th, 2021
+### Tuần Kết thúc Ngày 09/01/2022
 
 ![](image1.png)
 
-Welcome to the 51th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Chào mừng các bạn đến với Bản tin Yearn.Finance Số #53! Chúng tôi hy vọng sẽ truyền tải được những dữ kiện mới nhất cho cộng đồng tiền mã thuật số (`crypto`) nói chung lẫn cộng đồng Yearn nói riêng; từ phát hành sản phẩm, thay đổi trong quản trị đến nhiều dự án đối tác trực thuộc hệ sinh thái Yearn. Nếu quan tâm và muốn biết thêm chi tiết về Yearn.Finance, hãy theo dõi tài khoản [Twitter](https://twitter.com/iearnfinance), [Medium](https://medium.com/iearn) cũng như [blog Tiếng Việt](https://vietnamese.blog.yearn.finance/) chính thức của chúng tôi.
 
-## Summary
+## Tóm tắt
 
-- YFI Tokenomics Poll Finalized
-- Yearn Has Purchased $7.5M of YFI
-- Proposal: Evolving YFI’s Tokenomics
-- Report: Reborn As A Black Hole
-- Yearn Holiday Card NFT
-- Vaults at Yearn
-- Ecosystem News
+- Sự Minh bạch ở Yearn
+- Cập nhật Web Yearn
+- Đăng ký cho Đợt Tiếp theo của yAcademyĐAO
+- Yearn Đã Được Khuyến khích Thêm 1&nbsp;Triệu&nbsp;FTM từ Fantom Foundation
+- Các Kho bạc (`Vault`) tại Yearn
+- Tin tức trong Hệ Sinh thái
 
-## YFI Tokenomics Poll Finalized
-
-The YFI tokenomics poll has ended with xYFI as the leading option. xYFI suggests the creation of a YFI staking vault where excess treasury earnings are to be sent.
-
-Huge thanks to [Fin4Dao](https://twitter.com/Fin4Dao) for all the facilitation work. Check out the snapshot [here](https://snapshot.org/#/ybaby.eth/proposal/0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea).
-
-## Yearn Has Purchased $7.5M of YFI
+# Sự Minh bạch ở Yearn
 
 ![](image2.png)
 
-Yearn has purchased $7,526,343 worth of YFI from the open market. We got 282.4 YFI (0.77% of total supply) at an average price of $26,651. More YFI has been bought back in the past month than in the prior year.
+# Minh bạch hơn. Nhiều "bật mí" hơn.
 
-Now that the Treasury has more than $45 million saved up and with earnings stronger than ever, expect much more aggressive buybacks. What will you do anon?
+Hai công cụ mới từ Yearn soi sáng những hang thỏ bí ẩn: [Bộ tổng hợp nội dung](https://blog.yearn.finance/) và [Bách khoa toàn thư về kho bạc](https://vaults.yearn.finance/).
 
-We have also been purchasing back a significant amount of yvBOOST in order to restore the peg. Transactions can be found here: [https://etherscan.io/token/0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a?a=0x7d2aB9CA511EBD6F03971Fb417d3492aA82513f0](https://etherscan.io/token/0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a?a=0x7d2aB9CA511EBD6F03971Fb417d3492aA82513f0)
+Với Bộ tổng hợp nội dung, bạn có thể tìm thấy mọi thông tin quan trọng nhất từ Yearn. Chỉ cần truy cập một liên kết là có thể xem những thông báo, mẩu tweet, bản tin và báo cáo tài chính hàng quý mới nhất của Yearn. Bạn cũng tìm thấy những bài viết "đầy não" từ đóng góp viên Yearn như tracheopteryx.
 
-## Proposal: Evolving YFI’s Tokenomics
+Với Bách khoa toàn thư mới cho kho bạc Yearn do cộng đồng vừa tạo dựng, bạn có thể xem thông tin chuyên sâu về cách các yVault hoạt động, cũng như đánh giá những tác vụ/chiến lược mà chúng thực hiện.
+
+Từng được đăng tải trên Medium, trang kho bạc mới giờ có thêm bộ lọc, bao hàm thế giới đa chuỗi (`multichain`), tự động cập nhật nội dung, cũng như (sắp ra mắt) hỗ trợ đa ngôn ngữ!
+
+Đọc thêm về các công cụ kể trên tại đây. Xin cảm ơn @0xMajor, @KoxEvan và DarkGhosty đã góp công sức tuyệt vời trong việc xây dựng Bách khoa toàn thư về kho bạc.
+
+# Cập nhật Web Yearn
 
 ![](image3.png)
 
-Step 1 is xYFI, where one stakes in the xYFI vault, earning back YFI from the treasury.
+Trong nỗ lực tăng cường tính minh bạch, vài đóng góp viên cho trang Web của Yearn đã bắt đầu một bản tin nhằm tổng hợp đặc điểm mới, vấn đề nóng hổi, kế hoạch cập nhật, cũng như định kỳ đăng tải nội dung chuyên sâu về mảng ghép kỹ thuật này.
 
-Step 2 is veYFI, where one vote-locks YFI, with decay and time extension. Max-lock and earn disproportionate rewards compared to those who lock for shorter duration. Early exit any time but pay a penalty to the other stakers.
+Những điểm chính ở bản phát hành này bao gồm việc cải thiện trải nghiệm người dùng (UX) và tốc độ khi chuyển mạng, kể cả lời nhắc bổ sung Fantom vào ví của bạn nếu cần, cũng như đẩy mạnh hỗ trợ cho Fantom trong yearn-exporter.
 
-Step 3 is Vault gauges, where one stakes their yVault token in a gauge, earning YFI rewards, boosted by how much veYFI they have staked. Vote on which vaults should get allocated rewards. Pay a penalty to other stakers if you don't have a strong enough lock.
+Như thường lệ, nếu có bất kỳ góp ý hay đề xuất nào cho website, hoặc muốn đóng góp công sức xây dựng, đừng ngần ngại liên hệ với chúng tôi qua [Discord](https://discord.com/invite/yearn).
 
-Step 4 is useful work, in which veYFI holders earn additional rewards by doing useful work. This is is pending the final form of the vaults v3 design. Things that it could be (but not limited to) includes configuring vault parameters, setting fees, providing insurance.
+Xem chi tiết cập nhật [tại đây](https://yearnweb.substack.com/p/update-jan-5-2022?showWelcome=true).
 
-The proposal asks that the mandate is given to developers to implement these high level designs at their discretion. Once rolled out, only xYFI and later veYFI would be eligible to vote in Yearn Governance.
-
-What will the rewards be, you ask? The treasury is buying back more YFI than ever, and expect to be able to direct $35-45m to buybacks per year. At a YFI price of $30k, that's 100 YFI/month.
-
-Read all the details in the proposal [here](https://gov.yearn.finance/t/proposal-evolving-yfi-tokenomics/11994), get involved, and let us know what you think. A big shout out to all the participants on the forum, Discord, and Telegram chats who helped shape the form of this proposal over the past two months.
-
-## Report: Reborn As A Black Hole
+# Đăng ký cho Đợt Tiếp theo của yAcademyĐAO
 
 ![](image4.png)
 
-Ape Froman has recently published a report detailing a comprehensive overview of Yearn, and he details the recent tokenomics troubles at Yearn, potential fixes, and further integrations of the YFI token into the greater DeFi ecosystem. This will allow better value capture for holders and allow for a potential imbalance in the circulating supply of YFI - thus driving demand.
+Với những ai chưa biết, yAcademyĐAO là một cách tiếp cận dựa vào cộng đồng về vấn đề bảo đảm an toàn trong công nghệ chuỗi khối (`blockchain`). Tại Yearn, chúng tôi ưu tiên bảo an ở mức cao nhất. yAcademy là một trong các chính sách chủ động, bền vững, hợp tác để chắc chắn sử dụng nguồn nhân tài đúng cách.
 
-Special thanks to [Ape Froman](https://medium.com/@portiadog) for the thoughtful writeup. Check out the full piece [here](https://medium.com/@portiadog/yfi-reborn-as-a-black-hole-db249b90ed5a).
+yAcademy ĐAO được quản lý bởi nhiều thành viên làm việc toàn thời gian và đóng góp viên tích cực, có sự giám sát cũng như hướng dẫn từ đội ngũ thuộc liên minh bảo an Ethereum.
 
-## Yearn Holiday Card NFT
+Ghé thăm trang web nói trên [tại đây](https://yacademy.github.io/). Đăng ký gia nhập yAcademyĐAO [ở liên kết này](https://docs.google.com/forms/d/e/1FAIpQLSfc5VUYOyG_cRpiRkymJOVoHluFOuiYMRONX-R7xRuvWM25Xg/viewform).
 
-![](image5.png)
+# Yearn Đã Được Khuyến khích Thêm 1&nbsp;Triệu&nbsp;FTM từ Fantom Foundation
 
-Get in on Project Galaxy's Holiday Treasure Hunt and grab this Yearn Holiday Card NFT, just for being a Yearn Newsletter subscriber.
+Chào mừng 2022. Việc đóng góp tiếp diễn.
 
-Collect all 12 NFTs from Project Galaxy ecosystem partners and you'll get an additional Galaxy Girl NFT, which our friends at Project Galaxy will use to drop you future goodies. Probably nothing.
+Yearn đã nhận được một khoản khuyến khích nữa từ Fantom Foundation
 
-Steps are as follows: subscribe to Yearn’s weekly [newsletter](https://yearn.substack.com/), confirm your (new or existing) subscription on this [Google form](https://forms.gle/gsVpRsjdSXxyaXha9), and claim your rewards [here](https://galaxy.eco/yearn/campaign/GCTj8UUaoD).
+Tất nhiên, chúng tôi không bán xả phá giá. 208&nbsp;333&nbsp;FTM đã được đóng góp, với 90%+ vào kho bạc FTM và một khoản tương ứng cho các kho Fantom khác.
 
-Happy hunting and happy holidays from Yearn!
+Chúng tôi sẽ tiếp tục với những khoản khuyến khích trong tương lai.
 
-## Vaults At Yearn
+# Các Kho bạc (`Vault`) tại Yearn
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Bạn có thể đọc mô tả chi tiết các chiến lược của mọi yVault đang hoạt động [tại đây](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-## Ecosystem News
+# Tin tức trong Hệ Sinh thái
 
-[Check out Facu’s security chat with the Wido team who are building on top of Yearn](https://www.joinwido.com/blog/chat-with-facu-about-wido-together-and-its-security-model)
+[Xem ngay đặc trưng về Yearn trong vũ trụ PILLS](https://twitter.com/pillsuniverse/status/1478321675510763520)
 
-[Deposit in Yearn with lower gas fees thanks to Argent’s L2 Wallet](https://twitter.com/argentHQ/status/1471503921851944983)
+[Xem cách ZooDAO tận dụng Yearn để tạo hoa lợi từ NFT](https://twitter.com/ZooDAO/status/1480244287526916105)
 
-[See the YFI pendant made by loldefi](https://twitter.com/loldefi/status/1470449196939493383)
+[Đọc đề xuất về “yMarkt”](https://gov.yearn.finance/t/proposal-ymarkt-the-best-buybacks-can-get/12166)
 
-[$GEAR holders are eligible to vote on GIP-2 and GIP-3 to include YFI and Yearn contracts](https://twitter.com/GearboxProtocol/status/1472299963149426696?s=20)
+[Xây dựng giả thuyết về AMM mới của Andre Cronje và cách Yearn vào cuộc](https://gov.yearn.finance/t/yfi-solid-theorycrafting/12181)
 
-[Anyone in the world can contribute to the Yearn experience](https://twitter.com/bantg/status/1472038972092207107?s=20)
+[Phát hành cập nhật CLI mới cho Keep3r](https://twitter.com/DeFi_Wonderland/status/1478061081956343812)
 
-[Get insured on your Yearn deposits with solace.fi](https://twitter.com/SolaceFi/status/1471594979638321153?s=20)
+[Kiểm tra kỳ hạn ĐAI mới của Element Finance tận dụng các kho bạc Yearn](https://twitter.com/element_fi/status/1478819507829293058)
+
+[Thử ngay kho bạc ApeMode mới trên Fantom](https://twitter.com/poolpitako/status/1479271890933923843)
