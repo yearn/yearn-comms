@@ -1,121 +1,121 @@
 ---
 layout: post
-title:  "Yearn Finance Newsletter #50"
+title:  "यर्न वित्त समाचार पत्र #५०"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-50/image1.png
 author: Yearn
-translator:
-publish: false
+translator: Major-Rager
+publish: true
 ---
 
-# Yearn Finance Newsletter #50
+# यर्न वित्त समाचार पत्र #५० 
 
-### Week Ending December 5th, 2021
+### ५ दिसंबर, २०२१ को समाप्त होने वाला सप्ताह
 
 ![](image1.png)
 
-Welcome to the 50th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+यर्न वित्त समाचार पत्र के ५०वें संस्करण में आपका स्वागत है। इस न्यूज़लेटर के साथ हमारा उद्देश्य उत्पाद लॉन्च, शासन परिवर्तन और पारिस्थितिकी तंत्र अपडेट सहित नवीनतम समाचारों के बारे में यर्न और व्यापक क्रिप्टो समुदाय को सूचित करना है। अगर आप यर्न फाइनेंस के बारे में अधिक जानने में रुचि रखते हैं, तो हमारे आधिकारिक [ट्विटर](https://twitter.com/iearnfinance) और [मीडियम](https://medium.com/iearn) खातों का अनुसरण करें।
 
-## Summary
+##
 
--   New Yearn UI
+- नया साल UI
     
--   YFI Tokenomics Update Proposal
+- YFI टोकनोमिक्स अपडेट प्रस्ताव
     
--   Updated Yearn Docs
+- अद्यतन यर्न डॉक्स
     
--   YIP-64 Fails To Meet Quorum
+- YIP-64 कोरम पूरा करने में विफल
     
--   Yearn Delegates 23M veCRV to Convex
+- यर्न ने 23M veCRV डेलिगेट किये Convex को
     
--   Yearn Snapshot Strategy
+- यर्न स्नैपशॉट रणनीति
 
--   Vaults at Yearn
+- यर्न में तिजोरियाँ
 
--   Ecosystem News
+- पारिस्थितिकी तंत्र समाचार
 
-## New Yearn UI
+## नया यर्न UI
 
 ![](image2.png)
 
-We’ve rebuilt [yearn.finance](https://yearn.finance/) from scratch with tons of feedback from our community. It's live now, so take it for a spin. 
+हमने [yearn.finance](https://yearn.finance/) को नए सिरे से बनाया है और हमारे समुदाय से ढेर सारे फीडबैक मिले हैं। यह अब लाइव है, इसलिए इसे एक स्पिन के लिए लें।
 
-One of the most interesting features (in our opinion) is the Simulations feature. To deposit into vaults in previous UI versions we added Zapper support so, for example, you can deposit into 3CRV vault with ETH or any token supported by Zapper, which is fast and convenient and implies that a swap will happen in your deposit. What is that "Simulating.." message you may ask? Well that "Simulating..." label checks your input tokens and with Zapper's API and Tenderly, an awesome service that eagerly executes a simulation of your transaction.This simulation calculates what the exact output would be, like a preview of your deposit. e.g ETH>3crv. 
+सबसे दिलचस्प विशेषताओं में से एक (हमारी राय में) सिमुलेशन सुविधा है। पिछले UI संस्करणों में तिजोरीयों में जमा करने के लिए हमने Zapper समर्थन जोड़ा है, उदाहरण के लिए, आप ETH या Zapper द्वारा समर्थित किसी भी टोकन के साथ 3CRV तिजोरी में जमा कर सकते हैं, जो तेज़ और सुविधाजनक है और इसका अर्थ है कि आपकी जमा राशि में एक स्वैप होगा। वह "सिम्युलेटिंग.." संदेश क्या है जो आप पूछ सकते हैं? ठीक है कि "सिमुलेटिंग ..." लेबल आपके इनपुट टोकन की जांच करता है और जैपर के API और Tenderly के साथ, एक सेवा जो उत्सुकता से आपके लेनदेन के सिमुलेशन को निष्पादित करती है। यह सिमुलेशन गणना करता है कि सटीक आउटपुट क्या होगा, जैसे आपकी जमा राशि का पूर्वावलोकन। जैसे ETH>3crv.
 
-Why is this useful and great? Well, given the protocols involved and on-chain state being dynamic, it's hard to predict a good estimate of vault tokens you can receive. Your slippage may be bigger than expected, or your token path may fail and cost you gas, etc. This simulation may save you gas either on deposit or withdrawals.
+यह उपयोगी और महान क्यों है? ठीक है, इसमें शामिल प्रोटोकॉल और ऑन-चेन स्थिति गतिशील होने के कारण, आपके द्वारा प्राप्त किए जा सकने वाले तिजोरी टोकन के अच्छे अनुमान की भविष्यवाणी करना कठिन है। आपकी फिसलन अपेक्षा से अधिक हो सकती है, या आपका टोकन पथ विफल हो सकता है और आपको गैस आदि खर्च करनी पड़ सकती है। यह सिमुलेशन आपको जमा या निकासी पर गैस बचा सकता है।
 
-Withdrawals are another area that is hard to predict. Simulations help check if you can withdraw given the vault conditions, some are more liquid than others depending on strategies allocations.
+निकासी एक और क्षेत्र है जिसकी भविष्यवाणी करना मुश्किल है। सिमुलेशन यह जांचने में मदद करते हैं कि क्या आप तिजोरी की स्थिति को देखते हुए वापस ले सकते हैं, कुछ रणनीति आवंटन के आधार पर दूसरों की तुलना में अधिक तरल हैं।
 
-If you get a "Simulation Failed.." msg, odds are that if you move forward with the transaction it will revert.
+यदि आपको "Simulation Failed.." संदेश मिलता है, तो संभावना है कि यदि आप लेन-देन के साथ आगे बढ़ते हैं तो यह वापस आ जाएगा।
 
-The v3 UI is new so more work is being done to improve this UX to be even more smooth.
+v3 UI नया है इसलिए इस UX को और भी बेहतर बनाने के लिए और अधिक काम किया जा रहा है।
 
-Look under the hood [here](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f). If you’re a developer, contribute [here](https://github.com/yearn/yearn-finance-v3).
+हुड के नीचे देखें [यहां](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f)। अगर आप एक डेवलपर हैं, तो [यहां] (https://github.com/yearn/yearn-finance-v3) योगदान करें।
 
-## YFI Tokenomics Update Proposal
+## YFI टोकनोमिक्स अपडेट प्रस्ताव
 
-A snapshot poll is live to gauge support for community proposals on YFI tokenomics.
+YFI टोकननॉमिक्स पर सामुदायिक प्रस्तावों के समर्थन का आकलन करने के लिए एक स्नैपशॉट पोल लाइव है।
 
-There are currently 5 options up for vote, with the working names being ySplit, veYFI, xYFI, BurnKeYs, and Status Quo. The [ySplit proposal](https://docs.google.com/document/d/1dAWTkS_ZsXNy7mKKjOFUjILSlLsLz9KhGfLrwVu0GUg/edit) suggests splitting the YFI token into 10,000 to 1,000,000 to combat unit bias. The [veYFI proposal](https://docs.google.com/document/d/1hoi-IVccOB6iUJYzuApVbyjbQBx8-M0UuzZosb9wlWM/edit) suggests locking YFI for a given period of time in order to receive governance rights that dictate the vaults where treasury earnings should go. [xYFI](https://docs.google.com/document/d/1ev16BXu3bDC8zMSBvHmxMWIeD82ptZck6SJAO5frV5g/edit) suggests the creation of a YFI staking vault where excess treasury earnings are to be sent. [BurnKeYs](https://docs.google.com/document/d/1BqmRsfdfCIaCtNZULdhKqUJzpKdaHE1XOGQlVp2nuSc/edit) calls for the mint function of the YFI token to be permanently disabled, thus capping the supply at 36,666 tokens. Status Quo would leave the YFI tokenomics in its current state and inform holders and potential investors of the benefits.
+वोट के लिए वर्तमान में ५ विकल्प हैं, जिनमें काम करने वाले नाम ySplit, veYFI, xYFI, BurnKeYs और Status Quo हैं। [ySplit प्रस्ताव](https://docs.google.com/document/d/1dAWTkS_ZsXNy7mKKjOFUjILSlLsLz9KhGfLrwVu0GUg/edit) इकाई पूर्वाग्रह से निपटने के लिए YFI टोकन को १०,००० से १,०००,००० में विभाजित करने का सुझाव देता है। [veYFI प्रस्ताव](https://docs.google.com/document/d/1hoi-IVccOB6iUJYzuApVbyjbQBx8-M0UuzZosb9wlWM/edit) एक निश्चित अवधि के लिए YFI को लॉक करने का सुझाव देता है ताकि गवर्निंग अधिकारों को प्राप्त किया जा सके जो खजाने की कमाई को नियंत्रित करते हैं। जाना चाहिए। [xYFI](https://docs.google.com/document/d/1ev16BXu3bDC8zMSBvHmxMWIeD82ptZck6SJAO5frV5g/edit) एक YFI स्टेकिंग वॉल्ट के निर्माण का सुझाव देता है जहां अतिरिक्त ट्रेजरी कमाई भेजी जानी है। [BurnKeYs](https://docs.google.com/document/d/1BqmRsfdfCIaCtNZULdhKqUJzpKdaHE1XOGQlVp2nuSc/edit) YFI टोकन के टकसाल फ़ंक्शन को स्थायी रूप से अक्षम करने के लिए कहता है, इस प्रकार ३६,६६६ टोकन पर आपूर्ति को सीमित करता है। यथास्थिति YFI टोकननॉमिक्स को उसकी वर्तमान स्थिति में छोड़ देगी और धारकों और संभावित निवेशकों को लाभों के बारे में सूचित करेगी।
 
-Vote here at [the Snapshot page](https://yearn.snapshot.page/#/proposal/0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea). Thank you to all in the community who have contributed. An update from the working group, haiku included, can be found [here](https://docs.google.com/document/d/1-YEfXqXgTm-qzhPRUKs5allfX1XqYUOYwr_49FApnLU/edit).
+[स्नैपशॉट पेज](https://yearn.snapshot.page/#/proposal/0x783cb3d57dd59b2827f6a42967375f06504cc947eba3c0e495c7b29ffd47aea) पर यहां वोट करें। समुदाय के सभी लोगों को धन्यवाद जिन्होंने योगदान दिया है। हाइकू सहित वर्किंग ग्रुप का एक अपडेट [यहां](https://docs.google.com/document/d/1-YEfXqXgTm-qzhPRUKs5allfX1XqYUOYwr_49FApnLU/edit) पाया जा सकता है।
 
-## Updated Yearn Docs
+## अद्यतन यर्न डॉक्स
 
-Several months ago Yearn contributors set out to rewrite our docs to make them friendly and approachable.
+कई महीने पहले यर्न योगदानकर्ताओं ने हमारे दस्तावेज़ों को मित्रवत और सुलभ बनाने के लिए उन्हें फिर से लिखना शुरू किया।
 
-The completely refreshed docs are here to guide users, devs, partners, and to feed your curiosity with many previously unseen entries.
+पूरी तरह से ताज़ा किए गए डॉक्स यहां उपयोगकर्ताओं, डेवलपर्स, भागीदारों का मार्गदर्शन करने और पहले की अनदेखी कई प्रविष्टियों के साथ आपकी जिज्ञासा को शांत करने के लिए हैं।
 
-Check out the new docs [here](https://docs.yearn.finance/).
+नए दस्तावेज़ देखें [यहां](https://docs.yearn.finance/)।
 
-## YIP-64 Fails To Meet Quorum
+## YIP-64 कोरम पूरा करने में विफल
 
 ![](image3.png)
 
-YIP-64: Adjust fees on non-stablecoin yVaults entered the voting phase and ended in the majority voting against adjusting fees.
+YIP-64: गैर-स्थिर मुद्रा पर शुल्क समायोजित करें yVaults ने मतदान चरण में प्रवेश किया और शुल्क समायोजन के खिलाफ बहुमत मतदान में समाप्त हुआ।
 
-Check out the proposal [here](https://snapshot.org/#/ybaby.eth/proposal/0xfe7296601d199b89a8aa53f95d6243ef935d736bea2f13109979d8d5098017d2).
+प्रस्ताव देखें [यहां](https://snapshot.org/#/ybaby.eth/proposal/0xfe7296601d199b89a8aa53f95d6243ef935d736bea2f13109979d8d5098017d2)।
 
-## Yearn Delegates 23M veCRV to Convex
+## यर्न ने 23M veCRV डेलिगेट किये Convex को
 
 ![](image4.png)
 
-Yearn has delegated 23 million veCRV to Convex Finance using Curve’s new native boost delegation feature. This will increase yields of factory pools for both our DAOs. This does not affect regular pools, fees or voting.
+यर्न ने Curve के नए नेटिव बूस्ट डेलिगेशन फीचर का इस्तेमाल करते हुए Convex फाइनेंस को 23M veCRV सौंपे हैं। इससे हमारे दोनों DAO के लिए फ़ैक्टरी पूल की पैदावार बढ़ेगी। यह नियमित पूल, शुल्क या मतदान को प्रभावित नहीं करता है।
 
-Delegating unused veCRV [here](https://convex-boost-delegation.vercel.app/) increases factory rewards for all Convex participants, this further helps increase yield for Convex and Yearn. Our delegation transaction can be found [here](https://etherscan.io/tx/0x4734c879b23c678cb97ba90591e16a14f1f7a2e0a7d71bfa67d2e7bb5d718e5f).
+अप्रयुक्त veCRV [यहां] (https://convex-boost-delegation.vercel.app/) को प्रत्यायोजित करने से सभी Convex प्रतिभागियों के लिए फ़ैक्टरी पुरस्कार बढ़ जाते हैं, इससे उत्तल और यर्न के लिए उपज बढ़ाने में मदद मिलती है। हमारा प्रतिनिधिमंडल लेनदेन पाया जा सकता है [यहां](https://etherscan.io/tx/0x4734c879b23c678cb97ba90591e16a14f1f7a2e0a7d71bfa67d2e7bb5d718e5f)।
 
-## Yearn Snapshot Strategy
+## यर्न Snapshot रणनीति
 
-In preparation for several important votes, Yearn's Snapshot strategy got refreshed.
+कई महत्वपूर्ण वोटों की तैयारी में, यर्न की Snapshot रणनीति ताज़ा हो गई।
 
-It allows you to vote with productive YFI, namely YFI in wallet, all Yearn v2 vaults, Bancor, Balancer v2, Uniswap v2, Sushi (incl. MasterChef), MakerDAO, Unit, Instadapp (incl. MakerDAO).
+यह आपको उत्पादक YFI के साथ वोट करने की अनुमति देता है, अर्थात् वॉलेट में YFI, सभी यर्न v2 तिजोरियाँ, Bancor, Balancer v2, Uniswap v2, Sushi (Masterchef सहित), MakerDAO, Unit, Instadapp (MakerDAO सहित)।
 
-The contract can be found [here](https://github.com/yearn/snapshot-strategy) and the deployment can be found [here](https://etherscan.io/address/0xA79e803FffE9DA37477ddaFD7C6F3dbDCa1C566C#code)
+अनुबंध पाया जा सकता है [यहां](https://github.com/yearn/snapshot-strategy) और परिनियोजन पाया जा सकता है [यहां](https://etherscan.io/address/0xA79e803FffE9DA37477ddaFD7C6F3dbDCa1C566C#code)
 
-## Vaults At Yearn
+## यर्न में तिजोरियाँ
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+आप हमारे सभी सक्रिय yVaults के लिए रणनीतियों का विस्तृत विवरण पढ़ सकते हैं [यहां](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)।
 
-## Ecosystem News
+## पारिस्थितिकी तंत्र समाचार
 
-[Securely use your YFI on Qredo Network’s platform](https://twitter.com/QredoNetwork/status/1461031928564436994)
+[Qredo नेटवर्क के प्लेटफॉर्म पर अपने YFI का सुरक्षित रूप से उपयोग करें](https://twitter.com/QredoNetwork/status/1461031928564436994)
 
-[Listen to Into the Byte Code with tracheopteryx](https://twitter.com/benmercerdev/status/1464347991674863626?s=21)
+[ट्रेकोप्टेरिक्स के साथ Into the Byte Code सुनें](https://twitter.com/benmercerdev/status/1464347991674863626?s=21)
 
-[Steakwallet now supports Yearn’s beta vaults on Fantom](https://twitter.com/steakwallet/status/1463623834389602311?s=21)
+[Steakwallet अब Fantom पर यर्न के बीटा तिजोरीयों का समर्थन करता है](https://twitter.com/steakwallet/status/1463623834389602311?s=21)
 
-[Tesseract enters top five fastest growing protocols on Polygon](https://twitter.com/marketducky/status/1461734313636945926?s=21)
+[Tesseract, Polygon पर शीर्ष पांच सबसे तेजी से बढ़ते प्रोटोकॉल में प्रवेश करता है](https://twitter.com/marketdky/status/1461734313636945926?s=21)
 
-[Watch the Coordinape onboarding video](https://twitter.com/coordinape/status/1460591450413015043?s=21)
+[Coordinape ऑनबोर्डिंग वीडियो देखें](https://twitter.com/coordinape/status/1460591450413015043?s=21)
 
-[Checkout Yearn on Argent’s L2 wallet with fees as low as $2](https://twitter.com/argentHQ/status/1468934923264401419)
+[Argent के L2 वॉलेट पर $२ जितनी कम फीस के साथ यर्न](https://twitter.com/argentHQ/status/1468934923264401419)
 
-[Tesseract vaults have increased their deposit limits](https://twitter.com/tesseract_fi/status/1468217220966801413)
+[Tesseract vaults ने अपनी जमा सीमा बढ़ा दी है](https://twitter.com/tesseract_fi/status/1468217220966801413)
 
-[Get a discount on ETHDubai tickets by holding $yvBOOST or $yvYFI](https://twitter.com/ETHDubaiConf/status/1467068791456923648)
+[$yvBOOST या $yvYFI धारण करके ETHDubai टिकटों पर छूट प्राप्त करें](https://twitter.com/ETHDubaiConf/status/1467068791456923648)
 
-[See Zapper’s spotlight on Yearn Simulations](https://twitter.com/zapper_fi/status/1466447565302517765)
+[यर्न सिमुलेशन पर Zapper की स्पॉटलाइट देखें](https://twitter.com/zapper_fi/status/1466447565302517765)
 
-[Listen in to Facu’s insights on Yearn with the On the Ledger podcast](https://twitter.com/Ledger/status/1465678701635506185)
+[On the Ledger पॉडकास्ट के साथ यर्न पर Facu की अंतर्दृष्टि में सुनें](https://twitter.com/Ledger/status/1465678701635506185)
 
-[YFI is now spendable in Flexa’s app](https://twitter.com/FlexaHQ/status/1469092114038415364)
+[YFI अब Flexa के ऐप में खर्च करने योग्य है](https://twitter.com/FlexaHQ/status/1469092114038415364)
