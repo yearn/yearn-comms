@@ -1,94 +1,94 @@
 ---
 layout: post
-title: "Yearn Finance Newsletter #53"
+title: "Bản tin Yearn.Finance Số #53"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-53/image1.png
 author: Yearn
-translator:
-publish: false
+translator: 🤖💵💵💰💰.eth
+publish: true
 ---
 
-# Yearn Finance Newsletter #53
+# Bản tin Yearn.Finance Số #53
 
-### Week Ending January 9nd, 2022
+### Tuần Kết thúc Ngày 09/01/2022
 
 ![](image1.png)
 
-Welcome to the 53th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Chào mừng các bạn đến với Bản tin Yearn.Finance Số #53! Chúng tôi hy vọng sẽ truyền tải được những dữ kiện mới nhất cho cộng đồng tiền mã thuật số (`crypto`) nói chung lẫn cộng đồng Yearn nói riêng; từ phát hành sản phẩm, thay đổi trong quản trị đến nhiều dự án đối tác trực thuộc hệ sinh thái Yearn. Nếu quan tâm và muốn biết thêm chi tiết về Yearn.Finance, hãy theo dõi tài khoản [Twitter](https://twitter.com/iearnfinance), [Medium](https://medium.com/iearn) cũng như [blog Tiếng Việt](https://vietnamese.blog.yearn.finance/) chính thức của chúng tôi.
 
-## Summary
+## Tóm tắt
 
-- Transparency at Yearn
-- Yearn Web Updates
-- Register for the Next Iteration of yAcademyDAO
-- Yearn Has Received An Additional 1M FTM Grant From the Fantom Foundation
-- Vaults at Yearn
-- Ecosystem News
+- Sự Minh bạch ở Yearn
+- Cập nhật Web Yearn
+- Đăng ký cho Đợt Tiếp theo của yAcademyĐAO
+- Yearn Đã Được Khuyến khích Thêm 1&nbsp;Triệu&nbsp;FTM từ Fantom Foundation
+- Các Kho bạc (`Vault`) tại Yearn
+- Tin tức trong Hệ Sinh thái
 
-# Transparency at Yearn
+# Sự Minh bạch ở Yearn
 
 ![](image2.png)
 
-# More transparency. More alpha.
+# Minh bạch hơn. Nhiều "bật mí" hơn.
 
-Two new tools from Yearn illuminating the mysterious depths of the rabbit hole are the [content aggregator](https://blog.yearn.finance/) and the [vault encyclopedia](https://vaults.yearn.finance/).
+Hai công cụ mới từ Yearn soi sáng những hang thỏ bí ẩn: [Bộ tổng hợp nội dung](https://blog.yearn.finance/) và [Bách khoa toàn thư về kho bạc](https://vaults.yearn.finance/).
 
-With the content aggregator, you can find all the most important information coming from Yearn. Go to one link for the latest announcements, tweets, newsletters, articles, and quarterly financials from Yearn. You’ll also find unrolled big brain twitter threads from Yearn contributors like tracheopteryx
+Với Bộ tổng hợp nội dung, bạn có thể tìm thấy mọi thông tin quan trọng nhất từ Yearn. Chỉ cần truy cập một liên kết là có thể xem những thông báo, mẩu tweet, bản tin và báo cáo tài chính hàng quý mới nhất của Yearn. Bạn cũng tìm thấy những bài viết "đầy não" từ đóng góp viên Yearn như tracheopteryx.
 
-With the new community-created encyclopedia on Yearn vaults, you can find in-depth information about how yVaults operate and review the actions/strategies these vaults perform.
+Với Bách khoa toàn thư mới cho kho bạc Yearn do cộng đồng vừa tạo dựng, bạn có thể xem thông tin chuyên sâu về cách các yVault hoạt động, cũng như đánh giá những tác vụ/chiến lược mà chúng thực hiện.
 
-Once hosted on Medium, the new vault site adds filters, multichain coverage, auto-updating content, and (coming soon) support for multiple languages!
+Từng được đăng tải trên Medium, trang kho bạc mới giờ có thêm bộ lọc, bao hàm thế giới đa chuỗi (`multichain`), tự động cập nhật nội dung, cũng như (sắp ra mắt) hỗ trợ đa ngôn ngữ!
 
-Read more about the tools here. Thanks to @0xMajor, @KoxEvan, and DarkGhosty for their amazing work on the vault encyclopedia.
+Đọc thêm về các công cụ kể trên tại đây. Xin cảm ơn @0xMajor, @KoxEvan và DarkGhosty đã góp công sức tuyệt vời trong việc xây dựng Bách khoa toàn thư về kho bạc.
 
-# Yearn Web Updates
+# Cập nhật Web Yearn
 
 ![](image3.png)
 
-In an effort to increase transparency, several contributors to Yearn's web ecosystem have started a newsletter that will collect new features, ongoing issues, and planned updates, in addition to periodic deep-dives on the web tech stack.
+Trong nỗ lực tăng cường tính minh bạch, vài đóng góp viên cho trang Web của Yearn đã bắt đầu một bản tin nhằm tổng hợp đặc điểm mới, vấn đề nóng hổi, kế hoạch cập nhật, cũng như định kỳ đăng tải nội dung chuyên sâu về mảng ghép kỹ thuật này.
 
-Major points from this release include improved UX and speed when switching networks, including a prompt to add Fantom in your wallet if necessary and improved support for Fantom in yearn-exporter
+Những điểm chính ở bản phát hành này bao gồm việc cải thiện trải nghiệm người dùng (UX) và tốc độ khi chuyển mạng, kể cả lời nhắc bổ sung Fantom vào ví của bạn nếu cần, cũng như đẩy mạnh hỗ trợ cho Fantom trong yearn-exporter.
 
-As always, if you have feedback or suggestions for the website, or would like to contribute, reach out on [Discord](https://discord.com/invite/yearn).
+Như thường lệ, nếu có bất kỳ góp ý hay đề xuất nào cho website, hoặc muốn đóng góp công sức xây dựng, đừng ngần ngại liên hệ với chúng tôi qua [Discord](https://discord.com/invite/yearn).
 
-Check out the updates [here](https://yearnweb.substack.com/p/update-jan-5-2022?showWelcome=true).
+Xem chi tiết cập nhật [tại đây](https://yearnweb.substack.com/p/update-jan-5-2022?showWelcome=true).
 
-# Register for the Next Iteration of yAcademyDAO
+# Đăng ký cho Đợt Tiếp theo của yAcademyĐAO
 
 ![](image4.png)
 
-For the unfamiliar, the yAcademyDAO is a community-driven approach to blockchain security. At Yearn, we take security very seriously and yAcademy is one of our ecosystem initiatives to create sustainable and collaborative blockchain security and ensure that talent is properly utilized.
+Với những ai chưa biết, yAcademyĐAO là một cách tiếp cận dựa vào cộng đồng về vấn đề bảo đảm an toàn trong công nghệ chuỗi khối (`blockchain`). Tại Yearn, chúng tôi ưu tiên bảo an ở mức cao nhất. yAcademy là một trong các chính sách chủ động, bền vững, hợp tác để chắc chắn sử dụng nguồn nhân tài đúng cách.
 
-yAcademy dao is managed by its full-time members and active contributors, with oversight and guidance from the ethereum security alliance members.
+yAcademy ĐAO được quản lý bởi nhiều thành viên làm việc toàn thời gian và đóng góp viên tích cực, có sự giám sát cũng như hướng dẫn từ đội ngũ thuộc liên minh bảo an Ethereum.
 
-Check out the website [here](https://yacademy.github.io/). Apply to the yAcademyDAO [here](https://docs.google.com/forms/d/e/1FAIpQLSfc5VUYOyG_cRpiRkymJOVoHluFOuiYMRONX-R7xRuvWM25Xg/viewform).
+Ghé thăm trang web nói trên [tại đây](https://yacademy.github.io/). Đăng ký gia nhập yAcademyĐAO [ở liên kết này](https://docs.google.com/forms/d/e/1FAIpQLSfc5VUYOyG_cRpiRkymJOVoHluFOuiYMRONX-R7xRuvWM25Xg/viewform).
 
-# Yearn Has Received An Additional 1M FTM Grant From the Fantom Foundation
+# Yearn Đã Được Khuyến khích Thêm 1&nbsp;Triệu&nbsp;FTM từ Fantom Foundation
 
-Welcome to 2022, anon. The donations continue.
+Chào mừng 2022. Việc đóng góp tiếp diễn.
 
-Yearn has received another grant from the Fantom Foundation
+Yearn đã nhận được một khoản khuyến khích nữa từ Fantom Foundation
 
-Once again, we don't dump. 208,333 FTM have been donated, with 90%+ to the FTM vault and a proportional donation to other Fantom vaults.
+Tất nhiên, chúng tôi không bán xả phá giá. 208&nbsp;333&nbsp;FTM đã được đóng góp, với 90%+ vào kho bạc FTM và một khoản tương ứng cho các kho Fantom khác.
 
-We will continue this with future grants.
+Chúng tôi sẽ tiếp tục với những khoản khuyến khích trong tương lai.
 
-# Vaults at Yearn
+# Các Kho bạc (`Vault`) tại Yearn
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Bạn có thể đọc mô tả chi tiết các chiến lược của mọi yVault đang hoạt động [tại đây](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-# Ecosystem News
+# Tin tức trong Hệ Sinh thái
 
-[Check out the Yearn feature in the PILLS universe](https://twitter.com/pillsuniverse/status/1478321675510763520)
+[Xem ngay đặc trưng về Yearn trong vũ trụ PILLS](https://twitter.com/pillsuniverse/status/1478321675510763520)
 
-[Learn how ZooDAO uses Yearn to generate yield from NFTs](https://twitter.com/ZooDAO/status/1480244287526916105)
+[Xem cách ZooDAO tận dụng Yearn để tạo hoa lợi từ NFT](https://twitter.com/ZooDAO/status/1480244287526916105)
 
-[Read the proposal about a “yMarkt”](https://gov.yearn.finance/t/proposal-ymarkt-the-best-buybacks-can-get/12166)
+[Đọc đề xuất về “yMarkt”](https://gov.yearn.finance/t/proposal-ymarkt-the-best-buybacks-can-get/12166)
 
-[Theorycrafting about Andre Cronje’s new AMM and Yearn’s involvement](https://gov.yearn.finance/t/yfi-solid-theorycrafting/12181)
+[Xây dựng giả thuyết về AMM mới của Andre Cronje và cách Yearn vào cuộc](https://gov.yearn.finance/t/yfi-solid-theorycrafting/12181)
 
-[A new CLI update has been released for Keep3r](https://twitter.com/DeFi_Wonderland/status/1478061081956343812)
+[Phát hành cập nhật CLI mới cho Keep3r](https://twitter.com/DeFi_Wonderland/status/1478061081956343812)
 
-[Check out Element Finance’s new DAI term utilizing Yearn vaults](https://twitter.com/element_fi/status/1478819507829293058)
+[Kiểm tra kỳ hạn ĐAI mới của Element Finance tận dụng các kho bạc Yearn](https://twitter.com/element_fi/status/1478819507829293058)
 
-[Try out the new ApeMode vault on Fantom](https://twitter.com/poolpitako/status/1479271890933923843)
+[Thử ngay kho bạc ApeMode mới trên Fantom](https://twitter.com/poolpitako/status/1479271890933923843)
