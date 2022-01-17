@@ -4,7 +4,7 @@ title: "What can you do in a DAO?"
 categories: [Tweets]
 image: ./What-can-you-do-in-a-DAO/3_1473291057580367879.jpg
 author: Tracheopteryx
-translator:
+translator: giosereth
 publish: false
 ---
 
@@ -14,13 +14,13 @@ original source: [twitter](https://twitter.com/tracheopteryx/status/147331495371
 
 ##### 1
 
-Making the jump to working for a DAO can be a challenge.
+H μετάβαση στην εργασία σε DAO (Αποκεντρωμένους Αυτόνομους Οργανισμούς) είναι για κάποιους μια πρόκληση.
 
-I've helped dozens of newbies into the space over these past 18 months and the thing that is often most difficult for them is this simple question:
+Έχω βοηθήσει δεκάδες νεοεισερχόμενους στον χώρο αυτούς τους τελευταίους 18 μήνες και αυτό που είναι συχνά το πιο δύσκολο γι' αυτούς είναι αυτή η απλή ερώτηση:
 
-"What should I do?" 🤔
+"Τι πρέπει να κάνω;" 🤔
 
-Here's a thread on how to figure that out:
+Με το παρακάτω thread θα προσπαθήσω να εξηγήσω ακριβώς αυτή την ερώτηση: 
 
 ![3_1473291057580367879](3_1473291057580367879.jpg)
 
@@ -28,9 +28,9 @@ Here's a thread on how to figure that out:
 
 ##### 2
 
-In a real DAO work happens differently.
+Σε ένα πραγματικό DAO η εργασία γίνεται διαφορετικά από ότι έχουμε συνηθίσει.
 
-It's like the difference between a robot and an amoeba — DAOs are like bowls of amino acids waiting for some ribosome to come and stack them into proteins, not like a carefully designed servomotor awaiting its preset electrical impulse.
+Είναι σαν τη διαφορά μεταξύ ενός ρομπότ και μιας αμοιβάδας  — τα DAO είναι σαν ένα μπολ γεμάτο με αμινοξέα που περιμένουν κάποιο ριβόσωμα να έρθει και να τα στοιβάξει με πρωτεΐνες, όχι σαν ένας προσεκτικά σχεδιασμένος κινητήρας που περιμένει την προκαθορισμένη ώθηση για να λειτουργήσει.
 
 ![3_1473314358570766343](3_1473314358570766343.jpg)
 
@@ -38,11 +38,11 @@ It's like the difference between a robot and an amoeba — DAOs are like bowls o
 
 ##### 3
 
-And there are no college courses on how to be a DAO ribosome (yet).
+Και δεν υπάρχουν πανεπιστημιακά μαθήματα για το πώς να γίνεις ένα ριβόσωμα σε κάποιο DAO (προς το παρόν).
 
-You are in the soup and you need to figure out what to do with very little guidance. It's really like what Yoda said.
+Βρίσκεστε μέσα στο μπόλ με την σούπα και πρέπει να καταλάβετε τι πρέπει να κάνετε με πολύ λίγη καθοδήγηση. Είναι πραγματικά σαν αυτό που είπε ο Yoda.
 
-We've suffered hundreds of years of gaslighting to construct the idea of a "work ethic" ... <br>
+Έχουμε υπομείνει εκατοντάδες χρόνια παραμυθιάσματος για να κατασκευάσουμε την ιδέα μια υποτιθέμενης 'εργασιακής ηθικής' ... <br>
 
 <img src="Yoda.gif" width="100%">
 
@@ -50,9 +50,9 @@ We've suffered hundreds of years of gaslighting to construct the idea of a "work
 
 ##### 4
 
-... in order to numb our instincts, tricking us into thinking our lives are best spent as wage slaves.
+... προκειμένου να μουδιάσουν τα ένστικτά μας, εξαπατώντας μας, ωθώντας μας έτσι να πιστεύουμε ότι είναι καλύτερο να περνάμε τη ζωή μας ως μισθωτοί σκλάβοι.
 
-Most of us have been so divorced from the connection to our own internal needs and desires that it's almost impossible to answer the question of "what do I really want?"
+Οι περισσότεροι από εμάς έχουμε απομακρυνθεί τόσο πολύ από τη σύνδεση με τις δικές μας εσωτερικές ανάγκες και επιθυμίες που είναι σχεδόν αδύνατο να απαντήσουμε στο ερώτημα "τι θέλω πραγματικά;".
 
 ![3_1473305925603803143](3_1473305925603803143.jpg)
 
@@ -60,25 +60,25 @@ Most of us have been so divorced from the connection to our own internal needs a
 
 ##### 5
 
-And, strange as it may seem, this is the question that DAOs need us to answer.
+Και, όσο παράξενο και αν φαίνεται, αυτό είναι το πρώτο ερώτημα που πρέπει να απαντήσουμε στα DAO που θέλουμε να συμμετέχουμε.
 
-Because, like biology, DAOs rely on each of us following our own wisdom. Each component of a DAO needs to be able to decide for itself what to do though self-knowledge & realtime sensing of the whole.
+Επειδή, όπως και η βιολογία, τα DAO βασίζονται στο ότι ο καθένας από εμάς ακολουθεί τη δική του σοφία. Κάθε συστατικό μέρος ενός DAO πρέπει να είναι σε θέση να αποφασίζει μόνο του για το τι πρέπει να κάνει μέσω της αυτογνωσίας και της ανίχνευσης των επιθυμιών του συνόλου σε πραγματικό χρόνο.
 
 ---
 
 ##### 6
 
-This is not a "flat organization" that concept doesn't work. Hierarchy is an essential feature of our reality (the sun is bigger than the earth, get over it).
+Δεν πρόκειται για μια "επίπεδη οργάνωση" αυτή η έννοια δεν λειτουργεί. Η ιεραρχία είναι ένα ουσιαστικό χαρακτηριστικό της πραγματικότητάς μας (ο ήλιος είναι μεγαλύτερος από τη γη, ξεπεράστε το).
 
-What is important is fluid hierarchy where the leader is the one who knows what to do next. (And process & structure.)
+Αυτό που είναι σημαντικό είναι η ρευστή ιεραρχία όπου ο ηγέτης είναι αυτός που ξέρει τι πρέπει να κάνει στη συνέχεια. (Και ποιά η διαδικασία και η δομή για να το υλοποιήσει).
 
 ---
 
 ##### 7
 
-Getting back to what to do, I created this diagram based on the Japanese concept of Ikigai, adapting it to be DAO-centric, though most of it is the same.
+Επιστρέφοντας στο τι πρέπει να κάνουμε, δημιούργησα αυτό το διάγραμμα με βάση την ιαπωνική έννοια του Ikigai, προσαρμόζοντάς το έτσι ώστε να είναι DAO-κεντρικό, αν και το μεγαλύτερο μέρος του είναι το ίδιο.
 
-I'll walk through each circle.
+Θα σας εξηγήσω κάθε κύκλο. 
 
 <table><tr>
 <td> <img src="3_1473304133268643850.jpg" style="width: 500px;"/> </td>
@@ -89,61 +89,62 @@ I'll walk through each circle.
 
 ##### 8
 
-👉 What the 𝔻𝔸𝕆 ℕ𝔼𝔼𝔻𝕊
+👉 Τι χρειάζετε ένα 𝔻𝔸𝕆;
 
-Anything in this circle is valuable for the DAO. Check github issues, bounty boards, notion pages, discord channels, or whatever other resources the DAO has for surfacing needed work.
+Οτιδήποτε βρίσκεται σε αυτόν τον κύκλο είναι πολύτιμο για ένα DAO. Ελέγξτε το github του, τους πίνακες με τις διαθέσιμες εργασίες, τις σελίδες των κοινοτήτων, τα κανάλια στο discord ή όποιους άλλους πόρους διαθέτει το DAO για την ανάδειξη των εργασίων για τις οποίες αναζητούν συνεργάτες.
 
-Find some work that calls to you, and do it.
+Βρείτε την εργασία που σας ταιριάζει και κάντε την.
 
 ---
 
 ##### 9
 
-👉 What You Can Be ℙ𝔸𝕀𝔻 𝔽𝕆ℝ
+👉 Για ποιές εργασίες μπορείτε να πληρωθείτε; 
 
-Not all contributions are of equal value. If you can earn $1,000/hr as a logo designer then in general that kind of work is going to be of greater service to the DAO than something you can't get paid much for.
+Δεν έχουν όλες οι συνεισφορές την ίδια αξία. Αν μπορείτε να κερδίσετε 1.000 δολάρια την ώρα ως σχεδιαστής λογοτύπων, τότε γενικά αυτό το είδος εργασίας θα προσφέρει μεγαλύτερη υπηρεσία στο DAO από ό,τι κάτι για το οποίο δεν μπορείτε να πληρωθείτε πολύ.
 
-But that isn't the only factor.
+Αλλά αυτός δεν είναι ο μόναδικός παράγοντας.
 
 ---
 
 ##### 10
 
-👉 What You 𝕃𝕆𝕍𝔼
+👉 Αυτό που αγαπάτε
 
-Maybe you get paid bank for logos, but if you hate doing them, chances are they won't actually be that good and further, you won't stick around long.
+Μπορεί να πληρώνεστε για τα λογότυπα που σχεδιάζετε, αλλά αν μισείτε να τα κάνετε, το πιθανότερο τότε είναι ότι δεν θα είναι τόσο καλά και, επιπλέον, δεν θα είναι μια εργασία που θα συνεχίσετε για πολύ.
 
-Life is too short not to do what you love. And work done with love is always stronger.
+Η ζωή είναι πολύ μικρή για να μην κάνεις αυτό που αγαπάς. Και η δουλειά που γίνεται με αγάπη είναι πάντα καλύτερη.
 
 ---
 
 ##### 11
 
-👉 What You Are 𝔹𝔼𝕊𝕋 𝔸𝕋
+👉 Αυτό, στο οποίο είστε καλοί
 
-One of the great joys in the world is to work with brilliant colleagues. Imagine what it would be like if we each did what we were best at?
+Μια από τις μεγαλύτερες χαρές στον κόσμο είναι να εργάζεσαι με λαμπρούς συναδέλφους. Φανταστείτε πώς θα ήταν ο κόσμος αν ο καθένας μας έκανε αυτό στο οποίο είναι καλός;
 
-(I don't have to imagine, I contribute at [@iearnfinance](https://twitter.com/iearnfinance) and [@coordinape](https://twitter.com/coordinape).)
+
+(Προσωπικά δεν χρειάζεται να το φανταστώ, δουλεύω στο [@iearnfinance](https://twitter.com/iearnfinance) και στο [@coordinape](https://twitter.com/coordinape).)
 
 ---
 
 ##### 12
 
-We need to start thinking from the DAO's perspective.
+Πρέπει να αρχίσουμε να βλέπουμε τα πράγματα από την οπτική των DAO.
 
-What work will be of most value to the DAO?
+Τι είδους εργασία έχει την μεγαλύτερη αξία για ένα DAO; 
 
-How can I be of most service?
+Πως μπορώ να είμαι πιο χρήσιμος; 
 
-Everything in the "what the DAO needs" circle is valuable, but it's the red areas that will be most valuable. And the middle is where magic happens.
+Τα πάντα που περιλαμβάνονται στον κύκλο "τι χρειάζεται το DAO" είναι πολύτιμα, αλλά οι κόκκινες περιοχές είναι αυτές που είναι πιο πολύτιμες. Και στο κέντρο είναι εκεί που συμβαίνει η μαγεία.
 
 ---
 
 ##### 13
 
-We do not need to make any more FAANG behemoths. The world honestly can't survive that. DAOs can be something different.
+Δεν χρειάζεται να δημιουργήσουμε άλλα μεγαθήρια όπως το FAANG. Ο κόσμος ειλικρινά δεν μπορεί να το αντέξει αυτό. Τα DAO μπορούν να είναι κάτι διαφορετικό.
 
-Working can be a /joy/ not a burden. Compensation can be a gift, not a competition. And maybe 'corporations' could feel like forests, not industrial lots.
+Η εργασία μπορεί να είναι χαρά και όχι βάρος. Η αποζημίωση για την παρεχόμενη εργασία μπορεί να είναι δώρο και όχι ανταγωνισμός. Και ίσως οι "εταιρείες" σε αυτό τον καινούριο χώρο να μοιάζουν περισσότερο με δάση, όχι με βιομηχανικά οικόπεδα.
 
 ![3_1473312850865278988](3_1473312850865278988.jpg)
 
@@ -151,8 +152,8 @@ Working can be a /joy/ not a burden. Compensation can be a gift, not a competiti
 
 ##### 14
 
-It's not so hard to imagine if each of us only did the work that we loved, were best at, could get paid for, and that our DAOs needed.
+Σε τελική ανάλυση δεν είναι τόσο δύσκολο να φανταστούμε πως θα ήταν ο κόσμος αν ο καθένας από εμάς έκανε μόνο τη δουλειά που αγαπούσε, στην οποία είναι καλός, που μπορεί να του αποφέρει ένα ικανοποιητικό μισθό και την οποία χρειαζόνται τα DAO μας.
 
-If it's not that, why do it?
+Αν δεν μπορούμε να κάνουμε το παραπάνω πραγματικότητα, δεν υπάρχει λόγος να δουλεύουμε σε DAO. 
 
-/end
+/Τέλος
