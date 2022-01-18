@@ -18,21 +18,21 @@ Yearn Finance Bülteninin 50. baskısına hoş geldiniz. Bu bültenle amacımız
 
 ## Özet
 
--   Yearn'in yeni Kullanıcı Arayüzü
+- Yearn'in yeni Kullanıcı Arayüzü
     
--   YFI Tokenomik Güncelleme Önerisi
+- YFI Tokenomik Güncelleme Önerisi
     
--   Güncellenen Yearn Dokümanları
+- Güncellenen Yearn Dokümanları
     
--   YIP-64 Nisabı Yakalayamadı
+- YIP-64 Nisabı Yakalayamadı
     
--   Yearn Convex'e 23M veCRV'yi Delegate etti
+- Yearn Convex'e 23M veCRV'yi Delegate etti
     
--   Yearn Snapshot Stratejisi
+- Yearn Snapshot Stratejisi
 
--   Yearn'de Vault'lar
+- Yearn'de Vault'lar
 
--   Ekosistem Haberleri
+- Ekosistem Haberleri
 
 ## Yearn'in yeni Kullanıcı Arayüzü
 
@@ -78,9 +78,9 @@ YIP-64: Stabil olmayan jetonlar yVault'larının düzeltme ücretleri, oylama a�
 
 ## Yearn Convex'e 23M veCRV'yi Delegate etti
  
- ![](image4.png)
+![](image4.png)
  
- Yearn, Curve'ün yeni yerel güçlendirme yetkilendirme özelliğini kullanarak 23 milyon veCRV'yi Convex Finance'ye devretti. Bu, her iki DAO'muz için fabrika havuzlarının verimini artıracaktır. Bu, normal havuzları, ücretleri veya oylamayı etkilemez.
+Yearn, Curve'ün yeni yerel güçlendirme yetkilendirme özelliğini kullanarak 23 milyon veCRV'yi Convex Finance'ye devretti. Bu, her iki DAO'muz için fabrika havuzlarının verimini artıracaktır. Bu, normal havuzları, ücretleri veya oylamayı etkilemez.
  
 [Burada](https://convex-boost-delegation.vercel.app/) kullanılmayan veCRV'yi devretmek, tüm Convex katılımcıları için fabrika ödüllerini artırır, bu da Convex ve Yearn için verimi artırmaya yardımcı olur. Delegasyon işlemimize [buradan](https://etherscan.io/tx/0x4734c879b23c678cb97ba90591e16a14f1f7a2e0a7d71bfa67d2e7bb5d718e5f) ulaşabilirsiniz.
 

@@ -4,122 +4,122 @@ title: "Yearn Finance Newsletter #52"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-52/image1.png
 author: Yearn
-translator:
-publish: false
+translator: Dastronom
+publish: true
 ---
 
-# Yearn Finance Newsletter #52
+# Yearn Finance Bülteni #52
 
-### Week Ending January 2nd, 2022
+### 2 Ocak 2022'de Sona Eren Hafta
 
 ![](image1.png)
 
-Welcome to the 52th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Yearn Finance Bülteninin 50. baskısına hoş geldiniz. Bu bültenle amacımız, Yearn'i ve daha geniş kripto topluluğunu ürün lansmanları, yönetim değişiklikleri ve ekosistem güncellemeleri de dahil olmak üzere en son gelişmelerden haberdar etmektir. Yearn Finance hakkında daha fazla bilgi edinmek istiyorsanız, resmi [Twitter](https://twitter.com/iearnfinance) ve [Medium](https://medium.com/iearn) hesaplarımızı takip edin.
 
-## Summary
+## Özet
 
-- YIP-65 Enters Voting
+- YIP-65 Oylamaya Katılıyor
 
-- [Proposal] Mean - DCA Buyback Pilot Program
+- [Öneri] Mean - DCA Buyback Pilot Programı
 
-- Reflecting on Yearn
+- Yearn üzerine düşünmek
 
-- Yearn Has Received a 1M FTM Grant From the Fantom Foundation
+- Yearn Fantom Foundation'dan 1M FTM Değerinde Hibe Aldı
 
-- Vaults at Yearn
+- Yearn'de Vault'lar
 
-- Ecosystem News
+- Ekosistem Haberleri
 
-## YIP-65 Enters Voting
+## YIP-65 Oylamaya Katılıyor
 
 ![](image2.png)
 
-In summary, YIP-65 seeks to evolve the role YFI plays in Yearn over four distinct phases, cementing the vision of the token as the fundamental foundation of governance.
+Özetle, YIP-65, YFI'nın Yearn'de oynadığı rolü dört farklı aşamada geliştirmeyi ve yönetişimin ana temeli olarak token vizyonunu güçlendirmeyi amaçlamaktadır.
 
-This will be done by directing a portion of YFI that is bought back by the Treasury as a result of [BABY](https://yips.yearn.finance/YIPS/yip-56) as rewards to those YFI token holders who actively participate in Yearn Governance.
+Bu, [BABY](https://yips.yearn.finance/YIPS/yip-56)'nin bir sonucu olarak Hazine tarafından geri satın alınan YFI'nin bir kısmının, Yearn Yönetişimi'ne aktif olarak katılan YFI token sahiplerine ödül olarak yönlendirilmesiyle yapılacaktır.
 
-Then, the role YFI plays in Yearn Governance will be evolved through four distinct components.
+Ardından, YFI'nın Yearn Governance'ta oynadığı rol, dört farklı bileşen aracılığıyla geliştirilecektir.
 
-1: xYFI. Distribute YFI that's been bought back with Treasury tokens as rewards in a YFI vault.
+1: xYFI. Hazine jetonlarıyla geri alınan YFI'yi ödül olarak bir YFI VAULT'unda dağıtır.
 
-2: Vote-locked YFI. Introduce ve-style locking of YFI (veYFI) for up to four years (exact max duration tbd), where a longer locking duration gives a greater share of voting power and share of YFI rewards. An early exit from the lock is possible by paying a penalty that is rewarded to the other locked token holders.
+2: Oy için kilitli YFI. Dört yıla kadar (tam maksimum süre tbd) YFI'nin (veYFI) ve benzerinin kilitlemesini tanınlar, burada daha uzun bir kilitleme süresi daha fazla oylama gücü ve YFI ödüllerinden pay sağlar. Stake'ten erken çıkış, diğer stake edilmiş jeton sahiplerine verilen bir cezayı ödemekle mümkündür.
 
-3: Vault Gauges + Voting. Introduce vault gauges where vault depositors stake their vault tokens and earn YFI rewards according to their veYFI weight. YFI are allocated to gauges based on weekly governance votes.
+3: Vault Göstergeleri + Oylama. Vault yatırımcılarının vault jetonlarını paylaştığı ve veYFI ağırlıklarına göre YFI ödülleri kazandıkları vault göstergelerini tanıtır. YFI, haftalık yönetim oylarına dayalı olarak göstergelere tahsis edilir.
 
-4: "Useful work" features. Expand the duties and responsibilities of veYFI voters, and their locked YFI, in exchange for earning additional protocol rewards. Pending the tbc v3 vault design.
+4: "Faydalı çalışma" özellikleri. Ek protokol ödülleri kazanma karşılığında veYFI seçmenlerinin ve kilitli YFI'lerinin görev ve sorumluluklarını genişletir. tbc v3 vault tasarımı bekleniyor.
 
-Next, a mandate will be given to Yearn Developers to roll out the above components at their discretion as and when they become feasible.
+Daha sonra, Yearn Developers'a yukarıdaki bileşenleri kendi takdirlerine bağlı olarak ve uygun olduklarında kullanıma sunmaları için bir yetki verilecektir.
 
-Finally, the YFI eligible to vote in Yearn Governance will be restricted to only those staked in xYFI (from Phase 1 and onwards) or vote-locked in Yearn (from Phase 2 and onwards).
+Son olarak, Yearn Governance'da oy kullanmaya uygun YFI, yalnızca xYFI'da pay sahibi olanlarla (1. Aşama ve sonrasında) veya Yearn'de oylamaya stake edenlerle (2. Aşama ve sonrasında) sınırlı olacaktır.
 
-Read more about the proposed tokenomics upgrades and benefits [here](https://gov.yearn.finance/t/yip-65-evolving-yfi-tokenomics/11994) and vote on the snapshot [here](https://snapshot.org/#/ybaby.eth/proposal/0x8f7417fa5565d9f46e16618503e8808c36d51b2a9e8217a68c632d7c090d69d9).
+Önerilen belirteç yükseltmeleri ve faydaları hakkında daha fazla bilgi [buradan](https://gov.yearn.finance/t/yip-65-evolving-yfi-tokenomics/11994) edinebilirsiniz ve [buradan](https://snapshot.org/#/ybaby.eth/proposal/0x8f7417fa5565d9f46e16618503e8808c36d51b2a9e8217a68c632d7c090d69d9) snapshot'ta oy verebilirsiniz.
 
-Special thanks to authors: @0xJiji, @banteg, daryllautk, HAtTip3675, @onlylarping, @vany365, and @Wot_Is_Goin_On for creating this important proposal.
+bu önemli teklifi oluşturdukları için Yazarlara özel teşekkürler: @0xJiji, @banteg, daryllautk, HAtTip3675, @onlylarping, @vany365 ve @Wot_Is_Goin_On.
 
-## [Proposal] Mean - DCA Buyback Pilot Program
+## [Öneri] Mean - DCA Buyback Pilot Programı
 
 ![](image3.png)
 
-The objective of this pilot program is to provide a better understanding through example that DCAing is a better way to execute buy-backs within the treasury.
+Bu pilot programın amacı, DCA'nın hazine içinde geri alımları gerçekleştirmenin daha iyi bir yolu olduğunu örneklerle daha iyi anlamaktır.
 
-The Yearn team, on the basis that a Snapshot vote passes, will allocate $1M worth of ETH (249.376559 ETH @ $4010 per ETH) towards this buyback program and create a 30 days position YFI to ETH within Mean Finance at a rate of 8.31255197 ETH per day
+Yearn ekibi, bir Snapshot oylamasının geçtiğine dayanarak, bu geri satın alma programına 1 milyon ABD Doları değerinde ETH (249.376559 ETH @ ETH başına 4010 ABD Doları) tahsis edecek ve Mean Finance içinde 8.31255197 ETH oranında ETH'ye 30 günlük bir YFI pozisyonu oluşturacaktır.
 
-The Mean team hopes to at least have some resounding effects within the community & leadership of the DAO.
+Mean ekibi, DAO topluluğu ve liderliği içinde en azından bazı yankı uyandıran etkilere sahip olmayı umuyor.
 
-Read more about the proposal [here](https://gov.yearn.finance/t/proposal-mean-dca-buyback-pilot-program/12065).
+Öneriyle ilgili daha fazla bilgiyi [buradan](https://gov.yearn.finance/t/proposal-mean-dca-buyback-pilot-program/12065) edinebilirsiniz.
 
-## Reflecting on Yearn
+## Yearn üzerine düşünmek
 
-It’s 2022, time to re-analyze your DeFi bets. Here's a short overview of why Yearn is different.
+2022, DeFi bahislerinizi yeniden analiz etme zamanı. İşte Yearn'in neden farklı olduğuna dair kısa bir genel bakış.
 
-Whilst Yearn is usually labeled as a “yield aggregator” this can lead to the idea that a team works on generating a yield. Even worse it's sometimes considered a simple CRV farmer. This is not a useful way to understand Yearn.
+Yearn genellikle bir "verim toplayıcı" olarak etiketlenirken, bu, bir ekibin bir getiri elde etmek için çalıştığı fikrine yol açabilir. Daha da kötüsü, bazen basit bir CRV çiftçisi olarak kabul edilir. Bu, Yearn'i anlamak için kullanışlı bir yol değil.
 
-There are currently significant constraints on yield generation such as a small pool of people who can build strategies, high gas fees limiting certain strategies, lack of battled-tested protocols to build strategies and a lack of ways to automate processes.
+Şu anda, strateji oluşturabilen küçük bir insan havuzu, belirli stratejileri sınırlayan yüksek gaz ücretleri, stratejiler oluşturmak için mücadele edilmiş test edilmiş protokollerin eksikliği ve süreçleri otomatikleştirme yollarının eksikliği gibi getiri üretimi üzerinde önemli kısıtlamalar bulunmaktadır.
 
-Rather than wait for these constraints to ease (and they already are with more strategists being on-boarded, other chains and L2s with low fees), Yearn has been quietly building infrastructure to optimize the interaction between protocols, strategists and capital at scale.
+Bu kısıtlamaların hafifletilmesini beklemek yerine (ve zaten daha fazla stratejist dahil edilmiş durumdalar, diğer zincirler ve L2'ler düşük ücretlerle), Yearn protokoller, stratejistler ve sermaye arasındaki etkileşimi geniş ölçekte optimize etmek için sessizce altyapı oluşturuyor.
 
-Yearn has been building the machine that builds the machine of yield aggregation (to paraphrase Mr. Musk), ready for a world of an ever-increasing number of tokens, complex protocols, chains, strategists, tooling and capital.
+Yearn, sürekli artan sayıda jeton, karmaşık protokoller, zincirler, stratejistler, araçlar ve sermaye dünyasına hazır, verim toplama makinesini (Bay Musk'tan başka bir deyişle) oluşturan makineyi inşa ediyor.
 
-With $7bn of DeFi hacks in 2021 the primary focus has been on security. Most DeFi protocols limit financial risks by tweaking parameters (e.g. lending protocols reduce the loan-to-collateral value of riskier assets), and minimize technological risks by focusing on one thing (e.g. lending).
+2021'de 7 milyar dolarlık DeFi hack'leri ile birincil odak güvenlik olmuştur. Çoğu DeFi protokolü, parametreleri değiştirerek (örneğin, borç verme protokolleri, daha riskli varlıkların kredi-teminat değerini azaltır) finansal riskleri sınırlar ve tek bir şeye odaklanarak (örneğin, borç verme) teknolojik riskleri en aza indirir.
 
-Yearn does DeFi the hard way as it combines multiple protocols and strategies within a single vault. Other protocols boast about the number of audits they've done. Yearn's yAcademy is training the next generation of auditors - helping speed up the approval of new strategies.
+Yearn, birden fazla protokolü ve stratejiyi tek bir vault'da birleştirdiği için DeFi'yi zor yoldan yapıyor. Diğer protokoller, yaptıkları denetimlerin sayısıyla övünürler. Yearn'nin yAcademy'si, yeni nesil denetçileri eğiterek yeni stratejilerin onaylanmasını hızlandırıyor.
 
-After security comes capital efficiency – figuring out how a vault should be split across lending protocols, LPs, leveraged farm opportunities and other strategies to optimize the risk-adjusted returns. And then trying to automate it.
+Güvenlikten sonra sermaye verimliliği gelir - riske göre ayarlanmış getirileri optimize etmek için bir vault'un borç verme protokolleri, LP'ler, kaldıraçlı çiftlik fırsatları ve diğer stratejiler arasında nasıl bölünmesi gerektiğini bulmak. Ve sonra otomatikleştirmeye çalışıyor.
 
-Part of the reason behind YFI's "fair launch" was the realization that producing a high risk-adjusted yield for the trillions of dollars sitting in TradFi would be too much work for one team. The YFI boarding school is now training first-time strategists.
+YFI'nin "adil lansmanının" arkasındaki nedenin bir kısmı, TradFi'de oturan trilyonlarca dolar için riske göre ayarlanmış yüksek bir getiri üretmenin bir ekip için çok fazla iş olacağının anlaşılmasıydı. YFI yatılı okulu şimdi ilk kez stratejistler yetiştiriyor.
 
-Scalability requires reducing manual processes - buybacks, harvests, changing the strategy weightings, hedging after price movements. It's no coincidence Andre created
+Ölçeklenebilirlik, manuel süreçlerin azaltılmasını gerektirir - geri alımlar, hasatlar, strateji ağırlıklarının değiştirilmesi, fiyat hareketlerinden sonra korunma. Sadece  Andre'nin tesadüfen yarattığı birşey değil
 
-Keep3r. There's even a data analysis group working on the optimal time to do buybacks.
+Keep3r. Geri alım yapmak için en uygun zaman üzerinde çalışan bir veri analiz grubu bile var.
 
-Coordination with decentralization – how do you build a system that incentivizes people who’ve never met to make all this happen? Coordinape helps - a tool whose origins go back to a Yearn group that first ran into the problem - is now being used by countless DAOs.
+Adem-i merkeziyetçilik ile koordinasyon – hiç tanışmamış insanları tüm bunları gerçekleştirmeye teşvik eden bir sistemi nasıl kurarsınız? Coordinape yardımcı olur - kökenleri sorunla ilk karşılaşan Yearn grubuna dayanan bir araç - şimdi sayısız DAO tarafından kullanılıyor.
 
-Each new DeFi protocol creates a potential opportunity for a strategist. The new strategy improves the risk-adjusted yield for the vaults which incentivizes more capital, leading to more fees which can be used to build this beast of a platform.
+Her yeni DeFi protokolü, bir stratejist için potansiyel bir fırsat yaratır. Yeni strateji, daha fazla sermayeyi teşvik eden vault'lar için riske göre ayarlanmış getiriyi iyileştiriyor ve bu canavar bir platform oluşturmak için kullanılabilecek daha fazla ücrete yol açıyor.
 
-The examples in this thread show how Yearn is attempting to solve the generalized problems in DeFi. The term "DeFi protocol" doesn't seem to do it justice, maybe Yearn could be better described as a fintech DAO.
+Bu konudaki örnekler, Yearn'in DeFi'deki genelleştirilmiş sorunları nasıl çözmeye çalıştığını gösteriyor. "DeFi protokolü" terimi adaletli görünmüyor, belki Yearn bir fintech DAO olarak daha iyi tanımlanabilir.
 
-Thank you to Wot_Is_Goin_On for the amazing thread that can be found [here](https://twitter.com/Wot_Is_Goin_On/status/1477277152336916484).
+[burada](https://twitter.com/Wot_Is_Goin_On/status/1477277152336916484) bulunabilecek harika konu için Wot_Is_Goin_On'a teşekkür ederiz.
 
-## Yearn Has Received a 1M FTM Grant From the Fantom Foundation
+## Yearn Fantom Foundation'dan 1M FTM Değerinde Hibe Aldı
 
 ![](image4.png)
 
-Yearn has received a 1M FTM grant from the Fantom Foundation.
+Yearn, Fantom Vakfı'ndan 1 milyon FTM hibesi aldı.
 
-We didn't dump, over 90% was donated to the FTM vault. Other vaults got a proportional donation for an immediate 1% increase in value.
+Biz de harcamadık, %90'dan fazlası FTM vault'una bağışlandı. Diğer vault'lar, değerde anında %1'lik bir artış için orantılı bir bağış aldı.
 
-This grant is the first of many, we will continue receiving more as we hit TVL goals.
+Bu hibe, birçoğunun ilki, TVL hedeflerine ulaştıkça daha fazlasını almaya devam edeceğiz.
 
-## Vaults At Yearn
+## Yearn'daki Vault'lar
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Tüm aktif yVault'larımız için stratejilerin ayrıntılı bir açıklamasını [buradan](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) okuyabilirsiniz.
 
-## Ecosystem News
+## Ekosistem Haberleri
 
-[Check out DeFi Saver’s new Smart Savings dashboard including Yearn](https://twitter.com/DeFiSaver/status/1476614075815809028?s=20)
+[DeFi Saver'ın Yearn dahil yeni Akıllı Tasarruf panosuna göz atın](https://twitter.com/DeFiSaver/status/1476614075815809028?s=20)
 
-[See the 2021 Yearn contributor hoodie made by loldefi](https://twitter.com/loldefi/status/1477062572595884032)
+[loldefi tarafından yapılan 2021 Yearn katkıda bulunan kapüşonluyu görün](https://twitter.com/loldefi/status/1477062572595884032)
 
-[Yearn continues to buyback yvBOOST](https://twitter.com/wavey0x/status/1474946151006842884)
+[Yearn, yvBOOST'u geri almaya devam ediyor](https://twitter.com/wavey0x/status/1474946151006842884)
 
-[Read an analysis on $CRV bribes including yvBOOST](https://twitter.com/0xSEM/status/1475284063204388867)
+[yvBOOST dahil $CRV rüşvetlerine ilişkin bir analizi okuyun](https://twitter.com/0xSEM/status/1475284063204388867)
