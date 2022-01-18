@@ -4,118 +4,119 @@ title:  "Yearn Finance Newsletter #50"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-50/image1.png
 author: Yearn
-translator:
-publish: false
+translator: Giosereth
+publish: true
 ---
 
-# Yearn Finance Newsletter #50
+# Ενημερωτικό Σημείωμα του Yearn Finance #50
 
-### Week Ending December 5th, 2021
+### Για την εβδομάδα που τελειώνει στις 5 Δεκεμβρίου, 2021
 
 ![](image1.png)
 
-Welcome to the 50th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Καλώς ήρθατε στην 50ή έκδοση του ενημερωτικού δελτίου του Yearn Finance. Στόχος μας με αυτό το ενημερωτικό δελτίο είναι να ενημερώνουμε την κοινότητα του Yearn και την ευρύτερη κρύπτο-κοινότητα  για τα τελευταία νέα, συμπεριλαμβανομένων των νέων προϊόντων, των αλλαγών στη διακυβέρνηση και των ενημερώσεων του οικοσυστήματος. Αν ενδιαφέρεστε να μάθετε περισσότερα για το Yearn Finance, ακολουθήστε τους επίσημους λογαριασμούς μας στο [Twitter](https://twitter.com/iearnfinance) και στο [Medium](https://medium.com/iearn).
 
-## Summary
+## Σύνοψη 
 
--   New Yearn UI
+-  Νέο UI για το Yearn
     
--   YFI Tokenomics Update Proposal
+-  Πρόταση ενημέρωσης των Tokenomics του YFI 
     
--   Updated Yearn Docs
+-  Ενημερώθηκαν τα έγγραφα του Yearn
     
--   YIP-64 Fails To Meet Quorum
+-  Η πρόταση YIP-64 δεν βρίσκει πλειοψηφία
     
--   Yearn Delegates 23M veCRV to Convex
+-  Το Yearn αναθέτει 23M veCRV στο Convex
     
--   Yearn Snapshot Strategy
+-  Η Στρατηγική του Yearn στο Snapshot
 
--   Vaults at Yearn
+-  Θησαυροφυλάκια στο Yearn
 
--   Ecosystem News
+-  Τα Νέα του Οικοσυστήματος
 
-## New Yearn UI
+## Νέο UI για το Yearn
 
 ![](image2.png)
 
-We’ve rebuilt [yearn.finance](https://yearn.finance/) from scratch with tons of feedback from our community. It's live now, so take it for a spin. 
+Ανακατασκευάσαμε το [yearn.finance](https://yearn.finance/) από το μηδέν ενσωματώνοντας τα σχόλια της κοινότητά μας. Είναι πλέον live, οπότε δοκιμάστε το. 
 
-One of the most interesting features (in our opinion) is the Simulations feature. To deposit into vaults in previous UI versions we added Zapper support so, for example, you can deposit into 3CRV vault with ETH or any token supported by Zapper, which is fast and convenient and implies that a swap will happen in your deposit. What is that "Simulating.." message you may ask? Well that "Simulating..." label checks your input tokens and with Zapper's API and Tenderly, an awesome service that eagerly executes a simulation of your transaction.This simulation calculates what the exact output would be, like a preview of your deposit. e.g ETH>3crv. 
+Ένα από τα πιο ενδιαφέροντα χαρακτηριστικά (κατά τη γνώμη μας) είναι η λειτουργία προσομοιώσεων. Για την κατάθεση σε θησαυροφυλάκια στις προηγούμενες εκδόσεις του UI προσθέσαμε την υποστήριξη του Zapper, ώστε, για παράδειγμα, να μπορείτε να καταθέσετε στο θησαυροφυλάκιο 3CRV με ETH ή οποιοδήποτε άλλο token που υποστηρίζεται από το Zapper, κάτι που είναι γρήγορο και βολικό και συνεπάγεται ότι θα συμβεί μια ανταλλαγή κατά την κατάθεσή σας. Τι είναι αυτό το μήνυμα "Προσομοίωση...", που εμφανίζετε θα ρωτήσετε; Λοιπόν, αυτή η διαδικασία "Προσομοίωση..." ελέγχει τα token που εισάγετε και με το API του Zapper και το Tenderly, μια φοβερή υπηρεσία, εκτελεί μια προσομοίωση της συναλλαγής σας. Η προσομοίωση αυτή υπολογίζει ποιο θα είναι το ακριβές αποτέλεσμα αυτής της ανταλλαγής, σαν μια προεπισκόπηση της κατάθεσής σας. π.χ. ETH>3crv. 
 
-Why is this useful and great? Well, given the protocols involved and on-chain state being dynamic, it's hard to predict a good estimate of vault tokens you can receive. Your slippage may be bigger than expected, or your token path may fail and cost you gas, etc. This simulation may save you gas either on deposit or withdrawals.
+Γιατί είναι αυτό κάτι χρήσιμο και σπουδαίο; Λοιπόν, δεδομένου του αριθμού των εμπλεκόμενων πρωτοκόλλων και της δυναμικής κατάστασης της αλυσίδας, είναι δύσκολο να έχουμε μια καλή πρόβλεψη των token που θα λάβετε μετά την ανταλλαγή. Η ολίσθησή (slippage) μπορεί να είναι μεγαλύτερη από την αναμενόμενη, ή η διαδρομή των token σας μπορεί να αποτύχει και να σας κοστίσει σε gas fees κ.λπ. H προσομοίωση αυτή μπορεί να σας εξοικονομήσει gas είτε κατά την κατάθεση είτε κατά την ανάληψη.
 
-Withdrawals are another area that is hard to predict. Simulations help check if you can withdraw given the vault conditions, some are more liquid than others depending on strategies allocations.
+Οι αναλήψεις είναι ένας άλλος τομέας που είναι δύσκολο να προβλεφθεί. Οι προσομοιώσεις βοηθούν να ελέγξετε αν μπορείτε να κάνετε ανάληψη του κεφαλαίου σας, δεδομένων των συνθηκών των θησαυροφυλακίων, ορισμένα έχουν μεγαλύτερη ρευστότητα από άλλα ανάλογα με τις στρατηγικές κατανομής.
 
-If you get a "Simulation Failed.." msg, odds are that if you move forward with the transaction it will revert.
+Αν λάβετε το μήνυμα "Αποτυχία Πρόβλεψης...", οι πιθανότητες είναι ότι αν προχωρήσετε στη συναλλαγή αυτή θα αποτύχει.
 
-The v3 UI is new so more work is being done to improve this UX to be even more smooth.
+Το γραφικό περιβάλλον του χρήστη (UI) στο v3 είναι νέο, οπότε χρειάζεται περισσότερη δουλειά για να βελτιωθεί αυτό το UX και να γίνει ακόμα πιο ομαλό.
 
-Look under the hood [here](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f). If you’re a developer, contribute [here](https://github.com/yearn/yearn-finance-v3).
+Κοιτάξτε πίσω από την βιτρίνα [εδώ](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f). Αν είστε προγραμματιστής, συνεισφέρετε [εδώ](https://github.com/yearn/yearn-finance-v3).
 
-## YFI Tokenomics Update Proposal
+## Πρόταση ενημέρωσης των Tokenomics του YFI
 
-A snapshot poll is live to gauge support for community proposals on YFI tokenomics.
+Μια ψηφοφορία στο Snapshot είναι πλέον ανοικτή, για να μετρήσει την υποστήριξη της κοινότητας για τις προτάσεις σχετικά με τα tokenomics του YFI.
 
-There are currently 5 options up for vote, with the working names being ySplit, veYFI, xYFI, BurnKeYs, and Status Quo. The [ySplit proposal](https://docs.google.com/document/d/1dAWTkS_ZsXNy7mKKjOFUjILSlLsLz9KhGfLrwVu0GUg/edit) suggests splitting the YFI token into 10,000 to 1,000,000 to combat unit bias. The [veYFI proposal](https://docs.google.com/document/d/1hoi-IVccOB6iUJYzuApVbyjbQBx8-M0UuzZosb9wlWM/edit) suggests locking YFI for a given period of time in order to receive governance rights that dictate the vaults where treasury earnings should go. [xYFI](https://docs.google.com/document/d/1ev16BXu3bDC8zMSBvHmxMWIeD82ptZck6SJAO5frV5g/edit) suggests the creation of a YFI staking vault where excess treasury earnings are to be sent. [BurnKeYs](https://docs.google.com/document/d/1BqmRsfdfCIaCtNZULdhKqUJzpKdaHE1XOGQlVp2nuSc/edit) calls for the mint function of the YFI token to be permanently disabled, thus capping the supply at 36,666 tokens. Status Quo would leave the YFI tokenomics in its current state and inform holders and potential investors of the benefits.
+Προς το παρόν υπάρχουν 5 επιλογές προς ψήφιση, με τα ονόματα εργασίας να είναι ySplit, veYFI, xYFI, BurnKeYs και Status Quo.  Η [πρόταση ySplit](https://docs.google.com/document/d/1dAWTkS_ZsXNy7mKKjOFUjILSlLsLz9KhGfLrwVu0GUg/edit) προτείνει τον διαχωρισμό του token YFI σε 10.000 έως 1.000.000 για την καταπολέμηση του unit bias. Η [πρόταση veYFI](https://docs.google.com/document/d/1hoi-IVccOB6iUJYzuApVbyjbQBx8-M0UuzZosb9wlWM/edit) προτείνει το κλείδωμα του YFI για μια συγκεκριμένη χρονική περίοδο προκειμένου να μπορεί να λάβει κανείς δικαιώματα διακυβέρνησης που υπαγορεύουν στα θησαυροφυλάκια που θα πρέπει να πηγαίνουν τα κέρδη του ταμείου. Η [πρόταση xYFI](https://docs.google.com/document/d/1ev16BXu3bDC8zMSBvHmxMWIeD82ptZck6SJAO5frV5g/edit) suπροτείνει τη δημιουργία ενός θησαυροφυλακίου YFI όπου θα στέλνονται τα πλεονάζοντα κέρδη του ταμείου. Η πρόταση [BurnKeYs](https://docs.google.com/document/d/1BqmRsfdfCIaCtNZULdhKqUJzpKdaHE1XOGQlVp2nuSc/edit) ζητά να απενεργοποιηθεί μόνιμα η λειτουργία κοπής token YFI, περιορίζοντας έτσι την προσφορά σε 36.666 μάρκες. Τέλος, το Status Quo προτείνει να παραμείνουν τα tokenomics του YFI στην τρέχουσα μορφή τους και την ενημέρωση των κατόχων και των δυνητικών επενδυτών για τα οφέλη του token.
 
-Vote here at [the Snapshot page](https://yearn.snapshot.page/#/proposal/0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea). Thank you to all in the community who have contributed. An update from the working group, haiku included, can be found [here](https://docs.google.com/document/d/1-YEfXqXgTm-qzhPRUKs5allfX1XqYUOYwr_49FApnLU/edit).
+Ψηφίστε εδώ στο [Snapshot](https://yearn.snapshot.page/#/proposal/0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea). TΕυχαριστούμε όλα τα μέλη της κοινότητας που συνέβαλαν στις παραπάνω προτάσεις. Μια ενημέρωση από την ομάδα εργασίας, συμπεριλαμβανομένου ενός χαϊκού, μπορεί να βρεθεί [εδώ](https://docs.google.com/document/d/1-YEfXqXgTm-qzhPRUKs5allfX1XqYUOYwr_49FApnLU/edit).
 
-## Updated Yearn Docs
+## Ενημερώθηκαν τα έγγραφα του Yearn
+Πριν από αρκετούς μήνες οι συνεργάτες του Yearn ξεκίνησαν να ξαναγράψουν τα έγγραφά μας για να τα κάνουν πιο φιλικά και προσιτά.
 
-Several months ago Yearn contributors set out to rewrite our docs to make them friendly and approachable.
+Τα πλήρως ανανεωμένα έγγραφα είναι εδώ για να καθοδηγήσουν τους χρήστες, τους προγραμματιστές, τους συνεργάτες και για να τροφοδοτήσουν την περιέργειά σας με πολλές καταχωρήσεις που δεν είχατε δει στο παρελθόν.
 
-The completely refreshed docs are here to guide users, devs, partners, and to feed your curiosity with many previously unseen entries.
 
-Check out the new docs [here](https://docs.yearn.finance/).
+Δείτε τα νέα έγγραφα [εδώ](https://docs.yearn.finance/).
 
-## YIP-64 Fails To Meet Quorum
+## Η πρόταση YIP-64 δεν βρίσκει πλειοψηφία
 
 ![](image3.png)
 
-YIP-64: Adjust fees on non-stablecoin yVaults entered the voting phase and ended in the majority voting against adjusting fees.
+YIP-64: Προσαρμογή των τελών στα yVaults για τα νομίσματα που δεν εμπίπτουν στην κατηγορία των stable-coins, εισήλθε στη φάση της ψηφοφορίας και κατέληξε με την πλειοψηφία να ψηφίζει κατά της προσαρμογής των τελών.
 
-Check out the proposal [here](https://snapshot.org/#/ybaby.eth/proposal/0xfe7296601d199b89a8aa53f95d6243ef935d736bea2f13109979d8d5098017d2).
+Δείτε την πρόταση [εδώ](https://snapshot.org/#/ybaby.eth/proposal/0xfe7296601d199b89a8aa53f95d6243ef935d736bea2f13109979d8d5098017d2).
 
-## Yearn Delegates 23M veCRV to Convex
+## Το Yearn αναθέτει 23M veCRV στο Convex
 
 ![](image4.png)
 
-Yearn has delegated 23 million veCRV to Convex Finance using Curve’s new native boost delegation feature. This will increase yields of factory pools for both our DAOs. This does not affect regular pools, fees or voting.
+Το Yearn έχει εκχωρήσει 23 εκατομμύρια veCRV στο Convex Finance χρησιμοποιώντας τη νέα εγγενή λειτουργία εκχώρησης boost του Curve. Αυτό θα αυξήσει τις αποδόσεις των εργοστασιακών δεξαμενών (factory pools) και για τα δύο DAO. Το γεγονός αυτό δεν επηρεάζει τις κανονικές πισίνες ρευστότητας (liquidity pools), τα τέλη ή το δικαίωμα ψηφοφου.
 
-Delegating unused veCRV [here](https://convex-boost-delegation.vercel.app/) increases factory rewards for all Convex participants, this further helps increase yield for Convex and Yearn. Our delegation transaction can be found [here](https://etherscan.io/tx/0x4734c879b23c678cb97ba90591e16a14f1f7a2e0a7d71bfa67d2e7bb5d718e5f).
+Η ανάθεση αχρησιμοποίητων veCRV [εδώ](https://convex-boost-delegation.vercel.app/) αυξάνει τις ανταμοιβές για όλους τους συμμετέχοντες του Convex, γεγονός που συμβάλλει περαιτέρω στην αύξηση της απόδοσης του Convex και του Yearn. Η συναλλαγή μπορεί να βρεθεί [εδώ](https://etherscan.io/tx/0x4734c879b23c678cb97ba90591e16a14f1f7a2e0a7d71bfa67d2e7bb5d718e5f).
 
-## Yearn Snapshot Strategy
+## Η Στρατηγική του Yearn στο Snapshot
 
-In preparation for several important votes, Yearn's Snapshot strategy got refreshed.
+Στο πλαίσιο της προετοιμασίας για διάφορες σημαντικές ψηφοφορίες, η στρατηγική του Yearn στο Snapshot ανανεώθηκε.
 
-It allows you to vote with productive YFI, namely YFI in wallet, all Yearn v2 vaults, Bancor, Balancer v2, Uniswap v2, Sushi (incl. MasterChef), MakerDAO, Unit, Instadapp (incl. MakerDAO).
+Οι νέες αλλαγές σας επιτρέπουν να ψηφίζετε με παράγωγα του YFI, πιο συγκεκριμένα, με YFI, με όλα τα θησαυροφυλάκια Yearn v2, Bancor, Balancer v2, Uniswap v2, Sushi (συμπεριλαμβανομένου του MasterChef), MakerDAO, Unit, Instadapp (συμπεριλαμβανομένου του MakerDAO).
 
-The contract can be found [here](https://github.com/yearn/snapshot-strategy) and the deployment can be found [here](https://etherscan.io/address/0xA79e803FffE9DA37477ddaFD7C6F3dbDCa1C566C#code)
 
-## Vaults At Yearn
+Το συμβόλαιο μπορεί να βρεθεί [εδώ](https://github.com/yearn/snapshot-strategy) και η εφαρμογή του μπορεί να βρεθεί [εδώ](https://etherscan.io/address/0xA79e803FffE9DA37477ddaFD7C6F3dbDCa1C566C#code)
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+## Θησαυροφυλάκια στο Yearn
 
-## Ecosystem News
+Μπορείτε να διαβάσετε μια λεπτομερή περιγραφή των στρατηγικών για όλα τα ενεργά yVaults μας [εδώ](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-[Securely use your YFI on Qredo Network’s platform](https://twitter.com/QredoNetwork/status/1461031928564436994)
+## Τα Νέα του Οικοσυστήματος 
 
-[Listen to Into the Byte Code with tracheopteryx](https://twitter.com/benmercerdev/status/1464347991674863626?s=21)
+[Χρησιμοποιήστε με ασφάλεια το YFI σας στην πλατφόρμα του Qredo Network](https://twitter.com/QredoNetwork/status/1461031928564436994)
 
-[Steakwallet now supports Yearn’s beta vaults on Fantom](https://twitter.com/steakwallet/status/1463623834389602311?s=21)
+[Ακούστε το Into the Byte Code με τον tracheopteryx](https://twitter.com/benmercerdev/status/1464347991674863626?s=21)
 
-[Tesseract enters top five fastest growing protocols on Polygon](https://twitter.com/marketducky/status/1461734313636945926?s=21)
+[Το Steakwallet υποστηρίζει τώρα τα θησαυροφυλάκια beta του Yearn στο Fantom](https://twitter.com/steakwallet/status/1463623834389602311?s=21)
 
-[Watch the Coordinape onboarding video](https://twitter.com/coordinape/status/1460591450413015043?s=21)
+[Το Tesseract εισέρχεται στα πέντε ταχύτερα αναπτυσσόμενα πρωτόκολλα στο Polygon](https://twitter.com/marketducky/status/1461734313636945926?s=21)
 
-[Checkout Yearn on Argent’s L2 wallet with fees as low as $2](https://twitter.com/argentHQ/status/1468934923264401419)
+[Παρακολουθήστε το βίντεο, Εισαγωγής στο Coordinape](https://twitter.com/coordinape/status/1460591450413015043?s=21)
 
-[Tesseract vaults have increased their deposit limits](https://twitter.com/tesseract_fi/status/1468217220966801413)
+[Δείτε το Yearn στο L2 πορτοφόλι του Argent με χρεώσεις που ανέρχονται μόλις στα 2 δολάρια](https://twitter.com/argentHQ/status/1468934923264401419)
 
-[Get a discount on ETHDubai tickets by holding $yvBOOST or $yvYFI](https://twitter.com/ETHDubaiConf/status/1467068791456923648)
+[Τα θησαυροφυλάκια Tesseract αύξησαν τα όρια καταθέσεων](https://twitter.com/tesseract_fi/status/1468217220966801413)
 
-[See Zapper’s spotlight on Yearn Simulations](https://twitter.com/zapper_fi/status/1466447565302517765)
+[Αποκτήστε έκπτωση στα εισιτήρια του ETHDubai κρατώντας $yvBOOST ή $yvYFI](https://twitter.com/ETHDubaiConf/status/1467068791456923648)
 
-[Listen in to Facu’s insights on Yearn with the On the Ledger podcast](https://twitter.com/Ledger/status/1465678701635506185)
+[Δείτε την προβολή του Zapper στα Yearn Simulations](https://twitter.com/zapper_fi/status/1466447565302517765)
 
-[YFI is now spendable in Flexa’s app](https://twitter.com/FlexaHQ/status/1469092114038415364)
+[Ακούστε τις απόψεις του Facu για το Yearn στο podcast On the Ledger](https://twitter.com/Ledger/status/1465678701635506185)
+
+[Το YFI μπορεί πλέον να χρησιμοποιηθεί για πληρωμές στην εφαρμογή της Flexa](https://twitter.com/FlexaHQ/status/1469092114038415364)
