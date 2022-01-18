@@ -4,7 +4,7 @@ title: "Yearn Finance Newsletter #52"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-52/image1.png
 author: Yearn
-translator: giosereth
+translator: Giosereth
 publish: true
 ---
 
@@ -13,6 +13,7 @@ publish: true
 ### Για την εβδομάδα που τελειώνει στις 2 Ιανουαρίου, 2022
 
 ![](image1.png)
+
 Καλώς ήρθατε στην 52η έκδοση του ενημερωτικού δελτίου της Yearn Finance. Στόχος μας με αυτό το ενημερωτικό δελτίο είναι να ενημερώνουμε την κοινότητα του Yearn και την ευρύτερη κρύπτο-κοινότητα  για τα τελευταία νέα, συμπεριλαμβανομένων των νέων προϊόντων, των αλλαγών στη διακυβέρνηση και των ενημερώσεων του οικοσυστήματος. Αν ενδιαφέρεστε να μάθετε περισσότερα για το Yearn Finance,  ακολουθήστε τους επίσημους λογαριασμούς μας στο [Twitter](https://twitter.com/iearnfinance) και στο [Medium](https://medium.com/iearn) accounts.
 
 ## Σύνοψη
