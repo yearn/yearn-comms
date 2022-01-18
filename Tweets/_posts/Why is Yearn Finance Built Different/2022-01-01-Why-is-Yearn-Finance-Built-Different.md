@@ -1,134 +1,134 @@
 ---
 layout: post
-title: "Why is Yearn Finance Built Different?"
+title: "Por que o Yearn Finance é diferente?"
 categories: [Tweets]
 image: ./Why-is-Yearn-Finance-Built-Different/3_1477267208262885377.jpg
 author: Wot_Is_Goin_On
-translator:
-publish: false
+translator: jameskbh
+publish: true
 ---
 
-original source: [twitter](https://twitter.com/Wot_Is_Goin_On/status/1477277152336916484)
+fonte: [twitter](https://twitter.com/Wot_Is_Goin_On/status/1477277152336916484)
 
 ---
 
 ##### 1
 
-It’s 2022, time to re-analyze your DeFi bets. Here's a thread on some of the questions you might ask of some key DeFi categories and why [@iearnfinance](https://twitter.com/iearnfinance) is built different. Not Financial Advice.
+É 2022, hora de reanalisar suas apostas em DeFi. Aqui está um tópico sobre algumas das perguntas que você pode fazer sobre algumas categorias-chave de DeFi e por que [@iearnfinance](https://twitter.com/iearnfinance) é construído de forma diferente. Não é conselho financeiro.
 
 ---
 
 ##### 2
 
-DEXes - bringing LPs and traders together. What makes your DEX special? Better formula than xy=k? No VCs? Multi-chain? Tiny market cap on a new chain the rotatooors haven’t got to yet? Solved [insert feature here]? The best UI? Fashionable tokenomics? Lots to choose from.
+DEXes - reunindo LPs e traders. O que torna sua DEX especial? Uma fórmula melhor do que xy = k? Nenhum VC? Multi-chain? Pequena capitalização de mercado em uma nova rede em que os "rotatooors" ainda não chegaram? Resolve [inserir problema aqui]? A melhor interface do usuário? "Tokenomics" da moda? Muitos para escolher.
 
 ---
 
 ##### 3
 
-Lending protocols. What makes your lending protocol special? More assets? More secure? Better oracles? More chains? Isolated lending? A mobile app? Do borrowers pay more interest than lenders receive after token emissions? Watch out for vanity metrics like incentivized TVL.
+Protocolos de empréstimo. O que torna seu protocolo de empréstimo especial? Mais ativos disponíveis? Mais seguro? Oráculos melhores? Presente em mais redes? Empréstimo isolado? Um aplicativo móvel? Os mutuários pagam mais juros do que os credores recebem após as emissões de tokens? Cuidado com as métricas da vez, como TVL incentivada.
 
 ---
 
 ##### 4
 
-Perpetual protocols – bringing market makers and leveraged traders together. Is a focus on performance at the cost of composability the right approach? Order book or virtual AMM? Multi-chain? Lots to choose from.
+Protocolos perpétuos – reunindo formadores de mercado e traders alavancados. O foco no desempenho ao custo da composabilidade é a abordagem correta? Livro de Ordens ou AMM virtual? Multi-chain? Muitos para escolher.
 
 ---
 
 ##### 5
 
-Options protocols – bringing options market makers and traders together. Clearly a huge TAM. Will any actually succeed in getting users and liquidity this year? Lots to choose from.
+Protocolos de opções – reunindo formadores de mercado e traders de opções. Claramente um enorme mercado a alcançar. Será que algum realmente terá sucesso em obter usuários e liquidez este ano? Muitos para escolher.
 
 ---
 
 ##### 6
 
-Stablecoin protocols – collateralized, algorithmic, a little bit of both, or maybe stable is out of fashion. Plans to conquer Asia, or maybe Venezuela? Focusing on real-world assets or leveraging up in DeFi? New tokenomics? Lots to choose from.
+Protocolos de stablecoin – com garantia, algorítmicos, um pouco dos dois, ou talvez stablecoins não estão na moda. Planos para conquistar a Ásia, ou talvez a Venezuela? Concentrando-se em ativos do mundo real ou alavancando em DeFi? Novo tokenomics? Muitos para escolher.
 
 ---
 
 ##### 7
 
-Protocols that specialize in one strategy – giving more experienced DeFi users an opportunity to take on more risk for greater returns. Uniswap v3 strategies. Milk the veToken strategies. Passive options strategies. Solving impermanent loss strategies. Lots to choose from.
+Protocolos que se especializam em uma estratégia – dando aos usuários de DeFi mais experientes a oportunidade de assumir mais riscos para obter maiores retornos. Estratégias Uniswap v3. Atacar as estratégias veToken. Estratégias de opções passivas. Estratégias para resolver perda impermanente. Muitos para escolher.
 
 ---
 
 ##### 8
 
-The (maybe multiple) winners in each of the categories above will likely create enormous value, but picking winners is difficult.
+Os (talvez vários) vencedores em cada uma das categorias acima provavelmente criarão um valor enorme, mas escolher os vencedores é difícil.
 
 ---
 
 ##### 9
 
-Yearn is different. Whilst Yearn is usually labelled as a “yield aggregator” this can lead to the idea that a team works on generating a yield. Even worse it's sometimes considered a simple CRV farmer. This is not a useful way to understand Yearn.
+Yearn é diferente. Embora o Yearn seja geralmente rotulado como um “agregador de rendimento”, isso pode levar à ideia de que uma equipe trabalha para gerar um rendimento. Pior ainda, às vezes é considerado um simples coletor de CRV. Esta não é uma maneira correta de entender Yearn.
 
 ---
 
 ##### 10
 
-There are currently significant constraints on yield generation such as a small pool of people who can build strategies, high gas fees limiting certain strategies, lack of battled-tested protocols to build strategies and a lack of ways to automate processes.
+Atualmente, existem restrições significativas na geração de rendimento, como um pequeno grupo de pessoas que podem construir estratégias, altas taxas de gás limitando certas estratégias, falta de protocolos testados para construir estratégias e falta de maneiras de automatizar processos.
 
 ---
 
 ##### 11
 
-Rather than wait for these constraints to ease (and they already are with more strategists being on-boarded, other chains and L2s with low fees), Yearn has been quietly building infrastructure to optimize the interaction between protocols, strategists and capital at scale.
+Em vez de esperar que essas restrições diminuam (e já estão com mais estrategistas sendo integrados, outras cadeias e L2s com taxas baixas), Yearn vem construindo silenciosamente infraestrutura para otimizar a interação entre protocolos, estrategistas e capital em escala.
 
 ---
 
 ##### 12
 
-Yearn has been building the machine that builds the machine of yield aggregation (to paraphrase Mr. Musk), ready for a world of an ever-increasing number of tokens, complex protocols, chains, strategists, tooling and capital.
+Yearn vem construindo a máquina que constrói a máquina de agregação de rendimento (parafraseando Musk), pronta para um mundo de um número cada vez maior de tokens, protocolos complexos, cadeias, estrategistas, ferramentas e capital.
 
 ---
 
 ##### 13
 
-With $7bn of DeFi hacks in 2021 the primary focus has been on security.
+Com US$ 7 bilhões em hacks DeFi em 2021, o foco principal tem sido a segurança.
 
 ---
 
 ##### 14
 
-Most DeFi protocols limit financial risks by tweaking parameters (e.g. lending protocols reduce the loan-to-collateral value of riskier assets), and minimize technological risks by focusing on one thing (e.g. lending).
+A maioria dos protocolos DeFi limita os riscos financeiros ajustando parâmetros (por exemplo, protocolos de empréstimo reduzem o valor do empréstimo para garantia de ativos mais arriscados) e minimizam os riscos tecnológicos concentrando-se em uma coisa (por exemplo, empréstimos).
 
 ---
 
 ##### 15
 
-Yearn does DeFi the hard way as it combines multiple protocols and strategies within a single vault. Other protocols boast about the number of audits they've done. Yearn's yAcademy is training the next generation of auditors - helping speed up the approval of new strategies.
+O Yearn faz o DeFi da maneira mais difícil, pois combina vários protocolos e estratégias em um único vault. Outros protocolos se gabam do número de auditorias que fizeram. A yAcademy de Yearn está treinando a próxima geração de auditores - ajudando a acelerar a aprovação de novas estratégias.
 
 ---
 
 ##### 16
 
-After security comes capital efficiency – figuring out how a vault should be split across lending protocols, LPs, leveraged farm opportunities and other strategies to optimize the risk-adjusted returns. And then trying to automate it.
+Depois da segurança, vem a eficiência do capital – descobrir como um vault deve ser dividido em protocolos de empréstimo, LPs, oportunidades de farm alavancadas e outras estratégias para otimizar os retornos ajustados ao risco. E, em seguida, tentar automatizá-lo.
 
 ---
 
 ##### 17
 
-Part of the reason behind YFI's "fair launch" was the realization that producing a high risk-adjusted yield for the trillions of dollars sitting in TradFi would be too much work for one team. The YFI boarding school is now training first-time strategists.
+Parte da razão por trás do "lançamento justo" de YFI foi a percepção de que produzir um alto rendimento ajustado ao risco para os trilhões de dólares em TradFi seria muito trabalho para uma equipe. A escola de YFI agora está treinando estrategistas de primeira viagem.
 
 ---
 
 ##### 18
 
-Scalability requires reducing manual processes - buybacks, harvests, changing the strategy weightings, hedging after price movements. It's no coincidence Andre created [@thekeep3r](https://twitter.com/thekeep3r). There's even a data analysis group working on the optimal time to do buybacks.
+A escalabilidade requer a redução de processos manuais - recompras, coletas, alteração dos pesos da estratégia, hedge após movimentos de preços. Não é coincidência que André criou [@thekeep3r](https://twitter.com/thekeep3r). Existe até um grupo de análise de dados trabalhando no momento ideal para fazer recompras.
 
 ---
 
 ##### 19
 
-Co-ordination with decentralization – how do you build a system that incentivizes people who’ve never met to make all this happen? [@coordinape](https://twitter.com/coordinape) helps - a tool whose origins go back to a Yearn group that first ran into the problem - is now being used by countless DAOs.
+Coordenação com descentralização – como construir um sistema que incentive pessoas que nunca se encontraram a fazer tudo isso acontecer? [@coordinape](https://twitter.com/coordinape) ajuda - uma ferramenta cujas origens remontam a um grupo de Yearn que se deparou com o problema pela primeira vez - agora está sendo usada por inúmeros DAOs.
 
 ---
 
 ##### 20
 
-Each new DeFi protocol creates a potential opportunity for a strategist. The new strategy improves the risk-adjusted yield for the vaults which incentivizes more capital, leading to more fees which can be used to build this beast of a platform.
+Cada novo protocolo DeFi cria uma oportunidade potencial para um estrategista. A nova estratégia melhora o rendimento ajustado ao risco para os vaults, o que incentiva mais capital, levando a mais taxas que podem ser usadas para construir essa plataforma.
 
 ![3_1477267208262885377](3_1477267208262885377.jpg)
 
@@ -136,4 +136,4 @@ Each new DeFi protocol creates a potential opportunity for a strategist. The new
 
 ##### 21
 
-The examples in this thread show how Yearn is attempting to solve the generalized problems in DeFi. The term "DeFi protocol" doesn't seem to do it justice, maybe Yearn could be better described as a fintech DAO...
+Os exemplos neste tópico mostram como Yearn está tentando resolver os problemas generalizados no DeFi. O termo "protocolo DeFi" não parece fazer justiça, talvez Yearn possa ser melhor descrito como um DAO fintech...
