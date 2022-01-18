@@ -4,91 +4,92 @@ title: "Yearn Finance Newsletter #53"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-53/image1.png
 author: Yearn
-translator:
-publish: false
+translator: giosereth
+publish: true
 ---
 
-# Yearn Finance Newsletter #53
+# Ενημερωτικό Σημείωμα του Yearn Finance #53
 
-### Week Ending January 9nd, 2022
+### Για την εβδομάδα που τελειώνει στις 9 Ιανουαρίου, 2022
 
 ![](image1.png)
 
-Welcome to the 53th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Καλώς ήρθατε στην 53η  έκδοση του ενημερωτικού δελτίου τoυ Yearn Finance. Στόχος μας με αυτό το ενημερωτικό δελτίο είναι να ενημερώνουμε την κοινότητα του Yearn και την ευρύτερη κρύπτο-κοινότητα  για τα τελευταία νέα, συμπεριλαμβανομένων των νέων προϊόντων, των αλλαγών στη διακυβέρνηση και των ενημερώσεων του οικοσυστήματος. Αν ενδιαφέρεστε να μάθετε περισσότερα για το Yearn Finance, ακολουθήστε τους επίσημους λογαριασμούς μας στο [Twitter](https://twitter.com/iearnfinance) και στο [Medium](https://medium.com/iearn).
 
-## Summary
+## Σύνοψη
 
-- Transparency at Yearn
-- Yearn Web Updates
-- Register for the Next Iteration of yAcademyDAO
-- Yearn Has Received An Additional 1M FTM Grant From the Fantom Foundation
-- Vaults at Yearn
-- Ecosystem News
+- Διαφάνεια στο Yearn
+- Ενημερώσεις στο Yearn
+- Εγγραφείτε για την επόμενη σεζόν του yAcademyDAO
+- Το Yearn έλαβε επιπλέον επιχορήγηση ύψους 1M FTM από το Ίδρυμα του Fantom
+- Θησαυροφυλάκια στο Yearn
+- Τα Νέα του Οικοσυστήματος 
 
-# Transparency at Yearn
+# Διαφάνεια στο Yearn
 
 ![](image2.png)
 
-# More transparency. More alpha.
+# Περισσότερη διαφάνεια. Περισσότερο alpha (χρήσιμες πληροφορίες).
 
-Two new tools from Yearn illuminating the mysterious depths of the rabbit hole are the [content aggregator](https://blog.yearn.finance/) and the [vault encyclopedia](https://vaults.yearn.finance/).
+Δύο νέα εργαλεία δημιουργήθηκαν από το Yearn για να φωτίσουν τα μυστηριώδη βάθη του πρωτοκόλλου, πρόκειται για τον [συγκεντρωτή περιεχομένου](https://blog.yearn.finance/) και την [εγκυκλοπαίδεια του θησαυροφυλακίου](https://vaults.yearn.finance/).
 
-With the content aggregator, you can find all the most important information coming from Yearn. Go to one link for the latest announcements, tweets, newsletters, articles, and quarterly financials from Yearn. You’ll also find unrolled big brain twitter threads from Yearn contributors like tracheopteryx
+Με τον συγκεντρωτή περιεχομένου, μπορείτε να βρείτε όλες τις σημαντικές πληροφορίες που προέρχονται από το Yearn. Πηγαίνετε σε έναν σύνδεσμο για τις τελευταίες ανακοινώσεις, tweets, ενημερωτικά δελτία, άρθρα και τριμηνιαία οικονομικά στοιχεία από το Yearn. Θα βρείτε επίσης αναλυμένα twitter thread από σημαντικούς συνεργάτες του Yearn, όπως παραδείγματος χάριν του tracheopteryx.
 
-With the new community-created encyclopedia on Yearn vaults, you can find in-depth information about how yVaults operate and review the actions/strategies these vaults perform.
+Με τη νέα εγκυκλοπαίδεια που δημιούργησε η κοινότητα για τα θησαυροφυλάκια του Yearn, μπορείτε να βρείτε λεπτομερείς πληροφορίες σχετικά με τον τρόπο λειτουργίας των θησαυροφυλακίων yVaults και να εξετάσετε τις ενέργειες/στρατηγικές που αυτά εκτελούν.
 
-Once hosted on Medium, the new vault site adds filters, multichain coverage, auto-updating content, and (coming soon) support for multiple languages!
+Αφού φιλοξενηθεί στο Medium, στο νέο ιστότοπο για τα θησαυροφυλάκια  προστεθούν φίλτρα, κάλυψη πολλαπλών αλυσίδων, αυτόματη ενημέρωση του περιεχομένου και (σύντομα) υποστήριξη για πολλές γλώσσες!
 
-Read more about the tools here. Thanks to @0xMajor, @KoxEvan, and DarkGhosty for their amazing work on the vault encyclopedia.
+Διαβάστε περισσότερα για τα εργαλεία εδώ. Ευχαριστούμε τους @0xMajor, @KoxEvan και DarkGhosty για την καταπληκτική δουλειά τους στην εγκυκλοπαίδεια του θησαυροφυλακίου.
 
-# Yearn Web Updates
+# Ενημερώσεις στο Yearn
 
 ![](image3.png)
 
-In an effort to increase transparency, several contributors to Yearn's web ecosystem have started a newsletter that will collect new features, ongoing issues, and planned updates, in addition to periodic deep-dives on the web tech stack.
+Σε μια προσπάθεια να αυξήσουν τη διαφάνεια, αρκετοί συνεργάτες του οικοσυστήματος του Yearn ξεκίνησαν ένα ενημερωτικό δελτίο που θα συγκεντρώνει ενημερώσεις για τα νέα χαρακτηριστικά, τα τρέχοντα ζητήματα και τις προγραμματισμένες ενημερώσεις, αλλά και εις βάθος αναλύσεις στην τεχνολογική στοίβα του διαδικτύου.
 
-Major points from this release include improved UX and speed when switching networks, including a prompt to add Fantom in your wallet if necessary and improved support for Fantom in yearn-exporter
+Τα σημαντικότερα σημεία αυτής της έκδοσης περιλαμβάνουν το βελτιωμένο UX και την ταχύτητα κατά την εναλλαγή δικτύων, συμπεριλαμβανομένης μιας προτροπής για να προσθέσετε το δίκτυο Fantom στο πορτοφόλι σας καθώς και τη βελτιωμένη υποστήριξη για το Fantom στο yearn-exporter.
 
-As always, if you have feedback or suggestions for the website, or would like to contribute, reach out on [Discord](https://discord.com/invite/yearn).
+Όπως πάντα, αν έχετε σχόλια ή προτάσεις για την ιστοσελίδα ή αν θέλετε να συνεισφέρετε, επικοινωνήστε μαζί μας στο 
+[Discord](https://discord.com/invite/yearn).
 
-Check out the updates [here](https://yearnweb.substack.com/p/update-jan-5-2022?showWelcome=true).
+Δείτε τις ενημερώσεις [εδώ](https://yearnweb.substack.com/p/update-jan-5-2022?showWelcome=true).
 
-# Register for the Next Iteration of yAcademyDAO
+# Εγγραφείτε για την επόμενη σεζόν του yAcademyDAO
 
 ![](image4.png)
 
-For the unfamiliar, the yAcademyDAO is a community-driven approach to blockchain security. At Yearn, we take security very seriously and yAcademy is one of our ecosystem initiatives to create sustainable and collaborative blockchain security and ensure that talent is properly utilized.
+Για όσους δεν είναι εξοικειωμένοι, το yAcademyDAO είναι μια προσέγγιση της ασφάλειας των blockchain με γνώμονα την κοινότητα. Στο Yearn, παίρνουμε πολύ σοβαρά την ασφάλεια και το yAcademy είναι μία από τις πρωτοβουλίες του οικοσυστήματός μας για τη δημιουργία βιώσιμης και συνεργατικής ασφάλειας στο blockchain και τη διασφάλιση της κατάλληλης αξιοποίησης του ταλέντου.
 
-yAcademy dao is managed by its full-time members and active contributors, with oversight and guidance from the ethereum security alliance members.
+Το DAO του yAcademy διοικείται από μέλη που εργάζονται με συνθήκες πλήρους απασχόλησης και τους ενεργούς συνεργάτες, υπό την εποπτεία και την καθοδήγηση των μελών του ethereum security alliance.
 
-Check out the website [here](https://yacademy.github.io/). Apply to the yAcademyDAO [here](https://docs.google.com/forms/d/e/1FAIpQLSfc5VUYOyG_cRpiRkymJOVoHluFOuiYMRONX-R7xRuvWM25Xg/viewform).
+Δείτε την ιστοσελίδα [εδώ](https://yacademy.github.io/). . Κάντε αίτηση στο yAcademyDAO [εδώ](https://docs.google.com/forms/d/e/1FAIpQLSfc5VUYOyG_cRpiRkymJOVoHluFOuiYMRONX-R7xRuvWM25Xg/viewform).
 
-# Yearn Has Received An Additional 1M FTM Grant From the Fantom Foundation
+# Το Yearn έλαβε επιπλέον επιχορήγηση ύψους 1M FTM από το Ίδρυμα του Fantom
 
-Welcome to 2022, anon. The donations continue.
+Καλώς ήρθες στο 2022, anon. Οι δωρεές συνεχίζονται.
 
-Yearn has received another grant from the Fantom Foundation
+Το Yearn έλαβε άλλη μια επιχορήγηση από το Ίδρυμα του Fantom.
 
-Once again, we don't dump. 208,333 FTM have been donated, with 90%+ to the FTM vault and a proportional donation to other Fantom vaults.
+Για ακόμα μια φορά, δεν πουλάμε τα token στην αγορά. 208.333 FTM έχουν δωρηθεί, με 90%+ να πηγαίνουν στο θησαυροφυλάκιο FTM και μια ανάλογη δωρεά σε άλλα θησαυροφυλάκια που δέχονται Fantom.
 
-We will continue this with future grants.
+Θα συνεχίσουμε την ίδια πρακτική σε μελλοντικές επιχορηγήσεις.
 
-# Vaults at Yearn
+# Θησαυροφυλάκια στο Yearn
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Μπορείτε να διαβάσετε μια λεπτομερή περιγραφή των στρατηγικών για όλα τα ενεργά yVaults μας [εδώ](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
 # Ecosystem News
 
-[Check out the Yearn feature in the PILLS universe](https://twitter.com/pillsuniverse/status/1478321675510763520)
+[Δείτε τη λειτουργία του Yearn στο σύμπαν του PILLS](https://twitter.com/pillsuniverse/status/1478321675510763520)
 
-[Learn how ZooDAO uses Yearn to generate yield from NFTs](https://twitter.com/ZooDAO/status/1480244287526916105)
+[Μάθετε πώς το ZooDAO χρησιμοποιεί το Yearn για να παράγει αποδόσεις από NFTs](https://twitter.com/ZooDAO/status/1480244287526916105)
 
-[Read the proposal about a “yMarkt”](https://gov.yearn.finance/t/proposal-ymarkt-the-best-buybacks-can-get/12166)
+[Διαβάστε την πρόταση για ένα "yMarkt" token](https://gov.yearn.finance/t/proposal-ymarkt-the-best-buybacks-can-get/12166)
 
-[Theorycrafting about Andre Cronje’s new AMM and Yearn’s involvement](https://gov.yearn.finance/t/yfi-solid-theorycrafting/12181)
+[Θεωρητικές σκέψεις σχετικά με το νέο AMM του Andre Cronje και την εμπλοκή του Yearn](https://gov.yearn.finance/t/yfi-solid-theorycrafting/12181)
 
-[A new CLI update has been released for Keep3r](https://twitter.com/DeFi_Wonderland/status/1478061081956343812)
+[Μια νέα ενημέρωση CLI κυκλοφόρησε για το Keep3r](https://twitter.com/DeFi_Wonderland/status/1478061081956343812)
 
-[Check out Element Finance’s new DAI term utilizing Yearn vaults](https://twitter.com/element_fi/status/1478819507829293058)
+[Δείτε τη νέα περίοδο για τα θησαυροφυλάκια DAI του Element Finance το οποίο χρησιμοποιεί τα θησαυροφυλάκια του Yearn](https://twitter.com/element_fi/status/1478819507829293058)
 
-[Try out the new ApeMode vault on Fantom](https://twitter.com/poolpitako/status/1479271890933923843)
+[Δοκιμάστε το νέο θησαυροφυλάκιο ApeMode στο Fantom](https://twitter.com/poolpitako/status/1479271890933923843)
