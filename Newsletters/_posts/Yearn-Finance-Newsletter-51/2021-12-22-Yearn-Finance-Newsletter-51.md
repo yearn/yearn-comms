@@ -4,96 +4,96 @@ title: "Yearn Finance Newsletter #51"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-51/image1.png
 author: Yearn
-translator:
-publish: false
+translator: Dastronom
+publish: true
 ---
 
-# Yearn Finance Newsletter #51
+# Yearn Finance Bülteni #51
 
-### Week Ending December 19th, 2021
+### 19 Aralık 2021'de Sona Eren Hafta
 
 ![](image1.png)
 
-Welcome to the 51th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Yearn Finance Bülteninin 51. baskısına hoş geldiniz. Bu bültenle amacımız, Yearn'i ve daha geniş kripto topluluğunu ürün lansmanları, yönetim değişiklikleri ve ekosistem güncellemeleri de dahil olmak üzere en son gelişmelerden haberdar etmektir. Yearn Finance hakkında daha fazla bilgi edinmek istiyorsanız, resmi [Twitter](https://twitter.com/iearnfinance) ve [Medium](https://medium.com/iearn) hesaplarımızı takip edin.
 
-## Summary
+## Özet
 
-- YFI Tokenomics Poll Finalized
-- Yearn Has Purchased $7.5M of YFI
-- Proposal: Evolving YFI’s Tokenomics
-- Report: Reborn As A Black Hole
+- YFI Tokenomik Kamu Oylaması Sonucu Kesinleşti
+- Yearn 7,5 milyon dolarlık YFI satın aldı
+- Teklif: YFI'nin Tokenomiklerini Geliştirmek
+- Rapor: Kara Delik Olarak Yeniden Doğmak
 - Yearn Holiday Card NFT
-- Vaults at Yearn
-- Ecosystem News
+- Yearn'de Vault'lar
+- Ekosistem Haberleri
 
-## YFI Tokenomics Poll Finalized
+## YFI Tokenomik Kamu Oylaması Sonucu Kesinleşti
 
-The YFI tokenomics poll has ended with xYFI as the leading option. xYFI suggests the creation of a YFI staking vault where excess treasury earnings are to be sent.
+YFI tokenomik anketi, önde gelen seçenek olarak xYFI ile sona erdi. xYFI, fazla hazine kazançlarının gönderileceği bir YFI stake vault'u oluşturulmasını önerir.
 
-Huge thanks to [Fin4Dao](https://twitter.com/Fin4Dao) for all the facilitation work. Check out the snapshot [here](https://snapshot.org/#/ybaby.eth/proposal/0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea).
+[Fin4Dao](https://twitter.com/Fin4Dao)'ya verdiği emekler için teşekkürler. Snapshot'a [buradan](https://snapshot.org/#/ybaby.eth/proposal/0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea) bakabilirsiniz.
 
-## Yearn Has Purchased $7.5M of YFI
+## Yearn 7,5 milyon dolarlık YFI satın aldı
 
 ![](image2.png)
 
-Yearn has purchased $7,526,343 worth of YFI from the open market. We got 282.4 YFI (0.77% of total supply) at an average price of $26,651. More YFI has been bought back in the past month than in the prior year.
+Yearn, açık piyasadan 7.526.343$ değerinde YFI satın aldı. Ortalama 26.651 $ fiyatla 282.4 YFI (toplam arzın %0.77'si) elde ettik. Geçen ay, önceki yıla göre daha fazla YFI geri satın alındı.
 
-Now that the Treasury has more than $45 million saved up and with earnings stronger than ever, expect much more aggressive buybacks. What will you do anon?
+Artık Hazine'nin 45 milyon dolardan fazla biriktirdiği ve her zamankinden daha güçlü kazançları olduğu için, çok daha agresif geri alımlar bekliyoruz. anon olarak sen ne yapacaksın?
 
-We have also been purchasing back a significant amount of yvBOOST in order to restore the peg. Transactions can be found here: [https://etherscan.io/token/0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a?a=0x7d2aB9CA511EBD6F03971Fb417d3492aA82513f0](https://etherscan.io/token/0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a?a=0x7d2aB9CA511EBD6F03971Fb417d3492aA82513f0)
+Ayrıca, sabitleyiciyi geri yüklemek için önemli miktarda yvBOOST satın alıyoruz. İşlemler burada bulunabilir: [https://etherscan.io/token/0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a?a=0x7d2aB9CA511EBD6F03971Fb417d3492aA82513f0](https://etherscan.io/token/0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a?a=0x7d2aB9CA511EBD6F03971Fb417d3492aA82513f0)
 
-## Proposal: Evolving YFI’s Tokenomics
+## Teklif: YFI'nin Tokenomiklerini Geliştirmek
 
 ![](image3.png)
 
-Step 1 is xYFI, where one stakes in the xYFI vault, earning back YFI from the treasury.
+Adım 1, xYFI vault'unda stake yapan biri hazineden YFI'yi geri kazanır.
 
-Step 2 is veYFI, where one vote-locks YFI, with decay and time extension. Max-lock and earn disproportionate rewards compared to those who lock for shorter duration. Early exit any time but pay a penalty to the other stakers.
+Adım 2, bir oylamanın YFI'yi, azalma ve zaman uzatma ile kilitlediği veYFI'dir. Maksimum kilitleyin ve daha kısa süre için kilitleyenlere kıyasla orantısız ödüller kazanın. İstediğiniz zaman çıkabilirsiniz, ancak diğer stake edenlere erken çıkış için bir ceza ödemeniz gerek.
 
-Step 3 is Vault gauges, where one stakes their yVault token in a gauge, earning YFI rewards, boosted by how much veYFI they have staked. Vote on which vaults should get allocated rewards. Pay a penalty to other stakers if you don't have a strong enough lock.
+Adım 3, birinin yVault belirteçlerini bir göstergede stake ettiği, ne kadar veYFI yatırdıklarına göre artırılan YFI ödülleri kazandığı Vault göstergeleridir. Hangi vault'lara ödül tahsis edilmesi gerektiğine oy verin. Yeterince güçlü bir miktar kitlemediyseniz diğer bahisçilere ceza ödersiniz.
 
-Step 4 is useful work, in which veYFI holders earn additional rewards by doing useful work. This is is pending the final form of the vaults v3 design. Things that it could be (but not limited to) includes configuring vault parameters, setting fees, providing insurance.
+Adım 4, veYFI sahiplerinin faydalı işler yaparak ek ödüller kazandığı faydalı iştir. Bu, vault v3 tasarımının son şeklini bekliyor. Olabileceği (ancak bunlarla sınırlı olmayan) şeyler arasında vault parametrelerinin yapılandırılması, ücretlerin belirlenmesi, sigorta sağlanması yer alır.
 
-The proposal asks that the mandate is given to developers to implement these high level designs at their discretion. Once rolled out, only xYFI and later veYFI would be eligible to vote in Yearn Governance.
+Teklif, geliştiricilere bu yüksek seviyeli tasarımları kendi takdirlerine göre uygulamak için yetki verilmesini istiyor. Bir kez kullanıma sunulduğunda, yalnızca xYFI ve daha sonra veYFI, Yearn Governance'ta oy kullanmaya uygun olacaktır.
 
-What will the rewards be, you ask? The treasury is buying back more YFI than ever, and expect to be able to direct $35-45m to buybacks per year. At a YFI price of $30k, that's 100 YFI/month.
+Ödüller ne olacak diye mi soruyorsun? Hazine her zamankinden daha fazla YFI geri satın alıyor ve yılda 35-45 milyon doları geri alımlara yönlendirmeyi umuyor. 30 bin dolarlık YFI fiyatında, bu ayda 100 YFI demek.
 
-Read all the details in the proposal [here](https://gov.yearn.finance/t/proposal-evolving-yfi-tokenomics/11994), get involved, and let us know what you think. A big shout out to all the participants on the forum, Discord, and Telegram chats who helped shape the form of this proposal over the past two months.
+Teklifteki tüm detayları [buradan](https://gov.yearn.finance/t/proposal-evolving-yfi-tokenomics/11994) okuyun, katılın ve ne düşündüğünüzü bize bildirin. Forum, Discord ve Telegram sohbetlerinde son iki ayda bu teklifin biçimini şekillendirmeye yardımcı olan tüm katılımcılara büyük bir alkış.
 
-## Report: Reborn As A Black Hole
+## Rapor: Kara Delik Olarak Yeniden Doğmak
 
 ![](image4.png)
 
-Ape Froman has recently published a report detailing a comprehensive overview of Yearn, and he details the recent tokenomics troubles at Yearn, potential fixes, and further integrations of the YFI token into the greater DeFi ecosystem. This will allow better value capture for holders and allow for a potential imbalance in the circulating supply of YFI - thus driving demand.
+Ape Froman kısa süre önce Yearn'e kapsamlı bir genel bakışın ayrıntılarını veren bir rapor yayınladı ve Yearn'deki son tokenomik sorunları, olası düzeltmeleri ve YFI belirtecinin daha büyük DeFi ekosistemine daha fazla entegrasyonunu detaylandırıyor. Bu, sahipler için daha iyi değer yakalamaya izin verecek ve dolaşımdaki YFI arzında potansiyel bir dengesizliğe izin verecek ve böylece talebi yönlendirecektir.
 
-Special thanks to [Ape Froman](https://medium.com/@portiadog) for the thoughtful writeup. Check out the full piece [here](https://medium.com/@portiadog/yfi-reborn-as-a-black-hole-db249b90ed5a).
+[Ape Froman](https://medium.com/@portiadog)'a düşünceli yazısı için özel teşekkürlerimizi sunarız. Tamamını [buradan](https://medium.com/@portiadog/yfi-reborn-as-a-black-hole-db249b90ed5a) okuyabilirsiniz.
 
 ## Yearn Holiday Card NFT
 
 ![](image5.png)
 
-Get in on Project Galaxy's Holiday Treasure Hunt and grab this Yearn Holiday Card NFT, just for being a Yearn Newsletter subscriber.
+Project Galaxy'nin Tatil Hazine Avına katılın ve sadece Yearn Bülteni abonesi olduğunuz için bu Yearn Holiday Card NFT'yi alın.
 
-Collect all 12 NFTs from Project Galaxy ecosystem partners and you'll get an additional Galaxy Girl NFT, which our friends at Project Galaxy will use to drop you future goodies. Probably nothing.
+Project Galaxy ekosistem ortaklarından 12 NFT'nin tamamını toplayın ve Project Galaxy'deki arkadaşlarımızın size gelecekteki hediyeleri bırakmak için kullanacağı ek bir Galaxy Girl NFT'ye sahip olun. muhtemelen hiçbirşey.
 
-Steps are as follows: subscribe to Yearn’s weekly [newsletter](https://yearn.substack.com/), confirm your (new or existing) subscription on this [Google form](https://forms.gle/gsVpRsjdSXxyaXha9), and claim your rewards [here](https://galaxy.eco/yearn/campaign/GCTj8UUaoD).
+Adımları takip edin: Yearn'ın haftalık [bültenine](https://yearn.substack.com/) üye olun. var olan üyeliğinizi bu [Google forumda](https://forms.gle/gsVpRsjdSXxyaXha9) onaylayın veya üye olun, daha sonra hedyenizi [buradan](https://galaxy.eco/yearn/campaign/GCTj8UUaoD) alın.
 
-Happy hunting and happy holidays from Yearn!
+Yearn'den mutlu avlar ve mutlu bayramlar!
 
-## Vaults At Yearn
+## Yearn'de Vault'lar
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Tüm aktif yVault'larımıza yönelik stratejilerin ayrıntılı bir açıklamasını [buradan](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) okuyabilirsiniz.
 
-## Ecosystem News
+## Ekosistem Haberleri
 
-[Check out Facu’s security chat with the Wido team who are building on top of Yearn](https://www.joinwido.com/blog/chat-with-facu-about-wido-together-and-its-security-model)
+[Facu'nun Yearn'in üzerine inşa eden Wido ekibiyle yaptığı güvenlik sohbetine göz atın](https://www.joinwido.com/blog/chat-with-facu-about-wido-together-and-its-security-model)
 
-[Deposit in Yearn with lower gas fees thanks to Argent’s L2 Wallet](https://twitter.com/argentHQ/status/1471503921851944983)
+[Argent'ın L2 Cüzdanı sayesinde daha düşük gaz ücretleri ile Yearn'de para yatırma](https://twitter.com/argentHQ/status/1471503921851944983)
 
-[See the YFI pendant made by loldefi](https://twitter.com/loldefi/status/1470449196939493383)
+[loldefi tarafından yapılan YFI kolye ucunu görün](https://twitter.com/loldefi/status/1470449196939493383)
 
-[$GEAR holders are eligible to vote on GIP-2 and GIP-3 to include YFI and Yearn contracts](https://twitter.com/GearboxProtocol/status/1472299963149426696?s=20)
+[$GEAR sahipleri, YFI ve Yearn sözleşmelerini dahil etmek için GIP-2 ve GIP-3'te oy kullanma hakkına sahiptir](https://twitter.com/GearboxProtocol/status/1472299963149426696?s=20)
 
-[Anyone in the world can contribute to the Yearn experience](https://twitter.com/bantg/status/1472038972092207107?s=20)
+[Dünyadaki herkes Yearn deneyimine katkıda bulunabilir](https://twitter.com/bantg/status/1472038972092207107?s=20)
 
-[Get insured on your Yearn deposits with solace.fi](https://twitter.com/SolaceFi/status/1471594979638321153?s=20)
+[Solace.fi ile Yearn mevduatlarınızı sigortalayın](https://twitter.com/SolaceFi/status/1471594979638321153?s=20)
