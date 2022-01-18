@@ -14,7 +14,7 @@ publish: true
 
 ![](image1.png)
 
-Bienvenido a la 53.ª edición de la Newsletter de Yearn Finance. Nuestro objetivo con esta newsletter es mantener a Yearn y a la comunidad cripto informada sobre las últimas noticias, incluidos los lanzamientos de productos, los cambios en la gobernanza y las actualizaciones del ecosistema. Si está interesado en obtener más información sobre Yearn Finance, sigue nuestras cuentas oficiales [Twitter] (https://twitter.com/iearnfinance) y [Medium] (https://medium.com/iearn).
+Bienvenido a la 53.ª edición de la Newsletter de Yearn Finance. Nuestro objetivo con esta newsletter es mantener a Yearn y a la comunidad cripto informada sobre las últimas noticias, incluidos los lanzamientos de productos, los cambios en la gobernanza y las actualizaciones del ecosistema. Si está interesado en obtener más información sobre Yearn Finance, sigue nuestras cuentas oficiales [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn).
 
 ## Resumen
 
@@ -49,7 +49,7 @@ En un esfuerzo por aumentar la transparencia, varios colaboradores del ecosistem
 
 Los puntos principales de esta versión incluyen UX mejorado y velocidad al cambiar de red, incluido un aviso para agregar Fantom en su billetera si es necesario y soporte mejorado para Fantom en yearn-exporter
 
-Como siempre, si tienes comentarios o sugerencias para el sitio web, o te gustaría contribuir, comunícate con [Discord] (https://discord.com/invite/yearn).
+Como siempre, si tienes comentarios o sugerencias para el sitio web, o te gustaría contribuir, comunícate con [Discord](https://discord.com/invite/yearn).
 
 Consulta las actualizaciones [aquí](https://yearnweb.substack.com/p/update-jan-5-2022?showWelcome=true).
 
@@ -61,7 +61,7 @@ Para los que no están familiarizados, yAcademyDAO es un enfoque impulsado por l
 
 yAcademy dao es administrado por sus miembros de tiempo completo y colaboradores activos, con la supervisión y orientación de los miembros de la alianza de seguridad ethereum.
 
-Consulte el sitio web [aquí] (https://yacademy.github.io/). Aplicar a la yAcademyDAO [aquí](https://docs.google.com/forms/d/e/1FAIpQLSfc5VUYOyG_cRpiRkymJOVoHluFOuiYMRONX-R7xRuvWM25Xg/viewform).
+Consulte el sitio web [aquí](https://yacademy.github.io/). Aplicar a la yAcademyDAO [aquí](https://docs.google.com/forms/d/e/1FAIpQLSfc5VUYOyG_cRpiRkymJOVoHluFOuiYMRONX-R7xRuvWM25Xg/viewform).
 
 # Yearn ha recibido una subvención adicional de 1 millón de FTM de la Fundación Fantom
 
@@ -81,14 +81,14 @@ Puede leer una descripción detallada de las estrategias para todos nuestros yVa
 
 [Mira la función Yearn en el universo PILLS](https://twitter.com/pillsuniverse/status/1478321675510763520)
 
-[Aprenda cómo ZooDAO usa Yearn para generar rendimiento a partir de NFT] (https://twitter.com/ZooDAO/status/1480244287526916105)
+[Aprenda cómo ZooDAO usa Yearn para generar rendimiento a partir de NFT](https://twitter.com/ZooDAO/status/1480244287526916105)
 
 [Lea la propuesta sobre un “yMarkt”](https://gov.yearn.finance/t/proposal-ymarkt-the-best-buybacks-can-get/12166)
 
 [Teoría sobre el nuevo AMM de Andre Cronje y la participación de Yearn](https://gov.yearn.finance/t/yfi-solid-theorycrafting/12181)
 
-[Se lanzó una nueva actualización de CLI para Keep3r] (https://twitter.com/DeFi_Wonderland/status/1478061081956343812)
+[Se lanzó una nueva actualización de CLI para Keep3r](https://twitter.com/DeFi_Wonderland/status/1478061081956343812)
 
-[Vea el nuevo término DAI de Element Finance que utiliza las bóvedas de Yearn] (https://twitter.com/element_fi/status/1478819507829293058)
+[Vea el nuevo término DAI de Element Finance que utiliza las bóvedas de Yearn](https://twitter.com/element_fi/status/1478819507829293058)
 
 [Prueba la nueva bóveda ApeMode en Fantom](https://twitter.com/poolpitako/status/1479271890933923843)
