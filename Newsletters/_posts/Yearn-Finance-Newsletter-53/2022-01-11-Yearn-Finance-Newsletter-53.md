@@ -4,8 +4,8 @@ title: "Yearn Finance Newsletter #53"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-53/image1.png
 author: Yearn
-translator:
-publish: false
+translator: Cripu
+publish: true
 ---
 
 # Yearn Finance Newsletter #53
@@ -14,81 +14,81 @@ publish: false
 
 ![](image1.png)
 
-Welcome to the 53th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Yearn Finance Newsletterの第53号へようこそ。このニュースレターの目的は、プロダクトのローンチ、ガバナンスの変更、エコシステムの更新など、最新のニュースをYearnとより広いクリプトコミュニティにお知らせすることです。Yearn Financeについてもっと知りたいという方は、私たちの公式[Twitter](https://twitter.com/iearnfinance)と[Medium](https://medium.com/iearn)アカウントをフォローしてください。
 
-## Summary
+## 要約
 
-- Transparency at Yearn
-- Yearn Web Updates
-- Register for the Next Iteration of yAcademyDAO
-- Yearn Has Received An Additional 1M FTM Grant From the Fantom Foundation
-- Vaults at Yearn
-- Ecosystem News
+- Yearnの透明性
+- Yearnのウェブアップデート
+- 次期yAcademyDAOの登録について
+- Fantom Foundationから追加で1Mドルの助成金を受領
+- Yearnのボールト
+- エコシステムニュース
 
-# Transparency at Yearn
+# Yearnの透明性
 
 ![](image2.png)
 
-# More transparency. More alpha.
+# もっと透明に、もっとアルファを。
 
-Two new tools from Yearn illuminating the mysterious depths of the rabbit hole are the [content aggregator](https://blog.yearn.finance/) and the [vault encyclopedia](https://vaults.yearn.finance/).
+Yearnのミステリアスなうさぎの穴を解明する２つの新しいツールは、[コンテンツアグリゲーター](https://blog.yearn.finance/) とボールト[百科事典](https://vaults.yearn.finance/)です。
 
-With the content aggregator, you can find all the most important information coming from Yearn. Go to one link for the latest announcements, tweets, newsletters, articles, and quarterly financials from Yearn. You’ll also find unrolled big brain twitter threads from Yearn contributors like tracheopteryx
+コンテンツアグリゲーターでは、Yearnからの重要情報を見つけることができます。ひとつのリンクからYearnの最新お知らせ、ツイート、ニュースレター、四半期決算にアクセスできます。また、tracheopteryxのようなYearnの天才コントリビューター達から繰り広げられたtwitterスレッドも見つけることができます。
 
-With the new community-created encyclopedia on Yearn vaults, you can find in-depth information about how yVaults operate and review the actions/strategies these vaults perform.
+コミュニティ製のYearnボールト百科事典では、yVaultsの運用方法、それらのボールトが実行するアクション/戦略のレビューについての詳細情報を見つけることができます。
 
-Once hosted on Medium, the new vault site adds filters, multichain coverage, auto-updating content, and (coming soon) support for multiple languages!
+コミュニティ製のYearnボールト百科事典では、yVaultsの運用方法、それらのボールトが実行するアクション/戦略のレビューについての詳細情報を見つけることができます。
 
-Read more about the tools here. Thanks to @0xMajor, @KoxEvan, and DarkGhosty for their amazing work on the vault encyclopedia.
+ツールについての詳細はこちら。 @0xMajor, @KoxEvan, そしてDarkGhostyのボールト百科事典における素晴らしい仕事に感謝します。
 
-# Yearn Web Updates
+# Yearnのウェブアップデート
 
 ![](image3.png)
 
-In an effort to increase transparency, several contributors to Yearn's web ecosystem have started a newsletter that will collect new features, ongoing issues, and planned updates, in addition to periodic deep-dives on the web tech stack.
+透明性を上げる努力の一環として、Yearnのウェブエコシステムの何人かの貢献者が、web技術スタックに関する定期的な深掘り考察に加えて、新機能や進行中のイシュー、計画されたアップデートを集めたニュースレターを始めました。
 
-Major points from this release include improved UX and speed when switching networks, including a prompt to add Fantom in your wallet if necessary and improved support for Fantom in yearn-exporter
+今回のリリースの主なポイントは、UXやネットワークスイッチ時のスピードの改善、必要に応じてウォレットにFantomを追加するプロンプト、YearnエクスポーターでのFantomサポーターの改善を含みます。
 
-As always, if you have feedback or suggestions for the website, or would like to contribute, reach out on [Discord](https://discord.com/invite/yearn).
+このサイトへのフィードバックや提案、あるいは貢献したいことがあれば、いつものように[Discord](https://discord.com/invite/yearn)にお越しください。
 
-Check out the updates [here](https://yearnweb.substack.com/p/update-jan-5-2022?showWelcome=true).
+アップデートは[こちら](https://yearnweb.substack.com/p/update-jan-5-2022?showWelcome=true)でチェック。
 
-# Register for the Next Iteration of yAcademyDAO
+# 次期yAcademyDAOの登録について
 
 ![](image4.png)
 
-For the unfamiliar, the yAcademyDAO is a community-driven approach to blockchain security. At Yearn, we take security very seriously and yAcademy is one of our ecosystem initiatives to create sustainable and collaborative blockchain security and ensure that talent is properly utilized.
+あまり聞きなれないかもしれませんが、yAcademyはコミュニティ主導で取り組むブロックチェーンセキュリティへのアプローチです。Yearnではセキュリティを非常に重視しており、yAcademyは持続可能で協調的なブロックチェーンセキュリティを構築し、才能を適切に活用するためのYearnエコシステムのイニシアチブのひとつです。
 
-yAcademy dao is managed by its full-time members and active contributors, with oversight and guidance from the ethereum security alliance members.
+yAcademyDAOはフルタイムで活動的な貢献者によって運営されており、イーサリアムのセキュリティ連合メンバーからの監督とガイドを受けられます。
 
-Check out the website [here](https://yacademy.github.io/). Apply to the yAcademyDAO [here](https://docs.google.com/forms/d/e/1FAIpQLSfc5VUYOyG_cRpiRkymJOVoHluFOuiYMRONX-R7xRuvWM25Xg/viewform).
+websiteは[こちら](https://yacademy.github.io/)でチェック。yAcademyDAOへの参加は[こちら](https://docs.google.com/forms/d/e/1FAIpQLSfc5VUYOyG_cRpiRkymJOVoHluFOuiYMRONX-R7xRuvWM25Xg/viewform)。
 
-# Yearn Has Received An Additional 1M FTM Grant From the Fantom Foundation
+# Fantom Foundationから追加で1Mドルの助成金を受領
 
-Welcome to 2022, anon. The donations continue.
+2022年にようこそ、匿名さん。ドネーションが止まりません。
 
-Yearn has received another grant from the Fantom Foundation
+YearnはFantom Foundationから新たな助成金を受領しました。
 
-Once again, we don't dump. 208,333 FTM have been donated, with 90%+ to the FTM vault and a proportional donation to other Fantom vaults.
+もう一度言います。わたしたちは即売りしません。208,333 FTMのうち90％以上がFTMのボールトに、残りは比例したFantomのボールトに寄付されました。
 
-We will continue this with future grants.
+今後も助成金は続きます。
 
-# Vaults at Yearn
+# Yearnのボールト
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+全てのアクティブなyVaultsのストラテジーの詳細な説明は[こちら](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)です。
 
-# Ecosystem News
+# エコシステムニュース
 
-[Check out the Yearn feature in the PILLS universe](https://twitter.com/pillsuniverse/status/1478321675510763520)
+[PILLSユニバースのYearnコラボをチェック](https://twitter.com/pillsuniverse/status/1478321675510763520)
 
-[Learn how ZooDAO uses Yearn to generate yield from NFTs](https://twitter.com/ZooDAO/status/1480244287526916105)
+[ZooDAOがどのようにNFTからイールドを生成するかを学ぶ](https://twitter.com/ZooDAO/status/1480244287526916105)
 
-[Read the proposal about a “yMarkt”](https://gov.yearn.finance/t/proposal-ymarkt-the-best-buybacks-can-get/12166)
+[“yMarkt”についての提案を読む](https://gov.yearn.finance/t/proposal-ymarkt-the-best-buybacks-can-get/12166)
 
-[Theorycrafting about Andre Cronje’s new AMM and Yearn’s involvement](https://gov.yearn.finance/t/yfi-solid-theorycrafting/12181)
+[Andre Cronje氏の新しいAMMとYearnの関わりについての理論分析](https://gov.yearn.finance/t/yfi-solid-theorycrafting/12181)
 
-[A new CLI update has been released for Keep3r](https://twitter.com/DeFi_Wonderland/status/1478061081956343812)
+[Keep3rのための新しいCLIアップデートがリリース](https://twitter.com/DeFi_Wonderland/status/1478061081956343812)
 
-[Check out Element Finance’s new DAI term utilizing Yearn vaults](https://twitter.com/element_fi/status/1478819507829293058)
+[Yearnボールトを使ったElement Financeの新しいDAIタームをチェック](https://twitter.com/element_fi/status/1478819507829293058)
 
-[Try out the new ApeMode vault on Fantom](https://twitter.com/poolpitako/status/1479271890933923843)
+[Fantomの新しいApeModeボールトをトライ](https://twitter.com/poolpitako/status/1479271890933923843)
