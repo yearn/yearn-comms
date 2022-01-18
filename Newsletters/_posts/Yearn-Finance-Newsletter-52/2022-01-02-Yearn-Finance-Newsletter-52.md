@@ -52,7 +52,7 @@ publish: true
 
 अंत में, यर्न शासन में वोट करने के लिए योग्य YFI केवल xYFI (चरण १ और उसके बाद से) या यर्न में वोट-लॉक (चरण २ और उसके बाद से) तक ही सीमित रहेगा।
 
-प्रस्तावित टोकनोमिक्स अपग्रेड और लाभों के बारे में अधिक पढ़ें [यहां](https://gov.yearn.finance/t/yip-65-evolving-yfi-tokenomics/11994) और Snapshot पर वोट करें [यहां](https:// snapshot.org/#/ybaby.eth/proposal/0x8f7417fa5565d9f46e16618503e8808c36d51b2a9e8217a68c632d7c090d69d9)।
+प्रस्तावित टोकनोमिक्स अपग्रेड और लाभों के बारे में अधिक पढ़ें [यहां](https://gov.yearn.finance/t/yip-65-evolving-yfi-tokenomics/11994) और Snapshot पर वोट करें [यहां](https://snapshot.org/#/ybaby.eth/proposal/0x8f7417fa5565d9f46e16618503e8808c36d51b2a9e8217a68c632d7c090d69d9)।
 
 लेखकों का विशेष धन्यवाद: @0xJiji, @banteg, daryllautk, HATTip3675, @onlylarping, @ vany365, और @Wot_Is_Goin_On इस महत्वपूर्ण प्रस्ताव को बनाने के लिए।
 
@@ -96,7 +96,7 @@ YFI के "निष्पक्ष लॉन्च" के पीछे का
 
 इस थ्रेड के उदाहरण दिखाते हैं कि कैसे यर्न DeFi में सामान्यीकृत समस्याओं को हल करने का प्रयास कर रहा है। शब्द "DeFi प्रोटोकॉल" इसे न्यायसंगत नहीं लगता है, हो सकता है कि यर्न को फिनटेक DAO के रूप में बेहतर तरीके से वर्णित किया जा सके।
 
-[यहां] (https://twitter.com/Wot_Is_Goin_On/status/1477277152336916484) अद्भुत सूत्र के लिए Wot_Is_Goin_On को धन्यवाद।
+[यहां](https://twitter.com/Wot_Is_Goin_On/status/1477277152336916484) अद्भुत सूत्र के लिए Wot_Is_Goin_On को धन्यवाद।
 
 ## यर्न को Fantom फाउंडेशन की ओर से १M FTM अनुदान मिला है
 
