@@ -40,5 +40,5 @@ Ahora, simplemente, durante la epoch, Yearn gana "Y" cantidad en tarifas/contrib
 
 Nómina descentralizada para organizaciones planas.
 
-Actualmente, el proyecto aún es de código cerrado, sin embargo, el equipo está buscando activamente participar con otras DAO y organizaciones, si tiene algún interés o consulta, comuníquese con [@tracheopteryx] (https://twitter.com/tracheopteryx)
+Actualmente, el proyecto aún es de código cerrado, sin embargo, el equipo está buscando activamente participar con otras DAO y organizaciones, si tiene algún interés o consulta, comuníquese con [@tracheopteryx](https://twitter.com/tracheopteryx)
 
