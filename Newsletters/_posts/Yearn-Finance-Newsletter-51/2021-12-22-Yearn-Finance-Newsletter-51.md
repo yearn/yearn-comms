@@ -1,99 +1,99 @@
 ---
 layout: post
-title: "Yearn Finance Newsletter #51"
+title: "यर्न फाइनेंस समाचार पत्र #५१"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-51/image1.png
 author: Yearn
-translator:
-publish: false
+translator: Major-Rager
+publish: true
 ---
 
-# Yearn Finance Newsletter #51
+# यर्न फाइनेंस समाचार पत्र #५१
 
-### Week Ending December 19th, 2021
+### १९ दिसंबर, २०२१ को समाप्त होने वाला सप्ताह
 
 ![](image1.png)
 
-Welcome to the 51th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+यर्न फाइनेंस समाचार पत् के ५१वें संस्करण में आपका स्वागत है। इस न्यूज़लेटर के साथ हमारा उद्देश्य उत्पाद लॉन्च, शासन परिवर्तन और पारिस्थितिकी तंत्र अपडेट सहित नवीनतम समाचारों के बारे में यर्न और व्यापक क्रिप्टो समुदाय को सूचित करना है। यदि आप यर्न फाइनेंस के बारे में अधिक जानने में रुचि रखते हैं, तो हमारे आधिकारिक [ट्विटर](https://twitter.com/iearnfinance) और [मीडियम](https://medium.com/iearn) खातों का अनुसरण करें।
 
-## Summary
+## सारांश
 
-- YFI Tokenomics Poll Finalized
-- Yearn Has Purchased $7.5M of YFI
-- Proposal: Evolving YFI’s Tokenomics
-- Report: Reborn As A Black Hole
-- Yearn Holiday Card NFT
-- Vaults at Yearn
-- Ecosystem News
+- YFI टोकनोमिक्स पोल को अंतिम रूप दिया गया
+- यर्न ने YFI के ७.५ मिलियन डॉलर खरीदे हैं
+- प्रस्ताव: YFI के टोकनोमिक्स का विकास
+- रिपोर्ट: एक ब्लैक होल के रूप में पुनर्जन्म
+- यर्न अवकाश कार्ड NFT
+- यर्न में तिजोरियाँ
+- पारिस्थितिकी तंत्र समाचार
 
-## YFI Tokenomics Poll Finalized
+## YFI टोकनोमिक्स पोल को अंतिम रूप दिया गया
 
-The YFI tokenomics poll has ended with xYFI as the leading option. xYFI suggests the creation of a YFI staking vault where excess treasury earnings are to be sent.
+YFI टोकनोमिक्स पोल प्रमुख विकल्प के रूप में xYFI के साथ समाप्त हो गया है। xYFI एक YFI स्टेकिंग तिजोरी के निर्माण का सुझाव देता है जहाँ अतिरिक्त ट्रेजरी आय भेजी जानी है।
 
-Huge thanks to [Fin4Dao](https://twitter.com/Fin4Dao) for all the facilitation work. Check out the snapshot [here](https://snapshot.org/#/ybaby.eth/proposal/0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea).
+सभी सुविधा कार्यों के लिए [Fin4Dao](https://twitter.com/Fin4Dao) को बहुत-बहुत धन्यवाद। स्नैपशॉट देखें [यहां](https://snapshot.org/#/ybaby.eth/proposal/0x783cb3d57dd59b2827f6a42967375f06504cc947eba3c0e495c7b29ffd47aea)।
 
-## Yearn Has Purchased $7.5M of YFI
+## यर्न ने YFI के ७.५ मिलियन डॉलर खरीदे हैं
 
 ![](image2.png)
 
-Yearn has purchased $7,526,343 worth of YFI from the open market. We got 282.4 YFI (0.77% of total supply) at an average price of $26,651. More YFI has been bought back in the past month than in the prior year.
+यर्न ने खुले बाजार से ७,५२६,३२३ डॉलर मूल्य का YFI खरीदा है। हमें $२६,६५१ की औसत कीमत पर २८२.४ YFI (कुल आपूर्ति का ०.७७%) मिला। पिछले वर्ष की तुलना में पिछले महीने में अधिक YFI को वापस खरीदा गया है।
 
-Now that the Treasury has more than $45 million saved up and with earnings stronger than ever, expect much more aggressive buybacks. What will you do anon?
+अब जबकि ट्रेजरी ने $४५ मिलियन से अधिक की बचत की है और पहले से कहीं अधिक मजबूत आय के साथ, अधिक आक्रामक बायबैक की अपेक्षा करें। क्या करोगे अनूप?
 
-We have also been purchasing back a significant amount of yvBOOST in order to restore the peg. Transactions can be found here: [https://etherscan.io/token/0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a?a=0x7d2aB9CA511EBD6F03971Fb417d3492aA82513f0](https://etherscan.io/token/0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a?a=0x7d2aB9CA511EBD6F03971Fb417d3492aA82513f0)
+हम खूंटी को पुनर्स्थापित करने के लिए yvBOOST की एक महत्वपूर्ण राशि भी वापस खरीद रहे हैं। लेन-देन यहां पाया जा सकता है: [https://etherscan.io/token/0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a?a=0x7d2aB9CA511EBD6F03971Fb417d3492aA82513f0](https://etherscan.io/token/0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a?a=0x7d2aB9CA511EBD6F03971Fb417d3492aA82513f0)
 
-## Proposal: Evolving YFI’s Tokenomics
+## प्रस्ताव: YFI के टोकनोमिक्स का विकास
 
 ![](image3.png)
 
-Step 1 is xYFI, where one stakes in the xYFI vault, earning back YFI from the treasury.
+चरण १ xYFI है, जहां एक xYFI तिजोरी में दांव लगाता है, YFI को राजकोष से वापस अर्जित करता है।
 
-Step 2 is veYFI, where one vote-locks YFI, with decay and time extension. Max-lock and earn disproportionate rewards compared to those who lock for shorter duration. Early exit any time but pay a penalty to the other stakers.
+चरण २ veYFI है, जहां एक वोट YFI को क्षय और समय विस्तार के साथ लॉक करता है। कम अवधि के लिए लॉक करने वालों की तुलना में अधिकतम लॉक करें और आय से अधिक पुरस्कार अर्जित करें। किसी भी समय जल्दी बाहर निकलें लेकिन अन्य हितधारकों को दंड का भुगतान करें।
 
-Step 3 is Vault gauges, where one stakes their yVault token in a gauge, earning YFI rewards, boosted by how much veYFI they have staked. Vote on which vaults should get allocated rewards. Pay a penalty to other stakers if you don't have a strong enough lock.
+चरण ३ वॉल्ट गेज है, जहां कोई अपने yVault टोकन को एक गेज में दांव पर लगाता है, YFI पुरस्कार अर्जित करता है, जो कि veYFI ने कितना दांव लगाया है। वोट दें कि किस तिजोरी को आवंटित पुरस्कार मिलना चाहिए। यदि आपके पास पर्याप्त मजबूत लॉक नहीं है, तो अन्य स्टेकर्स को पेनल्टी का भुगतान करें।
 
-Step 4 is useful work, in which veYFI holders earn additional rewards by doing useful work. This is is pending the final form of the vaults v3 design. Things that it could be (but not limited to) includes configuring vault parameters, setting fees, providing insurance.
+चरण ४ उपयोगी कार्य है, जिसमें veYFI धारक उपयोगी कार्य करके अतिरिक्त पुरस्कार अर्जित करते हैं। यह वाल्ट v3 डिज़ाइन का अंतिम रूप लंबित है। चीजें जो यह हो सकती हैं (लेकिन इन्हीं तक सीमित नहीं) में वॉल्ट मापदंडों को कॉन्फ़िगर करना, शुल्क निर्धारित करना, बीमा प्रदान करना शामिल है।
 
-The proposal asks that the mandate is given to developers to implement these high level designs at their discretion. Once rolled out, only xYFI and later veYFI would be eligible to vote in Yearn Governance.
+प्रस्ताव में कहा गया है कि डेवलपर्स को अपने विवेक पर इन उच्च स्तरीय डिजाइनों को लागू करने के लिए जनादेश दिया गया है। एक बार शुरू हो जाने के बाद, केवल xYFI और बाद में veYFI ही ईयर गवर्नेंस में वोट करने के पात्र होंगे।
 
-What will the rewards be, you ask? The treasury is buying back more YFI than ever, and expect to be able to direct $35-45m to buybacks per year. At a YFI price of $30k, that's 100 YFI/month.
+पुरस्कार क्या होंगे, आप पूछें? ट्रेजरी पहले से कहीं अधिक YFI वापस खरीद रहा है, और प्रति वर्ष बायबैक के लिए $ ३५-४५m को निर्देशित करने में सक्षम होने की उम्मीद है। $३०k के YFI मूल्य पर, वह १०० YFI/माह है।
 
-Read all the details in the proposal [here](https://gov.yearn.finance/t/proposal-evolving-yfi-tokenomics/11994), get involved, and let us know what you think. A big shout out to all the participants on the forum, Discord, and Telegram chats who helped shape the form of this proposal over the past two months.
+प्रस्ताव में सभी विवरण पढ़ें [यहां](https://gov.yearn.finance/t/proposal-evolving-yfi-tokenomics/11994), शामिल हों, और हमें बताएं कि आप क्या सोचते हैं। पिछले दो महीनों में इस प्रस्ताव के रूप को आकार देने में मदद करने वाले फोरम, Discord और Telegram चैट के सभी प्रतिभागियों के लिए एक बड़ा चिल्लाहट।
 
-## Report: Reborn As A Black Hole
+## रिपोर्ट: एक ब्लैक होल के रूप में पुनर्जन्म
 
 ![](image4.png)
 
-Ape Froman has recently published a report detailing a comprehensive overview of Yearn, and he details the recent tokenomics troubles at Yearn, potential fixes, and further integrations of the YFI token into the greater DeFi ecosystem. This will allow better value capture for holders and allow for a potential imbalance in the circulating supply of YFI - thus driving demand.
+Ape Froman ने हाल ही में एक रिपोर्ट प्रकाशित की है जिसमें यर्न के व्यापक अवलोकन का विवरण दिया गया है, और उन्होंने यर्न में हालिया टोकन संबंधी समस्याओं, संभावित सुधारों और YFI टोकन के अधिक से अधिक DeFi इकोसिस्टम में एकीकरण का विवरण दिया है। यह धारकों के लिए बेहतर मूल्य कैप्चर की अनुमति देगा और YFI की परिसंचारी आपूर्ति में संभावित असंतुलन की अनुमति देगा - इस प्रकार मांग बढ़ाते बढ़ाते हुए।
 
-Special thanks to [Ape Froman](https://medium.com/@portiadog) for the thoughtful writeup. Check out the full piece [here](https://medium.com/@portiadog/yfi-reborn-as-a-black-hole-db249b90ed5a).
+विचारशील लेखन के लिए [Ape Froman](https://medium.com/@portiadog) को विशेष धन्यवाद। पूरा अंश देखें [यहां](https://medium.com/@portiadog/yfi-reborn-as-a-black-hole-db249b90ed5a)।
 
-## Yearn Holiday Card NFT
+## यर्न हॉलिडे कार्ड NFT
 
 ![](image5.png)
 
-Get in on Project Galaxy's Holiday Treasure Hunt and grab this Yearn Holiday Card NFT, just for being a Yearn Newsletter subscriber.
+Project Galaxy के हॉलिडे ट्रेजर हंट में शामिल हों और इस यर्न हॉलिडे कार्ड NFT का लाभ उठाएं, सिर्फ एक यर्न न्यूजलेटर ग्राहक होने के लिए।
 
-Collect all 12 NFTs from Project Galaxy ecosystem partners and you'll get an additional Galaxy Girl NFT, which our friends at Project Galaxy will use to drop you future goodies. Probably nothing.
+Project Galaxy इकोसिस्टम पार्टनर्स से सभी १२ NFT एकत्र करें और आपको एक अतिरिक्त Galaxy गर्ल NFT मिलेगी, जिसका उपयोग Project Galaxy में हमारे मित्र आपको भविष्य की अच्छाइयों को छोड़ने के लिए करेंगे। शायद कुछ नहीं।
 
-Steps are as follows: subscribe to Yearn’s weekly [newsletter](https://yearn.substack.com/), confirm your (new or existing) subscription on this [Google form](https://forms.gle/gsVpRsjdSXxyaXha9), and claim your rewards [here](https://galaxy.eco/yearn/campaign/GCTj8UUaoD).
+चरण इस प्रकार हैं: यर्न के साप्ताहिक [न्यूज़लेटर](https://yearn.substack.com/) की सदस्यता लें, इस [Google फॉर्म](https://forms.gle/gsVpRsjdSXxyaXha9) पर अपनी (नई या मौजूदा) सदस्यता की पुष्टि करें, और अपने पुरस्कारों का दावा करें [यहां](https://galaxy.eco/yearn/campaign/GCTj8UUaoD)।
 
-Happy hunting and happy holidays from Yearn!
+यर्न से हैप्पी हंटिंग और हैप्पी छुट्टियाँ!
 
-## Vaults At Yearn
+## यर्न में तिजोरियाँ
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+आप हमारे सभी सक्रिय yVaults के लिए रणनीतियों का विस्तृत विवरण पढ़ सकते हैं [यहां](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)।
 
-## Ecosystem News
+## पारिस्थितिकी तंत्र समाचार
 
-[Check out Facu’s security chat with the Wido team who are building on top of Yearn](https://www.joinwido.com/blog/chat-with-facu-about-wido-together-and-its-security-model)
+[यर्न में तिजोरियाँ के शीर्ष पर निर्माण कर रही विडो टीम के साथ Facu की सुरक्षा चैट देखें](https://www.joinwido.com/blog/chat-with-facu-about-wido-together-and-its-security-model )
 
-[Deposit in Yearn with lower gas fees thanks to Argent’s L2 Wallet](https://twitter.com/argentHQ/status/1471503921851944983)
+[Argent के L2 वॉलेट की बदौलत कम गैस शुल्क के साथ यर्न में जमा करें](https://twitter.com/argentHQ/status/1471503921851944983)
 
-[See the YFI pendant made by loldefi](https://twitter.com/loldefi/status/1470449196939493383)
+[loldefi द्वारा बनाया गया YFI पेंडेंट देखें](https://twitter.com/loldefi/status/1470449196939493383)
 
-[$GEAR holders are eligible to vote on GIP-2 and GIP-3 to include YFI and Yearn contracts](https://twitter.com/GearboxProtocol/status/1472299963149426696?s=20)
+[$GEAR धारक YFI और यर्न अनुबंधों को शामिल करने के लिए GIP-2 और GIP-3 पर वोट करने के पात्र हैं](https://twitter.com/GearboxProtocol/status/1472299963149426696?s=20)
 
-[Anyone in the world can contribute to the Yearn experience](https://twitter.com/bantg/status/1472038972092207107?s=20)
+[दुनिया में कोई भी यर्न के अनुभव में योगदान कर सकता है](https://twitter.com/bantg/status/1472038972092207107?s=20)
 
-[Get insured on your Yearn deposits with solace.fi](https://twitter.com/SolaceFi/status/1471594979638321153?s=20)
+[solace.fi के साथ अपने यर्न जमापुंजी पर बीमा प्राप्त करें](https://twitter.com/SolaceFi/status/1471594979638321153?s=20)
