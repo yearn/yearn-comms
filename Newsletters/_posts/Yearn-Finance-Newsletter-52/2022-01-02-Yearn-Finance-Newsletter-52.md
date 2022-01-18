@@ -100,7 +100,7 @@ Bu konudaki örnekler, Yearn'in DeFi'deki genelleştirilmiş sorunları nasıl �
 
 [burada](https://twitter.com/Wot_Is_Goin_On/status/1477277152336916484) bulunabilecek harika konu için Wot_Is_Goin_On'a teşekkür ederiz.
 
-## Yearn Has Received a 1M FTM Grant From the Fantom Foundation
+## Yearn Fantom Foundation'dan 1M FTM Değerinde Hibe Aldı
 
 ![](image4.png)
 
@@ -110,11 +110,11 @@ Biz de harcamadık, %90'dan fazlası FTM vault'una bağışlandı. Diğer vault'
 
 Bu hibe, birçoğunun ilki, TVL hedeflerine ulaştıkça daha fazlasını almaya devam edeceğiz.
 
-## Vaults at Yearn
+## Yearn'daki Vault'lar
 
 Tüm aktif yVault'larımız için stratejilerin ayrıntılı bir açıklamasını [buradan](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) okuyabilirsiniz.
 
-## Ecosystem News
+## Ekosistem Haberleri
 
 [DeFi Saver'ın Yearn dahil yeni Akıllı Tasarruf panosuna göz atın](https://twitter.com/DeFiSaver/status/1476614075815809028?s=20)
 
