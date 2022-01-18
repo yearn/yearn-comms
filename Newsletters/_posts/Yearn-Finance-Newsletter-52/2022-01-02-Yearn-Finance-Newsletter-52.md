@@ -1,125 +1,123 @@
 ---
 layout: post
-title: "Yearn Finance Newsletter #52"
+title: "Ενημερωτικό Σημείωμα του Yearn Finance #52"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-52/image1.png
 author: Yearn
-translator:
-publish: false
+translator: Giosereth
+publish: true
 ---
 
-# Yearn Finance Newsletter #52
+# Ενημερωτικό Σημείωμα του Yearn Finance #52
 
-### Week Ending January 2nd, 2022
+### Για την εβδομάδα που τελειώνει στις 2 Ιανουαρίου, 2022
 
 ![](image1.png)
 
-Welcome to the 52th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Καλώς ήρθατε στην 52η έκδοση του ενημερωτικού δελτίου της Yearn Finance. Στόχος μας με αυτό το ενημερωτικό δελτίο είναι να ενημερώνουμε την κοινότητα του Yearn και την ευρύτερη κρύπτο-κοινότητα  για τα τελευταία νέα, συμπεριλαμβανομένων των νέων προϊόντων, των αλλαγών στη διακυβέρνηση και των ενημερώσεων του οικοσυστήματος. Αν ενδιαφέρεστε να μάθετε περισσότερα για το Yearn Finance,  ακολουθήστε τους επίσημους λογαριασμούς μας στο [Twitter](https://twitter.com/iearnfinance) και στο [Medium](https://medium.com/iearn) accounts.
 
-## Summary
+## Σύνοψη
 
-- YIP-65 Enters Voting
+-	Εγκρίθηκε η πρόταση YIP-65 
 
-- [Proposal] Mean - DCA Buyback Pilot Program
+- [Πρόταση] Πιλοτικό πρόγραμμα επαναγοράς
 
-- Reflecting on Yearn
+-	Αναστοχαζόμενοι το Yearn
 
-- Yearn Has Received a 1M FTM Grant From the Fantom Foundation
+- To Yearn έλαβε επιχορήγηση 1 εκατ. ευρώ από το Ίδρυμα του Fantom
 
-- Vaults at Yearn
+- Θησαυροφυλάκια στο Yearn
 
-- Ecosystem News
+-	Τα Νέα του Οικοσυστήματος
 
-## YIP-65 Enters Voting
+## Η πρόταση YIP-65 εισήχθη για ψηφοφορία
 
 ![](image2.png)
 
-In summary, YIP-65 seeks to evolve the role YFI plays in Yearn over four distinct phases, cementing the vision of the token as the fundamental foundation of governance.
+Συνοπτικά, η πρόταση YIP-65 επιδιώκει να εξελίξει το ρόλο που διαδραματίζει το YFI στο Yearn σε τέσσερις διακριτές φάσεις, εδραιώνοντας το όραμα του token ως το βασικό θεμέλιο της διακυβέρνησης του πρωτοκόλλου.
 
-This will be done by directing a portion of YFI that is bought back by the Treasury as a result of [BABY](https://yips.yearn.finance/YIPS/yip-56) as rewards to those YFI token holders who actively participate in Yearn Governance.
+Αυτό θα γίνει με την ανακατεύθυνση ενός μέρους του YFI που αγοράζεται πίσω από το Θησαυροφυλάκιο-ως αποτέλεσμα της πρωτοβουλίας [BABY](https://yips.yearn.finance/YIPS/yip-56) - ως ανταμοιβή σε εκείνους τους κατόχους του YFI token που συμμετέχουν ενεργά στη διακυβέρνηση του Yearn.
 
-Then, the role YFI plays in Yearn Governance will be evolved through four distinct components.
+Στη συνέχεια, ο ρόλος που θα διαδραματίζει το YFI στη διακυβέρνηση του Yearn θα εξελιχθεί μέσω τεσσάρων διακριτών συνιστωσών.
 
-1: xYFI. Distribute YFI that's been bought back with Treasury tokens as rewards in a YFI vault.
+1: xYFI. Διανομή του YFI που έχει εξαγοραστεί με token του θησαυροφυλακίου ως ανταμοιβές σε ένα θησαυροφυλάκιο YFI.
 
-2: Vote-locked YFI. Introduce ve-style locking of YFI (veYFI) for up to four years (exact max duration tbd), where a longer locking duration gives a greater share of voting power and share of YFI rewards. An early exit from the lock is possible by paying a penalty that is rewarded to the other locked token holders.
+2: Κλειδωμένα μετά από ψηφοφορία YFI. Εισάγετε το κλείδωμα του YFI (veYFI) για έως και τέσσερα χρόνια (η ακριβής μέγιστη διάρκεια θα ανακοινωθεί σύντομα), όπου η μεγαλύτερη διάρκεια κλειδώματος του token, δίνει μεγαλύτερο μερίδιο ψήφων και μερίδιού ανταμοιβών YFI. Δίνετε η δυνατότητα πρόωρης εξόδου μετά από την καταβολή μιας ποινής που θα διαμοιράζετε στους άλλους κατόχους κλειδωμένων token.
 
-3: Vault Gauges + Voting. Introduce vault gauges where vault depositors stake their vault tokens and earn YFI rewards according to their veYFI weight. YFI are allocated to gauges based on weekly governance votes.
+3: Θησαυροφυλάκια + ψηφοφορία. Εισάγονται θησαυροφυλάκια στα οποία οι καταθέτες μπορούν να κάνουν stake τα token θησαυροφυλακίου (vault tokens) τους και να κερδίζουν ανταμοιβές YFI ανάλογα με το μέγεθος της veYFI θέσης τους. Τα YFI token κατανέμονται στους στα θησαυροφυλάκια με βάση την εβδομαδιαία ψηφοφορία διακυβέρνησης.
 
-4: "Useful work" features. Expand the duties and responsibilities of veYFI voters, and their locked YFI, in exchange for earning additional protocol rewards. Pending the tbc v3 vault design.
+4: Χαρακτηριστικά "χρήσιμης εργασίας". Επεκτείνει τα καθήκοντα και τις ευθύνες των ψηφοφόρων veYFI καθώς και τα κλειδωμένα YFI τους, με αντάλλαγμα την απόκτηση πρόσθετων ανταμοιβών. Εν αναμονή του σχεδιασμού του θησαυροφυλακίου tbc v3.
 
-Next, a mandate will be given to Yearn Developers to roll out the above components at their discretion as and when they become feasible.
+Στη συνέχεια, θα δοθεί εντολή στους Developers του Yearn ώστε να αναπτύξουν τα παραπάνω στοιχεία κατά τη διακριτική τους ευχέρεια, εφόσον αυτά καταστούν εφικτά.
 
-Finally, the YFI eligible to vote in Yearn Governance will be restricted to only those staked in xYFI (from Phase 1 and onwards) or vote-locked in Yearn (from Phase 2 and onwards).
+Τέλος, τα YFI tokens που έχουν δικαίωμα ψήφου στη διακυβέρνηση του Yearn θα περιορίζονται μόνο σε αυτά που έχουν γίνει staked στο xYFI (από τη Φάση 1 και μετά) ή αυτά που είναι κλειδωμένα για ψήφοφορίες στο Yearn (από τη Φάση 2 και μετά).
 
-Read more about the proposed tokenomics upgrades and benefits [here](https://gov.yearn.finance/t/yip-65-evolving-yfi-tokenomics/11994) and vote on the snapshot [here](https://snapshot.org/#/ybaby.eth/proposal/0x8f7417fa5565d9f46e16618503e8808c36d51b2a9e8217a68c632d7c090d69d9).
+Διαβάστε περισσότερα σχετικά με τις προτεινόμενες αναβαθμίσεις στα tokenomics και τα οφέλη τους [εδώ](https://gov.yearn.finance/t/yip-65-evolving-yfi-tokenomics/11994) και ψηφίστε στο Snapshot [εδώ](https://snapshot.org/#/ybaby.eth/proposal/0x8f7417fa5565d9f46e16618503e8808c36d51b2a9e8217a68c632d7c090d69d9).
 
-Special thanks to authors: @0xJiji, @banteg, daryllautk, HAtTip3675, @onlylarping, @vany365, and @Wot_Is_Goin_On for creating this important proposal.
+Ειδικές ευχαριστίες προς τους συντάκτες: @0xJiji, @banteg, daryllautk, HAtTip3675, @onlylarping, @vany365 και @Wot_Is_Goin_On για τη δημιουργία αυτής της σημαντικής πρότασης.
 
-## [Proposal] Mean - DCA Buyback Pilot Program
+## [Πρότασηl] Πιλοτικό πρόγραμμα επαναγοράς DCA
 
 ![](image3.png)
 
-The objective of this pilot program is to provide a better understanding through example that DCAing is a better way to execute buy-backs within the treasury.
+Ο στόχος αυτού του πιλοτικού προγράμματος είναι να παράσχει καλύτερη κατανόηση γύρω από την τακτική DCAing και να δείξει ότι είναι ο καλύτερος τρόπος εκτέλεσης επαναγορών εντός του θησαυροφυλακίου.
 
-The Yearn team, on the basis that a Snapshot vote passes, will allocate $1M worth of ETH (249.376559 ETH @ $4010 per ETH) towards this buyback program and create a 30 days position YFI to ETH within Mean Finance at a rate of 8.31255197 ETH per day
+Η ομάδα του Yearn, στην περίπτωση που αυτό εγκριθεί στην ψηφοφορία στο Snapshot, θα διαθέσει ETH αξίας 1 εκατ. δολαρίων (249,376559 ETH @ 4010 $ ανά ETH) στο πρόγραμμα επαναγοράς και θα δημιουργήσει μια θέση 30 ημερών YFI σε ETH εντός του Mean Finance με επιτόκιο 8,31255197 ETH ανά ημέρα.
 
-The Mean team hopes to at least have some resounding effects within the community & leadership of the DAO.
+Η ομάδα Mean ελπίζει να έχει τουλάχιστον κάποια σημαντικά αποτελέσματα εντός της κοινότητας και της ηγεσίας του DAO.
 
-Read more about the proposal [here](https://gov.yearn.finance/t/proposal-mean-dca-buyback-pilot-program/12065).
+Διαβάστε περισσότερα για την πρόταση [εδώ](https://gov.yearn.finance/t/proposal-mean-dca-buyback-pilot-program/12065).
 
-## Reflecting on Yearn
+## Σκέψεις για το Yearn
 
-It’s 2022, time to re-analyze your DeFi bets. Here's a short overview of why Yearn is different.
+Το 2022 είναι εδώ, και είναι καιρός να επανεξετάσετε τα στοιχήματά σας στον τομέα της Αποκεντρωμένης Οικονομίας (DeFi). Ακολουθεί μια σύντομη επισκόπηση του γιατί το Yearn είναι διαφορετικό.
 
-Whilst Yearn is usually labeled as a “yield aggregator” this can lead to the idea that a team works on generating a yield. Even worse it's sometimes considered a simple CRV farmer. This is not a useful way to understand Yearn.
+Το Yearn χαρακτηρίζεται συνήθως ως "συγκεντρωτής αποδόσεων" (yield aggreagator), πράγμα που μπορεί να οδηγήσει στην εσφαλμένη ιδέα ότι μια ομάδα εργάζεται για τη δημιουργία αυτών των απόδοσεων. Ακόμη χειρότερα, μερικές φορές θεωρείται ότι το πρωτόκολλο είναι απλά ένας farmer του CRV. Αυτός δεν είναι ένας χρήσιμος τρόπος για να κατανοήσουμε το Yearn.
 
-There are currently significant constraints on yield generation such as a small pool of people who can build strategies, high gas fees limiting certain strategies, lack of battled-tested protocols to build strategies and a lack of ways to automate processes.
+Επί του παρόντος υπάρχουν σημαντικοί περιορισμοί στη δημιουργία αποδόσεων, όπως ο μικρός αριθμός ανθρώπων που μπορούν να δημιουργήσουν στρατηγικές, οι υψηλές χρεώσεις σε gas fees που περιορίζουν ορισμένες στρατηγικές, έλλειψη δοκιμασμένων πρωτοκόλλων πάνω στα οποία μπορούν να δημιουργηθούν στρατηγικές και έλλειψη τρόπων αυτοματοποίησης των διαδικασιών.
 
-Rather than wait for these constraints to ease (and they already are with more strategists being on-boarded, other chains and L2s with low fees), Yearn has been quietly building infrastructure to optimize the interaction between protocols, strategists and capital at scale.
+Αντί να περιμένουμε να αμβλυνθούν αυτοί οι περιορισμοί (και ήδη αμβλύνονται με την ένταξη περισσότερων στρατηγικών, άλλων αλυσίδων και L2 που έχουν χαμηλές χρεώσεις), το Yearn έχει δημιουργήσει αθόρυβα όλες τις απαραίτητες υποδομές για τη βελτιστοποίηση της αλληλεπίδρασης μεταξύ πρωτοκόλλων, στρατηγικών και κεφαλαίων σε κλίμακα.
 
-Yearn has been building the machine that builds the machine of yield aggregation (to paraphrase Mr. Musk), ready for a world of an ever-increasing number of tokens, complex protocols, chains, strategists, tooling and capital.
+Το Yearn κατασκευάζει τη μηχανή που δημιουργεί τη μηχανή συγκέντρωσης αποδόσεων (για να παραφράσουμε τον κ. Musk), έτοιμη για έναν κόσμο με ολοένα και μεγαλύτερο αριθμό tokens, πολύπλοκων πρωτοκόλλων, αλυσίδων, στρατηγικών, εργαλείων και κεφαλαίων.
 
-With $7bn of DeFi hacks in 2021 the primary focus has been on security. Most DeFi protocols limit financial risks by tweaking parameters (e.g. lending protocols reduce the loan-to-collateral value of riskier assets), and minimize technological risks by focusing on one thing (e.g. lending).
+Με 7 δισ. δολάρια χαμένα σε DeFi hacks το 2021, η πρωταρχική εστίασή μας ήταν η ασφάλεια. Τα περισσότερα πρωτόκολλα DeFi περιορίζουν τους χρηματοοικονομικούς κινδύνους με την προσαρμογή των παραμέτρων (π.χ. τα πρωτόκολλα δανεισμού μειώνουν την αξία του δανείου σε σχέση με την εγγύηση των πιο επικίνδυνων περιουσιακών στοιχείων) και ελαχιστοποιούν τους τεχνολογικούς κινδύνους εστιάζοντας σε ένα πράγμα (π.χ. δανεισμός).
 
-Yearn does DeFi the hard way as it combines multiple protocols and strategies within a single vault. Other protocols boast about the number of audits they've done. Yearn's yAcademy is training the next generation of auditors - helping speed up the approval of new strategies.
+Το Yearn συμμετέχει στην Αποκεντωμένη Οικονομία (DeFi) με τον δύσκολο τρόπο, καθώς συνδυάζει πολλαπλά πρωτόκολλα και στρατηγικές μέσα σε ένα ενιαίο θησαυροφυλάκιο. Άλλα πρωτόκολλα καυχιούνται για τον αριθμό των ελέγχων που έχουν κάνει. Η yAcademy της Yearn εκπαιδεύει την επόμενη γενιά ελεγκτών έξυπνων συμβολαίων - συμβάλλοντας στην επιτάχυνση της έγκρισης νέων στρατηγικών.
 
-After security comes capital efficiency – figuring out how a vault should be split across lending protocols, LPs, leveraged farm opportunities and other strategies to optimize the risk-adjusted returns. And then trying to automate it.
+Μετά την ασφάλεια έρχεται η αποδοτικότητα του κεφαλαίου - ο υπολογισμός του τρόπου με τον οποίο ένα θησαυροφυλάκιο πρέπει να μοιράζεται σε πρωτόκολλα δανεισμού, LPs, ευκαιρίες μοχλευμένου farming και άλλες στρατηγικές για τη βελτιστοποίηση των αποδόσεων, πάντα προσαρμοσμένων στον κίνδυνο. Και στη συνέχεια προσπαθεί να αυτοματοποιήσει αυτή τη διαδικασία.
 
-Part of the reason behind YFI's "fair launch" was the realization that producing a high risk-adjusted yield for the trillions of dollars sitting in TradFi would be too much work for one team. The YFI boarding school is now training first-time strategists.
+Μέρος του λόγου πίσω από το "fair launch" του token YFI ήταν η συνειδητοποίηση ότι η παραγωγή υψηλής προσαρμοσμένης στον κίνδυνο απόδοσης για τα τρισεκατομμύρια δολάρια που βρίσκονται στο TradFi θα ήταν εξαιρετικά πολύ δουλειά για μία ομάδα. Το σχολείο του YFI εκπαιδεύει τώρα αρχάριους έτσι ώστε σύντομα να μπορούν να δημιουργούν στρατηγικές.
 
-Scalability requires reducing manual processes - buybacks, harvests, changing the strategy weightings, hedging after price movements. It's no coincidence Andre created
+Η επεκτασιμότητα του πρωτοκόλλου απαιτεί τη μείωση των χειροκίνητων διαδικασιών - επαναγορές, συγκομιδές, αλλαγή των σταθμίσεων σε μια στρατηγική, αντιστάθμιση μετά από κινήσεις τιμών. Δεν είναι τυχαίο ότι ο Andre δημιούργησε το Keep3r. Έχουμε ακόμα και μια ομάδα ανάλυσης δεδομένων που εργάζεται για τη βελτιστοποίηση της διαδικασίας εύρεσης της στιγμής, στην οποία πρέπει να γίνονται επαναγορές.
 
-Keep3r. There's even a data analysis group working on the optimal time to do buybacks.
+Συντονισμός με αποκέντρωση - πώς χτίζετε ένα σύστημα που δίνει κίνητρα σε ανθρώπους που δεν έχουν βρεθεί ποτέ από κοντά, να τα κάνουν όλα τα παραπάνω; Το Coordinape βοηθάει - ένα εργαλείο του οποίου η προέλευση ανάγεται σε μια ομάδα του Yearn που αντιμετώπισε για πρώτη φορά αυτό το πρόβλημα - χρησιμοποιείται πλέον από αμέτρητα DAO.
 
-Coordination with decentralization – how do you build a system that incentivizes people who’ve never met to make all this happen? Coordinape helps - a tool whose origins go back to a Yearn group that first ran into the problem - is now being used by countless DAOs.
+Κάθε νέο πρωτόκολλο DeFi δημιουργεί μια πιθανή ευκαιρία για έναν στρατηγικό αναλυτή. Η νέα στρατηγική βελτιώνει την προσαρμοσμένη στον κίνδυνο απόδοση για τα θησαυροφυλάκια, γεγονός που δίνει κίνητρα να εισρεύσουν περισσότερα κεφάλαια, οδηγώντας σε περισσότερες αμοιβές που μπορούν να χρησιμοποιηθούν στην κατασκευή αυτής της τεράστιών διαστάσεων πλατφόρμας.
 
-Each new DeFi protocol creates a potential opportunity for a strategist. The new strategy improves the risk-adjusted yield for the vaults which incentivizes more capital, leading to more fees which can be used to build this beast of a platform.
+Τα παραδείγματα που παρουσιάστηκαν παραπάνω δείχνουν πώς η Yearn προσπαθεί να λύσει τα γενικευμένα προβλήματα στον τομέα της Αποκεντρωμένης Οικονομίας (DeFi). Ο όρος "πρωτόκολλο DeFi" δεν φαίνεται να δικαιώνει αυτό που χτίζουμε, ίσως το Yearn θα μπορούσε να περιγραφεί καλύτερα ως ένα fintech DAO.
 
-The examples in this thread show how Yearn is attempting to solve the generalized problems in DeFi. The term "DeFi protocol" doesn't seem to do it justice, maybe Yearn could be better described as a fintech DAO.
+Ευχαριστούμε τον Wot_Is_Goin_On για το καταπληκτικό twitter thread που μπορείτε να βρείτε [εδώ](https://twitter.com/Wot_Is_Goin_On/status/1477277152336916484).
 
-Thank you to Wot_Is_Goin_On for the amazing thread that can be found [here](https://twitter.com/Wot_Is_Goin_On/status/1477277152336916484).
-
-## Yearn Has Received a 1M FTM Grant From the Fantom Foundation
+## To Yearn έλαβε επιχορήγηση ύψους 1 εκατ. FTM από το Ίδρυμα Fantom
 
 ![](image4.png)
 
-Yearn has received a 1M FTM grant from the Fantom Foundation.
+Το Yearn έλαβε μια επιχορήγηση 1 εκατομμυρίου FTM από το Fantom Foundation. 
 
-We didn't dump, over 90% was donated to the FTM vault. Other vaults got a proportional donation for an immediate 1% increase in value.
+Δεν τα πωλήσαμε, πάνω από το 90% δωρίσθηκε στο θησαυροφυλάκιο FTM. Διάφορα άλλα θησαυροφυλάκια έλαβαν μια ανάλογη δωρεά που άμεση αύξησε την αξία τους κατά 1%.
 
-This grant is the first of many, we will continue receiving more as we hit TVL goals.
+Αυτή η επιχορήγηση είναι η πρώτη από τις πολλές που έπονται, θα συνεχίσουμε να λαμβάνουμε περισσότερες καθώς πετυχαίνουμε τους στόχους σχετικά με το TVL.
 
-## Vaults At Yearn
+## Θησαυροφυλάκια στο Yearn
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Μπορείτε να διαβάσετε μια λεπτομερή περιγραφή των στρατηγικών για όλα τα ενεργά yVaults μας [εδώ](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-## Ecosystem News
+## Τα Νέα του Οικοσυστήματος 
 
-[Check out DeFi Saver’s new Smart Savings dashboard including Yearn](https://twitter.com/DeFiSaver/status/1476614075815809028?s=20)
+[Δείτε το νέο ταμπλό έξυπνων αποταμιεύσεων της DeFi Saver που περιλαμβάνει το Yearn](https://twitter.com/DeFiSaver/status/1476614075815809028?s=20)
 
-[See the 2021 Yearn contributor hoodie made by loldefi](https://twitter.com/loldefi/status/1477062572595884032)
+[Δείτε το hoodie του 2021, φτειαγμένο για τους συνεργάτες του Yearn από τον loldefi](https://twitter.com/loldefi/status/1477062572595884032)
 
-[Yearn continues to buyback yvBOOST](https://twitter.com/wavey0x/status/1474946151006842884)
+[Το Yearn συνεχίζει να επαναγοράζει το yvBOOST](https://twitter.com/wavey0x/status/1474946151006842884)
 
-[Read an analysis on $CRV bribes including yvBOOST](https://twitter.com/0xSEM/status/1475284063204388867)
+[Διαβάστε μια ανάλυση για τις ανταμοιβές του $CRV που περιλαμβάνουν το yvBOOST](https://twitter.com/0xSEM/status/1475284063204388867)
