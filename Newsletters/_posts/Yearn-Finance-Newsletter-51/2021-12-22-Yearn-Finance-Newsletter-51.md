@@ -4,7 +4,7 @@ title: "यर्न फाइनेंस समाचार पत्र #५�
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-51/image1.png
 author: Yearn
-translator:Major-Rager
+translator: Major-Rager
 publish: true
 ---
 
