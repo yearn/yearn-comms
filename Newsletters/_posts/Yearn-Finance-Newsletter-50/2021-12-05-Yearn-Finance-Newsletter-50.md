@@ -4,8 +4,8 @@ title:  "Yearn Finance Newsletter #50"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-50/image1.png
 author: Yearn
-translator: giosereth
-publish: false
+translator: Giosereth
+publish: true
 ---
 
 # Ενημερωτικό Σημείωμα του Yearn Finance #50
@@ -107,8 +107,7 @@ YIP-64: Προσαρμογή των τελών στα yVaults για τα νομ
 
 [Το Tesseract εισέρχεται στα πέντε ταχύτερα αναπτυσσόμενα πρωτόκολλα στο Polygon](https://twitter.com/marketducky/status/1461734313636945926?s=21)
 
-[Παρακολουθήστε το βίντεο, Εισαγωγής στο Coordinape] 
-(https://twitter.com/coordinape/status/1460591450413015043?s=21)
+[Παρακολουθήστε το βίντεο, Εισαγωγής στο Coordinape](https://twitter.com/coordinape/status/1460591450413015043?s=21)
 
 [Δείτε το Yearn στο L2 πορτοφόλι του Argent με χρεώσεις που ανέρχονται μόλις στα 2 δολάρια](https://twitter.com/argentHQ/status/1468934923264401419)
 
