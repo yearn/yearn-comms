@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bản tin Yearn.Finance Số #51"
-categories: [ Newsletters ]
+categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-51/image1.png
 author: Yearn
 translator: 🤖💵💵💰💰.eth
