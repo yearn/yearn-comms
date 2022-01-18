@@ -4,8 +4,8 @@ title: "Yearn Finance Newsletter #51"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-51/image1.png
 author: Yearn
-translator: giosereth
-publish: false
+translator: Giosereth
+publish: true
 ---
 
 # Ενημερωτικό Σημείωμα του Yearn Finance #51
