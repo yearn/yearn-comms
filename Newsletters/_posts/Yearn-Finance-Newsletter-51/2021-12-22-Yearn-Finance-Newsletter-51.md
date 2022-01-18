@@ -4,96 +4,97 @@ title: "Yearn Finance Newsletter #51"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-51/image1.png
 author: Yearn
-translator:
-publish: false
+translator: Giosereth
+publish: true
 ---
 
-# Yearn Finance Newsletter #51
+# Ενημερωτικό Σημείωμα του Yearn Finance #51
 
-### Week Ending December 19th, 2021
+### Για την εβδομάδα που τελειώνει στις 19 Δεκεμβρίου, 2021
 
 ![](image1.png)
 
-Welcome to the 51th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Καλώς ήρθατε στην 51η έκδοση του ενημερωτικού δελτίου τoυ Yearn Finance. Στόχος μας με αυτό το ενημερωτικό δελτίο είναι να ενημερώνουμε την κοινότητα του Yearn και την ευρύτερη κρύπτο-κοινότητα  για τα τελευταία νέα, συμπεριλαμβανομένων των νέων προϊόντων, των αλλαγών στη διακυβέρνηση και των ενημερώσεων του οικοσυστήματος. Αν ενδιαφέρεστε να μάθετε περισσότερα για το Yearn Finance, ακολουθήστε τους επίσημους λογαριασμούς μας στο [Twitter](https://twitter.com/iearnfinance) και στο [Medium](https://medium.com/iearn) accounts.
 
-## Summary
+## Σύνοψη
 
-- YFI Tokenomics Poll Finalized
-- Yearn Has Purchased $7.5M of YFI
-- Proposal: Evolving YFI’s Tokenomics
-- Report: Reborn As A Black Hole
-- Yearn Holiday Card NFT
-- Vaults at Yearn
-- Ecosystem News
+- Οριστικοποιήθηκε η ψηφοφορία για τα Tokenomics του YFI
+- Το Yearn αγόρασε $7.5M YFI
+- Πρόταση: Εξελίσσοντας τα Tokenomics του YFI
+- Αναφορά: Αναγεννημένοι ως μια Μαύρη Τρύπα
+- Ετήσιο εορταστικό NFT
+- Θησαυροφυλάκια στο Yearn
+- Τα Νέα του Οικοσύστηματος
 
-## YFI Tokenomics Poll Finalized
 
-The YFI tokenomics poll has ended with xYFI as the leading option. xYFI suggests the creation of a YFI staking vault where excess treasury earnings are to be sent.
+## Οριστικοποιήθηκε η ψηφοφορία για τα Tokenomics του YFI
+Η ψηφοφορία για τα tokenomics του YFI ολοκληρώθηκε με την πρόταση xYFI να είναι η επικρατέστερη επιλογή. Η πρόταση xYFI προτείνει τη δημιουργία ενός θησαυροφυλακίου για το YFI όπου θα αποστέλλονται τα πλεονάζοντα κέρδη του ταμείου.
 
-Huge thanks to [Fin4Dao](https://twitter.com/Fin4Dao) for all the facilitation work. Check out the snapshot [here](https://snapshot.org/#/ybaby.eth/proposal/0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea).
+Τεράστιες ευχαριστίες στον [Fin4Dao](https://twitter.com/Fin4Dao)για το συντονισμό της διαδικασίας. Δείτε την ψηφοφορία [εδώ](https://snapshot.org/#/ybaby.eth/proposal/0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea).
 
-## Yearn Has Purchased $7.5M of YFI
+## Το Yearn αγόρασε $7.5M YFI
 
 ![](image2.png)
 
-Yearn has purchased $7,526,343 worth of YFI from the open market. We got 282.4 YFI (0.77% of total supply) at an average price of $26,651. More YFI has been bought back in the past month than in the prior year.
+Το Yearn έχει αγοράσει YFI συνολικής αξίας $7.526.343 δολαρίων από την ελεύθερη αγορά. Αγοράσαμε 282,4 YFI (το 0,77% της συνολικής προσφοράς) με μέση τιμή τα $26.651 δολάρια. Τον τελευταίο μήνα αγοράστηκαν περισσότερα YFI από ό,τι το προηγούμενο έτος.
 
-Now that the Treasury has more than $45 million saved up and with earnings stronger than ever, expect much more aggressive buybacks. What will you do anon?
+Τώρα που το Θησαυροφυλάκιο έχει αποταμιεύσει περισσότερα από $45 εκατομμύρια δολάρια και με τα κέρδη ισχυρότερα από ποτέ, να αναμένετε πολύ πιο επιθετικές επαναγορές. Τι θα κάνετε εσείς στην θέση μας;
 
-We have also been purchasing back a significant amount of yvBOOST in order to restore the peg. Transactions can be found here: [https://etherscan.io/token/0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a?a=0x7d2aB9CA511EBD6F03971Fb417d3492aA82513f0](https://etherscan.io/token/0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a?a=0x7d2aB9CA511EBD6F03971Fb417d3492aA82513f0)
+Προχωρήσαμε επίσης στην επαναγορά μια σημαντικής ποσότητας yvBOOST προκειμένου να αποκαταστήσουμε το peg. Οι συναλλαγές μπορούν να βρεθούν εδώ: [https://etherscan.io/token/0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a?a=0x7d2aB9CA511EBD6F03971Fb417d3492aA82513f0](https://etherscan.io/token/0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a?a=0x7d2aB9CA511EBD6F03971Fb417d3492aA82513f0)
 
-## Proposal: Evolving YFI’s Tokenomics
+## Πρόταση: Εξελίσσοντας τα Tokenomics του YFI
 
 ![](image3.png)
 
-Step 1 is xYFI, where one stakes in the xYFI vault, earning back YFI from the treasury.
+Στο 1ο βήμα είναι το xYFI, όπου κάποιος μπορεί να το κάνει stake στο θησαυροφυλάκιο xYFI, κερδίζοντας σε αντάλλαγμα YFI από αυτό.
 
-Step 2 is veYFI, where one vote-locks YFI, with decay and time extension. Max-lock and earn disproportionate rewards compared to those who lock for shorter duration. Early exit any time but pay a penalty to the other stakers.
+Στο 2ο βήμα είναι το veYFI, όπου κάποιος μετά από ψηφοφορία κλειδώνει το YFI, με φθορά και χρονική παράταση. ‘Οσοι επιλέγουν την επιλογή, μέγιστο-κλείδωμα κερδίζουν δυσανάλογες ανταμοιβές σε σύγκριση με εκείνους που κλειδώνουν τα token τους για μικρότερη διάρκεια. Δίνετε δυνατότητα πρόωρης εξόδου ανά πάσα στιγμή, αλλά για να κάνει κανείς χρήση της δυνατότητας πληρώνει ποινή στους άλλους stakers.
 
-Step 3 is Vault gauges, where one stakes their yVault token in a gauge, earning YFI rewards, boosted by how much veYFI they have staked. Vote on which vaults should get allocated rewards. Pay a penalty to other stakers if you don't have a strong enough lock.
+Στο 3ο βήμα βρίσκονται τα Vault gauges, όπου κάποιος μπορεί να κάνει stake το yVault token του σε ένα gauge, κερδίζοντας ανταμοιβές YFI, οι οποίες αυξάνονται ανάλογα με το πόσα veYFI έχει κάνει stake. Ψηφίστε για το ποια θησαυροφυλάκια θα λάβουν τις ανταμοιβές. Πληρώστε ποινή σε άλλους staker αν δεν έχετε κλειδώσει αρκετό κεφάλαιο.
 
-Step 4 is useful work, in which veYFI holders earn additional rewards by doing useful work. This is is pending the final form of the vaults v3 design. Things that it could be (but not limited to) includes configuring vault parameters, setting fees, providing insurance.
+Στο 4ο βήμα βρίσκετε η χρήσιμη εργασία, κατά την οποία οι κάτοχοι veYFI κερδίζουν πρόσθετες ανταμοιβές κάνοντας χρήσιμες εργασίες. Αυτό είναι εν αναμονή της τελικής μορφής του σχεδίου για τα θησαυροφυλάκια στο v3. Μορφές που θα μπορούσε να πάρει αυτό το 4ο βήμα (αλλά δεν περιορίζονται σε αυτές) περιλαμβάνουν τη διαμόρφωση των παραμέτρων του θησαυροφυλακίου, τον καθορισμό τελών, την παροχή ασφάλισης.
 
-The proposal asks that the mandate is given to developers to implement these high level designs at their discretion. Once rolled out, only xYFI and later veYFI would be eligible to vote in Yearn Governance.
+Η πρόταση ζητά να δοθεί η εντολή στους προγραμματιστές να εφαρμόσουν αυτά τα σχέδια υψηλού επιπέδου κατά τη διακριτική τους ευχέρεια. Μόλις εφαρμοστεί, μόνο το xYFI και αργότερα το veYFI θα έχουν δικαίωμα ψήφου στη διακυβέρνηση του Yearn.
 
-What will the rewards be, you ask? The treasury is buying back more YFI than ever, and expect to be able to direct $35-45m to buybacks per year. At a YFI price of $30k, that's 100 YFI/month.
+Ρωτάτε, ποιες θα είναι οι ανταμοιβές; Το Θησαυροφυλάκιο, αγοράζει περισσότερα YFI από ποτέ και αναμένετε ότι θα μπορεί να κατευθύνει $35-45 εκατ. δολάρια ετησίως σε επαναγορές. Σε μια μέση τιμή του YFI στα 30 χιλιάδες δολαρία, αυτό σημαίνει 100 YFI/μήνα.
 
-Read all the details in the proposal [here](https://gov.yearn.finance/t/proposal-evolving-yfi-tokenomics/11994), get involved, and let us know what you think. A big shout out to all the participants on the forum, Discord, and Telegram chats who helped shape the form of this proposal over the past two months.
+Διαβάστε όλες τις λεπτομέρειες της πρότασης [εδώ](https://gov.yearn.finance/t/proposal-evolving-yfi-tokenomics/11994), συμμετέχετε και πείτε μας τη γνώμη σας. Ένα μεγάλο μπράβο σε όλους τους συμμετέχοντες στο φόρουμ, στο Discord και στο Telegram που βοήθησαν στη διαμόρφωση της τελικής μορφής αυτής της πρότασης τους τελευταίους δύο μήνες.
 
-## Report: Reborn As A Black Hole
+## Αναφορά: Αναγεννημένοι ως μια Μαύρη Τρύπα
 
 ![](image4.png)
 
-Ape Froman has recently published a report detailing a comprehensive overview of Yearn, and he details the recent tokenomics troubles at Yearn, potential fixes, and further integrations of the YFI token into the greater DeFi ecosystem. This will allow better value capture for holders and allow for a potential imbalance in the circulating supply of YFI - thus driving demand.
+Ο Ape Froman δημοσίευσε πρόσφατα μια έκθεση που προσφέρει μια ολοκληρωμένη επισκόπηση του Yearn και περιγράφει λεπτομερώς τα πρόσφατα προβλήματα στα tokenomics του Yearn, τις πιθανές διορθώσεις και τις περαιτέρω ενσωματώσεις του token YFI στο ευρύτερο οικοσύστημα της Αποκεντρωμένης Οικονομίας (DeFi). Αυτό θα επιτρέψει την καλύτερη αποτύπωση της αξίας του token για τους κατόχους του καθώς και μια πιθανή ανισορροπία στην κυκλοφορούσα προσφορά του YFI - αυξάνοντας έτσι τη ζήτησή του.
 
-Special thanks to [Ape Froman](https://medium.com/@portiadog) for the thoughtful writeup. Check out the full piece [here](https://medium.com/@portiadog/yfi-reborn-as-a-black-hole-db249b90ed5a).
+Ιδιαίτερες ευχαριστίες στον  [Ape Froman](https://medium.com/@portiadog) για το προσεγμένο κείμενο. Διαβάστε ολόκληρο το άρθρο [εδώ](https://medium.com/@portiadog/yfi-reborn-as-a-black-hole-db249b90ed5a).
 
-## Yearn Holiday Card NFT
+## Ετήσιο Εορταστικό NFT
 
 ![](image5.png)
 
-Get in on Project Galaxy's Holiday Treasure Hunt and grab this Yearn Holiday Card NFT, just for being a Yearn Newsletter subscriber.
+Πάρτε μέρος στο Εορταστικό Κυνήγι Θησαυρού του Project Galaxy και κερδίστε αυτή την Εορταστική Κάρτα Yearn NFT, μόνο και μόνο επειδή είστε συνδρομητής του Ενημερωτικού Δελτίου του Yearn.
 
-Collect all 12 NFTs from Project Galaxy ecosystem partners and you'll get an additional Galaxy Girl NFT, which our friends at Project Galaxy will use to drop you future goodies. Probably nothing.
+Συλλέξτε και τα 12 NFTs από τους συνεργάτες του οικοσυστήματος Project Galaxy και θα λάβετε ένα επιπλέον Galaxy Girl NFT, το οποίο οι φίλοι μας στο Project Galaxy θα χρησιμοποιήσουν για να σας δώσουν μελλοντικά καλούδια.
 
-Steps are as follows: subscribe to Yearn’s weekly [newsletter](https://yearn.substack.com/), confirm your (new or existing) subscription on this [Google form](https://forms.gle/gsVpRsjdSXxyaXha9), and claim your rewards [here](https://galaxy.eco/yearn/campaign/GCTj8UUaoD).
 
-Happy hunting and happy holidays from Yearn!
+Τα βήματα έχουν ως εξής: εγγραφείτε στο εβδομαδιαίο [ενημερωτικό δελτίο](https://yearn.substack.com/) του Yearn, επιβεβαιώστε τη συνδρομή σας (νέα ή υπάρχουσα) σε αυτή τη [φόρμα](https://forms.gle/gsVpRsjdSXxyaXha9), και διεκδικήστε τις ανταμοιβές σας [εδώ](https://galaxy.eco/yearn/campaign/GCTj8UUaoD).
 
-## Vaults At Yearn
+Καλό κυνήγι και καλές γιορτές από το Yearn!
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+## Θησαυροφυλάκια στο Yearn
 
-## Ecosystem News
+Μπορείτε να διαβάσετε μια λεπτομερή περιγραφή των στρατηγικών για όλα τα ενεργά yVaults μας [εδώ](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-[Check out Facu’s security chat with the Wido team who are building on top of Yearn](https://www.joinwido.com/blog/chat-with-facu-about-wido-together-and-its-security-model)
+## Τα Νέα του Οικοσυστήματος
 
-[Deposit in Yearn with lower gas fees thanks to Argent’s L2 Wallet](https://twitter.com/argentHQ/status/1471503921851944983)
+[Δείτε τη συνομιλία σχετικά με τις ορθές πρακτικές ασφαλείας του Facu με την ομάδα του Wido, που χτίζει πάνω στο Yearn](https://www.joinwido.com/blog/chat-with-facu-about-wido-together-and-its-security-model)
 
-[See the YFI pendant made by loldefi](https://twitter.com/loldefi/status/1470449196939493383)
+[Καταθέστε στο Yearn με χαμηλότερα τέλη (gas fees) χάρη στο πορτοφόλι L2 τoυ Argent](https://twitter.com/argentHQ/status/1471503921851944983)
 
-[$GEAR holders are eligible to vote on GIP-2 and GIP-3 to include YFI and Yearn contracts](https://twitter.com/GearboxProtocol/status/1472299963149426696?s=20)
+[Δείτε το YFI μενταγιόν που έφτιαξε ο loldefi](https://twitter.com/loldefi/status/1470449196939493383)
 
-[Anyone in the world can contribute to the Yearn experience](https://twitter.com/bantg/status/1472038972092207107?s=20)
+[Οι κάτοχοι του token $GEAR έχουν δικαίωμα ψήφου για τις προτάσεις GIP-2 και GIP-3 για τη συμπερίληψη συμβολαίων του YFI και του Yearn](https://twitter.com/GearboxProtocol/status/1472299963149426696?s=20)
 
-[Get insured on your Yearn deposits with solace.fi](https://twitter.com/SolaceFi/status/1471594979638321153?s=20)
+[Οποιοσδήποτε στον κόσμο μπορεί να συνεισφέρει στην βελτίωση της εμπειρίας του Yearn](https://twitter.com/bantg/status/1472038972092207107?s=20)
+
+[Ασφαλιστείτε στις καταθέσεις σας στο Yearn με το solace.fi](https://twitter.com/SolaceFi/status/1471594979638321153?s=20)
