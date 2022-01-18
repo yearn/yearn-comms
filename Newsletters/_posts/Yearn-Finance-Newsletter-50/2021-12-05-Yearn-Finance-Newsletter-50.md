@@ -1,114 +1,122 @@
 ---
 layout: post
-title:  "Yearn Finance Newsletter #50"
+title:  "Bản tin Yearn.Finance Số #50"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-50/image1.png
 author: Yearn
-translator:
-publish: false
+translator: 🤖💵💵💰💰.eth
+publish: true
 ---
 
-# Yearn Finance Newsletter #50
+# Bản tin Yearn.Finance Số #50
 
-### Week Ending December 5th, 2021
+### Tuần Kết thúc Ngày 05/12/2021
 
 ![](image1.png)
 
-Welcome to the 50th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Chào mừng các bạn đến với Bản tin Yearn.Finance Số #50. Chúng tôi hy vọng sẽ truyền tải được những dữ kiện mới nhất cho cộng đồng tiền mã thuật số (`crypto`) nói chung lẫn cộng đồng Yearn nói riêng; từ phát hành sản phẩm, thay đổi trong quản trị đến nhiều dự án đối tác trực thuộc hệ sinh thái Yearn. Nếu quan tâm và muốn biết thêm chi tiết về Yearn.Finance, hãy theo dõi tài khoản [Twitter](https://twitter.com/iearnfinance), [Medium](https://medium.com/iearn) cũng như [blog Tiếng Việt](https://vietnamese.blog.yearn.finance/) chính thức của chúng tôi.
 
-## Summary
+## Tóm tắt
 
--   New Yearn UI
--   YFI Tokenomics Update Proposal
--   Updated Yearn Docs
--   YIP-64 Fails To Meet Quorum
--   Yearn Delegates 23M veCRV to Convex
--   Yearn Snapshot Strategy
--   Vaults at Yearn
--   Ecosystem News
+- Giao diện mới cho Người dùng của Yearn
 
-## New Yearn UI
+- Đề xuất Cập nhật Mô hình Kinh tế YFI
+
+- Cập nhật Tư liệu Yearn
+
+- YIP-64 Không Đáp ứng được Túc số
+
+- Yearn Giao phó 23&nbsp;Triệu veCRV cho Convex
+
+- Chiến lược với Snapshot của Yearn
+
+- Các Kho bạc (`Vault`) tại Yearn
+
+- Tin tức trong Hệ Sinh thái
+
+
+## Giao diện mới cho Người dùng của Yearn
 
 ![](image2.png)
 
-We’ve rebuilt [yearn.finance](https://yearn.finance/) from scratch with tons of feedback from our community. It's live now, so take it for a spin. 
+Chúng tôi đã tái thiết kế [yearn.finance](https://yearn.finance/) từ gốc tới ngọn nhờ hàng ngàn góp ý quý giá của cộng đồng. Ứng dụng với trang web mới đã chính thức phát hành, thậm chí sắp có cả phiên bản Việt hóa hoàn chỉnh. 
 
-One of the most interesting features (in our opinion) is the Simulations feature. To deposit into vaults in previous UI versions we added Zapper support so, for example, you can deposit into 3CRV vault with ETH or any token supported by Zapper, which is fast and convenient and implies that a swap will happen in your deposit. What is that "Simulating.." message you may ask? Well that "Simulating..." label checks your input tokens and with Zapper's API and Tenderly, an awesome service that eagerly executes a simulation of your transaction.This simulation calculates what the exact output would be, like a preview of your deposit. e.g ETH>3crv. 
+Một trong những điều thú vị nhất (theo chúng tôi) là tính năng Mô phỏng. Khi ký gửi vào các kho bạc (`vault`) ở những phiên bản UI trước, chúng tôi đã hỗ trợ Zapper để giúp bạn, chẳng hạn như, ký gửi vào kho bạc 3CRV bằng cách dùng ETH hoặc bất cứ tôken nào khác mà Zapper chấp nhận. Điều này vừa nhanh, vừa tiện nhưng rõ ràng có công đoạn bán-đổi (`swap`) xảy ra trong quá trình ký gửi của bạn. Vậy dòng chữ "Đang mô phỏng..." kia nghĩa là? Vâng, đoạn đó nghĩa là hệ thống đang kiểm tra tôken đầu vào với API (`Giao diện Lập trình Ứng dụng`) của Zapper và Tenderly, một dịch vụ tuyệt vời đem lại khả năng mô phỏng giao dịch cho người dùng. Nó tính toán chính xác kết quả đầu ra, như một dạng xem trước tương lai đối với tác vụ ký gửi mà bạn định thực hiện. Ví dụ: ETH>3crv. 
 
-Why is this useful and great? Well, given the protocols involved and on-chain state being dynamic, it's hard to predict a good estimate of vault tokens you can receive. Your slippage may be bigger than expected, or your token path may fail and cost you gas, etc. This simulation may save you gas either on deposit or withdrawals.
+Tại sao điều này lại hữu ích và tuyệt vời? Về mặt kỹ thuật, do giao thức chúng tôi tương tác với trạng thái bộ nhớ trực-chuỗi (`on-chain state`), và bộ nhớ này thay đổi liên tục khiến việc ước tính lượng tôken kho bạc mà bạn sắp nhận về không phải dễ. Độ trượt giá mà bạn phải chịu có thể lớn hơn dự kiến, hoặc đường đi của tôken bất ngờ thất bại làm tiêu tốn phí gas, v.v... Tính năng mô phỏng mới sẽ giúp tiết kiệm phí gas cả khi ký gửi lẫn lúc rút.
 
-Withdrawals are another area that is hard to predict. Simulations help check if you can withdraw given the vault conditions, some are more liquid than others depending on strategies allocations.
+Nhân tiện, rút ra cũng là một tác vụ khó dự đoán. Trình mô phỏng giúp kiểm tra xem bạn có thể rút được trơn tru với tình trạng hiện tại của kho bạc (`vault`) hay không. Một số kho có thanh khoản cao hơn, tùy theo việc phân bổ của các chiến lược.
 
-If you get a "Simulation Failed.." msg, odds are that if you move forward with the transaction it will revert.
+Nếu thấy thông báo "Mô phỏng Thất bại...", nhiều khả năng giao dịch sẽ không thể thực hiện được (hoàn nguyên trạng thái) nếu bạn vẫn quyết định làm tới.
 
-The v3 UI is new so more work is being done to improve this UX to be even more smooth.
+Tất nhiên, giao diện UI v3 vẫn còn mới nên nhiều công tác cải thiện tiếp tục diễn ra để giúp trải nghiệm người dùng tuyệt vời hơn nữa.
 
-Look under the hood [here](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f). If you’re a developer, contribute [here](https://github.com/yearn/yearn-finance-v3).
+Kiểm tra ngay nền tảng kỹ thuật đó [tại đây](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f). Nếu biết lập trình, hãy hợp sức đóng góp với chúng tôi [ở liên kết này](https://github.com/yearn/yearn-finance-v3).
 
-## YFI Tokenomics Update Proposal
+## Đề xuất Cập nhật Mô hình Kinh tế YFI
 
-A snapshot poll is live to gauge support for community proposals on YFI tokenomics.
+Một cuộc biểu quyết qua ứng dụng Snapshot đang diễn ra để trực tiếp thăm dò sự ủng hộ đối với các đề xuất về mô hình kinh tế YFI từ cộng đồng.
 
-There are currently 5 options up for vote, with the working names being ySplit, veYFI, xYFI, BurnKeYs, and Status Quo. The [ySplit proposal](https://docs.google.com/document/d/1dAWTkS_ZsXNy7mKKjOFUjILSlLsLz9KhGfLrwVu0GUg/edit) suggests splitting the YFI token into 10,000 to 1,000,000 to combat unit bias. The [veYFI proposal](https://docs.google.com/document/d/1hoi-IVccOB6iUJYzuApVbyjbQBx8-M0UuzZosb9wlWM/edit) suggests locking YFI for a given period of time in order to receive governance rights that dictate the vaults where treasury earnings should go. [xYFI](https://docs.google.com/document/d/1ev16BXu3bDC8zMSBvHmxMWIeD82ptZck6SJAO5frV5g/edit) suggests the creation of a YFI staking vault where excess treasury earnings are to be sent. [BurnKeYs](https://docs.google.com/document/d/1BqmRsfdfCIaCtNZULdhKqUJzpKdaHE1XOGQlVp2nuSc/edit) calls for the mint function of the YFI token to be permanently disabled, thus capping the supply at 36,666 tokens. Status Quo would leave the YFI tokenomics in its current state and inform holders and potential investors of the benefits.
+Hiện có 5 lựa chọn để bỏ phiếu, chúng lần lượt mang tên `ySplit`, `veYFI`, `xYFI`, `BurnKeYs` và `Status Quo`. [Đề xuất ySplit](https://docs.google.com/document/d/1dAWTkS_ZsXNy7mKKjOFUjILSlLsLz9KhGfLrwVu0GUg/edit) đưa ra luận điểm về việc thị trường hiện tại "thích" đơn vị nhỏ, nên chia tôken YFI thành 10&nbsp;000 hoặc 1&nbsp;000&nbsp;000 phần. [Đề xuất veYFI](https://docs.google.com/document/d/1hoi-IVccOB6iUJYzuApVbyjbQBx8-M0UuzZosb9wlWM/edit) khuyến nghị khóa YFI trong một khoảng thời gian để lấy quyền biểu quyết xem kho bạc (`vault`) nào sẽ nhận được thu nhập của Ngân khố (`Treasury`). [xYFI](https://docs.google.com/document/d/1ev16BXu3bDC8zMSBvHmxMWIeD82ptZck6SJAO5frV5g/edit) yêu cầu tạo kho bạc "đặt cọc" YFI để nhận lợi nhuận từ Ngân khố. [BurnKeYs](https://docs.google.com/document/d/1BqmRsfdfCIaCtNZULdhKqUJzpKdaHE1XOGQlVp2nuSc/edit) đề xuất vô hiệu hóa vĩnh viễn chức năng tạo (`mint`) YFI, từ đó cố định tổng lượng cung ở con số 36&nbsp;666 tôken. `Status Quo` sẽ giữ nguyên mô hình kinh tế YFI hiện tại, tăng công tác truyền thông và làm rõ lợi ích của nó cho những ai đang nắm giữ cũng như các nhà đầu tư tiềm năng, đồng thời tìm kiếm giải pháp tốt hơn.
 
-Vote here at [the Snapshot page](https://yearn.snapshot.page/#/proposal/0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea). Thank you to all in the community who have contributed. An update from the working group, haiku included, can be found [here](https://docs.google.com/document/d/1-YEfXqXgTm-qzhPRUKs5allfX1XqYUOYwr_49FApnLU/edit).
+Biểu quyết ngay tại [trang Snapshot](https://yearn.snapshot.page/#/proposal/0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea). Xin cảm ơn tất cả những thành viên cộng đồng đã đóng góp làm nên bộ đề xuất này. Cập nhật từ nhóm thực hiện, có cả thơ haiku, được đăng tải [tại đây](https://docs.google.com/document/d/1-YEfXqXgTm-qzhPRUKs5allfX1XqYUOYwr_49FApnLU/edit).
 
-## Updated Yearn Docs
+## Tư liệu Yearn
 
-Several months ago Yearn contributors set out to rewrite our docs to make them friendly and approachable.
+Vài tháng trước, các đóng góp viên của chúng tôi lên kế hoạch viết lại tư liệu Yearn cho thân thiện, dễ tiếp cận hơn.
 
-The completely refreshed docs are here to guide users, devs, partners, and to feed your curiosity with many previously unseen entries.
+Chúng đã chính thức ra lò để hướng dẫn người dùng, lập trình viên, đối tác và thỏa mãn sự tò mò của tất cả với nhiều mục chưa từng thấy.
 
-Check out the new docs [here](https://docs.yearn.finance/).
+Xem ngay tư liệu mới [ở liên kết này](https://docs.yearn.finance/).
 
-## YIP-64 Fails To Meet Quorum
+## YIP-64 Không Đáp ứng được Túc số
 
 ![](image3.png)
 
-YIP-64: Adjust fees on non-stablecoin yVaults entered the voting phase and ended in the majority voting against adjusting fees.
+`YIP-64: Điều chỉnh phí cho kho bạc không chứa tiền bình giá` đã đi vào giai đoạn biểu quyết và kết thúc với đa số bỏ phiếu phản đối việc thay đổi phí.
 
-Check out the proposal [here](https://snapshot.org/#/ybaby.eth/proposal/0xfe7296601d199b89a8aa53f95d6243ef935d736bea2f13109979d8d5098017d2).
+Kiểm tra đề xuất nói trên [tại đây](https://snapshot.org/#/ybaby.eth/proposal/0xfe7296601d199b89a8aa53f95d6243ef935d736bea2f13109979d8d5098017d2).
 
-## Yearn Delegates 23M veCRV to Convex
+## Yearn Giao phó 23&nbsp;Triệu veCRV cho Convex
 
 ![](image4.png)
 
-Yearn has delegated 23 million veCRV to Convex Finance using Curve’s new native boost delegation feature. This will increase yields of factory pools for both our DAOs. This does not affect regular pools, fees or voting.
+Yearn đã giao phó 23&nbsp;triệu veCRV cho `Convex Finance` bằng tính năng ủy thác kích thưởng nguyên gốc mới của Curve. Điều này sẽ làm tăng hoa lợi của các "bể tự phát" (`factory pool`) cho cả hai ĐAO. Không có thay đổi gì về phí, biểu quyết hay những bể góp vốn thường.
 
-Delegating unused veCRV [here](https://convex-boost-delegation.vercel.app/) increases factory rewards for all Convex participants, this further helps increase yield for Convex and Yearn. Our delegation transaction can be found [here](https://etherscan.io/tx/0x4734c879b23c678cb97ba90591e16a14f1f7a2e0a7d71bfa67d2e7bb5d718e5f).
+Giao phó veCRV không dùng đến [tại đây](https://convex-boost-delegation.vercel.app/) làm tăng phần thưởng bể tự phát (`factory pool`) cho tất cả những bên tham gia Convex, từ đó đẩy cao lãi suất cho Convex và Yearn. Giao dịch ủy thác của chúng tôi hiện diện [tại đây](https://etherscan.io/tx/0x4734c879b23c678cb97ba90591e16a14f1f7a2e0a7d71bfa67d2e7bb5d718e5f).
 
-## Yearn Snapshot Strategy
+## Chiến lược với Snapshot của Yearn
 
-In preparation for several important votes, Yearn's Snapshot strategy got refreshed.
+Để chuẩn bị cho một số cuộc bỏ phiếu quan trọng, chiến lược Snapshot của Yearn đã được cập nhật mới.
 
-It allows you to vote with productive YFI, namely YFI in wallet, all Yearn v2 vaults, Bancor, Balancer v2, Uniswap v2, Sushi (incl. MasterChef), MakerDAO, Unit, Instadapp (incl. MakerDAO).
+Giờ đây, bạn có thể biểu quyết bằng YFI ở mọi nơi, từ trong ví, mọi kho bạc Yearn v2, Bancor, Balancer v2, Uniswap v2, Sushi (kể cả  MasterChef), MakerDAO, Unit, Instadapp (kể cả  MakerDAO).
 
-The contract can be found [here](https://github.com/yearn/snapshot-strategy) and the deployment can be found [here](https://etherscan.io/address/0xA79e803FffE9DA37477ddaFD7C6F3dbDCa1C566C#code)
+Hợp đồng (`contract`) tương ứng có thể được kiểm tra [ở liên kết này](https://github.com/yearn/snapshot-strategy) cũng như triển khai [tại đây](https://etherscan.io/address/0xA79e803FffE9DA37477ddaFD7C6F3dbDCa1C566C#code).
 
-## Vaults At Yearn
+## Các Kho bạc (`Vault`) tại Yearn
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Bạn có thể đọc mô tả chi tiết các chiến lược của mọi yVault đang hoạt động [tại đây](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-## Ecosystem News
+## Tin tức trong Hệ Sinh thái
 
-[Securely use your YFI on Qredo Network’s platform](https://twitter.com/QredoNetwork/status/1461031928564436994)
+[Sử dụng YFI của bạn một cách an toàn trên nền tảng `Qredo Network`](https://twitter.com/QredoNetwork/status/1461031928564436994)
 
-[Listen to Into the Byte Code with tracheopteryx](https://twitter.com/benmercerdev/status/1464347991674863626?s=21)
+[Nghe `Into the Byte Code` với tracheopteryx](https://twitter.com/benmercerdev/status/1464347991674863626?s=21)
 
-[Steakwallet now supports Yearn’s beta vaults on Fantom](https://twitter.com/steakwallet/status/1463623834389602311?s=21)
+[Steakwallet giờ đã hỗ trợ các Kho bạc (`Vault`) bản Beta của Yearn trên Fantom](https://twitter.com/steakwallet/status/1463623834389602311?s=21)
 
-[Tesseract enters top five fastest growing protocols on Polygon](https://twitter.com/marketducky/status/1461734313636945926?s=21)
+[Tesseract vào Top&nbsp;5 giao thức tăng trưởng nhanh nhất trên Polygon](https://twitter.com/marketducky/status/1461734313636945926?s=21)
 
-[Watch the Coordinape onboarding video](https://twitter.com/coordinape/status/1460591450413015043?s=21)
+[Xem video "vỡ lòng" Coordinape](https://twitter.com/coordinape/status/1460591450413015043?s=21)
 
-[Checkout Yearn on Argent’s L2 wallet with fees as low as $2](https://twitter.com/argentHQ/status/1468934923264401419)
+[Xem ngay Yearn trên ví Lớp-2 của Argent để chứng kiến phí giao dịch thấp khó tin, chỉ 2$](https://twitter.com/argentHQ/status/1468934923264401419)
 
-[Tesseract vaults have increased their deposit limits](https://twitter.com/tesseract_fi/status/1468217220966801413)
+[Các kho bạc của Tesseract đã gia tăng mức trần ký gửi](https://twitter.com/tesseract_fi/status/1468217220966801413)
 
-[Get a discount on ETHDubai tickets by holding $yvBOOST or $yvYFI](https://twitter.com/ETHDubaiConf/status/1467068791456923648)
+[Nhận khuyến mãi giảm giá vé ETHDubai bằng cách nắm giữ $yvBOOST hoặc $yvYFI](https://twitter.com/ETHDubaiConf/status/1467068791456923648)
 
-[See Zapper’s spotlight on Yearn Simulations](https://twitter.com/zapper_fi/status/1466447565302517765)
+[Xem tiêu điểm của Zapper về Trình Mô phỏng từ Yearn](https://twitter.com/zapper_fi/status/1466447565302517765)
 
-[Listen in to Facu’s insights on Yearn with the On the Ledger podcast](https://twitter.com/Ledger/status/1465678701635506185)
+[Nghe Facu tiết lộ nhiều điều về Yearn trên podcast `On the Ledger`](https://twitter.com/Ledger/status/1465678701635506185)
 
-[YFI is now spendable in Flexa’s app](https://twitter.com/FlexaHQ/status/1469092114038415364)
+[YFI đã có thể được tiêu dùng trên ứng dụng của Flexa](https://twitter.com/FlexaHQ/status/1469092114038415364)
