@@ -67,7 +67,6 @@ https://youtube.com/watch?v=cY9lM73ie0Q&t=1575s
 Blockchain makes fiction real. As real as dirt. And from this dirt, new fauna blooms. [@Coordinape](https://twitter.com/coordinape) is a flower. Its petals, an invitation. It grows in the canopy of the dark forest—where trust thrives. The kind of trust those who have worked on creative teams know so well.
 
 ##### 12
-
 Watch the bankless video or go to http://coordinape.com to learn more, but briefly: Coordinape allows protocols to grow their contributor network with an NFT badge system & distribute grants via a novel, decentralized, community-led mechanism inspired by gift economies.
 
 ##### 13
@@ -109,7 +108,6 @@ Why did that little guy survive and turn into mitochondria that time the other g
 
 ##### 22
 I think about this a lot. Being part of a collective life form that bleeds money and grows in realms beyond my imagination can be confusing. I /can't/ understand what it needs. I need to let go. And to do that, I need to trust I'll be ok.
-
 
 ##### 23
 Structures like ethereum, Teal Orgs, DAOs, coordinape, and gov 2.0 help me trust that the mind between minds will be there, and I can go wherever my interests take me, knowing the whole organism will thrive.

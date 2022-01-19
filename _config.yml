@@ -131,7 +131,7 @@ translators:
     name: Bee926
     display_name: Bee926
     twitter: https://twitter.com/bee_926
-    blog: https://www.youtube.com/channel/UCEmqb4A_fJ5Jseb-TBpGaIg
+    blog: https://www.youtube.com/channel/UCacoBnE--eGgPnxBnu3DFJw
     web: http://coinversation.org/
 
   Cryptouf:
@@ -160,7 +160,6 @@ translators:
   🤖💵💵💰💰.eth:
       name: 🤖💵💵💰💰.eth
       display_name: 🤖💵💵💰💰.eth
-      web: https://y.at/robot.banknote.banknote.money-bag.money-bag
 
   Nesyeth:
     name: Nesyeth
@@ -183,19 +182,23 @@ translators:
     name: Major-Rager
     display_name: Major-Rager
 
-  JKtranslator:
-    name: JKtranslator
-    display_name: JKtranslator
-    twitter: https://twitter.com/jameskbh
+  Jameskbh:
+    name: Jameskbh
+    display_name: Jameskbh
 
   Japzar:
     name: Japzar
     display_name: Japzar
-    twitter: https://twitter.com/OraculumEth
 
   Stathis:
     name: Stathis
     display_name: Stathis
+
+  Xiaona:
+    name: Xiaona
+    display_name: Xiaona
+    twitter: https://twitter.com/latingi44239287
+    blog: https://www.youtube.com/channel/UCacoBnE--eGgPnxBnu3DFJw
 
 # Social
 social:
