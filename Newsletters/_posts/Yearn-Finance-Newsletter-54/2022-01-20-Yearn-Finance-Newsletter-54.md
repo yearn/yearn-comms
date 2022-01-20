@@ -48,8 +48,6 @@ The 3EUR strategy supplies 3EURpool-f to Convex Finance to earn CRV and CVX (and
 
 Check out the new vaults [here](https://yearn.finance/#/vaults).
 
-
-
 # Yearn Web Updates
 
 ![](image4.png)
@@ -72,7 +70,7 @@ Check out the full piece [here](https://medium.com/bankless-dao/yearn-finance-va
 
 # Update on yvBOOST
 
-Most may not realize, but 1 yvBOOST collects 2.2x more weekly Curve protocol fees than 1 veCRV. yvBOOST APR is also over 100%, sustained, with 1 yvBOOST currently being  32% cheaper than 1 CRV. Even after all this, there is over $5M still to be donated to yvBOOST holders
+Most may not realize, but 1 yvBOOST collects 2.2x more weekly Curve protocol fees than 1 veCRV. yvBOOST APR is also over 100%, sustained, with 1 yvBOOST currently being 32% cheaper than 1 CRV. Even after all this, there is over $5M still to be donated to yvBOOST holders
 
 Check out the donations [here](https://etherscan.io/address/0xdf270b48829e0f05211f3a33e5dc0a84f7247fbe).
 
