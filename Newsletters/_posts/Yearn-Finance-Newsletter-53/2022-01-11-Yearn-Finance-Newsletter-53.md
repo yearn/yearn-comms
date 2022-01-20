@@ -4,91 +4,91 @@ title: "Yearn Finance Newsletter #53"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-53/image1.png
 author: Yearn
-translator:
-publish: false
+translator: jameskbh
+publish: true
 ---
 
 # Yearn Finance Newsletter #53
 
-### Week Ending January 9nd, 2022
+### Semana que termina em 9 de janeiro de 2022
 
 ![](image1.png)
 
-Welcome to the 53th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Bem-vindo à 53ª edição da Yearn Finance Newsletter. Nosso objetivo com este boletim é manter a comunidade da Yearn e a comunidade cripto em geral informadas sobre as notícias mais recentes, incluindo lançamentos de produtos, mudanças de governança e atualizações do ecossistema. Se você estiver interessado em aprender mais sobre Yearn Finance, siga nossas contas oficiais [Twitter](https://twitter.com/iearnfinance) e [Medium](https://medium.com/iearn).
 
-## Summary
+## Sumário
 
-- Transparency at Yearn
-- Yearn Web Updates
-- Register for the Next Iteration of yAcademyDAO
-- Yearn Has Received An Additional 1M FTM Grant From the Fantom Foundation
-- Vaults at Yearn
-- Ecosystem News
+- Transparência na Yearn
+- Atualização Web de Yearn
+- Registre-se para a próxima iteração do yAcademyDAO
+- Yearn recebeu uma doação adicional de 1 milhão de FTM da Fantom Foundation
+- Vaults na Yearn
+- Notícias do Ecossistema
 
-# Transparency at Yearn
+# Transparência na Yearn
 
 ![](image2.png)
 
-# More transparency. More alpha.
+# Mais transparência. Mais alfa.
 
-Two new tools from Yearn illuminating the mysterious depths of the rabbit hole are the [content aggregator](https://blog.yearn.finance/) and the [vault encyclopedia](https://vaults.yearn.finance/).
+Duas novas ferramentas de Yearn que iluminam as misteriosas profundezas da toca do coelho são o [agregador de conteúdo](https://blog.yearn.finance/) e a [enciclopédia dos vaults](https://vaults.yearn.finance/).
 
-With the content aggregator, you can find all the most important information coming from Yearn. Go to one link for the latest announcements, tweets, newsletters, articles, and quarterly financials from Yearn. You’ll also find unrolled big brain twitter threads from Yearn contributors like tracheopteryx
+Com o agregador de conteúdo, você pode encontrar todas as informações mais importantes vindas de Yearn. Acesse somente um link para os últimos anúncios, tweets, boletins informativos, artigos e informações financeiras trimestrais de Yearn. Você também encontrará fios de twitter especiais de contribuidores de Yearn, como tracheopteryx
 
-With the new community-created encyclopedia on Yearn vaults, you can find in-depth information about how yVaults operate and review the actions/strategies these vaults perform.
+Com a nova enciclopédia sobre os vaults criada pela comunidade de Yearn, você pode encontrar informações detalhadas sobre como os yVaults operam e revisar as ações/estratégias que esses vaults executam.
 
-Once hosted on Medium, the new vault site adds filters, multichain coverage, auto-updating content, and (coming soon) support for multiple languages!
+Uma vez hospedado no Medium, o novo site dos vaults adiciona filtros, cobertura multicadeia, atualização automática de conteúdo e (em breve) suporte para vários idiomas!
 
-Read more about the tools here. Thanks to @0xMajor, @KoxEvan, and DarkGhosty for their amazing work on the vault encyclopedia.
+Leia mais sobre as ferramentas aqui. Obrigado a @0xMajor, @KoxEvan e DarkGhosty por seu incrível trabalho na enciclopédia dos vaults.
 
-# Yearn Web Updates
+## Atualização Web de Yearn
 
 ![](image3.png)
 
-In an effort to increase transparency, several contributors to Yearn's web ecosystem have started a newsletter that will collect new features, ongoing issues, and planned updates, in addition to periodic deep-dives on the web tech stack.
+Em um esforço para aumentar a transparência, vários colaboradores do ecossistema da web de Yearn iniciaram um boletim informativo que coletará novos recursos, problemas em andamento e atualizações planejadas, além de mergulhos profundos periódicos na tecnologia da web.
 
-Major points from this release include improved UX and speed when switching networks, including a prompt to add Fantom in your wallet if necessary and improved support for Fantom in yearn-exporter
+Os principais pontos desta versão incluem UX aprimorado e velocidade ao trocar de rede, incluindo um prompt para adicionar Fantom em sua carteira, se necessário, e suporte aprimorado ao Fantom no yearn-exporter
 
-As always, if you have feedback or suggestions for the website, or would like to contribute, reach out on [Discord](https://discord.com/invite/yearn).
+Como sempre, se você tiver comentários ou sugestões para o site, ou quiser contribuir, entre em contato no [Discord](https://discord.com/invite/yearn).
 
-Check out the updates [here](https://yearnweb.substack.com/p/update-jan-5-2022?showWelcome=true).
+Confira as atualizações [aqui](https://yearnweb.substack.com/p/update-jan-5-2022?showWelcome=true).
 
-# Register for the Next Iteration of yAcademyDAO
+# Registre-se para a próxima iteração do yAcademyDAO
 
 ![](image4.png)
 
-For the unfamiliar, the yAcademyDAO is a community-driven approach to blockchain security. At Yearn, we take security very seriously and yAcademy is one of our ecosystem initiatives to create sustainable and collaborative blockchain security and ensure that talent is properly utilized.
+Para quem não conhece, o yAcademyDAO é uma abordagem orientada pela comunidade para a segurança do blockchain. Em Yearn, levamos a segurança muito a sério e a yAcademy é uma de nossas iniciativas de ecossistema para criar segurança blockchain sustentável e colaborativa e garantir que o talento seja utilizado adequadamente.
 
-yAcademy dao is managed by its full-time members and active contributors, with oversight and guidance from the ethereum security alliance members.
+A yAcademy dao é gerenciada por seus membros em tempo integral e colaboradores ativos, com supervisão e orientação dos membros da aliança de segurança ethereum.
 
-Check out the website [here](https://yacademy.github.io/). Apply to the yAcademyDAO [here](https://docs.google.com/forms/d/e/1FAIpQLSfc5VUYOyG_cRpiRkymJOVoHluFOuiYMRONX-R7xRuvWM25Xg/viewform).
+Confira o site [aqui](https://yacademy.github.io/). Inscreva-se em yAcademyDAO [aqui](https://docs.google.com/forms/d/e/1FAIpQLSfc5VUYOyG_cRpiRkymJOVoHluFOuiYMRONX-R7xRuvWM25Xg/viewform).
 
-# Yearn Has Received An Additional 1M FTM Grant From the Fantom Foundation
+# Yearn recebeu uma doação adicional de 1 milhão de FTM da Fantom Foundation
 
-Welcome to 2022, anon. The donations continue.
+Bem-vindo a 2022, anon. As doações continuam.
 
-Yearn has received another grant from the Fantom Foundation
+Yearn recebeu outra doação da Fantom Foundation
 
-Once again, we don't dump. 208,333 FTM have been donated, with 90%+ to the FTM vault and a proportional donation to other Fantom vaults.
+Mais uma vez, não corremos pra vendê-los. 208.333 FTM foram doados, sendo 90%+ para o vault FTM e uma doação proporcional para outros vaults de Fantom.
 
-We will continue this with future grants.
+Vamos continuar isso com futuras doações.
 
-# Vaults at Yearn
+# Vaults na Yearn
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Você pode ler uma descrição detalhada das estratégias para todos os nossos yVaults ativos [aqui](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-# Ecosystem News
+# Notícias do Ecossistema
 
-[Check out the Yearn feature in the PILLS universe](https://twitter.com/pillsuniverse/status/1478321675510763520)
+[Confira o recurso Yearn no universo PILLS](https://twitter.com/pillsuniverse/status/1478321675510763520)
 
-[Learn how ZooDAO uses Yearn to generate yield from NFTs](https://twitter.com/ZooDAO/status/1480244287526916105)
+[Saiba como o ZooDAO usa o Yearn para gerar rendimento de NFTs](https://twitter.com/ZooDAO/status/1480244287526916105)
 
-[Read the proposal about a “yMarkt”](https://gov.yearn.finance/t/proposal-ymarkt-the-best-buybacks-can-get/12166)
+[Leia a proposta sobre um “yMarkt”](https://gov.yearn.finance/t/proposal-ymarkt-the-best-buybacks-can-get/12166)
 
-[Theorycrafting about Andre Cronje’s new AMM and Yearn’s involvement](https://gov.yearn.finance/t/yfi-solid-theorycrafting/12181)
+[Teoria sobre o novo AMM de Andre Cronje e o envolvimento de Yearn](https://gov.yearn.finance/t/yfi-solid-theorycrafting/12181)
 
-[A new CLI update has been released for Keep3r](https://twitter.com/DeFi_Wonderland/status/1478061081956343812)
+[Uma nova atualização de CLI foi lançada para Keep3r](https://twitter.com/DeFi_Wonderland/status/1478061081956343812)
 
-[Check out Element Finance’s new DAI term utilizing Yearn vaults](https://twitter.com/element_fi/status/1478819507829293058)
+[Confira o novo termo DAI da Element Finance utilizando os vaults do Yearn](https://twitter.com/element_fi/status/1478819507829293058)
 
-[Try out the new ApeMode vault on Fantom](https://twitter.com/poolpitako/status/1479271890933923843)
+[Experimente o novo vault do ApeMode no Fantom](https://twitter.com/poolpitako/status/1479271890933923843)
