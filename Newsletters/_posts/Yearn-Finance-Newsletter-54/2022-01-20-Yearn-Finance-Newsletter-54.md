@@ -4,81 +4,83 @@ title: "Yearn Finance Newsletter #54"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-54/image1.png
 author: Yearn
-translator:
-publish: false
+translator: Cryptouf
+publish: true
 ---
 
 # Yearn Finance Newsletter #54
 
-### Week Ending January 16nd, 2022
+### Semaine du 16 Janvier, 2022
 
 ![](image1.png)
 
-Welcome to the 54th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Bienvenue à la 54e édition de la Newsletter Yearn Finance. Notre objectif avec cette newsletter est de tenir la communauté Yearn, et plus généralement la communauté crypto, au courant des dernières nouvelles, y compris les lancements de produits, les changements de gouvernance et les mises à jour de l'écosystème. Si vous souhaitez en savoir plus sur Yearn Finance, suivez nos comptes [Twitter](https://twitter.com/iearnfinance) et [Medium](https://medium.com/iearn) officiels.
 
-## Summary
+## Résumé
 
-- Introducing Seven New Fantom Vaults
-- New Curve Vaults Live
-- Yearn Web Updates
-- Yearn Finance Vaults: Knockin’ on DeFi’s Door
-- Update on yvBOOST
-- Vaults at Yearn
-- Ecosystem News
+- Présentation de sept nouveaux vault sur Fantom
+- Nouveaux vault pour Curve dispos
+- Mise a jour de Yearn Web
+- Les vaults Yearn frapper à la porte de la DeFi
+- Mise à jour du yvBOOST
+- Vaults chez Yearn
+- Nouvelles de l'écosystème
 
-# Introducing Seven New Fantom Vaults
+# Présentation de sept nouveaux vault sur Fantom
 
 ![](image2.png)
 
-On Fantom, these seven vaults join the mix: WBTC, WETH, SPELL, DOLA, Curve Tricrypto, Curve Geist, and CRV
+Sur Fantom, sept coffres debarquent : WBTC, WETH, SPELL, DOLA, Curve Tricrypto, Curve Geist et CRV
 
-Meanwhile, with nearly $400M TVL in Fantom vaults, we're still seeing juicy APYs, up to over 45%. Most of the Fantom vaults utilize folding on Scream, with Geist Finance and Tarot Finance strategies arriving imminently
+Pendant ce temps, avec près de 400 millions de dollars TVL dans les coffres Fantom, les APY sont toujours juteux, jusqu'à plus de 45 %. La plupart des coffres Fantom utilisent des stratégies sur Scream, les stratégies Geist Finance et Tarot Finance arrivant très bientôt.
 
-What's your move? Start depositing today at [yearn.finance/vaults](https://yearn.finance/vaults).
+Et vous. que faites vous ? Déposez dès aujourd'hui sur [yearn.finance/vaults](https://yearn.finance/vaults).
 
-# New Curve Vaults Live
+# Nouveaux vault pour Curve dispos
 
 ![](image3.png)
 
-On Ethereum, the following new Curve vaults are live now: CVX-ETH, CRV-ETH, 3EUR, UST Wormhole, USDPax, DOLA, and RAI - the first vault utilizing Reflexer’s custom Curve implementation
+Sur Ethereum, les nouveaux coffres Curve suivants sont désormais dispos : CVX-ETH, CRV-ETH, 3EUR, UST Wormhole, USDPax, DOLA et RAI - le premier coffre utilisant l'implémentation Curve personnalisée de Reflexer
 
-As for 3EUR, this token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains agEUR, EURT, and EURS. agEUR is a synthetic Euro issued by Angle Protocol, while EURS and EURT are both centralized, hard-pegged Euro tokens issued by Stasis and Tether, respectively.
+Comme pour le 3EUR, ce jeton représente une pool de liquidité sur Curve. Les détenteurs de ce jeton recoivent une parties de frais générés par la pool et peuvent également gagner des CRV supplémentaires en déposant les jetons dans la jauges de Curve. Cette pool contient des agEUR, EURT et EURS. Le agEUR est un euro synthétique émis par Angle Protocol, tandis que les EURS et EURT sont des jetons centralisés adossés à l' euros et avec un peg fixe émis respectivement par Stasis et Tether.
 
-The 3EUR strategy supplies 3EURpool-f to Convex Finance to earn CRV and CVX (and any other available tokens). Earned tokens are harvested, sold for more 3EURpool-f which is deposited back into the strategy.
+La stratégie 3EUR dépose des jetons 3EURpool-f sur Convex Finance pour gagner des CRV et CVX (et tout autre jeton disponible). Les jetons gagnés sont récoltés, vendus pour plus de 3EURpool-f, qui sont déposés à nouveaux dans le coffre.
 
-Check out the new vaults [here](https://yearn.finance/#/vaults).
+Découvrez les nouveaux coffres [ici](https://yearn.finance/#/vaults).
 
-# Yearn Web Updates
+# Mise à jour de Yearn Web
 
 ![](image4.png)
 
-This week's Yearn web update includes several first-time contributors opening PRs and improved backend logic for Iron Bank & Curve LP tokens
+La mise à jour de Web Yearn de cette semaine présente plusieurs contributeurs ouvrant pour la premiere fois des PR et une logique backend améliorée pour les jetons Iron Bank & Curve LP
 
-Upcoming updates are an updated test suite for the Yearn SDK, more descriptive simulation errors, and refactoring the API with documentation.
+Les mises à jour à venir sont une suite de tests de mise à jour pour le SDK Yearn, des erreurs de simulation plus descriptives et une refactorisation de l'API avec de la documentation.
 
-Check out the full new update [here](https://yearnweb.substack.com/p/yearn-web-engineering-update).
+Découvrez la nouvelle mise à jour complète [ici](https://yearnweb.substack.com/p/yearn-web-engineering-update).
 
-# Yearn Finance Vaults: Knockin’ on DeFi’s Door
+# Les vaults Yearn frappent à la porte de la DeFi
 
 ![](image5.png)
 
-This article from BanklessDAO offers a complete summary of the features offered by Yearn and depicts how it makes DeFi easier to use.
+Cet article de BanklessDAO propose un résumé complet des fonctionnalités offertes par Yearn et décrit comment Yearn et ses coffres facilitent l'utilisation de DeFi.
 
-Overall, using Yearn vaults is a bet on the protocol having the highest security of yield aggregators and being able to bring significant capital efficiency to DeFi with the amazing work of all strategists and their automations.
+Dans l'ensemble, l'utilisation des coffres Yearn est un pari sur le protocole ayant la plus haute sécurité parmis les agrégateurs de rendement et étant capable d'apporter une efficacité de capital significative à la DeFi avec le travail incroyable de tous les stratèges et des automatisations misent en place.
 
-Check out the full piece [here](https://medium.com/bankless-dao/yearn-finance-vaults-knockin-on-defi-s-door-f5e9f56f669a).
+Découvrez l'article complet [ici](https://medium.com/bankless-dao/yearn-finance-vaults-knockin-on-defi-s-door-f5e9f56f669a).
 
-# Update on yvBOOST
+# Mise à jour du yvBOOST
 
-Most may not realize, but 1 yvBOOST collects 2.2x more weekly Curve protocol fees than 1 veCRV. yvBOOST APR is also over 100%, sustained, with 1 yvBOOST currently being 32% cheaper than 1 CRV. Even after all this, there is over $5M still to be donated to yvBOOST holders
+![](image6.png)
 
-Check out the donations [here](https://etherscan.io/address/0xdf270b48829e0f05211f3a33e5dc0a84f7247fbe).
+La plupart ne s'en rendent peut-être pas compte, mais 1 yvBOOST collecte 2,2 fois plus de frais hebdomadaires provenant protocole Curve qu'1 veCRV. yvBOOST L'APR est également supérieur à 100 %, ajouté a cela que 1 yvBOOST étant actuellement 32 % moins cher que 1 CRV. Enfin, il reste plus de 5 millions de dollars à distribuer aux détenteurs de yvBOOST
 
-# Vaults at Yearn
+Découvrez les dons [ici](https://etherscan.io/address/0xdf270b48829e0f05211f3a33e5dc0a84f7247fbe).
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+# Vaults chez Yearn
 
-# Ecosystem News
+Vous pouvez trouver une description détaillée des stratégies de tous nos yVaults actifs [ici](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+
+# Nouvelles de l'écosystème
 
 [Watch out for the upcoming Yearn x Pills collaboration](https://twitter.com/bantg/status/1482764820265029633)
 
