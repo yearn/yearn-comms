@@ -4,366 +4,366 @@ title:  "Can Yearn disrupt the $110 trillion asset management industry?"
 categories: [ Articles ]
 image: ./Can-Yearn-Disrupt-the-110-Trillion-Asset-Management-Industry/img-Wot_Is_Goin_On.png
 author: Wot_Is_Goin_On
-translator:
-publish: false
+translator: Dastronom
+publish: true
 ---
 
-# Can Yearn disrupt the $110 trillion asset management industry?
+# Yearn 110 trilyon dolarlık varlık yönetimi endüstrisini bozabilir mi?
 
-**Summary**
+**Özet**
 
-1.  The asset management industry has [$110 trillion](https://www.pwc.com/gx/en/industries/financial-services/assets/wealth-management-2-0-data-tool/pwc_awm_revolution_2020.pdf) assets under management (AUM).
-2.  Yearn is not directly comparable to an asset manager in traditional finance but a comparison with Blackrock is helpful for understanding where its revenues come from and its early setbacks.
-3.  There are over $300 billion of tokenized assets on Ethereum which are growing rapidly.
-4.  Yearn is leading the innovation in risk-adjusted yields putting it in pole position to benefit from the rise of assets on Ethereum. This will likely lead to Yearn’s AUM increasing significantly over time.
-5.  Being a DeFi protocol gives Yearn advantages unavailable to other crypto asset managers, such as Grayscale and Celsius. In particular, its permissionless nature allows integration with other protocols, such as the recent one with Alchemix.
+1.  Varlık yönetimi endüstrisi, yönetim altında [110 trilyon dolarlık](https://www.pwc.com/gx/en/industries/financial-services/assets/wealth-management-2-0-data-tool/pwc_awm_revolution_2020.pdf) varlığa sahiptir.
+2.  Yearn, geleneksel finanstaki bir varlık yöneticisiyle doğrudan karşılaştırılamaz, ancak Blackrock ile bir karşılaştırma, gelirlerinin nereden geldiğini ve erken başarısızlıklarını anlamak için yardımcı olur.
+3.  Ethereum'da hızla büyüyen 300 milyar doların üzerinde tokenize varlık var.
+4.  Yearn, Ethereum'daki varlıkların yükselişinden yararlanmak için onu kutup konumuna getirerek riske göre ayarlanmış getirilerdeki yeniliğe öncülük ediyor. Bu muhtemelen Yearn'in AUM'sinin zaman içinde önemli ölçüde artmasına yol açacaktır.
+5.  Bir DeFi protokolü olmak, Yearn'e Grayscale ve Celsius gibi diğer kripto varlık yöneticilerinin erişemeyeceği avantajlar sağlar. Özellikle, izinsiz yapısı, Alchemix ile sonuncusu gibi diğer protokollerle entegrasyona izin verir.
 
-**Introduction**
+** Giriş**
 
-DeFi has been growing explosively for 3.5 years, according to [DeFiPulse](https://defipulse.com/) from less than $2m Total Value Locked (TVL) in Q3 2017 to $44.6bn in Q1 2021. [Defillama](https://defillama.com/home) has Ethereum’s Q1 2021 TVL at $68.5bn. Uniswap’s trading volume exceeded Coinbase’s for the month of [September 2020](https://www.theblockcrypto.com/linked/79775/uniswap-coinbase-monthly-volume-september). The question is no longer whether DeFi will disrupt traditional finance, but which DeFi protocols will be the disrupters?
+[DeFiPulse](https://defipulse.com/)'a göre DeFi, 3.5 yıldır inanılmaz bir şekilde büyüyor. Kilitlenen Toplam Değer (TVL) 2017'nin 3. çeyreğinde 2 milyon dolardan az iken 2021 yılının ilk çeyreğinde 44.6 milyar dolara yükseldi. [Defillama](https://defillama.com/home) Ethereum'un 2021'in ilk çeyreğinde 68,5 milyar dolarlık TVL'ye sahip. Uniswap'ın işlem hacmi [Eylül 2020](https://www.theblockcrypto.com/linked/79775/uniswap-coinbase-monthly-volume-september) için Coinbase'inkini aştı. Artık soru, DeFi'nin geleneksel finansı bozup bozmayacağı değil, hangi DeFi protokollerinin bozacağıdır.
 
-![](image1.png)Growth in DeFi TVL has been explosive for 3.5 years¹
+![](image1.png)DeFi TVL'deki büyüme 3,5 yıldır patlamaya hazır¹
 
-Yearn is an asset management protocol on Ethereum. At Q1 2021 it managed $1.8bn of Ether, stablecoins and DeFi tokens. But that was last week, it’s now [$2.5bn](https://yearn.science/).
+Yearn, Ethereum üzerinde bir varlık yönetimi protokolüdür. 2021 yılının ilk çeyreğinde 1.8 milyar dolarlık Ether, stablecoin ve DeFi tokenlerini yönetti. Ama bu geçen haftaydı, şimdi [2,5 milyar dolar](https://yearn.science/).
 
-Yearn allows you to deposit your crypto into a “vault” which automatically uses DeFi protocols to earn a yield. The strategies deployed range in complexity from simply depositing your crypto onto a lending protocol, to taking a loan against your crypto and investing the loan in another strategy or taking an uncollateralized loan from another protocol to leverage returns. The recent launch of v2 vaults goes one step further and means your crypto can earn a yield from multiple strategies in the same vault.
+Yearn, kriptonuzu bir getiri elde etmek için otomatik olarak DeFi protokollerini kullanan bir "vault'a" yatırmanıza olanak tanır. Uygulanan stratejiler, yalnızca kriptonuzu bir borç verme protokolüne yatırmaktan, kriptonuza karşı bir borç alıp başka bir stratejiye yatırım yapmaya veya getirilerden yararlanmak için başka bir protokolden teminatsız bir borç almaya kadar karmaşıklık içinde değişir. v2 vault'larının yakın zamanda piyasaya sürülmesi bir adım daha ileri gidiyor ve kriptonuzun aynı vault'da birden fazla stratejiden getiri elde edebileceği anlamına geliyor.
 
-1.  **The asset management industry**
+1. **Varlık yönetimi sektörü**
 
-In traditional finance assets gravitate towards a few well known asset managers. Whilst the industry is by no means winner-takes-all, it is highly concentrated.
+Geleneksel finansta varlıklar, iyi bilinen birkaç varlık yöneticisine yönelir. Sektör hiçbir şekilde kazanan her şeyi almasa da, oldukça yoğundur.
 
-![](image2.png)The asset management industry is measured in $trillions AUM and highly concentrated ([June 30th 2020 data](https://www.advratings.com/top-asset-management-firms))
+![](image2.png)Varlık yönetimi endüstrisi trilyonlarca AUM ile ölçülür ve oldukça yoğundur ([30 Haziran 2020 verileri](https://www.advratings.com/top-asset-management-firms))
 
-Yearn does not have a direct comparable in traditional asset management. It’s not a bank, but it earns yields from lending. It’s not a hedge fund, but it carries out active strategies.
+Yearn, geleneksel varlık yönetiminde doğrudan karşılaştırılabilir değildir. Bu bir banka değil, kredilerden getiri elde ediyor. Bir riskten korunma fonu değil, aktif stratejiler yürütüyor.
 
-**2\. Similarities to Blackrock**
+**2\. Blackrock** ile benzerlikler
 
-**Revenue sources**
+**Gelir kaynakları**
 
-74% of Blackrock’s Q3 2020 revenue came from investment advisory, fees and securities lending. Yearn’s revenues can be categorized in a similar way.
+Blackrock'un 2020 3. Çeyrek gelirinin %74'ü yatırım danışmanlığı, ücretler ve menkul kıymet kredilerinden geldi. Yearn'in gelirleri de benzer şekilde kategorize edilebilir.
 
 ![](image3.png)
 
-Similar sources of revenue. Different technologies.
+Benzer gelir kaynakları. Farklı teknolojiler.
 
-One standout feature of how Yearn is structured is the outsourcing of strategies. Incentivizing strategists is what differentiates Yearn, a scalable asset management platform, from one team, or initially one person, trying to keep up with all the innovations in DeFi.
+Yearn'in nasıl yapılandırıldığının göze çarpan özelliklerinden biri, stratejilerin dış kaynak kullanımıdır. Ölçeklenebilir bir varlık yönetimi platformu olan Yearn'i, DeFi'deki tüm yeniliklere ayak uydurmaya çalışan tek bir ekipten veya başlangıçta tek bir kişiden farklı kılan, stratejistleri teşvik etmektir.
 
-**Early setbacks**
+**Erken aksilikler**
 
-It would be remiss of me to compare Yearn to the largest global asset manager without acknowledging two recent setbacks:
+Son zamanlarda yaşanan iki aksiliği kabul etmeden Yearn'i en büyük küresel varlık yöneticisiyle karşılaştırmak yanlış olur:
 
-- Issues around how to incentivize contributors led to [debate within the community](https://gov.yearn.finance/t/yip-57-funding-yearns-future/9319) and resulted in the minting of 6,666 YFI (over $200m)
-- Yearn suffered an [$11m exploit](https://www.coindesk.com/yearn-finance-dai-vault-exploit)— [depositors have since been made whole](https://cointelegraph.com/news/after-yearn-exploit-attacker-funds-frozen-and-reimbursement-plans-developing)
+- Katkıda bulunanların nasıl teşvik edileceğine ilişkin sorunlar [topluluk içinde tartışmaya](https://gov.yearn.finance/t/yip-57-funding-yearns-future/9319) yol açtı ve 6.666 YFI'nin basılmasıyla sonuçlandı (200 milyon doların üzerinde)
+- Yearn [11 milyon dolarlık bir istismar](https://www.coindesk.com/yearn-finance-dai-vault-exploit) yaşadı- [mevduat sahipleri o zamandan beri bugünkü hale getirildi](https://cointelegraph.com/news/after-yearn-exploit-attacker-funds-frozen-and-reimbursement-plans-developing)
 
-Coincidentally, Larry Fink (CEO of Blackrock) experienced similar early setbacks:
+Tesadüfen, Larry Fink (Blackrock CEO'su) benzer erken aksilikler yaşadı:
 
-- In 1994, Fink and his co-founder had an internal dispute over methods of compensation and equity
-- Before Blackrock he lost $100m at Boston First due to poor risk management practices
+- 1994 yılında Fink ve kurucu ortağı, tazminat ve hakkaniyet yöntemleri konusunda bir iç anlaşmazlık yaşadı
+- Blackrock'tan önce, kötü risk yönetimi uygulamaları nedeniyle Boston First'te 100 milyon dolar kaybetti.
 
-Two takeaways:
+İki çıkarım:
 
-- Incentivizing people is difficult and usually requires compensation. This is true for most organizations, be they companies or protocols.
-- Risk management is hard. Losses due to poor risk management practices are not unique to DeFi on Ethereum, or because of the particular programming language used.
+- İnsanları teşvik etmek zordur ve genellikle tazminat gerektirir. Bu, şirketler veya protokoller olsun, çoğu kuruluş için geçerlidir.
+- Risk yönetimi zordur. Zayıf risk yönetimi uygulamalarından kaynaklanan kayıplar, Ethereum'daki DeFi'ye veya kullanılan belirli programlama diline özgü değildir.
 
-**The power of DeFi**
+**DeFi'nin Gücü**
 
-How Yearn was able to deal with these issues demonstrates the benefits of DeFi on Ethereum:
+Yearn'in bu sorunlarla nasıl başa çıkabildiği, DeFi'nin Ethereum üzerindeki faydalarını gösteriyor:
 
-- how cheap it is — more than $200m capital raised for $33
-- transparency — anyone can view the [transaction](https://etherscan.io/tx/0x21a3007a2547a9d6f1bceb44cb9292b36079fcccd8f36f7ec1ca066db261e153) shown below on Etherscan
-- no middleman — no need for Goldman Sachs or Morgan Stanley
+- ne kadar ucuz - 33 dolara 200 milyon dolardan fazla sermaye artırıldı
+- şeffaflık — herkes Etherscan'da aşağıda gösterilen [işlemi](https://etherscan.io/tx/0x21a3007a2547a9d6f1bceb44cb9292b36079fcccd8f36f7ec1ca066db261e153) görüntüleyebilir
+- aracı yok - Goldman Sachs veya Morgan Stanley'e gerek yok
 
 ![](image4.png)
 
-A $200m+ capital raise on Ethereum is extremely cheap
+Ethereum'da 200 milyon dolarlık bir sermaye artışı son derece ucuz
 
-While fans of “Ethereum killers” talk up what is possible in the future, huge transactions are already happening on Ethereum to solve real-world problems — in this case incentivizing contributors to grow the protocol.
+"Ethereum katillerinin" hayranları gelecekte nelerin mümkün olabileceğinden bahsederken, gerçek dünyadaki sorunları çözmek için Ethereum'da şimdiden büyük işlemler gerçekleşiyor - bu durumda katkıda bulunanları protokolü büyütmeye teşvik ediyor.
 
-Following the Dai vault exploit, Yearn chose to reimburse those who lost funds — despite not being contractually obliged to do so. The funds for reimbursement could have come from selling the newly minted YFI for Dai or by taking out a collateralized loan. Yearn decided on the latter, and again the [transaction](https://etherscan.io/tx/0xdd102623987cfb7a401d4880d0524478a795fb269c380c876bb9990dd69c2f0d) demonstrates the advantages of Ethereum:
+Dai vault'u istismarının ardından Yearn, sözleşmeye bağlı olarak yükümlü olmamasına rağmen, fonlarını kaybedenlere tazminat ödemeyi seçti. Geri ödeme fonları, Dai için yeni basılan YFI'yi satmaktan veya teminatlı bir kredi almaktan gelebilirdi. Yearn ikincisine karar verdi ve [işlem](https://etherscan.io/tx/0xdd102623987cfb7a401d4880d0524478a795fb269c380c876bb9990dd69c2f0d) yine Ethereum'un avantajlarını gösteriyor:
 
-- $155 to take out a $9.7m collateralized loan
-- No paperwork
-- No humans required — just a purple rabbit
+- 9,7 milyon dolarlık teminatlı kredi almak için 155 dolar
+- Evrak yok
+- İnsan gerekmez - sadece mor bir tavşan
 
 ![](image5.png)
 
-Taking a $9.7m collateralized loan on Ethereum is extremely cheap
+Ethereum'da 9.7 milyon dolarlık teminatlı kredi almak son derece ucuz
 
-Comparing an asset management protocol on Ethereum to the largest global asset manager could be considered premature. After all, Yearn is restricted to the assets on Ethereum whereas Blackrock is not. So let’s analyse the assets on Ethereum.
+Ethereum'daki bir varlık yönetimi protokolünü en büyük küresel varlık yöneticisiyle karşılaştırmak erken olarak kabul edilebilir. Sonuçta Yearn, Ethereum'daki varlıklarla sınırlıyken, Blackrock öyle değil. Öyleyse Ethereum üzerindeki varlıkları analiz edelim.
 
-**3\. The rise of assets on Ethereum**
+**3\. Ethereum'daki varlıkların yükselişi**
 
-**Ether ($200bn+)**
+**Ether (200 milyar 
 
-Ether is by far the largest asset on Ethereum and recently became a [top 50 global asset](https://companiesmarketcap.com/) by market capitalization.
+Ether, Ethereum'daki açık ara en büyük varlıktır ve son zamanlarda piyasa değerine göre [en iyi 50 küresel varlık](https://companiesmarketcap.com/) haline geldi.
 
-![](image6.png)A $200bn+ market cap makes Ether a top 50 global asset
+![](image6.png)200 milyar dolarlık piyasa değeri, Ether'i en iyi 50 küresel varlık haline getiriyor
 
-**What can you do with ETH and how does Yearn fit in?**
+**ETH ile neler yapabilirsiniz ve Yearn nasıl uyum sağlar?**
 
-In 2017/18 you could send ETH to a friendly team who had written an excellent whitepaper. If you were lucky, that team was led by Sergey Nazarov (Chainlink), Stani Kulechov (Aave) or Kain Warwick (Synthetix). Most investors weren’t so lucky as many teams did not deliver beyond the whitepaper.
+2017/18'de ETH'yi mükemmel bir teknik inceleme yazısı yazan arkadaş canlısı bir ekibe gönderebilirsiniz. Şanslıysanız, bu ekip Sergey Nazarov (Chainlink), Stani Kulechov (Aave) veya Kain Warwick (Synthetix) tarafından yönetildi. Birçok takım teknik incelemenin ötesine geçmediği için çoğu yatırımcı o kadar şanslı değildi.
 
-Now it’s 2021, things have moved on. You have the following options for your ETH each with its own risk-reward profile:
+Şimdi 2021, işler ilerledi. Her biri kendi risk-ödül profiline sahip ETH'niz için aşağıdaki seçeneklere sahipsiniz:
 
-- Hold it in cold storage or a hot wallet if you consider the price volatility of ETH risky enough without taking on additional risks to earn a yield
-- Hold Grayscale’s Ethereum Trust which gives you ETH price exposure in a tax advantaged account, but charges a fee
-- Hold it on a centralized exchange ready to trade it
-- Deposit it in the ETH 2.0 [staking contract](https://etherscan.io/address/0x00000000219ab540356cbb839cbe05303d7705fa) and operate an ETH 2.0 validator to earn yield
-- Deposit it on a lending protocol, such as Aave, Compound Finance or dydx to earn an interest from collateralized lending (and flashloan fees)
-- Use it to open a Collateralized Debt Position on [MakerDao](https://oasis.app/borrow), and use the Dai to earn a yield or to trade
-- Deposit it on Curve Finance to earn trading fees and rewards from the [ETH:sETH pool](https://curve.fi/pools)
-- Deposit it in Curve Finance’s [steth pool](https://curve.fi/pools) and then deposit the liquidity provider (LP) token in Yearn’s [crvSTETH vault](https://yearn.finance/vaults/0xdCD90C7f6324cfa40d7169ef80b12031770B4325) to earn a yield (made up of LDO and CRV rewards)
-- Combine it with your favourite ERC-20 to earn trading fees (and liquidity mining rewards) on Uniswap or Sushiswap
+- Bir getiri elde etmek için ek riskler almadan ETH'nin fiyat oynaklığının yeterince riskli olduğunu düşünüyorsanız, soğuk depoda veya sıcak cüzdanda tutun.
+- Vergi avantajlı bir hesapta ETH fiyatına maruz kalmanızı sağlayan, ancak bir ücret talep eden Grayscale'in Ethereum Trust'ını tutun
+- Ticarete hazır merkezi bir borsada tutun
+- ETH 2.0 [stake sözleşmesine](https://etherscan.io/address/0x00000000219ab540356cbb839cbe05303d7705fa) yatırın ve getiri elde etmek için bir ETH 2.0 doğrulayıcı çalıştırın
+- Teminatlı kredilerden (ve flash kredi ücretlerinden) faiz kazanmak için Aave, Compound Finance veya dydx gibi bir kredi protokolüne yatırın
+- [MakerDao](https://oasis.app/borrow)'da Teminatlı Borç Pozisyonu açmak için kullanın ve Dai'yi getiri elde etmek veya ticaret yapmak için kullanın
+- [ETH:sETH havuzundan](https://curve.fi/pools) işlem ücretleri ve ödüller kazanmak için Curve Finance'e yatırın
+- Curve Finance'in [steth havuzuna](https://curve.fi/pools) yatırın ve ardından bir getiri elde etmek için (LDO ve CRV ödüllerinden oluşan) likidite sağlayıcı (LP) jetonunu Yearn'in [crvSTETH vault'una](https://yearn.finance/vaults/0xdCD90C7f6324cfa40d7169ef80b12031770B4325) yatırın
+- Uniswap veya Sushiswap'ta ticaret ücretleri (ve likidite madenciliği ödülleri) kazanmak için en sevdiğiniz ERC-20 ile birleştirin
 
-ETH has become a productive asset. But the future of France does not involve individuals assessing the risks and rewards of all the choices above on a regular basis and making expensive transactions on Ethereum. People have better things to do and (on average) each new person coming into DeFi is going to understand less than the previous one. They’re not going to put the hours in to chasing down every yield farm that pops up.
+ETH üretken bir varlık haline geldi. Ancak Fransa'nın geleceği, yukarıdaki tüm seçimlerin risklerini ve getirilerini düzenli olarak değerlendiren ve Ethereum'da pahalı işlemler yapan bireyleri içermiyor. İnsanların yapacak daha iyi işleri var ve (ortalama olarak) DeFi'ye gelen her yeni kişi bir öncekinden daha az anlayacak. Ortaya çıkan her ürün çiftliğini kovalamak için saatler harcamayacaklar.
 
-This is where Yearn comes in. Yearn finds the best risk-adjusted yield for your ETH (that works at scale).
+İşte burada Yearn devreye giriyor. Yearn, ETH'niz için (büyük ölçekte çalışan) en iyi riske göre ayarlanmış getiriyi bulur.
 
-**DeFi tokens ($93bn)**
+**DeFi tokenleri (93 milyar dolar)**
 
-DeFi tokens are the newest type of asset on Ethereum.
+DeFi belirteçleri, Ethereum'daki en yeni varlık türüdür.
 
 ![](image7.png)
 
-Valuable governless tokens
+Değerli yönetimsiz jetonlar
 
-DeFi tokens consist predominantly of DeFi governance tokens whose protocols produce cashflows. The protocols are in various stages of working out how much of these cashflows should be returned to the token holders.
+DeFi belirteçleri, ağırlıklı olarak protokolleri nakit akışı üreten DeFi yönetişim belirteçlerinden oluşur. Protokoller, bu nakit akışlarının ne kadarının token sahiplerine iade edilmesi gerektiğinin çeşitli aşamalarındadır.
 
-Each DeFi token has its quirks as their communities try to find ways of incentivizing people to grow the protocol in a way that will help the protocol (and ultimately the token’s price). For example:
+Toplulukları, insanları protokole (ve nihayetinde tokenin fiyatına) yardımcı olacak şekilde protokolü büyütmeye teşvik etmenin yollarını bulmaya çalışırken, her DeFi jetonunun kendine has tuhaflıkları vardır. Örneğin:
 
-- Maker (MKR) incentivizes you to vote on which collateral types can be onboarded and which parameters should be chosen
-- Synthetix (SNX) incentivizes you to mint sUSD and use it to trade on their synthetics platform
-- Aave (AAVE) has its safety module incentivizing you to vote against the onboarding of assets that are deemed too risky
-- Compound Finance (COMP) wants you to vote on interest rate model updates
-- Curve Finance rewards locking of CRV with half of the 0.04% trading fees, and uses the time value of the locked CRV to vote on the reward distribution between pools
-- Hegic rewards you with fees from options trading, provided you can stake 888,000 tokens
-- Sushi wants you to stake for xSushi to earn 0.05% of the volume traded
-- UNI controls protocol fee switch and can force early transition to an open-source license
+- Maker (MKR), sizi hangi teminat türlerinin eklenebileceği ve hangi parametrelerin seçilmesi gerektiği konusunda oy kullanmaya teşvik eder.
+- Synthetix (SNX), sizi sUSD'yi basmaya ve sentetik platformlarında ticaret yapmak için kullanmaya teşvik eder
+- Aave (AAVE), sizi çok riskli olduğu düşünülen varlıkların işe alınmasına karşı oy kullanmaya teşvik eden bir güvenlik modülüne sahiptir.
+- Bileşik Finans (COMP), faiz oranı modeli güncellemelerine oy vermenizi istiyor
+- Curve Finance, CRV'nin kilitlenmesini %0,04 işlem ücretlerinin yarısı ile ödüllendirir ve havuzlar arasındaki ödül dağılımına oy vermek için kilitli CRV'nin zaman değerini kullanır
+- Hegic, 888.000 jeton stake edebilmeniz koşuluyla, opsiyon ticaretinden alınan ücretlerle sizi ödüllendirir
+- Sushi, işlem hacminin %0,05'ini kazanmak için xSushi için bahis yatırmanızı istiyor
+- UNI, protokol ücreti geçişini kontrol eder ve açık kaynaklı bir lisansa erken geçişi zorlayabilir
 
-The value of these tokens has increased significantly over the last year as the market puts a greater value on tokens representing a transparent and fair (to the extent that each wallet is treated the same) financial system that is available to anyone with an internet connection. The cashflows help too.
+Piyasa, internet bağlantısı olan herkesin erişebileceği şeffaf ve adil (her cüzdanın aynı muamele gördüğü ölçüde) finansal sistemi temsil eden tokenlere daha fazla değer biçtiğinden, bu jetonların değeri geçen yıl önemli ölçüde arttı. Nakit akışları da yardımcı olur.
 
 ![](image8.jfif)
 
-DeFi protocols recently surpassed $1bn in total revenue (Token Terminal)
+DeFi protokolleri yakın zamanda toplam gelirde 1 milyar doları aştı (Token Terminali)
 
-**Stablecoins**
+**Stablecoin'ler**
 
-The most popular stablecoins represent 1 USD and come in different forms, such as collateralized by crypto (e.g. Maker’s Dai), custodial (e.g. USDC) or algorithmic (e.g. AMPL).
+En popüler sabit paralar 1 USD'yi temsil eder ve kripto (örneğin Maker's Dai), saklama (örneğin USDC) veya algoritmik (örneğin AMPL) tarafından teminatlandırılmış gibi farklı biçimlerde gelir.
 
-Stablecoins are moving to Ethereum where they can earn a yield from lending, trading or liquidity mining. It is difficult to see these stablecoins being converted back to fiat when traditional banks are paying [close to 0%](https://twitter.com/mattysino/status/1379368078979391488?s=20). This goes some way to explaining why the stablecoin supply on Ethereum grew 600% over the last 12 months.
+Stablecoin'ler, borç verme, ticaret veya likidite madenciliğinden getiri elde edebilecekleri Ethereum'a taşınıyor. Geleneksel bankalar ödeme yaparken [%0'a yakın](https://twitter.com/mattysino/status/1379368078979391488?s=20) bu stablecoin'lerin fiat'a geri çevrildiğini görmek zor. Bu, Ethereum'daki stablecoin arzının son 12 ayda neden %600 arttığını açıklamanın bir yolu.
 
 ![](image9.png)
 
-People are preferring stablecoins on Ethereum to dollars in the bank ([https://duneanalytics.com/hagaetc/stablecoins](https://duneanalytics.com/hagaetc/stablecoins))
+İnsanlar bankadaki dolarlara Ethereum'daki sabit paraları tercih ediyor ([https://duneanalytics.com/hagaetc/stablecoins](https://duneanalytics.com/hagaetc/stablecoins))
 
-You can now earn a yield on stablecoins by providing liquidity to protocols. Either deposit them on a lending protocol, for example, on Aave or Compound Finance or on an AMM such as Curve Finance.
+Artık protokollere likidite sağlayarak sabit paralardan getiri elde edebilirsiniz. Bunları, örneğin Aave veya Compound Finance gibi bir kredi protokolüne veya Curve Finance gibi bir AMM'ye yatırın.
 
-One problem with depositing stablecoins on Aave or Compound Finance is that you will not always be earning the highest yield of the two. The original Yearn protocol solved this problem in early 2020 by automatically moving stablecoins to the highest yielding lending protocol.
+Aave veya Compound Finance'e sabit para yatırmanın bir sorunu, her zaman ikisinin en yüksek getirisini elde etmeyecek olmanızdır. Orijinal Yearn protokolü, bu sorunu 2020'nin başlarında, sabit paraları otomatik olarak en yüksek getiri sağlayan borç verme protokolüne taşıyarak çözdü.
 
-Yearn’s stablecoin strategies have come a long way since early 2020 and now the protocol earns interest from lending, trading fees, [Curve’s “boosties”](https://docs.yearn.finance/how-to-guides/how-to-understand-crv-vote-locking), liquidity mining rewards and leverage and converts it in to a yield for the user. More on these strategies later.
+Yearn'in stabilcoin stratejileri 2020'nin başından bu yana uzun bir yol kat etti ve şimdi protokol borç verme, ticaret ücretleri, [Curve'un "boostları"](https://docs.yearn.finance/how-to-guides/how-to-understand-crv-vote-locking), likidite madenciliği ödülleri ve kaldıraçtan faiz kazanıyor ve bunu kullanıcı için bir getiriye dönüştürüyor. Bu stratejiler hakkında daha sonra.
 
-**Tokenized bitcoin on Ethereum ($10bn)**
+**Ethereum'da tokenize edilmiş bitcoin (10 milyar $)**
 
-Even bitcoin is finding its way to Ethereum. By end March 2021 there was more [bitcoin on Ethereum](https://btconethereum.com/) ($10bn) than that held by MicroStrategy ($5.4bn³) and Tesla ([$1.5bn](https://www.cnbc.com/2021/02/08/tesla-buys-1point5-billion-in-bitcoin.html)) combined. Mainstream media isn’t going to make it.
+Bitcoin bile Ethereum'a giden yolu buluyor. Mart 2021'in sonunda, MicroStrategy (5,4 milyar $) ve Tesla'nın ([1,5 milyar $](https://www.cnbc.com/2021/02/08/tesla-buys-1point5-billion-in-bitcoin.html)) toplamından daha fazla [Ethereum'da bitcoin](https://btconethereum.com/) (10 milyar dolar) vardı. Ana akım medya bunu başaramayacak.
 
 ![](image10.png)
 
-Tokenized bitcoin on Ethereum ([https://duneanalytics.com/queries/4962/9776](https://duneanalytics.com/queries/4962/9776))
+Ethereum'da tokenize edilmiş bitcoin ([https://duneanalytics.com/queries/4962/9776](https://duneanalytics.com/queries/4962/9776))
 
-Companies and protocols have developed ways for you to swap your bitcoin for a tokenized version of bitcoin.
+Şirketler ve protokoller, bitcoin'inizi tokenize edilmiş bir bitcoin sürümüyle değiştirmeniz için yollar geliştirdi.
 
-Representations of the “real thing” are often more useful in traditional finance too. For example, I can’t earn a yield with a £1 coin, but I can earn 1% APY with a £1 balance in my Santander account. With wBTC, the largest tokenized version of bitcoin, you can earn a yield in Yearn’s wBTC vault. The ability to earn a yield by lending your tokenized bitcoin means people increasingly prefer to own tokenized bitcoin on Ethereum despite the extra risks involved.
+“Gerçek şeyin” temsilleri, geleneksel finansta da genellikle daha faydalıdır. Örneğin, 1£ jetonla getiri elde edemem ama Santander hesabımda 1£ bakiye ile %1 APY kazanabilirim. Bitcoin'in en büyük tokenize versiyonu olan wBTC ile Yearn'in wBTC kasasında getiri elde edebilirsiniz. Jetonlu bitcoin'inizi ödünç vererek getiri elde etme yeteneği, insanların ek risklere rağmen Ethereum'da jetonlu bitcoin'e sahip olmayı giderek daha fazla tercih ettiği anlamına gelir.
 
-If you want bitcoin exposure, what’s the alternative? HODL and tell everyone [hodling _is_ using bitcoin](https://twitter.com/danheld/status/1362794078518341637?s=20). Or earn a yield using a centralized service, such as BlockFi or Celsius. Your decision will depend on your risk-reward preferences.
+Bitcoin'i sergilemek istiyorsanız, alternatif nedir? Elinizde tutum ve herkese [bitcoin kullanmak onuelinde tutmaktır](https://twitter.com/danheld/status/1362794078518341637?s=20) deyin. Veya BlockFi veya Celsius gibi merkezi bir hizmeti kullanarak getiri elde edin. Kararınız risk-ödül tercihlerinize bağlı olacaktır.
 
-**What’s next?**
+**Sırada ne var?**
 
-Ether, DeFi tokens, stablecoins and tokenized bitcoin combine to form a $300bn+ addressable market for an asset management protocol on Ethereum. Are there signs of other asset classes making their way to Ethereum?
+Eter, DeFi belirteçleri, sabit paralar ve belirteçleştirilmiş bitcoin, Ethereum üzerinde bir varlık yönetimi protokolü için 300 milyar doların üzerinde adreslenebilir bir pazar oluşturmak üzere birleşir. Ethereum'a giden başka varlık sınıflarının işaretleri var mı?
 
-**Synthetic equities**
+**Sentetik hisse senetleri**
 
-The chart below shows why equities matter. At [$95 trillion](https://www.cnbc.com/2020/11/12/global-stock-market-value-rises-to-a-record-95-trillion-this-week-on-vaccine-hope.html) the market cap is 50 times the size of the total crypto market cap.
+Aşağıdaki tablo, hisse senetlerinin neden önemli olduğunu göstermektedir. [95 trilyon $](https://www.cnbc.com/2020/11/12/global-stock-market-value-rises-to-a-record-95-trillion-this-week-on-vaccine-hope.html) ile piyasa değeri, toplam kripto piyasa değerinin 50 katı büyüklüğünde.
 
 ![](image11.png)
 
-Global equities 50x crypto market cap
+Küresel hisse senetleri kripto piyasa değerinin 50katı
 
-Synthetix was the first protocol to create synthetic crypto and traditional Finance indices. To many it was therefore a surprise that Mirror came and stole the show with their Mirrored Tesla (mTsla) synthetic equity on Terra (and also Ethereum). Their different approaches to creating liquid synths, reducing the cost of transactions and different protocol risks make this an interesting head-to-head.
+Synthetix, sentetik kripto ve geleneksel Finans endeksleri oluşturan ilk protokoldü. Bu nedenle birçokları için Mirror'ın Terra'daki (ve ayrıca Ethereum'daki) Mirrored Tesla (mTsla) sentetik öz sermayesi ile gelip şovu çalması sürpriz oldu. Sıvı sentezler oluşturmaya, işlem maliyetlerini düşürmeye ve farklı protokol risklerine yönelik farklı yaklaşımları, bunu kafa kafaya ilginç hale getiriyor.
 
-DeFi on Ethereum has battle-tested AMMs and lending protocols. They have worked fairly reliably for stablecoins and other ERC-20 tokens over a few years. As far as these protocols are concerned, synthetic equities will be just another ERC-20 token and treated the same as the stablecoins, DeFi tokens or tokenized bitcoin. The foundations have already been laid for you to be able to:
+Ethereum'daki DeFi, savaşta test edilmiş AMM'lere ve borç verme protokollerine sahiptir. Birkaç yıl boyunca sabit paralar ve diğer ERC-20 jetonları için oldukça güvenilir bir şekilde çalıştılar. Bu protokoller söz konusu olduğunda, sentetik hisse senetleri sadece başka bir ERC-20 jetonu olacak ve sabit paralar, DeFi jetonları veya jetonlu bitcoin ile aynı şekilde muamele görecektir. Aşağıdakileri yapabilmeniz için temeller zaten atılmıştır:
 
-- lend your synthetic equity in return for a yield
-- earn trading fees
-- use it as collateral to borrow against
-- trade it for another token or
-- leave it with Yearn to earn a yield for you
+- bir getiri karşılığında sentetik öz sermayenizi ödünç verin
+- alım/satım ücretleri kazanın
+- ödünç almak için teminat olarak kullanın
+- başka bir jetonla takas edin veya
+- sizin için bir getiri elde etmesi için onu Yearn'a bırakın
 
-By end 2021 you might be able to zap any ERC-20 token into a yield-bearing synthetic Tesla where the yield comes from mTsla/sTesla trading fees on Curve, lending on Aave, additional rewards from Ironbank leverage and a boost from [Yearn’s stack of veCRV](https://crv.ape.tax/).
+2021'in sonunda, herhangi bir ERC-20 jetonunu, getirisi Curve'deki mTsla/sTesla ticaret ücretlerinden, Aave'de borç verme, Ironbank kaldıracından ek ödüller ve [Yearn'ın veCRV stoğundan](https://crv.ape.tax/) gelen, getiri sağlayan sentetik bir Tesla'ya dönüştürebilirsiniz.
 
-**Tokenized equities (non-synthetic)**
+**Tokenize edilmiş hisse senetleri (sentetik olmayan)**
 
-Tokenized equities are one step closer to the “real” thing, because you have ownership of the stock.
+Tokenize edilmiş hisse senetleri, "gerçek" şeye bir adım daha yakındır, çünkü hisse senedinin sahibi sizsiniz.
 
-FTX offers [tokenized stocks](https://help.ftx.com/hc/en-us/articles/360051229472-Tokenized-Stocks) that are backed by shares of the stock, custodied by CM-Equity. Currently FTX does not allow these tokens outside of their platform, however, the comment “In the future, there may be other ways to withdraw the tokens from FTX” suggests this could change. Clearly SBF’s preference will be that they are withdrawn to Solana, but the DeFi protocols on Ethereum have the most traction so at least there will likely be a bridge there.
+FTX, CM-Equity tarafından korunan hisse senetleri tarafından desteklenen [tokenize edilmiş hisse senetleri](https://help.ftx.com/hc/en-us/articles/360051229472-Tokenized-Stocks) sunar. Şu anda FTX, bu jetonların platformlarının dışında olmasına izin vermiyor, ancak “Gelecekte, jetonları FTX'ten çekmenin başka yolları olabilir” yorumu bunun değişebileceğini gösteriyor. Açıkça SBF'nin tercihi Solana'ya çekilmeleri olacak, ancak Ethereum üzerindeki DeFi protokolleri en fazla çekişe sahip, bu yüzden en azından orada bir köprü olacak.
 
-One example of a tokenized equity already on Ethereum is the [wCRES token](https://defi.crescofin.ch/): “The wCRES token is a simple ERC20 token that conveys equity rights in CrescoFin to the tokenholder. There is no restriction on transferability and no need to undergo a KYC check.” Coincidentally, they’re also in the yield business and with Stani Kulechov as an advisor Aave is likely to be their first choice for earning that yield.
+Halihazırda Ethereum'da bulunan tokenize öz sermayeye bir örnek [wCRES token](https://defi.crescofin.ch/): “wCRES token, CrescoFin'deki öz sermaye haklarını token sahibine ileten basit bir ERC20 token'dır. Aktarılabilirlik konusunda herhangi bir kısıtlama yok ve KYC kontrolünden geçmeye gerek yok.” Tesadüfen, onlar da getiri işindeler ve danışman olarak Stani Kulechov ile Aave, bu getiriyi elde etmek için muhtemelen ilk tercihleri olacak.
 
-These tokenized equities will bring another asset-type to Ethereum. Some protocols might accept custodied tokenized equities, other protocols might accept their synthetic counterparts. This, as well as arbitrage opportunities, will create demand for swapping from one to another, and that’s what Curve enables so well. It will then be up to an asset manager on Ethereum to find a way for you to earn trading fees and any additional rewards available in DeFi. That is what Yearn does best.
+Bu tokenize edilmiş hisse senetleri, Ethereum'a başka bir varlık türü getirecek. Bazı protokoller, emanete alınmış tokenize edilmiş hisse senetlerini kabul edebilir, diğer protokoller ise onların sentetik karşılıklarını kabul edebilir. Bu, arbitraj fırsatlarının yanı sıra, birinden diğerine takas talebi yaratacaktır ve Curve bunu çok iyi sağlar. Ardından, ticaret ücretleri ve DeFi'de mevcut olan ek ödüller kazanmanız için bir yol bulmak Ethereum'daki bir varlık yöneticisine bağlı olacaktır. Yearn'ın en iyi yaptığı şey bu.
 
-**IPOs on Ethereum (slightly speculative)**
+**Ethereum'daki halka arzlar (biraz spekülatif)**
 
-Tokenizing equities that already exist is a huge step to increasing the addressable market of an asset manager on Ethereum. But what about new equities?
+Halihazırda var olan hisse senetlerini tokenize etmek, Ethereum'daki bir varlık yöneticisinin adreslenebilir pazarını artırmak için büyük bir adımdır. Peki ya yeni hisse senetleri?
 
-Initial Public Offerings (IPOs) are expensive. The underwriting fees from a PWC report are shown below. Note that there’s no quote for deals under $25m, welcome to traditional finance. The column on the right shows the number of middlemen that could one day be disintermediated by using Ethereum.
+İlk Halka Arzlar (IPO'lar) pahalıdır. Bir PWC raporundaki sigortalama ücretleri aşağıda gösterilmiştir. 25 milyon doların altındaki anlaşmalar için fiyat teklifi olmadığını unutmayın, geleneksel finansa hoş geldiniz. Sağdaki sütun, Ethereum kullanılarak bir gün aracısız hale getirilebilecek aracıların sayısını gösterir.
 
 ![](image12.png)
 
-[Underwriting fees](https://www.pwc.com/us/en/services/deals/library/cost-of-an-ipo.html) for IPOs in traditional finance
+Geleneksel finansta halka arzlar için [Taahhüt ücretleri](https://www.pwc.com/us/en/services/deals/library/cost-of-an-ipo.html).
 
-During 2017/18 there were lots of scam Initial Coin Offerings (ICOs). There were so many because they were cheap to do, and there were lots of people with spare cash willing to take a gamble.
+2017/18 döneminde çok sayıda Dolandırıcılık İlk Para Teklifi (ICO) vardı. Çok fazla insan vardı çünkü bunları yapmak ucuzdu ve kumar oynamak için parası olan bir sürü insan vardı.
 
-But the narrative of there being lots of scams doesn’t tell the full story. It is now possible to carry out an IPO on Ethereum for a much lower cost. Lots of ICOs in 2017/18 turned out to be illegal securities, but the technology is just as good for legal securities too. So what will be the first high profile IPO on Ethereum?
+Ancak çok sayıda dolandırıcılığın olduğu anlatısı, hikayenin tamamını anlatmıyor. Artık çok daha düşük bir maliyetle Ethereum üzerinde halka arz gerçekleştirmek mümkün. 2017/18'deki birçok ICO'nun yasadışı menkul kıymetler olduğu ortaya çıktı, ancak teknoloji yasal menkul kıymetler için de iyi. Peki Ethereum'daki ilk yüksek profilli halka arz ne olacak?
 
-There have been only two so far (that I can find), both of which are related to Ethereum ([a fund](https://www.coindesk.com/ether-fund-ipo-3iq-tsx) and a [trading platform](https://token.inx.co/?_ga=2.105952771.1875400193.1615853639-1172741532.1615853639)). Ethereum is still considered risky, so don’t expect risk-averse companies to launch their IPOs on Ethereum any time soon. But for a smaller company that has a greater appetite for risk an IPO on Ethereum may be the best way to raise capital.
+Her ikisi de Ethereum ([fon](https://www.coindesk.com/ether-fund-ipo-3iq-tsx) ve [ticaret platformu](https://token.inx.co/?_ga=2.105952771.1875400193.1615853639-1172741532.1615853639) ile ilgili olan) şimdiye kadar sadece iki tane (bulabildiğim) oldu. Ethereum hala riskli kabul ediliyor, bu nedenle riskten kaçınan şirketlerin halka arzlarını yakın zamanda Ethereum'da başlatmalarını beklemeyin.
 
-**Bonds as well? (Very speculative)**
+** Tahviller de mi? (Çok spekülatif)**
 
-Bonds are less risky than crypto and equities (measured by historic volatility). There’s more than [$100 trillion](https://www.icmagroup.org/Regulatory-Policy-and-Market-Practice/Secondary-Markets/bond-market-size/) of them. If ever, they will likely come last to Ethereum. No-one is pestering the Spartan Council for a synthetic 30-year US treasury, sTMUBMUSD30Y, to lock in 2.4% pa yield. However, there are signs of large traditional financial players testing the waters.
+Tahviller, kripto ve hisse senetlerinden daha az risklidir (tarihsel inişçıkışlarla ölçülür). Bunların [100 trilyon dolardan](https://www.icmagroup.org/Regulatory-Policy-and-Market-Practice/Secondary-Markets/bond-market-size/) fazlası var. Eğer olursa, muhtemelen Ethereum'a en son gelecekler. Kimse Sparta Konseyi'ni sentetik bir 30 yıllık ABD hazinesi olan sTMUBMUSD30Y için %2,4 pa verimle kilitlemek için rahatsız etmiyor. Bununla birlikte, suları test eden büyük geleneksel finansal oyuncuların işaretleri var.
 
 ![](image13.png)
-History of bond issuance on blockchains ([Binance Research](https://research.binance.com/en/analysis/santander-bond), Coindesk)
+Blok zincirlerinde tahvil ihracının geçmişi ([Binance Araştırması](https://research.binance.com/en/analysis/santander-bond), Coindesk)
 
-These institutions and companies are testing the technology because it is cheap. If it’s cheap it saves them money and gives them an edge against competitors.
+Bu kurum ve şirketler teknolojiyi ucuz olduğu için test ediyor. Ucuzsa, onlara para kazandırır ve rakiplerine karşı avantaj sağlar.
 
-Like most assets, bonds are lent, borrowed and traded giving rise to interest and trading fees respectively. In traditional finance most of the interest and trading fees would go to a middleman. But imagine depositing a tokenized version of a 30-year treasury in a Yearn vault to earn an additional yield from people shorting and trading the bond. This may sound fanciful but the technology already exists, as far as Ethereum is concerned a bond would be another ERC-20 token (ok, maybe there’s some technicalities to be ironed out). Lending protocols would first need to accept the bond as collateral, and then Curve Finance (or another AMM) would need to create a liquidity pool where it could be traded and finally Yearn would need to build strategies for the bond.
+Çoğu varlık gibi, tahviller de ödünç verilir, ödünç alınır ve alınıp satılır, bu da sırasıyla faiz ve ticaret ücretlerine yol açar. Geleneksel finansta faiz ve ticaret ücretlerinin çoğu bir aracıya gider. Ancak, tahvili kısa devre yapan ve takas eden insanlardan ek bir getiri elde etmek için 30 yıllık bir hazinenin tokenize edilmiş bir versiyonunu Yearn kasasına yatırdığınızı hayal edin. Bu kulağa hayal ürünü gelebilir ancak teknoloji zaten mevcut, Ethereum söz konusu olduğunda, bir tahvil başka bir ERC-20 jetonu olacaktır (tamam, belki düzeltilmesi gereken bazı teknikler vardır). Borç verme protokollerinin önce bonoyu teminat olarak kabul etmesi gerekecek, ardından Curve Finance'in (veya başka bir AMM'nin) bunun alınıp satılabileceği bir likidite havuzu yaratması gerekecek ve son olarak Yearn'in tahvil için stratejiler geliştirmesi gerekecekti.
 
-If issuing bonds turns out to be cheaper on Ethereum (along with all the other advantages) and over time the perception that using Ethereum is too risky changes, then it’s highly likely that more bonds will be issued on Ethereum.
+Tahvil ihraç etmenin Ethereum'da daha ucuz olduğu ortaya çıkarsa (diğer tüm avantajlarla birlikte) ve zaman içinde Ethereum kullanmanın çok riskli olduğu algısı değişirse, Ethereum'da daha fazla tahvil ihraç edilmesi kuvvetle muhtemeldir.
 
-These institutions will not be quibbling over a $1,000 gas fee.
+Bu kurumlar, 1.000 dolarlık bir gaz ücreti üzerinde gevezelik etmeyecekler.
 
-**Assets in search of yield**
+** Getiri arayışındaki varlıklar**
 
-Today there are more than $300bn of assets on Ethereum with the potential for many more. Yearn is well-placed to become the go-to asset manager for those willing to take on the additional risks of interacting with more protocols in search of higher yields.
+Bugün Ethereum'da çok daha fazlasının potansiyeline sahip 300 milyar dolardan fazla varlık var. Yearn, daha yüksek getiri arayışında daha fazla protokolle etkileşime girmenin ek risklerini üstlenmeye istekli olanlar için başvurulacak varlık yöneticisi olmak için iyi bir konumdadır.
 
-**4\. Yearn is leading the innovation in risk-adjusted yields**
+**4\. Yearn, riske göre ayarlanmış getirilerde yeniliğe öncülük ediyor**
 
-**Crypto yields before 0 B.C**
+**Kripto getirisi MÖ 0'dan önce gelir**
 
-Cronje wasn’t the first person to realise the importance of yield in crypto. BlockFi offered yields from institutional lending in 2017 and then Mashinsky “The Machine” introduced the CEL token as an incentivizing mechanism (and to distribute revenues more equitably amongst depositors).
+Cronje, kriptoda verimin önemini fark eden ilk kişi değildi. BlockFi, 2017 yılında kurumsal kredilerden elde edilen getiriler sundu ve ardından Mashinsky “The Machine”, bir teşvik mekanizması olarak (ve gelirleri mevduat sahipleri arasında daha adil bir şekilde dağıtmak için) CEL tokenini tanıttı.
 
-However, these are companies. They are centralized.
+Ancak bunlar şirketler. Merkezileşmişlerdir.
 
-The challenge that the DeFi entrepreneurs took up was to find a way of trading, borrowing and lending in a censorship-resistant way with code replacing the middleman. Even if the models replicated traditional finance they would have the advantages of transparency, no middlemen and available to anyone with an internet connection.
+DeFi girişimcilerinin karşılaştığı zorluk, aracının yerini alan kod ile sansüre dayanıklı bir şekilde ticaret, borç alma ve borç vermenin bir yolunu bulmaktı. Modeller geleneksel finansı kopyalasalar bile şeffaflık, aracısız olma ve internet bağlantısı olan herkesin kullanımına açık olma avantajlarına sahip olacaklardı.
 
-![](image14.png)History of crypto yields before 0 B.C⁴
+![](image14.png)Kripto getirilerinin tarihi MÖ⁴ 0'dan önce gelir
 
-Compound Finance’s lending protocol was the first DeFi protocol that allowed you to earn a yield. However, it wasn’t until the [launch of the COMP](https://www.coindesk.com/compounds-comp-token-price-doubles-amid-defi-mania) token in June 2020 that usage skyrocketed.
+Compound Finance'in borç verme protokolü, getiri elde etmenizi sağlayan ilk DeFi protokolüydü. Ancak, Haziran 2020'de [COMP lansmanı](https://www.coindesk.com/compounds-comp-token-price-doubles-amid-defi-mania) jetonunu kullanana kadar, kullanım fırladı.
 
-Synthetix deserves a special mention because they were the first DeFi protocol to use their token as an incentivizing mechanism to grow the protocol (unlike many protocols that even 2 years later, just give away tokens for staking that are then sold immediately). In other words, Synthetix is partly responsible for all the APYs quoted everywhere in DeFi — sometimes called yield farming, liquidity mining, or just earning rewards.
+Synthetix özel olarak anılmayı hak ediyor çünkü onlar, belirteçlerini protokolü büyütmek için teşvik edici bir mekanizma olarak kullanan ilk DeFi protokolüydü (2 yıl sonra bile, daha sonra hemen satılan staking için belirteçleri veren birçok protokolün aksine). Başka bir deyişle, Synthetix, DeFi'de her yerde alıntılanan tüm APY'lerden kısmen sorumludur - bazen verim çiftçiliği, likidite madenciliği veya sadece ödül kazanma olarak adlandırılır.
 
-In early 2020 Aave popularized flashloans and uses the fees to increase the depositors’ yield. Flashloans let you borrow without providing collateral, as long as you pay the loan back within the same block (13 seconds). Lots of exploits use flashloans giving them a bad rap for a couple of weeks after each exploit, but they are a useful stress test and make DeFi more robust in the longer term.
+2020'nin başlarında Aave flash kredileri popüler hale getirdi ve ücretleri mevduat sahiplerinin getirisini artırmak için kullanıyor. Flash krediler, krediyi aynı blok içinde (13 saniye) geri ödediğiniz sürece teminat vermeden ödünç almanıza izin verir. Birçok istismar, flash krediler kullanır ve her istismardan sonra birkaç hafta onlara kötü bir rap verir, ancak bunlar yararlı bir stres testidir ve DeFi'yi uzun vadede daha sağlam hale getirir.
 
-Earning a yield in crypto saw 6 innovations in 7 years. And then came Cronje.
+Kriptoda getiri elde etmek 7 yılda 6 yenilik gördü. Ve sonra Cronje geldi.
 
-When Cronje started working on Yearn v1 there were several problems that people had to overcome in order to interact with DeFi protocols. Even something as simple as switching funds between the highest lending protocols required:
+Cronje, Yearn v1 üzerinde çalışmaya başladığında, insanların DeFi protokolleriyle etkileşim kurmak için üstesinden gelmeleri gereken birkaç sorun vardı. Gerekli olan en yüksek borç verme protokolleri arasında fon değiştirmek kadar basit bir şey:
 
-- enough ETH to pay for gas each time interest rates on the lending protocols varied materially
-- an understanding of how the underlying lending protocols work
-- an understanding of the risks involved
-- a lot of time — both to check the yields and then to make the transactions
+- borç verme protokollerindeki faiz oranları önemli ölçüde değiştiğinde gaz için ödeme yapmaya yeterli ETH
+- Temel borç verme protokollerinin nasıl çalıştığına dair bir anlayış
+- ilgili risklerin anlaşılması
+- çok zaman - hem getirileri kontrol etmek hem de işlemleri yapmak için
 
-![](image15.png)The problems with DeFi that Yearn helps to solve
+![](image15.png)Yearn'in çözmesine yardımcı olan DeFi ile ilgili sorunlar
 
-Initially Andre carried out these transactions manually. By aggregating capital the gas fees can be shared, not everyone needs to understand all the protocols at the same level of detail, and you can deposit your funds and let one person do the work. The challenge was to automate the process.
+Başlangıçta Andre bu işlemleri manuel olarak gerçekleştirdi. Sermayeyi toplayarak, gaz ücretleri paylaşılabilir, herkesin tüm protokolleri aynı ayrıntı düzeyinde anlaması gerekmez ve paranızı yatırabilir ve işi bir kişinin yapmasına izin verebilirsiniz. Zorluk, süreci otomatikleştirmekti.
 
-**Innovations in automated yields**
+**Otomatik getirilerdeki yenilikler**
 
-First of all Andre had to figure out how each lending protocol calculated the yield, which he explains [here](https://medium.com/iearn/how-we-built-on-chain-apr-for-ethereum-defi-a8d84b680758). Then he ran in to some problems which he explains [here](https://medium.com/iearn/yield-aggregator-problem-s-2-3-4-and-5-too-large-to-move-9a75432a50de). But it wasn’t long before Yearn was moving funds to whichever lending protocol had the highest yield.
+Her şeyden önce Andre, [burada](https://medium.com/iearn/how-we-built-on-chain-apr-for-ethereum-defi-a8d84b680758) açıkladığı gibi, her bir borç verme protokolünün getiriyi nasıl hesapladığını bulmak zorundaydı. Sonra [burada](https://medium.com/iearn/yield-aggregator-problem-s-2-3-4-and-5-too-large-to-move-9a75432a50de) açıkladığı bazı problemlerle karşılaştı. Ancak Yearn'in fonları en yüksek getiriye sahip olan kredi protokolüne taşıması çok uzun sürmedi.
 
-He then found a way for the protocol to earn additional trading fees by providing liquidity to Curve Finance.
+Daha sonra protokolün Curve Finance'e likidite sağlayarak ek ticaret ücretleri kazanmasının bir yolunu buldu.
 
-When the COMP token was launched, kicking off the yield farming summer of 2020, this meant that Yearn had to incorporate the price of COMP in to the yield calculations.
+COMP belirteci, 2020 yazında verim çiftçiliği başlatıldığında, bu, Yearn'in COMP fiyatını verim hesaplamalarına dahil etmesi gerektiği anlamına geliyordu.
 
-When Curve introduced the concept of “boosties” for locking CRV, Yearn found a way of incentivizing people to lock their CRV indefinitely to earn a regular yield in a stablecoin pool (3CRV), which would boost the yields of Yearn’s depositors (the “[backscratcher](https://twitter.com/iearnfinance/status/1376912409688956932?s=20)”).
+Curve, CRV'yi kilitlemek için "takviyeler" kavramını tanıttığında, Yearn, insanları bir stabilcoin havuzunda (3CRV) düzenli bir getiri elde etmek için CRV'lerini süresiz olarak kilitlemeye teşvik etmenin bir yolunu buldu, bu da Yearn'in mevduat sahiplerinin (“[backscratcher](https://twitter.com/iearnfinance/status/1376912409688956932?s=20)”)
 
-But Andre was still not happy. There remained capital inefficiencies everywhere he looked, such as capital sitting idle in Cream Finance (a lending protocol in Yearn’s ecosystem). Say there’s 10m Dai sitting in Cream Finance and not being lent out (therefore earning no yield) and Yearn has a strategy that could earn 10% APY on Dai, even if only for a very short time. What if Yearn could borrow that Dai for a lower interest rate, earn the 10% APY, and pay the loan back either when the strategy no longer produced excess yield or when the depositor on Cream Finance wanted their Dai returned? That’s what Yearn does — not for its own benefit — but to increase the yields of depositors. It was a first in [protocol-to-protocol uncollateralized lending](https://creamdotfinance.medium.com/introducing-the-iron-bank-bab9417c9a).
+Ama Andre hâlâ mutlu değildi. Baktığı her yerde, Cream Finance'de (Yılın ekosisteminde bir borç verme protokolü) atıl duran sermaye gibi sermaye verimsizlikleri vardı. Cream Finance'de 10 milyon Dai'nin oturduğunu ve ödünç verilmediğini (dolayısıyla getiri elde etmediğini) ve Yearn'in çok kısa bir süre için bile olsa Dai'de %10 APY kazanabilecek bir stratejisi olduğunu varsayalım. Ya Yearn bu Dai'yi daha düşük bir faiz oranı için ödünç alabilir, %10 APY kazanabilir ve strateji artık fazla getiri sağlamadığında ya da Cream Finance'deki mevduat sahibi Dai'lerinin iade edilmesini istediğinde krediyi geri ödeyebilirse? Yearn bunu kendi çıkarı için değil, mevduat sahiplerinin getirilerini artırmak için yapıyor. [protokolden protokole teminatsız kredi verme](https://creamdotfinance.medium.com/introducing-the-iron-bank-bab9417c9a) alanında bir ilkti.
 
-![](image16.png)Yearn’s innovations in yields
+![](image16.png)Yearn'in verimdeki yenilikleri
 
-The bar at the bottom of the diagram above represents an innovation in yields that came with the help of another ecosystem partner, Sushi. As a way of incentivizing people to lock their CRV indefinitely Yearn created a complex asset called yveCRV. However, there was no market for yveCRV so Yearn incentivized people to provide liquidity to yveCRV-ETH by offering rewards in Sushi. This turned an illiquid asset into a liquid one using an ecosystem partner. This is not your average DeFi protocol.
+Yukarıdaki diyagramın alt kısmındaki çubuk, başka bir ekosistem ortağı Sushi'nin yardımıyla gelen verimdeki bir yeniliği temsil ediyor. İnsanları CRV'lerini süresiz olarak kilitlemeye teşvik etmenin bir yolu olarak Yearn, yveCRV adlı karmaşık bir varlık yarattı. Ancak, yveCRV için bir pazar yoktu, bu nedenle Yearn insanları Sushi'de ödüller sunarak yveCRV-ETH'ye likidite sağlamaya teşvik etti. Bu, bir ekosistem ortağı kullanarak likit olmayan bir varlığı likit hale getirdi. Bu, ortalama DeFi protokolünüz değil.
 
-**Yearn’s v2 vaults become multi-strategy**
+**Yearn v2 vault'ları çok stratejili hale geliyor**
 
-Despite all these innovations Yearn’s vaults contained one significant limitation. They could only run one strategy at a time. The magnitude of the problem, and its impact on scalability, was realised soon after the first ETH vault in September 2020 but it was not long before fubuloubu posted the vaults v2 design in Yearn Improvement Proposal 48 ([YIP-48](https://gov.yearn.finance/t/yip-48-vaults-v2-design/6658)).
+Tüm bu yeniliklere rağmen Yearn'in vault'ları önemli bir sınırlama içeriyordu. Bir seferde yalnızca bir strateji yürütebilirler. Sorunun büyüklüğü ve ölçeklenebilirlik üzerindeki etkisi, Eylül 2020'deki ilk ETH vault'ından hemen sonra fark edildi, ancak fubuloubu'nun Yıl İyileştirme Önerisi 48'de ([YIP-48](https://gov.yearn.finance/t/yip-48-vaults-v2-design/6658)) vault v2 tasarımını yayınlaması çok uzun sürmedi.
 
-The vault re-design proposed in YIP-48 has now been implemented, audits have been carried out and new strategies are ready to go.
+YIP-48'de önerilen vault yeniden tasarımı şimdi uygulandı, denetimler yapıldı ve yeni stratejiler uygulanmaya hazır.
 
-The image below shows the yvDai vault earning a yield for depositors with 6 strategies in action at the same time (the strategy labels are in green).
+Aşağıdaki resim, aynı anda 6 stratejiyi uygulayan mevduat sahipleri için getiri elde eden yvDai vault'unu göstermektedir (strateji etiketleri yeşil renktedir)
 
 ![](image17.jfif)
 
-Six strategies in one vault ([https://twitter.com/bantg/status/1377681238249574404?s=20](https://twitter.com/bantg/status/1377681238249574404?s=20))
+Tek vault'da altı strateji ([https://twitter.com/bantg/status/1377681238249574404?s=20](https://twitter.com/bantg/status/1377681238249574404?s=20))
 
-Ceazor explains the different strategies [here](https://www.youtube.com/watch?v=Ur9bWz8SfOs). They’re getting complicated.
+Ceazor farklı stratejileri [burada](https://www.youtube.com/watch?v=Ur9bWz8SfOs) açıklıyor. Karmaşık olmaya başladılar.
 
-The diagram below shows the inner workings of the GenericLevCompFarm strategy, where 57% of the yvDai vault is being deployed.
+Aşağıdaki şema, yvDai vault'unun %57'sinin dağıtıldığı GenericLevCompFarm stratejisinin iç işleyişini göstermektedir.
 
 ![](image18.jpg)
 
-Diagram of the first strategy, GenericLevCompFarm, shown in banteg’s tweet above
+Banteg'in yukarıdaki tweetinde gösterilen ilk strateji olan GenericLevCompFarm'ın şeması
 
-This is not just another DeFi protocol or yield aggregator.
+Bu sadece başka bir DeFi protokolü veya getiri derleyici değildir.
 
-**Managing Risk**
+**Risk Yönetimi**
 
-Although one of the common criticisms of yield aggregators is that a significant chunk of the yields is dependent on temporary rewards issued by DeFi protocols, even without these rewards there is no competition from traditional finance. Towards the end of 2020 [negative yielding debt hit $18 trillion](https://www.bloomberg.com/news/articles/2020-12-11/world-s-negative-yield-debt-pile-at-18-trillion-for-first-time#:~:text=About%20%241%20trillion%20of%20bonds,30%25%20peak%20reached%20last%20year).
+Getiri toplayıcılara yönelik yaygın eleştirilerden biri, getirilerin önemli bir bölümünün DeFi protokolleri tarafından verilen geçici ödüllere bağlı olduğu olsa da, bu ödüller olmasa bile geleneksel finanstan rekabet olmaz. 2020'nin sonuna doğru [negatif getirili borç 18 trilyon dolara ulaştı](https://www.bloomberg.com/news/articles/2020-12-11/world-s-negative-yield-debt-pile-at-18-trillion-for-first-time#:~:text=About%20%241%20trillion%20of%20bonds,30%25%20peak%20reached%20last%20year).
 
-The greater challenge seems to be to reduce the real and perceived risks of interacting with the assets and protocols on Ethereum. People do not stick around with asset managers that lose their money.
+Daha büyük zorluk, Ethereum'daki varlıklar ve protokollerle etkileşimin gerçek ve algılanan risklerini azaltmak gibi görünüyor. İnsanlar, paralarını kaybeden varlık yöneticilerine takılıp kalmazlar.
 
-A key part of Yearn’s brand is its focus on security which Cronje prioritized in the first version in early 2020. Developers have to determine which protocols and strategies are trustworthy, think through potential economic exploits, limit deposits in to certain strategies and find ways of covering losses in case exploits do occur. The seriousness with which Yearn takes security and the speed with which it resolves issues that arise is evidenced by the detail in its [vulnerability disclosure reports](https://github.com/yearn/yearn-security/tree/master/disclosures) and the [system specification](https://github.com/yearn/yearn-vaults/blob/master/SPECIFICATION.md). Higher level risk controls are shown in the table below.
+Yearn's markasının önemli bir parçası, Cronje'nin 2020'nin başlarındaki ilk sürümde öncelik verdiği güvenliğe odaklanmasıdır. Geliştiriciler, hangi protokollerin ve stratejilerin güvenilir olduğunu belirlemeli, potansiyel ekonomik istismarları düşünmeli, mevduatları belirli stratejilerle sınırlandırmalı ve bunları kapsamanın yollarını bulmalıdır. istismarların meydana gelmesi durumunda kayıplar. Yearn'in güvenliği ciddiye alma ve ortaya çıkan sorunları çözme hızı, [güvenlik açığı açıklama raporlarında](https://github.com/yearn/yearn-security/tree/master/disclosures) ve [sistem spesifikasyonunda](https://github.com/yearn/yearn-vaults/blob/master/SPECIFICATION.md) ayrıntılarla kanıtlanmıştır. Daha yüksek seviyeli risk kontrolleri aşağıdaki tabloda gösterilmiştir.
 
-![](image19.png)Prioritizing security from day 1
+![](image19.png)1. günden itibaren güvenliğe öncelik vermek
 
-The yAcademy is my favourite from the list above because it illustrates the emergent nature of Yearn — and DeFi in general. It started with just some dev (Andre) writing some code (Yearn v1). People he didn’t know thought it was interesting and started interacting with it so he started a telegram group where it was discussed. Auditing the code was necessary, but expensive and slow, due to there being few people with the required skills and because it is hard and time-consuming. It’s still a bottleneck for the whole of DeFi, not just for Yearn. 9 months later Ali Atiia **(**@aliatiia\_) submits a [governance proposal](https://gov.yearn.finance/t/lets-poach-samczsun-and-plant-the-seed-for-an-auditing-academy/5507) (viewed by 2.3k people) for Yearn to develop an academy to train auditors. 2 months after the proposal, and a partnership with Gitcoin and Status in-hand, [YIP-53](https://gov.yearn.finance/t/yip-53-yacademy-planting-the-seed-of-a-sustainably-secure-future-for-yearn-and-beyond/7929) is submitted. This officially creates yAcademy with a budget and a detailed specification.
+YAcademy, yukarıdaki listeden favorim çünkü Yearn ve genel olarak DeFi'nin ortaya çıkan doğasını gösteriyor. Sadece bazı geliştiricilerin (Andre) bazı kodlar yazmasıyla başladı (Yearn v1). Tanımadığı insanlar bunun ilginç olduğunu düşündü ve onunla etkileşime girmeye başladı, bu yüzden tartışıldığı bir telgraf grubu başlattı. Kodun denetlenmesi gerekliydi, ancak gerekli becerilere sahip az sayıda insan olması ve zor ve zaman alıcı olması nedeniyle pahalı ve yavaştı. Sadece Yearn için değil, tüm DeFi için hala bir darboğaz. 9 ay sonra Ali Atiia **(**@aliatiia\_) bir [yönetim teklifi](https://gov.yearn.finance/t/lets-poach-samczsun-and-plant-the-seed-for-an-auditing-academy/5507) sundu (2.3 bin kişi tarafından izlendi) Yearn'in denetçi yetiştirecek bir akademi geliştirmesi için. Tekliften 2 ay sonra ve eldeki Gitcoin ve Status ile bir ortaklık, [YIP-53](https://gov.yearn.finance/t/yip-53-yacademy-planting-the-seed-of-a-sustainably-secure-future-for-yearn-and-beyond/7929) gönderildi. Bu, resmi olarak bir bütçe ve ayrıntılı bir şartname ile yAcademy'yi yaratır.
 
-This happened with no management. No HR department. No résumés.
+Bu yönetim olmadan oldu. İK departmanı yok. Özgeçmiş yok.
 
-**Evidence of adoption**
+**Benimseme kanıtı**
 
-It’s one thing to describe how Yearn is leading the innovation in risk-adjusted yields, but ultimately the asset management industry uses one key metric, and that’s AUM (TVL in DeFi). This is up by 3x in the last quarter. At less than 1% of the assets on Ethereum, which are themselves growing at a rapid pace, there is still plenty of room for Yearn’s AUM to grow.
+Yearn'in riske göre ayarlanmış getirilerde inovasyona nasıl öncülük ettiğini açıklamak bir şeydir, ancak sonuçta varlık yönetimi endüstrisi tek bir temel metrik kullanır ve bu da AUM'dur (DeFi'de TVL). Bu son çeyrekte 3 kat arttı. Kendileri hızlı bir şekilde büyüyen Ethereum'daki varlıkların %1'inden daha azında, Yearn's AUM'nin büyümesi için hala bolca yer var.
 
-![](image20.jfif)Yearn’s TVL hits $1.84b on 31st March 2021 — The Block (and banteg)
+![](image20.jfif)Yearn'in TVL'si 31 Mart 2021'de 1,84 milyar dolara ulaştı — The Block (ve banteg)
 
-**5\. Competition**
+**5\. Rekabet**
 
-Two of the largest crypto asset managers are Grayscale ([$45bn AUM](https://twitter.com/Grayscale/status/1377000118298275846)) and Celsius Network ([$14bn AUM](https://twitter.com/Mashinsky/status/1378340230265200644?s=20)). It’s natural to consider these as Yearn’s competitors because they are also competing for your crypto. However, this ignores how early we are. Blackrock’s AUM is $8.7 trillion, and the total AUM of the global asset management industry is $110 trillion.
+En büyük kripto varlık yöneticilerinden ikisi Grayscale ([45 milyar $ AUM](https://twitter.com/Grayscale/status/1377000118298275846)) ve Celsius Network ([$14bn AUM](https://twitter.com/Mashinsky/status/1378340230265200644?s=20)). Bunları Yearn'in rakipleri olarak düşünmek doğaldır çünkü onlar da kriptonuz için rekabet etmektedirler. Ancak, bu ne kadar erken olduğumuzu görmezden geliyor. Blackrock'un AUM'si 8,7 trilyon dolar ve küresel varlık yönetimi endüstrisinin toplam AUM'si 110 trilyon dolar.
 
-**Grayscale ($45bn)**
+**Grayscale (45 milyar dolar)**
 
-Grayscale caters to a different user base. Grayscale’s trusts allow you to hold crypto in tax-advantaged accounts with a focus on security. Investors can hold the trust in their brokerage account so they do not have to worry about a private key. In return for the perceived security and tax saving, potential investors are willing to pay an annual management charge.
+Grayscale, farklı bir kullanıcı tabanına hitap eder. Grayscale'in güvenleri, güvenlik odaklı vergi avantajlı hesaplarda kripto para tutmanıza olanak tanır. Yatırımcılar, özel bir anahtar hakkında endişelenmek zorunda kalmamak için aracılık hesaplarındaki güveni elinde tutabilir. Algılanan güvenlik ve vergi tasarrufu karşılığında, potansiyel yatırımcılar yıllık yönetim ücreti ödemeye hazırdır.
 
-Grayscale has [filed](https://www.coindesk.com/grayscale-files-to-register-trust-for-defi-platform-yearn-finance) to register a trust for YFI. If this goes ahead it would allow equity investors to get exposure to YFI. A more interesting synergy between the company and the protocol would be if Grayscale introduces trusts for Yearn’s vaults tokens— this could increase both Yearn’s and Grayscale’s AUM. For example, a yield-bearing yvETH trust could more than offset the fees charged by Grayscale. This may seem far-fetched but 9 months ago the YFI token didn’t exist — things move fast in crypto. yvETH may need to become liquid first, perhaps with help from Yearn’s ecosystem partner Sushi by incentivizing liquidity provision to the yvETH-ETH pair.
+Grayscale, YFI için bir güven kaydettirmek için [dosya açtı](https://www.coindesk.com/grayscale-files-to-register-trust-for-defi-platform-yearn-finance). Bu devam ederse, hisse senedi yatırımcılarının YFI'ye maruz kalmasına izin verecektir. Şirket ve protokol arasında daha ilginç bir sinerji, Grayscale'in Yearn'in vault jetonları için güvenleri tanıtması olabilir - bu hem Yearn'in hem de Grayscale'in AUM'sini artırabilir. Örneğin, getiri sağlayan bir yvETH güveni, Grayscale tarafından alınan ücretleri dengelemekten fazlasını sağlayabilir. Bu çok zor görünebilir, ancak 9 ay önce YFI belirteci yoktu - kriptoda işler hızlı hareket ediyor. Belki de Yearn'in ekosistem ortağı Sushi'nin yvETH-ETH çiftine likidite tedarikini teşvik ederek yardımıyla yvETH'nin önce likit hale gelmesi gerekebilir.
 
-**Celsius ($14bn)**
+**Celsius ($14 milyar dolar)**
 
-Celsius Network has several licenses and appears to be doing its best to meet the latest regulations. It does not charge fees and is not restricted to assets on Ethereum which gives it a much greater addressable market than Yearn today. Celsius could be considered a competitor to Yearn because they are both asset managers competing for assets.
+Celsius Network'ün birkaç lisansı var ve en son düzenlemeleri karşılamak için elinden gelenin en iyisini yapıyor gibi görünüyor. Ücret talep etmez ve Ethereum'daki varlıklarla sınırlı değildir, bu da ona bugün Yearn'den çok daha büyük bir adreslenebilir pazar sağlar. Celsius, Yearn için bir rakip olarak kabul edilebilir çünkü ikisi de varlıklar için rekabet eden varlık yöneticileridir.
 
-However, if Yearn’s vaults earn the highest risk-adjusted yields in DeFi, then there’s no reason why Celsius could not use Yearn’s vaults. Celsius pays [17.8% APY](https://celsius.network/rates/) on [SNX](https://www.stakingrewards.com/earn/synthetix-network-token) and [Matic](https://www.stakingrewards.com/earn/matic-network) which is much more likely paid from staking rewards than from institutional lending (where the majority of their revenue comes from). It is not such a big leap for Celsius to go from staking SNX to earning a yield with Yearn.
+Bununla birlikte, Yearn'in vault'ları DeFi'de riske göre ayarlanmış en yüksek verimi alıyorsa, o zaman Celsius'un Yearn'in vault'larını kullanmaması için hiçbir neden yoktur. Celsius, [SNX](https://www.stakingrewards.com/earn/synthetix-network-token) ve [Matic](https://www.stakingrewards.com/earn/matic-network)'te [%17.8 APY](https://celsius.network/rates/) öder ve bu, kurumsal kredilerden (gelirlerinin çoğunluğunun geldiği yerden) çok daha fazla stake ödüllerinden yararlanır. Celsius'un SNX'i stake etmekten Yearn ile getiri elde etmeye geçmesi o kadar da büyük bir sıçrama değil.
 
-One key advantage that protocols have over companies is the composability of DeFi (“money legos”) and the permissionless nature of DeFi which means any protocol can use Yearn’s vaults. For example, the yvDai vault recently reached its limit (temporarily) because a new protocol, Alchemix, directed funds there. A new protocol Smoothy Finance has also integrated Yearn’s vaults into their AMM. These protocol-to-protocol integrations are not possible with Celsius and will likely be crucial to Yearn’s success. Yearn’s affiliate program incentivizes these integrations and it will be interesting to see the new protocols that utilize Yearn’s vaults in the future.
+Protokollerin şirketlere göre sahip olduğu önemli bir avantaj, DeFi'nin ("para legoları") birleştirilebilirliği ve DeFi'nin izinsiz doğasıdır; bu, herhangi bir protokolün Yearn'in vault'larını kullanabileceği anlamına gelir. Örneğin, yeni bir protokol olan Alchemix, fonları oraya yönlendirdiği için yvDai vault'u kısa süre önce (geçici olarak) sınırına ulaştı. Yeni bir protokol olan Smoothy Finance, Yearn'in vault'larını AMM'lerine de entegre etti. Bu protokolden protokole entegrasyonlar Celsius ile mümkün değildir ve muhtemelen Yearn'in başarısı için çok önemli olacaktır. Yearn'in ortaklık programı bu entegrasyonları teşvik ediyor ve gelecekte Yearn'in vault'larını kullanan yeni protokolleri görmek ilginç olacak.
 
-Another example of Yearn benefiting from other protocols is the recent [proposal](https://forum.cream.finance/t/list-yearn-finance-v2-yvault-tokens-as-collateral-assets/1478) to list some of Yearn’s vault tokens on the lending protocol Cream Finance, another ecosystem partner. If approved, this will allow users to earn a yield on their crypto in Yearn’s vaults and use it as collateral for borrowing at the same time — improving the capital efficiency of DeFi.
+Yearn'in diğer protokollerden yararlanmasına bir başka örnek de, başka bir ekosistem ortağı olan kredi protokolü Cream Finance'de Yearn'in vault tokenlerinden bazılarını listeleyen son [teklif](https://forum.cream.finance/t/list-yearn-finance-v2-yvault-tokens-as-collateral-assets/1478). Onaylanırsa, bu, kullanıcıların Yearn'in vault'larındaki kripto paralarından bir getiri elde etmelerine ve aynı zamanda borçlanma için teminat olarak kullanmalarına izin vererek DeFi'nin sermaye verimliliğini artıracak.
 
-The information in this article does not constitute any form of advice or recommendation and is not intended to be relied upon by users in making (or refraining from making) any investment decisions or in interacting with DeFi protocols.
+Bu makaledeki bilgiler herhangi bir tavsiye veya tavsiye niteliği taşımamaktadır ve kullanıcıların herhangi bir yatırım kararı verirken (veya vermekten imtina ederken) veya DeFi protokolleriyle etkileşimde bulunurken bu bilgilere güvenilmesi amaçlanmamıştır.
 
-Disclosure: I hold YFI and other crypto mentioned in this article.
+Açıklama: Bu makalede bahsedilen YFI ve diğer kripto paraları tutuyorum.
 
-To learn more about Yearn join [discord](https://discord.gg/cxkXa6Px), the [telegram chat](https://t.me/yearnfinance) or follow Yearn on [Twitter](https://twitter.com/iearnfinance).
+Yearn ile ilgili daha fazla bilgi edinmek için [discord](https://discord.gg/cxkXa6Px) ve [telegram kanalına ](https://t.me/yearnfinance) katılın veya [Twitter'de](https://twitter.com/iearnfinance) Yearn'ı takip edin.
 
-¹ Note that the Yearn TVL on DeFiPulse is currently out of date. DeFiPulse has the longest history of total TVL across DeFi
+¹ DeFiPulse'daki Yearn TVL'nin şu anda güncel olmadığını unutmayın. DeFiPulse, DeFi genelinde en uzun toplam TVL geçmişine sahiptir
 
-² Blackrock’s securities lending [description](https://www.blackrock.com/uk/individual/education/how-to-invest/securities-lending?switchLocale=y&siteEntryPassthrough=true)
+² Blackrock'un menkul kıymet ödünç verme işlemleri [açıklaması](https://www.blackrock.com/uk/individual/education/how-to-invest/securities-lending?switchLocale=y&siteEntryPassthrough=true)
 
-³ 90,859 bitcoins ([Reuters article](https://www.reuters.com/article/us-crypto-currency-microstrategy-idUSKCN2AT2H5)) at end March price of $59k is $5.4bn
+³ 90.859 bitcoin ([Reuters makalesi](https://www.reuters.com/article/us-crypto-currency-microstrategy-idUSKCN2AT2H5)) Mart sonunda 59 bin dolarlık fiyat 5,4 milyar dolar
 
-⁴ [BlockFi’s $15bn AUM](https://www.forbes.com/sites/ninabambysheva/2021/03/11/blockfi-gets-a-3-billion-valuation-with-new-350-million-series-d-funding/?sh=6105ca5b58a5) and protocol TVLs from [DeFillama](https://defillama.com/home)
+⁴ [BlockFi'nin 15 milyar dolarlık AUM'si](https://www.forbes.com/sites/ninabambysheva/2021/03/11/blockfi-gets-a-3-billion-valuation-with-new-350-million-series-d-funding/?sh=6105ca5b58a5) ve [DeFillama](https://defillama.com/home)'dan protokol TVL'leri
