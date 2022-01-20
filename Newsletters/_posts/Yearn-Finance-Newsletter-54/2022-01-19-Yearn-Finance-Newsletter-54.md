@@ -134,7 +134,7 @@ Vous pouvez trouver une description détaillée des stratégies de tous nos yVau
 
 [Watch out for the upcoming Yearn x Pills collaboration](https://twitter.com/bantg/status/1482764820265029633)
 
-[Check out a reading list on how to write strategies for Yearn]9https://twitter.com/sjkelleyjr/status/1481664381054177281)
+[Check out a reading list on how to write strategies for Yearn](https://twitter.com/sjkelleyjr/status/1481664381054177281)
 
 [Explore how one DAO used Coordinape to manage payroll](https://twitter.com/jkey_eth/status/1479642151730356226)
 
