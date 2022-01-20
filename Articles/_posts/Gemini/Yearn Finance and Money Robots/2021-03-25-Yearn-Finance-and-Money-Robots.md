@@ -1,79 +1,79 @@
 ---
 layout: post
-title:  "Yearn Finance and Money Robots"
+title:  "Yearn Finance和投资机器人"
 categories: [ Articles ]
 image: ./Yearn-Finance-and-Money-Robots/image1.png
 author: Gemini/Cryptopedia
-translator:
-publish: true
+translator: Bee926
+published: true
 ---
 
-original publication: [https://www.gemini.com/cryptopedia/yearn-finance-defi-lending-protocol](https://www.gemini.com/cryptopedia/yearn-finance-defi-lending-protocol)
+原始发布: [https://www.gemini.com/cryptopedia/yearn-finance-defi-lending-protocol](https://www.gemini.com/cryptopedia/yearn-finance-defi-lending-protocol)
 
-# Yearn Finance and Money Robots: Automated DeFi Strategy
+# Yearn Finance和投资机器人：自动化的DeFi策略
 
-Yearn Finance offers a suite of investment strategies powered by robots that contain “wisdom sourced from the crowd” — Yearn’s own community.
+Yearn Finance提供了一套由机器人驱动的投资策略，这些机器人应用“来自人群的智慧”-而这都来自于Yearn自己的社区中。
 
 ![alt_text](image1.png)
 
-## Summary
+## 简介
 
-Yearn Finance money robots execute investment strategies across decentralized finance (DeFi) platforms with the aim of generating the highest returns with the lowest risk. The strategies deployed include providing assets for lending, earning project tokens with yield farming, providing liquidity, or a combination of these and other investment strategies across a wide range of DeFi lending protocols. The Yearn protocol allows you to easily take part in complex investing strategies by providing tokens to the platform. Its expanding suite of products is intended to simplify investing in DeFi and is gaining traction with investors.
+Yearn Finance投资机器人在各种DeFi平台上执行投资策略，旨在以最低的风险产生最高的回报。这些投资策略包括提供贷款资产，通过挖矿赚取项目代币，提供流动性，或者将这些和其他投资策略结合起来，用于在各种的DeFi贷款协议上。Yearn协议可让您轻松的在其平台上存入货币就即可参与复杂的投资策略。其不断扩展的产品套件旨在于简化Defi投资，因此吸引了很多投资者的注意。
 
-## Contents
+## 内容
 
-- Yearn.Finance: yVaults
-- yVault Strategy Case Studies: GUSD
-- A Suite of DeFi Products
-- Wisdom of the Crowd
+- Yearn.Finance: yVaults机枪池 
+- yVault策略案例研究: GUSD
+- DeFi产品套件
+- 人群的智慧
 
-Yearn Finance develops products that automate and aim to simplify the complexity of decentralized finance (DeFi) with “money robots” that work to maximize returns for a fee. Yearn started with just one [Ethereum](https://www.gemini.com/cryptopedia/ethereum-smart-contracts-tokens-use-cases) developer — [Andre Cronje](https://www.gemini.com/cryptopedia/glossary#andre-cronje) — who sought to automate and optimize his own DeFi returns. It has now evolved into one of the most active and engaged decentralized communities on Ethereum with a focus on developing increasingly innovative ways to generate returns.
+Yearn Finance开发自动化的产品，目标是通过“投资机器人”来简化DeFi的复杂性，这些机器人可以让付费的用户获得最大化的回报。Yearn开始时只有一位[以太坊](https://www.gemini.com/cryptopedia/ethereum-smart-contracts-tokens-use-cases)开发人 —[Andre Cronje](https://www.gemini.com/cryptopedia/glossary#andre-cronje)— 他最初开始时只是想自动化和优化自己的DeFi收益。而如今，Yearn已发展为以太坊上最活跃和参与度最高的去中心化社区之一，其目标是不断地开发创新的方式来产生回报。
 
-Money robots refer to automated trading strategies executed by Yearn across Ethereum-based DeFi platforms. There are countless investment strategies that can be deployed across a growing number of DeFi protocols. For example, a Yearn money robot can earn trading fees on the [Curve protocol](https://www.gemini.com/cryptopedia/curve-crypto-automated-market-maker), borrow money using [Aave’s flash loans](https://www.gemini.com/cryptopedia/aave-flashloans), and lend assets to [Compound](https://www.gemini.com/cryptopedia/compound-finance-defi-crypto).
+投资机器人实际上就是Yearn自动化的投资策略，而这些都是在基于以太坊的平台上执行的。越来越多的DeFi产品有无数的投资策略。举些例子，Yearn投资机器人可以在[Curve 协议](https://www.gemini.com/cryptopedia/curve-crypto-automated-market-maker)上赚取交易费，使用[Aave的闪电贷](https://www.gemini.com/cryptopedia/aave-flashloans)借钱以及将资产借给[Compound](https://www.gemini.com/cryptopedia/compound-finance-defi-crypto)。
 
-## Yearn.Finance: yVaults
+## Yearn.Finance: yVaults机枪池
 
-The most popular products in the Yearn ecosystem are [yVaults](https://www.gemini.com/cryptopedia/glossary#y-vaults), a series of token pools that follow an investment strategy that is allocated across DeFi platforms. Depositing tokens into a yVault automatically mints a new [yToken](https://www.gemini.com/cryptopedia/glossary#y-tokens), which is a type of [liquidity provider (LP) token](https://www.gemini.com/cryptopedia/liquidity-provider-amm-tokens). LP tokens are automatically created when tokens are deposited into a [liquidity pool](https://www.gemini.com/cryptopedia/glossary#liquidity-pool) — and serve as a claim to a pool’s underlying assets. Each yToken can be redeemed at any time for the originally deposited tokens plus any rewards accumulated while the tokens were working in the yVault.
+Yearn生态系统中最受欢迎的产品是[yVaults](https://www.gemini.com/cryptopedia/glossary#y-vaults)，而这些池遵循在各种DeFi平台之间部署的投资策略。将货币存入yVault机枪池会自动铸造新的[yToken](https://www.gemini.com/cryptopedia/glossary#y-tokens)，而这是一种[流动性提供者（LP）代币](https://www.gemini.com/cryptopedia/liquidity-provider-amm-tokens)。流动性提供者LP代币是在将货币存入[流动性池](https://www.gemini.com/cryptopedia/glossary#liquidity-pool)后自动铸造的代币，而这些代币代表着此流动性池中基础资产的索取权。每个yToken都可以随时被用来赎回最初存入的货币，再加上货币在yVault中被使用时积累的任何奖励。
 
-For example, you can deposit [GUSD](https://www.gemini.com/cryptopedia/gusd-gemini-dollar-stablecoin-features) to the GUSD yVault and receive the LP token called yGUSD. When you exchange the yGUSD for the underlying GUSD, you receive that GUSD plus any earnings or rewards the GUSD accumulated from using the yVault’s strategy. Yearn’s yVaults compress complex layers of DeFi applications and components into a simplified trading strategy where investors provide assets and hold a token to participate in a sophisticated, algorithmic strategy.
+举个例子，您可用[GUSD](https://www.gemini.com/cryptopedia/gusd-gemini-dollar-stablecoin-features)存入GUSD yVault而获得yGUSD LP代币。当您用yGUSD来换回基础GUSD货币时， 您会收到GUSD和GUSD在yVault中被使用时积累的任何奖励。Yearn机枪池将DeFi应用程序和组件的复杂层压缩为简单化的交易策略，投资者可直接地在其中提供资产并持着LP代币就可轻松的参与复杂和算法性的策略。
 
-## yVault Strategy Case Studies: GUSD
+## yVault策略案例研究: GUSD
 
-yVault strategies are fluid, and the Yearn community can decide to change or adjust a strategy as it becomes less profitable. In the yGUSD strategy for October 2020 — which has already been altered for optimization — the strategy earns yield for the yGUSD holder through the following steps:
+yVault策略是可变的, 如果策略可得的利润变得越来越少，Yearn的社区可以决定改变或调整。在 yGUSD的 2020 年 10 月策略中（此策略已针对优化被进行了调整），该策略可通过以下步骤为yGUSD持有者赚取收益:
 
-1. GUSD is deposited into a Curve pool made up of [stablecoins](https://www.gemini.com/cryptopedia/what-are-stablecoins-how-do-they-work) GUSD, [DAI](https://www.gemini.com/cryptopedia/dai-stablecoin-what-is-dai-token), USDC, and USDT to earn fees.
-2. The LP token generated from the stablecoin pool is staked in Curve to earn the [CRV token](https://www.gemini.com/cryptopedia/glossary#crv-token).
-3. 90% of the CRV tokens earned are sold for DAI.
-4. DAI is deposited back to the original GUSD, DAI, USDC, USDT stablecoin pool to earn more fees.
+1. GUSD存入由各种[稳定币](https://www.gemini.com/cryptopedia/what-are-stablecoins-how-do-they-work)（GUSD，[DAI](https://www.gemini.com/cryptopedia/dai-stablecoin-what-is-dai-token)，USDC和USDT）组成的Curve资金池中以赚取收益。
+2. 从稳定币池铸造的LP代币被押入Curve中以赚取[CRV代币](https://www.gemini.com/cryptopedia/glossary#crv-token)。
+3. 90％所赚取的CRV代币被出售以获取更多DAI。
+4. DAI被存回原来的GUSD， DAI， USDC， USDT稳定币池以赚取更多收益。
 
-From the point of view of a user, the steps above take place under the algorithmic hood. This GUSD strategy itself is fairly simple as compared to more involved and sequentially complicated yVault strategies, which may involve borrowing money, using [leverage](https://www.gemini.com/cryptopedia/glossary#leverage), and maintaining exposure to market forces.
+从用户的角度来看，以上步骤是在算法罩下进行的。与其它yVault策略相比，这个GUSD策略本身其实相当简单，然而其它yVault策略可涉及一些比较复杂的步骤例如应用[杠杆](https://www.gemini.com/cryptopedia/glossary#leverage)贷款以维持对市场的敞口。
 
-For example, the yETH vault, which is still in an experimental stage as of December 2020 and not yet fully released, uses both the [MakerDAO](https://www.gemini.com/cryptopedia/makerdao-defi-mkr-dai-coins) and Curve protocols in its strategy. With the yETH strategy, ETH holders remain exposed to the price appreciation (or depreciation) of ETH while earning yield through the following steps:
+举个例子，截至 2020 年 12 月仍处于试验阶段且尚未完全发布的yETH机枪池，这个策略同时使用了[MakerDAO](https://www.gemini.com/cryptopedia/makerdao-defi-mkr-dai-coins)和Curve协议。通过这个yETH策略，ETH持有人以下列出的步骤获利的同时仍然保持市场敞口（ ETH 的价格升值或贬值）:
 
-1. ETH is deposited to MakerDAO as collateral.
-2. DAI is borrowed from MakerDAO using the deposited ETH as collateral.
-3. The borrowed DAI is deposited to the yDAI vault.
-4. The yDAI vault deposits DAI to Curve in order to earn fees.
-5. The LP token generated from the DAI pool is staked in Curve to earn the CRV token.
-6. The CRV tokens are sold for ETH.
-7. ETH is deposited back to MakerDAO as collateral.
+1. ETH作为抵押品存入MakerDao。
+2. DAI是使用存入的ETH作为抵押品从MakerDao借来的。
+3. 借出的DAI被存入yDAI机枪池。
+4. yDAI机枪池将DAI存入Curve中以赚取收益。
+5. 从DAI池中铸造的LP代币将被押在Curve中以赚取CRV代币。
+6. CRV代币被出售以获取更多ETH。
+7. ETH作为抵押品被存回MakerDao。
 
-Because the yETH vault borrows DAI from MakerDAO, there is the risk of getting liquidated — or having the money robot sell your ETH in order to repay your DAI loan. Liquidation occurs when the value of ETH collateral falls below the minimum 150% threshold of the value of borrowed DAI. In order to avoid liquidation, the yETH money robot aims to keep the value of ETH collateral at a safe 200% compared to the value of DAI debt. If the value of ETH collateral starts to fall below the 200% target, the money robot will automatically pay off some of the DAI debt to remain over-collateralized. Managing debt, collateral, and liquidation adds an additional layer of complexity to Yearn’s vaults.
+由于yETH机枪池的主要动作是从MakerDao借用DAI，因此会有清算的风险 — 这意思是投资机器人可以出售您的ETH以偿还您的DAI贷款。当ETH抵押品的价值跌至借入的DAI的价值的 150％ 以下时，清算将会发生。为了避免清算，yETH机器人旨在将ETH抵押品的价值与DAI债务的价值相比保持在 200％ 的安全户限上。如果ETH抵押品的价值开始降至 200％ 目标以下，则机器人将自动还清DAI的部分债务，以保持超额抵押。管理债务，抵押品和清算为Yearn的机枪池增加了另一层复杂性。
 
-It’s important to recognize the yVault strategy’s risk compounds as it becomes more complex by virtue of reliance on more protocols and platforms. Strategies like the yETH example also have the risks inherent in using leverage as well as the risks of liquidation and smart contract failure.
+重要的是要知道, yVault策略如依赖于很多协议和平台，它就会变得越复杂，这会间接地增加yVault策略的风险。例如像yETH的例子，它不但具有使用杠杆的风险，还有清算和智能合约失败的风险。
 
-## A Suite of DeFi Products
+## DeFi产品套件
 
-The Yearn suite of products is an ever-expanding and evolving set of DeFi products. Besides the various yVault strategies, Yearn offers multiple active products that together form its ecosystem.
+Yearn系列产品是DeFi产品不断扩展和发展的集合。除了各种yVault策略之外，Yearn还提供其他多种活跃的产品，而这些产品一起构成了整体生态系统。
 
-Other Yearn products include the yEarn application which focuses on using stablecoins like DAI and putting them to work in high-interest lending pools on Compound or Aave. Another product, Zap, is designed to reduce transaction costs in Ethereum by combining what would have been various manual transactions into one more complex, single-click transaction. The yInsure feature provides insurance for smart contracts as a safeguard in the event of a vulnerability or flaw in the code.
+其他Yearn产品包括yEarn应用程式，该应用程式专注于使用像DAI之类的稳定币，并将其投入到Compound或Aave的高利率借贷池中。 ZAP是另一个产品旨在于通过将多种手动交易动作简化为只需一键操作的交易，这会降低在以太坊上的交易成本。 yInsure的功能是提供智能合约在代码中有漏洞或缺陷的情况下提供保险。
 
-There are also a multitude of products currently in the research and development stage, including yTrade for leveraging trades, yLiquidate to automate liquidations, and yBorrow for loans. Yearn has thus far proven fertile ground for research and development, and its product offerings will likely continue to expand as the DeFi space matures.
+目前还处于研发阶段的产品很多，包括用于交易的yTrade，用于自动清算的yLiquidate和用于贷款的yBorrow。迄今Yearn已被认同为研发的沃土，随着DeFi空间的成熟，其产品供应将会继续扩展。
 
-## Wisdom of the Crowd
+## 人群的智慧
 
-A Yearn money robot executes a strategy plan for investment of digital assets: how to allocate them, where to put them, when to move them, and when to sell them. In fact, anyone can come up with a new strategy by posting it on the Yearn governance forum and explaining the logic and potential returns to the community. If approved by the community, the strategy will be implemented and the strategy creator earns fees — profiting from their successful strategizing.
+Yearn投资机器人执行数字资产投资的策略: 如何分配它们，放置在哪里，何时移动它们以及何时出售它们。实际上，任何人都可以通过在Yearn治理论坛上发布新策略并向社区解释其逻辑和潜在回报。如果得到社区的批准，该策略将被实施，而策略创建者会赚取费用 — 得益于他们成功的策略执行。
 
-Even though the DeFi space features many automated and algorithmic mechanisms throughout its various platforms, Yearn money robot strategies are created and influenced by community members. Yearn’s community management, distributed “[fair launch](https://www.gemini.com/cryptopedia/what-is-yearn-finance-yfi-coin-yearnfinance)” of its highly-scarce [YFI platform governance tokens](https://www.gemini.com/cryptopedia/glossary#yfi-token), and collaborative nature present a timely reminder of human ingenuity and efficacy, even in the age of automated algorithms. With Yearn, ideas can come from anywhere and wisdom is sourced from the crowd. The effectiveness of that wisdom is constantly tested, iterated, and improved in real-time with real money.
+尽管DeFi空间在各个平台上均具有许多自动化和算法机制，但Yearn投资机器人的策略是由社区成员创建和影响的。Yearn的社区管理“[公平分发](https://www.gemini.com/cryptopedia/what-is-yearn-finance-yfi-coin-yearnfinance)”其高度稀缺的[YFI治理代币](https://www.gemini.com/cryptopedia/glossary#yfi-token)。即使在自动化算法的时代，其社区合作性质是人类创造力和功效的标志。在Yearn，想法可以来自任何地方，而智慧则来自人群。而这智慧的效力将被反复的用真钱实时地测试，迭代和改善。
 
-Yearn Finance presents a unique proposition of layering, interoperability, and crowdsourcing in DeFi. It is an experiment in automated investing and product development, in incentives and coordination. And, it’s an experiment to see if a decentralized community with a broad mandate to optimize returns can effectively do so without organizational conflict. While many DeFi platforms focus on disintermediating legacy players and systems, Yearn’s innovation is to act as an intermediary bringing together the decentralized community and disparate platforms for the benefit of their users.
+Yearn Finance在DeFi领域中呈现了一个分层，互操作性和众包的独特主张。这是一个自动化投资和产品开发，应用激励与协调方面的实验。而这也是一个实验，看看具有广泛优化回报目标的去中心化社区是否可以在没有组织冲突之下有效地发挥作用。尽管许多DeFi平台专注于和传统的机构和系统脱节，Yearn的创新是充当中介，将去中心化的社区和平台集合在一起，共同的目标是使用户受益。
