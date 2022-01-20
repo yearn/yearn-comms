@@ -364,6 +364,6 @@ Yearn ile ilgili daha fazla bilgi edinmek için [discord](https://discord.gg/cxk
 
 ² Blackrock'un menkul kıymet ödünç verme işlemleri [açıklaması](https://www.blackrock.com/uk/individual/education/how-to-invest/securities-lending?switchLocale=y&siteEntryPassthrough=true)
 
-³ 90.859 bitcoin ([Reuters makalesi](https://www.reuters.com/article/us-crypto-currency-microstrategy-idUSKCN2AT2H5)) Mart sonunda 59 bin dolarlık fiyat 5,4 milyar dolar
+³ 90,859 bitcoin ([Reuters makalesi](https://www.reuters.com/article/us-crypto-currency-microstrategy-idUSKCN2AT2H5)) Mart sonunda 59 bin dolarlık fiyat 5,4 milyar dolar
 
 ⁴ [BlockFi'nin 15 milyar dolarlık AUM'si](https://www.forbes.com/sites/ninabambysheva/2021/03/11/blockfi-gets-a-3-billion-valuation-with-new-350-million-series-d-funding/?sh=6105ca5b58a5) ve [DeFillama](https://defillama.com/home)'dan protokol TVL'leri
