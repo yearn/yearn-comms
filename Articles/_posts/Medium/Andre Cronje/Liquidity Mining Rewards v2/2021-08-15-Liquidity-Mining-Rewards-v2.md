@@ -1,78 +1,82 @@
 ---
 layout: post
-title:  "Liquidity Mining Rewards v2"
+title:  "Liquidity Mining Prämien v2"
 categories: [ Articles ]
 image: ./Liquidity-Mining-Rewards-v2/andre-hero.png
 author: Andre
-translator:
+translator: Nesyeth
 publish: true
 ---
 
-# Liquidity Mining Rewards v2
+# Liquidity Mining Prämien v2
 
-Concept, and architecture by [pods.finance](https://www.pods.finance/)
+Author: [Andre Cronje](https://twitter.com/AndreCronjeTech)</br>
 
-[LM call option rewards contract](https://twitter.com/AndreCronjeTech/status/1426580528510251008)
+15. August 2021
 
-## **History**
+Konzept und Architektur von [pods.finance](https://www.pods.finance/)
 
-Liquidity Mining / Rewards / Incentives, whatever you want to call them, are innately part of crypto. Even proof of work (mining) is providing something for rewards (in proof of work, providing security \[or rather electricity\] for crypto)
+[LM-Kaufoption-Prämienvertrag](https://twitter.com/AndreCronjeTech/status/1426580528510251008)
 
-The first (to my knowledge) to provide rewards for liquidity was [synthetix.io](https://synthetix.io/), this started with the `sETH/ETH` pool, which eventually moved to the `sUSD` [curve.fi](https://curve.fi/) pool. If you provided liquidity to these pools, you were rewarded with SNX (the native Synthetix token).
+## **Geschichte**
 
-The somewhat legendary [StakingRewards](https://github.com/Synthetixio/synthetix/blob/develop/contracts/StakingRewards.sol) contract, was originally developed in partnership with Anton from [1inch.exchange](https://1inch.exchange/). This contract became the base for what is liquidity mining as we know it today.
+Liquidität Mining / Prämien / Anreize, wie auch immer du sie nennen willst, sind von Natur aus Teil der Kryptowährung. Sogar Proof of Work (Mining) bietet etwas für Prämien (in Proof of Work, die Bereitstellung von Sicherheit \[oder eher Strom\] für Krypto)
 
-## **Problem Statement**
+Der erste (meines Wissens nach), der Belohnungen für Liquidität anbot, war [synthetix.io](https://synthetix.io/). Dies begann mit dem `sETH/ETH`, der schließlich in den `sUSD` [curve.fi](https://curve.fi/) überging. Wenn du diesen Pools Liquidität zur Verfügung gestellt hast, wurdest du mit SNX (dem nativen Synthetix-Token) belohnt
 
-As liquidity mining grew, some, non deal-breaking, flaws became apparent. I believe the following two to be the most destressing;
+Der etwas legendäre [StakingRewards-Vertrag](https://github.com/Synthetixio/synthetix/blob/develop/contracts/StakingRewards.sol)-Vertrag wurde ursprünglich in Zusammenarbeit mit Anton von [1inch.exchange](https://1inch.exchange/) entwickelt. Dieser Vertrag wurde die Grundlage für das Liquid Mining, wie wir es heute kennen.
 
-- Liquidity locusts (or loyalty), also referred to as "stickiness"
-- Token loyalty, or opportunistic dumping
+## **Problembeschreibung**
 
-Liquidity quickly disappears when incentives cease, and aggressive liquidity programs can often have a detriment on the token price, which, while I believe the latter to not necessarily be a bad thing (since it entirely depends on the tokenomics / purpose), from public perception, it is clear, when price goes down, a project is a scam.
+Als die Liquiditätsgewinnung zunahm, wurden einige, nicht bahnbrechende, Schwachstellen deutlich. Die beiden folgenden sind meiner Meinung nach die schlimmsten;
 
-## **Problem Example**
+- Liquiditätsheuschrecken (oder Loyalität), auch als "Klebrigkeit" bezeichnet
+- Token-Loyalität oder opportunistisches Dumping
 
-I believe, at its core, the problem is the "something for nothing" problem. If you receive something for nothing, you will simply bank your profits. Let's take [curve.fi](https://curve.fi/) as a practical example, if you provide liquidity in the form of DAI/USDC/USDT to the 3pool, you receive CRV rewards. For the sake of this example, lets assume the liquidity provider is a liquidity locust, so they are only interested in receiving CRV and immediately selling it for more DAI/USDC/USDT.
+Liquidität verschwindet schnell, wenn die Anreize wegfallen, und aggressive Liquiditätsprogramme können sich oft nachteilig auf den Token-Preis auswirken, was meiner Meinung nach zwar nicht unbedingt etwas Schlechtes ist (da es ganz von der Tokenomics / dem Zweck abhängt), aber in der öffentlichen Wahrnehmung ist es klar, dass ein Projekt ein Betrug ist, wenn der Preis sinkt.
 
-The reason for this, is that they received "something" for practically "nothing". Provide liquidity, get rewarded, that simple.
+## **Problembeispiel**
 
-## **Quick Intro to Options**
+Ich glaube, dass das Problem im Kern das Problem "etwas für nichts" ist. Wenn du etwas für nichts erhältst, wirst du deine Gewinne einfach auf die Bank bringen. Nehmen wir [curve.fi](https://curve.fi/) als praktisches Beispiel: Wenn du dem 3pool Liquidität in Form von DAI/USDC/USDT zur Verfügung stellest, erhältst du CRV-Belohnungen. Für dieses Beispiel nehmen wir an, dass der Liquiditätsanbieter eine Liquiditätsheuschrecke ist, also nur daran interessiert ist, CRV zu erhalten und es sofort für mehr DAI/USDC/USDT zu verkaufen.
 
-Going to try to keep this simple, there are two options, a `PUT` (the right to sell), and a `CALL` (the right to buy). In this case, you can think of a `PUT` as a market sell, and a `CALL` as a market buy. So continuing with using CRV, for purpose of simplicity, lets say CRV is trading at $2. A `CALL` option with a `strike price`of $2, would allow me to buy CRV at $2, a `PUT` option with a `strike price`of $2, would allow me to sell CRV at $2.
+Der Grund dafür ist, dass sie "etwas" für praktisch "nichts" erhalten haben. Wer Liquidität bereitstellt, wird belohnt, so einfach ist das.
 
-For the rest of this article, we will only focus on CALL, the right to buy. So an option has 3 basic properties;
+## **Kurzeinführung in Optionen**
 
-- What are you buying? (In our example CRV)
-- What is the `strike price`? (aka, how much are you paying for it? In our example $2 ~ or 2 DAI)
-- When is the `expiry`? (normally some future date, in our example, expiry was `current timestamp/now`)
+Um es einfach zu halten, gibt es zwei Optionen, einen PUT (das Recht zu verkaufen) und einen CALL (das Recht zu kaufen). In diesem Fall kannst du dir sich einen PUT als einen Marktverkauf und einen CALL als einen Marktkauf vorstellen. Nehmen wir der Einfachheit halber an, dass CRV bei $2 gehandelt wird. Eine CALL-Option mit einem Ausübungspreis von $2 würde mir erlauben, CRV bei $2 zu kaufen, eine PUT-Option mit einem Ausübungspreis von $2 würde mir erlauben, CRV bei $2 zu verkaufen.
 
-## **Liquidity Mining as Options**
+Im weiteren Verlauf dieses Artikels werden wir uns nur auf CALL, das Recht zu kaufen, konzentrieren. Eine Option hat also 3 grundlegende Eigenschaften;
 
-Keeping with our [curve.fi](https://curve.fi/) example, if you provide liquidity and you claim CRV as rewards, this can be seen as exercising a CRV CALL option with `strike price` $0, and `expiry` now. When you start thinking about it in terms of CALL options, all of a sudden it gives the project a lot more power, per example, now a project could offer it as;
+- Was kaufst du? (In unserem Beispiel CRV)
+- Wie hoch ist der Ausübungspreis? (in anderen Worten, wie viel zahlst du dafür? In unserem Beispiel $2 ~ oder 2 DAI)
+- Wann ist der Verfallstermin? (normalerweise ein zukünftiges Datum, in unserem Beispiel war der Verfallstag der aktuelle Zeitstempel/jetzt)
 
-- strike price = spot - 50%
-- expiry = current date + 1 month
+## **Liquiditätsabbau als Option**
 
-At its most basic level, we could simply say, `expiry` = now and `strike price` = spot - 50%, what would this mean? Let's say the liquidity miner, mined 1000 CRV, instead of simply receiving the CRV CALL option at `strike price` $0 and `expiry` now (1000 tokens for free), now instead they would receive the right to purchase 1000 CRV at $1000. Even if they are a liquidity locust, they would still be incentivized to do this, since they still make $1000 profit (trading value 1000 CRV @ $2 =$2000 - $1000 purchase).
+Um bei unserem [curve.fi](https://curve.fi/)-Beispiel zu bleiben: Wenn du Liquidität bereitstellst und CRV als Belohnung forderst, kann dies als Ausübung einer CRV-CALL-Option mit einem `Ausübungspreis` von $0 und einer `Laufzeit` bis zum nächsten Tag betrachtet werden. Wenn du anfängst, darüber in Form von CALL-Optionen nachzudenken, gibt das dem Projekt plötzlich viel mehr Macht;
 
-The "profits" ($1000 in above example), can now be distributed to veCRV holders, or go to the foundation, treasury DAO, etc. These funds could even be used to market make and provide additional liquidity.
+- Ausübungspreis = Spot - 50%
+- Verfall = aktuelles Datum + 1 Monat
 
-Now, lets take it one step further, and add a future expiry, lets say 1 month, now for argument sake, everyone that was receiving liquidity was claiming and dumping, so 1 month alter the price is $1, but the CALL option price was also $1, so at this point, there is no reason for the "dumper" to claim the option anymore, since they wouldn't make additional profit. So this further means that it set an additional price floor for the received tokens. As these tokens will simply not be claimed (can even be sent back to the DAO)
+Auf der einfachsten Ebene könnten wir einfach sagen, `Verfall` = jetzt und `Ausübungspreis` = Spot - 50%, was würde das bedeuten? Nehmen wir an, der Liquiditätsminer hat 1000 CRV gemined. Anstatt einfach die CRV-CALL-Option zum `Ausübungspreis` von $0 und dem `Verfallsdatum` jetzt zu erhalten (1000 Token umsonst), würde er jetzt das Recht erhalten, 1000 CRV zu $1000 zu kaufen. Selbst wenn sie eine Liquiditätsheuschrecke sind, hätten sie immer noch einen Anreiz, dies zu tun, da sie immer noch $1000 Gewinn machen (Handelswert 1000 CRV @ $2 =$2000 - $1000 Kauf).
 
-## **Conclusion**
+Die "Gewinne" ($1000 im obigen Beispiel) können nun an die veCRV-Inhaber ausgeschüttet werden oder an die Stiftung, die Schatzkammer DAO usw. gehen. Diese Mittel könnten sogar verwendet werden, um den Markt zu machen und zusätzliche Liquidität bereitzustellen.
 
-Making a few simple modifications to the existing StakingRewards contract allows us to add the above functionality, while keeping the same UX and user experience.
+Nun, lass uns einen Schritt weiter gehen und einen zukünftige Ablauf einfügen, sagen wir 1 Monat, jetzt um des Arguments willen, jeder, der Liquidität erhielt wurde nehmen und dumpen, so 1 Monat alt der Preis ist $1, aber der CALL-Option Preis war auch $1, so dass zu diesem Zeitpunkt für die "Dumper" keinen Grund gibt, die Option zu nehmen, da sie nicht zusätzlichen Gewinn machen würden. Dies bedeutet also, dass eine zusätzliche Preisuntergrenze für die erhaltenen Token festgelegt wurde. Da diese Token einfach nicht eingefordert werden (sie können sogar an die DAO zurückgeschickt werden).
 
-Prototype code available [here](https://gist.github.com/andrecronje/6c3da8b294488001adeda528f70bc301)
+## **Zusammenfassung**
 
-By switching to Options Liquidity Mining instead of traditional Liquidity Mining it means;
+Mit ein paar einfachen Änderungen am bestehenden StakingRewards-Vertrag können wir die oben genannten Funktionen hinzufügen, während die UX und das Benutzererlebnis gleich bleiben.
 
-- Decreased liquidity locusts
-- Decrease selling pressure
-- Natural price floor (twap - discount % over epoch)
-- Additional fee revenue for DAO/token holders
+Prototyp-Code [hier](https://gist.github.com/andrecronje/6c3da8b294488001adeda528f70bc301) verfügbar
 
-## **Attribution**
+Durch den Wechsel zu Options Liquidity Mining anstelle des traditionellen Liquidity Mining bedeutet dies;
 
-Thank you to [pods.finance](https://www.pods.finance/), @josephdelong, and [sushi.com](https://sushi.com/) team for coming up with this concept and sharing it with me
+- Abnehmende Liquiditätsheuschrecken
+- Verringerung des Verkaufsdrucks
+- Natürliche Preisuntergrenze (twap - Abschlag % über Epoche)
+- Zusätzliche Gebühreneinnahmen für DAO/Token-Inhaber
+
+## **Danksagung**
+
+Vielen Dank an [pods.finance](https://www.pods.finance/), @josephdelong und das Team von [sushi.com](https://sushi.com/), die dieses Konzept entwickelt und mit mir geteilt haben
