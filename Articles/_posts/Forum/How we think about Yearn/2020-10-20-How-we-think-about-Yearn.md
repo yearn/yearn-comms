@@ -1,30 +1,30 @@
 ---
 layout: post
-title:  "How we think about Yearn"
+title:  "O pensamos sobre Yearn"
 categories: [ Articles ]
 image: ./How-we-think-about-Yearn/YFI1.jpeg
 author: Yearn DAO Contributors
-translator:
+translator: JKtranslator
 publish: true
 ---
 
-# How we think about Yearn
+# O pensamos sobre Yearn
 
-## What Yearn is not
+## O que Yearn não é
 
-1. **Yearn is not a company.** It does not have a board. There is no CEO, there is no team of managers. There is no room for bureaucrats.
-2. **Yearn does not have investors.** There are no VCs, no angels, no SPACs, and no SPVs that are pulling the strings in the background.
-3. **Yearn does not cater to speculators.** Pump it, dump it, hedge it, short it, long it, lend it, nobody cares. Yearn is agnostic to price.
-4. **Yearn does not have an official voice.** There’s no legal entity, there’s no foundation, no copyright, no patent, no central authority to stamp announcements with official seals from some great leader.
-5. **Yearn is not owed anything from anyone.** Contributors come together and work on this project voluntarily. Nobody has authority over anyone else, and nobody owes Yearn anything. Similarly nobody has any right to ask anything from Yearn. You get back what you put in.
+1.	**Yearn não é uma empresa.** Não tem uma diretoria. Não há CEO, não há equipe de gestores. Não há lugar para burocratas.
+2.	**Yearn não tem investidores.** Não há VCs, nem anjos, nem SPACs e nem SPVs manipulando as cordas do marionete.
+3.	**Yearn não atende aos especuladores.** Faça o preço subir, cair, aposte a favor, contra, use como garantia, empreste, ninguém se importa. Yearn é agnóstico quanto ao preço.
+4.	**Yearn não tem voz oficial.** Não há entidade legal, não há fundação, sem direitos autorais, sem patente, nenhuma autoridade central para carimbar anúncios com selos oficiais de algum grande líder.
+5.	**Yearn não deve nada a ninguém.** Colaboradores se reúnem e trabalham neste projeto voluntariamente. Ninguém tem autoridade sobre ninguém e ninguém deve nada a Yearn. Da mesma forma, ninguém tem o direito de pedir nada de Yearn. Você recebe de volta o que colocou.
 
-## What Yearn is
+## O que Yearn é
 
-1. **Yearn is a collective of contributors.** There is no difference between “the team” and “the community”, they are one and the same.
-2. **Yearn is equal opportunity.** No matter who you are, you are free to use Yearn, and you have the same right and privilege as anyone else.
-3. **Yearn is for builders.** Come with your ideas, come with your passion, come with your creativity. Actions speak louder than words.
-4. **Yearn is for self starters.** See something that’s broken? Fix it. Don’t ask for permission.
-5. **Yearn is for collaborators.** Find others who are like minded, self-organize, and get stuff done.
-6. **Yearn is influenced by merit.** Yearn runs on proof of work. Your contributions and commitment to Yearn dictate how much others listen to your voice —not your status, your wealth, or who you’re friends with.
-7. **Yearn is governed by YFI, but YFI does not govern Yearn’s contributors.** Holding YFI entitles you to signal for real, practical change that improves Yearn. It doesn’t give you the right to tell other contributors what to do. You want something done? Do it.
-8. **Yearn is constantly evolving.** What Yearn is today, may not be what it is tomorrow—what you do after reading this may change Yearn forever. It’s up to you.
+1.	**Yearn é um coletivo de colaboradores.** Não há diferença entre “a equipe” e “a comunidade”, eles são um e o mesmo.
+2.	**Yearn é uma oportunidade igual.** Não importa quem você seja, você é livre para usar o Yearn e tem os mesmos direitos e privilégios que qualquer outra pessoa.
+3.	**Yearn é para construtores.** Venha com suas idéias, venha com sua paixão, venha com sua criatividade. Ações dizem mais do que palavras.
+4.	**Yearn é para empreendedores.** Vê algo que está quebrado? Conserte. Não peça permissão.
+5.	**Yearn é para colaboradores.** Encontre outras pessoas que tenham a mesma opinião, se auto-organizem e façam as coisas.
+6.	**Yearn é influenciado pelo mérito.** Yearn roda com prova de trabalho. Suas contribuições e compromisso com Yearn ditam o quanto os outros ouvem sua voz - não seu status, sua riqueza ou de quem você é amigo.
+7.	**Yearn é governado pelo YFI, mas o YFI não governa os colaboradores de Yearn.** Ter posse do YFI lhe dá o direito de sinalizar para uma mudança real e prática que melhore Yearn. Isso não lhe dá o direito de dizer a outros colaboradores o que fazer. Você quer algo feito? Faça.
+8.	**Yearn está em constante evolução.** O que Yearn é hoje, pode não ser o que é amanhã - o que você fizer depois de ler isso pode mudar Yearn para sempre. Você decide.
