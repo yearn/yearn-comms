@@ -1,32 +1,32 @@
 ---
 layout: post
-title:  "Claim from old yGov"
+title:  "Reivindique seu YFI do antigo yGov"
 categories: [ Tweets ]
 image: ./Claim-from-old-ygov/amount-in-old-ygov.jpg
 author: Dudesahn
-translator:
+translator: JKTranslator
 publish: true
 ---
 
-original source: [twitter](https://twitter.com/dudesahn/status/1413567068583104512)
+fonte original: [twitter](https://twitter.com/dudesahn/status/1413567068583104512)
 
 ##### 1
 
-Just checked out the old [@iearnfinance](https://twitter.com/iearnfinance) staking contracts:
+Acabei de checar os antigos contratos de [@iearnfinance](https://twitter.com/iearnfinance):
 
-~30 YFI unclaimed in the original staking pools
-~8.5 YFI staked in v1 staking contract
-~764 YFI still staked in v2 staking contract with $750k in claimable yCRV 😬
+~30 YFI não reinvidicados dos pools de staking originais
+~8.5 YFI em stake no contrato de stake v1
+~764 YFI ainda em stake no contrato de stake v2 com $750k em yCRV não reinvidicados 😬
 
-Almost $29m in staked LPs, YFI, and claimable rewards :point_down:
+Quase $29m em LPs em stake, YFI, e recompensas que podem ser reinvidicados :point_down:
 
 ![](image1.jfif)
 
 ##### 2
 
-Unsure if you might have some funds to claim?
+Não tem certeza se possui algum fundo para reinvidicar?
 
-Head to https://etherscan.io, and enter one of the following addresses:
+Vá para https://etherscan.io, e insira os seguintes endereços:
 
 • YFI Farming Pool 1: 0x0001FB050Fe7312791bF6475b96569D83F695C9f
 • YFI Farming Pool 2: 0x033E52f513F9B98e129381c6708F9faA2DEE5db5
@@ -37,26 +37,26 @@ Head to https://etherscan.io, and enter one of the following addresses:
 • YFI Gov Staking v1: 0xb01419E74D8a2abb1bbAD82925b19c36C191A701
 • YFI Gov Staking v2: 0xBa37B002AbaFDd8E89a1995dA52740bbC013D992
 
-Under Contract, click Read Contract, and put in your address under balanceOf 👀
+Na aba Contrato, cliquem em Ler Contrato, e insira seu endereço no campo balanceOf 👀
 
 ![](image2.jfif)
 
 ##### 4
 
-If a value >0 shows up, then congrats, you have YFI and/or rewards to claim! :partying_face:
+Se um valor >0 aparecer, parabéns, você tem YFI e/ou recompensas para reinvidicar! :partying_face:
 
-To claim all of your staked assets and rewards, head over to Write Contract, connect your wallet, and call exit().
+Para reinvidicar os seus ativos em stake e suas recompensas, vá para Escrever Contrato, conecte sua carteira e execute o comando exit().
 
 ![](image3.jfif)
 
 ##### 5
 
-With your fresh YFI or yCRV in hand, you can head to http://yearn.finance/vaults and deposit them into one of our vaults. Alternatively, head over to our good friends at @CreamdotFinance 🍦 and borrow against those assets, or even use @MIM_Spell 🧙‍♂️ to borrow against your new yvYFI.
+Com o seu YFI ou yCRV em mãos, vocÊ pode ir para http://yearn.finance/vaults e os depositar em um de nossos vaults. Ou você pode procurar nossos bons amigos de @CreamdotFinance 🍦 e tomar um empréstimo usando seus ativos como garantia, ou até mesmo usar @MIM_Spell 🧙‍♂️ para tomar emprestado usando seu novo yvYFI como garantia.
 
 ##### 6
 
-Also worth adding here: just because you don't have any funds still staked doesn't mean you can't claim rewards! Similar to balanceOf(), you can check for claimable rewards under Read Contract with earned(), and then claim any available under Write Contract using getReward()! 🤑
+Também cabe mencionar: só porque você não tem nenhum saldo ainda em stake, isso não significa que você não pode reinvidicar recompensas! Da mesma forma que balanceOf(), você pode verificar as recompensas disponíveis na aba Ler Contrato com earned(), e então reinvidicar o que tiver disponível em Escrever contrato usando getReward()! 🤑
 
-![](image4.png) </br>
+![](image4.png)
 
 ![](image5.png)
