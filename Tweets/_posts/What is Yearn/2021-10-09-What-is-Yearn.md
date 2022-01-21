@@ -4,95 +4,112 @@ title:  "What is Yearn"
 categories: [ Tweets ]
 image: ./What-is-Yearn/3_1446243220468293632.jpg
 author: Wot_Is_Goin_On
-translator:
+translator: Japzar
 publish: true
 ---
 
 original source: [twitter](https://twitter.com/Wot_Is_Goin_On/status/1446540007292952579)
 
-##### 1
-People had difficulty understanding ETH in mid-2020. It wasn’t clear what the use case would be, TVL was at $8bn and hadn’t grown much in 18 months. Even out of those who believed in Ethereum, there was scepticism around how value would accrue to ETH.
+## 1/n
 
-##### 2
-Fast forward to today and it’s clear there’s a lot that can be built on Ethereum (DeFi, NFTs and gaming), TVL has sky-rocketed to over $100bn and throw in a token burn mechanism and people understand how value accrues to the native token.
+La gente tenía dificultades para entender ETH a mediados de 2020. No estaba claro cuál sería su uso, su valor total estaba en $8MM y no había crecido mucho en 18 meses. Incluso entre aquellos que creían en Ethereum, había escepticismo sobre cómo se acumularía valor para ETH.
 
-##### 3
-In some ways the perception of Yearn today is similar to that of ETH in mid-2020, at least in terms of uncertainty over what will be built on Yearn, its future growth and value accrual to YFI. Even Yearn’s OGs are getting restless.
+## 2/n
+
+Hoy en día está claro que hay mucho que se puede desarrollar en Ethereum (Defi, NFTs y juegos), el valor total (TVL) se ha disparado a más de $100MM y ha lanzado un mecanismo de quema de tokens y la gente comprende cómo se acumula el valor al token nativo.
+
+## 3/n
+
+De alguna manera, la percepción de Yearn hoy es similar a la de ETH a mediados de 2020, al menos en términos de incertidumbre sobre lo que se construirá en Yearn, su crecimiento futuro y la acumulación de valor para YFI. Incluso los fanáticos más viejos de Yearn están inquietos. [pic.twitter.com/TQDFz74CFc](https://twitter.com/Wot_Is_Goin_On/status/1446540013576065026/photo/1)
 
 ![3_1446534086277861380](3_1446534086277861380.jpg)
 
-##### 4
-Yearn’s TVL has reached an all-time high of over $5bn TVL, achieving this without offering incentives. This is higher than the much-hyped Avalanche and Polygon that trade at multiples compared to YFI.
+## 4/n
 
-##### 5
-Its vaults have been integrated into Badger, Enzyme Finance, Argent Wallet, [Crypto.com](http://Crypto.com) and the MEW Wallet app on Android. Making vaults widely accessible is a great start, but Yearn is waiting for its killer dapp.
+El TVL de Yearn ha alcanzado un máximo histórico de más de $5MM de TVL, logrando esto sin ofrecer incentivos. Esto es más que los tan publicitados Avalanche y Polygon que tienen números de negocios mucho más grandes comparados con YFI.
+
+## 5/n
+
+Sus bóvedas han sido integradas en Badger, Enzyme Finance, Argent Wallet, [Crypto.com](http://Crypto.com) y la aplicación MEW Wallet en Android. Hacer que sus bóvedas sean mucho más accesibles es un gran comienzo, pero Yearn está esperando a su genial dapp.
 
 [medium.com/myetherwallet/…](https://medium.com/myetherwallet/introducing-yearn-vaults-on-mew-wallet-app-android-274818aa830e)
 
-##### 6
-The first dapp built on Yearn to get product market fit was Alchemix’s self-repaying loans. The sudden jumps in yvDai in early 2021 shown below happened as Yearn had to quickly increase the limits of its most popular vault to keep up with the demand.
+## 6/n
+
+La primera dapp desarrollada sobre Yearn para adaptar el producto al mercado fueron los préstamos autoliquidables de Alchemix. Los repentinos saltos en yvDai a comienzos de 2021 que se muestran a continuación ocurrieron cuando Yearn tuvo que aumentar rápidamente los límites de su bóveda más popular para mantenerse al día con la demanda. [pic.twitter.com/2sdXA6FrMw](https://twitter.com/Wot_Is_Goin_On/status/1446540021121617947/photo/1)
 
 ![3_1446534659123335169](3_1446534659123335169.jpg)
 
-##### 7
-[@PoolTogether\_](https://twitter.com/PoolTogether_)’s no-loss lottery also opted to earn yield with Yearn. In the UK there’s over £100bn ($140bn) in premium bonds where the lottery distributes a depressing 1% annual yield.
+## 7/n
 
-##### 8
-If [@element_fi](https://twitter.com/element_fi) can crack fixed income, with Yearn’s vaults (the “yv” tokens) in the background, then we’re talking a total addressable market in the trillions.
+La lotería sin pérdidas de [@PoolTogether\_](https://twitter.com/PoolTogether_) también optó por obtener rendimiento con Yearn. En el Reino Unido hay más de £100MM ($140MM) en bonos premium donde la lotería distribuye un rendimiento anual deprimente del 1%.
+
+## 8/n
+
+Si [@element_fi] (https://twitter.com/element_fi) puede acabar con los ingresos fijos, con las bóvedas de Yearn (los tokens "yv") en segundo plano, entonces hablamos de un mercado total de billones. [pic.twitter.com/R7mkC8h7Bq](https://twitter.com/Wot_Is_Goin_On/status/1446540026507038731/photo/1)
 
 ![3_1446535031292313608](3_1446535031292313608.jpg)
 
-##### 9
-[@ribbonfinance](https://twitter.com/ribbonfinance)’s put-selling vaults leverage DeFi’s composability so that the USDC is earning a yield with Yearn in the background.
+## 9/n
+
+Las bóvedas put-selling de [@ribbonfinance](https://twitter.com/ribbonfinance) aprovechan la capacidad de composición de DeFi para que USDC obtenga el rendimiento con Yearn en segundo plano. [pic.twitter.com/uwU1uyaM6a](https://twitter.com/Wot_Is_Goin_On/status/1446540030340644870/photo/1)
 
 ![3_1446535099063885835](3_1446535099063885835.jpg)
 
-##### 10
-[@longlongfinance](https://twitter.com/longlongfinance) is also available to diversify your principal and yield into different assets.
+## 10/n
 
-##### 11
-Despite all the interesting protocols so far, the protocols that bring the greatest adoption to Yearn probably haven’t been built yet but there’s plenty of teams working on it.
+[@longlongfinance](https://twitter.com/longlongfinance) también está disponible para diversificar tu capital y cederlo en diferentes activos.
+
+## 11/n
+
+A pesar de todos los protocolos interesantes hasta ahora, aquellos que traen la mayor adopción a Yearn probablemente aún no se hayan desarrollado, pero hay muchos equipos trabajando en ellos. [pic.twitter.com/cIHKjDL7Kr](https://twitter.com/Wot_Is_Goin_On/status/1446540036019736576/photo/1)
 
 ![3_1446535242404274176](3_1446535242404274176.jpg)
 
-##### 12
-With Yearn going multi-chain there’s potential for different types of dapps on each chain. [twitter.com/iearnfinance/s…](https://twitter.com/iearnfinance/status/1446243257336229912?s=20)
+## 12/n
+
+Ahora que Yearn será multicadena, existe la posibilidad de diferentes tipos de dapps en cada cadena. [twitter.com/iearnfinance/s…](https://twitter.com/iearnfinance/status/1446243257336229912?s=20)
 
 > ![iearnfinance](earnfinance-1223779978459770880.jpg)
 > yearn.finance ([@iearnfinance](https://twitter.com/iearnfinance))
 
-> The Realm of Multichain beckons.
+> El Reino Multicadena llama.
 
-And Yearn has heeded the call. 📯
+Y Yearn ha atendido el llamado. 📯
 
-Today, we go multichain with the launch of Iron Bank Fantom and the first Fantom vaults on [beta.yearn.finance](http://beta.yearn.finance)🧵
+Hoy, nos volvemos multicadena con el lanzamiento de Iron Bank Fantom y las primeras bóvedas de Fantom en [beta.yearn.finance](http://beta.yearn.finance)🧵 [pic.twitter.com/IaAtDqdkYi](https://twitter.com/iearnfinance/status/1446243257336229912/photo/1)
 
 > ![3_1446243220468293632](3_1446243220468293632.jpg)
 
-##### 13
-The people calling for the death of DeFi on Ethereum may need to zoom out. Yearn’s Q3 2021 TVL was $4.6bn, nearly 300% higher than 12 months before. Q3 2021 annualised revenue was over $60m, up nearly 400% over the year.
+## 13/n
+
+Aquellos que creen que Defi en Ethereum está muerto deberían reconsiderarlo. El TVL del tercer trimestre de 2021 de Yearn $4.6MM casi un 300% más que 12 meses antes. Los ingresos anualizados del tercer trimestre de 2021 superaron los $60M, casi un 400% más anual. [pic.twitter.com/T2ivxDR0Ek](https://twitter.com/Wot_Is_Goin_On/status/1446540042210512906/photo/1)
 
 ![3_1446536804035960832](3_1446536804035960832.jpg)
 
-##### 14
-The criticism around lack of value accrual is one that can be easily fixed. However, the challenge is to design tokenomics that incentivize growth and sustainability of the protocol in terms of contributors and TVL, as well as value accrual.
+## 14/n
 
-##### 15
-It took Ethereum 5+ years to implement EIP-1559, and 2022 brings the migration to PoS that will reward ETH stakers instead of miners. And when cartoon animals are incentivized to figure things out, things usually get figured out.
+La crítica en torno a la falta de acumulación de valor se puede solucionar fácilmente. Sin embargo, el desafío es diseñar una economía de token que incentive el crecimiento y la sostenibilidad del protocolo en términos de colaboradores y TVL, así como la acumulación de valor.
+
+## 15/n
+
+Ethereum tardó más de 5 años en implementar la EIP-1559, y 2022 trae la migración a PoS que recompensará a los stakers de ETH en lugar de a los mineros. Y cuando se incentiva a los animales de caricatura a resolver las cosas, las cosas suelen resolverse.
 
 [gov.yearn.finance/t/call-for-ide…](https://gov.yearn.finance/t/call-for-ideas-yfi-tokenomics-revamp/11573/5)
 
-##### 16
-The sustainability of liquidity mining and competition on fees, and the pace of innovation in DeFi, mean that nothing is guaranteed of course!
+## 16/n
 
-##### 17
-But these worries can be brushed aside safe in the knowledge that this guy deployed Yearn’s first smart contract.
+La sostenibilidad de la extracción de liquidez y la competencia en las comisiones, y el ritmo de la innovación en DeFi, ¡significa que nada está garantizado, por supuesto!
+
+## 17/n
+
+Pero estas preocupaciones pueden dejarse de lado con la certeza de que este tipo implementó el primer contrato inteligente de Yearn.
 
 [twitter.com/CFantom777/sta…](https://twitter.com/CFantom777/status/1446366012421468162?s=20)
 
 > ![CFantom777](CFantom777-1387931745832497152.jpg)
 > Fantom_Memes ([@CFantom777](https://twitter.com/CFantom777))
 
-> Damn it feels good to be a fantie
+> Vaya si se siente bien ser un fanti
 
 [$FTM](https://twitter.com/search?q=%24FTM) [#Fantom](https://twitter.com/hashtag/Fantom) [#cryptocurrency](https://twitter.com/hashtag/cryptocurrency) [#andrecronje](https://twitter.com/hashtag/andrecronje) [pic.twitter.com/B1tTP48nqN](https://twitter.com/CFantom777/status/1446366012421468162/video/1)
