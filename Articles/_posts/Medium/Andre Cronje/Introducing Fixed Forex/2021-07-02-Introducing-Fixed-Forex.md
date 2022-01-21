@@ -1,45 +1,49 @@
 ---
 layout: post
-title:  "Introducing Fixed Forex"
+title:  "Sabit Forex (USD, EUR, ZAR, JPY, CNY, etc) Tanıtımı"
 categories: [ Articles ]
 image: ./Introducing-Fixed-Forex/andre-hero.png
 author: Andre
-translator:
+translator: Dastronom
 publish: true
 ---
 
-# Introducing Fixed Forex (USD, EUR, ZAR, JPY, CNY, etc)
+# Sabit Forex (USD, EUR, ZAR, JPY, CNY, etc) Tanıtımı
 
-**Disclaimer;**
+Yazar: [Andre Cronje](https://twitter.com/AndreCronjeTech) 
 
-- No token
-- Audit has not been completed
-- Contract is experimental
+2 Haziran 2021
 
-**Key features;**
+**Sorumluluk Reddi;**
 
-- 0 governance (or multisig)
-- 0 configuration
-- 0 fees
-- 0 value extraction
-- Gentle liquidations
-- Dynamic minting caps based on on-chain liquidity
-- Dynamic LTVs based on on-chain protocols
+- Token yok
+- Denetim tamamlanmadı
+- Sözleşme deneyseldir
+
+**Ana Özellikler;**
+
+- 0 yönetişim (veya çoklu imza)
+- 0 yapılandırma
+- 0 ücret
+- 0 değer çıkarma
+- Nazik tasfiyeler
+- Zincire dayalı likiditeye dayalı dinamik para basma kapakları
+- Zincir içi protokollere dayalı dinamik LTV'ler
 
 **Fixed Forex**
 
-Fixed Forex is designed to be an immutable, 0 fee, 0 governance, decentralized stable coin framework.
+Sabit Forex, değişmez, 0 ücret, 0 yönetişim, merkezi olmayan sabit para çerçevesi olacak şekilde tasarlanmıştır.
 
-LTVs (Loan-to-value ratios) are derived from Compound, Aave v1, Aave v2, and Iron Bank. As these systems add or update their accepted collateral, so does Fixed Forex dynamically update.
+LTV'ler (Kredi-değer oranları) Compound, Aave v1, Aave v2 ve Iron Bank'tan türetilmiştir. Bu sistemler kabul edilen teminatlarını ekledikçe veya güncelledikçe, Sabit Forex de dinamik olarak güncellenir.
 
-Minting caps (how much liquidity a user can mint against a given collateral) are derived from available on-chain liquidity, the higher the on-chain liquidity, the higher the minting caps.
+Darphane limitleri(bir kullanıcının belirli bir teminat karşılığında ne kadar likidite basabileceği) mevcut zincir üstü likiditeden türetilir, zincir üstü likidite ne kadar yüksek olursa, para basma kapakları o kadar yüksek olur.
 
-Fixed Forex introduces gentle liquidations, the absolute minimum amount of debt is repaid to bring a users position back to even, no more worrying about the full stack being liquidated during draw down events.
+Sabit Forex, nazik tasfiyeler sunar, bir kullanıcı borç pozisyonunu teminatıyla eşit duruma getirmek için mutlak minimum borç tutarı geri ödenir, artık piyasa düşüş olayları sırasında tüm teminatın tasfiye edilmesi konusunda endişelenmenize gerek kalmaz.
 
-For purposes of this release, the contract will not be verified on etherscan, however, you can find the address and ABI below;
+Bu sürümün amaçları doğrultusunda, sözleşme etherscan üzerinde doğrulanmayacaktır, ancak adresi ve ABI'yi aşağıda bulabilirsiniz;
 
 [0x92FC8E6EfdF389e2527d14393b15F543f9a03420](https://etherscan.io/address/0x92fc8e6efdf389e2527d14393b15f543f9a03420)
 
 [ABI](https://gist.github.com/andrecronje/4ce11e8603a7f61af4619a86647db1d4)
 
-The full release will be based on curve.fi’s crypto pools, to allow for a decentralized forex market.
+Tam sürüm, merkezi olmayan bir forex piyasasına izin vermek için curve.fi'nin kripto havuzlarına dayanacaktır.

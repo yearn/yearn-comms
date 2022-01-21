@@ -1,103 +1,107 @@
 ---
 layout: post
-title:  "Fair launches, decentralized collaboration, and Fixed Forex"
+title:  "Adil lansmanlar, merkezi olmayan işbirliği ve Sabit Forex"
 categories: [ Articles ]
 image: ./Fair-launches-decentralized-collaboration-and-Fixed-Forex/andre-hero.png
 author: Andre
-translator:
+translator: Dastronom
 publish: true
 ---
 
-# Fair launches, decentralized collaboration, and Fixed Forex
+# Adil lansmanlar, merkezi olmayan işbirliği ve Sabit Forex
 
-**\-Fair launches-**
+Yazar: [Andre Cronje](https://twitter.com/AndreCronjeTech)</br>
 
-It took awhile for me to finally realize the essence behind a fair launch. It isn’t giving the tokens away, it isn’t because there was no presale, simply put, it was because everyone had the same advantage, everyone had the same ruleset, there was no secret “friends and family” round, seed rounds, influencer allocation, there were no whitelists, no capped participation, the rules were provided, and anyone could participate. I finally feel comfortable in saying a fair launch, is a launch in which all participants have the same ruleset.
+July 27, 2021
 
-**\-Decentralized collaboration-**
+**\-Adil lansmanlar-**
 
-I still see a lot of tribalism, I guess that’s understandable, I never understood how people became so tribal over sport teams, I’ve started to wonder how much of that tribalism is because of betting on the teams, afterall, that’s what crypto is, betting on your favorite team. Just like I never understood the tribalism in sports, I also don’t understand it in crypto. By my standards, I simply see “right” and “wrong”, doesn’t matter if its a team I’m associated with or not, if I see the “right”, I praise it, if I see the “wrong”, I scold it.
+Adil bir lansmanın arkasındaki özü nihayet anlamam biraz zaman aldı. Token'leri dağıtmıyor, ön satış olmadığı için değil, basitçe söylemek gerekirse, herkesin aynı avantaja sahipdi, herkes aynı kurallara sahipdi, gizli saklı "arkadaşlar ve aile" kayırmaları, tohum aşaması yatırımcı randları, influencer tahsisi, beyaz listeler, sınırlı katılım yoktu, kurallar sağlanıyordu ve herkes katılabiliyordu. Sonunda, adil bir lansmanın, tüm katılımcıların aynı kurallara sahip olduğu bir lansman olduğunu söylemekte kendimi rahat hissediyorum.
 
-But I think some teams, often discount the value in collaboration, its something I always enjoyed about yveCRV, and by extention, its clones, stCRV and cvxCRV, its the product of collaboration between curve, yearn, sushi, and pickle. It can’t exist without all those entities. Same reason before yveCRV, the y pool was my pride and joy, it was the collaboration between curve, yearn, aave, compound, and dydx.
+**\-Merkezi olmayan işbirliği-**
 
-With this in mind, I realized, to continue to succeed, products can’t be isolated, they need to be an amalgamation of products and teams. My original iteration of Fixed Forex was standalone, unupgradable, ungovernable, without any value extraction, and tokenless.
+Hala çok fazla kabilecilik görüyorum, sanırım bu anlaşılabilir, insanların spor takımları üzerinde nasıl bu kadar kabileye dönüştüğünü hiç anlamadım, bu kabileciliğin ne kadarının takımlara bahis oynamaktan kaynaklandığını merak etmeye başladım, sonuçta, kripto budur, favori takımınıza bahis yapmaktır. Spordaki kabileciliği hiç anlamadığım gibi kriptoda da anlamıyorum. Standartlarıma göre, sadece “doğru” ve “yanlış” görüyorum, bağlı olduğum bir takım olup olmadığı önemli değil, “doğru” görüyorsam  övüyorum, “yanlış” görüyorsam, azarlarım.
 
-**\-Fixed Forex-**
+Ancak sanırım bazı ekipler, işbirliğindeki değeri genellikle küçümserler, bu yveCRV hakkında her zaman hoşuma giden bir şeydir ve uzantı olarak, onun klonları, stCRV ve cvxCRV, curve, yearn, sushi ve pickle arasındaki işbirliğinin ürünüdür. Tüm bu varlıklar olmadan var olamaz. yveCRV'den önce de aynı nedenle, y havuzu benim gurur ve neşe kaynağımdı, curve, yearn, aave, compound ve dydx arasındaki işbirliğiydi.
 
-We keep talking about disrupting exchange control, we keep talking about disrupting fiat, in their own way, Tether and Circle did more for disrupting exchange control, than crypto did, exchange control tends to have a simple rule, money can’t leave its territory without special permission. Both Tether and Circle take deposits locally, the fiat never leaves the bank account, thus no exchange control (in theory, in practice and regulation its a very different story). So let’s consider you want to make a payment from the US to Korea, from USD to KRW, a “simple” path, would be deposit USD for USDT, transfer USDT to Upbit, swap USDT for KRW, withdraw KRW.
+Bunu akılda tutarak, başarılı olmaya devam etmek için ürünlerin izole edilemeyeceğini, ürünlerin ve ekiplerin bir birleşimi olması gerektiğini anladım. Orijinal Sabit Forex yinelemem bağımsız, yükseltilemez, yönetilemezdi, herhangi bir değer çıkarımı omadan Token'sizdi.
 
-Fixed Forex is designed to accomplish the above without end users being aware or knowledgeable of the steps, Fixed Forex has two core components, forex on-chain liquidity, and decentralized fiat on and off ramps.
+**\-Sabit Forex-**
 
-While I am most excited about the latter, its go-live date is only possible after we achieve on-chain liquidity. So for purposes of this article, we will explain how Fixed Forex works, and how users can participate.
+Döviz kontrolünü bozmaktan bahsediyoruz, fiat'ı bozmaktan bahsediyoruz, kendi yöntemleriyle, Tether ve Circle, borsa kontrolünü bozmak için kriptodan daha fazlasını yaptı, döviz kontrolünün basit bir kuralı vardır, para kendi bölgesinden çıkamaz özel izin olmadan. Hem Tether hem de Circle yerel olarak mevduat alır, fiat asla banka hesabından çıkmaz, dolayısıyla döviz kontrolü olmaz (teoride, pratikte ve düzenlemede bu çok farklı bir hikaye). Öyleyse, ABD'den Kore'ye, USD'den KRW'ye bir ödeme yapmak istediğinizi varsayalım, “basit” bir yol, USDT için USD yatırmak, USDT'yi Upbit'e aktarmak, USDT'yi KRW ile değiştirmek, KRW çekmek olacaktır.
 
-**\-Iron Bank Fixed Forex (ibff)-**
+Sabit Forex, son kullanıcılar adımlardan haberdar olmadan veya bilgi sahibi olmadan yukarıdakileri gerçekleştirmek için tasarlanmıştır, Sabit Forex'in iki temel bileşeni vardır, forex on-chain likiditesi ve merkezi olmayan fiat açık ve kapalı rampaları.
 
-Fixed Forex leveraged Iron Bank, Yearn, Sushi, and Curve
+İkincisi için çok heyecanlı olsam da, yayınlanma tarihi ancak zincirleme likiditeye ulaştıktan sonra mümkün. Bu makalenin amaçları doğrultusunda, Sabit Forex'in nasıl çalıştığını ve kullanıcıların nasıl katılabileceğini açıklayacağız.
+
+**\-Iron Bank Sabit Forex (ibff)-**
+
+Sabit Forex Iron Bank, Yearn, Sushi ve Curve'ye kaldıraç uyguladı.
 
 ![](image1.jpg)
 
-**Disclaimers;**
+**Feragat;**
 
-- Unaudited.
-- 0 benefit for early participation, only risk.
-- The initial token distribution will be a fraction of the emission, this serves only for testing purposes.
-- Given the incredibly low initial distribution, do not buy these tokens, do not provide liquidity for these tokens, you will lose money.
+- Denetlenmemiş.
+- Erken katılım için 0 fayda, sadece risk.
+- İlk token dağıtımı, emisyonun bir kısmı olacaktır, bu yalnızca test amaçlıdır.
+- İnanılmaz düşük ilk dağıtım göz önüne alındığında, bu token'leri satın almayın, bu token'ler için likidite sağlamayın, para kaybedersiniz.
 
-Fixed Forex is the collective name for USD, EUR, ZAR, JPY, CNY, AUD, AED, CAD, INR, and any other forex pairs launched under the Fixed Forex moniker.
+Sabit Forex, USD, EUR, ZAR, JPY, CNY, AUD, AED, CAD, INR ve Sabit Forex takma adı altında başlatılan diğer forex çiftlerinin toplu adıdır.
 
-The first available option is [ibEUR](https://www.coingecko.com/en/coins/iron-bank-euro) which can be minted via [yearn.fi/lend](https://yearn.fi/lend)
+Mevcut ilk seçenek, [yearn.fi/lend](https://yearn.fi/lend) aracılığıyla basılabilen [ibEUR](https://www.coingecko.com/en/coins/iron-bank-euro) seçeneğidir.
 
 ![](image2.png)
 
-All forex options can be minted via any of the accepted collateral on [yearn.fi](https://yearn.fi/lend)
+Tüm forex seçenekleri, [yearn.fi](https://yearn.fi/lend) adresinde kabul edilen teminatlardan herhangi biri aracılığıyla basılabilir.
 
 ![](image3.png)
 
-For up to date collateral factors, you can visit the Iron Bank documentation, [here](https://docs.cream.finance/iron-bank/collateral-and-reserve-factor)
+Güncel teminat faktörleri için, [buradan](https://docs.cream.finance/iron-bank/collateral-and-reserve-factor) Iron Bank belgelerini ziyaret edebilirsiniz.
 
-Each forex pair will target 2 liquidity pools;
+Her forex çifti 2 likidite havuzunu hedefleyecektir;
 
 ib\*/\* ([curve.fi](https://curve.fi/))  
 ib\*/ETH ([sushi.com](https://sushi.com/))
 
 ![](image4.png)
 
-For each asset, liquidity providers will have four available yield options;
+Her bir varlık için likidite sağlayıcıları dört adet kullanılabilir getiri seçeneğine sahip olacaktır;
 
-1.  Provide ib\* to [yearn.fi/lend](https://yearn.fi/lend) and earn interest (currently 6.38%)
-2.  Provide ib\*/ETH to [sushi.com](https://sushi.com/) (currently 390%)
-3.  Provide ib\*/\* to [curve.fi](https://curve.fi/) (pool pending)
-4.  Stake in Iron Bank Fixed Forex and earn the native token IBFF (vested, veIBFF)
+1.  [yearn.fi/lend](https://yearn.fi/lend) adresine ib\* sağlayın ve faiz kazanın (şu anda %6.38)
+2.  [sushi.com](https://sushi.com/) adresine ib\*/ETH sağlayın (şu anda %390)
+3.  [curve.fi](https://curve.fi/)'a ib\*/\* sağlayın (havuz beklemede)
+4.  Iron Bank Sabit Forex'te stake yapın ve yerel token olan IBFF'yi kazanın (kazanılmış, veIBFF)
 
 \-veIBFF-
 
-The IBFF mechanism is complex, and should be carefully understood before participating.
+IBFF mekanizması karmaşıktır ve katılmadan önce dikkatlice anlaşılmalıdır.
 
-The initial launch will target only a single pool, [ibEUR/ETH](https://analytics.sushi.com/tokens/0x96e61422b6a9ba0e068b6c5add4ffabc6a4aae27)
+İlk lansman yalnızca tek bir havuzu hedefleyecektir, [ibEUR/ETH](https://analytics.sushi.com/tokens/0x96e61422b6a9ba0e068b6c5add4ffabc6a4aae27)
 
-As an LP you can stake the LP token in the IBFF [faucet](https://etherscan.io/address/0x7d254d9adc588126edaee52a1029278180a802e8), this provides a fractional token drip, this is required to create a token lock in the vesting contract, [veIBFF](https://etherscan.io/address/0x4d0518c9136025903751209ddddf6c67067357b1).
+Bir LP olarak, LP token'ini IBFF [musluğu](https://etherscan.io/address/0x7d254d9adc588126edaee52a1029278180a802e8)nda stake edebilirsiniz, bu, kademeli [veIBFF](https://etherscan.io/address/0x4d0518c9136025903751209ddddf6c67067357b1) token damlaması sağlar, bu, hakediş sözleşmesinde token kilitleme işlemi oluşturmak için gereklidir.
 
-The system’s true native token is veIBFF, or vested IBFF, veIBFF earns protocol fees, these fees are dynamic based on supply and demand. Currently, these fees are 10.15% of TVL.
+Sistemin gerçek yerel token'i veIBFF'dir veya kazanılmış IBFF'dir, veIBFF protokol ücretleri kazanır, bu ücretler arz ve talebe göre dinamiktir. Şu anda, bu ücretler TVL'nin %10,15'i kadardır.
 
-IBFF owners can choose to create a vesting lock, up to 4 years, with linear decay on the veIBFF [contract](https://etherscan.io/address/0x4d0518c9136025903751209ddddf6c67067357b1)
+IBFF sahipleri, veIBFF [sözleşme](https://etherscan.io/address/0x4d0518c9136025903751209ddddf6c67067357b1)'de doğrusal bozulma ile 4 yıla kadar bir hakediş kilidi oluşturmayı seçebilir
 
-Once a lock has been created, LPs can stake ibEUR/ETH in the distribution [contract](https://etherscan.io/address/0x1da8a6fe33bd35b99505d67843eec9fa124f2d4b), the distribution contract will distribute tokens every 7 days linearly.
+Bir kilit oluşturulduğunda, LP'ler dağıtım [sözleşmesinde](https://etherscan.io/address/0x1da8a6fe33bd35b99505d67843eec9fa124f2d4b) ibEUR/ETH'yi stake edebilirler, dağıtım sözleşmesi yoken'leri her 7 günde bir doğrusal olarak dağıtacaktır.
 
-Distribution tokens are rewarded based on your vesting lock. If the vesting lock is 1 years, you receive 1/4 tokens as veIBFF, which will become unlocked in 1 year. The remainder 3/4 tokens is distributed to the fee distribution [contract](https://etherscan.io/address/0x83893c4a42f8654c2dd4ff7b4a7cd0e33ae8c859).
+Dağıtılacak olan token'ler, sizin  hakediş kilidinize göre ödül olarak dağıtılır. Hakediş kilidi 1 yıl ise, 1 yıl içinde kilidi açılacak olan veIBFF olarak 1/4 token alırsınız. Kalan 3/4 token, ücret dağıtım [sözleşme](https://etherscan.io/address/0x83893c4a42f8654c2dd4ff7b4a7cd0e33ae8c859)sine dağıtılır.
 
-veIBFF holders have two weekly claims, claim 1 is protocol accumulated fees (10.15% of TVL currently), and distributed IBFF from the [distribution contract](https://etherscan.io/address/0x83893c4a42f8654c2dd4ff7b4a7cd0e33ae8c859).
+veIBFF sahiplerinin haftalık iki talebi vardır, 1. birikmiş protokol  ücretleridir (şu anda TVL'nin %10,15'i) ve [dağıtım sözleşme](https://etherscan.io/address/0x83893c4a42f8654c2dd4ff7b4a7cd0e33ae8c859)si tarafından dağıtılan IBFF'dir.
 
-Simply put, the greater your time investment, the more disproportionate your reward.
+Basitçe söylemek gerekirse, yatırımınıza ne kadar zaman ayırırsanız ona göre kazandığınız ödül o kadar orantısız olur.
 
-**Disclaimers;**
+**sorumluluk reddi;**
 
-- Unaudited.
-- 0 benefit for early participation, only risk.
-- The initial token distribution will be a fraction of the emission, this serves only for testing purposes.
-- Given the incredibly low initial distribution, do not buy these tokens, do not provide liquidity for these tokens, you will lose money.
+- Denetlenmemiş
+- Erken katılım için 0 fayda, sadece risk.
+- İlk token dağıtımı, emisyonun bir kısmı olacaktır, bu yalnızca test amaçlıdır.
+- İnanılmaz düşük ilk dağıtım göz önüne alındığında, bu token'leri satın almayın, bu token'ler için likidite sağlamayın, para kaybedersiniz.
 
-**Links;**
+**Linkler;**
 
 [Forum](https://gov.yearn.finance/c/projects/fixed-forex/26)  
 [Website](https://yearn.fi/lend)  
-No social media
+sosyal medya yok
