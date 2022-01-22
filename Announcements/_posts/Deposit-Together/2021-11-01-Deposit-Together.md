@@ -4,22 +4,22 @@ title:  "Deposit Together"
 categories: [ Announcements ]
 image: ./Deposit-Together/DT-thumbnail.jpg
 author: Yearn
-translator:
-publish: false
+translator: Dastronom
+publish: true
 ---
 
-Announcing… 💥
+Duyurulur… 💥
 
-Deposit Together with Wido, split fees & save 80%+ on gas
+Wido ile birlikte para yatırın, ücretleri bölün ve gazda %80+ tasarruf edin
 
-Starting with our beloved yearn 💙
+Sevgili yearn'imizle başlıyoruz 💙
 
-Yearn finally profitable to non whales 🍤🦀
+Sonunda balina olmayanlar için kârlı olan Yearn 🍤🦀
 
-More people in batch = more savings
+Daha fazla kişi = daha fazla birikim
 
-Bonus: $50 in USDC for inviting frens 🤑
+Bonus: Arkadaşları davet etmek için USDC cinsinden 50$ 🤑
 
-Try: [joinwido](https://app.joinwido.com/?page=detail&address=0x8cc94ccd0f3841a468184aCA3Cc478D2148E1757)
+Deneyin: [wido'ya katıl](https://app.joinwido.com/?page=detail&address=0x8cc94ccd0f3841a468184aCA3Cc478D2148E1757)
 
 ![](deposit-together.png)
