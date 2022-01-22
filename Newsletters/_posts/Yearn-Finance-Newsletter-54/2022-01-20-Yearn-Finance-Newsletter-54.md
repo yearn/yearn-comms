@@ -74,7 +74,7 @@ Tüm parçalara [buradan](https://medium.com/bankless-dao/yearn-finance-vaults-k
 
 [Buradaki](https://etherscan.io/address/0xdf270b48829e0f05211f3a33e5dc0a84f7247fbe) bağışlara göz atabilirsiniz.
 
-# Yearn'deki Vult'lar
+# Yearn'deki Vault'lar
 
 Tüm aktif yVault'larımız için stratejilerin ayrıntılı bir açıklamasını [buradan](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) okuyabilirsiniz.
 
