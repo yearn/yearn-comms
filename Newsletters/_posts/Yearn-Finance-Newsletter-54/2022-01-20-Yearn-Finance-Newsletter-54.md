@@ -48,7 +48,7 @@ Ethereum'da yeni Curve vault'ları şu anda yayında: CVX-ETH, CRV-ETH, 3EUR, US
 
 Yeni vault'lara [buradan](https://yearn.finance/#/vaults) göz atabilirsiniz.
 
-#  Yearn Web Güncellemeleri
+# Yearn Web Güncellemeleri
 
 ![](image4.png)
 
