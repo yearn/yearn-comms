@@ -4,23 +4,23 @@ title: "What can you do in a DAO?"
 categories: [Tweets]
 image: ./What-can-you-do-in-a-DAO/3_1473291057580367879.jpg
 author: Tracheopteryx
-translator:
-publish: false
+translator: Dastronom
+publish: true
 ---
 
-original source: [twitter](https://twitter.com/tracheopteryx/status/1473314953713045507)
+Orjinal kaynak: [twitter](https://twitter.com/tracheopteryx/status/1473314953713045507)
 
 ---
 
 ##### 1
 
-Making the jump to working for a DAO can be a challenge.
+Bir DAO için çalışmaya atılmak zor olabilir.
 
-I've helped dozens of newbies into the space over these past 18 months and the thing that is often most difficult for them is this simple question:
+Geçtiğimiz 18 ay boyunca düzinelerce aceminin sahaya girmesine yardım ettim ve onlar için genellikle en zor olan şey şu basit soru:
 
-"What should I do?" 🤔
+"Ne yapmalıyım?" 🤔
 
-Here's a thread on how to figure that out:
+İşte bunu nasıl çözeceğinize dair bir basamak:
 
 ![3_1473291057580367879](3_1473291057580367879.jpg)
 
@@ -28,9 +28,9 @@ Here's a thread on how to figure that out:
 
 ##### 2
 
-In a real DAO work happens differently.
+Gerçek bir DAO'da çalışmak farklı şekilde gerçekleşir.
 
-It's like the difference between a robot and an amoeba — DAOs are like bowls of amino acids waiting for some ribosome to come and stack them into proteins, not like a carefully designed servomotor awaiting its preset electrical impulse.
+Bu, bir robot ile bir amip arasındaki fark gibidir - DAO'lar, önceden ayarlanmış elektriksel darbeyi bekleyen dikkatlice tasarlanmış bir servo motor gibi değil, bir miktar ribozomun gelip onları proteinlere yığmasını bekleyen amino asit kaseleri gibidir.
 
 ![3_1473314358570766343](3_1473314358570766343.jpg)
 
@@ -38,11 +38,11 @@ It's like the difference between a robot and an amoeba — DAOs are like bowls o
 
 ##### 3
 
-And there are no college courses on how to be a DAO ribosome (yet).
+Ve nasıl bir DAO ribozomu olunacağına dair kolej eğitimleri yok (henüz).
 
-You are in the soup and you need to figure out what to do with very little guidance. It's really like what Yoda said.
+Çorbanın içindesiniz ve çok az rehberlikle ne yapacağınızı bulmanız gerekiyor. Gerçekten Yoda'nın dediği gibi.
 
-We've suffered hundreds of years of gaslighting to construct the idea of a "work ethic" ... <br>
+Bir "iş etiği" fikrini inşa etmek için yüzlerce yıldır gaslighting'in acısını çektik ... <br>
 
 <img src="Yoda.gif" width="100%">
 
@@ -50,9 +50,9 @@ We've suffered hundreds of years of gaslighting to construct the idea of a "work
 
 ##### 4
 
-... in order to numb our instincts, tricking us into thinking our lives are best spent as wage slaves.
+... içgüdülerimizi uyuşturmak için, hayatımızın en iyi ücretli köleler olarak geçirileceğini düşünmemizi sağlamak için.
 
-Most of us have been so divorced from the connection to our own internal needs and desires that it's almost impossible to answer the question of "what do I really want?"
+Çoğumuz kendi içsel ihtiyaçlarımız ve arzularımızla olan bağlantımızdan o kadar koptuk ki, "gerçekten ne istiyorum?" sorusuna cevap vermek neredeyse imkansız.
 
 ![3_1473305925603803143](3_1473305925603803143.jpg)
 
@@ -60,25 +60,25 @@ Most of us have been so divorced from the connection to our own internal needs a
 
 ##### 5
 
-And, strange as it may seem, this is the question that DAOs need us to answer.
+Ve ne kadar garip görünse de, DAO'ların yanıtlamamızı istediği soru bu.
 
-Because, like biology, DAOs rely on each of us following our own wisdom. Each component of a DAO needs to be able to decide for itself what to do though self-knowledge & realtime sensing of the whole.
+Çünkü, biyoloji gibi, DAO'lar da kendi bilgeliğimizi takip ederek her birimize güvenir. Bir DAO'nun her bir bileşeni, kendini bilme ve bütünün gerçek zamanlı olarak algılanması yoluyla ne yapacağına kendisi karar verebilmelidir.
 
 ---
 
 ##### 6
 
-This is not a "flat organization" that concept doesn't work. Hierarchy is an essential feature of our reality (the sun is bigger than the earth, get over it).
+Bu, konseptin işlemediği bir "düz organizasyon" değildir. Hiyerarşi, realitemizin temel bir özelliğidir (güneş dünyadan daha büyüktür, üstesinden gelin).
 
-What is important is fluid hierarchy where the leader is the one who knows what to do next. (And process & structure.)
+Önemli olan, liderin daha sonra ne yapacağını bilen kişi olduğu akıcı hiyerarşidir. (Ve süreç ve yapı.)
 
 ---
 
 ##### 7
 
-Getting back to what to do, I created this diagram based on the Japanese concept of Ikigai, adapting it to be DAO-centric, though most of it is the same.
+Ne yapılacağına geri dönersek, bu diyagramı Japonların İkigai konseptine dayalı olarak oluşturdum ve çoğu aynı olmasına rağmen onu DAO merkezli olacak şekilde uyarladım.
 
-I'll walk through each circle.
+Her dönemden geçeceğim.
 
 <table><tr>
 <td> <img src="3_1473304133268643850.jpg" style="width: 500px;"/> </td>
@@ -89,61 +89,61 @@ I'll walk through each circle.
 
 ##### 8
 
-👉 What the 𝔻𝔸𝕆 ℕ𝔼𝔼𝔻𝕊
+👉 DAO’nun neye İHTİYACI VAR
 
-Anything in this circle is valuable for the DAO. Check github issues, bounty boards, notion pages, discord channels, or whatever other resources the DAO has for surfacing needed work.
+Bu çemberdeki her şey DAO için değerlidir. Github sorunlarını, ödül panolarını, fikir sayfalarını, anlaşmazlık kanallarını veya DAO'nun ihtiyaç duyulan işi ortaya çıkarmak için sahip olduğu diğer kaynakları kontrol edin.
 
-Find some work that calls to you, and do it.
+Size çağırışım yapan bir iş bulun ve onu yapın.
 
 ---
 
 ##### 9
 
-👉 What You Can Be ℙ𝔸𝕀𝔻 𝔽𝕆ℝ
+👉 Ne Yaparsan ÖDEME ALIRSIN
 
-Not all contributions are of equal value. If you can earn $1,000/hr as a logo designer then in general that kind of work is going to be of greater service to the DAO than something you can't get paid much for.
+Tüm katkılar eşit değerde değildir. Bir logo tasarımcısı olarak saatte 1000$ kazanabiliyorsanız, o zaman genel olarak bu tür işler DAO'ya çok fazla para alamayacağınız bir şeyden daha fazla hizmet edecektir.
 
-But that isn't the only factor.
+Ama tek faktör bu değil.
 
 ---
 
 ##### 10
 
-👉 What You 𝕃𝕆𝕍𝔼
+👉 Ne SEVİYORSUN
 
-Maybe you get paid bank for logos, but if you hate doing them, chances are they won't actually be that good and further, you won't stick around long.
+Belki logolar için bankadan para alıyorsunuz, ancak onları yapmaktan nefret ediyorsanız, muhtemelen o kadar iyi olmayacaklar ve dahası, uzun süre kalmayacaksınız.
 
-Life is too short not to do what you love. And work done with love is always stronger.
+Hayat sevdiğin şeyi yapmamak için çok kısa. Ve sevgiyle yapılan iş her zaman daha güçlüdür.
 
 ---
 
 ##### 11
 
-👉 What You Are 𝔹𝔼𝕊𝕋 𝔸𝕋
+👉 Hangi işte ÇOK İYİSİN
 
-One of the great joys in the world is to work with brilliant colleagues. Imagine what it would be like if we each did what we were best at?
+Dünyanın en büyük zevklerinden biri, parlak meslektaşlarla çalışmaktır. Her birimiz en iyi olduğumuz şeyi yaparsak nasıl olacağını hayal edin?
 
-(I don't have to imagine, I contribute at [@iearnfinance](https://twitter.com/iearnfinance) and [@coordinape](https://twitter.com/coordinape).)
+(Hayal etmeme gerek yok, [@iearnfinance](https://twitter.com/iearnfinance) ve [@coordinape](https://twitter.com/coordinape)'eye katkıda bulunuyorum.)
 
 ---
 
 ##### 12
 
-We need to start thinking from the DAO's perspective.
+DAO'nun perspektivinden düşünmeye başlamalıyız.
 
-What work will be of most value to the DAO?
+Hangi iş DAO için en kadar değerli olacak?
 
-How can I be of most service?
+En çok nasıl hizmet edebilirim?
 
-Everything in the "what the DAO needs" circle is valuable, but it's the red areas that will be most valuable. And the middle is where magic happens.
+"DAO'nun ihtiyaç duyduğu şey" çemberindeki her şey değerlidir, ancak en değerli olacak olanlar kırmızı alanlardır. Ve tam arası, sihrin gerçekleştiği yerdir.
 
 ---
 
 ##### 13
 
-We do not need to make any more FAANG behemoths. The world honestly can't survive that. DAOs can be something different.
+Daha fazla FAANG devi yapmamıza gerek yok. Dürüst olmak gerekirse, dünya buna dayanamaz. DAO'lar farklı bir şey olabilir.
 
-Working can be a /joy/ not a burden. Compensation can be a gift, not a competition. And maybe 'corporations' could feel like forests, not industrial lots.
+Çalışmak /sevinç olabilir/ yük değil. Mükafat bir hediye olabilir, rekabet değil. Ve belki 'şirketler' endüstriyel arsalar değil, ormanlar gibi hissedebilir.
 
 ![3_1473312850865278988](3_1473312850865278988.jpg)
 
@@ -151,8 +151,8 @@ Working can be a /joy/ not a burden. Compensation can be a gift, not a competiti
 
 ##### 14
 
-It's not so hard to imagine if each of us only did the work that we loved, were best at, could get paid for, and that our DAOs needed.
+Her birimizin sadece sevdiğimiz, en iyi olduğumuz, parasını alabileceğimiz ve DAO'larımızın ihtiyaç duyduğu işi yapıp yapmadığımızı hayal etmek o kadar da zor değil.
 
-If it's not that, why do it?
+Eğer öyle değilse, neden yapılsın?
 
-/end
+/son
