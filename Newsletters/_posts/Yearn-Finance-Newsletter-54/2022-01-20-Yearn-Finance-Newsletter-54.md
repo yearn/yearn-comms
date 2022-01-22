@@ -82,7 +82,7 @@ Tüm aktif yVault'larımız için stratejilerin ayrıntılı bir açıklamasın�
 
 [Yaklaşan Yearn x Pills işbirliğine dikkat edin](https://twitter.com/bantg/status/1482764820265029633)
 
-[Yearn için stratejilerin nasıl yazılacağına dair bir okuma listesine göz atın](9https://twitter.com/sjkelleyjr/status/1481664381054177281)
+[Yearn için stratejilerin nasıl yazılacağına dair bir okuma listesine göz atın](https://twitter.com/sjkelleyjr/status/1481664381054177281)
 
 [Bir DAO'nun bordroyu yönetmek için Coordinape'i nasıl kullandığını keşfedin](https://twitter.com/jkey_eth/status/1479642151730356226)
 
