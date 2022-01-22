@@ -74,13 +74,13 @@ Tüm parçalara [buradan](https://medium.com/bankless-dao/yearn-finance-vaults-k
 
 [Buradaki](https://etherscan.io/address/0xdf270b48829e0f05211f3a33e5dc0a84f7247fbe) bağışlara göz atabilirsiniz.
 
-# Yearn'deki Vault'lar
+# Yearn'deki Vult'lar
 
 Tüm aktif yVault'larımız için stratejilerin ayrıntılı bir açıklamasını [buradan](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) okuyabilirsiniz.
 
 # Ekosistem Haberleri
 
-[Yaklaşan Yearn x Pills işbirliğine dikkat edin](https://twitter.com/pillsuniverse/status/1478321675510763520)
+[Yaklaşan Yearn x Pills işbirliğine dikkat edin](https://twitter.com/bantg/status/1482764820265029633)
 
 [Yearn için stratejilerin nasıl yazılacağına dair bir okuma listesine göz atın](9https://twitter.com/sjkelleyjr/status/1481664381054177281)
 
