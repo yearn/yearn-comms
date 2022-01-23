@@ -4,29 +4,29 @@ title:  "Claim from old yGov"
 categories: [ Tweets ]
 image: ./Claim-from-old-ygov/amount-in-old-ygov.jpg
 author: Dudesahn
-translator:
+translator: giosereth
 publish: true
 ---
 
-original source: [twitter](https://twitter.com/dudesahn/status/1413567068583104512)
+Αρχική Πηγή: [twitter](https://twitter.com/dudesahn/status/1413567068583104512)
 
 ##### 1
 
-Just checked out the old [@iearnfinance](https://twitter.com/iearnfinance) staking contracts:
+Μόλις έλεγξα τα παλιά συμβόλαια του [@iearnfinance](https://twitter.com/iearnfinance):
 
-~30 YFI unclaimed in the original staking pools
-~8.5 YFI staked in v1 staking contract
-~764 YFI still staked in v2 staking contract with $750k in claimable yCRV 😬
+~30 YFI αζήτητα από τις αρχικές δεξαμενές του staking
+~8.5 YFI staked σε ένα v1 συμβόλαιο
+~764 YFI παραμένουν ακόμα staked σε ένα v2 συμβόλαιο με $750k σε διεκδικήσιμα yCRV 😬
 
-Almost $29m in staked LPs, YFI, and claimable rewards :point_down:
+Σχεδόν $29m σε staked LPs, YFI, και διεκδικήσιμες αμοιβές 👇
 
 ![](image1.jfif)
 
 ##### 2
 
-Unsure if you might have some funds to claim?
+Δεν είστε σίγουροι αν έχετε κεφάλαια προς διεκδικήση;
 
-Head to https://etherscan.io, and enter one of the following addresses:
+Πηγαίνετε στο https://etherscan.io, και εισάγετε μία από τις ακόλουθες διευθύνσεις:
 
 • YFI Farming Pool 1: 0x0001FB050Fe7312791bF6475b96569D83F695C9f
 • YFI Farming Pool 2: 0x033E52f513F9B98e129381c6708F9faA2DEE5db5
@@ -37,25 +37,25 @@ Head to https://etherscan.io, and enter one of the following addresses:
 • YFI Gov Staking v1: 0xb01419E74D8a2abb1bbAD82925b19c36C191A701
 • YFI Gov Staking v2: 0xBa37B002AbaFDd8E89a1995dA52740bbC013D992
 
-Under Contract, click Read Contract, and put in your address under balanceOf 👀
+Κάτω από το Συμβόλαιο, κάντε κλικ στην επιλογή Διαβάστε το Συμβόλαιο και βάλτε τη διεύθυνσή σας κάτω από το balanceOf 👀
 
 ![](image2.jfif)
 
 ##### 4
 
-If a value >0 shows up, then congrats, you have YFI and/or rewards to claim! :partying_face:
+Αν εμφανιστεί μια τιμή >0, τότε συγχαρητήρια, έχετε YFI ή/και ανταμοιβές για να διεκδικήσετε! 🥳
 
-To claim all of your staked assets and rewards, head over to Write Contract, connect your wallet, and call exit().
+Για να διεκδικήσετε τα περιουσιακά σας στοιχεία και τις ανταμοιβές από το staking, μεταβείτε στο Write Contract, συνδέστε το πορτοφόλι σας και καλέστε την εντολή exit().
 
 ![](image3.jfif)
 
 ##### 5
 
-With your fresh YFI or yCRV in hand, you can head to http://yearn.finance/vaults and deposit them into one of our vaults. Alternatively, head over to our good friends at @CreamdotFinance 🍦 and borrow against those assets, or even use @MIM_Spell 🧙‍♂️ to borrow against your new yvYFI.
+Με το φρέσκο σας YFI ή yCRV στο χέρι, μπορείτε να πάτε στο http://yearn.finance/vaults και να το καταθέσετε τα σε ένα από τα θησαυροφυλάκια μας. Εναλλακτικά, κατευθυνθείτε προς τους καλούς μας φίλους στο @CreamdotFinance 🍦 και δανειστείτε έναντι αυτών των περιουσιακών στοιχείων, ή ακόμη και χρησιμοποιήστε το @MIM_Spell 🧙‍♂️ για να δανειστείτε έναντι του νέου σας yvYFI.
 
 ##### 6
 
-Also worth adding here: just because you don't have any funds still staked doesn't mean you can't claim rewards! Similar to balanceOf(), you can check for claimable rewards under Read Contract with earned(), and then claim any available under Write Contract using getReward()! 🤑
+Αξίζει επίσης να προσθέσουμε εδώ: το γεγονός ότι δεν έχετε αυτή τη στιγμή κεφάλαια staked, δεν σημαίνει ότι δεν μπορείτε να διεκδικήσετε ανταμοιβές! Παρόμοιως με την εντολή balanceOf(), μπορείτε να ελέγξετε για τυχόν διεκδικήσιμες ανταμοιβές στο Read Contract με την εντολή earned(), και στη συνέχεια να διεκδικήσετε τυχόν διαθέσιμες ανταμοιβές στο Write Contract χρησιμοποιώντας την εντολή getReward()! 🤑
 
 ![](image4.png) </br>
 
