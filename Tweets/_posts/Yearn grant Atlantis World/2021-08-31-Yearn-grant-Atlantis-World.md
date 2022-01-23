@@ -1,39 +1,39 @@
 ---
 layout: post
-title:  "Atlantis World Grant"
+title:  "Επιχορήγηση για το Atlantis World"
 categories: [ Tweets ]
 image: ./Yearn-grant-Atlantis-World/image2.jpg
 author: Yearn
-translator:
+translator: giosereth
 publish: true
 ---
 
-original source: [twitter](https://twitter.com/iearnfinance/status/1432387438014435332)
+Αρχική Πηγή: [twitter](https://twitter.com/iearnfinance/status/1432387438014435332)
 
-###### Yearn Finance has issued a grant to [@atlantis0x](https://twitter.com/atlantis0x) to help build a 2d pixel metaverse. Here's why:
+###### Το Yearn Finance έδωσε μια επιχορήγηση στο [@atlantis0x](https://twitter.com/atlantis0x) για να βοηθήσει στην κατασκευή ενός 2d pixel metaverse. Εδώ είναι το γιατί:
 
 ##### 1
 
-[Atlantis World](https://twitter.com/atlantis0x) is a Web3 metaverse designed to expand access to virtual worlds, a 2d pixelverse that doesn't require expensive tech but will still melt faces.
+Το [Atlantis World](https://twitter.com/atlantis0x) είναι ένα Web3 metaverse σχεδιασμένο για να επεκτείνει την πρόσβαση σε εικονικούς κόσμους, ένα 2d pixelverse που δεν απαιτεί ακριβή τεχνολογία αλλά εξακολουθεί να ενθουσιάζει.
 
 ![](image2.jpg)
 
 ##### 2
 
-They're building DAO and DeFi first, with education, community, governance, and security in mind from the start.
+Χτίζουν πρώτα το DAO και την Αποκεντρωμένη Οικονομία (DeFi), με γνώμονα την εκπαίδευση, την κοινότητα, τη διακυβέρνηση και την ασφάλεια από την αρχή.
 
 ##### 3
 
-We think the metaverse will play a big role in the future of DAOs and culture as we connect, gamify, and evolve the ecosystem.
+Πιστεύουμε ότι το metaverse θα παίξει σημαντικό ρόλο στο μέλλον των DAOs και του πολιτισμού, καθώς συνδέουμε, παιχνιδοποιούμε και εξελίσσουμε το οικοσύστημα.
 
 ##### 4
 
-Learn more about Atlantis World:  [atlantisworld.io](https://atlantisworld.io)
+Μάθετε παραπάνω για το Atlantis World στο:  [atlantisworld.io](https://atlantisworld.io)
 
 ##### 5
 
-Grants to builders like [@atlantis0x](https://twitter.com/atlantis0x) are core to Yearn's strategy to constantly evolve and keep making DeFi simple.
+Επιχορηγήσεις σε δημιουργούς όπως το [@atlantis0x](https://twitter.com/atlantis0x) βρίσκονται στον πυρήνα της στρατηγικής του Yearn για να εξελίσσεται συνεχώς και να συνεχίζει να κάνει την Αποκεντρωμένη Οικονομία (DeFi) κάτι το πολύ απλό.
 
 ##### 6
 
-Building something next level and want to connect with us? Visit: [yearnfinance.typeform.com/yGrants](https://yearnfinance.typeform.com/yGrants)
+Χτίζετε κάτι καινούριο και θέλετε να συνδεθείτε μαζί μας; Επισκεφθείτε το: [yearnfinance.typeform.com/yGrants](https://yearnfinance.typeform.com/yGrants)
