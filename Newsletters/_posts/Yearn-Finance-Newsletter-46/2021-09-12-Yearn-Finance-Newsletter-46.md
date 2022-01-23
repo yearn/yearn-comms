@@ -8,7 +8,7 @@ translator: Stathis
 publish: true
 ---
 
-# Yearn Finance Newsletter #46
+# Ενημερωτικό Σημείωμα του Yearn Finance #46
 #### Εβδομάδα Σεπτεμβρίου 12, 2021
 
 
