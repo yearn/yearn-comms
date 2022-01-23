@@ -8,7 +8,7 @@ translator: Stathis
 publish: true
 ---
 
-# Yearn Finance Newsletter #48
+# Ενημερωτικό Σημείωμα του Yearn Finance #48
 
 ### Εβδομάδα Οκτωβρίου 10, 2021
 
