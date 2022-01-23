@@ -4,32 +4,32 @@ title:  "Bowswap.Finance"
 categories: [ Tweets ]
 image: ./bowswapfinance/image1.jpg
 author: Facu
-translator:
+translator: giosereth
 publish: true
 ---
 
-original source: [twitter](https://twitter.com/fameal/status/1424857239505018880)
+Αρχική Πηγή: [twitter](https://twitter.com/fameal/status/1424857239505018880)
 
 ##### 1
 
-There's a new way to always have the best available yield. A simple way:
+Υπάρχει ένας νέος τρόπος για να έχετε πάντα την καλύτερη διαθέσιμη απόδοση. Ένας απλός τρόπος:
 
 🏹 https://bowswap.finance
 
-You can now swap between [@iearnfinance](https://twitter.com/iearnfinance) Vaults in one single transaction ⚡️
+Μπορείτε τώρα να ανταλλάξετε μεταξύ των Θησαυροφυλακίων του [@iearnfinance](https://twitter.com/iearnfinance) με μια μόνο συναλλαγή ⚡️
 
 ![](image1.jpg)
 
 ##### 2
 
-In this first version you can move between some Curve LP vaults that have the same metapool.
+Σε αυτή την πρώτη έκδοση μπορείτε να μετακινήσετε κεφάλαια μεταξύ ορισμένων μόνο θησαυροφυλακίων Curve LP που έχουν το ίδιο metapool.
 
 ##### 3
 
-What's a metapool? It's a pool built on top of another pool. Simple, right?
+Τι είναι το metapool; Είναι μια δεξαμενή ρευστότητας χτισμένη πάνω σε μια άλλη δεξαμενή ρευστότητας. Απλό, σωστά;
 
 ##### 4
 
-You are going to be able to swap safely thanks to the slippage protection built-in 🛡️
+Έτσι, είστε σε θέση να κάνετε αλλαγές token με ασφάλεια χάρη στην ενσωματωμένη προστασία ολίσθησης 🛡️
 
-Thanks [@pandabuild](https://twitter.com/pandabuild) [@MajorTom_eth](https://twitter.com/MajorTom_eth) and Ivan for building this yAmazing thing 🚀
+Ευχαριστούμε τους [@pandabuild](https://twitter.com/pandabuild) [@MajorTom_eth](https://twitter.com/MajorTom_eth) και Ivan για την κατασκευή αυτού του καταπληκτικού πράγματος 🚀
