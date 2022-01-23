@@ -4,86 +4,87 @@ title: "Yearn Finance Newsletter #54"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-54/image1.png
 author: Yearn
-translator:
-publish: false
+translator: giosereth
+publish: true 
 ---
 
-# Yearn Finance Newsletter #54
+# Ενημερωτικό Σημείωμα του Yearn Finance #54
 
-### Week Ending January 16nd, 2022
+### Για την εβδομάδα που τελειώνει στις 16 Ιανουαρίου, 2022
 
 ![](image1.png)
 
-Welcome to the 54th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Καλώς ήρθατε στην 54η έκδοση του ενημερωτικού δελτίου τoυ Yearn Finance. Στόχος μας με αυτό το ενημερωτικό δελτίο είναι να ενημερώνουμε την κοινότητα του Yearn και την ευρύτερη κρύπτο-κοινότητα για τα τελευταία νέα, συμπεριλαμβανομένων των νέων προϊόντων, των αλλαγών στη διακυβέρνηση και των ενημερώσεων του οικοσυστήματος. Αν ενδιαφέρεστε να μάθετε περισσότερα για την Yearn Finance, ακολουθήστε τους επίσημους λογαριασμούς μας στο [Twitter](https://twitter.com/iearnfinance) και στο [Medium](https://medium.com/iearn).
 
-## Summary
+## Σύνοψη
 
-- Introducing Seven New Fantom Vaults
-- New Curve Vaults Live
-- Yearn Web Updates
-- Yearn Finance Vaults: Knockin’ on DeFi’s Door
-- Update on yvBOOST
-- Vaults at Yearn
-- Ecosystem News
+- Παρουσιάζουμε επτά νέα θησαυροφυλάκια στο Fantom
+- Τα νέα Θησαυροφυλάκια στο Curve είναι Live
+- Ενημερώσεις στην Ιστοσελίδα του Yearn
+- Θησαυροφυλάκια του Yearn: Knockin' on DeFi's Door
+- Ενημέρωση για το yvBOOST
+- Θησαυροφυλάκια στο Yearn
+- Τα Νέα του Οικοσυστήματος
 
-# Introducing Seven New Fantom Vaults
+
+# Παρουσιάζουμε επτά νέα θησαυροφυλάκια στο Fantom
 
 ![](image2.png)
 
-On Fantom, these seven vaults join the mix: WBTC, WETH, SPELL, DOLA, Curve Tricrypto, Curve Geist, and CRV
+Στο Fantom, αυτά τα επτά θησαυροφυλάκια προστίθενται στα ήδη υπάρχοντα: WBTC, WETH, SPELL, DOLA, Curve Tricrypto, Curve Geist, και CRV.
 
-Meanwhile, with nearly $400M TVL in Fantom vaults, we're still seeing juicy APYs, up to over 45%. Most of the Fantom vaults utilize folding on Scream, with Geist Finance and Tarot Finance strategies arriving imminently
+Εν τω μεταξύ, με σχεδόν $400M Συνολική Κλειδωμένη Αξία (TVL) στα θησαυροφυλάκια στο Fantom, εξακολουθούμε να βλέπουμε ζουμερά APY, μέχρι και πάνω από 45%. Τα περισσότερα από τα θησαυροφυλάκια στο Fantom χρησιμοποιούν την αναδίπλωση στο Scream, με τις στρατηγικές Geist Finance και Tarot Finance να έρχονται σύντομα.
 
-What's your move? Start depositing today at [yearn.finance/vaults](https://yearn.finance/vaults).
+Ποια είναι η δική σας κίνηση; Ξεκινήστε να καταθέτετε σήμερα στο [yearn.finance/vaults](https://yearn.finance/vaults).
 
-# New Curve Vaults Live
+# Τα νέα Θησαυροφυλάκια στο Curve είναι Live
 
 ![](image3.png)
 
-On Ethereum, the following new Curve vaults are live now: CVX-ETH, CRV-ETH, 3EUR, UST Wormhole, USDPax, DOLA, and RAI - the first vault utilizing Reflexer’s custom Curve implementation
+Στο Ethereum, τα ακόλουθα νέα θησαυροφυλάκια Curve είναι τώρα διαθέσιμα: CVX-ETH, CRV-ETH, 3EUR, UST Wormhole, USDPax, DOLA, και RAI – πρόκειται για το πρώτο θησαυροφυλάκιο που χρησιμοποιεί την προσαρμοσμένη υλοποίηση Reflexer του Curve.
 
-As for 3EUR, this token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains agEUR, EURT, and EURS. agEUR is a synthetic Euro issued by Angle Protocol, while EURS and EURT are both centralized, hard-pegged Euro tokens issued by Stasis and Tether, respectively.
+Όσον αφορά το 3EUR, αυτό το token αντιπροσωπεύει μια δεξαμενή ρευστότητας Curve. Οι κάτοχοί του κερδίζουν αμοιβές από τους χρήστες που συναλλάσσονται στη δεξαμενή ρευστότητας και επιπλέον μπορούν να καταθέσουν το LP στους μετρητές της Curve για να κερδίσουν ανταμοιβές σε CRV. Αυτή η δεξαμενή ρευστότητας περιέχει τα agEUR, EURT και EURS. Το agEUR είναι ένα συνθετικό Ευρώ, που εκδίδεται από το Angle Protocol, ενώ τα EURS και EURT είναι και τα δύο κεντροποιημένα, σκληρά συνδεδεμένα tokens που αντιπροσωπεύουν το Ευρώ και εκδίδονται από την Stasis και την Tether, αντίστοιχα.
 
-The 3EUR strategy supplies 3EURpool-f to Convex Finance to earn CRV and CVX (and any other available tokens). Earned tokens are harvested, sold for more 3EURpool-f which is deposited back into the strategy.
+Η στρατηγική 3EUR παρέχει 3EURpool-f στην Convex Finance για να κερδίσει CRV και CVX (και οποιαδήποτε άλλα διαθέσιμα tokens). Τα κερδισμένα token συλλέγονται, πωλούνται για περισσότερα 3EURpool-f τα οποία κατατίθενται ξανά πίσω στη στρατηγική.
 
-Check out the new vaults [here](https://yearn.finance/#/vaults).
+Δείτε τα νέα θησαυροφυλάκια [εδώ](https://yearn.finance/#/vaults).
 
-# Yearn Web Updates
+# Ενημερώσεις στην Ιστοσελίδα του Yearn
 
 ![](image4.png)
 
-This week's Yearn web update includes several first-time contributors opening PRs and improved backend logic for Iron Bank & Curve LP tokens
+Η ενημέρωση της ιστοσελίδας του Yearn αυτή την εβδομάδα περιλαμβάνει αρκετούς νέους, πρωτοεμφανιζόμενους συνεργάτες  που άνοιξαν τα PR και βελτίωσαν τον κώδικα που βρίσκετε πίσω από τα token Iron Bank & Curve LP.
 
-Upcoming updates are an updated test suite for the Yearn SDK, more descriptive simulation errors, and refactoring the API with documentation.
+Στις επερχόμενες ενημερώσεις περιλαμβάνετε μια ενημερωμένη σουίτα δοκιμών για το Yearn SDK, πιο περιγραφικά σφάλματα προσομοίωσης και αναδιαμόρφωση του API με τεκμηρίωση.
 
-Check out the full new update [here](https://yearnweb.substack.com/p/yearn-web-engineering-update).
+Δείτε την νέα ενημέρωση στο σύνολό της [εδώ](https://yearnweb.substack.com/p/yearn-web-engineering-update).
 
-# Yearn Finance Vaults: Knockin’ on DeFi’s Door
+# Θησαυροφυλάκια του Yearn Finance:  Knockin' on DeFi's Door
 
 ![](image5.png)
 
-This article from BanklessDAO offers a complete summary of the features offered by Yearn and depicts how it makes DeFi easier to use.
+Αυτό το άρθρο από το BanklessDAO προσφέρει μια πλήρη περίληψη όλων των χαρακτηριστικών που προσφέρονται από το Yearn και απεικονίζει πώς κάνουμε το DeFi πιο εύχρηστο.
 
-Overall, using Yearn vaults is a bet on the protocol having the highest security of yield aggregators and being able to bring significant capital efficiency to DeFi with the amazing work of all strategists and their automations.
+Συνολικά, το να χρησιμοποιεί κανείς τα θησαυροφυλάκια του Yearn είναι ένα στοίχημα στο ίδιο το πρωτόκολλο που προσφέρει την υψηλότερη ασφάλεια ως προς τους συγκεντρωτές αποδόσεων και επιπλέον, είναι σε θέση να προσφέρει σημαντική αποδοτικότητα των κεφαλαίων σας στην Αποκεντρωμένη Οικονομία (DeFi) χάρη στην καταπληκτική δουλειά όλων των στρατηγικών αναλυτών και των αυτοματισμών που δημιουργούν.
 
-Check out the full piece [here](https://medium.com/bankless-dao/yearn-finance-vaults-knockin-on-defi-s-door-f5e9f56f669a).
+Δείτε ολόκληρο το άρθρο [εδώ](https://medium.com/bankless-dao/yearn-finance-vaults-knockin-on-defi-s-door-f5e9f56f669a).
 
-# Update on yvBOOST
+# Ενημέρωση για το yvBOOST
 
-Most may not realize, but 1 yvBOOST collects 2.2x more weekly Curve protocol fees than 1 veCRV. yvBOOST APR is also over 100%, sustained, with 1 yvBOOST currently being 32% cheaper than 1 CRV. Even after all this, there is over $5M still to be donated to yvBOOST holders
+Οι περισσότεροι μπορεί να μην το συνειδητοποιήσουν, αλλά 1 yvBOOST εισπράττει 2,2x περισσότερα εβδομαδιαία τέλη από το πρωτόκολλο του Curve από ότι 1 veCRV. Το APR στο yvBOOST είναι επίσης πάνω από 100%, και σταθερό, με το 1 yvBOOST να είναι σήμερα 32% φθηνότερο από ότι 1 CRV. Ακόμη και μετά από όλα αυτά, υπάρχουν πάνω από 5 εκατ. δολάρια που περιμένουν να δωρισθούν στους κατόχους του yvBOOST.
 
-Check out the donations [here](https://etherscan.io/address/0xdf270b48829e0f05211f3a33e5dc0a84f7247fbe).
+Δείτε τις δωρεές [εδώ](https://etherscan.io/address/0xdf270b48829e0f05211f3a33e5dc0a84f7247fbe).
 
-# Vaults at Yearn
+# Θησαυροφυλάκια στο Yearn
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Μπορείτε να διαβάσετε μια λεπτομερή περιγραφή των στρατηγικών για όλα τα ενεργά yVaults μας [εδώ](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-# Ecosystem News
+# Τα Νέα του Οικοσυστήματος
 
-[Watch out for the upcoming Yearn x Pills collaboration](https://twitter.com/bantg/status/1482764820265029633)
+[Έχετε στο νου σας την επερχόμενη συνεργασία του Yearn με το Pills](https://twitter.com/bantg/status/1482764820265029633)
 
-[Check out a reading list on how to write strategies for Yearn](https://twitter.com/sjkelleyjr/status/1481664381054177281)
+[Ρίξτε μια ματιά στη λίστα με χρήσιμα αναγνώσματα για να μάθετε πώς να γράφετε στρατηγικές για το Yearn](https://twitter.com/sjkelleyjr/status/1481664381054177281)
 
-[Explore how one DAO used Coordinape to manage payroll](https://twitter.com/jkey_eth/status/1479642151730356226)
+[Δείτε πώς ένα DAO χρησιμοποίησε το Coordinape για τη διαχείριση της μισθοδοσίας του](https://twitter.com/jkey_eth/status/1479642151730356226)
 
-[Support a Yearn alumni’s campaign for a seat in Congress](https://twitter.com/mattdwest/status/1481083902580166656)
+[Υποστηρίξτε την εκστρατεία ενός αποφοίτου του Yearn για μια θέση στο Κογκρέσο](https://twitter.com/mattdwest/status/1481083902580166656)
