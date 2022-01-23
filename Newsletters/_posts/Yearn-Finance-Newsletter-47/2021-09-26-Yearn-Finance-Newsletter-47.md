@@ -8,7 +8,7 @@ translator: Stathis
 publish: true
 ---
 
-# Yearn Finance Newsletter #47
+# Ενημερωτικό Σημείωμα του Yearn Finance #47
 
 ### Εβδομάδα Σεπτεμβρίου 26, 2021
 
