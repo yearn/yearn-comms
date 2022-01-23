@@ -119,4 +119,3 @@ Eine detaillierte Beschreibung der Strategien für alle unsere aktiven yVaults k
 [Hör dir Facus Einblicke in Yearn mit dem On the Ledger-Podcast an](https://twitter.com/Ledger/status/1465678701635506185)
 
 [YFI kann jetzt in der Flexa-App ausgegeben werden](https://twitter.com/FlexaHQ/status/1469092114038415364)
-
