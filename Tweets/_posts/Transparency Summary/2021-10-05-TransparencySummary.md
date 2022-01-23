@@ -4,30 +4,30 @@ title:  "Transparency Summary"
 categories: [ Tweets ]
 image: ./TransparencySummary/image1.jpg
 author: Yearn
-translator:
+translator: giosereth
 publish: true
 ---
-original source: [twitter](https://twitter.com/iearnfinance/status/1445143482830446600)
+Αρχική Πηγή: [twitter](https://twitter.com/iearnfinance/status/1445143482830446600)
 
 ##### 1
 
-This is why crypto will change the world.
+Αυτός είναι ο λόγος για τον οποίο τα κρύπτο θα αλλάξουν τον κόσμο.
 
-It kills shadows.
+Σκοτώνουν τις σκιές.
 
-Yearn’s super coders are 🌞.
+Οι σούπερ προγραμματιστές του Yearn είναι 🌞.
 
-Everything’s on-chain with hooman-readable labels.
+Τα πάντα βρίσκονται στην αλυσίδα με ευανάγνωστες ετικέτες.
 
-Transparency verified ✅
+Η διαφάνεια επαληθεύεται ✅
 
-Let’s take a look at just how transparent Yearn is 👇
+Ας ρίξουμε μια ματιά στο πόσο διαφανές είναι το Yearn 👇
 
 ![](image1.jpg)
 
 ##### 2
 
-See Yearn’s balance sheets, EBITDA, income and more EVERY quarter:
+Δείτε τους ισολογισμούς, τα EBITDA, τα έσοδα και άλλα οικονομικά στοιχεία του Yearn ΚΑΘΕ τρίμηνο:
 
 https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-quarterly-report.pdf
 
@@ -41,37 +41,37 @@ https://github.com/yearn/yearn-pm/blob/master/financials/reports/2021Q2-yearn-qu
 
 ##### 3
 
-In fact, you can track every single Yearn-related transaction in real time at [yfistats.com](http://www.yfistats.com/)
+Στην πραγματικότητα, μπορείτε να παρακολουθείτε κάθε συναλλαγή που σχετίζεται με το Yearn σε πραγματικό χρόνο στη διεύθυνση [yfistats.com](http://www.yfistats.com/)
 
 ![](image6.jpg)
 
 ##### 4
 
-There, you’ll find sortable:
+Εκεί, θα βρείτε ταξινομήσιμα:
 
-🔵 Transaction records
+🔵 Εγγραφές συναλλαγών
 
-🔵 Protocol income
+🔵 Τα έσοδα του πρωτοκόλλου
 
-🔵 Protocol expenses
+🔵 Τα έξοδα του πρωτοκόλλου
 
-🔵 Income statements
+🔵 Κατάσταση λογαριασμών εσόδων
 
-🔵 EOM balances
+🔵 Υπόλοιπα EOM 
 
-🔵 Charts
+🔵 Διαγράμματα
 
-🔵 Revenue projects
+🔵 Σχέδια εσόδων
 
-🔵 $YFI buybacks
+🔵 Εξαγορές $YFI 
 
-& much more.
+& πολλά ακόμα.
 
-All of it is meticulously labelled by the yBudget team with 💙  and freely accessible to anyone in the 🌍
+Όλα αυτά επισημαίνονται σχολαστικά από την ομάδα του yBudget με 💙 και είναι ελεύθερα προσβάσιμα σε οποιονδήποτε στο 🌍.
 
 ##### 5
 
-Don’t like websites? You can even track our income with custom “harvest bots” in Discord and Telegram:
+Δεν σας αρέσουν οι ιστότοποι; Μπορείτε να παρακολουθείτε τα έσοδά μας από τα προσαρμοσμένα "ρομπότ συγκομιδής" στο Discord και στο Telegram:
 
 🔵 Discord: [discord.com/invite/6PNv2nF](https://discord.com/invite/6PNv2nF)
 
@@ -81,16 +81,16 @@ Don’t like websites? You can even track our income with custom “harvest bots
 
 ##### 6
 
-Want to join one of the most open and transparent platforms in history?
+Θέλετε να συμμετάσχετε σε μια από τις πιο ανοιχτές και διαφανείς πλατφόρμες στην ιστορία;
 
-Good news: we show you exactly how you can contribute with a list of tasks just waiting for new contributors: [contribute.yearn.rocks](https://contribute.yearn.rocks/)
+Σας έχουμε καλά νέα: σας δείχνουμε ακριβώς πώς μπορείτε να συνεισφέρετε μέσα από ένα κατάλογο εργασιών που περιμένουν να υλοποιηθούν από τους νέους συνεργάτες μας:  [contribute.yearn.rocks](https://contribute.yearn.rocks/)
 
 ![](image8.jpg)
 
 ##### 7
 
-The future is here, it’s just not evenly distributed.
+Το μέλλον είναι εδώ, απλώς δεν είναι ομοιόμορφα κατανεμημένο.
 
-Come live it with us at Yearn 💙
+Ελάτε να το ζήσετε μαζί μας στο Yearn 💙
 
 ![](image9.jpg)
