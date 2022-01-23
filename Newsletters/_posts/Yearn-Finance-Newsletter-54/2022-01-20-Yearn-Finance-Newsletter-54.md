@@ -4,86 +4,88 @@ title: "Yearn Finance Newsletter #54"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-54/image1.png
 author: Yearn
-translator:
-publish: false
+translator: jameskbh
+publish: true
 ---
 
 # Yearn Finance Newsletter #54
 
-### Week Ending January 16nd, 2022
+### Semana que termina em 16 de janeiro de 2022
 
 ![](image1.png)
 
-Welcome to the 54th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Bem-vindo à 54ª edição da Yearn Finance Newsletter. Nosso objetivo com este boletim é manter a comunidade da Yearn e a comunidade cripto em geral informadas sobre as notícias mais recentes, incluindo lançamentos de produtos, mudanças de governança e atualizações do ecossistema. Se você estiver interessado em aprender mais sobre Yearn Finance, siga nossas contas oficiais [Twitter](https://twitter.com/iearnfinance) e [Medium](https://medium.com/iearn).
 
-## Summary
+## Sumário
 
-- Introducing Seven New Fantom Vaults
-- New Curve Vaults Live
-- Yearn Web Updates
-- Yearn Finance Vaults: Knockin’ on DeFi’s Door
-- Update on yvBOOST
-- Vaults at Yearn
-- Ecosystem News
+- Apresentando sete novos vaults Fantom
+- Novos Vaults Curve ativados
+- Atualização Web de Yearn
+- Yearn Finance Vaults: Knockin' on DeFi's Door
+- Atualização no yvBOOST
+- Vaults na Yearn
+- Notícias do Ecossistema
 
-# Introducing Seven New Fantom Vaults
+# Apresentando sete novos vaults Fantom
 
 ![](image2.png)
 
-On Fantom, these seven vaults join the mix: WBTC, WETH, SPELL, DOLA, Curve Tricrypto, Curve Geist, and CRV
+No Fantom, esses sete vaults se juntam à ao que temos: WBTC, WETH, SPELL, DOLA, Curve Tricrypto, Curve Geist e CRV
 
-Meanwhile, with nearly $400M TVL in Fantom vaults, we're still seeing juicy APYs, up to over 45%. Most of the Fantom vaults utilize folding on Scream, with Geist Finance and Tarot Finance strategies arriving imminently
+Enquanto isso, com quase $ 400M TVL em vaults Fantom, ainda estamos vendo APYs suculentos, até mais de 45%. A maioria dos vaults do Fantom utiliza o alavancagem em Scream, com as estratégias Geist Finance e Tarot Finance chegando em breve
 
-What's your move? Start depositing today at [yearn.finance/vaults](https://yearn.finance/vaults).
+Qual é o seu próximo passo? Comece a depositar hoje em [yearn.finance/vaults](https://yearn.finance/vaults).
 
-# New Curve Vaults Live
+# Novos Vaults Curve ativados
 
 ![](image3.png)
 
-On Ethereum, the following new Curve vaults are live now: CVX-ETH, CRV-ETH, 3EUR, UST Wormhole, USDPax, DOLA, and RAI - the first vault utilizing Reflexer’s custom Curve implementation
+No Ethereum, os seguintes novos vaults Curve já estão disponíveis: CVX-ETH, CRV-ETH, 3EUR, UST Wormhole, USDPax, DOLA e RAI - o primeiro vault utilizando a implementação Reflexer personalizada de Curve
 
-As for 3EUR, this token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains agEUR, EURT, and EURS. agEUR is a synthetic Euro issued by Angle Protocol, while EURS and EURT are both centralized, hard-pegged Euro tokens issued by Stasis and Tether, respectively.
+Quanto ao 3EUR, este token representa um pool de liquidez Curve. Os detentores recebem taxas dos usuários que negociam no pool e também podem depositar o LP nos gauges da Curve para obter emissões de CRV. Este pool contém agEUR, EURT e EURS. agEUR é um euro sintético emitido pelo Angle Protocol, enquanto o EURS e o EURT são tokens de euro centralizados e indexados emitidos pela Stasis e Tether, respectivamente.
 
-The 3EUR strategy supplies 3EURpool-f to Convex Finance to earn CRV and CVX (and any other available tokens). Earned tokens are harvested, sold for more 3EURpool-f which is deposited back into the strategy.
+A estratégia 3EUR fornece 3EURpool-f à Convex Finance para ganhar CRV e CVX (e quaisquer outros tokens disponíveis). Os tokens ganhos são coletados, vendidos por mais 3EURpool-f que são depositados de volta na estratégia.
 
-Check out the new vaults [here](https://yearn.finance/#/vaults).
+Confira os novos vaults [aqui](https://yearn.finance/#/vaults).
 
-# Yearn Web Updates
+## Atualização Web de Yearn
 
 ![](image4.png)
 
-This week's Yearn web update includes several first-time contributors opening PRs and improved backend logic for Iron Bank & Curve LP tokens
+A atualização da web do Yearn desta semana inclui vários contribuidores iniciantes abrindo PRs e lógica de back-end aprimorada para tokens Iron Bank & Curve LP
 
-Upcoming updates are an updated test suite for the Yearn SDK, more descriptive simulation errors, and refactoring the API with documentation.
+As próximas atualizações são um conjunto de testes atualizado para o SDK Yearn, descrições melhores de erros de simulação e refatoração da API com documentação.
 
-Check out the full new update [here](https://yearnweb.substack.com/p/yearn-web-engineering-update).
+Confira a nova atualização completa [aqui](https://yearnweb.substack.com/p/yearn-web-engineering-update).
 
-# Yearn Finance Vaults: Knockin’ on DeFi’s Door
+# Yearn Finance Vaults: Knockin' on DeFi's Door
 
 ![](image5.png)
 
-This article from BanklessDAO offers a complete summary of the features offered by Yearn and depicts how it makes DeFi easier to use.
+Este artigo do BanklessDAO oferece um resumo completo dos recursos oferecidos pelo Yearn e mostra como ele torna o DeFi mais fácil de usar.
 
-Overall, using Yearn vaults is a bet on the protocol having the highest security of yield aggregators and being able to bring significant capital efficiency to DeFi with the amazing work of all strategists and their automations.
+No geral, usar os vaults da Yearn é uma aposta no protocolo com a mais alta segurança de agregadores de rendimento e capacidade de trazer eficiência de capital significativa para o DeFi, com o incrível trabalho de todos os estrategistas e suas automações.
 
-Check out the full piece [here](https://medium.com/bankless-dao/yearn-finance-vaults-knockin-on-defi-s-door-f5e9f56f669a).
+Confira a peça completa [aqui](https://medium.com/bankless-dao/yearn-finance-vaults-knockin-on-defi-s-door-f5e9f56f669a).
 
-# Update on yvBOOST
+# Atualização no yvBOOST
 
-Most may not realize, but 1 yvBOOST collects 2.2x more weekly Curve protocol fees than 1 veCRV. yvBOOST APR is also over 100%, sustained, with 1 yvBOOST currently being 32% cheaper than 1 CRV. Even after all this, there is over $5M still to be donated to yvBOOST holders
+A maioria pode não perceber, mas 1 yvBOOST coleta 2,2 vezes mais taxas semanais de protocolo Curve do que 1 veCRV. O APR do yvBOOST também está acima de 100%, sustentável, com 1 yvBOOST sendo atualmente 32% mais barato que 1 CRV. Mesmo depois de tudo isso, ainda há mais de US$ 5 milhões a serem doados aos detentores do yvBOOST
 
-Check out the donations [here](https://etherscan.io/address/0xdf270b48829e0f05211f3a33e5dc0a84f7247fbe).
+Confira as doações [aqui](https://etherscan.io/address/0xdf270b48829e0f05211f3a33e5dc0a84f7247fbe).
 
-# Vaults at Yearn
+# Vaults na Yearn
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Você pode ler uma descrição detalhada das estratégias para todos os nossos yVaults ativos [aqui](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-# Ecosystem News
+# Notícias do Ecossistema
 
-[Watch out for the upcoming Yearn x Pills collaboration](https://twitter.com/bantg/status/1482764820265029633)
+[Fique atento a próxima colaboração Yearn x Pills](https://twitter.com/bantg/status/1482764820265029633)
 
-[Check out a reading list on how to write strategies for Yearn](https://twitter.com/sjkelleyjr/status/1481664381054177281)
+[Confira uma lista de leitura sobre como escrever estratégias para Yearn](https://twitter.com/sjkelleyjr/status/1481664381054177281)
 
-[Explore how one DAO used Coordinape to manage payroll](https://twitter.com/jkey_eth/status/1479642151730356226)
+[Explore como um DAO usou a Coordinape para gerenciar a folha de pagamento](https://twitter.com/jkey_eth/status/1479642151730356226)
 
-[Support a Yearn alumni’s campaign for a seat in Congress](https://twitter.com/mattdwest/status/1481083902580166656)
+[Apoie a campanha de um ex-colaborador de Yearn para um assento no Congresso](https://twitter.com/mattdwest/status/1481083902580166656)
+
+
