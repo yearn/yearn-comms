@@ -4,55 +4,56 @@ title:  "Bear market, bullish development"
 categories: [ Tweets ]
 image: ./Bear-market,-bullish-development/image1.jfif
 author: Dudesahn
-translator:
+translator: giosereth
 publish: true
 ---
 
-original source: [twitter](https://twitter.com/dudesahn/status/1417898521685078016)
+Αρχική Πηγή: [twitter](https://twitter.com/dudesahn/status/1417898521685078016)
 
 ##### 1
 
-Bear market, bullish development.
+Bear η αγορά, bullish οι εξελίξεις.
 
-While http://yearn.finance has recently added nice features like
+Ενώ το http://yearn.finance έχει προσθέσει πρόσφατα ωραία χαρακτηριστικά όπως την ενσωμάτωση του
 @zapper_fi
-integration for vaults, it still is in need of some love. For those following closely, you may have noticed hints about a new website in the works.
+για τα θησαυροφυλάκια, εξακολουθεί να χρειάζεται λίγη αγάπη. Όσοι το παρακολουθείτε στενά, ίσως έχετε παρατηρήσει τα υπονοούμενα
+για ένα νέο ιστότοπο που βρίσκεται στα σκαριά.
 
-A thread 🧵
+Ένα thread 🧵
 
 ##### 2
 
-“Wait!” you might say, “Isn’t http://yearn.fi Yearn’s new website?”
+“Περιμένε” μπορεί να πείτε, “Δεν είναι το http://yearn.fi ο νέος ιστότοπος του Yearn?”
 
-Yes and no.
+Ναι και όχι
 
-[@AndreCronjeTech](https://twitter.com/AndreCronjeTech) is a mad scientist, and works at light speed while building out his prototypes. Consider http://yearn.fi his playground, built by himself and [@AntonNellCrypto](https://twitter.com/AntonNellCrypto). 🧪
+Ο [@AndreCronjeTech](https://twitter.com/AndreCronjeTech) είναι ένας τρελός επιστήμονας και εργάζεται με ταχύτητα φωτός ενώ κατασκευάζει τα πρωτότυπά του. Σκεφτείτε το http://yearn.fi ως την παιδική του χαρά, την οποία κατασκεύασε ο ίδιος μαζί με τον [@AntonNellCrypto](https://twitter.com/AntonNellCrypto). 🧪
 
 ##### 3
 
-yearn.finance is maintained by a separate group of contributors, and we've been implementing a completely new backend (including an SDK with several APIs) that will power our new frontend, designed specifically with the SDK in mind.
+Το yearn.finance συντηρείται από μια ξεχωριστή ομάδα συνεργατών και έχουμε δημιουργήσει ένα εντελώς νέο backend (συμπεριλαμβανομένου ενός SDK με διάφορα APIs) που θα τροφοδοτεί το νέο μας frontend, σχεδιασμένο ειδικά με το SDK στο μυαλό.
 
 ##### 4
 
-http://yearn.finance and http://yearn.fi have different approaches, but the hope is that they can be mutually beneficial to one another. Handshake
+Τα http://yearn.finance και http://yearn.fi έχουν διαφορετικές προσεγγίσεις, αλλά η ελπίδα είναι ότι μπορούν να είναι αμοιβαία επωφελείς το ένα για το άλλο. 🤝
 
 ##### 5
 
-yearn.fi is able to stand up new features very quickly, while the upcoming v3 http://yearn.finance will demonstrate the power of our reworked backend. Our goal? Abstracting away the complexity around integrating with yearn products for future partners.
+Το yearn.fi είναι σε θέση να αναπτύσσει νέα χαρακτηριστικά πολύ γρήγορα, ενώ το επερχόμενο v3 του http://yearn.finance θα επιδείξει τη δύναμη του ανασχεδιασμένου μας backend. Ο στόχος μας; Να μικρύνουμε την πολυπλοκότητα γύρω από την ενσωμάτωση διαφόρων προϊόντων του yearn για τους μελλοντικούς μας συνεργάτες.
 
 ##### 6
 
-Over the next few weeks, I'll go more in-depth on some of the tech we're building at yearn, why it matters, and what we're excited to work on next. And ultimately, we hope that this can make our work a little more accessible to everyone and a little less opaque. Left-pointing magnifying glass
+Τις επόμενες εβδομάδες, θα αναφερθώ πιο διεξοδικά σε κάποιες από τις τεχνολογίες που αναπτύσσουμε στο yearn, στη σημασία του αλλά και για τι είμαστε ενθουσιασμένοι για τη συνέχεια. Τέλος, ελπίζουμε ότι αυτό μπορεί να κάνει τη δουλειά μας λίγο πιο προσιτή σε όλους και λίγο λιγότερο αδιαφανή. 🔍
 
 ##### 7
 
-Once the new site launches, this will include improving our GitHub issue curation for bugs, maintaining a bounty board for larger features we'd like to add, and in general reaching out a hand to anyone who'd like to contribute.
+Ο νέος ιστότοπος, θα περιλαμβάνει τη βελτίωση της επιμέλειας ζητημάτων στο GitHub για σφάλματα, τη διατήρηση ενός πίνακα επικηρύξεων για μεγαλύτερα χαρακτηριστικά και βελτιώσεις που θα θέλαμε να προσθέσουμε και γενικότερα την παροχή βοήθειας σε όποιον θα ήθελε να συνεισφέρει.
 
 ##### 8
 
-If you'd like to come build with us, we'd love to have you. Simple as that.
+Αν θέλετε να έρθετε να χτίσετε μαζί μας, θα χαρούμε να σας έχουμε κοντά μας. Τόσο απλά.
 
-Feel free to reach out to me on telegram
-[@dudesahn](https://twitter.com/dudesahn) and we can get you started.
+Μη διστάσετε να επικοινωνήσετε μαζί μου στο telegram
+[@dudesahn](https://twitter.com/dudesahn) και θα σας βοηθήσουμε να ξεκινήσετε.
 
 ![](image1.jfif)
