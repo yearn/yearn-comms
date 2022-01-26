@@ -4,86 +4,86 @@ title: "Yearn Finance Newsletter #54"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-54/image1.png
 author: Yearn
-translator:
-publish: false
+translator: Cripu
+publish: true
 ---
 
 # Yearn Finance Newsletter #54
 
-### Week Ending January 16nd, 2022
+### 2022年1月16日までの週
 
 ![](image1.png)
 
-Welcome to the 54th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Yearn Finance Newsletterの第54号へようこそ。このニュースレターの目的は、プロダクトのローンチ、ガバナンスの変更、エコシステムの更新など、最新のニュースをYearnとより広いクリプトコミュニティにお知らせすることです。Yearn Financeについてもっと知りたいという方は、私たちの公式[Twitter](https://twitter.com/iearnfinance)と[Medium](https://medium.com/iearn)アカウントをフォローしてください。
 
-## Summary
+## 要約
 
-- Introducing Seven New Fantom Vaults
-- New Curve Vaults Live
-- Yearn Web Updates
-- Yearn Finance Vaults: Knockin’ on DeFi’s Door
-- Update on yvBOOST
-- Vaults at Yearn
-- Ecosystem News
+- Fantomの新ボールト７つを紹介
+- 新しいCurveのボールトがライブに
+- Yearnのウェブアップデート
+- Yearn Financeのボールト：DeFIのドアをノックしよう
+- yvBOOSTのアップデート
+- Yearnのボールト
+- エコシステムニュース
 
-# Introducing Seven New Fantom Vaults
+# Fantomの新ボールト７つを紹介
 
 ![](image2.png)
 
-On Fantom, these seven vaults join the mix: WBTC, WETH, SPELL, DOLA, Curve Tricrypto, Curve Geist, and CRV
+Fantomチェーンにて、７つのボールトが登場しました：WBTC、WETH、SPELL、DOLA、Curve Tricrypto、Curve Geist、そして CRV です。
 
-Meanwhile, with nearly $400M TVL in Fantom vaults, we're still seeing juicy APYs, up to over 45%. Most of the Fantom vaults utilize folding on Scream, with Geist Finance and Tarot Finance strategies arriving imminently
+一方、Fantomの保管庫には400Mドル近いTVLがあり、APYは45％以上とジューシーです。ほとんどのFantomボールトがScreamのfoldingを利用しており、Geist FinanceとTarot Financeのストラテジーも間もなく到着します。
 
-What's your move? Start depositing today at [yearn.finance/vaults](https://yearn.finance/vaults).
+あなたはどうする？今日から[yearn.finance/vaults](https://yearn.finance/vaults)に入金しましょう。
 
-# New Curve Vaults Live
+# 新しいCurveのボールトがライブに
 
 ![](image3.png)
 
-On Ethereum, the following new Curve vaults are live now: CVX-ETH, CRV-ETH, 3EUR, UST Wormhole, USDPax, DOLA, and RAI - the first vault utilizing Reflexer’s custom Curve implementation
+イーサリアムチェーンにて、新しいCurveのボールトが稼働しました：CVX-ETH, CRV-ETH, 3EUR, UST Wormhole, USDPax, DOLA, and RAI です。Reflexerのカスタムカーブ実装を利用した最初のボールトです。
 
-As for 3EUR, this token represents a Curve liquidity pool. Holders earn fees from users trading in the pool, and can also deposit the LP to Curve's gauges to earn CRV emissions. This pool contains agEUR, EURT, and EURS. agEUR is a synthetic Euro issued by Angle Protocol, while EURS and EURT are both centralized, hard-pegged Euro tokens issued by Stasis and Tether, respectively.
+3EURに関しては、Curveの流動性プールを表しています。ホルダーはユーザーがプールで行った取引の手数料を稼ぐほか、LPをCurveのゲージに預けることで排出されるCRVを稼ぐこともできます。このプールはagEUR、EURT、そしてEURSを含みます。agEURはAngel Protocolが発行する合成ユーロです。EURSとEURTは、それぞれStasisとTetherが発行する中央管理型のハードペグされたユーロトークンです。
 
-The 3EUR strategy supplies 3EURpool-f to Convex Finance to earn CRV and CVX (and any other available tokens). Earned tokens are harvested, sold for more 3EURpool-f which is deposited back into the strategy.
+3EURストラテジーは3EURpool-fをConvex Financeに供給し、CRVとCVX（およびその他の利用可能なトークン）を獲得するものです。稼いだトークンは収穫され、ストラテジーに入金しなおすための3EURpool-fに換金されます。
 
-Check out the new vaults [here](https://yearn.finance/#/vaults).
+新しいボールトは[こちら](https://yearn.finance/#/vaults)で確認できます。
 
-# Yearn Web Updates
+# Yearnのウェブアップデート
 
 ![](image4.png)
 
-This week's Yearn web update includes several first-time contributors opening PRs and improved backend logic for Iron Bank & Curve LP tokens
+今週のYearnのウェブアップデートは、何人かの初投稿の貢献者がオープンしたPRや、Iron BankやCurveのLPトークンのバックエンドロジックの改善が含まれています。
 
-Upcoming updates are an updated test suite for the Yearn SDK, more descriptive simulation errors, and refactoring the API with documentation.
+今後のアップデートはYearn SDKのテストスイートの更新やより説明が豊富なシュミレーションエラー、ドキュメントによるAPIのリファクタリングなどがあります。
 
-Check out the full new update [here](https://yearnweb.substack.com/p/yearn-web-engineering-update).
+すべての新しいアップデートは[こちら](https://yearnweb.substack.com/p/yearn-web-engineering-update)からチェックしてください。
 
-# Yearn Finance Vaults: Knockin’ on DeFi’s Door
+# Yearn Financeのボールト：DeFiのドアをノックしよう
 
 ![](image5.png)
 
-This article from BanklessDAO offers a complete summary of the features offered by Yearn and depicts how it makes DeFi easier to use.
+BanklessDAOの記事では、Yearnが提供する機能を完璧に要約し、それらがどれだけDeFiを使いやすくしているかを説明しています。
 
-Overall, using Yearn vaults is a bet on the protocol having the highest security of yield aggregators and being able to bring significant capital efficiency to DeFi with the amazing work of all strategists and their automations.
+まとめると、Yearnのボールトを使うことは、イールドアグリゲーターの中で最高のセキュリティを持ち、すべてのストラテジーとそれらの自動化によりDeFiに大きな資本効率を与えることができるプロトコルに賭ける、ということです。
 
-Check out the full piece [here](https://medium.com/bankless-dao/yearn-finance-vaults-knockin-on-defi-s-door-f5e9f56f669a).
+記事全文は[こちら](https://medium.com/bankless-dao/yearn-finance-vaults-knockin-on-defi-s-door-f5e9f56f669a)から確認できます。
 
-# Update on yvBOOST
+# yvBOOSTのアップデート
 
-Most may not realize, but 1 yvBOOST collects 2.2x more weekly Curve protocol fees than 1 veCRV. yvBOOST APR is also over 100%, sustained, with 1 yvBOOST currently being 32% cheaper than 1 CRV. Even after all this, there is over $5M still to be donated to yvBOOST holders
+ほとんどの方は気づいていないと思いますが、1yvBOOSTは1veCRVの2.2倍ものCurveの手数料を毎週集めています。yvBOOSTのAPRも100％以上を維持しており、1yvBOOSTは現在1CRVより32％も安いです。さらにそれにも関わらず、まだ5Mドル以上の寄付がyvBOOSTホルダーに配られています。
 
-Check out the donations [here](https://etherscan.io/address/0xdf270b48829e0f05211f3a33e5dc0a84f7247fbe).
+寄付は[こちら](https://etherscan.io/address/0xdf270b48829e0f05211f3a33e5dc0a84f7247fbe)から確認できます。
 
-# Vaults at Yearn
+# Yearnのボールト
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+稼働中の全yVaultのストラテジーの詳細説明は[こちら](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)からご確認いただけます。
 
-# Ecosystem News
+# エコシステムニュース
 
-[Watch out for the upcoming Yearn x Pills collaboration](https://twitter.com/bantg/status/1482764820265029633)
+[近々発表されるYearn×Pillsコラボレーションをチェック](https://twitter.com/bantg/status/1482764820265029633)
 
-[Check out a reading list on how to write strategies for Yearn](https://twitter.com/sjkelleyjr/status/1481664381054177281)
+[Yearnのストラテジーの書き方のリーディングリストをチェック](https://twitter.com/sjkelleyjr/status/1481664381054177281)
 
-[Explore how one DAO used Coordinape to manage payroll](https://twitter.com/jkey_eth/status/1479642151730356226)
+[あるDAOがCoordinapeを使ってどのように給料を管理しているかを探る](https://twitter.com/jkey_eth/status/1479642151730356226)
 
-[Support a Yearn alumni’s campaign for a seat in Congress](https://twitter.com/mattdwest/status/1481083902580166656)
+[Yearn卒業生の議員選挙を応援](https://twitter.com/mattdwest/status/1481083902580166656)
