@@ -4,7 +4,7 @@ title:  "Yearn Finance Newsletter #50"
 categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-50/image1.png
 author: Yearn
-translator:
+translator: Xiaona
 publish: false
 ---
 
@@ -18,33 +18,33 @@ Welcome to the 50th edition of the Yearn Finance Newsletter. Our aim with this n
 
 ## Summary
 
--   New Yearn UI
+-   新用户界面
     
--   YFI Tokenomics Update Proposal
+-   YFI 代币经济模型更新提案
     
--   Updated Yearn Docs
+-   Yearn 的更新文档
     
--   YIP-64 Fails To Meet Quorum
+-   YIP-64 未通过
     
--   Yearn Delegates 23M veCRV to Convex
+-   Yearn 将 23M veCRV 委托到 Convex
     
--   Yearn Snapshot Strategy
+-   Yearn Snapshot 策略
 
--   Vaults at Yearn
+-   Yearn 机枪池
 
--   Ecosystem News
+-   生态系统最新消息
 
-## New Yearn UI
+## 新用户界面
 
 ![](image2.png)
 
-We’ve rebuilt [yearn.finance](https://yearn.finance/) from scratch with tons of feedback from our community. It's live now, so take it for a spin. 
+基于来自社区的大量反馈，我们重建了 [yearn.finance](https://yearn.finance/) 。新网站现在已经上线，可以去体验啦。
 
-One of the most interesting features (in our opinion) is the Simulations feature. To deposit into vaults in previous UI versions we added Zapper support so, for example, you can deposit into 3CRV vault with ETH or any token supported by Zapper, which is fast and convenient and implies that a swap will happen in your deposit. What is that "Simulating.." message you may ask? Well that "Simulating..." label checks your input tokens and with Zapper's API and Tenderly, an awesome service that eagerly executes a simulation of your transaction.This simulation calculates what the exact output would be, like a preview of your deposit. e.g ETH>3crv. 
+最有意思的功能之一（在我们看来）是模拟功能。在以前 UI 版本的机枪池存款界面，我们添加了 Zapper 的支持功能。举例来说，用户可以使用 ETH 或 Zapper 支持的任何代币存入 3CRV 机枪池。这是快速方便的，并且意味着在你的存款过程中将发生代币交换。你可能会问"模拟.."是什么意思呢？"模拟..."根据你的输入代币，使用 Zapper 的 API 和 Tenderly，对交易进行模拟，并计算确切的输出结果，可以当作是存款预览。例如，ETH>3crv.
 
-Why is this useful and great? Well, given the protocols involved and on-chain state being dynamic, it's hard to predict a good estimate of vault tokens you can receive. Your slippage may be bigger than expected, or your token path may fail and cost you gas, etc. This simulation may save you gas either on deposit or withdrawals.
+为什么这很有用呢？原因是机枪池所涉及的协议和链上状态是动态的，很难预测你可以收到的机枪池代币的具体数量。实际滑点可能比预期的要大，或者交易可能会失败但却花费了 Gas 费等。这种模拟可以节省存款或取款的花费。
 
-Withdrawals are another area that is hard to predict. Simulations help check if you can withdraw given the vault conditions, some are more liquid than others depending on strategies allocations.
+取款也是很难预测的。模拟有助于检查你是否可以在给定的机枪池条件下取款，取决于不同的策略，有些机枪池的流动性较深。
 
 If you get a "Simulation Failed.." msg, odds are that if you move forward with the transaction it will revert.
 
