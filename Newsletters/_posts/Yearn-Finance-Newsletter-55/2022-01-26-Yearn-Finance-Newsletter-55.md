@@ -18,8 +18,6 @@ Welcome to the 55th edition of the Yearn Finance Newsletter. Our aim with this n
 
 ## Summary
 
-
-
 - State of the Fantom Vaults
 - Fantom Ecosystem Spotlight - Yearn
 - Yearn Web Updates
@@ -37,12 +35,11 @@ To take advantage of this, you can tuck your holdings into a comfy [yearn.financ
 
 What's your move? Start depositing today at [yearn.finance/vaults](https://yearn.finance/vaults).
 
-
 # Fantom Ecosystem Spotlight - Yearn
 
 ![](image3.png)
 
-Yearn contributor Tracheopteryx gives a brief overview of Yearn and our mission, with our focus being on everyday users, partners, and builders. 
+Yearn contributor Tracheopteryx gives a brief overview of Yearn and our mission, with our focus being on everyday users, partners, and builders.
 
 The core products of Yearn are the Vaults, the Iron Bank, Labs, and the YFI/WOOFY tokens. YFI’s origins are further explored, and Tracheopteryx explains why Fantom is the first sidechain that Yearn has chosen to build on.
 
