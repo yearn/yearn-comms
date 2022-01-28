@@ -166,15 +166,34 @@ translators:
     name: 🤖💵💵💰💰.eth
     display_name: 🤖💵💵💰💰.eth
 
-  Stathis:
-    name: Stathis
-    display_name: Stathis
+  Nesyeth:
+    name: Nesyeth
+    display_name: Nesyeth
 
-  Xiaona:
-    name: Xiaona
-    display_name: Xiaona
-    twitter: https://twitter.com/latingi44239287
-    blog: https://www.youtube.com/channel/UCacoBnE--eGgPnxBnu3DFJw
+  Fin2thepeople:
+    name: Fin2thepeople
+    display_name: Fin2thepeople
+
+  Jeffor12:
+    name: Jeffor12
+    display_name: Jeffor12
+    twitter: https://twitter.com/jeff84431381
+
+  Jengajojo:
+    name: Jengajojo
+    display_name: Jengajojo
+
+  Major-Rager:
+    name: Major-Rager
+    display_name: Major-Rager
+
+  Jameskbh:
+    name: Jameskbh
+    display_name: Jameskbh
+
+  Japzar:
+    name: Japzar
+    display_name: Japzar
 
   Stathis:
     name: Stathis
@@ -192,9 +211,9 @@ social:
 
 # Plugins
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-archives
-  - jekyll-target-blank
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
+- jekyll-target-blank
