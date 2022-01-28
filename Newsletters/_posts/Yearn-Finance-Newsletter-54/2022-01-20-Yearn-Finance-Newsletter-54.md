@@ -4,15 +4,15 @@ title: "Yearn Finance Newsletter #54"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-54/image1.png
 author: Yearn
-translator:RestlessMik3
-publish: True
+translator: RestlessMik3
+publish: true
 ---
 
 # Newsletter de Yearn Finance #54
 
 ### Semana que finaliza el 16 de enero de 2022
 
-![](imagen1.png)
+![](image1.png)
 
 Bienvenido a la 54.ª edición de la newsletter de Yearn Finance. Nuestro objetivo con este boletín es mantener a Yearn y a la criptocomunidad en general informados sobre las últimas noticias, incluidos lanzamientos de productos, cambios en la gobernanza y actualizaciones del ecosistema. Si está interesado en obtener más información sobre Yearn Finance, siga nuestras cuentas oficiales [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn).
 
@@ -38,7 +38,7 @@ Mientras tanto, con casi 400 millones de dólares de TVL en las bóvedas de Fant
 
 # Nuevas vaults de Curve disponibles
 
-![](imagen3.png)
+![](image3.png)
 
 En Ethereum, las siguientes nuevas vaults de Curve ya están activas: CVX-ETH, CRV-ETH, 3EUR, UST Wormhole, USDPax, DOLA y RAI: la primera bóveda que utiliza la implementación de Curve personalizada de Reflexer
 
@@ -50,7 +50,7 @@ Consulte las nuevas bóvedas [aquí](https://yearn.finance/#/vaults).
 
 # Actualizaciones web de Yearn
 
-![](imagen4.png)
+![](image4.png)
 
 La actualización web de Yearn de esta semana incluye varios contribuyentes primerizos que abren relaciones públicas y una lógica de backend mejorada para los tokens LP de Iron Bank y Curve
 
@@ -60,7 +60,7 @@ Consulte la nueva actualización completa [aquí](https://yearnweb.substack.com/
 
 # Vaults de Yearn: llamando a la puerta de DeFi
 
-![](imagen5.png)
+![](image5.png)
 
 Este artículo de BanklessDAO ofrece un resumen completo de las funciones que ofrece Yearn y describe cómo facilita el uso de DeFi.
 
