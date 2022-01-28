@@ -5,7 +5,7 @@ categories: [ Newsletters ]
 image: ./Yearn-Finance-Newsletter-50/image1.png
 author: Yearn
 translator: Xiaona
-publish: false
+publish: true
 ---
 
 # Yearn Finance Newsletter #50
