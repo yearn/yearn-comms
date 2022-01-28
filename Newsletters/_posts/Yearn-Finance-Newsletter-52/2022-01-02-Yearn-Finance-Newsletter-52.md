@@ -10,7 +10,7 @@ publish: true
 
 # Yearn Finance 最新动态 #52
 
-### 2022年1月2日结束的一周
+### 2022 年 1 月 2 日结束的一周
 
 ![](image1.png)
 
