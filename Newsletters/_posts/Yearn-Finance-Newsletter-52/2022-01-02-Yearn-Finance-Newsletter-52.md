@@ -10,7 +10,7 @@ publish: true
 
 # Yearn Finance 最新动态 #52
 
-### 2022 年 1 月 2 日结束的一周
+### 2022年1月2日结束的一周
 
 ![](image1.png)
 
@@ -52,7 +52,7 @@ publish: true
 
 最后，有资格在 Yearn 治理中投票的 YFI 将仅限于质押在 xYFI（从第 1 阶段及以后）或在 Yearn 中投票锁定（从第 2 阶段及以后）的那些人。
 
-你可以在[这里](https://gov.yearn.finance/t/yip-65-evolving-yfi-tokenomics/11994)了解更多关于所提出的代币经济模型升级和好处，在[这里](https://snapshot.org/#/ybaby.eth/proposal/0x8f7417fa5565d9f46e16618503e8808c36d51b2a9e8217a68c632d7c090d69d9)投票。
+你可以在 [这里](https://gov.yearn.finance/t/yip-65-evolving-yfi-tokenomics/11994) 了解更多关于所提出的代币经济模型升级和好处，在 [这里](https://snapshot.org/#/ybaby.eth/proposal/0x8f7417fa5565d9f46e16618503e8808c36d51b2a9e8217a68c632d7c090d69d9) 投票。
 
 特别感谢作者：@0xJiji、@banteg、daryllautk、HAtTip3675、@onlylarping、@vany365 和@Wot_Is_Goin_On 创建了这个重要的提案。
 ## [提案] Mean - DCA 回购试点计划
@@ -65,7 +65,7 @@ publish: true
 
 Mean 团队希望至少在 DAO 的社区和领导层内产生一些不错的影响。
 
-你可以在[此处](https://gov.yearn.finance/t/proposal-mean-dca-buyback-pilot-program/12065)阅读有关该提案的更多信息。
+你可以在 [此处](https://gov.yearn.finance/t/proposal-mean-dca-buyback-pilot-program/12065) 阅读有关该提案的更多信息。
 
 ## 反思 Yearn
 
@@ -95,7 +95,7 @@ YFI “公平发布”背后的部分原因，是意识到为 TradFi 中的数�
 
 此推文中的示例展示了 Yearn 如何尝试解决 DeFi 中的普遍问题。“DeFi 协议”这个词似乎并不适合 Yearn，金融科技 DAO 或许可以更好地描述 Yearn。
 
-感谢 Wot_Is_Goin_On，你可以在[此处](https://twitter.com/Wot_Is_Goin_On/status/1477277152336916484)找到精彩的推文。
+感谢 Wot_Is_Goin_On，你可以在 [此处](https://twitter.com/Wot_Is_Goin_On/status/1477277152336916484) 找到精彩的推文。
 
 ## Yearn 从 Fantom 基金会获得 100 万 FTM 赠款
 
@@ -109,7 +109,7 @@ Yearn 从 Fantom 基金会获得 100 万 FTM 赠款。
 
 ## Yearn 的机枪池
 
-你可以在[此处](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)阅读我们所有活跃的 yVault 策略的详细说明。
+你可以在 [此处](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) 阅读我们所有活跃的 yVault 策略的详细说明。
 
 ## 生态系统最新消息
 
