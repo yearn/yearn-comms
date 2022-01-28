@@ -16,6 +16,9 @@ topmenu:
 - title: Finanças
   url: "financials/"
 
+- title: Updates
+  url: "updates/"
+
 - title: yearn.finance
   url: https://beta.yearn.finance/
   class: "ml-2 btn btn-primary text-white px-3"
