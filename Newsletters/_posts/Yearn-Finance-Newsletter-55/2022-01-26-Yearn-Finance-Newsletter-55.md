@@ -4,89 +4,89 @@ title: "Yearn Finance Newsletter #55"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-55/image1.png
 author: Yearn
-translator:
-publish: false
+translator: Stathis
+publish: true
 ---
 
-# Yearn Finance Newsletter #55
+# Ενημερωτικό Δελτίο του Yearn #55
 
-### Week Ending January 23rd, 2021
+### Εβδομάδα Ιανουαρίου 23, 2022
 
 ![](image1.png)
 
-Welcome to the 55th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Καλώς ήρθατε στην 55η έκδοση του ενημερωτικού δελτίου του Yearn Finance. Στόχος μας με αυτό το ενημερωτικό δελτίο είναι να ενημερώνουμε την κοινότητα του Yearn αλλά και την ευρύτερη κρύπτο-κοινότητα για τα τελευταία νέα, συμπεριλαμβανομένων των νέων προϊόντων, των αλλαγών διακυβέρνησης και των ενημερώσεων του οικοσυστήματος. Εάν ενδιαφέρεστε να μάθετε περισσότερα για το Yearn Finance, ακολουθήστε τους επίσημους λογαριασμούς μας [Twitter](https://twitter.com/iearnfinance) και [Medium](https://medium.com/iearn).
 
-## Summary
+## Σύνοψη
 
-- State of the Fantom Vaults
-- Fantom Ecosystem Spotlight - Yearn
-- Yearn Web Updates
-- Yearn Finance Explained
-- Vaults at Yearn
-- Ecosystem News
+- Κατάσταση των θησαυροφυλακίων στο Fantom
+- Παρουσιάση του οικοσυστήματος του Fantom - Yearn
+- Ενημερώσεις Web του Yearn
+- Μια επεξήγηση του Yearn Finance
+- Τα θησαυροφυλάκια στο Yearn
+- Νέα Οικοσυστήματος
 
-# State of the Fantom Vaults
+# Κατάσταση των θησαυροφυλακίων στο Fantom
 
 ![](image2.png)
 
-With the rise of Andre Cronje & Daniele Sesta's new project Solidly ve(3,3), vampire attacks have come to Fantom in order to qualify for the Solidly airdrop to the Top 20 projects by TVL on Fantom.
+Με την άνοδο του νέου έργου των Andre Cronje & Daniele Sesta με όνομα Solidly ve(3,3), οι επιθέσεις αντιγραφής (vampire attacks) ήρθαν στο Fantom για να προκριθούν στο airdrop του Solidly για τα κορυφαία 20 έργα σε TVL στο Fantom.
 
-To take advantage of this, you can tuck your holdings into a comfy [yearn.finance](https://yearn.finance/#/home) vault. Yearn fetches the best yield across 0xDAO, veDAO, Scream, Curve, Beets, Tarot, and beyond. Our Fantom Vaults have strategies for all of them, automatically rotate to the most profitable one and realize profits every 30 minutes so you won't be left holding the bag. We'll be by your side long after the vampwars become another page in a history manga.
+Για να επωφεληθείτε από αυτό, μπορείτε να τοποθετήσετε τα κεφάλαια σας σε ένα άνετο [yearn.finance](https://yearn.finance/#/home) θησαυροφυλάκιο. Το Yearn φέρνει την καλύτερη απόδοση μεταξύ 0xDAO, veDAO, Scream, Curve, Beets, Tarot και άλλων. Τα Fantom Vaults μας έχουν στρατηγικές για όλα αυτά, εναλλάσσονται αυτόματα στο πιο κερδοφόρο και παίρνουν τα κέρδη κάθε 30 λεπτά, ώστε να μην μένεις να "κρατάς την τσάντα". Θα είμαστε δίπλα σας πολύ καιρό αφού τα vampwars αυτά γίνουν άλλη μια σελίδα σε ένα ιστορικό manga.
 
-What's your move? Start depositing today at [yearn.finance/vaults](https://yearn.finance/vaults).
+Ποια είναι η κίνησή σας; Ξεκινήστε να καταθέτετε σήμερα στο [yearn.finance/vaults](https://yearn.finance/vaults).
 
-# Fantom Ecosystem Spotlight - Yearn
+# Παρουσιάση του οικοσυστήματος του Fantom - Yearn
 
 ![](image3.png)
 
-Yearn contributor Tracheopteryx gives a brief overview of Yearn and our mission, with our focus being on everyday users, partners, and builders.
+Ο συνεισφέρων στο Yearn Tracheopteryx, δίνει μια σύντομη επισκόπηση του Yearn και της αποστολής μας, με εστίαση στους καθημερινούς χρήστες, συνεργάτες και πραγραμματιστές.
 
-The core products of Yearn are the Vaults, the Iron Bank, Labs, and the YFI/WOOFY tokens. YFI’s origins are further explored, and Tracheopteryx explains why Fantom is the first sidechain that Yearn has chosen to build on.
+Τα βασικά προϊόντα του Yearn είναι τα θησαυροφυλάκια, η Iron Bank, τα Labs και τα YFI/WOOFY tokens. Η προέλευση του YFI παρουσιάζεται περαιτέρω και ο Tracheopteryx εξηγεί γιατί το Fantom είναι το πρώτο sidechain στo οποίo επέλεξε να "χτίσει" το Yearn.
 
-The interview ends off by mentioning upcoming upgrades to the YFI token, such as buybacks being given to holders, xYFI, veYFI, and vault gauges.
+Η συνέντευξη τελειώνει αναφέροντας επερχόμενες αναβαθμίσεις στο YFI token, όπως εξαγορές που δίνονται στους κατόχους, xYFI, veYFI και μετρητές θησαυροφυλακίων (vault gauges).
 
-Check out the new full article [here](https://fantom.foundation/blog/fantom-ecosystem-spotlight-yearn/?__cf_chl_rt_tk=rdrT2KHoFbjTe1yyUOmIDA92AeTmrMPKtQW5yT18mwk-1643234302-0-gaNycGzNCH0).
+Δείτε ολόκληρο το νέο άρθρο [εδώ](https://fantom.foundation/blog/fantom-ecosystem-spotlight-yearn/?__cf_chl_rt_tk=rdrT2KHoFbjTe1yyUOmIDA92AeTmrMPKtQW5yT18mwk-1643234302-0-gaNycGzNCH0).
 
-# Yearn Web Updates
+# Ενημερώσεις Web του Yearn
 
 ![](image4.png)
 
-This week's Yearn web update includes an APY hover tooltips added to UI and a Dust fix for vault withdrawals
+Η ενημέρωση Web του Yearn αυτής της εβδομάδας περιλαμβάνει ένα hover APY tooltip που προστέθηκε στη διεπαφή χρήστη και μια επιδιόρθωση για αναλήψεις μικρών υπολοίπων (Dust) από θησαυρόφυλακια
 
-Coming soon are security improvements, with a detailed write-up, improved multi-chain UI/UX, and support for a new chain.
+Σύντομα έρχονται βελτιώσεις ασφαλείας, με λεπτομερή περιγραφή, βελτιωμένο περιβάλλον/εμπειρία χρήστη πολλαπλών αλυσίδων και υποστήριξη για μια νέα αλυσίδα.
 
-Check out the full new update [here](https://yearnweb.substack.com/p/yearn-web-engineering-update-7d7?r=2y79e&utm_campaign=post&utm_medium=web).
+Δείτε την πλήρη νέα ενημέρωση [εδώ](https://yearnweb.substack.com/p/yearn-web-engineering-update-7d7?r=2y79e&utm_campaign=post&utm_medium=web).
 
-# Yearn Finance Explained
+# Μια επεξήγηση του Yearn Finance
 
 ![](image5.png)
 
-Yearn vaults are yielding IOU tokens built by strategists who undertake a difficult vetting process to ensure that Yearn users are receiving the best risk-adjusted yield in the crypto ecosystem.
+Τα θησαυροφυλάκια Yearn αποδίδουν tokens IOU που έχουν κατασκευαστεί από strategists που αναλαμβάνουν μια δύσκολη διαδικασία ελέγχου για να διασφαλίσουν ότι οι χρήστες του Yearn λαμβάνουν την καλύτερη προσαρμοσμένη ως προς τον κίνδυνο απόδοση στο κρύπτο-οικοσύστημα.
 
-One previously used strategy at Yearn can be seen in the v1 Ethereum yVault: When a user deposits ETH the ETH is then lent at MakerDAO as collateral, which is used to borrow DAI that is then deposited into the DAI yVault.
+Μια παλιοτέρα χρησιμοποιούμενη στρατηγική στο Yearn μπορεί να φανεί στο v1 Ethereum yVault: Όταν ένας χρήστης καταθέτει ETH το ETH στη συνέχεια δανείζεται στο MakerDAO ως εγγύηση, η οποία χρησιμοποιείται για να δανειστεί DAI που στη συνέχεια κατατίθεται στο DAI yVault.
 
-Some common questions users may have are “How/when does Yearn move the funds inside the vault and charge fees?” and “How does Yearn guarantee a strategy to always generate tokens instead of losing them?”. One of the key functions of a strategy is called “harvest”. When called, it triggers a rebalancing process where profit is realized and reinvested back into the strategy. Strategists also use a number of tools to monitor on-chain data to ensure strategy health. One of those tools is Yearn Watch, which presents a nice UI with many of key metrics live on the blockchain.
+Μερικές συνήθεις ερωτήσεις που μπορεί να έχουν οι χρήστες είναι "Πώς/πότε το Yearn μετακινεί τα χρήματα μέσα στο θησαυροφυλάκιο και χρεώνει τέλη;" και "Πώς εγγυάται το Yearn μια στρατηγική πάντα να δημιουργεί tokens αντί να χάνει;". Μία από τις βασικές λειτουργίες μιας στρατηγικής ονομάζεται «συγκομιδή» (harvest). Όταν καλείται, ενεργοποιεί μια διαδικασία εξισορρόπησης όπου το κέρδος πραγματοποιείται και επανεπενδύεται στη στρατηγική. Οι υπεύθυνοι στρατηγικής (strategists) χρησιμοποιούν επίσης μια σειρά εργαλείων για την παρακολούθηση των on-chain δεδομένων  για να διασφαλίσουν την υγεία της στρατηγικής. Ένα από αυτά τα εργαλεία είναι το Yearn Watch, το οποίο παρουσιάζει μια ωραία διεπαφή χρήστη με πολλές βασικές μετρήσεις ζωντανά στο blockchain.
 
-Yearn and Keep3r additionally have a strong synergy in automating the tasks needed for vaults to maintain their performance. In order to build strategies, you will need a good understanding of Vyper (for yVaults) and Solidity (for strategies). The basic requirements to become a strategist are: knowledge about the blockchain ecosystem you’ll deploy in, which can be acquired by doing in-depth research of tokenomics and documentation for all tokens used in the strategy itself, Solidity programming knowledge similar to completing Level 4 on CryptoZombies, and knowing how to get around git, eth-brownie, and ganache.
+Το Yearn και το Keep3r έχουν επιπλέον μια ισχυρή συνέργεια στην αυτοματοποίηση των εργασιών που απαιτούνται ώστε τα θησαυροφυλάκια να διατηρήσουν την απόδοσή τους. Για να δημιουργήσετε στρατηγικές, χρειάζεστε καλή κατανόηση του Vyper (για το yVaults) και Solidity (για τις στρατηγικές). Οι βασικές απαιτήσεις για να γίνετε strategist είναι: γνώσεις σχετικά με το οικοσύστημα blockchain στο οποίο θα αναπτύξετε την στρατιγική, τις οποίες μπορείτε να αποκτήσετε κάνοντας εις βάθος έρευνα των tokenomics και εγγράφων για όλα τα tokens που χρησιμοποιούνται στην ίδια τη στρατηγική, γνώσεις προγραμματισμού Solidity παρόμοια με την ολοκλήρωση του επιπέδου 4 στο CryptoZombies, και γνωρίζοντας πώς να δουλέψετε με το git, το eth-brownie και το ganache.
 
-After understanding the basics of the above tools you are ready to copy our strategy template! The functions you should start changing in this template in order to build with your own first strategy are prepareReturn, adjustPosition, and liquidatePositon. You can find the strategy template [here](https://github.com/yearn/brownie-strategy-mix).
+Αφού κατανοήσετε τα βασικά των παραπάνω εργαλείων, είστε έτοιμοι να αντιγράψετε το πρότυπο στρατηγικής μας! Οι συναρτήσεις που πρέπει να αρχίσετε να αλλάζετε σε αυτό το πρότυπο για να δημιουργήσετε με τη δική σας πρώτη στρατηγική είναι oι prepareReturn, adjustPosition, και liquidatePositon. Μπορείτε να βρείτε το πρότυπο στρατηγικής [εδώ](https://github.com/yearn/brownie-strategy-mix).
 
-Thank you to MarcoWorms for the writeup which can be found [here](https://medium.com/iearn/yearn-finance-explained-what-are-vaults-and-strategies-96970560432).
+Ευχαριστούμε τον MarcoWorms για την καταγραφή που μπορείτε να βρείτε [εδώ](https://medium.com/iearn/yearn-finance-explained-what-are-vaults-and-strategies-96970560432).
 
-# Vaults at Yearn
+# Τα θησαυροφυλάκια στο Yearn
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Μπορείτε να διαβάσετε μια λεπτομερή περιγραφή των στρατηγικών για όλα τα ενεργά yVault μας [εδώ](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-# Ecosystem News
+# Νέα Οικοσυστήματος
 
-[Deposit directly into Yearn vaults with the Ambire Wallet’s new integration](https://twitter.com/AmbireWallet/status/1483087593285820416)
+[Καταθέστε απευθείας στα θησαυροφυλάκια του Yearn με τη νέα ενσωμάτωση του Ambire Wallet](https://twitter.com/AmbireWallet/status/1483087593285820416)
 
-[Use Yearn vaults on Shapeshift DAO](https://twitter.com/ShapeShift_io/status/1484599573289086984)
+[Χρησιμοποιήστε τα θησαυροφυλάκια Yearn στο Shapeshift DAO](https://twitter.com/ShapeShift_io/status/1484599573289086984)
 
-[New updates on Tesseract Finance’s collaboration with VESQ](https://twitter.com/tesseract_fi/status/1483484524143128578)
+[Νέες ενημερώσεις για τη συνεργασία του Tesseract Finance με το VESQ](https://twitter.com/tesseract_fi/status/1483484524143128578)
 
-[Yearn has become the number 1 aggregator by TVL on Fantom](https://twitter.com/vannny365/status/1484385291947368448)
+[Το Yearn έγινε το νούμερο 1 aggregator με βάση το TVL στο Fantom](https://twitter.com/vannny365/status/1484385291947368448)
 
-[Check out ApeFramework made with the help of Yearn contributors](https://twitter.com/ApeFramework)
+[Δείτε το ApeFramework που δημιουργήθηκε με τη βοήθεια των συνεργατών του Yearn](https://twitter.com/ApeFramework)
 
-[Read this short overview of Yearn and its metrics](https://twitter.com/fuuurma/status/1484503576076599298)
+[Διαβάστε αυτήν τη σύντομη επισκόπηση του Yearn και μετρήσεων του](https://twitter.com/fuuurma/status/1484503576076599298)
