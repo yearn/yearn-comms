@@ -4,12 +4,12 @@ title:  "Blue Pill Release"
 categories: [ Announcements ]
 image: ./Blue-Pill-Release/thebluepill.jpg
 author: Yearn
-translator:
+translator: gateway-504
 publish: true
 ---
 
-Last week we announced The Blue Pill book and gave early Yearn supporters a first look via a limited series of NFTs.
+Minggu lalu kami mengumumkan buku The Blue Pill dan memberikan pandangan pertama kepada pendukung awal Yearn melalui seri terbatas NFT.
 
-Today we invite everyone to experience The Blue Pill:
+Hari ini kami mengundang semua orang untuk merasakan The Blue Pill:
 
 [https://thebluepill.eth.link](https://thebluepill.eth.link)
