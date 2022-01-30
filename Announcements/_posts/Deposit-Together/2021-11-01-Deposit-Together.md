@@ -1,25 +1,25 @@
 ---
 layout: post
-title:  "Deposit Together"
+title:  "Deposit Bersama"
 categories: [ Announcements ]
 image: ./Deposit-Together/DT-thumbnail.jpg
 author: Yearn
-translator:
-publish: false
+translator: gateway-504
+publish: true
 ---
 
-Announcing… 💥
+Mengumumkan… 💥
 
-Deposit Together with Wido, split fees & save 80%+ on gas
+Deposit Bersama Wido, bagi biaya & hemat 80%+ gas
 
-Starting with our beloved yearn 💙
+Memulai dengan yearn tercinta kita 💙
 
-Yearn finally profitable to non whales 🍤🦀
+Yearn akhirnya menguntungkan bagi non paus 🍤🦀
 
-More people in batch = more savings
+Lebih banyak orang dalam kelompok = lebih hemat
 
-Bonus: $50 in USDC for inviting frens 🤑
+Bonus: $50 dalam USDC untuk mengundang teman 🤑
 
-Try: [joinwido](https://app.joinwido.com/?page=detail&address=0x8cc94ccd0f3841a468184aCA3Cc478D2148E1757)
+Coba: [joinwido](https://app.joinwido.com/?page=detail&address=0x8cc94ccd0f3841a468184aCA3Cc478D2148E1757)
 
 ![](deposit-together.png)
