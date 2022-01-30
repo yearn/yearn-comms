@@ -4,13 +4,13 @@ title:  "The Blue Pill"
 categories: [ Announcements ]
 image: ./The-Blue-Pill-Ann/thebluebook.jpg
 author: Yearn
-translator:
+translator: gateway-504
 publish: true
 ---
 
-Today we invite you to celebrate the first year of Yearn with [The Blue Pill](https://medium.com/iearn/the-blue-pill-ca44ed01f16f), a spiritual guide for the past, present and future of Yearn. A beautifully-typeset book is available to our 13,500 most loyal supporters.
+Hari ini kami mengundang Anda untuk merayakan tahun pertama Yearn dengan [The Blue Pill](https://medium.com/iearn/the-blue-pill-ca44ed01f16f),sebuah panduan spiritual untuk masa lalu, sekarang dan masa depan Yearn. Sebuah buku yang ditata dengan indah tersedia untuk 13.500 pendukung kami yang paling setia.
 
-Your contribution is immortalized in a [set of seven unique NFTs](https://galaxy.eco/yearn) by
-[@Zemm_NFT](https://twitter.com/Zemm_NFT). Whether you are a farmer, a governor, a doer, or a giver, Yearn wouldn't have been the same without you. You are all necessary.
+Kontribusi Anda diabadikan dalam sebuah [set of seven unique NFTs](https://galaxy.eco/yearn) oleh
+[@Zemm_NFT](https://twitter.com/Zemm_NFT). Apakah Anda seorang farmer, governor, pelaku, atau pemberi, Yearn tidak akan sama tanpa Anda. Anda semua diperlukan.
 
-This is an invitation to contribute. We attempt to answer what makes Yearn unique by diving deep into the magic of The Gift which has sparked the project. Keep the book close, or share it with a friend. Keep our story alive, you are already part of it.
+Ini adalah undangan untuk berkontribusi. Kami mencoba menjawab apa yang membuat Yearn unik dengan menyelam jauh ke dalam keajaiban Hadiah yang telah memicu proyek ini. Simpan buku di dekat Anda, atau bagikan dengan teman. Jaga agar cerita kita tetap hidup, Anda sudah menjadi bagian darinya.
