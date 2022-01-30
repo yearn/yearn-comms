@@ -4,8 +4,8 @@ title:  "Τι είναι ένα DAO"
 categories: [ Tweets ]
 image: ./What-is-a-DAO/1.jpg
 author: Tracheopteryx
-translator:
-publish: false
+translator: Giosereth
+publish: true
 ---
 
 Αρχική Πηγή: [twitter](https://twitter.com/tracheopteryx/status/1410243752434753547)
