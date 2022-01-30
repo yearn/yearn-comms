@@ -1,7 +1,7 @@
 ---
-title: Home
-layout: default
-background: '/img/bg-index.jpg'
+judul: Home
+tata letak: default
+latar belakang: '/img/bg-index.jpg'
 ---
 
 <!-- Home Intro
@@ -24,7 +24,7 @@ background: '/img/bg-index.jpg'
 -->
 
 
-<!-- Posts List with Sidebar (except featured)
+<!-- Daftar Postingan dengan Sidebar (kecuali unggulan)
 ================================================== -->
 <section class="row">
   <div class="row-sm-8">
@@ -39,7 +39,7 @@ background: '/img/bg-index.jpg'
         {% endfor %}
       </div>
     </div>
-    <!-- Pagination -->
+    <!-- paginasi -->
     <div class="bottompagination">
       <span class="navigation" role="navigation">
         {% include pagination.html %}
@@ -60,7 +60,7 @@ background: '/img/bg-index.jpg'
       var rowSpan = Math.ceil((item.querySelector('.masonry-content').getBoundingClientRect().height + rowGap) / (
         rowHeight + rowGap));
 
-      /* Set the spanning as calculated above (S) */
+      /* Atur rentang seperti yang dihitung di atas (S) */
       item.style.gridRowEnd = 'span ' + rowSpan;
       if (gridImagesAsContent) {
         item.querySelector('masonry-image').style.height = item.getBoundingClientRect().height + "px";
@@ -90,7 +90,7 @@ background: '/img/bg-index.jpg'
     }
   }
 
-  /* Resize all the grid items on the load and resize events */
+  /* Ubah ukuran semua item kisi saat memuat dan ubah ukuran event */
   var masonryEvents = ['load', 'resize'];
   masonryEvents.forEach(function (event) {
     window.addEventListener(event, resizeAllMasonryItems);
