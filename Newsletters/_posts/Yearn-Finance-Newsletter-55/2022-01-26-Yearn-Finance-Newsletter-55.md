@@ -1,92 +1,92 @@
 ---
 layout: post
-title: "Yearn Finance Newsletter #55"
+title: "Yearn Finance 最新动态 #55"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-55/image1.png
 author: Yearn
-translator:
-publish: false
+translator: Xiaona
+publish: true
 ---
 
-# Yearn Finance Newsletter #55
+# Yearn Finance 最新动态 #55
 
-### Week Ending January 23rd, 2021
+### 2022年1月26日结束的一周
 
 ![](image1.png)
 
-Welcome to the 55th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+欢迎来到Yearn最新动态第55版。 此新闻简报的目的是让Yearn和所有加密货币社区了解最新消息，包括新产品发布，治理变化和生态系统更新。如果你有兴趣了解更多有关Yearn Finance的信息，请关注我们的官方 [Twitter](https://twitter.com/iearnfinance) 和 [Medium](https://medium.com/iearn) 帐户。
 
-## Summary
+## 摘要
 
-- State of the Fantom Vaults
-- Fantom Ecosystem Spotlight - Yearn
-- Yearn Web Updates
-- Yearn Finance Explained
-- Vaults at Yearn
-- Ecosystem News
+- Fantom 上的 Yearn TVL 达到 10 亿美金
+- Fantom 生态系统聚焦 - Yearn
+- Yearn 网站更新
+- Yearn Finance 解析
+- Yearn 的机枪池
+- 生态系统最新消息
 
-# State of the Fantom Vaults
+# Fantom 机枪池的现状
 
 ![](image2.png)
 
-With the rise of Andre Cronje & Daniele Sesta's new project Solidly ve(3,3), vampire attacks have come to Fantom in order to qualify for the Solidly airdrop to the Top 20 projects by TVL on Fantom.
+随着 Andre Cronje 和 Daniele Sestagalli 的新项目 Solidly ve(3,3) 的兴起，Fantom 上出现各种吸血鬼的袭击，都是为了进入 Fantom 上 TVL 前 20 名，从而获得 Solidly 的空投。
 
-To take advantage of this, you can tuck your holdings into a comfy [yearn.finance](https://yearn.finance/#/home) vault. Yearn fetches the best yield across 0xDAO, veDAO, Scream, Curve, Beets, Tarot, and beyond. Our Fantom Vaults have strategies for all of them, automatically rotate to the most profitable one and realize profits every 30 minutes so you won't be left holding the bag. We'll be by your side long after the vampwars become another page in a history manga.
+[yearn.finance](https://yearn.finance/#/home) 充分利用这次机会，让我们的存款用户获得风险调整后的最高的 APR。我们在 0xDAO、veDAO、Scream、Curve、Beets、Tarot 等协议获得极好的收益机会。机枪池有针对所有这些协议的策略，并能够自动轮换到收益最高的策略，每 30 分钟实现一次收益变现，让用户轻松获得高回报。吸血鬼攻击活动最近结束了，并成为历史的一页，但 Yearn 仍将在 Fantom 陪伴你。
 
-What's your move? Start depositing today at [yearn.finance/vaults](https://yearn.finance/vaults).
+你该做些什么呢？立即开始在 [yearn.finance/vaults](https://yearn.finance/vaults) 存款吧。.
 
-# Fantom Ecosystem Spotlight - Yearn
+# Fantom 生态系统聚焦 - Yearn
 
 ![](image3.png)
 
-Yearn contributor Tracheopteryx gives a brief overview of Yearn and our mission, with our focus being on everyday users, partners, and builders.
+Yearn 贡献者 Tracheopteryx 简要概述了 Yearn 和我们的使命，我们的主要关注点是用户、合作伙伴和建设者。
 
-The core products of Yearn are the Vaults, the Iron Bank, Labs, and the YFI/WOOFY tokens. YFI’s origins are further explored, and Tracheopteryx explains why Fantom is the first sidechain that Yearn has chosen to build on.
+Yearn 的核心产品是机枪池、Iron Bank、Labs 和 YFI/WOOFY 代币。Tracheopteryx 进一步探索了 YFI 的起源，解释了为什么 Yearn 选择 Fantom 作为以太坊主网之外扩展的第一个侧链。
 
-The interview ends off by mentioning upcoming upgrades to the YFI token, such as buybacks being given to holders, xYFI, veYFI, and vault gauges.
+采访结束时提到了即将进行的 YFI 代币升级，例如回购并分发给代币持有者、xYFI、veYFI 和 vault gauges。
 
-Check out the new full article [here](https://fantom.foundation/blog/fantom-ecosystem-spotlight-yearn/?__cf_chl_rt_tk=rdrT2KHoFbjTe1yyUOmIDA92AeTmrMPKtQW5yT18mwk-1643234302-0-gaNycGzNCH0).
+在 [此处](https://fantom.foundation/blog/fantom-ecosystem-spotlight-yearn/?__cf_chl_rt_tk=rdrT2KHoFbjTe1yyUOmIDA92AeTmrMPKtQW5yT18mwk-1643234302-0-gaNycGzNCH0) 查看完整文章。
 
-# Yearn Web Updates
+# Yearn 网站更新
 
 ![](image4.png)
 
-This week's Yearn web update includes an APY hover tooltips added to UI and a Dust fix for vault withdrawals
+本周的 Yearn 网站更新包括 UI 新增 APY 悬停工具提示和机枪池提款时的 Dust 修复。
 
-Coming soon are security improvements, with a detailed write-up, improved multi-chain UI/UX, and support for a new chain.
+即将推出的更新，包括详细的文章介绍、更新的多链 UI/UX、以及将新增一条链。
 
-Check out the full new update [here](https://yearnweb.substack.com/p/yearn-web-engineering-update-7d7?r=2y79e&utm_campaign=post&utm_medium=web).
+在 [此处](https://yearnweb.substack.com/p/yearn-web-engineering-update-7d7?r=2y79e&utm_campaign=post&utm_medium=web) 查看完整的更新。
 
-# Yearn Finance Explained
+# Yearn Finance 解析
 
 ![](image5.png)
 
-Yearn vaults are yielding IOU tokens built by strategists who undertake a difficult vetting process to ensure that Yearn users are receiving the best risk-adjusted yield in the crypto ecosystem.
+Yearn 机枪池给存款用户的存款凭证是 IOU 收益代币， 相关的收益策略都是由策略师们经过繁琐复杂的审查过程制定的，为了确保 Yearn 用户获得风险调整后的最佳收益。
 
-One previously used strategy at Yearn can be seen in the v1 Ethereum yVault: When a user deposits ETH the ETH is then lent at MakerDAO as collateral, which is used to borrow DAI that is then deposited into the DAI yVault.
+Yearn 在之前的 v1 版本中，以太坊的 yVault 中使用的一种策略：当用户存入 ETH 时，ETH 会作为抵押品存入 MakerDAO ，用于借入 DAI，然后存入 DAI yVault。
 
-Some common questions users may have are “How/when does Yearn move the funds inside the vault and charge fees?” and “How does Yearn guarantee a strategy to always generate tokens instead of losing them?”. One of the key functions of a strategy is called “harvest”. When called, it triggers a rebalancing process where profit is realized and reinvested back into the strategy. Strategists also use a number of tools to monitor on-chain data to ensure strategy health. One of those tools is Yearn Watch, which presents a nice UI with many of key metrics live on the blockchain.
+用户可能常会提出的一些问题是 “Yearn 是如何，何时将资金转移到机枪池的？” 以及 “Yearn 的策略如何保证代币一直是增加的而不是减少的呢？”。策略中的一个关键功能称为“获利”。该功能被调用时，会触发重新平衡过程，在此过程中实现利润并将其复投回策略中。策略师还使用许多工具来监控链上数据，以确保策略的健康。其中一个工具是 Yearn Watch，它提供了一个漂亮的用户界面，以及许多链上的关键指标。
 
-Yearn and Keep3r additionally have a strong synergy in automating the tasks needed for vaults to maintain their performance. In order to build strategies, you will need a good understanding of Vyper (for yVaults) and Solidity (for strategies). The basic requirements to become a strategist are: knowledge about the blockchain ecosystem you’ll deploy in, which can be acquired by doing in-depth research of tokenomics and documentation for all tokens used in the strategy itself, Solidity programming knowledge similar to completing Level 4 on CryptoZombies, and knowing how to get around git, eth-brownie, and ganache.
+为了保持机枪池的性能，需要任务的完成能够实现自动化，Yearn 和 Keep3r 在这方面提供了强大的协同做用。为了构建策略，需要对 Vyper（用于 yVaults）和 Solidity（用于策略）有很好的了解。成为策略师的基本要求是：将部署策略的区块链生态系统的相关知识，这些知识可以通过对策略中使用的代币的代币经济模型和文档进行深入研究来获得；类似于在 CryptoZombies 上完成级别 4 的Solidity 编程知识；以及知道如何使用 git、eth-brownie 和 ganache。
 
-After understanding the basics of the above tools you are ready to copy our strategy template! The functions you should start changing in this template in order to build with your own first strategy are prepareReturn, adjustPosition, and liquidatePositon. You can find the strategy template [here](https://github.com/yearn/brownie-strategy-mix).
+在具备了上述的基础知识后，你就可以复制我们的策略模板了！构建你自己的第一个策略需要使用的函数是 prepareReturn、adjustPosition 和liquidatePositon。可以在 [此处](https://github.com/yearn/brownie-strategy-mix) 找到策略模板。
 
-Thank you to MarcoWorms for the writeup which can be found [here](https://medium.com/iearn/yearn-finance-explained-what-are-vaults-and-strategies-96970560432).
+感谢 MarcoWorms 的文章，可在 [此处](https://medium.com/iearn/yearn-finance-explained-what-are-vaults-and-strategies-96970560432) 找到。
 
-# Vaults at Yearn
+# Yearn 的机枪池
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+可以在 [此处](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) 阅读我们所有活跃 yVault 的策略的详细说明。
 
-# Ecosystem News
+# 生态系统最新消息
 
-[Deposit directly into Yearn vaults with the Ambire Wallet’s new integration](https://twitter.com/AmbireWallet/status/1483087593285820416)
+[通过 Ambire 钱包的直接存款到 Yearn 的机枪池](https://twitter.com/AmbireWallet/status/1483087593285820416)
 
-[Use Yearn vaults on Shapeshift DAO](https://twitter.com/ShapeShift_io/status/1484599573289086984)
+[在 Shapeshift DAO 上使用 Yearn 机枪池](https://twitter.com/ShapeShift_io/status/1484599573289086984)
 
-[New updates on Tesseract Finance’s collaboration with VESQ](https://twitter.com/tesseract_fi/status/1483484524143128578)
+[Tesseract Finance 与 VESQ 合作的最新消息](https://twitter.com/tesseract_fi/status/1483484524143128578)
 
-[Yearn has become the number 1 aggregator by TVL on Fantom](https://twitter.com/vannny365/status/1484385291947368448)
+[Yearn 成为在 Fantom 上 TVL 排名第一的聚合器](https://twitter.com/vannny365/status/1484385291947368448)
 
-[Check out ApeFramework made with the help of Yearn contributors](https://twitter.com/ApeFramework)
+[查看在 Yearn 贡献者的帮助下制作的 ApeFramework](https://twitter.com/ApeFramework)
 
-[Read this short overview of Yearn and its metrics](https://twitter.com/fuuurma/status/1484503576076599298)
+[阅读 Yearn 及其指标的概述](https://twitter.com/fuuurma/status/1484503576076599298)
