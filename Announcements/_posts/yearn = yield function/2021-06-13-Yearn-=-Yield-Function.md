@@ -4,20 +4,20 @@ title:  "What if Yearn = the web's yield function?"
 categories: [ Announcements ]
 image: ./Yearn-=-Yield-Function/yield1.jpg
 author: Yearn
-translator:
+translator: gateway-504
 publish: true
 ---
 
 ![](yield1.jpg)
 
-# What if Yearn = the web's "yield function"?
+#Bagaimana jika Yearn = "yield function" web?
 
-In programming a "function" is a little bundle of reusable code that accomplishes a specific task… You can summon that function anytime, and it will do the same thing over and over again without fail.
+Dalam pemrograman, "function" adalah kumpulan kecil kode yang dapat digunakan kembali yang menyelesaikan tugas tertentu… Anda dapat memanggil function itu kapan saja, dan itu akan melakukan hal yang sama berulang-ulang tanpa gagal.
 
-With Yearn, devs anywhere on earth can take our yields and insert them into any financial flow.
+Dengan Yearn, para pengembang di mana pun di dunia dapat mengambil hasil kami dan memasukkannya ke dalam aliran keuangan apa pun.
 
-People talk about money legos. Yearn isn't so much a lego as the plastic other DeFi projects can use to build their own legos.
+Orang-orang berbicara tentang uang lego. Yearn bukanlah sebuah lego seperti plastik yang dapat digunakan proyek DeFi lainnya untuk membuat lego mereka sendiri.
 
-Just as the Internet of Information uses APIs for data, the Internet of Value will use Yearn for yield. Anywhere value lies dormant (for days, hours... even minutes), Yearn will go.
+Sama seperti Internet of Information yang menggunakan API untuk data, Internet of Value akan menggunakan Yearn untuk hasil. Di mana saja nilai terbengkalai (selama berhari-hari, berjam-jam... bahkan menit), Yearn akan pergi.
 
-And that means Yearn could become as big as the Internet of Value itself. Like blockchains, it could come to underlie all financial flows -- all value flows.
+Dan itu berarti Yearn bisa menjadi sebesar Internet of Value itu sendiri. Seperti blockchain, itu bisa mendasari semua aliran keuangan -- semua aliran nilai.
