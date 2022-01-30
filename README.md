@@ -1,43 +1,43 @@
 # yearn-comms
 
-This is a collection of communication, announcements, tweets, newsletters, and other articles about yearn.
+Ini adalah kumpulan komunikasi, pengumuman, tweet, buletin, dan artikel lain tentang Yearn.
 
-## To Run
+## untuk Menjalankan
 
-### Locally
+### secara lokal
 
-- Follow the guide [here](https://jekyllrb.com/docs/) to install Jekyll.
-- Run the Jekyll blog locally with `bundle exec jekyll serve --watch`
-  - With --watch whenever you save a change it will update the site but you will need to reload it on [http://localhost:4000](http://localhost:4000)
+- Ikuti petunjuk [Disini](https://jekyllrb.com/docs/) untuk menginstall Jekyll.
+- Jalankan blog jekyll secara lokal dengan `bundle exec jekyll serve --watch`
+  - Dengan --tonton setiap kali Anda menyimpan perubahan, itu akan memperbarui situs tetapi Anda harus memuatnya kembali [http://localhost:4000](http://localhost:4000)
 
-### With Docker
+### Dengan Docker
 
 - Install Docker
-- Run `docker-compose up`
+- Jalankan `docker-compose up`
 
-## Translations
+## Pernerjemahan
 
-Under your [language] branch, you will now find both the site config files and assets, as well as the comms content (articles, newsletters, etc.).
+Dibawah branch [bahasa] anda, Anda sekarang akan menemukan file dan aset konfigurasi situs, serta konten komunikasi (artikel, buletin, dll.).
 
-You can find content (or "posts") to be translated in the following folders (and their subfolders):
+Anda dapat menemukan konten (atau "postingan") untuk diterjemahkan di folder berikut (dan subfoldernya):
 
-- Announcements/\_posts
-- Articles/\_posts
-- Financials/\_posts
-- Newsletters/\_posts
-- Podcasts/\_posts
-- Tweets/\_posts
+- Pengumuman/\_postingan
+- Artikel/\_postingan
+- Keuangan/\_posting
+- Buletin/\_postingan
+- Podcast/\_postingan
+- Tweet/\_postingan
 
-A "post" consists of two parts: the "header", or "front-matter" (necessary for the site to publish the post correctly.), and the "content".
+Sebuah "postingan" terdiri dari dua bagian: "header", atau "front-matter" (diperlukan agar situs dapat memublikasikan postingan dengan benar.), dan "konten".
 
-In order for a PR for a translation to be accepted and deployed, you need to make sure that:
+Agar PR untuk terjemahan dapat diterima dan digunakan, Anda perlu memastikan bahwa:
 
-- the "content" is translated properly
-- in the front-matter, the name of the "translator" (you) is added correctly
-- in the front-matter, the "title" is translated
-- in the front-matter, "publish:" is set to "true"
+- "konten" diterjemahkan dengan benar
+- di bagian depan, nama "penerjemah" (Anda) ditambahkan dengan benar
+- di bagian depan, "judul" diterjemahkan
+- di bagian depan, "publish:" disetel ke "true"
 
-Please, do not:
+Tolong,jangan:
 
-- modify/translate the filename
-- modify/translate anything else in the "front-matter"
+- ubah/terjemahkan nama file
+- memodifikasi/menerjemahkan apa pun di "materi depan"
