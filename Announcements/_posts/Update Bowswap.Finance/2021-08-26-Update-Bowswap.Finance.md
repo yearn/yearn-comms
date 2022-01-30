@@ -4,28 +4,28 @@ title:  "Update Bowswap"
 categories: [ Announcements ]
 image: ./Update-Bowswap.Finance/image1.jpg
 author: Yearn
-translator:
+translator: gateway-504
 publish: true
 ---
 
 # Bowswap.Finance [Update](https://t.me/yearnupdates/483)
 
-It now has two parts:
+Sekarang memiliki 2 bagian:
 
-## 1. Between Yearn Vaults
+## 1. Diantara Berangkas Yearn
 
 ![](image1.jpg)
 
-It swaps funds from one vault to another. There's no liquidity pool. It withdraws and redeposits into the desired vault. The only swaps it does is using Curve. If the vaults have a token in common (same metapool or 3CRV for example) it will use them. While it's not cheap gas-wise, it is gas efficient - Cheaper than doing it manually, for sure
+Bagian ini menSwap dana dari satu brankas ke brankas lainnya. Tidak ada kolam likuiditas. Menarik dan menyetor ulang ke brankas yang diinginkan. Satu-satunya swap yang dilakukannya adalah menggunakan Curve. Jika brankas memiliki token yang sama (metapool yang sama atau 3CRV misalnya) ia akan menggunakannya. Meskipun tidak murah dari segi gas, ini hemat gas - Lebih murah daripada melakukannya secara manual, pasti
 
-## 2. From DeFi to Yearn Vaults
+## 2. Dari DeFi ke Berangkas Yearn 
 
-[Bowswap.finance](https://bowswap.finance/), now with simple migration to the best yield available. Migrate from AAVE and Compound to Yearn Finance in a few clicks, with no fees.
+[Bowswap.finance](https://bowswap.finance/), sekarang dengan migrasi sederhana ke hasil terbaik yang tersedia. Bermigrasi dari AAVE dan Compound ke Yearn Finance dalam beberapa klik, tanpa biaya.
 
-Sorry Stani
+Maaf Stani
 
 ![](image2.jpg)
 
-This next feature helps users migrate funds from Compound and AAVE to Yearn. It's the same concept as above, withdraw from the protocol and deposit into a Yearn Vault. Also shows both protocol's APY in the list and let's you select multiple tokens at the same time.
+Fitur berikutnya ini membantu pengguna memigrasikan dana dari Compound dan AAVE ke Yearn. Ini adalah konsep yang sama seperti di atas, withdraw dari protokol dan menyetor ke dalam Berangkas Yearn. Juga menunjukkan APY kedua protokol dalam daftar dan membiarkan Anda memilih beberapa token secara bersamaan.
 
-No fees are charged by Yearn on these swaps.
+Tidak ada biaya yang dibebankan oleh Yearn pada swap ini.
