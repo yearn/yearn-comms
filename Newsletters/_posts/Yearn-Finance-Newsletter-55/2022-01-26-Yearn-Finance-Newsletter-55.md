@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Newsletter #55 de Yearn Finance
+title: "Newsletter #55 de Yearn Finance"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-55/image1.png
 author: Yearn
@@ -90,5 +90,3 @@ Puedes leer una descripción detallada de las estrategias para todos nuestros yV
 [Vea ApeFramework hecho con la ayuda de los colaboradores de Yearn](https://twitter.com/ApeFramework)
 
 [Lea este breve resumen de Yearn y sus métricas](https://twitter.com/fuuurma/status/1484503576076599298)
-
-Puede leer una descripción detallada de las estrategias para todos nuestros yVaults activos [aquí](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
