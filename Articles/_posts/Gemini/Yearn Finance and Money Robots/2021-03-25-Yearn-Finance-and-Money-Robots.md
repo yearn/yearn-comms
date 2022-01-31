@@ -4,76 +4,76 @@ title:  "Yearn Finance and Money Robots"
 categories: [ Articles ]
 image: ./Yearn-Finance-and-Money-Robots/image1.png
 author: Gemini/Cryptopedia
-translator:
+translator: gateway-504
 publish: true
 ---
 
-original publication: [https://www.gemini.com/cryptopedia/yearn-finance-defi-lending-protocol](https://www.gemini.com/cryptopedia/yearn-finance-defi-lending-protocol)
+publikasi asli: [https://www.gemini.com/cryptopedia/yearn-finance-defi-lending-protocol](https://www.gemini.com/cryptopedia/yearn-finance-defi-lending-protocol)
 
-# Yearn Finance and Money Robots: Automated DeFi Strategy
+# Yearn Finance dan Robot-Robot uang: Strategi DeFi Otomatis
 
-Yearn Finance offers a suite of investment strategies powered by robots that contain “wisdom sourced from the crowd” — Yearn’s own community.
+Yearn Finance menawarkan serangkaian strategi investasi yang didukung oleh robot yang berisi "kebijaksanaan yang bersumber dari orang banyak" — komunitas Yearn sendiri.
 
 ![alt_text](image1.png)
 
-## Summary
+## Ringkasan
 
-Yearn Finance money robots execute investment strategies across decentralized finance (DeFi) platforms with the aim of generating the highest returns with the lowest risk. The strategies deployed include providing assets for lending, earning project tokens with yield farming, providing liquidity, or a combination of these and other investment strategies across a wide range of DeFi lending protocols. The Yearn protocol allows you to easily take part in complex investing strategies by providing tokens to the platform. Its expanding suite of products is intended to simplify investing in DeFi and is gaining traction with investors.
+Robot uang Yearn Finance menjalankan strategi investasi di seluruh platform keuangan terdesentralisasi (DeFi) dengan tujuan menghasilkan pengembalian tertinggi dengan risiko terendah. Strategi yang digunakan termasuk menyediakan aset untuk pinjaman, mendapatkan token proyek dengan yield farming, menyediakan likuiditas, atau kombinasi dari ini dan strategi investasi lainnya di berbagai protokol pinjaman DeFi. Protokol Yearn memungkinkan Anda untuk dengan mudah mengambil bagian dalam strategi investasi yang kompleks dengan menyediakan token ke platform. Rangkaian produknya yang berkembang dimaksudkan untuk menyederhanakan investasi di DeFi dan mendapatkan daya tarik dengan investor.
 
-## Contents
+## Isi
 
 - Yearn.Finance: yVaults
 - yVault Strategy Case Studies: GUSD
-- A Suite of DeFi Products
-- Wisdom of the Crowd
+- Rangkaian Produk DeFi
+- Kebijaksanaan orang banyak
 
-Yearn Finance develops products that automate and aim to simplify the complexity of decentralized finance (DeFi) with “money robots” that work to maximize returns for a fee. Yearn started with just one [Ethereum](https://www.gemini.com/cryptopedia/ethereum-smart-contracts-tokens-use-cases) developer — [Andre Cronje](https://www.gemini.com/cryptopedia/glossary#andre-cronje) — who sought to automate and optimize his own DeFi returns. It has now evolved into one of the most active and engaged decentralized communities on Ethereum with a focus on developing increasingly innovative ways to generate returns.
+Yearn Finance mengembangkan produk yang mengotomatisasi dan bertujuan untuk menyederhanakan kompleksitas desentralisasi keuangan (DeFi) dengan "robot uang" yang berfungsi untuk memaksimalkan pengembalian dengan biaya tertentu. Yearn dimulai hanya dengan satu[Ethereum](https://www.gemini.com/cryptopedia/ethereum-smart-contracts-tokens-use-cases) pengembang — [Andre Cronje](https://www.gemini.com/cryptopedia/glossary#andre-cronje) — yang berusaha untuk mengotomatisasi dan mengoptimalkan pengembalian DeFi-nya sendiri. Sekarang telah berkembang menjadi salah satu komunitas terdesentralisasi yang paling aktif dan terlibat di Ethereum dengan fokus pada pengembangan cara yang semakin inovatif untuk menghasilkan pengembalian.
 
-Money robots refer to automated trading strategies executed by Yearn across Ethereum-based DeFi platforms. There are countless investment strategies that can be deployed across a growing number of DeFi protocols. For example, a Yearn money robot can earn trading fees on the [Curve protocol](https://www.gemini.com/cryptopedia/curve-crypto-automated-market-maker), borrow money using [Aave’s flash loans](https://www.gemini.com/cryptopedia/aave-flashloans), and lend assets to [Compound](https://www.gemini.com/cryptopedia/compound-finance-defi-crypto).
+Robot uang mengacu pada strategi perdagangan otomatis yang dijalankan oleh Yearn di seluruh platform DeFi berbasis Ethereum. Ada banyak strategi investasi yang dapat digunakan di sejumlah protokol DeFi yang terus bertambah. Misalnya, robot uang Yearn dapat memperoleh biaya perdagangan di [Curve protocol](https://www.gemini.com/cryptopedia/curve-crypto-automated-market-maker), meminjam uang mengunakan [Aave’s flash loans](https://www.gemini.com/cryptopedia/aave-flashloans), dan meminjamkan aset kepada [Compound](https://www.gemini.com/cryptopedia/compound-finance-defi-crypto).
 
 ## Yearn.Finance: yVaults
 
-The most popular products in the Yearn ecosystem are [yVaults](https://www.gemini.com/cryptopedia/glossary#y-vaults), a series of token pools that follow an investment strategy that is allocated across DeFi platforms. Depositing tokens into a yVault automatically mints a new [yToken](https://www.gemini.com/cryptopedia/glossary#y-tokens), which is a type of [liquidity provider (LP) token](https://www.gemini.com/cryptopedia/liquidity-provider-amm-tokens). LP tokens are automatically created when tokens are deposited into a [liquidity pool](https://www.gemini.com/cryptopedia/glossary#liquidity-pool) — and serve as a claim to a pool’s underlying assets. Each yToken can be redeemed at any time for the originally deposited tokens plus any rewards accumulated while the tokens were working in the yVault.
+Produk paling populer di ekosistem Yearn adalah [yVaults](https://www.gemini.com/cryptopedia/glossary#y-vaults), serangkaian kumpulan token yang mengikuti strategi investasi yang dialokasikan di seluruh platform DeFi. Menyetorkan token ke yVault secara otomatis mencetak token baru [yToken](https://www.gemini.com/cryptopedia/glossary#y-tokens), yang merupakan jenis [liquidity provider (LP) token](https://www.gemini.com/cryptopedia/liquidity-provider-amm-tokens). Token LP dibuat secara otomatis ketika token disimpan ke dalam sebuah [liquidity pool](https://www.gemini.com/cryptopedia/glossary#liquidity-pool) — dan berfungsi sebagai klaim atas aset dasar kumpulan. Setiap yToken dapat ditebus kapan saja untuk token yang awalnya disimpan ditambah hadiah apa pun yang terakumulasi saat token bekerja di yVault.
 
-For example, you can deposit [GUSD](https://www.gemini.com/cryptopedia/gusd-gemini-dollar-stablecoin-features) to the GUSD yVault and receive the LP token called yGUSD. When you exchange the yGUSD for the underlying GUSD, you receive that GUSD plus any earnings or rewards the GUSD accumulated from using the yVault’s strategy. Yearn’s yVaults compress complex layers of DeFi applications and components into a simplified trading strategy where investors provide assets and hold a token to participate in a sophisticated, algorithmic strategy.
+Misalnya, Anda dapat menyetor [GUSD](https://www.gemini.com/cryptopedia/gusd-gemini-dollar-stablecoin-features) ke yVault GUSD dan menerima token LP yang disebut yGUSD. Saat Anda menukar yGUSD dengan GUSD yang mendasarinya, Anda menerima GUSD tersebut ditambah penghasilan atau imbalan apa pun yang diakumulasikan GUSD dari penggunaan strategi yVault. YVaults Yearn memampatkan lapisan kompleks aplikasi dan komponen DeFi menjadi strategi perdagangan yang disederhanakan di mana investor menyediakan aset dan memegang token untuk berpartisipasi dalam strategi algoritmik yang canggih.
 
-## yVault Strategy Case Studies: GUSD
+## Pelajaran Kasus Strategi yVault: GUSD
 
-yVault strategies are fluid, and the Yearn community can decide to change or adjust a strategy as it becomes less profitable. In the yGUSD strategy for October 2020 — which has already been altered for optimization — the strategy earns yield for the yGUSD holder through the following steps:
+Strategi yVault bisa berubah-ubah, dan komunitas Yearn dapat memutuskan untuk mengubah atau menyesuaikan strategi karena menjadi kurang menguntungkan. Dalam strategi yGUSD untuk Oktober 2020 — yang telah diubah untuk pengoptimalan — strategi menghasilkan hasil bagi pemegang yGUSD melalui langkah-langkah berikut:
 
-1. GUSD is deposited into a Curve pool made up of [stablecoins](https://www.gemini.com/cryptopedia/what-are-stablecoins-how-do-they-work) GUSD, [DAI](https://www.gemini.com/cryptopedia/dai-stablecoin-what-is-dai-token), USDC, and USDT to earn fees.
-2. The LP token generated from the stablecoin pool is staked in Curve to earn the [CRV token](https://www.gemini.com/cryptopedia/glossary#crv-token).
-3. 90% of the CRV tokens earned are sold for DAI.
-4. DAI is deposited back to the original GUSD, DAI, USDC, USDT stablecoin pool to earn more fees.
+1. GUSD disetorkan kedalam sebuah Curve pool terdiri dari [stablecoins](https://www.gemini.com/cryptopedia/what-are-stablecoins-how-do-they-work) GUSD, [DAI](https://www.gemini.com/cryptopedia/dai-stablecoin-what-is-dai-token), USDC, dan USDT untuk menghasilkan biaya.
+2. Token LP yang dihasilkan dari kumpulan stablecoin diStake di Curve untuk mendapatkan [CRV token](https://www.gemini.com/cryptopedia/glossary#crv-token).
+3. 90% dari token CRV yang diperoleh dijual untuk DAI.
+4. DAI disetorkan kembali ke kumpulan stablecoin GUSD, DAI, USDC, USDT asli untuk mendapatkan lebih banyak biaya.
 
-From the point of view of a user, the steps above take place under the algorithmic hood. This GUSD strategy itself is fairly simple as compared to more involved and sequentially complicated yVault strategies, which may involve borrowing money, using [leverage](https://www.gemini.com/cryptopedia/glossary#leverage), and maintaining exposure to market forces.
+Dari sudut pandang pengguna, langkah-langkah di atas berlangsung di bawah kap algoritmik. Strategi GUSD ini sendiri cukup sederhana dibandingkan dengan strategi yVault yang lebih terlibat dan lebih rumit, yang mungkin melibatkan peminjaman uang, menggunakan [leverage](https://www.gemini.com/cryptopedia/glossary#leverage), dan mempertahankan keterpaparan terhadap kekuatan pasar.
 
-For example, the yETH vault, which is still in an experimental stage as of December 2020 and not yet fully released, uses both the [MakerDAO](https://www.gemini.com/cryptopedia/makerdao-defi-mkr-dai-coins) and Curve protocols in its strategy. With the yETH strategy, ETH holders remain exposed to the price appreciation (or depreciation) of ETH while earning yield through the following steps:
+Misalnya, brankas yETH, yang masih dalam tahap percobaan hingga Desember 2020 dan belum sepenuhnya dirilis, menggunakan kedua [MakerDAO](https://www.gemini.com/cryptopedia/makerdao-defi-mkr-dai-coins) and Curve protocols dalam strateginya.Dengan strategi yETH, pemegang ETH tetap terkena apresiasi harga (atau depresiasi) ETH sambil mendapatkan hasil melalui langkah-langkah berikut:
 
-1. ETH is deposited to MakerDAO as collateral.
-2. DAI is borrowed from MakerDAO using the deposited ETH as collateral.
-3. The borrowed DAI is deposited to the yDAI vault.
-4. The yDAI vault deposits DAI to Curve in order to earn fees.
-5. The LP token generated from the DAI pool is staked in Curve to earn the CRV token.
-6. The CRV tokens are sold for ETH.
-7. ETH is deposited back to MakerDAO as collateral.
+1. ETH disetorkan ke MakerDAO sebagai jaminan.
+2. DAI dipinjam dari MakerDAO menggunakan ETH yang disetorkan sebagai jaminan.
+3. DAI yang dipinjam disimpan ke brankas yDAI.
+4. Brankas yDAI menyetor DAI ke Curve untuk mendapatkan biaya.
+5. Token LP yang dihasilkan dari kumpulan DAI distake di Curve untuk mendapatkan token CRV.
+6. Token CRV dijual untuk ETH.
+7. ETH disetorkan kembali ke MakerDAO sebagai jaminan.
 
-Because the yETH vault borrows DAI from MakerDAO, there is the risk of getting liquidated — or having the money robot sell your ETH in order to repay your DAI loan. Liquidation occurs when the value of ETH collateral falls below the minimum 150% threshold of the value of borrowed DAI. In order to avoid liquidation, the yETH money robot aims to keep the value of ETH collateral at a safe 200% compared to the value of DAI debt. If the value of ETH collateral starts to fall below the 200% target, the money robot will automatically pay off some of the DAI debt to remain over-collateralized. Managing debt, collateral, and liquidation adds an additional layer of complexity to Yearn’s vaults.
+Karena brankas yETH meminjam DAI dari MakerDAO, ada risiko dilikuidasi — atau robot uang menjual ETH Anda untuk membayar kembali pinjaman DAI Anda. Likuidasi terjadi ketika nilai agunan ETH turun di bawah ambang batas minimum 150% dari nilai DAI yang dipinjam. Untuk menghindari likuidasi, robot uang yETH bertujuan untuk menjaga nilai jaminan ETH aman 200% dibandingkan dengan nilai utang DAI. Jika nilai agunan ETH mulai turun di bawah target 200%, robot uang akan otomatis melunasi sebagian utang DAI agar tetap over-collateralized. Mengelola utang, agunan, dan likuidasi menambah lapisan kerumitan tambahan pada brankas Yearn.
 
-It’s important to recognize the yVault strategy’s risk compounds as it becomes more complex by virtue of reliance on more protocols and platforms. Strategies like the yETH example also have the risks inherent in using leverage as well as the risks of liquidation and smart contract failure.
+Ini enting untuk mengenali risiko strategi compound yVault karena menjadi lebih kompleks berdasarkan ketergantungan pada lebih banyak protokol dan platform. Strategi seperti contoh yETH juga memiliki risiko yang melekat dalam penggunaan leverage serta risiko likuidasi dan kegagalan kontrak pintar.
 
-## A Suite of DeFi Products
+## Sebuah Rangkaian Produk DeFi
 
-The Yearn suite of products is an ever-expanding and evolving set of DeFi products. Besides the various yVault strategies, Yearn offers multiple active products that together form its ecosystem.
+Rangkaian produk Yearn adalah rangkaian produk DeFi yang terus berkembang dan berkembang. Selain berbagai strategi yVault, Yearn menawarkan beberapa produk aktif yang bersama-sama membentuk ekosistemnya.
 
-Other Yearn products include the yEarn application which focuses on using stablecoins like DAI and putting them to work in high-interest lending pools on Compound or Aave. Another product, Zap, is designed to reduce transaction costs in Ethereum by combining what would have been various manual transactions into one more complex, single-click transaction. The yInsure feature provides insurance for smart contracts as a safeguard in the event of a vulnerability or flaw in the code.
+Produk Yearn lainnya termasuk aplikasi yEarn yang berfokus pada penggunaan stablecoin seperti DAI dan menempatkannya untuk bekerja di kumpulan pinjaman berbunga tinggi di Compound atau Aave. Produk lain, Zap, dirancang untuk mengurangi biaya transaksi di Ethereum dengan menggabungkan berbagai transaksi manual menjadi satu transaksi klik tunggal yang lebih kompleks. Fitur yInsure menyediakan asuransi untuk kontrak pintar sebagai perlindungan jika terjadi kerentanan atau cacat dalam kode.
 
-There are also a multitude of products currently in the research and development stage, including yTrade for leveraging trades, yLiquidate to automate liquidations, and yBorrow for loans. Yearn has thus far proven fertile ground for research and development, and its product offerings will likely continue to expand as the DeFi space matures.
+Ada juga banyak produk yang saat ini dalam tahap penelitian dan pengembangan, termasuk yTrade untuk memanfaatkan perdagangan, yLiquidate untuk mengotomatisasi likuidasi, dan yBorrow untuk pinjaman. Sejauh ini, Yearn telah terbukti menjadi lahan subur untuk penelitian dan pengembangan, dan penawaran produknya kemungkinan akan terus berkembang seiring dengan semakin matangnya ruang DeFi..
 
-## Wisdom of the Crowd
+## Kebijaksanaan orang banyak
 
-A Yearn money robot executes a strategy plan for investment of digital assets: how to allocate them, where to put them, when to move them, and when to sell them. In fact, anyone can come up with a new strategy by posting it on the Yearn governance forum and explaining the logic and potential returns to the community. If approved by the community, the strategy will be implemented and the strategy creator earns fees — profiting from their successful strategizing.
+Robot uang Yearn menjalankan rencana strategi untuk investasi aset digital: bagaimana mengalokasikannya, di mana menempatkannya, kapan memindahkannya, dan kapan menjualnya. Faktanya, siapa pun dapat menemukan strategi baru dengan mempostingnya di forum tata kelola Yearn dan menjelaskan logika dan potensi pengembalian kepada komunitas. Jika disetujui oleh komunitas, strategi akan diterapkan dan pembuat strategi mendapatkan bayaran — mengambil untung dari strategi mereka yang berhasil.
 
-Even though the DeFi space features many automated and algorithmic mechanisms throughout its various platforms, Yearn money robot strategies are created and influenced by community members. Yearn’s community management, distributed “[fair launch](https://www.gemini.com/cryptopedia/what-is-yearn-finance-yfi-coin-yearnfinance)” of its highly-scarce [YFI platform governance tokens](https://www.gemini.com/cryptopedia/glossary#yfi-token), and collaborative nature present a timely reminder of human ingenuity and efficacy, even in the age of automated algorithms. With Yearn, ideas can come from anywhere and wisdom is sourced from the crowd. The effectiveness of that wisdom is constantly tested, iterated, and improved in real-time with real money.
+Meskipun ruang DeFi menampilkan banyak mekanisme otomatis dan algoritmik di berbagai platformnya, strategi robot uang Yearn dibuat dan dipengaruhi oleh anggota komunitas. Manajemen komunitas Yearn, didistribusikan “[fair launch](https://www.gemini.com/cryptopedia/what-is-yearn-finance-yfi-coin-yearnfinance)” yang sangat langka [YFI platform governance tokens](https://www.gemini.com/cryptopedia/glossary#yfi-token),dan sifat kolaboratif menghadirkan pengingat tepat waktu akan kecerdikan dan kemanjuran manusia, bahkan di zaman algoritme otomatis. Dengan Yearn, ide bisa datang dari mana saja dan kebijaksanaan bersumber dari orang banyak. Efektivitas kebijaksanaan itu terus diuji, diulang, dan ditingkatkan secara real-time dengan uang sungguhan.
 
-Yearn Finance presents a unique proposition of layering, interoperability, and crowdsourcing in DeFi. It is an experiment in automated investing and product development, in incentives and coordination. And, it’s an experiment to see if a decentralized community with a broad mandate to optimize returns can effectively do so without organizational conflict. While many DeFi platforms focus on disintermediating legacy players and systems, Yearn’s innovation is to act as an intermediary bringing together the decentralized community and disparate platforms for the benefit of their users.
+Yearn Finance menghadirkan proposisi unik dari layering, interoperabilitas, dan crowdsourcing di DeFi. Ini adalah eksperimen dalam investasi otomatis dan pengembangan produk, dalam insentif dan koordinasi. Dan, ini adalah eksperimen untuk melihat apakah komunitas yang terdesentralisasi dengan mandat luas untuk mengoptimalkan pengembalian dapat melakukannya secara efektif tanpa konflik organisasi. Sementara banyak platform DeFi fokus pada disintermediasi pemain dan sistem lama, inovasi Yearn adalah bertindak sebagai perantara yang menyatukan komunitas yang terdesentralisasi dan platform yang berbeda untuk kepentingan para penggunanya..
