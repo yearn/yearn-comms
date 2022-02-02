@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "How new Yearn Vault strategies are endorsed?"
+categories: [ Articles ]
+image: ./image1.png
+author: Marco Worms
+translator:
+publish: true
+---
+
 # How new Yearn Vault strategies are endorsed?
 
 ![](image1.png)
