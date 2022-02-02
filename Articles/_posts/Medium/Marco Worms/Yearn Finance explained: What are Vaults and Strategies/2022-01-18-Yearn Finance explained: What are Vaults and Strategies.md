@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Yearn Finance explained: What are Vaults and Strategies?"
+categories: [ Articles ]
+image: ./image1.png
+author: Marco Worms
+translator:
+publish: true
+---
+
 # Yearn Finance explained: What are Vaults and Strategies?
 
 ![](image1.png)
