@@ -11,8 +11,6 @@ date: '2022-01-26'
 translator: Dastronom
 ---
 
-# Yearn Finance Bülteni #55
-
 ### 23 Ocak 2022'de Sona Eren Hafta
 
 ![](./image1.jpg?w=1100&h=554)

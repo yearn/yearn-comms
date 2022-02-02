@@ -54,6 +54,11 @@ const	LOCALES = {
 		'name': '日本',
 		'symbol': 'Ja',
 	},
+	'id': {
+		'code': 'id',
+		'name': 'Indonesia',
+		'symbol': 'Id',
+	},
 	'ru': {
 		'code': 'ru',
 		'name': 'Русский',

@@ -9,8 +9,6 @@ date: '2021-12-05'
 translator: Dastronom
 ---
 
-# Yearn Finance Bülteni #50
-
 ### 5 Aralık 2021'de Sona Eren Hafta
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/cover.jpeg?w=880&h=440)

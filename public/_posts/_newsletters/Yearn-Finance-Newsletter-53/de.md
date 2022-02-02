@@ -11,8 +11,6 @@ date: '2022-01-11'
 translator: Nesyeth
 ---
 
-# Yearn Finance Newsletter #53
-
 ### Woche bis zum 9. Januar 2022
 
 ![](./image1.jpg?w=1100&h=554)

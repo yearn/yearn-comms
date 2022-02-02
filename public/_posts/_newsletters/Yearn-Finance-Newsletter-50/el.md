@@ -9,8 +9,6 @@ date: '2021-12-05'
 translator: Giosereth
 ---
 
-# Ενημερωτικό Σημείωμα του Yearn Finance #50
-
 ### Για την εβδομάδα που τελειώνει στις 5 Δεκεμβρίου, 2021
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/cover.jpeg?w=880&h=440)

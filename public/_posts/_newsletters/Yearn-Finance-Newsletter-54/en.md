@@ -11,8 +11,6 @@ date: '2022-01-20'
 translator:
 ---
 
-# Yearn Finance Newsletter #54
-
 ### Week Ending January 16nd, 2022
 
 ![](./image1.jpg?w=1100&h=554)

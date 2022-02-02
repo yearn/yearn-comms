@@ -30,12 +30,12 @@ Vou te explicar.
 ##### 3
 Mas isso é muito difícil de explicar... Ok, vamos começar com Ken Wilber. Wilber é muitas coisas, principalmente ele é um mestre na criação de mapas. Ele estudou o trabalho de filósofos, cientistas e gurus de todo o mundo com a tese de que "todo mundo está certo".
 
-![](1.jpg?w=292&h=455)
+![](./1.jpg?w=292&h=455)
 
 ##### 4
 Durante décadas, ele encaixou todas essas peças díspares de sabedoria em um mapa do potencial humano chamado Teoria Integral. Central para esse entendimento é a noção de quadrantes. Cada quadrante é irredutível a qualquer outro quadrante. Cada um é um quadro diferente e inerentemente válido.
 
-![](2.jpg?w=472&h=466)
+![](./2.jpg?w=472&h=466)
 
 ##### 5
 A experiência interior individual da cor vermelha é irredutível ao conceito exterior individual de luz 650nm. Ambos surgem como lados diferentes da mesma moeda. Então, onde diabos isso vai dar, certo? Aqui, os DAOs de índice retrógrado que apontam para a direita são formas de vida emergindo nos quadrantes coletivos.
@@ -47,12 +47,12 @@ A experiência interior individual da cor vermelha é irredutível ao conceito e
 ##### 7
 Harari escreve lindamente sobre o poder da ficção coletiva. A ficção escalou o esforço humano. Família, tribo, religião, nação, incorporação - o surgimento de cada nova ficção transcende e inclui a primeira, permitindo que nos coordenemos em um número cada vez maior.
 
-![](3.jpg?w=511&h=680)
+![](./3.jpg?w=511&h=680)
 
 ##### 8
 Quando a vida surgiu na Terra, éramos criaturas simples. Unicelulares. Flutuando. Comendo um ao outro. Então um carinha comeu outro carinha. . . mas este ficou por perto; não foi digerido. De procarionte a eucarionte. 💥 Vida multicelular. E então tudo mudou.
 
-![](4.jpg?w=680&h=379)
+![](./4.jpg?w=680&h=379)
 
 ##### 9
 O mundo está prestes a dar um passo extraordinário. Veja, o mar do coletivo tem sido como o mar da velha terra. As forças que ligam o análogo celular do coletivo (memes?) não foram fortes o suficiente para dar o passo para o eucarioto. Mas: temos o blockchain agora.
@@ -62,7 +62,7 @@ Blockchain é uma nova física. Uma física do /espaço coletivo/. Ninguém eluc
 
 https://youtube.com/watch?v=cY9lM73ie0Q&t=1575s
 
-![](5.jpg?w=650&h=1621)
+![](./5.jpg?w=650&h=1621)
 
 ##### 11
 Blockchain torna a ficção real. Tão real quanto o pó. E desse pó, nova fauna floresce. [@Coordinape](https://twitter.com/coordinape) é uma flor. Suas pétalas, um convite. Ela cresce na copa da floresta escura - onde a confiança prospera. O tipo de confiança que aqueles que trabalharam em equipes de criação conhecem tão bem.
@@ -74,7 +74,7 @@ Assista ao vídeo do bankless ou acesse http://coordinape.com para saber mais, m
 ##### 13
 Porque os tipos de ferramentas usadas para apoiar a inteligência coletiva em um ambiente adverso são inadequadas para um ambiente /colaborativo/. A abelha e a flor não precisam de contratos.
 
-![](6.jpg?w=680&h=523)
+![](./6.jpg?w=680&h=523)
 
 ##### 14
 Precisávamos desse tipo de ferramenta em [@iearnfinance](https://twitter.com/iearnfinance). Ela não existia, então construímos o Coordinape. É uma peça de um quebra-cabeça maior. Gov 2.0, escrito por [@lex_node](https://twitter.com/lex_node) e eu, é outra. Porque, como a biologia, DAOs não são monolíticos. O espaço de decisão é vasto.
@@ -84,7 +84,7 @@ https://gov.yearn.finance/t/yip-61-governance-2-0/10460
 ##### 15
 O Gov 2.0, ou delegação restrita, começa pela compreensão das decisões. Um DAO precisa tomar centenas de decisões diferentes. Gov 2.0 lida com decisões em cadeia, com controle de acesso. Mas, além desses eixos, também temos que considerar: escala de tempo, impacto, segurança, comunidade, domínio...
 
-![](7.png?w=1450&h=496)
+![](./7.png?w=1450&h=496)
 
 ##### 16
 Tivemos que inventar todos esses tipos de ferramentas em Yearn por pura necessidade. Nós nascemos do caos. Não há fundação, não há empresa com processos aos quais recorrer. [@AndreCronjeTech](https://twitter.com/AndreCronjeTech) distribuiu $ 1B em $YFI, e as consequências desse evento formaram nosso mundo. Bang.
@@ -95,12 +95,12 @@ Nem todo DAO funciona da mesma maneira. Assim como as empresas ou as pessoas, el
 ##### 18
 Wilber pegou os mapas do desenvolvimento humano elaborados por esses estudiosos e os combinou em uma teoria de níveis e linhas. Cada um de nós tem múltiplas inteligências que se desenvolvem em ritmos diferentes. E também as organizações.
 
-![](8.jpg?w=680&h=451)
+![](./8.jpg?w=680&h=451)
 
 ##### 19
 [@fred_laloux](https://twitter.com/fred_laloux) pegou o mapa de Wilber e aplicou-o às empresas que ele estudou em seu trabalho inigualável "Reinventando Organizações". Só porque DAOs têm o potencial de crescer como árvores no céu azul de nosso futuro, não significa que elas vão. Eles precisam do sistema operacional correto.
 
-![](9.png?w=360&h=162)
+![](./9.png?w=360&h=162)
 
 ##### 20
 Teal é um sistema operacional para organizações formadas por seres humanos soberanos que assumem agência e responsabilidade em suas vidas; com base na autogestão, integridade e propósito evolutivo. Enquanto as grandes empresas de hoje são como máquinas, as Teal orgs são como a biologia.

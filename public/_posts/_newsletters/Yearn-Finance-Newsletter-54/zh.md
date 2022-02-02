@@ -11,8 +11,6 @@ date: '2022-01-20'
 translator: Bee
 ---
 
-# Yearn Finance 最新动态 #54
-
 ### 2022 年 1 月 16 日之前的一周
 
 ![](./image1.jpg?w=1100&h=554)

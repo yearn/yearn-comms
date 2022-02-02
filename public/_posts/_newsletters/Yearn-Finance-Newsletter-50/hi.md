@@ -9,9 +9,6 @@ date: '2021-12-05'
 translator: Major-Rager
 ---
 
-
-# यर्न वित्त समाचार पत्र #५० 
-
 ### ५ दिसंबर, २०२१ को समाप्त होने वाला सप्ताह
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/cover.jpeg?w=880&h=440)

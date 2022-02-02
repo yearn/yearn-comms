@@ -30,12 +30,12 @@ Ich werde es erklären.
 ##### 3
 Hmm...das ist schwer zu erklären.... Ok, fangen wir mit Ken Wilber an. Wilber ist vieles, aber vor allem ist er ein Meister der Landkartenerstellung. Er studierte die Arbeit von Philosophen, Wissenschaftlern und Gurus aus der ganzen Welt mit der treibenden These, dass "jeder Recht hat".
 
-![](1.jpg?w=292&h=455)
+![](./1.jpg?w=292&h=455)
 
 ##### 4
 Über Jahrzehnte hinweg fügte er all diese disparaten Weisheiten zu einer Karte des menschlichen Potenzials zusammen, die er Integrale Theorie nannte. Zentral für dieses Verständnis ist der Begriff der Quadranten. Jeder Quadrant ist auf jeden anderen Quadranten nicht reduzierbar. Jeder ist ein anderer, inhärent gültiger Rahmen.
 
-![](2.jpg?w=472&h=466)
+![](./2.jpg?w=472&h=466)
 
 ##### 5
 Die individuelle innere Erfahrung der Farbe Rot ist nicht auf die individuelle äußere Vorstellung von 650nm Licht reduzierbar. Beide entstehen wie verschiedene Seiten derselben Münze. Aber wo führt das hin? Hier sind DAOs Lebensformen, die in den kollektiven Quadranten entstehen.
@@ -47,12 +47,12 @@ Die individuelle innere Erfahrung der Farbe Rot ist nicht auf die individuelle �
 ##### 7
 Harari schreibt wunderbar über die Macht der kollektiven Fiktion. Die Fiktion hat das menschliche Streben vergrößert. Familie, Stamm, Religion, Nation, Eingliederung - jede neue Fiktion geht über die vorherigen hinaus und schließt sie mit ein, so dass wir uns in immer größerer Zahl koordinieren können.
 
-![](3.jpg?w=511&h=680)
+![](./3.jpg?w=511&h=680)
 
 ##### 8
 Als das Leben auf der Erde entstand, waren wir einfache Lebewesen. Einzellig. Schwebend. Sich gegenseitig fressend. Dann fraß ein kleiner Kerl einen anderen kleinen Kerl ... aber dieser blieb in der Nähe und wurde nicht verdaut. Vom Prokaryonten zum Eukaryonten. 💥 Vielzelliges Leben. Alles hat sich verändert.
 
-![](4.jpg?w=680&h=379)
+![](./4.jpg?w=680&h=379)
 
 ##### 9
 Die Welt ist im Begriff, einen außergewöhnlichen Schritt zu tun. Das Meer des Kollektivs war nämlich wie das Meer der alten Erde. Die Kräfte, die das Zellanalogon des Kollektivs (Meme?) binden, waren nicht stark genug, um den Schritt zum Eukaryoten zu machen. Aber: Wir haben jetzt die Blockchain.
@@ -62,7 +62,7 @@ Blockchain ist eine neue Physik. Eine Physik des /kollektiven Raums/. Niemand ha
 
 https://youtube.com/watch?v=cY9lM73ie0Q&t=1575s
 
-![](5.jpg?w=650&h=1621)
+![](./5.jpg?w=650&h=1621)
 
 ##### 11
 Blockchain macht Fiktion real. So real wie Dreck. Und aus diesem Dreck erblüht eine neue Fauna. [@Coordinape](https://twitter.com/coordinape) ist eine Blume. Ihre Blütenblätter sind eine Einladung. Sie wächst in den Baumkronen des dunklen Waldes, wo Vertrauen gedeiht. Die Art von Vertrauen, die diejenigen, die in kreativen Teams gearbeitet haben, so gut kennen.
@@ -74,7 +74,7 @@ Schau dir das bankess Video an oder gehe auf http://coordinape.com, um mehr zu e
 ##### 13
 Denn die Instrumente, die zur Unterstützung der kollektiven Intelligenz in einem gegnerischen Umfeld eingesetzt werden, sind für ein /kollaboratives/ Umfeld schlecht geeignet. Die Biene und die Blume brauchen keine Verträge.
 
-![](6.jpg?w=680&h=523)
+![](./6.jpg?w=680&h=523)
 
 ##### 14
 Wir brauchten diese Art von Werkzeug bei [@iearnfinance](https://twitter.com/iearnfinance). Es existierte nicht, also haben wir Coordinape entwickelt. Es ist ein Teil eines größeren Puzzles. Gov 2.0, geschrieben von [@lex_node](https://twitter.com/lex_node) und mir, ist ein weiteres. Denn wie die Biologie sind auch DAOs nicht monolithisch. Der Entscheidungsraum ist riesig.
@@ -84,7 +84,7 @@ https://gov.yearn.finance/t/yip-61-governance-2-0/10460
 ##### 15
 Gov 2.0, oder eingeschränkte Delegation, beginnt mit dem Verständnis von Entscheidungen. Eine DAO muss Hunderte von verschiedenen Entscheidungen treffen. Gov 2.0 befasst sich mit Entscheidungen auf der Kette, die mit einem Tor versehen sind. Aber über diese Achsen hinaus müssen wir auch Folgendes berücksichtigen: Zeitrahmen, Auswirkungen, Sicherheit, Gemeinschaft, Bereich...
 
-![](7.png?w=1450&h=496)
+![](./7.png?w=1450&h=496)
 
 ##### 16
 Wir mussten bei Yearn all diese Arten von Werkzeugen aus purer Not heraus erfinden. Wir wurden aus dem Chaos geboren. Es gibt kein Fundament, kein Unternehmen mit Prozessen, auf das wir zurückgreifen könnten. [@AndreCronjeTech](https://twitter.com/AndreCronjeTech) verschenkte $1B in $YFI und das Inflaton-Feld dieses Ereignisses formte unsere Welt. Peng.
@@ -95,12 +95,12 @@ Nicht jede DAO arbeitet auf dieselbe Weise. Genau wie Unternehmen oder Menschen 
 ##### 18
 Wilber nahm die Karten der menschlichen Entwicklung, die von diesen Gelehrten entwickelt wurden, und kombinierte sie zu einer Theorie der Ebenen und Linien. Jeder von uns hat mehrere Intelligenzen, die sich in unterschiedlichem Tempo entwickeln. Und das gilt auch für Organisationen.
 
-![](8.jpg?w=680&h=451)
+![](./8.jpg?w=680&h=451)
 
 ##### 19
 [@fred_laloux](https://twitter.com/fred_laloux) nahm Wilbers Karte und wandte sie auf die Unternehmen an, die er in seinem unvergleichlichen Werk "Reinventing Organizations" untersuchte. Nur weil DAOs das Potenzial haben, wie Bäume in den blauen Himmel unserer Zukunft zu wachsen, heißt das nicht, dass sie das auch tun werden. Sie brauchen das richtige Betriebssystem.
 
-![](9.png?w=360&h=162)
+![](./9.png?w=360&h=162)
 
 ##### 20
 Teal ist ein Betriebssystem für Organisationen, die aus souveränen Menschen bestehen, die ihr Leben selbst in die Hand nehmen und Verantwortung übernehmen. Wo die heutigen großen Unternehmen wie Maschinen sind, sind Teal-Organisationen wie Biologie.

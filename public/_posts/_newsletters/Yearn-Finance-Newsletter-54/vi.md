@@ -11,8 +11,6 @@ date: '2022-01-20'
 translator: 🤖💵💵💰💰.eth
 ---
 
-# Bản tin Yearn.Finance Số #54
-
 ### Tuần Kết thúc Ngày 16/01/2022
 
 ![](./image1.jpg?w=1100&h=554)

@@ -11,8 +11,6 @@ date: '2022-01-11'
 translator:
 ---
 
-# Yearn Finance Newsletter #53
-
 ### Week Ending January 9nd, 2022
 
 ![](./image1.jpg?w=1100&h=554)

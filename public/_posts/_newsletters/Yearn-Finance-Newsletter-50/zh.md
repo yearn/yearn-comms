@@ -1,5 +1,5 @@
 ---
-title: "Yearn Finance Newsletter #50"
+title: "Yearn Finance 最新动态 #50"
 image:
   src: ./cover.jpeg
   width: 576
@@ -8,8 +8,6 @@ author: Yearn
 date: '2021-12-05'
 translator: Xiaona
 ---
-
-# Yearn Finance 最新动态 #50
 
 ### 2021 年 12 月 5 日结束的一周
 

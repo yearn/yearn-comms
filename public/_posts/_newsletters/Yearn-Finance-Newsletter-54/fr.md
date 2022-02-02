@@ -11,8 +11,6 @@ date: '2022-01-20'
 translator: Cryptouf
 ---
 
-# Yearn Finance Newsletter #54
-
 ### Semaine du 16 Janvier, 2022
 
 ![](./image1.jpg?w=1100&h=554)
