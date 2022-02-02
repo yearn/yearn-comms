@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Yearn Finance 最新动态 #47"
-categories: [ Newsletters ]
 image:
   src: ./cover.jpeg
   width: 576

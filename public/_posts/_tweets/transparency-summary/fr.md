@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Transparence chez Yearn. Un petit recap"
-categories: [ Tweets ]
 image:
   src: ./cover.jpg
   width: 848

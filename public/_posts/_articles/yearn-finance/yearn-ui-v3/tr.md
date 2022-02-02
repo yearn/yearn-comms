@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Yearn Kullanıcı Arayüzü v3.0"
-categories: [ Articles ]
 image:
   src: ./cover.png
   width: 800

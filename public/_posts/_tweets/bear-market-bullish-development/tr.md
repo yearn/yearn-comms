@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Ayı piyasası, boğa gelişmesi"
-categories: [ Tweets ]
 image:
   src: ./cover.jpeg
   width: 1000

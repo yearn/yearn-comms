@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "E se Yearn = a 'função de rendimento' da web?"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 800

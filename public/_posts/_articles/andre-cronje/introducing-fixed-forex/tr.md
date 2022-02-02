@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Sabit Forex (USD, EUR, ZAR, JPY, CNY, etc) Tanıtımı"
-categories: [ Articles ]
 image:
   src: ./andre-hero.png
   width: 700

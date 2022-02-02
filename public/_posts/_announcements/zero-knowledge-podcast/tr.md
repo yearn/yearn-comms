@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Zero Knowledge Podcast"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 576

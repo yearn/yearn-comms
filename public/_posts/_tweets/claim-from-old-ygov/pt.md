@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Reivindique seu YFI do antigo yGov"
-categories: [ Tweets ]
 image:
   src: ./cover.jpg
   width: 1783

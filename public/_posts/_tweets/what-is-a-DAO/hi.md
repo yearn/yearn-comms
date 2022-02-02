@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "डाओ क्या हैं?"
-categories: [Tweets]
 image:
   src: ./cover.jpg
   width: 292

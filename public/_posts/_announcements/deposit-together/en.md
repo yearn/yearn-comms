@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Deposit Together"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 576
@@ -9,7 +7,6 @@ image:
 author: Yearn
 date: '2021-11-01'
 translator:
-publish: false
 ---
 
 Announcing… 💥

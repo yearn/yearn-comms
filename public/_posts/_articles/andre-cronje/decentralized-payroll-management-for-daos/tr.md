@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "DAO'lar için merkezi olmayan bordro yönetimi"
-categories: [ Articles ]
 image:
   src: ./andre-hero.png
   width: 700

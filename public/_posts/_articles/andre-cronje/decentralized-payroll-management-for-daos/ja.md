@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "DAOのための分散型給与管理"
-categories: [ Articles ]
 image:
   src: ./andre-hero.png
   width: 700

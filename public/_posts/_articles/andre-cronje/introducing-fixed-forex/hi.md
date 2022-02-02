@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "पेश है फिक्स्ड फॉरेक्स"
-categories: [ Articles ]
 image:
   src: ./andre-hero.png
   width: 700

@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Strateji yazmak için neye ihtiyacım var?"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 786

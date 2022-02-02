@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "发布Blue Pill"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 644

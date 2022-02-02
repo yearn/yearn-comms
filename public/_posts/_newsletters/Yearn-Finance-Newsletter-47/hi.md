@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "यर्न फाइनेंस समाचार पत्र #४७"
-categories: [ Newsletters ]
 image:
   src: ./cover.jpeg
   width: 576

@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Fixed Forexの紹介"
-categories: [ Articles ]
 image:
   src: ./andre-hero.png
   width: 700

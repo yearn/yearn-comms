@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Ya Yearn = web'in verim işlevi ise"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 800

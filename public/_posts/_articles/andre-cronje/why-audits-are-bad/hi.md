@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "आयरन बैंक फिक्स्ड फॉरेक्स ऑडिट: ऑडिट खराब क्यों हैं"
-categories: [ Articles ]
 image:
   src: ./andre-hero.png
   width: 700

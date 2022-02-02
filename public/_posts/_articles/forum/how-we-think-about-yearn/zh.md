@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "我们如何看待Yearn"
-categories: [ Articles ]
 image:
   src: ./cover.jpeg
   width: 690

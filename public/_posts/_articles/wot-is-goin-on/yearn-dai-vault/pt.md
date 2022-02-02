@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Dai Vault de Yearn - você sabia que agora ele é um dos 20 principais protocolos DeFi?"
-categories: [ Articles ]
 image:
   src: ./cover.png
   width: 1280

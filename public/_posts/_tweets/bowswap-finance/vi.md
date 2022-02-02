@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Bowswap Finance"
-categories: [ Tweets ]
 image:
   src: ./cover.png
   width: 1000

@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Yearn 最新动态 #42"
-categories: [ Newsletters ]
 image:
   src: ./cover.jpeg
   width: 576

@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Argent में यर्न v2 के साथ आसानी से कमाएं"
-categories: [ Articles ]
 image:
   src: ./cover.jpeg
   width: 800

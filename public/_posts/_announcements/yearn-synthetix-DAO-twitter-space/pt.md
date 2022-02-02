@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Yearn & Synthetix DAO twitter space"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 800

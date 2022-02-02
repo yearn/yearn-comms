@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "क्या होगा अगर यर्न वेब का यील्ड फंक्शन हो तो ?"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 800

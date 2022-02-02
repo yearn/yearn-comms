@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "リスク、ツール、そして洞察"
-categories: [ Tweets ]
 image:
   src: ./cover.jpg
   width: 1500

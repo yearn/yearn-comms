@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Mercado em baixa, desenvolvimento em alta"
-categories: [ Tweets ]
 image:
   src: ./cover.jpeg
   width: 1000

@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "古いyearnガバナンスから請求"
-categories: [ Tweets ]
 image:
   src: ./cover.jpg
   width: 1783

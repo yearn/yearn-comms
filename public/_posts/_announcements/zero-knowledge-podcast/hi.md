@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "जीरो नॉलेज पॉडकास्ट"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 576

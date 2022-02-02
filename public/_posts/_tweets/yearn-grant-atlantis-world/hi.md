@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "अटलांटिस वर्ल्ड ग्रांट"
-categories: [ Tweets ]
 image:
   src: ./cover.jpg
   width: 1200

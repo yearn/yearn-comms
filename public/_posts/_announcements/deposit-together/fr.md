@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Présentation de Deposit Together: Faites des économies lors de vos dépôts dans un coffre"
 image:
   src: ./cover.jpg

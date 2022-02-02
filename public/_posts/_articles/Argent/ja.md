@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "ArgentのYearn V2で簡単に稼ごう"
-categories: [ Articles ]
 image:
   src: ./cover.jpeg
   width: 800

@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Bản tin Yearn.Finance Số #49"
-categories: [ Newsletters ]
 image:
   src: ./cover.jpeg
   width: 576

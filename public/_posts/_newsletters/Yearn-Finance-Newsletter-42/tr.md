@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Yearn Finance Haber Bülteni #42"
-categories: [ Newsletters ]
 image:
   src: ./cover.jpeg
   width: 576

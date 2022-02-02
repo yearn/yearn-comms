@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Proposal Fund Builder First Legal Activism DAO"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 800
@@ -9,7 +7,6 @@ image:
 author: LexPunk DAO
 date: '2021-08-03'
 translator:
-publish: false
 ---
 
 ![](/_posts/_announcements/legal-activism-DAO/1.jpg?w=800&h=450)

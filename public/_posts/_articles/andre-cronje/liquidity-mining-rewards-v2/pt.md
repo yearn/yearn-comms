@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Recompensas De Mineração de Liquidez v2"
-categories: [ Articles ]
 image:
   src: ./andre-hero.png
   width: 700

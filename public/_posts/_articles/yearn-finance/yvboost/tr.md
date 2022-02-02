@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "yvBOOST Kullanarak Pasif Verim elde etmek"
-categories: [ Articles ]
 image:
   src: ./cover.png
   width: 1050

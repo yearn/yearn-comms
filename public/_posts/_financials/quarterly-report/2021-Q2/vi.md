@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Báo cáo Tài chính Q2–2021 của Yearn Finance"
 date: '2020-12-14'
 image:

@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "The Blue Pill"
-categories: [ Articles ]
 image:
   src: ./cover.png
   width: 711

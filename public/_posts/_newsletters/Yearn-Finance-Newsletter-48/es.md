@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "Newsletter #48 de Yearn Finance"
-categories: [Newsletters]
 image:
   src: ./cover.jpeg
   width: 576

@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Lançamentos justos, colaboração descentralizada e Fixed Forex"
-categories: [ Articles ]
 image: ./Fair-launches-decentralized-collaboration-and-Fixed-Forex/andre-hero.png
 author: Andre
 translator: JKtranslator

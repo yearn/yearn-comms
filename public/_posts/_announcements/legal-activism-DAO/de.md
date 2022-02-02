@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Vorschlag Fonds-Ersteller Erste Legal Activism DAO"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 800

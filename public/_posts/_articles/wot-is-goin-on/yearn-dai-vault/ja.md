@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "YearnのDaiボールト —今やトップ20のDeFiプロトコルであることをご存知ですか？"
-categories: [ Articles ]
 image:
   src: ./cover.png
   width: 1280

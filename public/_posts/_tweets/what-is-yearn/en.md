@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "What is Yearn"
-categories: [ Tweets ]
 image: ./cover.jpg
 date: "2021-10-09"
 author: Wot_Is_Goin_On

@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "सामूहिक जमा"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 576

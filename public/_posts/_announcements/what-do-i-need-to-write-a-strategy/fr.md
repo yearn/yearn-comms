@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "De quoi avez-vous besoin pour rédiger une stratégie?"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 786

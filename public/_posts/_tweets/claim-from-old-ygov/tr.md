@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Eski yGov'dan talep"
-categories: [ Tweets ]
 image:
   src: ./cover.jpg
   width: 1783

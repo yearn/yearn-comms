@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "yvBOOST为您提供更多boost、复利和Mojito"
-categories: [ Articles ]
 image:
   src: ./cover.png
   width: 1050

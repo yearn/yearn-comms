@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Null Wissen Podcast"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 576

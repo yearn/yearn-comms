@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Kiếm tiền dễ dàng với Yearn V2 trong Argent"
-categories: [ Articles ]
 image:
   src: ./cover.jpeg
   width: 800

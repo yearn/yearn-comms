@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Blue Pill Release"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 644

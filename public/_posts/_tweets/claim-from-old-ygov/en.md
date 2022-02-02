@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Claim from old yGov"
-categories: [ Tweets ]
 image:
   src: ./cover.jpg
   width: 1783

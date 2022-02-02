@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "Why is Yearn Finance Built Different?"
-categories: [Tweets]
 image:
   src: ./cover.jpg
   width: 562

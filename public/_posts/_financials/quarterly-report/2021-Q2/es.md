@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Yearn Finance 2021 Q2 Quarterly Report"
 date: '2020-12-14'
 image:

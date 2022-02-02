@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Proposal Fund Builder First Legal Activism ~~DAO~~"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 800

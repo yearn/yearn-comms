@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Yearn Finance - Decentralised Asset Management"
-categories: [ Articles ]
 image:
   src: ./cover.jpg
   width: 1100

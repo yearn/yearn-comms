@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "The Blue Pill"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 487

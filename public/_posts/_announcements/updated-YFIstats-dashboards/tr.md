@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Güncel YFIStats Panoları"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 576

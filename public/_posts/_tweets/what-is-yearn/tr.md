@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Yearn Nedir?"
-categories: [ Tweets ]
 image:
   src: ./cover.jpg
   width: 1200

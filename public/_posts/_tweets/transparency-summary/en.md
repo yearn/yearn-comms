@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Transparency Summary"
-categories: [ Tweets ]
 image:
   src: ./cover.jpg
   width: 848

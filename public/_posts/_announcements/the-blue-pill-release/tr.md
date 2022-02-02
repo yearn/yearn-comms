@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Blue Pill Piyasaya Sürüldü"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 644

@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Was wäre, wenn Yearn = die Ertragsfunktion des Internets wäre?"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 800

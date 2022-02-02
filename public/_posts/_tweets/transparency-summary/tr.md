@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Şeffaflık Özeti"
-categories: [ Tweets ]
 image:
   src: ./cover.jpg
   width: 848

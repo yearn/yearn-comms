@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "yearn.finance UI कि अगली पुनरावृत्ति यहां है"
-categories: [ Articles ]
 image:
   src: ./cover.png
   width: 800

@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Yearn hakkında ne düşünüyoruz"
-categories: [ Articles ]
 image:
   src: ./cover.jpeg
   width: 690

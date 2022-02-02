@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Transparência em Foco"
-categories: [ Tweets ]
 image:
   src: ./cover.jpg
   width: 848

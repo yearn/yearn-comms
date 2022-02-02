@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Yearn Finance and Money Robots"
-categories: [ Articles ]
 image:
   src: ./cover.png
   width: 1281

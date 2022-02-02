@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "市场熊，发展牛"
-categories: [ Tweets ]
 image:
   src: ./cover.jpeg
   width: 1000

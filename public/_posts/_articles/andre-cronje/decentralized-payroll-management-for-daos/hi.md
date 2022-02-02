@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "DAO के लिए विकेन्द्रीकृत पेरोल प्रबंधन"
-categories: [ Articles ]
 image:
   src: ./andre-hero.png
   width: 700

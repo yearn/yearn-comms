@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "प्रपोजल फंड बिल्डर पहला कानूनी सक्रियतावाद डाओ"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 800

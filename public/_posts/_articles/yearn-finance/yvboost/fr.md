@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Plus de boosts, rendements composés et mojitos avec le yvBOOST"
-categories: [ Articles ]
 image:
   src: ./cover.png
   width: 1050

@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Token Terminal"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 812

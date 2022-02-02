@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Rendimento Fácil com V2 no Argent"
-categories: [ Articles ]
 image:
   src: ./cover.jpeg
   width: 800

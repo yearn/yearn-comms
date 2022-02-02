@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Anspruch aus der alten yGov"
-categories: [ Tweets ]
 image:
   src: ./cover.jpg
   width: 1783

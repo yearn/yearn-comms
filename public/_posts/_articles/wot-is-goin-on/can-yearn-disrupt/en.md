@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Can Yearn disrupt the $110 trillion asset management industry?"
-categories: [ Articles ]
 image:
   src: ./cover.png
   width: 1280

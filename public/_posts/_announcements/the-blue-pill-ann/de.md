@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Die blaue Pille"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 487

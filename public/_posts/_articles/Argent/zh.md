@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "使用Argent中的Yearn V2轻松赚取被动收入"
-categories: [ Articles ]
 image:
   src: ./cover.jpeg
   width: 800

@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "yvBOOSTを使ってより多くのブースト、複利、モヒートを！"
-categories: [ Articles ]
 image:
   src: ./cover.png
   width: 1050

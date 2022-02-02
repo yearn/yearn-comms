@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Yearn Finance和投资机器人"
-categories: [ Articles ]
 image:
   src: ./cover.png
   width: 1281

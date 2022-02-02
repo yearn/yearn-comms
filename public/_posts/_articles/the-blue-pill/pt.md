@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "A Pílula Azul"
-categories: [ Articles ]
 image:
   src: ./cover.jpg
   width: 742

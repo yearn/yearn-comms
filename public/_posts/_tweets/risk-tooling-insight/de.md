@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Risiko, Werkzeuge und Einblicke"
-categories: [ Tweets ]
 image:
   src: ./cover.jpg
   width: 1500

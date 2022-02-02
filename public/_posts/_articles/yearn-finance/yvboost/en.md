@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "More boosts, compounding, and mojitos for you with yvBOOST"
-categories: [ Articles ]
 image:
   src: ./cover.png
   width: 1050

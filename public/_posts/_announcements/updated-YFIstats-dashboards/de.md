@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "YFIStats Dashboards aktualisieren"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 576

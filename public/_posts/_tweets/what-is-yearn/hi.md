@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "यर्न क्या है"
-categories: [ Tweets ]
 image:
   src: ./cover.jpg
   width: 1200

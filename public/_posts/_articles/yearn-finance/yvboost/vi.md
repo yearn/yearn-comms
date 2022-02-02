@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Thêm hệ số kích, lãi kép và mô-hi-tô cho bạn với yvBOOST"
-categories: [ Articles ]
 image:
   src: ./cover.png
   width: 1050

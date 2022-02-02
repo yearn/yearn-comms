@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "हमारा यर्न के प्रति दृष्टिकोन"
-categories: [ Articles ]
 image:
   src: ./cover.jpeg
   width: 690

@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Por que as auditorias são ruins"
-categories: [ Articles ]
 image:
   src: ./andre-hero.png
   width: 700

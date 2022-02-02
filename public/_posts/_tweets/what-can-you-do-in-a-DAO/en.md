@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "What can you do in a DAO?"
-categories: [Tweets]
 image:
   src: ./cover.jpg
   width: 1200

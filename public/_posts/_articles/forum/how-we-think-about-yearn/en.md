@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "How we think about Yearn"
-categories: [ Articles ]
 image:
   src: ./cover.jpeg
   width: 690

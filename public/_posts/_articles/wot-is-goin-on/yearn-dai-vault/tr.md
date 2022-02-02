@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Yearn’s Dai Vault —did you know it’s now a top 20 DeFi protocol?"
-categories: [ Articles ]
 image:
   src: ./cover.png
   width: 1280

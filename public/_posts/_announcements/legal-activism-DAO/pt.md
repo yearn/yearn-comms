@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Proposta para Obtenção de Fundos do Primeiro DAO de Ativismo Legal"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 800

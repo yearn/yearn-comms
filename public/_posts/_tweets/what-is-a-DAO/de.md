@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Was ist eine DAO"
-categories: [ Tweets ]
 image:
   src: ./cover.jpg
   width: 292

@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Easily earn with Yearn V2 in Argent"
-categories: [ Articles ]
 image:
   src: ./cover.jpeg
   width: 800

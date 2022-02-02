@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Mais incentivos, juros compostos e mojitos para você com yvBOOST"
-categories: [ Articles ]
 image:
   src: ./cover.png
   width: 1050

@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Risk, Tooling, & Insight"
-categories: [ Tweets ]
 image:
   src: ./cover.jpg
   width: 1500

@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "YFIStats仪表板更新"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 576

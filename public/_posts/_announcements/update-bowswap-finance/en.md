@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Update Bowswap"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 680

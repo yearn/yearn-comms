@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Atlantis World 赠款"
-categories: [ Tweets ]
 image:
   src: ./cover.jpg
   width: 1200

@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Fair launches, decentralized collaboration, and Fixed Forex"
-categories: [ Articles ]
 image:
   src: ./andre-hero.png
   width: 700

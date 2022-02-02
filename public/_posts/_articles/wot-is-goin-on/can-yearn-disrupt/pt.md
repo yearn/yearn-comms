@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Pode Yearn ser disruptivo no setor de gerenciamento de ativos de US$ 110 trilhões?"
-categories: [ Articles ]
 image:
   src: ./cover.png
   width: 1280

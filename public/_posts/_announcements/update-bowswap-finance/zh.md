@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Bowswap更新"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 680

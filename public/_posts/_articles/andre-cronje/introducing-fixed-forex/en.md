@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Introducing Fixed Forex"
-categories: [ Articles ]
 image:
   src: ./andre-hero.png
   width: 700

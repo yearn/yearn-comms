@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Decentralized payroll management for DAOs"
-categories: [ Articles ]
 image:
   src: ./andre-hero.png
   width: 700

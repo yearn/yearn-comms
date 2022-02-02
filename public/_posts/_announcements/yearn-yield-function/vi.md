@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "What if Yearn = the web's yield function?"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 800

@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Gerenciamento descentralizado da folha de pagamento para DAOs"
-categories: [ Articles ]
 image:
   src: ./andre-hero.png
   width: 700

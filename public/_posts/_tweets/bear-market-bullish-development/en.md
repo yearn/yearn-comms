@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Bear market, bullish development"
-categories: [ Tweets ]
 image:
   src: ./cover.jpeg
   width: 1000

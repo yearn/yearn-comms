@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Faire Markteinführungen, dezentrale Zusammenarbeit und feste Devisen"
-categories: [ Articles ]
 image: ./Fair-launches-decentralized-collaboration-and-Fixed-Forex/andre-hero.png
 author: Andre
 translator: Nesyeth

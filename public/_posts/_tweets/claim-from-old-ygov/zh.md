@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "在旧的yGov中未被认领的资产"
-categories: [ Tweets ]
 image:
   src: ./cover.jpg
   width: 1783

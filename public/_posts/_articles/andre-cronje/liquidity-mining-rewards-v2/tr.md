@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Likidite sağlayıcı ödülleri v2"
-categories: [ Articles ]
 image:
   src: ./andre-hero.png
   width: 700

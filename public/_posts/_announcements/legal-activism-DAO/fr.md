@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Proposition de financement de la 1ere ~~DAO~~ d'activisme juridique"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 800

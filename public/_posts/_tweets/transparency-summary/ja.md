@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "透明性の概要"
-categories: [ Tweets ]
 image:
   src: ./cover.jpg
   width: 848

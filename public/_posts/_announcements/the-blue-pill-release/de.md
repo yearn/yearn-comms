@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Veröffentlichung der Blauen Pille"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 644

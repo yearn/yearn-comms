@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Réclamer vos récompenses provenant vieux yGov"
-categories: [ Tweets ]
 image:
   src: ./cover.jpg
   width: 1783

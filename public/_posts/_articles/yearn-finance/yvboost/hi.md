@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "yvBOOST के साथ आपके लिए अधिक बूस्ट, कंपाउंडिंग और मोहिटोस"
-categories: [ Articles ]
 image:
   src: ./cover.png
   width: 1050

@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Mehr Boosts, Compounding und Mojitos mit yvBOOST für dich"
-categories: [ Articles ]
 image:
   src: ./cover.png
   width: 1050

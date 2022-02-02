@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Argent aracılığıyla Yearn v2'de kolayca kazan"
-categories: [ Articles ]
 image:
   src: ./cover.jpeg
   width: 800

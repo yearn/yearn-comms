@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "透明度概要"
-categories: [ Tweets ]
 image:
   src: ./cover.jpg
   width: 848

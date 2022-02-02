@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Atlantis World Grant"
-categories: [ Tweets ]
 image:
   src: ./cover.jpg
   width: 1200

@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "わたしたちにとってのYearnとは"
-categories: [ Articles ]
 image:
   src: ./cover.jpeg
   width: 690

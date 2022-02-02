@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "I介绍固定外汇"
-categories: [ Articles ]
 image:
   src: ./andre-hero.png
   width: 700

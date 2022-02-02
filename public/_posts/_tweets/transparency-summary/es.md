@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Resumen de Transparencia"
-categories: [ Tweets ]
 image:
   src: ./cover.jpg
   width: 848

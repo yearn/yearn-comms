@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "O que preciso para escrever uma estratégia?"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 786

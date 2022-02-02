@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "O que você pode fazer com YFI?"
-categories: [ Articles ]
 image:
   src: ./cover.png
   width: 768

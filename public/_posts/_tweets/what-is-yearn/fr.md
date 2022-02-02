@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "What is Yearn"
-categories: [ Tweets ]
 image:
   src: ./cover.jpg
   width: 1200

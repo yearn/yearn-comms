@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Dezentralisierte Lohnabrechnung für DAOs"
-categories: [ Articles ]
 image:
   src: ./andre-hero.png
   width: 700

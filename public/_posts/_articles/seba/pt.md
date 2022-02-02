@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "Yearn Finance - Gestão de Ativos Descentralizada"
-categories: [ Articles ]
 image:
   src: ./cover.jpg
   width: 1100

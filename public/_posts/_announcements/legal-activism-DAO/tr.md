@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Öneri Fonu Oluşturucu İlk Yasal Aktivizm DAO"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 800

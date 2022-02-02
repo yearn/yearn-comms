@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Yearn Finance Newsletter 49号"
-categories: [ Newsletters ]
 image:
   src: ./cover.jpeg
   width: 576

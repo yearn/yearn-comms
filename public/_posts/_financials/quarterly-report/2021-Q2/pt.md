@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Yearn Finance Relatório Trimestral"
 date: '2020-12-14'
 image:

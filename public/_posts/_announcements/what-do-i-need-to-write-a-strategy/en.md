@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "What do I need to write a strategy?"
-categories: [ Annoucements ]
 image:
   src: ./cover.jpg
   width: 786

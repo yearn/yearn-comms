@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "公平发布、去中心化协作和固定外汇"
-categories: [ Articles ]
 image: ./Fair-launches-decentralized-collaboration-and-Fixed-Forex/andre-hero.png
 author: Andre
 translator: Xiaona

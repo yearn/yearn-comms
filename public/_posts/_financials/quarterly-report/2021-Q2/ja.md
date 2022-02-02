@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Yearn Finance 2021年第2期四半期報告書"
 date: '2020-12-14'
 image:

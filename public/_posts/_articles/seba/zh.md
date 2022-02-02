@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Yearn Finance - 去中心化资产管理"
-categories: [ Articles ]
 image:
   src: ./cover.jpg
   width: 1100

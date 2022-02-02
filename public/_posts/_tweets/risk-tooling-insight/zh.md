@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "风险, 工具, & 洞察力 "
-categories: [ Tweets ]
 image:
   src: ./cover.jpg
   width: 1500

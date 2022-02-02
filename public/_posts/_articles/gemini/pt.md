@@ -1,7 +1,5 @@
 ---
-layout: post
 title:  "Yearn Finance e Robôs de Dinheiro"
-categories: [ Articles ]
 image:
   src: ./cover.png
   width: 1281
