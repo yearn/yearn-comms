@@ -11,6 +11,7 @@ export const UIContextApp = ({children}) => {
 			if (lightModeMediaQuery.matches)
 				set_theme('light');
 		}
+	// eslint-disable-next-line react-hooks/exhaustive-deps
 	}, []);
 
 	useEffect(() => {
