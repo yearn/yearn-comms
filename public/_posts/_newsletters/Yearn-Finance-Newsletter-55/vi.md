@@ -9,7 +9,6 @@ image:
 author: Yearn
 date: '2022-01-26'
 translator: 🤖💵💵💰💰.eth
-translator: Cryptouf
 ---
 
 ### Tuần Kết thúc Ngày 23/01/2022
