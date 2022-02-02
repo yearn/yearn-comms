@@ -4,89 +4,93 @@ title: "Yearn Finance Newsletter #55"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-55/image1.png
 author: Yearn
-translator:
+translator: Flavio Restelli
 publish: true
 ---
 
 # Yearn Finance Newsletter #55
 
-### Week Ending January 23rd, 2021
+### Settimana del 24-28 febbraio 2022
 
 ![](image1.png)
 
-Welcome to the 55th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Benvenuti alla 55esima edizione della Newsletter di Yearn Finance. L’obbiettivo della newsletter è mantenere informata non solo la comunità Yearn, ma in generale tutti coloro che fanno parte dell’ecosistema crypto. Le notizie spaziano dai lanci di nuovi prodotti ai cambiamenti di governance, passando dagli aggiornamenti più recenti riscontrati nell'ecosistema. Se sei interessato a saperne di più su Yearn Finance, segui i nostri account ufficiali [Twitter] (https://twitter.com/iearnfinance) e [Medium] (https://medium.com/iearn)  .
 
-## Summary
 
-- State of the Fantom Vaults
-- Fantom Ecosystem Spotlight - Yearn
-- Yearn Web Updates
-- Yearn Finance Explained
-- Vaults at Yearn
-- Ecosystem News
+## Sommario
 
-# State of the Fantom Vaults
+- La TVL di Yearn su Fantom raggiunge il miliardo di dollari.
+- Aggiornamento riguardo i Vaults su Fantom
+- Yearn e Fantom : sotto i riflettori
+- Aggiornamenti Yearn Web 
+- Introduzione a Yearn Finance per aspiranti strateghi
+- I Vault di Yearn
+- Notizie dall’ecosistema
 
-![](image2.png)
 
-With the rise of Andre Cronje & Daniele Sesta's new project Solidly ve(3,3), vampire attacks have come to Fantom in order to qualify for the Solidly airdrop to the Top 20 projects by TVL on Fantom.
+# La TVL di Yearn su Fantom raggiunge il miliardo di dollari. 
+[](image2.png)
+Siamo entusiasti di annunciare che il valore totale bloccato (TVL) in tutti i prodotti Yearn su Fantom ha superato il miliardo di dollari. La TVL nei prodotti Yearn più recenti ha visto una crescita esplosiva negli ultimi tempi e non mostra segni di rallentamento!
 
-To take advantage of this, you can tuck your holdings into a comfy [yearn.finance](https://yearn.finance/#/home) vault. Yearn fetches the best yield across 0xDAO, veDAO, Scream, Curve, Beets, Tarot, and beyond. Our Fantom Vaults have strategies for all of them, automatically rotate to the most profitable one and realize profits every 30 minutes so you won't be left holding the bag. We'll be by your side long after the vampwars become another page in a history manga.
+# Aggiornamento riguardo i Vaults su Fantom.
+Con l'ascesa del nuovo progetto Solidly ve(3,3) di Andre Cronje & Daniele Sestagalli, gli attacchi “vampireschi” (vampire attacks) sono arrivati anche su Fantom : gli utenti tentano in ogni modo di diventare eligibili all’airdrop di Solidly, utilizzando i Top 20 progetti per TVL su Fantom.
 
-What's your move? Start depositing today at [yearn.finance/vaults](https://yearn.finance/vaults).
+Yearn ha “approfittato” di questi attacchi e ha permesso agli investitori di guadagnare i più ali tassi annuali (risk-adjusted) sui loro token. Abbiamo ottenuto il miglior rendimento su 0xDAO, veDAO, Scream, Curve, Beets, Tarot ecc. I nostri Fantom Vault hanno strategie per tutti questi token, variano automaticamente in funzione del più redditizio e realizzano profitti ogni 30 minuti in modo da non lasciarti mai a secco. Nonostante la campagna di attacco dei vampiri sia terminata da poco, saremo su Fantom al tuo fianco per molto tempo quando che i vampiri saranno diventati un'altra pagina di un manga di storia.
 
-# Fantom Ecosystem Spotlight - Yearn
+Qual è la tua prossima mossa? Inizia a depositare capitale oggi stesso su [yearn.finance/vaults](https://yearn.finance/vaults).
+
+# Yearn e Fantom : sotto i riflettori
 
 ![](image3.png)
 
-Yearn contributor Tracheopteryx gives a brief overview of Yearn and our mission, with our focus being on everyday users, partners, and builders.
+Il collaboratore Tracheopteryx ci regala una breve panoramica di Yearn e della nostra missione, la nostra attenzione sugli utenti assidui, i partner e i builders. 
 
-The core products of Yearn are the Vaults, the Iron Bank, Labs, and the YFI/WOOFY tokens. YFI’s origins are further explored, and Tracheopteryx explains why Fantom is the first sidechain that Yearn has chosen to build on.
+I prodotti principali di Yearn sono i Vault, l'Iron Bank, i Labs e i token YFI/WOOFY. Le origini di YFI sono ulteriormente esplorate, e Tracheopteryx spiega perché Fantom è la prima sidechain su cui Yearn ha scelto di lanciarsi.
 
-The interview ends off by mentioning upcoming upgrades to the YFI token, such as buybacks being given to holders, xYFI, veYFI, and vault gauges.
+L'intervista termina menzionando i prossimi aggiornamenti sul token YFI : i buyback che spetteranno ai possessori di tokens, xYFI, veYFI, e i vault gauges.
 
-Check out the new full article [here](https://fantom.foundation/blog/fantom-ecosystem-spotlight-yearn/?__cf_chl_rt_tk=rdrT2KHoFbjTe1yyUOmIDA92AeTmrMPKtQW5yT18mwk-1643234302-0-gaNycGzNCH0).
+Leggi il nuovo articolo completo  [qui](https://fantom.foundation/blog/fantom-ecosystem-spotlight-yearn/?__cf_chl_rt_tk=rdrT2KHoFbjTe1yyUOmIDA92AeTmrMPKtQW5yT18mwk-1643234302-0-gaNycGzNCH0).
 
-# Yearn Web Updates
+# Aggiornamenti Yearn Web 
 
 ![](image4.png)
 
-This week's Yearn web update includes an APY hover tooltips added to UI and a Dust fix for vault withdrawals
+Gli aggiornamenti web di Yearn di questa settimana includono un APY hover tooltips aggiunto all'UI e una correzione della Dust per i prelievi dai vaults.
 
-Coming soon are security improvements, with a detailed write-up, improved multi-chain UI/UX, and support for a new chain.
+Prossimamente ci saranno miglioramenti alla sicurezza, con un write-up dettagliato, una UI/UX multi-chain di livello superiore e un progetto su una nuova L1.
 
-Check out the full new update [here](https://yearnweb.substack.com/p/yearn-web-engineering-update-7d7?r=2y79e&utm_campaign=post&utm_medium=web).
+Leggi i dettagli riguardo gli aggiornamenti [qui](https://yearnweb.substack.com/p/yearn-web-engineering-update-7d7?r=2y79e&utm_campaign=post&utm_medium=web).
 
-# Yearn Finance Explained
+# Introduzione a Yearn Finance per aspiranti strateghi
 
 ![](image5.png)
 
-Yearn vaults are yielding IOU tokens built by strategists who undertake a difficult vetting process to ensure that Yearn users are receiving the best risk-adjusted yield in the crypto ecosystem.
+I vaults di Yearn sono gettoni IOU creati da strateghi che intraprendono un difficile processo di controllo per assicurare che gli utenti di Yearn ricevano il miglior rendimento (risk-adjusted) nell'ecosistema delle criptovalute.
 
-One previously used strategy at Yearn can be seen in the v1 Ethereum yVault: When a user deposits ETH the ETH is then lent at MakerDAO as collateral, which is used to borrow DAI that is then deposited into the DAI yVault.
+Una strategia precedentemente utilizzata da Yearn può essere vista nel v1 Ethereum yVault: Quando un utente deposita ETH, l'ETH viene poi prestato a MakerDAO come garanzia, che viene utilizzata per prendere in prestito DAI che viene poi depositato nel DAI yVault.
 
-Some common questions users may have are “How/when does Yearn move the funds inside the vault and charge fees?” and “How does Yearn guarantee a strategy to always generate tokens instead of losing them?”. One of the key functions of a strategy is called “harvest”. When called, it triggers a rebalancing process where profit is realized and reinvested back into the strategy. Strategists also use a number of tools to monitor on-chain data to ensure strategy health. One of those tools is Yearn Watch, which presents a nice UI with many of key metrics live on the blockchain.
+Alcune domande comuni che gli utenti ci fanno sono "Come e quando Yearn sposta i fondi all'interno del vault e fa pagare le commissioni?" e "Come fa Yearn a garantire una strategia per generare sempre nuovi token invece di perderli?". Una delle funzioni chiave di una strategia si chiama "harvest". Quando viene attivata, essa innesca un processo di riequilibrio in cui il profitto viene “realizzato” e reinvestito nuovamente nella strategia. Gli strateghi usano anche una serie di strumenti per monitorare i dati della catena per assicurare la salute della strategia. Uno di questi strumenti è Yearn Watch, che presenta una raffinata interfaccia utente con molte delle metriche chiave estratte live dalla blockchain.
 
-Yearn and Keep3r additionally have a strong synergy in automating the tasks needed for vaults to maintain their performance. In order to build strategies, you will need a good understanding of Vyper (for yVaults) and Solidity (for strategies). The basic requirements to become a strategist are: knowledge about the blockchain ecosystem you’ll deploy in, which can be acquired by doing in-depth research of tokenomics and documentation for all tokens used in the strategy itself, Solidity programming knowledge similar to completing Level 4 on CryptoZombies, and knowing how to get around git, eth-brownie, and ganache.
+Yearn e Keep3r inoltre, fortemente sinergici, assicurano che i vaults mantengano sempre le loro prestazioni. Per costruire strategie, avrete bisogno di una buona comprensione di Vyper (per yVaults) e Solidity (per le strategie). I requisiti di base per diventare uno stratega sono: conoscenza dell'ecosistema blockchain in cui verrà offerta la strategia, che può essere acquisita facendo una ricerca approfondita di tokenomics e della documentazione per tutti i token utilizzati nella strategia stessa ; conoscenza del linguaggio di programmazione Solidity simile al completamento del livello 4 su CryptoZombies ; sapere come muoversi su git, eth-brownie, e ganache.
 
-After understanding the basics of the above tools you are ready to copy our strategy template! The functions you should start changing in this template in order to build with your own first strategy are prepareReturn, adjustPosition, and liquidatePositon. You can find the strategy template [here](https://github.com/yearn/brownie-strategy-mix).
+Dopo aver compreso le basi degli strumenti di cui sopra, siete pronti a copiare il nostro modello di strategia! Le funzioni che dovreste iniziare a cambiare in questo template per costruire la vostra prima strategia sono prepareReturn, adjustPosition, e liquidatePositon. Potete trovare un modello di strategia [qui](https://github.com/yearn/brownie-strategy-mix).
 
-Thank you to MarcoWorms for the writeup which can be found [here](https://medium.com/iearn/yearn-finance-explained-what-are-vaults-and-strategies-96970560432).
+Un sentito grazie a MarcoWorms per questo articolo da ritrovare in versione estesa [qui](https://medium.com/iearn/yearn-finance-explained-what-are-vaults-and-strategies-96970560432).
 
-# Vaults at Yearn
+# I Vaults di Yearn
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Per una descrizione dettagliata delle strategie su tutti i nostri yVaults attivi, leggi [qui](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-# Ecosystem News
+# Notizie dall'ecosistema
 
-[Deposit directly into Yearn vaults with the Ambire Wallet’s new integration](https://twitter.com/AmbireWallet/status/1483087593285820416)
+[Deposita capitale direttament nei vaults di Yearn grazie alla nuova integrazione dell’Ambire Wallet.](https://twitter.com/AmbireWallet/status/1483087593285820416)
 
-[Use Yearn vaults on Shapeshift DAO](https://twitter.com/ShapeShift_io/status/1484599573289086984)
+[Usa i Vaults di Yearn sulla DAO Shapeshift.](https://twitter.com/ShapeShift_io/status/1484599573289086984)
 
-[New updates on Tesseract Finance’s collaboration with VESQ](https://twitter.com/tesseract_fi/status/1483484524143128578)
+[Aggiornamenti sulla collaborazione fra Tesseract Finance e VESQ.](https://twitter.com/tesseract_fi/status/1483484524143128578)
 
-[Yearn has become the number 1 aggregator by TVL on Fantom](https://twitter.com/vannny365/status/1484385291947368448)
+[Yearn è diventato il primo aggregatore su Fantom per TVL.](https://twitter.com/vannny365/status/1484385291947368448)
 
-[Check out ApeFramework made with the help of Yearn contributors](https://twitter.com/ApeFramework)
+[ApeFramework realizzato con l’aiuto dei contributori Yearn.](https://twitter.com/ApeFramework)
 
-[Read this short overview of Yearn and its metrics](https://twitter.com/fuuurma/status/1484503576076599298)
+[Uno sguardo su Yearn e le principali statistiche.](https://twitter.com/fuuurma/status/1484503576076599298)
