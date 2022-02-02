@@ -69,7 +69,13 @@ button:disabled {@apply cursor-not-allowed}
 .button-large {@apply w-55 px-2 py-2 rounded-sm text-base text-center transition-colors}
 
 /* Color style of buttons */
-.button-light {@apply text-yearn-blue bg-yearn-blue-light-2 hover:bg-yearn-blue-light-1}
+.button-light {
+	@apply
+	text-yearn-blue dark:text-white
+	bg-yearn-blue-light-2 dark:bg-gray-2
+	hover:bg-yearn-blue-light-1 dark:hover:bg-black
+	transition-colors 
+}
 
 .button-filled {@apply font-bold text-white bg-yearn-blue hover:bg-yearn-blue-dark}
 .button-filled:disabled {@apply bg-white-blue-1 text-gray-blue-3 hover:bg-white-blue-1}
