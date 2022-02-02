@@ -1,11 +1,12 @@
 # How new Yearn Vault strategies are endorsed?
 
-![](image1.png)Strategy Vetting Process
-
+![](image1.png)_Strategy Vetting Process_
+</br></br>
 In the last article about [Yearn Vaults and Strategies](https://medium.com/iearn/yearn-finance-explained-what-are-vaults-and-strategies-96970560432) we have briefly outlined the **Strategy Vetting Process**. We’ll now dive deeper into how anyone can propose a new strategy to Yearn and what steps are taken in order to ensure that endorsed strategies are resilient.
 
-![](image2.png)Quick recap: a Strategy is a contract that will invest and harvest profits using yVault’s funds.
-
+![](image2.png)
+_Quick recap: a Strategy is a contract that will invest and harvest profits using yVault’s funds._
+</br></br>
 
 Before submitting a strategy to be endorsed by Yearn the strategist should write a Due Diligence document about it: [SNX](https://hackmd.io/0w1RZh7DSc27A9EyzlHbJQ?view) and [Vesper](https://hackmd.io/@Ap_76vwNTg-vxJxbiaLMMQ/SkXEzic7O) are good templates to follow. The Due Diligence document is important because it describes all specifications of the processes that a strategy uses and reviews smart-contract common security practices. Yearn will use this document to validate processes and assess risks of what was built!
 Some of the things the doc should outline are:
@@ -17,8 +18,9 @@ Some of the things the doc should outline are:
 
 The strategist can code a strategy using the [“brownie-strategy-mix” template repository](https://github.com/yearn/brownie-strategy-mix). When the strategy is completed and reviewed by 2 peers it should be deployed on ape.tax which is a website that allows experimental vaults to be tested in a production environment.
 
-![](image3.png)ape.tax vaults warning!
-
+![](image3.png)</br>
+_ape.tax vaults warning!_
+</br></br>
 
 With the document done and after some harvest cycles are completed successfully with no issues, the strategist can now [reach for Yearn contributors](https://docs.yearn.finance/developers/v2/DEPLOYMENT#deploying-a-new-strategy) to get the strategy approved by the [Safe Farming Committee](https://gov.yearn.finance/t/introducing-yearn-safe-farming-committee/10533). A complete security review will be done by internal Yearn reviewers.
 After every feedback is addressed and code is approved, the strategy can be promoted to production either by redeploying and attaching to an existing vault or by endorsing the ape tax vault.
