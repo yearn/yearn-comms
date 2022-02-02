@@ -1,5 +1,7 @@
 ---
+layout: post
 title: "Yearn Finance Newsletter #53"
+categories: [Newsletters]
 image:
   src: ./cover.jpeg
   width: 576
