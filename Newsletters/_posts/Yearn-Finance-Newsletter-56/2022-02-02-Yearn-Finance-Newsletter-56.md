@@ -70,7 +70,7 @@ Découvrez l'audit complet [ici](https://chainsecurity.com/security-audit/yearn-
 
 # Yearn présenté dans le rapport ARK Invest Big Ideas
 
-!![](image4.png)
+![](image5.png)
 
 Dans ce rapport, Yearn est noté comme une excellante entreprise pour son innovation perturbatrice et capable de créer un nouveau protocole qui peut remplacer les technologies plus anciennes. Nous sommes comparé avec BlackRock, le gestionnaire d'actifs de plusieurs billions de dollars. Yearn générant près de 15 millions de dollars de revenus par employé et BlackRock générant près de 10 fois moins par employé.
 
