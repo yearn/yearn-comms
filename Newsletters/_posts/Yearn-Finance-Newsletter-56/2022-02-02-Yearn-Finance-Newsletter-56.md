@@ -5,7 +5,7 @@ categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-56/image1.png
 author: Yearn
 translator:
-publish: true
+publish: false
 ---
 
 # Yearn Finance Newsletter #56
