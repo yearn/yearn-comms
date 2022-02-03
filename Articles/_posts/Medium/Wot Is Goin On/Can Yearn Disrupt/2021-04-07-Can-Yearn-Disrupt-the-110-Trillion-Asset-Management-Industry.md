@@ -4,366 +4,366 @@ title:  "Can Yearn disrupt the $110 trillion asset management industry?"
 categories: [ Articles ]
 image: ./Can-Yearn-Disrupt-the-110-Trillion-Asset-Management-Industry/img-Wot_Is_Goin_On.png
 author: Wot_Is_Goin_On
-translator:
+translator: RestlessMik3
 publish: false
 ---
 
-# Can Yearn disrupt the $110 trillion asset management industry?
+# ¿Puede Yearn revolucionar la industria de gestión de activos de más de 110 billones $?
 
-**Summary**
+**Resumen**
 
-1.  The asset management industry has [$110 trillion](https://www.pwc.com/gx/en/industries/financial-services/assets/wealth-management-2-0-data-tool/pwc_awm_revolution_2020.pdf) assets under management (AUM).
-2.  Yearn is not directly comparable to an asset manager in traditional finance but a comparison with Blackrock is helpful for understanding where its revenues come from and its early setbacks.
-3.  There are over $300 billion of tokenized assets on Ethereum which are growing rapidly.
-4.  Yearn is leading the innovation in risk-adjusted yields putting it in pole position to benefit from the rise of assets on Ethereum. This will likely lead to Yearn’s AUM increasing significantly over time.
-5.  Being a DeFi protocol gives Yearn advantages unavailable to other crypto asset managers, such as Grayscale and Celsius. In particular, its permissionless nature allows integration with other protocols, such as the recent one with Alchemix.
+1. La industria de gestión de activos tiene [$ 110 billones](https://www.pwc.com/gx/en/industries/financial-services/assets/wealth-management-2-0-data-tool/pwc_awm_revolution_2020.pdf) activos bajo gestión (AUM).
+2. Yearn no es directamente comparable con un administrador de activos en las finanzas tradicionales, pero una comparación con Blackrock es útil para comprender de dónde provienen sus ingresos y sus primeros reveses.
+3. Hay más de $ 300 mil millones en activos tokenizados en Ethereum que están creciendo rápidamente.
+4. Yearn lidera la innovación en rendimientos ajustados al riesgo, colocándolo en la primera posición para beneficiarse del aumento de activos en Ethereum. Es probable que esto lleve a que el AUM de Yearn aumente significativamente con el tiempo.
+5. Ser un protocolo DeFi le da a Yearn ventajas que no están disponibles para otros administradores de criptoactivos, como Grayscale y Celsius. En particular, su naturaleza sin permisos permite la integración con otros protocolos, como el reciente con Alchemix.
 
-**Introduction**
+**Introducción**
 
-DeFi has been growing explosively for 3.5 years, according to [DeFiPulse](https://defipulse.com/) from less than $2m Total Value Locked (TVL) in Q3 2017 to $44.6bn in Q1 2021. [Defillama](https://defillama.com/home) has Ethereum’s Q1 2021 TVL at $68.5bn. Uniswap’s trading volume exceeded Coinbase’s for the month of [September 2020](https://www.theblockcrypto.com/linked/79775/uniswap-coinbase-monthly-volume-september). The question is no longer whether DeFi will disrupt traditional finance, but which DeFi protocols will be the disrupters?
+DeFi ha estado creciendo de forma explosiva durante 3,5 años, según [DeFiPulse](https://defipulse.com/) de menos de 2 millones de dólares de valor total bloqueado (TVL) en el tercer trimestre de 2017 a 44.600 millones de dólares en el primer trimestre de 2021. [Defillama](https ://defillama.com/home) tiene el TVL del primer trimestre de 2021 de Ethereum en 68.500 millones de dólares. El volumen de transacciones de Uniswap superó el de Coinbase durante el mes de [septiembre de 2020](https://www.theblockcrypto.com/linked/79775/uniswap-coinbase-monthly-volume-september). La pregunta ya no es si DeFi interrumpirá las finanzas tradicionales, sino qué protocolos DeFi serán los disruptores.
 
-![](image1.png)Growth in DeFi TVL has been explosive for 3.5 years¹
+![](image1.png)El crecimiento de DeFi TVL ha sido explosivo durante 3,5 años¹
 
-Yearn is an asset management protocol on Ethereum. At Q1 2021 it managed $1.8bn of Ether, stablecoins and DeFi tokens. But that was last week, it’s now [$2.5bn](https://yearn.science/).
+Yearn es un protocolo de gestión de activos en Ethereum. En el primer trimestre de 2021, administró USD 1800 millones en Ether, monedas estables y tokens DeFi. Pero eso fue la semana pasada, ahora son [2500 millones de dólares](https://yearn.science/).
 
-Yearn allows you to deposit your crypto into a “vault” which automatically uses DeFi protocols to earn a yield. The strategies deployed range in complexity from simply depositing your crypto onto a lending protocol, to taking a loan against your crypto and investing the loan in another strategy or taking an uncollateralized loan from another protocol to leverage returns. The recent launch of v2 vaults goes one step further and means your crypto can earn a yield from multiple strategies in the same vault.
+Yearn te permite depositar tus criptos en una "vault" que utiliza automáticamente los protocolos DeFi para obtener un rendimiento. Las estrategias implementadas varían en complejidad, desde simplemente depositar tus criptos en un protocolo de préstamo, hasta tomar un préstamo contra tus criptos e invertir el préstamo en otra estrategia o tomar un préstamo sin garantía de otro protocolo para aprovechar los rendimientos. El reciente lanzamiento de las vults v2 va un paso más allá y significa que tus criptos pueden obtener un rendimiento de múltiples estrategias en la misma vault.
 
-1.  **The asset management industry**
+1. **La industria de gestión de activos**
 
-In traditional finance assets gravitate towards a few well known asset managers. Whilst the industry is by no means winner-takes-all, it is highly concentrated.
+En las finanzas tradicionales, los activos gravitan hacia unos pocos administradores de activos conocidos. Si bien la industria no es de ninguna manera donde el ganador se lo lleva todo, está altamente concentrada.
 
-![](image2.png)The asset management industry is measured in $trillions AUM and highly concentrated ([June 30th 2020 data](https://www.advratings.com/top-asset-management-firms))
+![](image2.png)La industria de gestión de activos se mide en billones de dólares en AUM y está altamente concentrada ([datos del 30 de junio de 2020](https://www.advratings.com/top-asset-management-firms))
 
-Yearn does not have a direct comparable in traditional asset management. It’s not a bank, but it earns yields from lending. It’s not a hedge fund, but it carries out active strategies.
+Yearn no tiene un comparable directo en la gestión de activos tradicional. No es un banco, pero obtiene rendimientos de los préstamos. No es un hedge fund, pero lleva a cabo estrategias activas.
 
-**2\. Similarities to Blackrock**
+**2\. Similitudes con Blackrock**
 
-**Revenue sources**
+**Fuentes de ingresos**
 
-74% of Blackrock’s Q3 2020 revenue came from investment advisory, fees and securities lending. Yearn’s revenues can be categorized in a similar way.
+El 74% de los ingresos del tercer trimestre de 2020 de Blackrock provinieron de asesoría de inversiones, tarifas y préstamo de valores. Los ingresos de Yearn se pueden categorizar de manera similar.
 
 ![](image3.png)
 
-Similar sources of revenue. Different technologies.
+Fuentes de ingresos similares. Diferentes tecnologías.
 
-One standout feature of how Yearn is structured is the outsourcing of strategies. Incentivizing strategists is what differentiates Yearn, a scalable asset management platform, from one team, or initially one person, trying to keep up with all the innovations in DeFi.
+Una característica destacada de cómo se estructura Yearn es la subcontratación de estrategias. Incentivar a los estrategas es lo que diferencia a Yearn, una plataforma de gestión de activos escalable, de un equipo, o inicialmente de una persona, que intenta mantenerse al día con todas las innovaciones en DeFi.
 
-**Early setbacks**
+**Primeros contratiempos**
 
-It would be remiss of me to compare Yearn to the largest global asset manager without acknowledging two recent setbacks:
+Sería negligente de mi parte comparar a Yearn con el administrador de activos global más grande sin reconocer dos reveses recientes:
 
-- Issues around how to incentivize contributors led to [debate within the community](https://gov.yearn.finance/t/yip-57-funding-yearns-future/9319) and resulted in the minting of 6,666 YFI (over $200m)
-- Yearn suffered an [$11m exploit](https://www.coindesk.com/yearn-finance-dai-vault-exploit)— [depositors have since been made whole](https://cointelegraph.com/news/after-yearn-exploit-attacker-funds-frozen-and-reimbursement-plans-developing)
+- Problemas sobre cómo incentivar a los contribuyentes generaron [debate dentro de la comunidad](https://gov.yearn.finance/t/yip-57-funding-yearns-future/9319) y dieron como resultado la creación de 6666 YFI (más de $ 200 millones)
+- Yearn sufrió un [exploit de $ 11 millones](https://www.coindesk.com/yearn-finance-dai-vault-exploit)— [desde entonces, los depositantes han sido reparados](https://cointelegraph.com/news/after-yearn-exploit-attacker-funds-frozen-and-reimbursement-plans-developing)
 
-Coincidentally, Larry Fink (CEO of Blackrock) experienced similar early setbacks:
+Coincidentemente, Larry Fink (CEO de Blackrock) experimentó contratiempos tempranos similares:
 
-- In 1994, Fink and his co-founder had an internal dispute over methods of compensation and equity
-- Before Blackrock he lost $100m at Boston First due to poor risk management practices
+- En 1994, Fink y su cofundador tuvieron una disputa interna sobre métodos de compensación y equidad.
+- Antes de Blackrock, perdió 100 millones de dólares en Boston First debido a malas prácticas de gestión de riesgos.
 
-Two takeaways:
+Dos conclusiones:
 
-- Incentivizing people is difficult and usually requires compensation. This is true for most organizations, be they companies or protocols.
-- Risk management is hard. Losses due to poor risk management practices are not unique to DeFi on Ethereum, or because of the particular programming language used.
+- Incentivar a las personas es difícil y generalmente requiere una compensación. Esto es cierto para la mayoría de las organizaciones, ya sean empresas o protocolos.
+- La gestión de riesgos es difícil. Las pérdidas debidas a prácticas deficientes de gestión de riesgos no son exclusivas de DeFi en Ethereum, o debido al lenguaje de programación particular utilizado.
 
-**The power of DeFi**
+**El poder de DeFi**
 
-How Yearn was able to deal with these issues demonstrates the benefits of DeFi on Ethereum:
+La forma en que Yearn pudo lidiar con estos problemas demuestra los beneficios de DeFi en Ethereum:
 
-- how cheap it is — more than $200m capital raised for $33
-- transparency — anyone can view the [transaction](https://etherscan.io/tx/0x21a3007a2547a9d6f1bceb44cb9292b36079fcccd8f36f7ec1ca066db261e153) shown below on Etherscan
-- no middleman — no need for Goldman Sachs or Morgan Stanley
+- lo barato que es: más de $ 200 millones de capital recaudado por $ 33
+- transparencia: cualquiera puede ver la [transacción](https://etherscan.io/tx/0x21a3007a2547a9d6f1bceb44cb9292b36079fcccd8f36f7ec1ca066db261e153) que se muestra a continuación en Etherscan
+- sin intermediarios, sin necesidad de Goldman Sachs o Morgan Stanley
 
 ![](image4.png)
 
-A $200m+ capital raise on Ethereum is extremely cheap
+Un aumento de capital de más de $ 200 millones en Ethereum es extremadamente barato
 
-While fans of “Ethereum killers” talk up what is possible in the future, huge transactions are already happening on Ethereum to solve real-world problems — in this case incentivizing contributors to grow the protocol.
+Mientras que los fanáticos de los "asesinos de Ethereum" hablan de lo que es posible en el futuro, ya se están realizando grandes transacciones en Ethereum para resolver problemas del mundo real, en este caso, incentivando a los contribuyentes a hacer crecer el protocolo.
 
-Following the Dai vault exploit, Yearn chose to reimburse those who lost funds — despite not being contractually obliged to do so. The funds for reimbursement could have come from selling the newly minted YFI for Dai or by taking out a collateralized loan. Yearn decided on the latter, and again the [transaction](https://etherscan.io/tx/0xdd102623987cfb7a401d4880d0524478a795fb269c380c876bb9990dd69c2f0d) demonstrates the advantages of Ethereum:
+Tras el exploit de la bóveda de Dai, Yearn optó por reembolsar a quienes perdieron fondos, a pesar de no estar obligado por contrato a hacerlo. Los fondos para el reembolso podrían provenir de la venta del YFI recién acuñado por Dai o de la obtención de un préstamo garantizado. Yearn se decidió por lo último, y nuevamente la [transacción](https://etherscan.io/tx/0xdd102623987cfb7a401d4880d0524478a795fb269c380c876bb9990dd69c2f0d) demuestra las ventajas de Ethereum:
 
-- $155 to take out a $9.7m collateralized loan
-- No paperwork
-- No humans required — just a purple rabbit
+- $155 para obtener un préstamo garantizado de $9,7 millones
+- Sin papeleo
+- No se requieren humanos, solo un conejo púrpura.
 
 ![](image5.png)
 
-Taking a $9.7m collateralized loan on Ethereum is extremely cheap
+Tomar un préstamo garantizado de $ 9.7 millones en Ethereum es extremadamente barato
 
-Comparing an asset management protocol on Ethereum to the largest global asset manager could be considered premature. After all, Yearn is restricted to the assets on Ethereum whereas Blackrock is not. So let’s analyse the assets on Ethereum.
+Comparar un protocolo de gestión de activos en Ethereum con el administrador de activos global más grande podría considerarse prematuro. Después de todo, Yearn está restringido a los activos de Ethereum, mientras que Blackrock no lo está. Así que analicemos los activos en Ethereum.
 
-**3\. The rise of assets on Ethereum**
+**3\. El auge de los activos en Ethereum**
 
 **Ether ($200bn+)**
 
-Ether is by far the largest asset on Ethereum and recently became a [top 50 global asset](https://companiesmarketcap.com/) by market capitalization.
+Ether es, con mucho, el mayor activo de Ethereum y recientemente se convirtió en uno de los [50 principales activos globales](https://companiesmarketcap.com/) por capitalización de mercado.
 
-![](image6.png)A $200bn+ market cap makes Ether a top 50 global asset
+![](image6.png)Una capitalización de mercado superior a los 200.000 millones de dólares convierte a Ether en uno de los 50 principales activos mundiales
 
-**What can you do with ETH and how does Yearn fit in?**
+**¿Qué puedes hacer con ETH y cómo encaja Yearn?**
 
-In 2017/18 you could send ETH to a friendly team who had written an excellent whitepaper. If you were lucky, that team was led by Sergey Nazarov (Chainlink), Stani Kulechov (Aave) or Kain Warwick (Synthetix). Most investors weren’t so lucky as many teams did not deliver beyond the whitepaper.
+En 2017/18, podría enviar ETH a un equipo amistoso que había escrito un excelente documento técnico. Si tenía suerte, ese equipo estaba dirigido por Sergey Nazarov (Chainlink), Stani Kulechov (Aave) o Kain Warwick (Synthetix). La mayoría de los inversores no tuvieron tanta suerte ya que muchos equipos no cumplieron más allá del documento técnico.
 
-Now it’s 2021, things have moved on. You have the following options for your ETH each with its own risk-reward profile:
+Ahora es 2021, las cosas han avanzado. Tiene las siguientes opciones para su ETH, cada una con su propio perfil de riesgo-recompensa:
 
-- Hold it in cold storage or a hot wallet if you consider the price volatility of ETH risky enough without taking on additional risks to earn a yield
-- Hold Grayscale’s Ethereum Trust which gives you ETH price exposure in a tax advantaged account, but charges a fee
-- Hold it on a centralized exchange ready to trade it
-- Deposit it in the ETH 2.0 [staking contract](https://etherscan.io/address/0x00000000219ab540356cbb839cbe05303d7705fa) and operate an ETH 2.0 validator to earn yield
-- Deposit it on a lending protocol, such as Aave, Compound Finance or dydx to earn an interest from collateralized lending (and flashloan fees)
-- Use it to open a Collateralized Debt Position on [MakerDao](https://oasis.app/borrow), and use the Dai to earn a yield or to trade
-- Deposit it on Curve Finance to earn trading fees and rewards from the [ETH:sETH pool](https://curve.fi/pools)
-- Deposit it in Curve Finance’s [steth pool](https://curve.fi/pools) and then deposit the liquidity provider (LP) token in Yearn’s [crvSTETH vault](https://yearn.finance/vaults/0xdCD90C7f6324cfa40d7169ef80b12031770B4325) to earn a yield (made up of LDO and CRV rewards)
-- Combine it with your favourite ERC-20 to earn trading fees (and liquidity mining rewards) on Uniswap or Sushiswap
+- Guárdelo en un almacenamiento en frío o en una billetera caliente si considera que la volatilidad del precio de ETH es lo suficientemente arriesgada sin asumir riesgos adicionales para obtener un rendimiento
+- Mantenga el Ethereum Trust de Grayscale, que le brinda exposición al precio de ETH en una cuenta con ventajas fiscales, pero cobra una tarifa
+- Guárdelo en un intercambio centralizado listo para intercambiarlo
+- Deposítelo en ETH 2.0 [contrato de participación](https://etherscan.io/address/0x00000000219ab540356cbb839cbe05303d7705fa) y opere un validador ETH 2.0 para obtener rendimiento
+- Deposítelo en un protocolo de préstamo, como Aave, Compound Finance o dydx para ganar un interés de préstamos garantizados (y tarifas de préstamo rápido)
+- Úselo para abrir una posición de deuda garantizada en [MakerDao](https://oasis.app/borrow), y use el Dai para obtener un rendimiento o para negociar
+- Deposítelo en Curve Finance para ganar tarifas comerciales y recompensas del [grupo ETH: sETH](https://curve.fi/pools)
+- Deposítelo en el [steth pool](https://curve.fi/pools) de Curve Finance y luego deposite el token del proveedor de liquidez (LP) en la [bóveda crvSTETH](https://yearn.finance/vaults/0xdCD90C7f6324cfa40d7169ef80b12031770B4325) de Yearn para obtener un rendimiento (compuesto por recompensas LDO y CRV)
+- Combínelo con su ERC-20 favorito para ganar tarifas comerciales (y recompensas de minería de liquidez) en Uniswap o Sushiswap
 
-ETH has become a productive asset. But the future of France does not involve individuals assessing the risks and rewards of all the choices above on a regular basis and making expensive transactions on Ethereum. People have better things to do and (on average) each new person coming into DeFi is going to understand less than the previous one. They’re not going to put the hours in to chasing down every yield farm that pops up.
+ETH se ha convertido en un activo productivo. Pero el futuro de Francia no implica que las personas evalúen los riesgos y las recompensas de todas las opciones anteriores de forma regular y realicen transacciones costosas en Ethereum. Las personas tienen mejores cosas que hacer y (en promedio) cada nueva persona que ingrese a DeFi comprenderá menos que la anterior. No van a dedicar horas a perseguir cada granja de rendimiento que aparezca.
 
-This is where Yearn comes in. Yearn finds the best risk-adjusted yield for your ETH (that works at scale).
+Aquí es donde entra en juego Yearn. Yearn encuentra el mejor rendimiento ajustado al riesgo para su ETH (que funciona a escala).
 
-**DeFi tokens ($93bn)**
+**Tokens DeFi (93 mil millones $)**
 
-DeFi tokens are the newest type of asset on Ethereum.
+Los tokens DeFi son el tipo de activo más nuevo en Ethereum.
 
 ![](image7.png)
 
-Valuable governless tokens
+Valiosos tokens de gobernanza 
 
-DeFi tokens consist predominantly of DeFi governance tokens whose protocols produce cashflows. The protocols are in various stages of working out how much of these cashflows should be returned to the token holders.
+Los tokens DeFi consisten predominantemente en tokens de gobernanza DeFi cuyos protocolos producen flujos de efectivo. Los protocolos se encuentran en varias etapas para determinar cuánto de estos flujos de efectivo deben devolverse a los titulares de tokens.
 
-Each DeFi token has its quirks as their communities try to find ways of incentivizing people to grow the protocol in a way that will help the protocol (and ultimately the token’s price). For example:
+Cada token DeFi tiene sus peculiaridades, ya que sus comunidades intentan encontrar formas de incentivar a las personas para que hagan crecer el protocolo de una manera que ayude al protocolo (y, en última instancia, al precio del token). Por ejemplo:
 
-- Maker (MKR) incentivizes you to vote on which collateral types can be onboarded and which parameters should be chosen
-- Synthetix (SNX) incentivizes you to mint sUSD and use it to trade on their synthetics platform
-- Aave (AAVE) has its safety module incentivizing you to vote against the onboarding of assets that are deemed too risky
-- Compound Finance (COMP) wants you to vote on interest rate model updates
-- Curve Finance rewards locking of CRV with half of the 0.04% trading fees, and uses the time value of the locked CRV to vote on the reward distribution between pools
-- Hegic rewards you with fees from options trading, provided you can stake 888,000 tokens
-- Sushi wants you to stake for xSushi to earn 0.05% of the volume traded
-- UNI controls protocol fee switch and can force early transition to an open-source license
+- Maker (MKR) lo incentiva a votar sobre qué tipos de garantías se pueden incorporar y qué parámetros se deben elegir
+- Synthetix (SNX) lo incentiva a acuñar sUSD y usarlo para operar en su plataforma sintética
+- Aave (AAVE) tiene su módulo de seguridad que lo incentiva a votar en contra de la incorporación de activos que se consideran demasiado riesgosos
+- Compound Finance (COMP) quiere que vote sobre las actualizaciones del modelo de tasa de interés
+- Curve Finance recompensa el bloqueo de CRV con la mitad de las tarifas comerciales del 0,04 %, y utiliza el valor temporal del CRV bloqueado para votar sobre la distribución de recompensas entre grupos.
+- Hegic lo recompensa con tarifas del comercio de opciones, siempre que pueda apostar 888,000 tokens
+- Sushi quiere que apuestes por xSushi para ganar el 0,05 % del volumen negociado
+- UNI controla el cambio de tarifa de protocolo y puede forzar la transición temprana a una licencia de código abierto
 
-The value of these tokens has increased significantly over the last year as the market puts a greater value on tokens representing a transparent and fair (to the extent that each wallet is treated the same) financial system that is available to anyone with an internet connection. The cashflows help too.
+El valor de estos tokens ha aumentado significativamente durante el último año a medida que el mercado otorga un mayor valor a los tokens que representan un sistema financiero transparente y justo (en la medida en que cada billetera recibe el mismo trato) que está disponible para cualquier persona con una conexión a Internet. Los flujos de efectivo también ayudan.
 
 ![](image8.jfif)
 
-DeFi protocols recently surpassed $1bn in total revenue (Token Terminal)
+Los protocolos DeFi recientemente superaron los mil millones de dólares en ingresos totales (Token Terminal)
 
-**Stablecoins**
+**Monedas estables**
 
-The most popular stablecoins represent 1 USD and come in different forms, such as collateralized by crypto (e.g. Maker’s Dai), custodial (e.g. USDC) or algorithmic (e.g. AMPL).
+Las monedas estables más populares representan 1 USD y vienen en diferentes formas, como garantizadas por criptografía (p. ej., Dai de Maker), custodiadas (p. ej., USDC) o algorítmicas (p. ej., AMPL).
 
-Stablecoins are moving to Ethereum where they can earn a yield from lending, trading or liquidity mining. It is difficult to see these stablecoins being converted back to fiat when traditional banks are paying [close to 0%](https://twitter.com/mattysino/status/1379368078979391488?s=20). This goes some way to explaining why the stablecoin supply on Ethereum grew 600% over the last 12 months.
+Las monedas estables se están trasladando a Ethereum, donde pueden obtener un rendimiento de los préstamos, el comercio o la minería de liquidez. Es difícil ver que estas monedas estables se conviertan nuevamente en dinero fiduciario cuando los bancos tradicionales están pagando [cerca del 0 %](https://twitter.com/mattysino/status/1379368078979391488?s=20). Esto explica de alguna manera por qué el suministro de monedas estables en Ethereum creció un 600 % en los últimos 12 meses.
 
 ![](image9.png)
 
-People are preferring stablecoins on Ethereum to dollars in the bank ([https://duneanalytics.com/hagaetc/stablecoins](https://duneanalytics.com/hagaetc/stablecoins))
+La gente prefiere monedas estables en Ethereum a dólares en el banco ([https://duneanalytics.com/hagaetc/stablecoins](https://duneanalytics.com/hagaetc/stablecoins))
 
-You can now earn a yield on stablecoins by providing liquidity to protocols. Either deposit them on a lending protocol, for example, on Aave or Compound Finance or on an AMM such as Curve Finance.
+Ahora puede obtener un rendimiento de las monedas estables proporcionando liquidez a los protocolos. Deposítelos en un protocolo de préstamo, por ejemplo, en Aave o Compound Finance o en un AMM como Curve Finance.
 
-One problem with depositing stablecoins on Aave or Compound Finance is that you will not always be earning the highest yield of the two. The original Yearn protocol solved this problem in early 2020 by automatically moving stablecoins to the highest yielding lending protocol.
+Un problema con el depósito de monedas estables en Aave o Compound Finance es que no siempre obtendrá el rendimiento más alto de los dos. El protocolo Yearn original resolvió este problema a principios de 2020 al mover automáticamente las monedas estables al protocolo de préstamo de mayor rendimiento.
 
-Yearn’s stablecoin strategies have come a long way since early 2020 and now the protocol earns interest from lending, trading fees, [Curve’s “boosties”](https://docs.yearn.finance/how-to-guides/how-to-understand-crv-vote-locking), liquidity mining rewards and leverage and converts it in to a yield for the user. More on these strategies later.
+Las estrategias de monedas estables de Yearn han recorrido un largo camino desde principios de 2020 y ahora el protocolo gana intereses por préstamos, tarifas comerciales, [los "aumentos" de Curve](https://docs.yearn.finance/how-to-guides/how-to-understand-crv-vote-locking), recompensas de minería de liquidez y apalancamiento y lo convierte en un rendimiento para el usuario. Más sobre estas estrategias más adelante.
 
-**Tokenized bitcoin on Ethereum ($10bn)**
+**Bitcoin tokenizado en Ethereum ($10bn)**
 
-Even bitcoin is finding its way to Ethereum. By end March 2021 there was more [bitcoin on Ethereum](https://btconethereum.com/) ($10bn) than that held by MicroStrategy ($5.4bn³) and Tesla ([$1.5bn](https://www.cnbc.com/2021/02/08/tesla-buys-1point5-billion-in-bitcoin.html)) combined. Mainstream media isn’t going to make it.
+Incluso bitcoin está encontrando su camino hacia Ethereum. A fines de marzo de 2021, había más [bitcoin en Ethereum](https://btconethereum.com/) ($ 10 mil millones) que MicroStrategy ($ 5,4 mil millones³) y Tesla [($1,5 mil millones)](https://www.cnbc.com/2021/02/08/tesla-buys-1point5-billion-in-bitcoin.html) combinados. Los principales medios de comunicación no lo van a lograr.
 
 ![](image10.png)
 
-Tokenized bitcoin on Ethereum ([https://duneanalytics.com/queries/4962/9776](https://duneanalytics.com/queries/4962/9776))
+Bitcoin tokenizado en Ethereum ([https://duneanalytics.com/queries/4962/9776](https://duneanalytics.com/queries/4962/9776))
 
-Companies and protocols have developed ways for you to swap your bitcoin for a tokenized version of bitcoin.
+Las empresas y los protocolos han desarrollado formas para que usted intercambie su bitcoin por una versión tokenizada de bitcoin.
 
-Representations of the “real thing” are often more useful in traditional finance too. For example, I can’t earn a yield with a £1 coin, but I can earn 1% APY with a £1 balance in my Santander account. With wBTC, the largest tokenized version of bitcoin, you can earn a yield in Yearn’s wBTC vault. The ability to earn a yield by lending your tokenized bitcoin means people increasingly prefer to own tokenized bitcoin on Ethereum despite the extra risks involved.
+Las representaciones de la “cosa real” a menudo también son más útiles en las finanzas tradicionales. Por ejemplo, no puedo obtener un rendimiento con una moneda de 1£, pero puedo obtener un 1% de APY con un saldo de 1£ en mi cuenta de Santander. Con wBTC, la versión tokenizada más grande de bitcoin, puede obtener un rendimiento en la bóveda de wBTC de Yearn. La capacidad de obtener un rendimiento prestando su bitcoin tokenizado significa que las personas prefieren cada vez más poseer bitcoin tokenizado en Ethereum a pesar de los riesgos adicionales involucrados.
 
-If you want bitcoin exposure, what’s the alternative? HODL and tell everyone [hodling _is_ using bitcoin](https://twitter.com/danheld/status/1362794078518341637?s=20). Or earn a yield using a centralized service, such as BlockFi or Celsius. Your decision will depend on your risk-reward preferences.
+Si quieres exposición a bitcoin, ¿cuál es la alternativa? HODL y dígaselo a todos [hodling _is_ using bitcoin](https://twitter.com/danheld/status/1362794078518341637?s=20). O obtenga un rendimiento utilizando un servicio centralizado, como BlockFi o Celsius. Su decisión dependerá de sus preferencias de riesgo-recompensa.
 
-**What’s next?**
+**¿Que sigue?**
 
-Ether, DeFi tokens, stablecoins and tokenized bitcoin combine to form a $300bn+ addressable market for an asset management protocol on Ethereum. Are there signs of other asset classes making their way to Ethereum?
+Ether, tokens DeFi, monedas estables y bitcoin tokenizado se combinan para formar un mercado direccionable de más de $ 300 mil millones para un protocolo de gestión de activos en Ethereum. ¿Hay señales de que otras clases de activos se dirijan a Ethereum?
 
-**Synthetic equities**
+**Acciones sintéticas**
 
-The chart below shows why equities matter. At [$95 trillion](https://www.cnbc.com/2020/11/12/global-stock-market-value-rises-to-a-record-95-trillion-this-week-on-vaccine-hope.html) the market cap is 50 times the size of the total crypto market cap.
+El siguiente gráfico muestra por qué son importantes las acciones. En [95 trillones de dólares](https://www.cnbc.com/2020/11/12/global-stock-market-value-rises-to-a-record-95-trillion-this-week-on-vaccine-hope.html) la capitalización de mercado es 50 veces el tamaño de la capitalización total del mercado cripto.
 
 ![](image11.png)
 
-Global equities 50x crypto market cap
+Acciones globales 50x capitalización de mercado cripto
 
-Synthetix was the first protocol to create synthetic crypto and traditional Finance indices. To many it was therefore a surprise that Mirror came and stole the show with their Mirrored Tesla (mTsla) synthetic equity on Terra (and also Ethereum). Their different approaches to creating liquid synths, reducing the cost of transactions and different protocol risks make this an interesting head-to-head.
+Synthetix fue el primer protocolo en crear criptografía sintética e índices financieros tradicionales. Por lo tanto, para muchos fue una sorpresa que Mirror viniera y se robara el show con su capital sintético Mirrored Tesla (mTsla) en Terra (y también Ethereum). Sus diferentes enfoques para crear sintetizadores líquidos, reducir el costo de las transacciones y los diferentes riesgos de protocolo hacen de este un interesante enfrentamiento directo.
 
-DeFi on Ethereum has battle-tested AMMs and lending protocols. They have worked fairly reliably for stablecoins and other ERC-20 tokens over a few years. As far as these protocols are concerned, synthetic equities will be just another ERC-20 token and treated the same as the stablecoins, DeFi tokens or tokenized bitcoin. The foundations have already been laid for you to be able to:
+DeFi en Ethereum tiene AMM y protocolos de préstamo probados en batalla. Han funcionado de manera bastante confiable para monedas estables y otras fichas ERC-20 durante algunos años. En lo que respecta a estos protocolos, las acciones sintéticas serán solo otro token ERC-20 y se tratarán de la misma manera que las monedas estables, los tokens DeFi o el bitcoin tokenizado. Ya se han sentado las bases para que puedas:
 
-- lend your synthetic equity in return for a yield
-- earn trading fees
-- use it as collateral to borrow against
-- trade it for another token or
-- leave it with Yearn to earn a yield for you
+- prestar su capital sintético a cambio de un rendimiento
+- ganar tarifas comerciales
+- usarlo como garantía para pedir prestado
+- cambiarlo por otro token o
+- déjalo con Yearn para obtener un rendimiento para ti
 
-By end 2021 you might be able to zap any ERC-20 token into a yield-bearing synthetic Tesla where the yield comes from mTsla/sTesla trading fees on Curve, lending on Aave, additional rewards from Ironbank leverage and a boost from [Yearn’s stack of veCRV](https://crv.ape.tax/).
+Para fines de 2021, es posible que pueda convertir cualquier token ERC-20 en un Tesla sintético con rendimiento, donde el rendimiento proviene de las tarifas comerciales de mTsla / sTesla en Curve, préstamos en Aave, recompensas adicionales del apalancamiento de Ironbank y un impulso de [veCRV de Yearn](https://crv.ape.tax/).
 
-**Tokenized equities (non-synthetic)**
+**Acciones tokenizadas (no sintéticas)**
 
-Tokenized equities are one step closer to the “real” thing, because you have ownership of the stock.
+Las acciones tokenizadas están un paso más cerca de lo "real", porque usted tiene la propiedad de las acciones.
 
-FTX offers [tokenized stocks](https://help.ftx.com/hc/en-us/articles/360051229472-Tokenized-Stocks) that are backed by shares of the stock, custodied by CM-Equity. Currently FTX does not allow these tokens outside of their platform, however, the comment “In the future, there may be other ways to withdraw the tokens from FTX” suggests this could change. Clearly SBF’s preference will be that they are withdrawn to Solana, but the DeFi protocols on Ethereum have the most traction so at least there will likely be a bridge there.
+FTX ofrece [acciones tokenizadas](https://help.ftx.com/hc/en-us/articles/360051229472-Tokenized-Stocks) que están respaldadas por acciones de las acciones, custodiadas por CM-Equity. Actualmente, FTX no permite estos tokens fuera de su plataforma, sin embargo, el comentario "En el futuro, puede haber otras formas de retirar los tokens de FTX" sugiere que esto podría cambiar. Claramente, la preferencia de SBF será que se retiren a Solana, pero los protocolos DeFi en Ethereum tienen la mayor tracción, por lo que al menos es probable que haya un puente allí.
 
-One example of a tokenized equity already on Ethereum is the [wCRES token](https://defi.crescofin.ch/): “The wCRES token is a simple ERC20 token that conveys equity rights in CrescoFin to the tokenholder. There is no restriction on transferability and no need to undergo a KYC check.” Coincidentally, they’re also in the yield business and with Stani Kulechov as an advisor Aave is likely to be their first choice for earning that yield.
+Un ejemplo de un capital tokenizado que ya está en Ethereum es el [token wCRES](https://defi.crescofin.ch/): “El token wCRES es un token ERC20 simple que transmite derechos de capital en CrescoFin al titular del token. No hay restricciones en la transferibilidad y no es necesario someterse a un control KYC”. Coincidentemente, también están en el negocio de los rendimientos y, con Stani Kulechov como asesor, es probable que Aave sea su primera opción para obtener ese rendimiento.
 
-These tokenized equities will bring another asset-type to Ethereum. Some protocols might accept custodied tokenized equities, other protocols might accept their synthetic counterparts. This, as well as arbitrage opportunities, will create demand for swapping from one to another, and that’s what Curve enables so well. It will then be up to an asset manager on Ethereum to find a way for you to earn trading fees and any additional rewards available in DeFi. That is what Yearn does best.
+Estas acciones tokenizadas traerán otro tipo de activo a Ethereum. Algunos protocolos pueden aceptar acciones tokenizadas custodiadas, otros protocolos pueden aceptar sus contrapartes sintéticas. Esto, además de las oportunidades de arbitraje, creará una demanda de intercambio de uno a otro, y eso es lo que Curve permite tan bien. Luego, dependerá de un administrador de activos en Ethereum encontrar una manera de que usted gane tarifas comerciales y cualquier recompensa adicional disponible en DeFi. Eso es lo que mejor hace Yearn.
 
-**IPOs on Ethereum (slightly speculative)**
+**IPO en Ethereum (ligeramente especulativo)**
 
-Tokenizing equities that already exist is a huge step to increasing the addressable market of an asset manager on Ethereum. But what about new equities?
+La tokenización de acciones que ya existen son un gran paso para aumentar el mercado direccionable de un administrador de activos en Ethereum. Pero, ¿qué pasa con las nuevas acciones?
 
-Initial Public Offerings (IPOs) are expensive. The underwriting fees from a PWC report are shown below. Note that there’s no quote for deals under $25m, welcome to traditional finance. The column on the right shows the number of middlemen that could one day be disintermediated by using Ethereum.
+Las ofertas públicas iniciales (IPO) son costosas. Las tarifas de suscripción de un informe de PWC se muestran a continuación. Tenga en cuenta que no hay cotización para ofertas de menos de $ 25 millones, bienvenido a las finanzas tradicionales. La columna de la derecha muestra la cantidad de intermediarios que algún día podrían ser desintermediados mediante el uso de Ethereum.
 
 ![](image12.png)
 
-[Underwriting fees](https://www.pwc.com/us/en/services/deals/library/cost-of-an-ipo.html) for IPOs in traditional finance
+[Comisiones de suscripción](https://www.pwc.com/us/en/services/deals/library/cost-of-an-ipo.html) para IPO en finanzas tradicionales
 
-During 2017/18 there were lots of scam Initial Coin Offerings (ICOs). There were so many because they were cheap to do, and there were lots of people with spare cash willing to take a gamble.
+Durante 2017/18 hubo muchas ofertas iniciales de monedas (ICO) fraudulentas. Había tantos porque eran baratos de hacer, y había mucha gente con dinero extra dispuesta a apostar.
 
-But the narrative of there being lots of scams doesn’t tell the full story. It is now possible to carry out an IPO on Ethereum for a much lower cost. Lots of ICOs in 2017/18 turned out to be illegal securities, but the technology is just as good for legal securities too. So what will be the first high profile IPO on Ethereum?
+Pero la narrativa de que hay muchas estafas no cuenta la historia completa. Ahora es posible realizar una IPO en Ethereum por un costo mucho menor. Muchas ICO en 2017/18 resultaron ser valores ilegales, pero la tecnología también es buena para los valores legales. Entonces, ¿cuál será la primera salida a bolsa de alto perfil en Ethereum?
 
-There have been only two so far (that I can find), both of which are related to Ethereum ([a fund](https://www.coindesk.com/ether-fund-ipo-3iq-tsx) and a [trading platform](https://token.inx.co/?_ga=2.105952771.1875400193.1615853639-1172741532.1615853639)). Ethereum is still considered risky, so don’t expect risk-averse companies to launch their IPOs on Ethereum any time soon. But for a smaller company that has a greater appetite for risk an IPO on Ethereum may be the best way to raise capital.
+Solo ha habido dos hasta ahora (que puedo encontrar), ambos relacionados con Ethereum ([un fondo](https://www.coindesk.com/ether-fund-ipo-3iq-tsx) y un [ plataforma de negociación](https://token.inx.co/?_ga=2.105952771.1875400193.1615853639-1172741532.1615853639)). Ethereum todavía se considera riesgoso, así que no espere que las empresas adversas al riesgo lancen sus ofertas públicas iniciales en Ethereum en el corto plazo. Pero para una empresa más pequeña que tiene un mayor apetito por el riesgo, una oferta pública inicial en Ethereum puede ser la mejor manera de recaudar capital.
 
-**Bonds as well? (Very speculative)**
+**¿Bonos también? (Muy especulativo)**
 
-Bonds are less risky than crypto and equities (measured by historic volatility). There’s more than [$100 trillion](https://www.icmagroup.org/Regulatory-Policy-and-Market-Practice/Secondary-Markets/bond-market-size/) of them. If ever, they will likely come last to Ethereum. No-one is pestering the Spartan Council for a synthetic 30-year US treasury, sTMUBMUSD30Y, to lock in 2.4% pa yield. However, there are signs of large traditional financial players testing the waters.
+Los bonos son menos riesgosos que las criptomonedas y las acciones (medido por la volatilidad histórica). Hay más de [$100 billones](https://www.icmagroup.org/Regulatory-Policy-and-Market-Practice/Secondary-Markets/bond-market-size/) de ellos. Si alguna vez, probablemente llegarán los últimos a Ethereum. Nadie está molestando al Consejo Espartano por un bono del Tesoro estadounidense sintético a 30 años, sTMUBMUSD30Y, para asegurar un rendimiento del 2,4% anual. Sin embargo, hay señales de que los grandes actores financieros tradicionales están probando las aguas.
 
 ![](image13.png)
-History of bond issuance on blockchains ([Binance Research](https://research.binance.com/en/analysis/santander-bond), Coindesk)
+Historia de la emisión de bonos en blockchains ([Binance Research](https://research.binance.com/en/analysis/santander-bond), Coindesk)
 
-These institutions and companies are testing the technology because it is cheap. If it’s cheap it saves them money and gives them an edge against competitors.
+Estas instituciones y empresas están probando la tecnología porque es barata. Si es barato, les ahorra dinero y les da una ventaja frente a la competencia.
 
-Like most assets, bonds are lent, borrowed and traded giving rise to interest and trading fees respectively. In traditional finance most of the interest and trading fees would go to a middleman. But imagine depositing a tokenized version of a 30-year treasury in a Yearn vault to earn an additional yield from people shorting and trading the bond. This may sound fanciful but the technology already exists, as far as Ethereum is concerned a bond would be another ERC-20 token (ok, maybe there’s some technicalities to be ironed out). Lending protocols would first need to accept the bond as collateral, and then Curve Finance (or another AMM) would need to create a liquidity pool where it could be traded and finally Yearn would need to build strategies for the bond.
+Como la mayoría de los activos, los bonos se prestan, se toman prestados y se negocian, lo que genera intereses y tarifas de negociación, respectivamente. En las finanzas tradicionales, la mayor parte de los intereses y las tarifas comerciales irían a parar a un intermediario. Pero imagine depositar una versión tokenizada de una tesorería de 30 años en una bóveda de Yearn para obtener un rendimiento adicional de las personas que venden en corto y negocian el bono. Esto puede sonar fantasioso, pero la tecnología ya existe, en lo que respecta a Ethereum, un bono sería otro token ERC-20 (bueno, tal vez haya algunos tecnicismos que resolver). Los protocolos de préstamo primero tendrían que aceptar el bono como garantía, y luego Curve Finance (u otro AMM) tendría que crear un grupo de liquidez donde podría negociarse y, finalmente, Yearn tendría que desarrollar estrategias para el bono.
 
-If issuing bonds turns out to be cheaper on Ethereum (along with all the other advantages) and over time the perception that using Ethereum is too risky changes, then it’s highly likely that more bonds will be issued on Ethereum.
+Si la emisión de bonos resulta ser más barata en Ethereum (junto con todas las demás ventajas) y con el tiempo cambia la percepción de que usar Ethereum es demasiado arriesgado, entonces es muy probable que se emitan más bonos en Ethereum.
 
-These institutions will not be quibbling over a $1,000 gas fee.
+Estas instituciones no discutirán sobre una tarifa de gasolina de $1,000.
 
-**Assets in search of yield**
+**Activos en busca de rentabilidad**
 
-Today there are more than $300bn of assets on Ethereum with the potential for many more. Yearn is well-placed to become the go-to asset manager for those willing to take on the additional risks of interacting with more protocols in search of higher yields.
+Hoy hay más de 300.000 millones de dólares en activos en Ethereum con potencial para muchos más. Yearn está bien posicionado para convertirse en el administrador de activos de referencia para aquellos que estén dispuestos a asumir los riesgos adicionales de interactuar con más protocolos en busca de mayores rendimientos.
 
-**4\. Yearn is leading the innovation in risk-adjusted yields**
+**4\. Yearn lidera la innovación en rendimientos ajustados al riesgo**
 
-**Crypto yields before 0 B.C**
+**Cripto rinde antes del 0 a.C.**
 
-Cronje wasn’t the first person to realise the importance of yield in crypto. BlockFi offered yields from institutional lending in 2017 and then Mashinsky “The Machine” introduced the CEL token as an incentivizing mechanism (and to distribute revenues more equitably amongst depositors).
+Cronje no fue la primera persona en darse cuenta de la importancia del rendimiento en cripto. BlockFi ofreció rendimientos de préstamos institucionales en 2017 y luego Mashinsky "The Machine" introdujo el token CEL como un mecanismo de incentivo (y para distribuir los ingresos de manera más equitativa entre los depositantes).
 
-However, these are companies. They are centralized.
+Sin embargo, estas son empresas. Están centralizados.
 
-The challenge that the DeFi entrepreneurs took up was to find a way of trading, borrowing and lending in a censorship-resistant way with code replacing the middleman. Even if the models replicated traditional finance they would have the advantages of transparency, no middlemen and available to anyone with an internet connection.
+El desafío que asumieron los empresarios de DeFi fue encontrar una forma de comerciar, pedir prestado y prestar de una manera resistente a la censura con el código reemplazando al intermediario. Incluso si los modelos replicaran las finanzas tradicionales, tendrían las ventajas de la transparencia, no tendrían intermediarios y estarían disponibles para cualquier persona con conexión a Internet.
 
-![](image14.png)History of crypto yields before 0 B.C⁴
+![](image14.png)Historia de los rendimientos criptográficos antes del 0 a.C.⁴
 
-Compound Finance’s lending protocol was the first DeFi protocol that allowed you to earn a yield. However, it wasn’t until the [launch of the COMP](https://www.coindesk.com/compounds-comp-token-price-doubles-amid-defi-mania) token in June 2020 that usage skyrocketed.
+El protocolo de préstamos de Compound Finance fue el primer protocolo DeFi que le permitió obtener un rendimiento. Sin embargo, no fue hasta el [lanzamiento del token COMP](https://www.coindesk.com/compounds-comp-token-price-doubles-amid-defi-mania) en junio de 2020 que el uso se disparó.
 
-Synthetix deserves a special mention because they were the first DeFi protocol to use their token as an incentivizing mechanism to grow the protocol (unlike many protocols that even 2 years later, just give away tokens for staking that are then sold immediately). In other words, Synthetix is partly responsible for all the APYs quoted everywhere in DeFi — sometimes called yield farming, liquidity mining, or just earning rewards.
+Synthetix merece una mención especial porque fue el primer protocolo DeFi en usar su token como un mecanismo de incentivo para hacer crecer el protocolo (a diferencia de muchos protocolos que incluso 2 años después, solo regalan tokens para hacer staking que luego se venden de inmediato). En otras palabras, Synthetix es en parte responsable de todos los APY citados en todas partes en DeFi, a veces llamados agricultura de rendimiento, minería de liquidez o simplemente obtención de recompensas.
 
-In early 2020 Aave popularized flashloans and uses the fees to increase the depositors’ yield. Flashloans let you borrow without providing collateral, as long as you pay the loan back within the same block (13 seconds). Lots of exploits use flashloans giving them a bad rap for a couple of weeks after each exploit, but they are a useful stress test and make DeFi more robust in the longer term.
+A principios de 2020, Aave popularizó los préstamos flash y utiliza las tarifas para aumentar el rendimiento de los depositantes. Los préstamos flash le permiten pedir prestado sin proporcionar garantía, siempre que pague el préstamo dentro del mismo bloque (13 segundos). Muchos exploits usan préstamos flash que les dan una mala reputación durante un par de semanas después de cada exploit, pero son una prueba de estrés útil y hacen que DeFi sea más sólido a largo plazo.
 
-Earning a yield in crypto saw 6 innovations in 7 years. And then came Cronje.
+La obtención de rendimiento en cripto vio 6 innovaciones en 7 años. Y luego vino Cronje.
 
-When Cronje started working on Yearn v1 there were several problems that people had to overcome in order to interact with DeFi protocols. Even something as simple as switching funds between the highest lending protocols required:
+Cuando Cronje comenzó a trabajar en Yearn v1, hubo varios problemas que las personas tuvieron que superar para poder interactuar con los protocolos DeFi. Incluso algo tan simple como cambiar fondos entre los protocolos de préstamo más altos requeridos:
 
-- enough ETH to pay for gas each time interest rates on the lending protocols varied materially
-- an understanding of how the underlying lending protocols work
-- an understanding of the risks involved
-- a lot of time — both to check the yields and then to make the transactions
+- suficiente ETH para pagar el gas cada vez que las tasas de interés en los protocolos de préstamo variaron materialmente
+- una comprensión de cómo funcionan los protocolos de préstamo subyacentes
+- una comprensión de los riesgos involucrados
+- mucho tiempo, tanto para verificar los rendimientos como para realizar las transacciones
 
-![](image15.png)The problems with DeFi that Yearn helps to solve
+![](image15.png)Los problemas con DeFi que Yearn ayuda a resolver
 
-Initially Andre carried out these transactions manually. By aggregating capital the gas fees can be shared, not everyone needs to understand all the protocols at the same level of detail, and you can deposit your funds and let one person do the work. The challenge was to automate the process.
+Inicialmente, Andre realizaba estas transacciones manualmente. Al agregar capital, las tarifas de gas se pueden compartir, no todos necesitan comprender todos los protocolos con el mismo nivel de detalle, y puede depositar sus fondos y dejar que una persona haga el trabajo. El desafío era automatizar el proceso.
 
-**Innovations in automated yields**
+**Innovaciones en rendimientos automatizados**
 
-First of all Andre had to figure out how each lending protocol calculated the yield, which he explains [here](https://medium.com/iearn/how-we-built-on-chain-apr-for-ethereum-defi-a8d84b680758). Then he ran in to some problems which he explains [here](https://medium.com/iearn/yield-aggregator-problem-s-2-3-4-and-5-too-large-to-move-9a75432a50de). But it wasn’t long before Yearn was moving funds to whichever lending protocol had the highest yield.
+En primer lugar, Andre tuvo que averiguar cómo cada protocolo de préstamo calculaba el rendimiento, lo cual explica [aquí](https://medium.com/iearn/how-we-built-on-chain-apr-for-ethereum-defi-a8d84b680758). Luego se encontró con algunos problemas que explica [aquí](https://medium.com/iearn/yield-aggregator-problem-s-2-3-4-and-5-too-large-to-move-9a75432a50de). Pero no pasó mucho tiempo antes de que Yearn moviera fondos a cualquier protocolo de préstamo que tuviera el mayor rendimiento.
 
-He then found a way for the protocol to earn additional trading fees by providing liquidity to Curve Finance.
+Luego encontró una forma de que el protocolo obtuviera tarifas comerciales adicionales al proporcionar liquidez a Curve Finance.
 
-When the COMP token was launched, kicking off the yield farming summer of 2020, this meant that Yearn had to incorporate the price of COMP in to the yield calculations.
+Cuando se lanzó el token COMP, dando inicio al verano de agricultura de rendimiento de 2020, esto significó que Yearn tuvo que incorporar el precio de COMP en los cálculos de rendimiento.
 
-When Curve introduced the concept of “boosties” for locking CRV, Yearn found a way of incentivizing people to lock their CRV indefinitely to earn a regular yield in a stablecoin pool (3CRV), which would boost the yields of Yearn’s depositors (the “[backscratcher](https://twitter.com/iearnfinance/status/1376912409688956932?s=20)”).
+Cuando Curve introdujo el concepto de "impulsos" para bloquear CRV, Yearn encontró una manera de incentivar a las personas a bloquear su CRV indefinidamente para obtener un rendimiento regular en un grupo de monedas estables (3CRV), lo que aumentaría los rendimientos de los depositantes de Yearn (el "[ rascador de espalda](https://twitter.com/iearnfinance/status/1376912409688956932?s=20)”).
 
-But Andre was still not happy. There remained capital inefficiencies everywhere he looked, such as capital sitting idle in Cream Finance (a lending protocol in Yearn’s ecosystem). Say there’s 10m Dai sitting in Cream Finance and not being lent out (therefore earning no yield) and Yearn has a strategy that could earn 10% APY on Dai, even if only for a very short time. What if Yearn could borrow that Dai for a lower interest rate, earn the 10% APY, and pay the loan back either when the strategy no longer produced excess yield or when the depositor on Cream Finance wanted their Dai returned? That’s what Yearn does — not for its own benefit — but to increase the yields of depositors. It was a first in [protocol-to-protocol uncollateralized lending](https://creamdotfinance.medium.com/introducing-the-iron-bank-bab9417c9a).
+Pero Andre todavía no estaba contento. Quedaban ineficiencias de capital dondequiera que mirara, como el capital inactivo en Cream Finance (un protocolo de préstamo en el ecosistema de Yearn). Digamos que hay 10 millones de Dai en Cream Finance y no se prestan (por lo tanto, no obtienen rendimiento) y Yearn tiene una estrategia que podría ganar un 10% APY en Dai, aunque solo sea por un tiempo muy corto. ¿Qué pasaría si Yearn pudiera pedir prestado ese Dai a una tasa de interés más baja, ganar el 10 % de APY y devolver el préstamo cuando la estrategia ya no produjera un exceso de rendimiento o cuando el depositante en Cream Finance quisiera que le devolvieran su Dai? Eso es lo que hace Yearn, no para su propio beneficio, sino para aumentar los rendimientos de los depositantes. Fue el primero en [préstamos sin garantía de protocolo a protocolo](https://creamdotfinance.medium.com/introducing-the-iron-bank-bab9417c9a).
 
-![](image16.png)Yearn’s innovations in yields
+![](image16.png)Innovaciones de Yearn en rendimiento
 
-The bar at the bottom of the diagram above represents an innovation in yields that came with the help of another ecosystem partner, Sushi. As a way of incentivizing people to lock their CRV indefinitely Yearn created a complex asset called yveCRV. However, there was no market for yveCRV so Yearn incentivized people to provide liquidity to yveCRV-ETH by offering rewards in Sushi. This turned an illiquid asset into a liquid one using an ecosystem partner. This is not your average DeFi protocol.
+La barra en la parte inferior del diagrama anterior representa una innovación en los rendimientos que surgió con la ayuda de otro socio del ecosistema, Sushi. Como una forma de incentivar a las personas a bloquear su CRV indefinidamente, Yearn creó un activo complejo llamado yveCRV. Sin embargo, no había mercado para yveCRV, por lo que Yearn incentivó a las personas a proporcionar liquidez a yveCRV-ETH ofreciendo recompensas en Sushi. Esto convirtió un activo ilíquido en uno líquido utilizando un socio del ecosistema. Este no es su protocolo DeFi promedio.
 
-**Yearn’s v2 vaults become multi-strategy**
+**Las bóvedas v2 de Yearn se vuelven multiestrategias**
 
-Despite all these innovations Yearn’s vaults contained one significant limitation. They could only run one strategy at a time. The magnitude of the problem, and its impact on scalability, was realised soon after the first ETH vault in September 2020 but it was not long before fubuloubu posted the vaults v2 design in Yearn Improvement Proposal 48 ([YIP-48](https://gov.yearn.finance/t/yip-48-vaults-v2-design/6658)).
+A pesar de todas estas innovaciones, las bóvedas de Yearn contenían una limitación importante. Solo podían ejecutar una estrategia a la vez. La magnitud del problema y su impacto en la escalabilidad se dieron cuenta poco después de la primera bóveda de ETH en septiembre de 2020, pero no pasó mucho tiempo antes de que fubuloubu publicara el diseño de las bóvedas v2 en la Propuesta de mejora de Yearn 48 ([YIP-48](https://gov.yearn.finance/t/yip-48-vaults-v2-design/6658)).
 
-The vault re-design proposed in YIP-48 has now been implemented, audits have been carried out and new strategies are ready to go.
+El rediseño de la bóveda propuesto en YIP-48 ya se ha implementado, se han realizado auditorías y están listas nuevas estrategias.
 
-The image below shows the yvDai vault earning a yield for depositors with 6 strategies in action at the same time (the strategy labels are in green).
+La siguiente imagen muestra la bóveda de yvDai obteniendo un rendimiento para los depositantes con 6 estrategias en acción al mismo tiempo (las etiquetas de estrategia están en verde).
 
 ![](image17.jfif)
 
-Six strategies in one vault ([https://twitter.com/bantg/status/1377681238249574404?s=20](https://twitter.com/bantg/status/1377681238249574404?s=20))
+Seis estrategias en una bóveda ([https://twitter.com/bantg/status/1377681238249574404?s=20](https://twitter.com/bantg/status/1377681238249574404?s=20))
 
-Ceazor explains the different strategies [here](https://www.youtube.com/watch?v=Ur9bWz8SfOs). They’re getting complicated.
+Ceazor explica las diferentes estrategias [aquí](https://www.youtube.com/watch?v=Ur9bWz8SfOs). Se están complicando.
 
-The diagram below shows the inner workings of the GenericLevCompFarm strategy, where 57% of the yvDai vault is being deployed.
+El siguiente diagrama muestra el funcionamiento interno de la estrategia GenericLevCompFarm, donde se implementa el 57 % de la bóveda yvDai.
 
 ![](image18.jpg)
 
-Diagram of the first strategy, GenericLevCompFarm, shown in banteg’s tweet above
+Diagrama de la primera estrategia, GenericLevCompFarm, que se muestra en el tweet de banteg arriba
 
-This is not just another DeFi protocol or yield aggregator.
+Este no es solo otro protocolo DeFi o agregador de rendimiento.
 
-**Managing Risk**
+**La gestión del riesgo**
 
-Although one of the common criticisms of yield aggregators is that a significant chunk of the yields is dependent on temporary rewards issued by DeFi protocols, even without these rewards there is no competition from traditional finance. Towards the end of 2020 [negative yielding debt hit $18 trillion](https://www.bloomberg.com/news/articles/2020-12-11/world-s-negative-yield-debt-pile-at-18-trillion-for-first-time#:~:text=About%20%241%20trillion%20of%20bonds,30%25%20peak%20reached%20last%20year).
+Aunque una de las críticas comunes a los agregadores de rendimiento es que una parte significativa de los rendimientos depende de las recompensas temporales emitidas por los protocolos DeFi, incluso sin estas recompensas, no hay competencia de las finanzas tradicionales. Hacia finales de 2020 [la deuda con rendimiento negativo alcanzó los 18 trillones de dólares](https://www.bloomberg.com/news/articles/2020-12-11/world-s-negative-yield-debt-pile-at-18-trillion-for-first-time#:~:text=About%20%241%20trillion%20of%20bonds,30%25%20peak%20reached%20last%20year).
 
-The greater challenge seems to be to reduce the real and perceived risks of interacting with the assets and protocols on Ethereum. People do not stick around with asset managers that lose their money.
+El mayor desafío parece ser reducir los riesgos reales y percibidos de interactuar con los activos y protocolos en Ethereum. La gente no se queda con administradores de activos que pierden su dinero.
 
-A key part of Yearn’s brand is its focus on security which Cronje prioritized in the first version in early 2020. Developers have to determine which protocols and strategies are trustworthy, think through potential economic exploits, limit deposits in to certain strategies and find ways of covering losses in case exploits do occur. The seriousness with which Yearn takes security and the speed with which it resolves issues that arise is evidenced by the detail in its [vulnerability disclosure reports](https://github.com/yearn/yearn-security/tree/master/disclosures) and the [system specification](https://github.com/yearn/yearn-vaults/blob/master/SPECIFICATION.md). Higher level risk controls are shown in the table below.
+Una parte clave de la marca Yearn es su enfoque en la seguridad, que Cronje priorizó en la primera versión a principios de 2020. Los desarrolladores deben determinar qué protocolos y estrategias son confiables, pensar en posibles explotaciones económicas, limitar los depósitos a ciertas estrategias y encontrar formas de cubrir pérdidas en caso de que se produzcan exploits. La seriedad con la que Yearn se toma la seguridad y la velocidad con la que resuelve los problemas que surgen se evidencia en los detalles de sus [informes de divulgación de vulnerabilidades](https://github.com/yearn/yearn-security/tree/master/disclosures) y la [especificación del sistema](https://github.com/yearn/yearn-vaults/blob/master/SPECIFICATION.md). Los controles de riesgo de mayor nivel se muestran en la siguiente tabla.
 
-![](image19.png)Prioritizing security from day 1
+![](image19.png)Priorizar la seguridad desde el día 1
 
-The yAcademy is my favourite from the list above because it illustrates the emergent nature of Yearn — and DeFi in general. It started with just some dev (Andre) writing some code (Yearn v1). People he didn’t know thought it was interesting and started interacting with it so he started a telegram group where it was discussed. Auditing the code was necessary, but expensive and slow, due to there being few people with the required skills and because it is hard and time-consuming. It’s still a bottleneck for the whole of DeFi, not just for Yearn. 9 months later Ali Atiia **(**@aliatiia\_) submits a [governance proposal](https://gov.yearn.finance/t/lets-poach-samczsun-and-plant-the-seed-for-an-auditing-academy/5507) (viewed by 2.3k people) for Yearn to develop an academy to train auditors. 2 months after the proposal, and a partnership with Gitcoin and Status in-hand, [YIP-53](https://gov.yearn.finance/t/yip-53-yacademy-planting-the-seed-of-a-sustainably-secure-future-for-yearn-and-beyond/7929) is submitted. This officially creates yAcademy with a budget and a detailed specification.
+La yAcademy es mi favorita de la lista anterior porque ilustra la naturaleza emergente de Yearn y DeFi en general. Comenzó con solo un desarrollador (Andre) escribiendo un código (Yearn v1). Las personas que no conocía pensaron que era interesante y comenzaron a interactuar con él, por lo que comenzó un grupo de Telegram donde se discutió. La auditoría del código era necesaria, pero costosa y lenta, debido a que había pocas personas con las habilidades requeridas y porque es difícil y requiere mucho tiempo. Sigue siendo un cuello de botella para todo DeFi, no solo para Yearn. 9 meses después, Ali Atiia **(**@aliatiia\_) presenta una [propuesta de gobernanza](https://gov.yearn.finance/t/lets-poach-samczsun-and-plant-the-seed-for-an-auditing-academy/5507) (visto por 2300 personas) para que Yearn desarrolle una academia para capacitar auditores. 2 meses después de la propuesta, y una asociación con Gitcoin y Status en mano, [YIP-53](https://gov.yearn.finance/t/yip-53-yacademy-planting-the-seed-of-a-sustainably-secure-future-for-yearn-and-beyond/7929). Esto crea oficialmente yAcademy con un presupuesto y una especificación detallada.
 
-This happened with no management. No HR department. No résumés.
+Esto sucedió sin administración. Sin departamento de RRHH. Sin currículums.
 
-**Evidence of adoption**
+**Evidencia de adopción**
 
-It’s one thing to describe how Yearn is leading the innovation in risk-adjusted yields, but ultimately the asset management industry uses one key metric, and that’s AUM (TVL in DeFi). This is up by 3x in the last quarter. At less than 1% of the assets on Ethereum, which are themselves growing at a rapid pace, there is still plenty of room for Yearn’s AUM to grow.
+Una cosa es describir cómo Yearn lidera la innovación en rendimientos ajustados al riesgo, pero, en última instancia, la industria de gestión de activos utiliza una métrica clave, y esa es AUM (TVL en DeFi). Esto se multiplicó por 3 en el último trimestre. Con menos del 1% de los activos en Ethereum, que están creciendo a un ritmo rápido, todavía hay mucho espacio para que crezcan los AUM de Yearn.
 
-![](image20.jfif)Yearn’s TVL hits $1.84b on 31st March 2021 — The Block (and banteg)
+![](image20.jfif)El TVL de Yearn alcanza los 1840 millones de dólares el 31 de marzo de 2021 — The Block (y banteg)
 
-**5\. Competition**
+**5\. Competencia**
 
-Two of the largest crypto asset managers are Grayscale ([$45bn AUM](https://twitter.com/Grayscale/status/1377000118298275846)) and Celsius Network ([$14bn AUM](https://twitter.com/Mashinsky/status/1378340230265200644?s=20)). It’s natural to consider these as Yearn’s competitors because they are also competing for your crypto. However, this ignores how early we are. Blackrock’s AUM is $8.7 trillion, and the total AUM of the global asset management industry is $110 trillion.
+Dos de los administradores de criptoactivos más grandes son Grayscale ([$45T AUM](https://twitter.com/Grayscale/status/1377000118298275846)) y Celsius Network ([$14T AUM](https://twitter.com/Mashinsky/status/1378340230265200644?s=20)). Es natural considerarlos como competidores de Yearn porque también compiten por sus cripto. Sin embargo, esto ignora lo temprano que estamos. El AUM de Blackrock es de 8,7 trillones de dólares, y el AUM total de la industria global de gestión de activos es de 110 trillones de dólares.
 
-**Grayscale ($45bn)**
+**Grayscale ($45 Trillones)**
 
-Grayscale caters to a different user base. Grayscale’s trusts allow you to hold crypto in tax-advantaged accounts with a focus on security. Investors can hold the trust in their brokerage account so they do not have to worry about a private key. In return for the perceived security and tax saving, potential investors are willing to pay an annual management charge.
+Grayscale atiende a una base de usuarios diferente. Los fideicomisos de Grayscale le permiten mantener cripto en cuentas con ventajas fiscales con un enfoque en la seguridad. Los inversores pueden mantener el fideicomiso en su cuenta de corretaje para que no tengan que preocuparse por una clave privada. A cambio de la seguridad percibida y el ahorro fiscal, los inversores potenciales están dispuestos a pagar una comisión de gestión anual.
 
-Grayscale has [filed](https://www.coindesk.com/grayscale-files-to-register-trust-for-defi-platform-yearn-finance) to register a trust for YFI. If this goes ahead it would allow equity investors to get exposure to YFI. A more interesting synergy between the company and the protocol would be if Grayscale introduces trusts for Yearn’s vaults tokens— this could increase both Yearn’s and Grayscale’s AUM. For example, a yield-bearing yvETH trust could more than offset the fees charged by Grayscale. This may seem far-fetched but 9 months ago the YFI token didn’t exist — things move fast in crypto. yvETH may need to become liquid first, perhaps with help from Yearn’s ecosystem partner Sushi by incentivizing liquidity provision to the yvETH-ETH pair.
+Grayscale [presentó](https://www.coindesk.com/grayscale-files-to-register-trust-for-defi-platform-yearn-finance) para registrar un fideicomiso para YFI. Si esto sigue adelante, permitiría a los inversores de capital exponerse a YFI. Una sinergia más interesante entre la empresa y el protocolo sería si Grayscale introduce fideicomisos para los tokens de las bóvedas de Yearn; esto podría aumentar tanto el AUM de Yearn como el de Grayscale. Por ejemplo, un fideicomiso yvETH con rendimiento podría compensar con creces las tarifas cobradas por Grayscale. Esto puede parecer exagerado, pero hace 9 meses, el token YFI no existía: las cosas se mueven rápido en criptografía. Es posible que yvETH deba volverse líquido primero, tal vez con la ayuda del socio del ecosistema de Yearn, Sushi, al incentivar la provisión de liquidez al par yvETH-ETH.
 
-**Celsius ($14bn)**
+**Celsius ($14T)**
 
-Celsius Network has several licenses and appears to be doing its best to meet the latest regulations. It does not charge fees and is not restricted to assets on Ethereum which gives it a much greater addressable market than Yearn today. Celsius could be considered a competitor to Yearn because they are both asset managers competing for assets.
+Celsius Network tiene varias licencias y parece estar haciendo todo lo posible para cumplir con las últimas regulaciones. No cobra tarifas y no está restringido a activos en Ethereum, lo que le da un mercado direccionable mucho mayor que el actual Yearn. Celsius podría considerarse un competidor de Yearn porque ambos son administradores de activos que compiten por activos.
 
-However, if Yearn’s vaults earn the highest risk-adjusted yields in DeFi, then there’s no reason why Celsius could not use Yearn’s vaults. Celsius pays [17.8% APY](https://celsius.network/rates/) on [SNX](https://www.stakingrewards.com/earn/synthetix-network-token) and [Matic](https://www.stakingrewards.com/earn/matic-network) which is much more likely paid from staking rewards than from institutional lending (where the majority of their revenue comes from). It is not such a big leap for Celsius to go from staking SNX to earning a yield with Yearn.
+Sin embargo, si las bóvedas de Yearn obtienen los rendimientos ajustados al riesgo más altos en DeFi, entonces no hay razón por la cual Celsius no pueda usar las bóvedas de Yearn. Celsius paga [17,8 % APY](https://celsius.network/rates/) en [SNX](https://www.stakingrewards.com/earn/synthetix-network-token) y [Matic](https://www.stakingrewards.com/earn/matic-network), que es mucho más probable que se pague con recompensas de participación que con préstamos institucionales (de donde proviene la mayoría de sus ingresos). No es un gran salto para Celsius pasar de apostar SNX a obtener un rendimiento con Yearn.
 
-One key advantage that protocols have over companies is the composability of DeFi (“money legos”) and the permissionless nature of DeFi which means any protocol can use Yearn’s vaults. For example, the yvDai vault recently reached its limit (temporarily) because a new protocol, Alchemix, directed funds there. A new protocol Smoothy Finance has also integrated Yearn’s vaults into their AMM. These protocol-to-protocol integrations are not possible with Celsius and will likely be crucial to Yearn’s success. Yearn’s affiliate program incentivizes these integrations and it will be interesting to see the new protocols that utilize Yearn’s vaults in the future.
+Una ventaja clave que tienen los protocolos sobre las empresas es la compatibilidad de DeFi ("legos de dinero") y la naturaleza sin permiso de DeFi, lo que significa que cualquier protocolo puede usar las bóvedas de Yearn. Por ejemplo, la bóveda de yvDai alcanzó recientemente su límite (temporalmente) porque un nuevo protocolo, Alchemix, dirigió los fondos allí. Un nuevo protocolo Smoothy Finance también ha integrado las bóvedas de Yearn en su AMM. Estas integraciones de protocolo a protocolo no son posibles con Celsius y probablemente serán cruciales para el éxito de Yearn. El programa de afiliados de Yearn incentiva estas integraciones y será interesante ver los nuevos protocolos que utilizan las bóvedas de Yearn en el futuro.
 
-Another example of Yearn benefiting from other protocols is the recent [proposal](https://forum.cream.finance/t/list-yearn-finance-v2-yvault-tokens-as-collateral-assets/1478) to list some of Yearn’s vault tokens on the lending protocol Cream Finance, another ecosystem partner. If approved, this will allow users to earn a yield on their crypto in Yearn’s vaults and use it as collateral for borrowing at the same time — improving the capital efficiency of DeFi.
+Otro ejemplo de cómo Yearn se beneficia de otros protocolos es la reciente [propuesta](https://forum.cream.finance/t/list-yearn-finance-v2-yvault-tokens-as-collateral-assets/1478) para enumerar algunos de los tokens de la bóveda de Yearn en el protocolo de préstamos Cream Finance, otro socio del ecosistema. Si se aprueba, esto permitirá a los usuarios obtener un rendimiento de sus criptos en las bóvedas de Yearn y usarla como garantía para pedir prestado al mismo tiempo, mejorando la eficiencia del capital de DeFi.
 
-The information in this article does not constitute any form of advice or recommendation and is not intended to be relied upon by users in making (or refraining from making) any investment decisions or in interacting with DeFi protocols.
+La información de este artículo no constituye ningún tipo de consejo o recomendación y los usuarios no deben confiar en ella para tomar (o abstenerse de tomar) ninguna decisión de inversión o para interactuar con los protocolos DeFi.
 
-Disclosure: I hold YFI and other crypto mentioned in this article.
+Divulgación: tengo YFI y otras criptomonedas mencionadas en este artículo.
 
-To learn more about Yearn join [discord](https://discord.gg/cxkXa6Px), the [telegram chat](https://t.me/yearnfinance) or follow Yearn on [Twitter](https://twitter.com/iearnfinance).
+Para obtener más información sobre Yearn, únete a [discord](https://discord.gg/cxkXa6Px), [telegram chat](https://t.me/yearnfinance) o sigue a Yearn en [Twitter](https://twitter.com/iearnfinance).
 
-¹ Note that the Yearn TVL on DeFiPulse is currently out of date. DeFiPulse has the longest history of total TVL across DeFi
+¹ Ten en cuenta que el TVL de Yearn en DeFiPulse está actualmente desactualizado. DeFiPulse tiene la historia más larga de TVL total en DeFi
 
-² Blackrock’s securities lending [description](https://www.blackrock.com/uk/individual/education/how-to-invest/securities-lending?switchLocale=y&siteEntryPassthrough=true)
+² Préstamo de valores de Blackrock [descripción](https://www.blackrock.com/uk/individual/education/how-to-invest/securities-lending?switchLocale=y&siteEntryPassthrough=true)
 
-³ 90,859 bitcoins ([Reuters article](https://www.reuters.com/article/us-crypto-currency-microstrategy-idUSKCN2AT2H5)) at end March price of $59k is $5.4bn
+³ 90.859 bitcoins ([artículo de Reuters](https://www.reuters.com/article/us-crypto-currency-microstrategy-idUSKCN2AT2H5)) al precio de finales de marzo de $59k es $5.4bn
 
-⁴ [BlockFi’s $15bn AUM](https://www.forbes.com/sites/ninabambysheva/2021/03/11/blockfi-gets-a-3-billion-valuation-with-new-350-million-series-d-funding/?sh=6105ca5b58a5) and protocol TVLs from [DeFillama](https://defillama.com/home)
+⁴ [AUM de $15 billones de BlockFi](https://www.forbes.com/sites/ninabambysheva/2021/03/11/blockfi-gets-a-3-billion-valuation-with-new-350-million-series-d-funding/?sh=6105ca5b58a5) y TVL de protocolo de [DeFillama](https://defillama.com/home)
