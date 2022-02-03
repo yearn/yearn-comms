@@ -4,91 +4,85 @@ title: "Yearn Finance Newsletter #56"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-56/image1.png
 author: Yearn
-translator:
-publish: false
+translator: Cryptouf
+publish: true
 ---
 
-# Yearn Finance Newsletter #56
-
-### Week Ending February 2nd, 2022
+### Semaine du 30 Janvier, 2022
 
 ![](image1.png)
 
-Welcome to the 56th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+Bienvenue à la 56e édition de la Newsletter Yearn Finance. Notre objectif avec cette newsletter est de tenir la communauté Yearn, et plus généralement la communauté crypto, au courant des dernières nouvelles, y compris les lancements de produits, les changements de gouvernance et les mises à jour de l’écosystème. Si vous souhaitez en savoir plus sur Yearn Finance, suivez nos comptes [Twitter](https://twitter.com/iearnfinance) et [Medium](https://medium.com/iearn) officiels.
 
-## Summary
+## Résumé
 
-- Proposal to Upgrade Yearn’s Compensation System
-- Yearn Has Purchased An Additional 127.9 YFI For $3.9M
-- Yearn Users Eligible for NFT Badge From Project Galaxy 
-- Read the New Yearn Partner Tracker Audit 
-- Yearn Featured in ARK Invest Big Ideas Report
-- Vaults at Yearn
-- Ecosystem News
+- Proposition de refonte du système de rémunération de Yearn
+- Yearn a acheté 127,9 YFI supplémentaires pour 3,9 millions de dollars
+- Les utilisateurs de Yearn sont éligibles pour recevoir le badge NFT du projet Galaxy
+- Lisez l'audit de suivi des partenaires de Yearn
+- Yearn présenté dans le rapport de ARK Invest Big Ideas
+- Vaults chez Yearn
+- Nouvelles de l’écosystème
 
-# Proposal to Upgrade Yearn’s Compensation System
+# Proposition de refonte du système de rémunération de Yearn
 
 ![](image2.png)
 
-Want even more YFI buybacks, anon? What if Yearn's compensation system leveraged the new YFI tokenomics outlined in YIP-65? What if every time a Yearn team member gets paid they can allocate up to 100% to be used to buy and lock veYFI?
+Vous voulez encore plus de rachats de YFI, anon? Et si le système de rémunération de Yearn tirait parti de la nouvelle tokenomics décrite dans la YIP-65 ? Et si chaque fois qu'un membre de l'équipe Yearn reçois son salaire, il puisse en allouer jusqu'à 100 % pour acheter et verrouiller des veYFI ?
 
-After months of work, a group of 15 authors has presented a contributor buyout proposal, as well as new perks for people who choose to fully submit to Yearn.
+Après des mois de travail, un groupe de 15 auteurs a présenté une proposition de rachat de contributeur, ainsi que de nouveaux avantages pour les personnes qui choisissent de se s'impliquer entièrement dans Yearn.
 
-This proposal hopes to evolve Yearn to one single, flexible compensation plan, directly integrate veYFI tokenomics design, align all to YFI & incentivize token locking, and run autonomously. Included in the proposal is a history of compensation @ Yearn, the proposed new plan, steps to bridge to streamlined comp, and risks.
+Cette proposition vise à, faire évoluer Yearn vers un plan de rémunération unique et flexible, intégrer directement la conception des tokenomics veYFI, tout aligner sur le YFI et encourager le verrouillage des jetons, et fonctionner de manière autonome. La proposition comprend un historique de la rémunération chez @ Yearn, le nouveau plan proposé, les étapes pour passer à une rémunération simplifiée et les risques.
 
-We invite you to engage, give feedback, and participate in the non-binding signaling poll. Come build with us.
+Nous vous invitons à vous engager, à donner votre avis et à participer au sondage. Venez construire avec nous.
 
-Check out the proposal [here](https://gov.yearn.finance/t/proposal-streamlining-contributor-compensation/12247).
+Consultez la proposition [ici](https://gov.yearn.finance/t/proposal-streamlining-contributor-compensation/12247).
 
+# Yearn a acheté 127,9 YFI supplémentaires pour 3,9 millions de dollars
 
+Conformément au YIP-56: Buyback and Build Yearn, qui a été adopté en janvier 2021, nous sommes fiers d'annoncer que la "Yearn Treasury" a acheté 127,9 YFI supplémentaires pour 3,9 millions de dollars.
 
-# Yearn Has Purchased An Additional 127.9 YFI For $3.9M
+La "Yearn Treasury" continuera à achètera périodiquement des YFI supplémentaires en utilisant les bénéfices générés par le protocole jusqu'à ce qu'une nouvelle proposition de gouvernance soit adoptée qui modifie cette politique de rachat. Vous pouvez en savoir plus sur la proposition BABY [ici](https://gov.yearn.finance/t/yip-56-buyback-and-build/8929).
 
+Pour plus d'informations, une liste détaillée des achats précédents de YFI par la "Yearn Treasury" est disponible [ici](https://gov.yearn.finance/t/yfi-buyback-auctions/10491/3).
 
-In accordance with YIP-56: Buyback and Build Yearn, which was passed in January 2021, we are proud to announce that Yearn Treasury has purchased an additional 127.9 YFI for $3.9 million
-
-Yearn Treasury will periodically purchase additional YFI in the future using profits earned by the protocol until a new governance proposal is passed that alters this buyback policy. You can read about the BABY proposal here. 
-
-For more information, a detailed breakdown of previous YFI purchases by Yearn Treasury can be found [here](https://gov.yearn.finance/t/yfi-buyback-auctions/10491/3).
-
-# Yearn Users Eligible for NFT Badge From Project Galaxy
+# Les utilisateurs de Yearn sont éligibles pour recevoir le badge NFT du projet Galaxy
 
 ![](image3.png)
 
-With the help of our partners at Project Galaxy, we have brought the Yearn community another NFT badge, with special thanks to Coingecko. This badge is the second task of the Coingecko series and is called “Yield Farmer - DeFi 101”
+Avec l'aide de nos partenaires Project Galaxy, nous offrons à la communauté Yearn un autre badge NFT, avec des remerciements particuliers à Coingecko. Ce badge correspond à la deuxième tâche de la série Coingecko "Yield Farmer - DeFi 101"
 
-Users who have staked any amount on either Yearn, Alpha, or Badger will be rewarded with the “Yield Farmer - DeFi 101” badge. Keep an eye out for future rewards as well from us as well!
+Les utilisateurs qui ont misé n'importe quel montant sur Yearn, Alpha ou Badger seront récompensés par le badge "Yield Farmer - DeFi 101". Gardez également un œil sur les futures récompenses de notre part !
 
-Claim your future rewards at [galaxy.eco/coingecko ](https://twitter.com/ProjectGalaxyHQ/status/1487048124182921220?s=20&t=Z5Z2328-bsM-BNCp9d1KAA) and read the full thread [here](https://twitter.com/ProjectGalaxyHQ/status/1487048124182921220?s=20&t=Z5Z2328-bsM-BNCp9d1KAA).
+Réclamez vos futures récompenses sur [galaxy.eco/coingecko ](https://twitter.com/ProjectGalaxyHQ/status/1487048124182921220?s=20&t=Z5Z2328-bsM-BNCp9d1KAA) and read le fil complet [ici](https://twitter.com/ProjectGalaxyHQ/status/1487048124182921220?s=20&t=Z5Z2328-bsM-BNCp9d1KAA).
 
-
-# Read the New Yearn Partner Tracker Audit
+# Lisez l'audit de suivi des partenaires de Yearn
 
 ![](image4.png)
 
-Here at Yearn, we take security extremely seriously in hopes of giving our users the best risk-adjusted yields in DeFi.
+Chez Yearn, nous prenons la sécurité très au sérieux dans le but d'offrir à nos utilisateurs les meilleurs rendements ajustés au risque de la DeFi.
 
-Yearn Finance implements a partner tracker that tracks the vault deposits done over an affiliate partner. The tracked amount is simply the sum of all funds deposited via the partner into a specific vault. No security issues were found, and minor issues like unused imports or constants were fixed.
+Yearn Finance implémente un tracker de partenaire qui suit les dépôts de coffres effectués par un partenaire affilié. Le montant suivi est simplement la somme de tous les fonds déposés via le partenaire dans un coffre spécifique. Aucun problème de sécurité n'a été trouvé et des problèmes mineurs tels que les importations inutilisées ou les constantes ont été corrigés.
 
-Chainsecurity has additionally commended us on our codebase having a high level of security as well.
+Chainsecurity nous a également félicités pour notre codebase, qui a également un haut niveau de sécurité.
 
-Check out the full audit [here](https://chainsecurity.com/security-audit/yearn-finance-partner-tracker/).
+Découvrez l'audit complet [ici](https://chainsecurity.com/security-audit/yearn-finance-partner-tracker/).
 
-# Yearn Featured in ARK Invest Big Ideas Report
+# Yearn présenté dans le rapport ARK Invest Big Ideas
 
-![](image5.png)
+!![](image4.png)
 
-In this report, Yearn is noted as a company excelling in its disruptive innovation and being able to create a novel protocol that can displace older technologies. We receive comparisons to multi-trillion dollar asset manager BlackRock, with Yearn shown to generate nearly $15M in revenue per employee and BlackRock generating nearly 10x less per employee. 
+Dans ce rapport, Yearn est noté comme une excellante entreprise pour son innovation perturbatrice et capable de créer un nouveau protocole qui peut remplacer les technologies plus anciennes. Nous sommes comparé avec BlackRock, le gestionnaire d'actifs de plusieurs billions de dollars. Yearn générant près de 15 millions de dollars de revenus par employé et BlackRock générant près de 10 fois moins par employé.
 
-With the help of smart contracts, we are able to reduce counterparty risk and reduce dependencies on intermediaries, and create the most efficient asset manager in the world. And, thanks to new YIPs, the Yearn protocol will only grow stronger and scale bigger. 
+Avec l'aide de contrats intelligents, nous sommes en mesure de réduire le risque de contrepartie et de réduire les dépendances vis-à-vis des intermédiaires, et ainsi créer le gestionnaire d'actifs le plus efficace au monde. De plus, grâce aux nouveaux YIP, le protocole Yearn ne fera que se renforcer et s'étendre à l'avenir.
 
-The full report from ARK can be found [here](https://research.ark-invest.com/hubfs/1_Download_Files_ARK-Invest/White_Papers/ARK_BigIdeas2022.pdf?hsCtaTracking=217bbc93-a71a-4c2b-9959-0842b6fe301c%7C2653a4d0-af35-42f0-853a-c5f90f002abb).
+Le rapport complet de l'ARK est disponible [ici](https://research.ark-invest.com/hubfs/1_Download_Files_ARK-Invest/White_Papers/ARK_BigIdeas2022.pdf?hsCtaTracking=217bbc93-a71a-4c2b-9959-0842b6fe301c%7C2653a4d0-af35-42f0-853a-c5f90f002abb).
 
-# Vaults at Yearn
+# Vaults chez Yearn
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Vous pouvez trouver une description détaillée des stratégies de tous nos yVaults actifs [ici](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-# Ecosystem News
+# Nouvelles de l’écosystème
 
 [Check out this short overview of the newest Yearn proposal](https://twitter.com/0x7d54/status/1487252998023745540)
 
