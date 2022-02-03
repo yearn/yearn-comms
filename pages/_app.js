@@ -65,7 +65,6 @@ function	AppWrapper(props) {
 
 				<meta name={'robots'} content={'index,nofollow'} />
 				<meta name={'googlebot'} content={'index,nofollow'} />
-				<meta charSet={'utf-8'} />
 			</Head>
 			<DefaultSeo
 				title={process.env.WEBSITE_NAME}

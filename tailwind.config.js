@@ -5,12 +5,10 @@ module.exports = {
 		ringColor: false,
 	},
 	darkMode: 'class',
-	purge: {
-		content: [
-			'./pages/**/*.js',
-			'./components/**/*.js'
-		],
-	},
+	content: [
+		'./pages/**/*.js',
+		'./components/**/*.js'
+	],
 	theme: {
 		colors: {
 			'dark-blue-1': '#001746',
