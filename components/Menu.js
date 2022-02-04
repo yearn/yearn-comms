@@ -48,6 +48,8 @@ function	MenuItems() {
 					!router.asPath.startsWith('/articles/wot-is-goin-on')
 					&&
 					!router.asPath.startsWith('/articles/yearn-finance')
+					&&
+					!router.asPath.startsWith('/articles/marco-worms')
 				}
 				href={'/articles'} />
 			<div className={'mb-6 ml-4 space-y-2 md:mb-8 md:space-y-4'}>
@@ -66,6 +68,11 @@ function	MenuItems() {
 					label={common['menu-articles-wot']}
 					condition={router.asPath.includes('articles/wot-is-goin-on')}
 					href={'/articles/wot-is-goin-on'} />
+				<MenuItem
+					className={'mb-4'}
+					label={common['menu-articles-marco-worms']}
+					condition={router.asPath.includes('articles/marco-worms')}
+					href={'/articles/marco-worms'} />
 				<MenuItem
 					className={'mb-4 md:mb-8'}
 					label={common['menu-articles-yearn']}
