@@ -5,7 +5,7 @@ categories: [ Articles ]
 image: ./Can-Yearn-Disrupt-the-110-Trillion-Asset-Management-Industry/img-Wot_Is_Goin_On.png
 author: Wot_Is_Goin_On
 translator: RestlessMik3
-publish: false
+publish: true
 ---
 
 # ¿Puede Yearn revolucionar la industria de gestión de activos de más de 110 billones $?
