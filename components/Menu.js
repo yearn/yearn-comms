@@ -1,4 +1,5 @@
 import	React				from	'react';
+import	Image				from	'next/image';
 import	{useRouter}			from	'next/router';
 import	Link				from	'next/link';
 import	useLocalization		from	'contexts/useLocalization';
@@ -137,8 +138,11 @@ function	MenuMobile() {
 					<div className={'flex flex-row justify-between items-center'}>
 						<Link href={'/'}>
 							<span className={'flex flex-row items-start'}>
-								<IconYearnFilled />
-								<h1 className={'pl-1.5 text-lg font-bold text-dark-blue-1 dark:text-white'} style={{paddingTop: 1}}>{` ${common['title-blog']}`}</h1>
+								<Image src={'/YFI.png'} width={32} height={32} quality={95} loading={'eager'} />
+								<h1 className={'pl-4 text-lg font-bold text-dark-blue-1 dark:text-white'}>
+									<span className={'text-yearn-blue'}>{'yearn'}</span>
+									{` ${common['title-blog']}`}
+								</h1>
 							</span>
 						</Link>
 						<IconHamburger className={'block w-6 h-6 text-yearn-blue dark:text-white'} onClick={onExpand} />
@@ -190,8 +194,11 @@ function	MenuDesktop() {
 					<div className={'flex flex-row justify-between items-center'}>
 						<Link href={'/'}>
 							<span className={'flex flex-row items-start'}>
-								<IconYearnFilled />
-								<h1 className={'pl-1.5 text-lg font-bold text-dark-blue-1 dark:text-white'} style={{paddingTop: 1}}>{` ${common['title-blog']}`}</h1>
+								<Image src={'/YFI.png'} width={32} height={32} quality={95} loading={'eager'} />
+								<h1 className={'pl-4 text-lg font-bold text-dark-blue-1 dark:text-white'}>
+									<span className={'text-yearn-blue'}>{'yearn'}</span>
+									{` ${common['title-blog']}`}
+								</h1>
 							</span>
 						</Link>
 					</div>
