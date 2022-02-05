@@ -1,9 +1,9 @@
 ---
 title: "Yearn Finance explained: What are Vaults and Strategies?"
 image:
-  src: ./cover.png
-  width: 1280
-  height: 800
+  src: ./image3.jpg
+  width: 1024
+  height: 597
 date: '2022-01-18'
 author: Marco_Worms
 translator:

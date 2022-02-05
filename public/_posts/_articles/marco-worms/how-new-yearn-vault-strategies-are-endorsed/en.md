@@ -1,7 +1,7 @@
 ---
 title:  "How new Yearn Vault strategies are endorsed?"
 image:
-  src: ./cover.png
+  src: ./image1.jpg
   width: 1280
   height: 800
 date: '2022-02-02'
