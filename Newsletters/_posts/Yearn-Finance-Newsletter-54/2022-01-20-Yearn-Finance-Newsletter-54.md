@@ -28,7 +28,7 @@ Bienvenido a la 54.ª edición de la newsletter de Yearn Finance. Nuestro objeti
 
 # Presentamos siete nuevas bóvedas de Fantom
 
-![](imagen2.png)
+![](image2.png)
 
 En Fantom, estas siete vaults se unen a las disponibles: WBTC, WETH, SPELL, DOLA, Curve Tricrypto, Curve Geist y CRV
 
