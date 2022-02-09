@@ -4,8 +4,8 @@ title: "Yearn Finance Newsletter #54"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-54/image1.png
 author: Yearn
-translator:
-publish: false
+translator: Jengajojo
+publish: true
 ---
 
 # यर्न फाइनेंस समाचार पत्र #५४
