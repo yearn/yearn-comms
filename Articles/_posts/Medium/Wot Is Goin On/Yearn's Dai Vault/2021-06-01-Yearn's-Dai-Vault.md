@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vault de Dai en Yearn: ¿sabías que ahora es uno de los 20 principales protocolos DeFi?"
+title: "Vault de Dai en Yearn: ¿sabías que ahora es uno de los 20 principales protocolos DeFi?"
 categories: [ Articles ]
 image: ./Yearn's-Dai-Vault/img-Wot_Is_Goin_On.png
 author: Wot_Is_Goin_On
