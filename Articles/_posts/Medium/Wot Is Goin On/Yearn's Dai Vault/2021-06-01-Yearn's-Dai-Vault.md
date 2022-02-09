@@ -1,213 +1,213 @@
 ---
 layout: post
-title:  "Yearn’s Dai Vault —did you know it’s now a top 20 DeFi protocol?"
+title: "Vault de Dai en Yearn: ¿sabías que ahora es uno de los 20 principales protocolos DeFi?"
 categories: [ Articles ]
 image: ./Yearn's-Dai-Vault/img-Wot_Is_Goin_On.png
 author: Wot_Is_Goin_On
-translator:
-publish: false
+translator: RestlessMik3
+publish: true
 ---
 
-# **Yearn’s Dai Vault —did you know it’s now a top 20 DeFi protocol?**
+# **Vault de Dai en Yearn: ¿sabías que ahora es uno de los 20 principales protocolos DeFi?**
 
-If you go to [Yearn’s website](https://yearn.finance/vaults) you’ll see a list of nearly 50 crypto vaults, with the [SNX vault](https://twitter.com/iearnfinance/status/1395413780012666881) being the most recent. On [depositing your crypto](https://docs.yearn.finance/resources/guides/how-to-participate-in-a-yvault) into one of Yearn’s vaults, the protocol will begin generating a yield for you.
+Si visitas el [sitio web de Yearn](https://yearn.finance/vaults), verá una lista de casi 50 vaults de cripto, con la [Vault de SNX](https://twitter.com/iearnfinance/status/1395413780012666881) siendo la más reciente. Al [depositar tu cripto](https://docs.yearn.finance/resources/guides/how-to-participate-in-a-yvault) en una de las vaults de Yearn, el protocolo comenzará a generar un rendimiento para ti.
 
-![alt_text](image1.png)
+![texto_alterno](image1.png)
 
-Although it is buried away midway through the list, Yearn’s Dai vault has become a top 20 DeFi protocol in its own right:
+Aunque está enterrado en la mitad de la lista, la vault de Dai en Yearn se ha convertido en uno de los 20 principales protocolos DeFi por derecho propio:
 
-- Earning 13.2% APY for depositors from January 31st to May 31st 2021
-- $639.1m TVL on May 31st (this would place it 17th on [DeFiPulse](https://defipulse.com/))
-- Allocating 14.4% of all circulating Dai at end May
-- Generating $1.7m+ income for Yearn in May alone
-- Running [8 strategies](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) concurrently
-- Integrations with Alchemix, PoolTogether, Crypto.com and used by Yearn’s other vaults
-- Business as usual while [$1 trillion of crypto market cap was wiped out](https://edition.cnn.com/2021/05/22/investing/crypto-crash-bitcoin-regulation/index.html) over the last 2 weeks
+- Ganar 13.2% APY para depositantes del 31 de enero al 31 de mayo de 2021
+- $639,1 millones de TVL el 31 de mayo (esto lo ubicaría en el puesto 17 en [DeFiPulse](https://defipulse.com/))
+- Asignación del 14,4 % de todos los Dai en circulación a finales de mayo
+- Generación de ingresos de más de $1,7 millones para Yearn solo en mayo
+- Ejecutar [8 estrategias](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) simultáneamente
+- Integraciones con Alchemix, PoolTogether, Crypto.com y utilizado por otras vaults de Yearn
+- Negocios como de costumbre, mientras que [1 trillón $ de capitalización de mercado cripto se eliminó](https://edition.cnn.com/2021/05/22/investing/crypto-crash-bitcoin-regulation/index.html) durante las últimas 2 semanas
 
-This article explains how the vault earns a yield, who comes up with the strategies and who actually uses the vault.
+Este artículo explica cómo la vault obtiene un rendimiento, quién crea las estrategias y quién realmente usa la vault.
 
-Yearn’s Dai vault is also called the ‘Dai v2 vault’ and ‘yvDai’, where yvDai is the token representing your share of the Dai vault.
+La vault de Dai de Yearn también se denomina 'vault Dai v2' e 'yvDai', donde yvDai es el token que representa su parte de la vault de Dai.
 
-# **Depositors come first at Yearn — 13% APY on $639m**
+# **Los depositantes son lo primero en Yearn: 13 % APY en 639 millones $**
 
-Unlike in traditional finance where depositors are treated as a cheap source of funding, depositors come first at Yearn. This is one of the reasons why the TVL has increased rapidly since its inception.
+A diferencia de las finanzas tradicionales, donde los depositantes son tratados como una fuente barata de financiación, los depositantes son lo primero en Yearn. Esta es una de las razones por las que TVL ha aumentado rápidamente desde su creación.
 
-![alt_text](image2.png)
+![texto_alterno](image2.png)
 
-[Total Value Locked in the Yearn Ecosystem — Grafana](https://yearn.vision/?refresh=1m)
+[Valor total bloqueado en el ecosistema de Yearn: Grafana](https://yearn.vision/?refresh=1m)
 
-The two large jumps in TVL can be explained by the demand for Alchemix’s self-paying loans. More on the depositors later.
+Los dos grandes saltos en TVL pueden explicarse por la demanda de préstamos de autopago de Alchemix. Más sobre los depositantes más adelante.
 
-# **Yearn’s Dai vault income exceeds $1.7m in May**
+# **Los ingresos de la vault de Dai de Yearn superan los 1,7 millones de dólares en mayo**
 
-Yearn earns income from a [2% annual management fee and 20% performance fees](https://docs.yearn.finance/yearn-finance/yvaults/overview) (and the strategists receive half of the performance fee).
+Yearn obtiene ingresos de una [tarifa de gestión anual del 2 % y una tarifa de rendimiento del 20 %](https://docs.yearn.finance/yearn-finance/yvaults/overview) (y los estrategas reciben la mitad de la tarifa de rendimiento).
 
-The net income from the Dai vault alone has shown explosive growth from under $10k in January to over $1.7m in May.
+Solo los ingresos netos de la vault de Dai han mostrado un crecimiento explosivo desde menos de 10.000 dólares en enero hasta más de 1,7 millones de dólares en mayo.
 
-![alt_text](image3.png)
+![texto_alterno](image3.png)
 
-Numbers from [https://twitter.com/Bob_The_Buidler](https://twitter.com/Bob_The_Buidler)
+Números de [https://twitter.com/Bob_The_Buidler](https://twitter.com/Bob_The_Buidler)
 
-The income shown above is net of affiliation fees used to incentivize protocol integrations.
+Los ingresos que se muestran arriba son netos de las tarifas de afiliación utilizadas para incentivar las integraciones de protocolo.
 
-Traditional financial institutions often don’t publish their results until up to 3 months after the valuation date. However, because Ethereum is a transparent public blockchain and [Bob](https://twitter.com/Bob_The_Buidler)’s put together a website that compiles all of Yearn’s transactions, we already know the income of the Dai vault for May.
+Las instituciones financieras tradicionales a menudo no publican sus resultados hasta 3 meses después de la fecha de valoración. Sin embargo, debido a que Ethereum es una cadena de bloques pública transparente y [Bob](https://twitter.com/Bob_The_Buidler) creó un sitio web que compila todas las transacciones de Yearn, ya conocemos los ingresos de la vault de Dai para mayo.
 
-# **How does the vault generate income for its depositors?**
+# **¿Cómo genera ingresos la vault para sus depositantes?**
 
-At a high level Yearn’s vaults generate income in the three ways:
+En un nivel alto, las vaults de Yearn generan ingresos de tres formas:
 
-- Lending
-- Liquidity mining
-- Trading fees
+- Prestamos
+- Minería de liquidez
+- Tarifas comerciales
 
-This income is then increased using leverage.
+Este ingreso luego se incrementa utilizando el apalancamiento.
 
-Lending, liquidity mining and trading fees are the yield generating opportunities in DeFi today. As DeFi grows, for example with perpetual protocols and options protocols, Yearn will be in a great position to take advantage of the new ways of earning yield that new protocols offer.
+Los préstamos, la extracción de liquidez y las tarifas comerciales son las oportunidades que generan rendimiento en DeFi en la actualidad. A medida que crece DeFi, por ejemplo, con protocolos perpetuos y protocolos de opciones, Yearn estará en una excelente posición para aprovechar las nuevas formas de obtener rendimiento que ofrecen los nuevos protocolos.
 
-**Lending**
+**Préstamo**
 
-The original Yearn protocol was a yield optimizer that used the trusted lending protocols available at the time: Compound Finance, Aave and dydx.
+El protocolo Yearn original era un optimizador de rendimiento que utilizaba los protocolos de préstamo de confianza disponibles en ese momento: Compound Finance, Aave y dydx.
 
-Now Yearn can also choose from Cream Finance, targeting the long-tail of assets, and Alpha Homora, which has simplified leveraged yield farming.
+Ahora Yearn también puede elegir entre Cream Finance, que se enfoca en la larga cola de activos, y Alpha Homora, que ha simplificado la agricultura de rendimiento apalancada.
 
-Collateralised loans are usually the largest balance sheet item for banks, for example, [HSBC has £351bn of real estate loans](https://www.wsj.com/market-data/quotes/HSBC/financials/annual/balance-sheet). The difference is that in DeFi the collateral is crypto instead of real estate, therefore the LTVs need to be significantly lower in DeFi to reduce the risk of insolvency. DeFi lenders also charge high liquidation penalties to discourage borrowers from taking too much risk.
+Los préstamos garantizados suelen ser el elemento más grande del balance de los bancos, por ejemplo, [HSBC tiene £ 351 mil millones en préstamos inmobiliarios](https://www.wsj.com/market-data/quotes/HSBC/financials/annual/balance-sheet). La diferencia es que en DeFi la garantía es cripto en lugar de bienes raíces, por lo tanto, los LTV deben ser significativamente más bajos en DeFi para reducir el riesgo de insolvencia. Los prestamistas de DeFi también cobran altas multas de liquidación para disuadir a los prestatarios de asumir demasiados riesgos.
 
-HSBC does not disclose how many of their 226,059 employees are required to keep the interest rates updated, but in DeFi the interest rates are set according to a formula that is chosen by the lending protocols’ token holders. The graph below shows how Compound Finance sets the interest rate for Dai to be dependent on the utilization ratio.
+HSBC no revela cuántos de sus 226.059 empleados están obligados a mantener las tasas de interés actualizadas, pero en DeFi las tasas de interés se establecen de acuerdo con una fórmula elegida por los titulares de tokens de los protocolos de préstamos. El siguiente gráfico muestra cómo Compound Finance establece que la tasa de interés para Dai depende del índice de utilización.
 
-![alt_text](image4.png)
+![texto_alterno](image4.png)
 
 [https://compound.finance/governance/proposals/18](https://compound.finance/governance/proposals/18)
 
-Although the collateral is crypto today, [real-world assets are on their way to DeFi](https://thedefiant.io/makerdao-will-soon-hold-real-world-assets-as-collateral/).
+Aunque la garantía es criptomoneda hoy, [los activos del mundo real están en camino a DeFi](https://thedefiant.io/makerdao-will-soon-hold-real-world-assets-as-collateral/).
 
-**Liquidity mining**
+**Minería de liquidez**
 
-Liquidity mining involves rewarding users of the protocol with the protocol’s native tokens. I wrote about the different ways protocols incentivize behaviour in [section 3 here](https://medium.com/can-yearn-disrupt-the-110-trillion-asset-management-industry-8fea100cead0).
+La minería de liquidez implica recompensar a los usuarios del protocolo con los tokens nativos del protocolo. Escribí sobre las diferentes formas en que los protocolos incentivan el comportamiento en [sección 3 aquí](https://medium.com/can-yearn-disrupt-the-110-trillion-asset-management-industry-8fea100cead0).
 
-Liquidity mining is used by DeFi protocols to:
+La minería de liquidez es utilizada por los protocolos DeFi para:
 
-- Decentralize the protocol, thereby making it censorship resistant
-- Bring liquidity (and attention) to the protocol, which creates a honeypot to entice hackers and test its security
-- Distribute tokens to the users, so that the incentives of the owners and the users of the protocol are aligned. This increases the chances that the users and owners of the protocol will come together and build something useful and sustainable
+- Descentralizar el protocolo, haciéndolo así resistente a la censura.
+- Aportar liquidez (y atención) al protocolo, que crea un honeypot para atraer a los piratas informáticos y probar su seguridad.
+- Distribuir tokens a los usuarios, de forma que se alineen los incentivos de los propietarios y los usuarios del protocolo. Esto aumenta las posibilidades de que los usuarios y propietarios del protocolo se unan y construyan algo útil y sostenible.
 
-Yearn’s Dai vault earns:
+La vault de Dai de Yearn gana:
 
-- CRV rewards which are then swapped for Dai in the single-sided Curve strategy
-- COMP rewards by supplying Dai onto Compound Finance
-- IDLE and COMP rewards by supplying Dai onto IDLE Finance
-- ROOK rewards by supplying Dai to KeeperDAO
-- POOL rewards by entering PoolTogether’s Dai lottery. On 23rd April the vault even won [$70k in the weekly lottery](https://app.pooltogether.com/prizes/mainnet/PT-cDAI/26)
+- Recompensas CRV que luego se intercambian por Dai en la estrategia Curve de un solo lado
+- Recompensas de COMP al suministrar Dai a Compound Finance
+- Recompensas IDLE y COMP al suministrar Dai a IDLE Finance
+- Recompensas de ROOK al suministrar Dai a KeeperDAO
+- Recompensas de POOL al ingresar a la lotería Dai de PoolTogether. El 23 de abril, la vault incluso ganó [70k $ en la lotería semanal](https://app.pooltogether.com/prizes/mainnet/PT-cDAI/26)
 
-You can earn these rewards without Yearn and avoid paying fees but using Yearn has the following advantages:
+Puede ganar estas recompensas sin Yearn y evitar pagar tarifas, pero usar Yearn tiene las siguientes ventajas:
 
-- A bunch of full-timers on-hand to find new protocols
-- The recently established [YFI Safe Farming Committee](https://gov.yearn.finance/t/introducing-yearn-safe-farming-committee/10533) to check whether the contracts are secure
-- Developers to codify the strategies
-- Close monitoring of each of these strategies to quickly withdraw funds, or move funds to a higher returning strategy
-- A team determining the optimal allocation across different strategies
-- Able to spread the transaction fees across large amounts of capital. Ethereum charges the same gas fee to sell 0.1 COMP tokens for Dai on Uniswap or Sushiswap as it does 10 COMP tokens
-- It is the largest holder of veCRV which is used to [boost the CRV rewards](https://docs.yearn.finance/resources/guides/how-to-understand-crv-vote-locking). To get the same level of rewards a user would have to lock a significant proportion of CRV tokens
+- Un grupo de empleados de tiempo completo disponibles para encontrar nuevos protocolos
+- El recientemente establecido [Comité de Agricultura Segura de YFI](https://gov.yearn.finance/t/introducing-yearn-safe-farming-committee/10533) para verificar si los contratos son seguros
+- Desarrolladores para codificar las estrategias.
+- Monitoreo cercano de cada una de estas estrategias para retirar fondos rápidamente o mover fondos a una estrategia de mayor rendimiento
+- Un equipo que determina la asignación óptima en diferentes estrategias
+- Capaz de distribuir las tarifas de transacción entre grandes cantidades de capital. Ethereum cobra la misma tarifa de gas para vender 0.1 tokens COMP para Dai en Uniswap o Sushiswap que para 10 tokens COMP
+- Es el tenedor más grande de veCRV que se usa para [aumentar las recompensas de CRV](https://docs.yearn.finance/resources/guides/how-to-understand-crv-vote-locking). Para obtener el mismo nivel de recompensas, un usuario tendría que bloquear una proporción significativa de tokens CRV
 
-**Trading fees**
+**Comisiones comerciales**
 
-Trading fees can be earned by supplying liquidity to automated market-makers (AMMs) such as Uniswap or Sushiswap, however, this gives rise to the risk of [impermanent loss](https://academy.binance.com/en/articles/impermanent-loss-explained). Yearn does not expose the Dai valt to impermanent loss using these AMMs because this gives rise to the risk of not being able to pay the depositors the same token that they deposited.
+Se pueden obtener tarifas comerciales al proporcionar liquidez a los creadores de mercado automatizados (AMM) como Uniswap o Sushiswap; sin embargo, esto genera el riesgo de [pérdida impermanente](https://academy.binance.com/en/articles/impermanent-loss-explained). Yearn no expone el valor de la vault de Dai a una pérdida impermanente con estos AMM porque esto genera el riesgo de no poder pagar a los depositantes el mismo token que depositaron.
 
-However, Curve Finance is an AMM designed to allow the trading of pairs that are similarly priced (for example, Dai/USDT or Dai/USDC) and therefore has a low risk of impermanent loss.
+Sin embargo, Curve Finance es un AMM diseñado para permitir el comercio de pares que tienen un precio similar (por ejemplo, Dai/USDT o Dai/USDC) y, por lo tanto, tiene un bajo riesgo de pérdida impermanente.
 
-The single-sided CRV strategy earns trading fees from Curve Finance by providing Dai liquidity.
+La estrategia CRV de un solo lado gana tarifas comerciales de Curve Finance al proporcionar liquidez a Dai.
 
-**Leverage**
+**Aprovechar**
 
-It can be difficult to keep up with all the ways of accessing leverage in DeFi. Leverage itself is not a means of generating income, but it can be used to increase the yield if you can earn a higher rate than the cost of borrowing.
+Puede ser difícil mantenerse al día con todas las formas de acceder al apalancamiento en DeFi. El apalancamiento en sí mismo no es un medio para generar ingresos, pero puede usarse para aumentar el rendimiento si puede ganar una tasa más alta que el costo del préstamo.
 
-Yearn uses the following approaches for the Dai vault:
+Yearn utiliza los siguientes enfoques para la vault de Dai:
 
-- Aave or dydx flashloans to increase the yields in the Leveraged COMP farming strategy
-- Uncollateralised borrowing (from Cream’s Ironbank) for strategies that earn a higher income than the cost of debt
+- Prestamos Flash de Aave o dydx para aumentar los rendimientos en la estrategia de agricultura COMP apalancada
+- Préstamo sin garantía (de Cream's Ironbank) para estrategias que obtienen un ingreso mayor que el costo de la deuda
 
-In the Dai vault flashloans involve borrowing Dai, deploying it to earn an income and then paying it back in the same transaction.
+En la vault de Dai, los préstamos instantáneos implican pedir prestado Dai, implementarlo para obtener un ingreso y luego devolverlo en la misma transacción.
 
-Uncollateralised loans from Ironbank was a first in protocol-to-protocol lending and borrowing. Essentially, the Ironbank protocol trusts that the Yearn strategies will be able to make enough income to pay back the loan’s interest. If you’re familiar with flashloans then uncollateralised lending from Ironbank can be viewed as a flashloan but over a longer period of time.
+Los préstamos sin garantía de Ironbank fueron los primeros en préstamos y préstamos de protocolo a protocolo. Esencialmente, el protocolo de Ironbank confía en que las estrategias de Yearn podrán generar suficientes ingresos para pagar los intereses del préstamo. Si está familiarizado con los préstamos rápidos, los préstamos no garantizados de Ironbank pueden verse como préstamos rápidos, pero durante un período de tiempo más largo.
 
-See section [v2 DAI yVault (yvDAI)](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) for the strategies in more detail.
+Consulte la sección [v2 DAI yVault (yvDAI)](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) para conocer las estrategias con más detalle.
 
-# **Who comes up with the strategies?**
+# **¿A quién se le ocurren las estrategias?**
 
-Yearn now has [30 full time contributors](https://twitter.com/bantg/status/1395115320344563713?s=20) but it’s the strategists who come up with ways of earning yield. They are incentivized by half of the performance fees earned by the vaults.
+Yearn ahora tiene [30 colaboradores a tiempo completo](https://twitter.com/bantg/status/1395115320344563713?s=20), pero son los estrategas quienes encuentran formas de obtener rendimiento. Están incentivados por la mitad de las tarifas de rendimiento ganadas por las vaults.
 
-The graph below shows how the strategists had earned over $5m by the beginning of May (across all vaults, not just Dai).
+El siguiente gráfico muestra cómo los estrategas habían ganado más de 5 millones $ a principios de mayo (en todas las vaults, no solo en Dai).
 
-![alt_text](image5.png)
+![texto_alterno](image5.png)
 
-y-axis is in $m (source: [https://twitter.com/bantg](https://twitter.com/bantg))
+el eje "y" está en m$ (fuente: [https://twitter.com/bantg](https://twitter.com/bantg))
 
-# **Who actually uses Yearn’s Dai vault?**
+# **¿Quién usa realmente la vault de Dai de Yearn?**
 
-The largest depositors are not people, they are other protocols.
+Los depositantes más grandes no son personas, son otros protocolos.
 
-![alt_text](image6.png)
+![texto_alterno](image6.png)
 
-Alchemix is leading the way in Dai vault deposits
+Alchemix lidera el camino en depósitos de la vault de Dai
 
-The diversity of the Dai vault integrations discussed below shows:
+La diversidad de las integraciones de la vault de Dai discutidas a continuación nos muestra:
 
-- What becomes possible with higher interest rates
-- That the vaults have been designed with integrations in mind
-- How incentivizing other protocols to integrate with affiliation fees can create win-win relationships with other protocols
-- That the reliability of Yearn’s vaults means that developers are starting to come up with ways of building on top of them
+- Lo que se hace posible con tasas de interés más altas
+- Que las vaults se han diseñado teniendo en cuenta las integraciones
+- Cómo incentivar la integración de otros protocolos con las tarifas de afiliación puede crear relaciones beneficiosas para todos con otros protocolos
+- Que la confiabilidad de las vaults de Yearn significa que los desarrolladores están comenzando a idear formas de construir sobre ellas.
 
 [**Alchemix**](https://alchemix.fi/)
 
-Alchemix lets you deposit Dai in return for alUSD credit, up to a 200% collateralisation ratio. The protocol then sends the Dai to Yearn’s Dai vault, where it can earn the highest risk-adjusted yields. The interest earned on the full amount of the collateral is then used to pay off your alUSD debt.
+Alchemix le permite depositar Dai a cambio de crédito alUSD, hasta un índice de colateralización del 200%. Luego, el protocolo envía el Dai a la vault de Dai de Yearn, donde puede obtener los rendimientos ajustados al riesgo más altos. El interés ganado sobre el monto total de la garantía se utiliza para pagar su deuda de alUSD.
 
-Alchemix’s self-paying loans allow you to earn a yield on all of your investment whilst borrowing against it at the same time.
+Los préstamos de autopago de Alchemix le permiten obtener un rendimiento de toda su inversión mientras pide prestado contra ella al mismo tiempo.
 
-You can listen to [Scoopy Trooples](https://twitter.com/scupytrooples) talk about Alchemix [here](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9sS21RREc5Ug/episode/MzgzNDBkMDctZDk4Zi00ZmI1LThkMjYtMGM5MzgyZjMwNTdk?ep=14).
+Puedes escuchar a [Scoopy Trooples](https://twitter.com/scupytrooples) hablar sobre Alchemix [aquí](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9sS21RREc5Ug/episode/MzgzNDBkMDctZDk4Zi00ZmI1MGMp=MjYZgyt1).
 
 [**PoolTogether**](https://app.pooltogether.com/?tab=pools)
 
-PoolTogether’s no-loss lottery earns interest using the Dai vault. Lotteries are just better on Ethereum — tamper-proof, provably random, transparent and the winnings can be paid immediately.
+La lotería sin pérdidas de PoolTogether gana intereses usando la vault de Dai. Las loterías son simplemente mejores en Ethereum: a prueba de manipulaciones, probablemente aleatorias, transparentes y las ganancias se pueden pagar de inmediato.
 
-As with many of the best ideas in DeFi, the idea to use Yearn’s Dai vault to earn interest came from a [governance forum post](https://gov.pooltogether.com/t/use-yearn-vaults-to-generate-a-higher-payout/639) (this one by reeserj).
+Al igual que con muchas de las mejores ideas en DeFi, la idea de usar la vault de Dai de Yearn para ganar intereses surgió de una [publicación en el foro de gobernanza](https://gov.pooltogether.com/t/use-yearn-vaults-to-generate-a-higher-payout/639) (este de reeserj).
 
-The UK’s biggest savings product is Premium Bonds, which is a no-loss lottery. More than [21 million people save over £107bn](https://www.moneysavingexpert.com/savings/premium-bonds/) in them, for the chance to earn their share of a [1% annual prize fund rate](https://www.nsandi.com/products/premium-bonds).
+El mayor producto de ahorro del Reino Unido es Premium Bonds, que es una lotería sin pérdidas. Más de [21 millones de personas ahorran más de 107.000 millones de libras esterlinas](https://www.moneysavingexpert.com/savings/premium-bonds/) en ellos, por la oportunidad de ganar su parte de una [tasa de fondo de premios anual del 1 %]( https://www.nsandi.com/products/premium-bonds).
 
-That’s over £100bn ($140bn) addressable market from no-loss lotteries from the UK alone! That’s over 40 times Yearn’s current TVL. No doubt the addressable market would be a lot higher if the annual interest rate was greater than 1% too.
+¡Eso es más de 100 mil millones £ (140 mil millones $) mercado direccionable de loterías sin pérdidas del Reino Unido solamente! Eso es más de 40 veces el TVL actual de Yearn. Sin duda, el mercado direccionable sería mucho más alto si la tasa de interés anual también fuera superior al 1%.
 
-For those saying that DeFi is in a bubble, the amount “saved” in 1% yielding UK Premium Bonds is more than twice the total TVL of all the DeFi protocols.
+Para aquellos que dicen que DeFi está en una burbuja, la cantidad "ahorrada" en el 1% que produce bonos premium del Reino Unido es más del doble del TVL total de todos los protocolos DeFi.
 
 **Crypto.com**
 
-Crypto.com, a multi-billion dollar centralized exchange with over 10m users, enables you to [earn interest from Yearn](https://help.crypto.com/en/articles/4933348-defi-earn-yearn-earn-v2). It offers an earlier version of Yearn’s Dai interest earning product.
+Crypto.com, un intercambio centralizado de billones de dólares con más de 10 millones de usuarios, le permite [ganar interés de Yearn](https://help.crypto.com/en/articles/4933348-defi-earn-yearn-earn-v2). Ofrece una versión anterior del producto de generación de intereses Dai de Yearn.
 
-Integrations with centralized exchanges, which will have a completely different set of risk considerations compared to DeFi protocols, is a vote of confidence in Yearn’s vaults.
+Las integraciones con intercambios centralizados, que tendrán un conjunto completamente diferente de consideraciones de riesgo en comparación con los protocolos DeFi, es un voto de confianza en las vaults de Yearn.
 
-[**Inverse Finance**](https://inverse.finance/)
+[**Finanzas inversas**](https://inverse.finance/)
 
-Inverse Finance allows you to earn a yield from the Dai vault that is [paid in the token of your choice](https://medium.com/inversefinance/inverse-finance-deposit-dai-earn-eth-bc5dda6d5867). This is perfect for people who want to have exposure to the volatile crypto market but don’t want to risk their principal (except for smart contract risk).
+Inverse Finance le permite obtener un rendimiento de la vault de Dai que se [paga en el token de su elección](https://medium.com/inversefinance/inverse-finance-deposit-dai-earn-eth-bc5dda6d5867). Esto es perfecto para las personas que quieren estar expuestas al volátil mercado de las criptomonedas pero que no quieren arriesgar su principal (excepto por el riesgo del contrato inteligente).
 
-**Yearn’s other vaults**
+**Otras vaults de Yearn**
 
-You know you’ve designed a good product when you use it yourself, and that’s what Yearn does. One of the highest yielding strategies for Yearn’s wBTC, ETH and YFI vaults has been to mint Dai from MakerDAO, and then deposit the newly minted Dai in the Dai vault. These strategies rely on the cost of borrowing being below the Dai yield net of fees.
+Sabes que has diseñado un buen producto cuando lo usas tú mismo, y eso es lo que hace Yearn. Una de las estrategias de mayor rendimiento para las vaults de wBTC, ETH e YFI de Yearn ha sido acuñar Dai de MakerDAO y luego depositar el Dai recién acuñado en la vault de Dai. Estas estrategias se basan en que el costo de los préstamos esté por debajo del rendimiento de Dai neto de las tarifas.
 
-[**Yearn’s Treasury (ychad.eth)**](https://t.co/T3ihkeTIQA?amp=1)
+[**Tesoro de Yearn (ychad.eth)**](https://t.co/T3ihkeTIQA?amp=1)
 
-Yearn’s treasury also uses the vaults to earn an interest on its holdings. At the time of writing other stablecoin vaults paid a higher APY but the Dai vault is also used.
+La tesorería de Yearn también utiliza las vaults para obtener intereses sobre sus activos. En el momento de escribir este artículo, otras vaults de monedas estables pagaban un APY más alto, pero también se utiliza la vault de Dai.
 
-**Future integrations?**
+**Futuras integraciones?**
 
-[**Saffron Finance**](https://saffron.finance/)
+[**Finanzas de azafrán**](https://saffron.finance/)
 
-The yield on the Dai vault is dependent on several strategies and therefore varies a lot. Although DeFi users are comfortable with variable yields, in traditional finance variable APYs put a lot of investors off. Many people want to use their interest income to pay rent or to cover regular outgoings and are happy to accept a reduced yield in return for more certainty. Saffron Finance does this by tranching risk.
+El rendimiento de la vault Dai depende de varias estrategias y, por lo tanto, varía mucho. Aunque los usuarios de DeFi se sienten cómodos con los rendimientos variables, en las finanzas tradicionales, los APY variables desaniman a muchos inversores. Mucha gente quiere usar sus ingresos por intereses para pagar el alquiler o para cubrir los gastos regulares y está feliz de aceptar un rendimiento reducido a cambio de una mayor certeza. Saffron Finance hace esto dividiendo el riesgo en tramos.
 
-For example, instead of earning a variable APY from Dai you could split the vault’s APY in to a low risk tranche and a high risk tranche. By investing in the lower risk tranche you could earn a fixed 3% APY (still much higher than that available from the bank) and investors in the riskier tranche could earn the remaining interest.
+Por ejemplo, en lugar de obtener un APY variable de Dai, podría dividir el APY de la vault en un tramo de bajo riesgo y un tramo de alto riesgo. Al invertir en el tramo de menor riesgo, podría ganar un APY fijo del 3% (todavía mucho más alto que el disponible del banco) y los inversores en el tramo de mayor riesgo podrían ganar el interés restante.
 
-This could open up the addressable market of Yearn’s Dai vault to a much larger group of investors seeking lower risk, fixed returns.
+Esto podría abrir el mercado direccionable de la vault de Dai de Yearn a un grupo mucho más grande de inversores que buscan rendimientos fijos y de menor riesgo.
 
 [**Auctus**](https://auctus.org/)
 
-Auctus is an options protocol that allows you to purchase wBTC and ETH options. It also allows you to buy these options with the interest earned from stablecoins using their CRV3Pool strategy. Buying ETH or wBTC call options with the interest earned gives you exposure to the upside of ETH or wBTC without the risk of loss of capital (beyond smart contract risk). This strategy is similar to the one applied by Inverse Finance. As Yearn becomes the go-to place to earn a yield in DeFi more protocols will use the Dai vault to earn the yield for strategies like this.
+Auctus es un protocolo de opciones que le permite comprar opciones de wBTC y ETH. También le permite comprar estas opciones con el interés obtenido de las monedas estables utilizando su estrategia CRV3Pool. Comprar opciones de compra de ETH o wBTC con el interés ganado le brinda exposición al alza de ETH o wBTC sin el riesgo de pérdida de capital (más allá del riesgo del contrato inteligente). Esta estrategia es similar a la que aplica Inverse Finance. A medida que Yearn se convierte en el lugar al que acudir para obtener un rendimiento en DeFi, más protocolos utilizarán la vault de Dai para obtener el rendimiento de estrategias como esta.
 
-**How do I keep up with all this?**
+**¿Cómo me mantengo al día con todo esto?**
 
-To keep up to date with the state of the vaults make sure to subscribe to the [State of the Vaults newsletter](https://medium.com/yearn-state-of-the-vaults) (written by [qosmonot](https://twitter.com/qosmonot?lang=en-gb)) or catch up on YouTube [here](https://www.youtube.com/channel/UC_o4_cOevPVYC5pXs9OOexg). You can follow me on Twitter [here](https://twitter.com/Wot_Is_Goin_On).
+Para mantenerse al día con el estado de las vaults, asegúrese de suscribirse al [boletín informativo State of the Vaults](https://medium.com/yearn-state-of-the-vaults) (escrito por [qosmonot]( https://twitter.com/qosmonot?lang=en-gb)) o ponte al día en YouTube [aquí](https://www.youtube.com/channel/UC_o4_cOevPVYC5pXs9OOexg). Puedes seguirme en Twitter [aquí](https://twitter.com/Wot_Is_Goin_On).
