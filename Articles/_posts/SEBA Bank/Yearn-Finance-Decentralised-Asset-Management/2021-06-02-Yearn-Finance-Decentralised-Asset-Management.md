@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Yearn Finance - Dezentrale Vermögensverwaltung"
-categories: [ Articles ]
+title: "Yearn Finance - Dezentrale Vermögensverwaltung"
+categories: [Articles]
 image: ./Yearn-Finance-Decentralised-Asset-Management/seba.jpg
 author: The Digital Investor
-translator: " Nesyeth"
+translator: Nesyeth
 publish: true
 ---
 
