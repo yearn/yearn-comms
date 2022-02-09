@@ -5,7 +5,7 @@ categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-54/image1.png
 author: Yearn
 translator: Stathis
-publish: True
+publish: true
 ---
 
 # Ενημερωτικό Δελτίο του Yearn Finance #54
