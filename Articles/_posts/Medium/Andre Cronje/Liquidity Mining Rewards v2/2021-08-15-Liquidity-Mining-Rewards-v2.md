@@ -18,7 +18,7 @@ Concepto y arquitectura por [pods.finance](https://www.pods.finance/)
 
 Minería de liquidez / Recompensas / Incentivos, como quieras llamarlos, son parte innata de las criptomonedas. Incluso la prueba de trabajo (minería) proporciona algo a cambio de recompensas (en prueba de trabajo, proporciona seguridad \[o más bien electricidad\] para cripto)
 
-El primero (que yo sepa) en proporcionar recompensas por liquidez fue [synthetix.io](https://synthetix.io/), esto comenzó con el grupo `sETH/ETH`, que eventualmente se movió a `sUSD` [curve .fi](https://curve.fi/) grupo. Si proporcionó liquidez a estos grupos, fue recompensado con SNX (el token Synthetix nativo).
+El primero (que yo sepa) en proporcionar recompensas por liquidez fue [synthetix.io](https://synthetix.io/), esto comenzó con el grupo `sETH/ETH`, que eventualmente se movió a `sUSD` [curve.fi](https://curve.fi/) grupo. Si proporcionó liquidez a estos grupos, fue recompensado con SNX (el token Synthetix nativo).
 
 El contrato algo legendario [StakingRewards](https://github.com/Synthetixio/synthetix/blob/develop/contracts/StakingRewards.sol), se desarrolló originalmente en asociación con Anton de [1inch.exchange](https://1inch.exchange/). Este contrato se convirtió en la base de lo que es la minería de liquidez tal como la conocemos hoy.
 
