@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Yearn Finance Newsletter #55"
-categories: [Newsletters]
 image:
   src: ./image1.jpg
   width: 1456
@@ -10,6 +9,7 @@ author: Yearn
 date: '2022-01-26'
 translator: Xiaona
 ---
+
 
 
 # Yearn Finance 最新动态 #55
