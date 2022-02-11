@@ -8,7 +8,7 @@ translator: Stathis
 publish: true
 ---
 
-# Yearn Finance Newsletter #44
+# Eνημερωτικό Σημείωμα του Yearn Finance #44
 
 ![](image1.jfif)
 
