@@ -28,14 +28,14 @@ Benvenuti alla 55esima edizione della Newsletter di Yearn Finance. L’obbiettiv
 - Notizie dall’ecosistema
 
 
-# La TVL di Yearn su Fantom raggiunge il miliardo di dollari. 
+# Il TVL di Yearn su Fantom raggiunge il miliardo di dollari. 
 [](image2.png)
-Siamo entusiasti di annunciare che il valore totale bloccato (TVL) in tutti i prodotti Yearn su Fantom ha superato il miliardo di dollari. La TVL nei prodotti Yearn più recenti ha visto una crescita esplosiva negli ultimi tempi e non mostra segni di rallentamento!
+Siamo entusiasti di annunciare che il valore totale bloccato (TVL) in tutti i prodotti Yearn su Fantom ha superato il miliardo di dollari. Il TVL nei prodotti Yearn più recenti ha visto una crescita esplosiva negli ultimi tempi e non mostra segni di rallentamento!
 
 # Aggiornamento riguardo i Vaults su Fantom.
-Con l'ascesa del nuovo progetto Solidly ve(3,3) di Andre Cronje & Daniele Sestagalli, gli attacchi “vampireschi” (vampire attacks) sono arrivati anche su Fantom : gli utenti tentano in ogni modo di diventare eligibili all’airdrop di Solidly, utilizzando i Top 20 progetti per TVL su Fantom.
+Con l'ascesa del nuovo progetto Solidly ve(3,3) di Andre Cronje & Daniele Sestagalli, gli attacchi “vampireschi” (vampire attacks) sono arrivati anche su Fantom : i protocolli tentano in ogni modo di diventare eligibili all’airdrop di Solidly, utilizzando i Top 20 progetti per TVL su Fantom.
 
-Yearn ha “approfittato” di questi attacchi e ha permesso agli investitori di guadagnare i più ali tassi annuali (risk-adjusted) sui loro token. Abbiamo ottenuto il miglior rendimento su 0xDAO, veDAO, Scream, Curve, Beets, Tarot ecc. I nostri Fantom Vault hanno strategie per tutti questi token, variano automaticamente in funzione del più redditizio e realizzano profitti ogni 30 minuti in modo da non lasciarti mai a secco. Nonostante la campagna di attacco dei vampiri sia terminata da poco, saremo su Fantom al tuo fianco per molto tempo quando che i vampiri saranno diventati un'altra pagina di un manga di storia.
+Yearn ha “approfittato” di questi attacchi e ha permesso agli investitori di guadagnare i più alti tassi annuali (risk-adjusted) sui loro token. Abbiamo ottenuto il miglior rendimento su 0xDAO, veDAO, Scream, Curve, Beets, Tarot ecc. I nostri Fantom Vault hanno strategie per tutti questi token, variano automaticamente in funzione del più redditizio e realizzano profitti ogni 30 minuti in modo da non lasciarti mai a secco. Nonostante la campagna di attacco dei vampiri sia terminata da poco, saremo su Fantom al tuo fianco per molto tempo quando che i vampiri saranno diventati un'altra pagina di un manga di storia.
 
 Qual è la tua prossima mossa? Inizia a depositare capitale oggi stesso su [yearn.finance/vaults](https://yearn.finance/vaults).
 
@@ -57,7 +57,7 @@ Leggi il nuovo articolo completo  [qui](https://fantom.foundation/blog/fantom-ec
 
 Gli aggiornamenti web di Yearn di questa settimana includono un APY hover tooltips aggiunto all'UI e una correzione della Dust per i prelievi dai vaults.
 
-Prossimamente ci saranno miglioramenti alla sicurezza, con un write-up dettagliato, una UI/UX multi-chain di livello superiore e un progetto su una nuova L1.
+Prossimamente ci saranno miglioramenti alla sicurezza, con un approfondimento specifico, una UI/UX multi-chain di livello superiore e un progetto su una nuova L1.
 
 Leggi i dettagli riguardo gli aggiornamenti [qui](https://yearnweb.substack.com/p/yearn-web-engineering-update-7d7?r=2y79e&utm_campaign=post&utm_medium=web).
 
@@ -69,7 +69,7 @@ I vaults di Yearn sono gettoni IOU creati da strateghi che intraprendono un diff
 
 Una strategia precedentemente utilizzata da Yearn può essere vista nel v1 Ethereum yVault: Quando un utente deposita ETH, l'ETH viene poi prestato a MakerDAO come garanzia, che viene utilizzata per prendere in prestito DAI che viene poi depositato nel DAI yVault.
 
-Alcune domande comuni che gli utenti ci fanno sono "Come e quando Yearn sposta i fondi all'interno del vault e fa pagare le commissioni?" e "Come fa Yearn a garantire una strategia per generare sempre nuovi token invece di perderli?". Una delle funzioni chiave di una strategia si chiama "harvest". Quando viene attivata, essa innesca un processo di riequilibrio in cui il profitto viene “realizzato” e reinvestito nuovamente nella strategia. Gli strateghi usano anche una serie di strumenti per monitorare i dati della catena per assicurare la salute della strategia. Uno di questi strumenti è Yearn Watch, che presenta una raffinata interfaccia utente con molte delle metriche chiave estratte live dalla blockchain.
+Alcune domande comuni che gli utenti ci fanno sono "Come e quando Yearn sposta i fondi all'interno del vault e fa pagare le commissioni?" e "Come fa Yearn a garantire una strategia per generare sempre nuovi token invece di perderli?". Una delle funzioni chiave di una strategia si chiama "harvest". Quando viene attivata, essa innesca un processo di riequilibrio in cui il profitto viene “realizzato” e reinvestito nuovamente nella strategia. Gli strateghi usano anche una serie di strumenti per monitorare i dati della blockchain per assicurare la salute della strategia. Uno di questi strumenti è Yearn Watch, che presenta una raffinata interfaccia utente con molte delle metriche chiave estratte live dalla blockchain.
 
 Yearn e Keep3r inoltre, fortemente sinergici, assicurano che i vaults mantengano sempre le loro prestazioni. Per costruire strategie, avrete bisogno di una buona comprensione di Vyper (per yVaults) e Solidity (per le strategie). I requisiti di base per diventare uno stratega sono: conoscenza dell'ecosistema blockchain in cui verrà offerta la strategia, che può essere acquisita facendo una ricerca approfondita di tokenomics e della documentazione per tutti i token utilizzati nella strategia stessa ; conoscenza del linguaggio di programmazione Solidity simile al completamento del livello 4 su CryptoZombies ; sapere come muoversi su git, eth-brownie, e ganache.
 
