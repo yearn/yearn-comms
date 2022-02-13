@@ -4,7 +4,6 @@ import	{useRouter}			from	'next/router';
 import	Link				from	'next/link';
 import	useLocalization		from	'contexts/useLocalization';
 import	useUI				from	'contexts/useUI';
-import	IconYearnFilled		from	'components/icons/IconYearnFilled';
 import	IconHamburger		from	'components/icons/IconHamburger';
 import	LOCALES				from	'utils/locale';
 
@@ -39,63 +38,13 @@ function	MenuItems() {
 			<MenuItem
 				className={'mb-4'}
 				label={common['menu-articles']}
-				condition={
-					router.asPath.startsWith('/articles')
-					&&
-					!router.asPath.startsWith('/articles/forum')
-					&&
-					!router.asPath.startsWith('/articles/andre-cronje')
-					&&
-					!router.asPath.startsWith('/articles/wot-is-goin-on')
-					&&
-					!router.asPath.startsWith('/articles/yearn-finance')
-					&&
-					!router.asPath.startsWith('/articles/marco-worms')
-				}
+				condition={router.asPath.startsWith('/articles')}
 				href={'/articles'} />
-			<div className={'mb-6 ml-4 space-y-2 md:mb-8 md:space-y-4'}>
-				<MenuItem
-					className={'mb-4'}
-					label={common['menu-articles-forum']}
-					condition={router.asPath.includes('articles/forum')}
-					href={'/articles/forum'} />
-				<MenuItem
-					className={'mb-4'}
-					label={common['menu-articles-andre']}
-					condition={router.asPath.includes('articles/andre-cronje')}
-					href={'/articles/andre-cronje'} />
-				<MenuItem
-					className={'mb-4'}
-					label={common['menu-articles-wot']}
-					condition={router.asPath.includes('articles/wot-is-goin-on')}
-					href={'/articles/wot-is-goin-on'} />
-				<MenuItem
-					className={'mb-4'}
-					label={common['menu-articles-marco-worms']}
-					condition={router.asPath.includes('articles/marco-worms')}
-					href={'/articles/marco-worms'} />
-				<MenuItem
-					className={'mb-4 md:mb-8'}
-					label={common['menu-articles-yearn']}
-					condition={router.asPath.includes('articles/yearn-finance')}
-					href={'/articles/yearn-finance'} />
-			</div>
 			<MenuItem
 				className={'mb-4'}
 				label={common['menu-financials']}
-				condition={
-					router.asPath.startsWith('/financials')
-					&&
-					!router.asPath.startsWith('/financials/quarterly-report')
-				}
+				condition={router.asPath.startsWith('/financials')}
 				href={'/financials'} />
-			<div className={'mb-6 ml-4 space-y-2 md:mb-8 md:space-y-4'}>
-				<MenuItem
-					className={'mb-4 md:mb-8'}
-					label={common['menu-financials-quarterly-report']}
-					condition={router.asPath.startsWith('/financials/quarterly-report')}
-					href={'/financials/quarterly-report'} />
-			</div>
 			<MenuItem
 				className={'mb-4'}
 				label={common['menu-tweets']}
