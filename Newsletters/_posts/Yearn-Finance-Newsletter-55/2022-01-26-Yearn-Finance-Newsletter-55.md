@@ -1,92 +1,92 @@
 ---
 layout: post
-title: "Yearn Finance Newsletter #55"
+title: "यर्न वित्त समाचार पत्र"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-55/image1.png
 author: Yearn
-translator:
-publish: false
+translator:Major-Rager
+publish: true
 ---
 
-# Yearn Finance Newsletter #55
+# यर्न वित्त समाचार पत्र #५५
 
-### Week Ending January 23rd, 2021
+### २३ जनवरी, २०२२ को समाप्त होने वाला सप्ताह
 
 ![](image1.png)
 
-Welcome to the 55th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
+यर्न वित्त समाचार पत्र के 55वें संस्करण में आपका स्वागत है। इस न्यूजलेटर के साथ हमारा उद्देश्य उत्पाद लॉन्च, शासन परिवर्तन और पारिस्थितिकी तंत्र अपडेट सहित नवीनतम समाचारों के बारे में यर्न और व्यापक क्रिप्टो समुदाय को सूचित करना है। यदि आप यर्न फाइनेंस के बारे में अधिक जानने में रुचि रखते हैं, तो हमारे आधिकारिक [Twitter](https://twitter.com/iearnfinance) और [Medium](https://medium.com/iearn) खातों का अनुसरण करें।
 
-## Summary
+## सारांश
 
-- State of the Fantom Vaults
-- Fantom Ecosystem Spotlight - Yearn
-- Yearn Web Updates
-- Yearn Finance Explained
-- Vaults at Yearn
-- Ecosystem News
+- Fantom तिजोरीयों की स्थिति
+- Fantom इकोसिस्टम स्पॉटलाइट - यर्न
+- यर्न वेब अपडेट
+- यर्न वित्त समझाया गया
+- यर्न में तिजोरियाँ
+- पारिस्थितिकी तंत्र समाचार
 
-# State of the Fantom Vaults
+# Fantom तिजोरीयों की स्थिति
 
 ![](image2.png)
 
-With the rise of Andre Cronje & Daniele Sesta's new project Solidly ve(3,3), vampire attacks have come to Fantom in order to qualify for the Solidly airdrop to the Top 20 projects by TVL on Fantom.
+आंद्रे क्रोनिए और डेनियल सेस्टा की नई परियोजना Solidity ve(3,3) के उदय के साथ, Fantom पर TVL द्वारा शीर्ष २० परियोजनाओं में Solidly एयरड्रॉप के लिए अर्हता प्राप्त करने के लिए वैम्पायर हमले Fantom पर आ गए हैं।
 
-To take advantage of this, you can tuck your holdings into a comfy [yearn.finance](https://yearn.finance/#/home) vault. Yearn fetches the best yield across 0xDAO, veDAO, Scream, Curve, Beets, Tarot, and beyond. Our Fantom Vaults have strategies for all of them, automatically rotate to the most profitable one and realize profits every 30 minutes so you won't be left holding the bag. We'll be by your side long after the vampwars become another page in a history manga.
+इसका लाभ उठाने के लिए, आप अपनी होल्डिंग्स को एक आरामदायक [yearn.finance](https://yearn.finance/#/home) तिजोरी में रख सकते हैं। यर्न 0xDAO, veDAO, Scream, Curve, Beats, Tarot और उससे आगे के क्षेत्रों में सर्वोत्तम उपज प्राप्त करता है। हमारे Fantom तिजोरीयों में उन सभी के लिए रणनीतियां हैं, जो स्वचालित रूप से सबसे अधिक लाभदायक के लिए घूमती हैं और हर ३० मिनट में लाभ का एहसास करती हैं ताकि आप बैग पकड़े न रहें। इतिहास मंगा में वैम्पवार्स एक और पेज बनने के बाद हम लंबे समय तक आपके साथ रहेंगे।
 
-What's your move? Start depositing today at [yearn.finance/vaults](https://yearn.finance/vaults).
+आपकी चाल क्या है? आज ही [yearn.finance/vaults](https://yearn.finance/vaults) पर जमा करना शुरू करें।
 
-# Fantom Ecosystem Spotlight - Yearn
+# Fantom इकोसिस्टम स्पॉटलाइट - यर्न
 
 ![](image3.png)
 
-Yearn contributor Tracheopteryx gives a brief overview of Yearn and our mission, with our focus being on everyday users, partners, and builders.
+यर्न योगदानकर्ता ट्रेकिओप्टेरिक्स हमारे दैनिक उपयोगकर्ताओं, भागीदारों और बिल्डरों पर ध्यान केंद्रित करने के साथ, यर्न और हमारे मिशन का एक संक्षिप्त अवलोकन देता है।
 
-The core products of Yearn are the Vaults, the Iron Bank, Labs, and the YFI/WOOFY tokens. YFI’s origins are further explored, and Tracheopteryx explains why Fantom is the first sidechain that Yearn has chosen to build on.
+यर्न के मुख्य उत्पाद तिजोरियाँ, आयरन बैंक, लैब्स और YFI/WOOFY टोकन हैं। YFI की उत्पत्ति का और अधिक पता लगाया गया है, और ट्रेकिओप्टेरिक्स बताता है कि फैंटम पहला साइडचेन क्यों है जिसे यर्न ने बनाने के लिए चुना है।
 
-The interview ends off by mentioning upcoming upgrades to the YFI token, such as buybacks being given to holders, xYFI, veYFI, and vault gauges.
+साक्षात्कार YFI टोकन के आगामी उन्नयन का उल्लेख करते हुए समाप्त होता है, जैसे धारकों को बायबैक दिया जा रहा है, xYFI, veYFI, और तिजोरी गेज।
 
-Check out the new full article [here](https://fantom.foundation/blog/fantom-ecosystem-spotlight-yearn/?__cf_chl_rt_tk=rdrT2KHoFbjTe1yyUOmIDA92AeTmrMPKtQW5yT18mwk-1643234302-0-gaNycGzNCH0).
+नया पूरा लेख देखें [यहां](https://fantom.foundation/blog/fantom-ecosystem-spotlight-yearn/?__cf_chl_rt_tk=rdrT2KHoFbjTe1yyUOmIDA92AeTmrMPKtQW5yT18mwk-1643234302-0-NgaNyc)।
 
-# Yearn Web Updates
+#यर्न वेब अपडेट
 
 ![](image4.png)
 
-This week's Yearn web update includes an APY hover tooltips added to UI and a Dust fix for vault withdrawals
+इस सप्ताह के यर्न वेब अपडेट में UI में जोड़ा गया APY होवर टूलटिप्स और तिजोरी निकासी के लिए डस्ट फिक्स शामिल है।
 
-Coming soon are security improvements, with a detailed write-up, improved multi-chain UI/UX, and support for a new chain.
+विस्तृत लेखन, बेहतर बहु-श्रृंखला UI/UX, और एक नई श्रृंखला के लिए समर्थन के साथ सुरक्षा सुधार जल्द ही आ रहे हैं।
 
-Check out the full new update [here](https://yearnweb.substack.com/p/yearn-web-engineering-update-7d7?r=2y79e&utm_campaign=post&utm_medium=web).
+पूरा नया अपडेट देखें [यहां](https://yearnweb.substack.com/p/yearn-web-engineering-update-7d7?r=2y79e&utm_campaign=post&utm_medium=web)।
 
-# Yearn Finance Explained
+# यर्न वित्त समझाया गया
 
 ![](image5.png)
 
-Yearn vaults are yielding IOU tokens built by strategists who undertake a difficult vetting process to ensure that Yearn users are receiving the best risk-adjusted yield in the crypto ecosystem.
+यर्न तिजोरी रणनीतिकारों द्वारा निर्मित IOU टोकन प्रदान कर रहे हैं जो यह सुनिश्चित करने के लिए एक कठिन पुनरीक्षण प्रक्रिया करते हैं कि यर्न उपयोगकर्ताओं को क्रिप्टो पारिस्थितिकी तंत्र में सर्वोत्तम जोखिम-समायोजित उपज प्राप्त हो रही है।
 
-One previously used strategy at Yearn can be seen in the v1 Ethereum yVault: When a user deposits ETH the ETH is then lent at MakerDAO as collateral, which is used to borrow DAI that is then deposited into the DAI yVault.
+यर्न में पहले इस्तेमाल की गई एक रणनीति को v1 एथेरियम yVault में देखा जा सकता है: जब कोई उपयोगकर्ता ETH जमा करता है तो ETH को MakerDAO को संपार्श्विक के रूप में उधार दिया जाता है, जिसका उपयोग DAI को उधार लेने के लिए किया जाता है जिसे बाद में DAI yVault में जमा किया जाता है।
 
-Some common questions users may have are “How/when does Yearn move the funds inside the vault and charge fees?” and “How does Yearn guarantee a strategy to always generate tokens instead of losing them?”. One of the key functions of a strategy is called “harvest”. When called, it triggers a rebalancing process where profit is realized and reinvested back into the strategy. Strategists also use a number of tools to monitor on-chain data to ensure strategy health. One of those tools is Yearn Watch, which presents a nice UI with many of key metrics live on the blockchain.
+उपयोगकर्ताओं के कुछ सामान्य प्रश्न हो सकते हैं "यर्न तिजोरी के अंदर धन को कैसे/कब स्थानांतरित करता है और शुल्क लेता है?" और "यर्न हमेशा टोकन को खोने के बजाय उत्पन्न करने की रणनीति की गारंटी कैसे देता है?"। एक रणनीति के प्रमुख कार्यों में से एक को "फसल" कहा जाता है। जब बुलाया जाता है, तो यह एक पुनर्संतुलन प्रक्रिया को ट्रिगर करता है जहां लाभ का एहसास होता है और रणनीति में पुन: निवेश किया जाता है। रणनीतिकार स्वास्थ्य सुनिश्चित करने के लिए ऑन-चेन डेटा की निगरानी के लिए कई टूल का भी उपयोग करते हैं। उन उपकरणों में से एक है यर्न वॉच, जो एक अच्छा UI प्रस्तुत करता है जिसमें कई प्रमुख मेट्रिक्स ब्लॉकचेन पर रहते हैं।
 
-Yearn and Keep3r additionally have a strong synergy in automating the tasks needed for vaults to maintain their performance. In order to build strategies, you will need a good understanding of Vyper (for yVaults) and Solidity (for strategies). The basic requirements to become a strategist are: knowledge about the blockchain ecosystem you’ll deploy in, which can be acquired by doing in-depth research of tokenomics and documentation for all tokens used in the strategy itself, Solidity programming knowledge similar to completing Level 4 on CryptoZombies, and knowing how to get around git, eth-brownie, and ganache.
+अपने प्रदर्शन को बनाए रखने के लिए तिजोरीयों के लिए आवश्यक कार्यों को स्वचालित करने में यर्न और Keep3r के अतिरिक्त एक मजबूत तालमेल है। रणनीति बनाने के लिए, आपको Vyper (yVaults के लिए) और Solidity (रणनीतियों के लिए) की अच्छी समझ की आवश्यकता होगी। रणनीतिकार बनने के लिए बुनियादी आवश्यकताएं हैं: ब्लॉकचैन पारिस्थितिकी तंत्र के बारे में ज्ञान जिसे आप तैनात करेंगे, जो कि रणनीति में उपयोग किए जाने वाले सभी टोकन के लिए टोकनोमिक्स और दस्तावेज़ीकरण का गहन शोध करके हासिल किया जा सकता है, Solidity प्रोग्रामिंग ज्ञान स्तर को पूरा करने के समान ४ क्रिप्टो ज़ॉम्बीज़ पर, और यह जानना कि गिट, एथ-ब्राउनी और गनाश के आसपास कैसे जाना है।
 
-After understanding the basics of the above tools you are ready to copy our strategy template! The functions you should start changing in this template in order to build with your own first strategy are prepareReturn, adjustPosition, and liquidatePositon. You can find the strategy template [here](https://github.com/yearn/brownie-strategy-mix).
+उपरोक्त टूल की मूल बातें समझने के बाद आप हमारे रणनीति टेम्पलेट को कॉपी करने के लिए तैयार हैं! अपनी पहली रणनीति के साथ निर्माण करने के लिए आपको इस टेम्प्लेट में जिन कार्यों को बदलना शुरू करना चाहिए, वे हैं prepareReturn, adjustPosition और liquidatePosition। आप रणनीति का खाका [यहां](https://github.com/yearn/brownie-strategy-mix) पा सकते हैं।
 
-Thank you to MarcoWorms for the writeup which can be found [here](https://medium.com/iearn/yearn-finance-explained-what-are-vaults-and-strategies-96970560432).
+[यहां](https://medium.com/iearn/yearn-finance-explained-what-are-vaults-and-strategies-96970560432) लिखने के लिए मार्कोवर्म्स को धन्यवाद।
 
-# Vaults at Yearn
+# यर्न में तिजोरियाँ
 
-You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+आप हमारे सभी सक्रिय yVaults के लिए रणनीतियों का विस्तृत विवरण पढ़ सकते हैं [यहां](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3)।
 
-# Ecosystem News
+# पारिस्थितिकी तंत्र समाचार
 
-[Deposit directly into Yearn vaults with the Ambire Wallet’s new integration](https://twitter.com/AmbireWallet/status/1483087593285820416)
+[Ambire वॉलेट के नए एकीकरण के साथ सीधे यर्न तिजोरी में जमा करें](https://twitter.com/AmbireWallet/status/1483087593285820416)
 
-[Use Yearn vaults on Shapeshift DAO](https://twitter.com/ShapeShift_io/status/1484599573289086984)
+[Shapeshift DAO पर यर्न वॉल्ट का उपयोग करें](https://twitter.com/ShapeShift_io/status/1484599573289086984)
 
-[New updates on Tesseract Finance’s collaboration with VESQ](https://twitter.com/tesseract_fi/status/1483484524143128578)
+[Tesseract Finance के VESQ के सहयोग पर नए अपडेट](https://twitter.com/tesseract_fi/status/1483484524143128578)
 
-[Yearn has become the number 1 aggregator by TVL on Fantom](https://twitter.com/vannny365/status/1484385291947368448)
+[Fantom पर TVL द्वारा यर्न नंबर १ एग्रीगेटर बन गया है](https://twitter.com/vannny365/status/1484385291947368448)
 
-[Check out ApeFramework made with the help of Yearn contributors](https://twitter.com/ApeFramework)
+[यर्न कंट्रीब्यूटर्स की मदद से बनाया गया ApeFramework देखें](https://twitter.com/ApeFramework)
 
-[Read this short overview of Yearn and its metrics](https://twitter.com/fuuurma/status/1484503576076599298)
+[यर्न और उसके मेट्रिक्स का यह संक्षिप्त अवलोकन पढ़ें](https://twitter.com/fuuurma/status/1484503576076599298)
