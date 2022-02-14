@@ -16,7 +16,7 @@ translator:
 </br>
 
 
-In the past few weeks, we had a lot of feedback about how our v3 dashboard displays the “Annual Percentage Yield” (APY) of deposited assets. Especially on Fantom where the ecosystem has more volatile prices and strategies, we deployed short-term changes to how APY is displayed to represent the yield received by weve and 0xdao. When we reverted to our previous calculations we didn’t consider long-term APY calculations being inflated, now we have pushed an update to correct that mistake. This article aims to give more context on what happened and our solution!
+In the past few weeks, we had a lot of feedback about how our v3 dashboard displays the “Annual Percentage Yield” (APY) of deposited assets. Especially on Fantom where the ecosystem has more volatile prices and strategies, we deployed short-term changes to how APY is displayed to represent the yield received by [weve and 0xdao](https://twitter.com/iearnfinance/status/1484570907041357828). When we reverted to our previous calculations we didn’t consider long-term APY calculations being inflated, now we have pushed an update to correct that mistake. This article aims to give more context on what happened and our solution!
 </br>
 
 ## Quick Context: APR and APY?
