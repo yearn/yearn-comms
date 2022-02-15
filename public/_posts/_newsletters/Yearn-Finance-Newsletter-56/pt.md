@@ -5,7 +5,7 @@ image:
   width: 1456
   height: 733
 author: Yearn
-date: '2022-02-02'
+date: "2022-02-02"
 translator: jameskbh
 ---
 
@@ -13,15 +13,14 @@ translator: jameskbh
 
 ![](./image1.jpg?w=1456&h=733)
 
-
 Bem-vindo à 56ª edição da Yearn Finance Newsletter. Nosso objetivo com este boletim é manter a comunidade da Yearn e a comunidade cripto em geral informadas sobre as notícias mais recentes, incluindo lançamentos de produtos, mudanças de governança e atualizações do ecossistema. Se você estiver interessado em aprender mais sobre Yearn Finance, siga nossas contas oficiais [Twitter](https://twitter.com/iearnfinance) e [Medium](https://medium.com/iearn).
 
 ## Sumário
 
 - Proposta de Atualização do Sistema de Remuneração de Yearn
 - Yearn comprou 127,9 YFI por US$ 3,9 milhões
-- Usuários elegíveis para o emblema NFT do Project Galaxy 
-- Leia a Auditoria do New Yearn Partner Tracker 
+- Usuários elegíveis para o emblema NFT do Project Galaxy
+- Leia a Auditoria do New Yearn Partner Tracker
 - Yearn em destaque no relatório ARK Invest Big Ideas
 - Vaults na Yearn
 - Notícias do Ecossistema
@@ -40,14 +39,11 @@ Convidamos você a se engajar, dar feedback e participar da pesquisa de sinaliza
 
 Confira a proposta [aqui](https://gov.yearn.finance/t/proposal-streamlining-contributor-compensation/12247).
 
-
-
 # Yearn comprou 127,9 YFI por US$ 3,9 milhões
-
 
 De acordo com o YIP-56: Buyback and Build Yearn, que foi aprovado em janeiro de 2021, temos o orgulho de anunciar que o Yearn Treasury comprou mais 127,9 YFI por US$ 3,9 milhões
 
-A Tesouraria de Yearn comprará periodicamente YFI adicional no futuro, usando os lucros obtidos pelo protocolo, até que uma nova proposta de governança seja aprovada que altere essa política de recompra. Você pode ler sobre a proposta BABY aqui. 
+A Tesouraria de Yearn comprará periodicamente YFI adicional no futuro, usando os lucros obtidos pelo protocolo, até que uma nova proposta de governança seja aprovada que altere essa política de recompra. Você pode ler sobre a proposta BABY aqui.
 
 Para obter mais informações, uma análise detalhada das compras anteriores da YFI por Yearn Treasury pode ser encontrada [aqui](https://gov.yearn.finance/t/yfi-buyback-auctions/10491/3).
 
@@ -60,7 +56,6 @@ Com a ajuda de nossos parceiros do Project Galaxy, trouxemos à comunidade Yearn
 Os usuários que tem em stake qualquer quantia em Yearn, Alpha ou Badger serão recompensados com o emblema "Yield Farmer - DeFi 101". Fique de olho nas recompensas futuras vindas também de nós!
 
 Reivindique suas recompensas futuras em [galaxy.eco/coingecko](https://twitter.com/ProjectGalaxyHQ/status/1487048124182921220?s=20&t=Z5Z2328-bsM-BNCp9d1KAA) e leia o fio completo [aqui](https://twitter.com/ProjectGalaxyHQ/status/1487048124182921220?s=20&t=Z5Z2328-bsM-BNCp9d1KAA).
-
 
 # Leia a Auditoria do New Yearn Partner Tracker
 
@@ -78,9 +73,9 @@ Confira a auditoria completa [aqui](https://chainsecurity.com/security-audit/yea
 
 ![](./image5.jpg?w=1456&h=819)
 
-Neste relatório, a Yearn é apontada como uma empresa que se destaca por sua inovação disruptiva e por ser capaz de criar um novo protocolo que pode substituir tecnologias mais antigas. Recebemos comparações com a BlackRock, gestora de ativos de vários trilhões de dólares, com a Yearn gerando quase US$ 15 milhões em receita por funcionário e a BlackRock gerando quase 10 vezes menos por funcionário. 
+Neste relatório, a Yearn é apontada como uma empresa que se destaca por sua inovação disruptiva e por ser capaz de criar um novo protocolo que pode substituir tecnologias mais antigas. Recebemos comparações com a BlackRock, gestora de ativos de vários trilhões de dólares, com a Yearn gerando quase US$ 15 milhões em receita por funcionário e a BlackRock gerando quase 10 vezes menos por funcionário.
 
-Com a ajuda de contratos inteligentes, somos capazes de reduzir o risco de contraparte e reduzir a dependência de intermediários e criar o gestor de ativos mais eficiente do mundo. E, graças aos novos YIPs, o protocolo Yearn só ficará mais forte e aumentará sua escala. 
+Com a ajuda de contratos inteligentes, somos capazes de reduzir o risco de contraparte e reduzir a dependência de intermediários e criar o gestor de ativos mais eficiente do mundo. E, graças aos novos YIPs, o protocolo Yearn só ficará mais forte e aumentará sua escala.
 
 O relatório completo da ARK pode ser encontrado [aqui](https://research.ark-invest.com/hubfs/1_Download_Files_ARK-Invest/White_Papers/ARK_BigIdeas2022.pdf?hsCtaTracking=217bbc93-a71a-4c2b-9959-0842b6fe301c%7C2653a4d0-af35-42f0-853a-c5f90f002abb).
 
