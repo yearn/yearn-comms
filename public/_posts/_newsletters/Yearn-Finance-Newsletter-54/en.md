@@ -29,7 +29,7 @@ Welcome to the 54th edition of the Yearn Finance Newsletter. Our aim with this n
 
 # Introducing Seven New Fantom Vaults
 
-![](./image2.jpg?w=1100&h=554)
+![](./image2.jpg?w=550&h=733.5)
 
 On Fantom, these seven vaults join the mix: WBTC, WETH, SPELL, DOLA, Curve Tricrypto, Curve Geist, and CRV
 
@@ -51,7 +51,7 @@ Check out the new vaults [here](https://yearn.finance/#/vaults).
 
 # Yearn Web Updates
 
-![](./image4.jpg?w=900&h=734)
+![](./image4.jpg?w=450&h=367)
 
 This week's Yearn web update includes several first-time contributors opening PRs and improved backend logic for Iron Bank & Curve LP tokens
 
