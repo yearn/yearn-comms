@@ -11,16 +11,6 @@ date: "2022-01-03"
 translator:
 ---
 
----
-layout: post
-title: "Web Engineering Update: Jan. 10th"
-categories: [Updates]
-image: ./Jan-10/logo.png
-author: f0xTheSin
-translator:
-publish: true
----
-
 original source: https://yearnweb.substack.com/p/yearn-web-engineering-update
 
 # Yearn Web Engineering Update
