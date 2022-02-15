@@ -66,6 +66,7 @@ export async function getStaticPaths() {
 		allPaths.push({params: {path: 'financials'}, locale: code});
 		allPaths.push({params: {path: 'articles'}, locale: code});
 		allPaths.push({params: {path: 'tweets'}, locale: code});
+		allPaths.push({params: {path: 'updates'}, locale: code});
 	});
 	return {
 		paths: allPaths,
