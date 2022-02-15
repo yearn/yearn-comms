@@ -80,7 +80,7 @@ Yearn 使用 Curve 的新原生 boost 委托功能向 Convex Finance 委托了 2
 
 通过了准备多次重要的投票，Yearn Snapshot 策略得到了更新。
 
-它允许你使用可生息的 YFI，即钱包中的 YFI，所有 Yearn v2 机枪池，Bancor，Balancer v2，Uniswap v2，Sushi（包括 MasterChef），MakerDAO，Unit，Instadapp（包括 MakerDAO）进行投票。
+它允许你使用可生息的 YFI，即钱包中的 YFI，所有 Yearn v2 机枪池，Bancor，Balancer v2，Uniswap v2，Sushi（包括MasterChef），MakerDAO，Unit，Instadapp（包括 MakerDAO）进行投票。
 
 在[这里](https://github.com/yearn/snapshot-strategy)查看合约，部署可以在[这里](https://etherscan.io/address/0xA79e803FffE9DA37477ddaFD7C6F3dbDCa1C566C#code)找到。
 
