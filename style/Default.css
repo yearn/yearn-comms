@@ -1,0 +1,116 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+	@apply scroll-smooth font-roboto
+}
+
+html {
+	margin-left: calc(100vw - 100%);
+	background: #F4F7FB;
+}
+html.dark {
+	margin-left: calc(100vw - 100%);
+	background: #141414;
+}
+
+#__next {
+	@apply w-full h-full
+}
+
+#app {
+	@apply min-h-screen;
+}
+
+::placeholder,
+:-ms-input-placeholder,
+::-ms-input-placeholder {
+	color: #C5C6C7 !important;
+}
+
+/******************************************************************************
+**	Tailwind Extended
+**	Set of rules independant of UI styling, to provide robust helpers for
+**	tailwind CSS
+******************************************************************************/
+.flex-center {
+	@apply justify-center items-center
+}
+.inline-children > * {
+	@apply inline;
+}
+.text-start {
+	text-align: start;
+	text-align: left;
+}
+.scrollbar-none::-webkit-scrollbar {
+    display: none;
+}
+.scrollbar-none {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+.dark .reduce-brightness {
+	/* Increase saturation to retain lost vibrancy */
+	filter: brightness(0.9) saturate(1.25);
+}
+
+
+/******************************************************************************
+**	Buttons & Links
+**	Set of rules to customize the UI based on the UI template provided
+******************************************************************************/
+button {@apply cursor-pointer}
+button:disabled {@apply cursor-not-allowed}
+
+/* Size of buttons */
+.button-small {@apply w-33 px-2 py-1 rounded-sm text-base text-center transition-colors}
+.button-large {@apply w-55 px-2 py-2 rounded-sm text-base text-center transition-colors}
+
+/* Color style of buttons */
+.button-light {
+	@apply
+	text-yearn-blue dark:text-white
+	bg-yearn-blue-light-2 dark:bg-gray-2
+	hover:bg-yearn-blue-light-1 dark:hover:bg-black
+	transition-colors 
+}
+
+.button-filled {@apply font-bold text-white bg-yearn-blue hover:bg-yearn-blue-dark}
+.button-filled:disabled {@apply bg-white-blue-1 text-gray-blue-3 hover:bg-white-blue-1}
+
+.button-outline {@apply text-yearn-blue border border-yearn-blue hover:bg-yearn-blue-light-2}
+.button-outline:disabled {@apply text-gray-blue-3 border border-gray-blue-3 bg-opacity-0}
+
+.link {
+	@apply hover:text-yearn-blue dark:hover:text-white hover:underline transition-colors cursor-pointer
+}
+
+
+/******************************************************************************
+**	Masonry
+******************************************************************************/
+@layer utilities {
+    @variants responsive {
+        .masonry {
+            column-gap: 1rem;
+			row-gap: 1rem;
+            column-count: 1;
+        }
+        .masonry-sm {
+            column-gap: 1rem;
+			row-gap: 1rem;
+            column-count: 2;
+        }
+        .masonry-md {
+            column-gap: 1rem;
+			row-gap: 1rem;
+            column-count: 3;
+        }
+        .break-inside {
+            break-inside: avoid;
+        }
+
+    }
+}
