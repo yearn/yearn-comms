@@ -86,6 +86,7 @@ export async function getStaticPaths() {
 		'tweets',
 		'financials',
 		'articles',
+		'updates',
 	];
 	const paths = [];
 
