@@ -1,17 +1,17 @@
 ---
-title:  "Yearn Finance Newsletter #50"
+title: "Yearn Finance Newsletter #50"
 image:
   src: ./cover.jpeg
   width: 576
   height: 288
 author: Yearn
-date: '2021-12-05'
+date: "2021-12-05"
 translator:
 ---
 
 ### Semana encerrada em 5 de dezembro de 2021
 
-![](./cover.jpeg?w=880&h=440)
+![](./cover.jpeg?w=576&h=288)
 
 Bem-vindo à 50ª edição da Yearn Finance Newsletter. Nosso objetivo com este boletim é manter a comunidade da Yearn e a comunidade cripto em geral informadas sobre as notícias mais recentes, incluindo lançamentos de produtos, mudanças de governança e atualizações do ecossistema. Se você estiver interessado em aprender mais sobre Yearn Finance, siga nossas contas oficiais [Twitter](https://twitter.com/iearnfinance) e [Medium](https://medium.com/iearn).
 
@@ -28,11 +28,11 @@ Bem-vindo à 50ª edição da Yearn Finance Newsletter. Nosso objetivo com este 
 
 ## Nova IU do Yearn
 
-![](./image2.jpg?w=1024&h=1024)
+![](./image2.jpg?w=512&h=512)
 
-Nós reconstruímos [yearn.finance](https://yearn.finance/) do zero com toneladas de feedback de nossa comunidade. Está ao vivo agora, então dê uma visita. 
+Nós reconstruímos [yearn.finance](https://yearn.finance/) do zero com toneladas de feedback de nossa comunidade. Está ao vivo agora, então dê uma visita.
 
-Um dos recursos mais interessantes (em nossa opinião) é o recurso Simulações. Para depositar em vaults nas versões anteriores da IU, adicionamos o suporte Zapper para, por exemplo, você pode depositar em vaults 3CRV com ETH ou qualquer token suportado pelo Zapper, o que é rápido e conveniente e implica que uma troca acontecerá em seu depósito. O que é essa mensagem "Simulando ..", você pode perguntar? Bem, esse rótulo "Simulando ..." verifica seus tokens de entrada e com a API do Zapper e o Tenderly, um serviço incrível que executa uma simulação de sua transação. Esta simulação calcula qual seria a saída exata, como uma prévia do seu depósito por exemplo, ETH> 3crv. 
+Um dos recursos mais interessantes (em nossa opinião) é o recurso Simulações. Para depositar em vaults nas versões anteriores da IU, adicionamos o suporte Zapper para, por exemplo, você pode depositar em vaults 3CRV com ETH ou qualquer token suportado pelo Zapper, o que é rápido e conveniente e implica que uma troca acontecerá em seu depósito. O que é essa mensagem "Simulando ..", você pode perguntar? Bem, esse rótulo "Simulando ..." verifica seus tokens de entrada e com a API do Zapper e o Tenderly, um serviço incrível que executa uma simulação de sua transação. Esta simulação calcula qual seria a saída exata, como uma prévia do seu depósito por exemplo, ETH> 3crv.
 
 Por que isso é útil e interessante? Bem, dados os protocolos envolvidos e o estado na cadeia sendo dinâmico, é difícil prever com uma boa estimativa quantos tokens do vault que você pode receber. Sua slippage pode ser maior do que o esperado, ou sua troca de tokens pode falhar e custar gás, etc. Esta simulação pode economizar gás em depósitos ou retiradas.
 
@@ -62,7 +62,7 @@ Confira os novos documentos [aqui](https://docs.yearn.finance/).
 
 ## O YIP-64 não atinge o quorum
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image3.jpg?w=1100&h=759)
+![](./image3.jpg?w=1100&h=759)
 
 YIP-64: Ajustar as taxas de yVaults não-stablecoin entrou em fase de votação e terminou em votação por maioria contra o ajuste de taxas.
 
@@ -70,7 +70,7 @@ Confira a proposta [aqui](https://snapshot.org/#/ybaby.eth/proposal/0xfe7296601d
 
 ## Yearn Delega 23M VeCRV para Convex
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image4.jpg?w=873&h=615)
+![](./image4.jpg?w=873&h=615)
 
 Yearn delegou 23 milhões de veCRV à Convex Finance usando o novo recurso de delegação nativo da Curve. Isso aumentará os rendimentos dos pools de fábrica, para ambos os DAOs. Isso não afeta pools regulares, taxas ou votação.
 
@@ -111,4 +111,3 @@ Você pode ler uma descrição detalhada das estratégias para todos os nossos y
 [Ouça as ideias de Facu sobre Yearn com o podcast On the Ledger](https://twitter.com/Ledger/status/1465678701635506185)
 
 [YFI agora pode ser gasto no aplicativo Flexa](https://twitter.com/FlexaHQ/status/1469092114038415364)
-
