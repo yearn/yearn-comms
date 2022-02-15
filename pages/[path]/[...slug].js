@@ -27,7 +27,7 @@ export async function getStaticProps({params, locale}) {
 		(params.path === 'articles' && (params.slug.length === 1 && params.slug[0] === 'forum')) ||
 		(params.path === 'articles' && (params.slug.length === 1 && params.slug[0] === 'wot-is-goin-on')) ||
 		(params.path === 'articles' && (params.slug.length === 1 && params.slug[0] === 'marco-worms')) ||
-		(params.path === 'articles' && (params.slug.length === 1 && params.slug[0] === 'yearn-finance'))
+		(params.path === 'articles' && (params.slug.length === 1 && params.slug[0] === 'yearn-finance')) ||
 		(params.path === 'updates' && (params.slug.length === 1 && params.slug[0] === 'web-team'))		
 	) {
 		const	_allPosts = listAllPosts(`_${params.path}`, params.slug, locale);
