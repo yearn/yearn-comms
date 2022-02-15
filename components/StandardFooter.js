@@ -11,7 +11,9 @@ function	Footer() {
 	return (
 		<footer className={'hidden flex-row items-center py-8 px-6 mx-auto w-full max-w-6xl bg-white-blue-1 dark:bg-black-1 md:flex'}>
 			<Link href={'/disclaimer'}>
-				<p className={'pr-6 text-gray-blue-1 dark:text-gray-3 link'}>{'Disclaimer'}</p>
+				<p className={'pr-6 text-gray-blue-1 dark:text-gray-3 link'}>
+					{common['footer-disclaimer']}
+				</p>
 			</Link>
 			<a href={'https://contribute.yearn.rocks'} target={'_blank'} className={'pr-6 text-gray-blue-1 dark:text-gray-3 link'} rel={'noreferrer'}>
 				{common['footer-contribute']}
