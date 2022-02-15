@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Newsletter #56 de Yearn Finance"
+title: "Yearn Finance Newsletter #56"
 categories: [Newsletters]
 image: ./Yearn-Finance-Newsletter-56/image1.png
 author: Yearn
-translator:RestlessMik3
+translator: RestlessMik3
 publish: true
 ---
 
