@@ -11,7 +11,7 @@ date: '2022-02-15'
 translator:
 ---
 
-# Yearn Finance Newsletter #56
+# Yearn Finance Newsletter #57
 
 ### Week Ending February 15th, 2022
 
