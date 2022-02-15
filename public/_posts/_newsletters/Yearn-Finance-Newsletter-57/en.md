@@ -3,16 +3,13 @@ layout: post
 title: "Yearn Finance Newsletter #57"
 categories: [Newsletters]
 image:
-  src: ./cover.jpeg
-  width: 576
-  height: 288
+  src: ./image1.jpg
+  width: 1456
+  height: 733
 author: Yearn
 date: "2022-02-15"
 translator:
 ---
-
-# Yearn Finance Newsletter #57
-
 ### Week Ending February 15th, 2022
 
 ![](./image1.jpg?w=1456&h=733)
@@ -31,7 +28,7 @@ Welcome to the 57th edition of the Yearn Finance Newsletter. Our aim with this n
 
 # YIP-66 Has Passed
 
-![](./image2.jpg?w=1456&h=1456)
+![](./image2.jpg?w=200&h=200)
 
 YIP-66, which covers a compensation plan for Yearn and hopes to achieve autonomy in its plan, has recently passed the voting stage and will be integrated into the Yearn protocol.
 
@@ -45,7 +42,7 @@ Check out the proposal [here](https://gov.yearn.finance/t/proposal-streamlining-
 
 # Yearn Web Update
 
-![](./image3.jpg?w=900&h=743)
+![](./image3.jpg?w=450&h=367)
 
 This week's Yearn web update includes Arbitrum web support, realtime end2end testing and alerting, and growth of our infrastructure team.
 
