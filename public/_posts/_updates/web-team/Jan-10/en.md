@@ -17,13 +17,13 @@ original source: https://yearnweb.substack.com/p/yearn-web-engineering-update
 
 #### Week of 10 Jan 2022
 
-## Summary
+## **Summary**
 
 Fast start to the year with multiple releases coming down the pipeline. Small bugs are addressed as they arise and security continues to be our top priority. Several first-time contributors have opened PRs'an exciting trend as we look to continually expand the website's functionality for current and future chains. 🚀
 
 This week saw several updates to yearn-meta, including token and strategy descriptions for our 12 new vaults, as well as backend updates to Iron Bank and improved pricing logic for Curve LP tokens.
 
-## Accomplishments ✅
+## **Accomplishments ✅**
 
 - Release 1.0.5
 
@@ -60,7 +60,7 @@ This week saw several updates to yearn-meta, including token and strategy descri
   - fix: fix preview build and pin dependencies (web-942)
   - fix: vault deposit zapper error (web-1056)
 
-## Ongoing Focus and Outstanding Issues
+## **Ongoing Focus and Outstanding Issues**
 
 - Cycle Focus: Web Security
 
@@ -72,7 +72,7 @@ This week saw several updates to yearn-meta, including token and strategy descri
   - Improve simulation errors to be more specific and informative
   - Refactor APY code in API and write documentation
 
-## **Come Build with us! :man_mechanic: **
+## **Come Build with us! :man_mechanic:**
 
 - We're continually adding public issues to our GitHub and always welcome new contributions in any of our repos
 
