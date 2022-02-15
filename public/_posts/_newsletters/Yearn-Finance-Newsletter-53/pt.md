@@ -7,15 +7,13 @@ image:
   width: 1456
   height: 733
 author: Yearn
-date: '2022-01-11'
+date: "2022-01-11"
 translator: jameskbh
 ---
 
-# Yearn Finance Newsletter #53
-
 ### Semana que termina em 9 de janeiro de 2022
 
-![](image1.png)
+![](image1.jpg)
 
 Bem-vindo à 53ª edição da Yearn Finance Newsletter. Nosso objetivo com este boletim é manter a comunidade da Yearn e a comunidade cripto em geral informadas sobre as notícias mais recentes, incluindo lançamentos de produtos, mudanças de governança e atualizações do ecossistema. Se você estiver interessado em aprender mais sobre Yearn Finance, siga nossas contas oficiais [Twitter](https://twitter.com/iearnfinance) e [Medium](https://medium.com/iearn).
 
@@ -30,7 +28,7 @@ Bem-vindo à 53ª edição da Yearn Finance Newsletter. Nosso objetivo com este 
 
 # Transparência na Yearn
 
-![](image2.png)
+![](image2.jpg)
 
 # Mais transparência. Mais alfa.
 
@@ -46,7 +44,7 @@ Leia mais sobre as ferramentas aqui. Obrigado a @0xMajor, @KoxEvan e DarkGhosty 
 
 ## Atualização Web de Yearn
 
-![](image3.png)
+![](image3.jpg)
 
 Em um esforço para aumentar a transparência, vários colaboradores do ecossistema da web de Yearn iniciaram um boletim informativo que coletará novos recursos, problemas em andamento e atualizações planejadas, além de mergulhos profundos periódicos na tecnologia da web.
 
@@ -58,7 +56,7 @@ Confira as atualizações [aqui](https://yearnweb.substack.com/p/update-jan-5-20
 
 # Registre-se para a próxima iteração do yAcademyDAO
 
-![](image4.png)
+![](image4.jpg)
 
 Para quem não conhece, o yAcademyDAO é uma abordagem orientada pela comunidade para a segurança do blockchain. Em Yearn, levamos a segurança muito a sério e a yAcademy é uma de nossas iniciativas de ecossistema para criar segurança blockchain sustentável e colaborativa e garantir que o talento seja utilizado adequadamente.
 
