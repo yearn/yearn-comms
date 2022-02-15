@@ -51,6 +51,10 @@ function	MenuItems() {
 				condition={router.asPath.startsWith('/tweets')}
 				href={'/tweets'} />
 			<MenuItem
+				label={common['Updates']}
+				condition={router.asPath.startsWith('/updates')}
+				href={'/updates'} />
+			<MenuItem
 				label={common['menu-podcasts']}
 				condition={router.asPath.startsWith('/podcasts')}
 				href={'/podcasts'} />
