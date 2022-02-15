@@ -7,11 +7,9 @@ image:
   width: 1456
   height: 733
 author: Yearn
-date: '2022-01-20'
+date: "2022-01-20"
 translator: jameskbh
 ---
-
-# Yearn Finance Newsletter #54
 
 ### Semana que termina em 16 de janeiro de 2022
 
@@ -72,6 +70,8 @@ No geral, usar os vaults da Yearn é uma aposta no protocolo com a mais alta seg
 Confira a peça completa [aqui](https://medium.com/bankless-dao/yearn-finance-vaults-knockin-on-defi-s-door-f5e9f56f669a).
 
 # Atualização no yvBOOST
+
+![](./image6.jpg?w=1100&h=569)
 
 A maioria pode não perceber, mas 1 yvBOOST coleta 2,2 vezes mais taxas semanais de protocolo Curve do que 1 veCRV. O APR do yvBOOST também está acima de 100%, sustentável, com 1 yvBOOST sendo atualmente 32% mais barato que 1 CRV. Mesmo depois de tudo isso, ainda há mais de US$ 5 milhões a serem doados aos detentores do yvBOOST
 
