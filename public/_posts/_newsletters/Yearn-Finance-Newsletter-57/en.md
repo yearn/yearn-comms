@@ -7,7 +7,7 @@ image:
   width: 576
   height: 288
 author: Yearn
-date: '2022-02-15'
+date: "2022-02-15"
 translator:
 ---
 
@@ -17,18 +17,17 @@ translator:
 
 ![](./image1.jpg?w=1456&h=733)
 
-
 Welcome to the 57th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
 
 ## Summary
 
-* YIP-66 Has Passed
-* Yearn Web Update
-* Yearn at EthDenver
-* Security at Yearn
-* How Yearn Strategies Are Endorsed
-* Vaults at Yearn
-* Ecosystem News
+- YIP-66 Has Passed
+- Yearn Web Update
+- Yearn at EthDenver
+- Security at Yearn
+- How Yearn Strategies Are Endorsed
+- Vaults at Yearn
+- Ecosystem News
 
 # YIP-66 Has Passed
 
@@ -38,18 +37,15 @@ YIP-66, which covers a compensation plan for Yearn and hopes to achieve autonomy
 
 In just Q4 2021, contributing Strategists earned $5,142,137 in performance fees net, and to manage this scale of payments, YIP-65 is designated as being the one size fits all fix for Yearn’s DAO system.
 
-On the contrary, some argue that the proposal overcomplicates the current compensation process, creates tax issues, or disregards how well Strategists currently work. All of this is intended to be worked on and addressed now that the vote has passed, with goals of  more efficient DAO management in place.
+On the contrary, some argue that the proposal overcomplicates the current compensation process, creates tax issues, or disregards how well Strategists currently work. All of this is intended to be worked on and addressed now that the vote has passed, with goals of more efficient DAO management in place.
 
 We invite you to engage, give feedback, and participate in the Yearn community by joining us on [Discord](https://discord.gg/8rF374XkXy), [Twitter](http://twitter.com/iearnfinance), or [Github](http://github.com/yearn) . Come build with us.
 
 Check out the proposal [here](https://gov.yearn.finance/t/proposal-streamlining-contributor-compensation/12247) and view the Snapshot [here](https://snapshot.org/#/ybaby.eth/proposal/0x804d3765e70d6e4f0f0a225222dadd396cd328595d5fd097b732b36fdf8e6af6).
 
-
-
 # Yearn Web Update
 
 ![](./image3.jpg?w=900&h=743)
-
 
 This week's Yearn web update includes Arbitrum web support, realtime end2end testing and alerting, and growth of our infrastructure team.
 
@@ -61,14 +57,13 @@ Check out the full new update [here](https://yearnweb.substack.com/p/yearn-web-e
 
 ![](./image4.jpg?w=1328&h=654)
 
-As a first time EthDenver sponsor, we are excited to meet builders and our community at the conference 
+As a first time EthDenver sponsor, we are excited to meet builders and our community at the conference
 
 We are always looking for contributors experienced in development, product management, marketing and outreach, and operations people.
 
 The culture at Yearn is some of the friendliest in the DeFi landscape, with every anon being able to prove themselves through their work ethic with dozens of like minded peers. Yearn is 100% remote, flexible, and extremely growth-oriented, as you may have seen in [The Blue Pill](https://thebluepill.eth.limo/).
 
 Check out the full article [here](https://medium.com/iearn/yearn-finance-will-be-at-ethdenver-we-are-looking-for-people-to-join-our-team-83ed3aa20269).
-
 
 # Security at Yearn
 
