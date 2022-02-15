@@ -119,6 +119,7 @@ export async function getStaticPaths() {
 		paths.push({params: {path: 'articles', slug: ['wot-is-goin-on']}, locale: code});
 		paths.push({params: {path: 'articles', slug: ['yearn-finance']}, locale: code});
 		paths.push({params: {path: 'articles', slug: ['marco-worms']}, locale: code});
+		paths.push({params: {path: 'updates', slug: ['web-team']}, locale: code});		
 	});
 
 	return {
