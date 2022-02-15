@@ -28,7 +28,7 @@ Welcome to the 50th edition of the Yearn Finance Newsletter. Our aim with this n
 
 ## New Yearn UI
 
-![](./image2.jpg?w=512&h=)
+![](./image2.jpg?w=512&h=512)
 
 We’ve rebuilt [yearn.finance](https://yearn.finance/) from scratch with tons of feedback from our community. It's live now, so take it for a spin.
 
