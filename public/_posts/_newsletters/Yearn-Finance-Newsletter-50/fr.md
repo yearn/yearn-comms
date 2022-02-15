@@ -5,13 +5,13 @@ image:
   width: 576
   height: 288
 author: Yearn
-date: '2021-12-05'
+date: "2021-12-05"
 translator: Cryptouf
 ---
 
 ### Semaine du 5 Decembre 2021
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/cover.jpeg?w=880&h=440)
+![](./cover.jpeg?w=576&h=288)
 
 Bienvenue à la 50e édition de la Newsletter Yearn Finance. Notre objectif avec cette newsletter est de tenir la communauté Yearn, et plus généralement la communauté crypto, au courant des dernières nouvelles, y compris les lancements de produits, les changements de gouvernance et les mises à jour de l'écosystème. Si vous souhaitez en savoir plus sur Yearn Finance, suivez nos comptes [Twitter](https://twitter.com/iearnfinance) et [Medium](https://medium.com/iearn) officiels.
 
@@ -27,7 +27,7 @@ Bienvenue à la 50e édition de la Newsletter Yearn Finance. Notre objectif avec
 
 ## Nouvelle UI chez Yearn
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image2.jpg?w=1024&h=1024)
+![](./image2.jpg?w=512&h=512)
 
 Nous avons reconstruit [yearn.finance](https://yearn.finance/) à partir de zéro avec des tonnes de commentaires de notre communauté. C'est en direct maintenant, alors faites-le faire un tour.
 
@@ -61,7 +61,7 @@ Découvrez les nouveaux documents [ici](https://docs.yearn.finance/).
 
 ## La YIP-64 n'a pas atteind le Quorum
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image3.jpg?w=1100&h=759)
+![](./image3.jpg?w=1100&h=759)
 
 YIP-64 : Ajuster les frais sur les yVaults non stables est entré dans la phase de vote et s'est terminé par un vote majoritaire contre l'ajustement des frais.
 
@@ -69,7 +69,7 @@ Consultez la proposition [ici](https://snapshot.org/#/ybaby.eth/proposal/0xfe729
 
 ## Yearn délègue 23 millions de veCRV à Convexe
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image4.jpg?w=873&h=615)
+![](./image4.jpg?w=873&h=615)
 
 Yearn a délégué 23 millions de veCRV à Convex Finance à l'aide de la nouvelle fonctionnalité native de délégation de boost de Curve. Cela augmentera les rendements des pools d'usine pour nos deux DAO. Cela n'affecte pas les pools réguliers, les frais ou le vote.
 
