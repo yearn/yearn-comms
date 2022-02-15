@@ -41,7 +41,7 @@ const	LOCALES = {
 	},
 	'zh': {
 		'code': 'zh',
-		'name': '中国人',
+		'name': '汉语',
 		'symbol': 'Zh',
 	},
 	'hi': {
@@ -51,7 +51,7 @@ const	LOCALES = {
 	},
 	'ja': {
 		'code': 'ja',
-		'name': '日本',
+		'name': '日本語',
 		'symbol': 'Ja',
 	},
 	'id': {
