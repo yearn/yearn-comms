@@ -18,6 +18,7 @@ export const getStaticProps = async ({locale, params}) => {
 		'podcasts': [''],
 		'tweets': [''],
 		'financials': ['', 'quarterly-report'],
+		'updates': ['', 'web-team'],
 		'articles': ['', 'andre-cronje', 'forum', 'wot-is-goin-on', 'yearn-finance', 'marco-worms'],
 	};
 	const _allPosts = listAllPosts(
