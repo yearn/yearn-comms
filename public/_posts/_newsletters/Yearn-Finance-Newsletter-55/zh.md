@@ -2,9 +2,9 @@
 layout: post
 title: "Yearn Finance Newsletter #55"
 image:
-  src: ./image1.jpg
-  width: 1456
-  height: 733
+  src: ./cover.png
+  width: 1152
+  height: 576
 author: Yearn
 date: '2022-01-26'
 translator: Xiaona
