@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Bản tin Yearn.Finance Số #55"
 categories: [Newsletters]
 image:

@@ -54,21 +54,8 @@ export async function getStaticProps({params, locale}) {
 
 	const slug = params.slug[params.slug.length - 1];
 	const path = `_${params.path}/${params.slug.slice(0, -1).join('/')}`;
-	const post = getPostBySlug(
-		path,
-		slug,
-		['title', 'image', 'date', 'slug', 'author', 'content', 'translator'],
-		locale,
-		true
-	);
-	const [newer, older] = await getRelatedPosts(
-		path,
-		['slug', 'date', 'title'],
-		locale,
-		false,
-		slug
-	);
-
+	const post = getPostBySlug(path, slug, ['content'], locale, true);
+	const [newer, older] = await getRelatedPosts(path, [], locale, false, slug);
 	return {
 		props: {
 			post,

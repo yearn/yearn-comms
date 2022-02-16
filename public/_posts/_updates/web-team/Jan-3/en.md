@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Web Engineering Update: Jan. 3rd"
 categories: [Updates]
 image:

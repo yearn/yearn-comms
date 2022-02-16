@@ -30,7 +30,6 @@ export const getStaticProps = async ({locale, params}) => {
 	const	col2 = [];
 	const	col3 = [];
 	let		currentCol = 1;
-	// console.log(_allPosts);
 	for (let index = 0; index < _allPosts.length; index++) {
 		if (currentCol === 1) {
 			col1.push(_allPosts[index]);

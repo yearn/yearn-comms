@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Yearn Finance Newsletter #55"
 categories: [Newsletters]
 image:

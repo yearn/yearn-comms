@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Yearn Finance Newsletter #56"
 image:
   src: ./image1.jpg
@@ -8,9 +7,8 @@ image:
 author: Yearn
 date: '2022-02-02'
 translator: Cryptouf
+published: true
 ---
-
-# Yearn Finance Newsletter #56 
 
 ### Semaine du 30 Janvier, 2022
 
