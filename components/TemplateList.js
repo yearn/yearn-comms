@@ -2,8 +2,11 @@ import	React					from	'react';
 import	Link					from	'next/link';
 import	Image					from	'next/image';
 import	{parseMarkdownUnset}	from	'utils';
+import	useLocalization			from	'contexts/useLocalization';
 
 function	Template({path, allPosts}) {
+	const	{language} = useLocalization();
+
 	return (
 		<section>
 			<div className={'pt-2 w-full'}>
@@ -36,7 +39,7 @@ function	Template({path, allPosts}) {
 												<div className={'flex flex-row justify-between mb-2 w-full'}>
 													<p className={'text-xs text-gray-blue-1 dark:text-gray-3'}>{`by ${post?.author || 'Yearn'}`}</p>
 													<p className={'text-xs text-gray-blue-1 dark:text-gray-3'}>
-														{`${new Date(post?.date || '').toLocaleDateString('en-us', {weekday:'long', year:'numeric', month:'short', day:'numeric'})}`}
+														{`${new Date(post?.date || '').toLocaleDateString(language, {weekday:'long', year:'numeric', month:'short', day:'numeric'})}`}
 													</p>
 												</div>
 												<h2
