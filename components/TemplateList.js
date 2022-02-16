@@ -4,7 +4,7 @@ import	Image					from	'next/image';
 import	{parseMarkdownUnset}	from	'utils';
 import	useLocalization			from	'contexts/useLocalization';
 
-function	Template({path, allPosts}) {
+function	Template({allPosts}) {
 	const	{language} = useLocalization();
 
 	return (
@@ -22,8 +22,8 @@ function	Template({path, allPosts}) {
 								);
 							}
 							return (
-								<div className={'pb-6 break-inside'} key={post.slug}>
-									<Link href={`/${path}/${post.slug}`}>
+								<div className={'pb-6 break-inside'} key={`${post.path}${post.slug}`}>
+									<Link href={`/${post.path}${post.slug}`}>
 										<div className={'w-full bg-white dark:bg-black rounded-sm shadow-none hover:shadow-sm transition-shadow cursor-pointer'}>
 											<div className={'flex w-full border-b border-gray-blue-3 dark:border-gray-2'}>
 												<Image

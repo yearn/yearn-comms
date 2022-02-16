@@ -55,7 +55,8 @@ export function getPostBySlug(dir, slug, fields = [], locale, withFallback) {
 		const	{data, content} = matter(fileContents);
 		const	items = {slug};
 
-		// Ensure only the minimal needed data is exposed
+		// remove leading _ from dir
+		items['path'] = `${dir.replace(/^_/, '')}`;
 		items['published'] = true;
 		fields.forEach((field) => {
 			if (field === 'content') {
@@ -67,7 +68,7 @@ export function getPostBySlug(dir, slug, fields = [], locale, withFallback) {
 					const {src, width, height} = data[field];
 					if ((src || '').startsWith('./')) {
 						items[field] = {
-							src: src.replace('./', `/_posts/${dir}/${slug}/`),
+							src: src.replace('./', `/_posts/${dir}${slug}/`),
 							width,
 							height
 						};
@@ -123,30 +124,18 @@ export function getAllPosts(
 	return posts;
 }
 
-function getPostSlugsList(dir, subdir) {
-	const postsDirectory = join(process.cwd(), `public/_posts/${dir}`);
-	const dirContent = fs.readdirSync(`${postsDirectory}`);
-	const toRet = [];
-	for (let index = 0; index < dirContent.length; index++) {
-		toRet.push(`${subdir ? `${subdir}/` : ''}${dirContent[index]}`);
+export function listAllPosts(dir, locale, withFallback = false) {
+	let	posts = [];
+	for (let index = 0; index < dir.length; index++) {
+		const	slugs = [...getPostSlugs(dir[index])];
+		posts.push(
+			...slugs
+				.map((slug) => getPostBySlug(dir[index], slug, [], locale, withFallback))
+				.filter(Boolean)
+				.filter(p => p.published)
+		);
 	}
-	return (toRet);
-}
-export function listAllPosts(
-	dir,
-	paths = [''],
-	locale,
-	withFallback = false
-) {
-	let	slugs = [];
-	for (let index = 0; index < paths.length; index++) {
-		slugs.push(...getPostSlugsList(`${dir}/${paths[index]}`, paths[index]));
-	}
-	const posts = slugs
-		.map((slug) => getPostBySlug(dir, slug, [], locale, withFallback))
-		.filter(Boolean)
-		.filter(p => p.published)
-		.sort((post1, post2) => (post1.date > post2?.date ? -1 : 1));
+	posts = posts .sort((post1, post2) => (post1.date > post2?.date ? -1 : 1));
 	return posts;
 }
 

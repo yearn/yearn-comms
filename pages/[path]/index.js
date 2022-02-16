@@ -3,34 +3,37 @@ import	{listAllPosts}			from	'utils/content';
 import	TemplateList			from	'components/TemplateList';
 import	LOCALES					from	'utils/locale';
 
-function	Index({path, allPosts}) {
+function	Index({allPosts}) {
 	return (
-		<TemplateList path={path} allPosts={allPosts} />
+		<TemplateList allPosts={allPosts} />
 	);
 }
 
 export default Index;
 
 export const getStaticProps = async ({locale, params}) => {
-	const	childrens = {
-		'announcements': [''],
-		'newsletters': [''],
-		'podcasts': [''],
-		'tweets': [''],
-		'financials': ['', 'quarterly-report'],
-		'updates': ['', 'web-team'],
-		'articles': ['', 'andre-cronje', 'forum', 'wot-is-goin-on', 'yearn-finance', 'marco-worms'],
-	};
-	const _allPosts = listAllPosts(
-		`_${params.path}`,
-		childrens[params.path] || [''],
-		locale
-	);
+	const	childrens = [
+		['announcements/', ['']],
+		['newsletters/', ['']],
+		['podcasts/', ['']],
+		['tweets/', ['']],
+		['financials/', ['', 'quarterly-report/']],
+		['updates/', ['', 'web-team/']],
+		['articles/', ['', 'andre-cronje/', 'forum/', 'wot-is-goin-on/', 'yearn-finance/', 'marco-worms/']],
+	];
+	const	dirs = [];
+	for (let index = 0; index < childrens.length; index++) {
+		if (childrens[index][0] === `${params.path}/`) {
+			for (let jindex = 0; jindex < childrens[index][1].length; jindex++) {
+				dirs.push(`_${childrens[index][0]}${childrens[index][1][jindex]}`);
+			}
+		}
+	}
+	const _allPosts = listAllPosts(dirs, locale);
 	const	col1 = [];
 	const	col2 = [];
 	const	col3 = [];
 	let		currentCol = 1;
-	// console.log(_allPosts);
 	for (let index = 0; index < _allPosts.length; index++) {
 		if (currentCol === 1) {
 			col1.push(_allPosts[index]);

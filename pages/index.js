@@ -2,39 +2,57 @@ import	React					from	'react';
 import	{listAllPosts}			from	'utils/content';
 import	TemplateList			from	'components/TemplateList';
 
-function	Index({path, allPosts}) {
+function	Index({allPosts}) {
 	return (
-		<TemplateList path={path} allPosts={allPosts} />
+		<TemplateList allPosts={allPosts} />
 	);
 }
 
 export default Index;
 
-export const getStaticProps = async ({locale}) => {
-	const _allPosts = listAllPosts(
-		'_announcements',
-		[''],
-		locale
-	);
+
+export async function getStaticProps({locale}) {
+	const	childrens = [
+		['announcements/', ['']],
+		['newsletters/', ['']],
+		['podcasts/', ['']],
+		['tweets/', ['']],
+		['financials/', ['', 'quarterly-report/']],
+		['updates/', ['', 'web-team/']],
+		['articles/', ['', 'andre-cronje/', 'forum/', 'wot-is-goin-on/', 'yearn-finance/', 'marco-worms/']],
+	];
+	const	dirs = [];
+	for (let index = 0; index < childrens.length; index++) {
+		for (let jindex = 0; jindex < childrens[index][1].length; jindex++) {
+			dirs.push(`_${childrens[index][0]}${childrens[index][1][jindex]}`);
+		}
+	}
+	const _allPosts = listAllPosts(dirs, locale);
 	const	col1 = [];
 	const	col2 = [];
 	const	col3 = [];
-	for (let index = 0; index < _allPosts.length; index += 3) {
-		let		rIndex = index;
-		if (_allPosts[rIndex]) {
-			col1.push(_allPosts[rIndex]);
+	let		currentCol = 1;
+	for (let index = 0; index < _allPosts.length; index++) {
+		if (currentCol === 1) {
+			col1.push(_allPosts[index]);
+			currentCol = 2;
+		} else if (currentCol === 2) {
+			col2.push(_allPosts[index]);
+			currentCol = 3;
+		} else if (currentCol === 3) {
+			col3.push(_allPosts[index]);
+			currentCol = 1;
 		}
-		if (_allPosts[rIndex + 1]) {
-			col2.push(_allPosts[rIndex + 1]);
-		}
-		if (_allPosts[rIndex + 2]) {
-			col3.push(_allPosts[rIndex + 2]);
-		}
+	}
+	if (col1.length > col2.length) {
+		col2.push(null);
+	}
+	if (col1.length > col3.length) {
+		col3.push(null);
 	}
 	return {
 		props: {
 			allPosts: [...col1, ...col2, ...col3],
-			path: 'announcements'
 		},
 	};
-};
+}
