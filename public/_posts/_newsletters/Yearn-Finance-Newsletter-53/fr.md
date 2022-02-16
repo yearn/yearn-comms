@@ -55,7 +55,7 @@ Consultez les mises à jour [ici](https://yearnweb.substack.com/p/update-jan-5-2
 
 # Inscrivez-vous à la prochaine saison de yAcademyDAO
 
-![](./image4.jpg?w=476&h=487)
+![](./image4.jpg?w=238&h=243)
 
 Pour les nouveaux, la yAcademyDAO est une approche communautaire de la sécurité sur la blockchain. Chez Yearn, nous prenons la sécurité très au sérieux et yAcademy est l'une de nos initiatives pour créer une sécurité blockchain durable et collaborative et garantir que les talents utilisent tout leurs talents. 
 

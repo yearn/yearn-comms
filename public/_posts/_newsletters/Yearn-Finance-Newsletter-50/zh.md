@@ -5,37 +5,30 @@ image:
   width: 576
   height: 288
 author: Yearn
-date: '2021-12-05'
+date: "2021-12-05"
 translator: Xiaona
 ---
 
 ### 2021 年 12 月 5 日结束的一周
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/cover.jpeg?w=880&h=440)
+![](./cover.jpeg?w=576&h=288)
 
-欢迎来到Yearn最新动态第49版。 此新闻简报的目的是让Yearn和所有加密货币社区了解最新消息，包括新产品发布，治理变化和生态系统更新。如果你有兴趣了解更多有关Yearn Finance的信息，请关注我们的官方 [Twitter](https://twitter.com/iearnfinance) 和 [Medium](https://medium.com/iearn) 账户.
+欢迎来到 Yearn 最新动态第 49 版。 此新闻简报的目的是让 Yearn 和所有加密货币社区了解最新消息，包括新产品发布，治理变化和生态系统更新。如果你有兴趣了解更多有关 Yearn Finance 的信息，请关注我们的官方 [Twitter](https://twitter.com/iearnfinance) 和 [Medium](https://medium.com/iearn) 账户.
 
 ## 摘要
 
--   新用户界面
-    
--   YFI 代币经济模型更新提案
-    
--   Yearn 的更新文档
-    
--   YIP-64 未通过
-    
--   Yearn 将 23M veCRV 委托到 Convex
-    
--   Yearn Snapshot 策略
-
--   Yearn 机枪池
-
--   生态系统最新消息
+- 新用户界面
+- YFI 代币经济模型更新提案
+- Yearn 的更新文档
+- YIP-64 未通过
+- Yearn 将 23M veCRV 委托到 Convex
+- Yearn Snapshot 策略
+- Yearn 机枪池
+- 生态系统最新消息
 
 ## 新用户界面
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image2.jpg?w=1024&h=1024)
+![](./image2.jpg?w=512&h=512)
 
 基于来自社区的大量反馈，我们重建了 [yearn.finance](https://yearn.finance/)，新网站现在已经上线，可以去体验啦。
 
@@ -69,7 +62,7 @@ translator: Xiaona
 
 ## YIP-64 未通过
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image3.jpg?w=1100&h=759)
+![](./image3.jpg?w=1100&h=759)
 
 YIP-64：调整非稳定币 yVault 的费用进入投票阶段，并以多数投票反对调整费用结束。
 
@@ -77,7 +70,7 @@ YIP-64：调整非稳定币 yVault 的费用进入投票阶段，并以多数投
 
 ## Yearn 将 2300 万 veCRV 委托到 Convex
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image4.jpg?w=873&h=615)
+![](./image4.jpg?w=873&h=615)
 
 Yearn 使用 Curve 的新原生 boost 委托功能向 Convex Finance 委托了 2300 万 veCRV。这将提高我们两个 DAO 的 factory 池的收益。这不会对常规池，费用或投票产生影响。
 

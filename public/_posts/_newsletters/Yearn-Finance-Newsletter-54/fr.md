@@ -28,7 +28,7 @@ Bienvenue à la 54e édition de la Newsletter Yearn Finance. Notre objectif avec
 
 # Présentation de sept nouveaux vault sur Fantom
 
-![](./image2.jpg?w=1100&h=554)
+![](./image2.jpg?w=550&h=734)
 
 Sur Fantom, sept coffres debarquent : WBTC, WETH, SPELL, DOLA, Curve Tricrypto, Curve Geist et CRV
 
@@ -50,7 +50,7 @@ Découvrez les nouveaux coffres [ici](https://yearn.finance/#/vaults).
 
 # Mise à jour de Yearn Web
 
-![](./image4.jpg?w=900&h=734)
+![](./image4.jpg?w=450&h=367)
 
 La mise à jour de Web Yearn de cette semaine présente plusieurs contributeurs ouvrant pour la premiere fois des PR et une logique backend améliorée pour les jetons Iron Bank & Curve LP
 

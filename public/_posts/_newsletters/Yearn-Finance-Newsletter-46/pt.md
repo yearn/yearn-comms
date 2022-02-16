@@ -1,5 +1,5 @@
 ---
-title:  "Yearn Finance Newsletter #46"
+title: 'Yearn Finance Newsletter #46'
 image:
   src: ./cover.jpeg
   width: 576
@@ -24,7 +24,6 @@ Bem-vindo à 46ª edição da Yearn Finance Newsletter. Nosso objetivo com este 
 - Vaults na Yearn
 - Notícias do Ecossistema
 
-
 ## **Nos bastidores de Yearn**
 
 Como você deve saber, Yearn é o protocolo de rendimento para DeFi, com muitos estrategistas codificando maneiras de obter retornos ideais para nossos usuários usando contratos inteligentes flexíveis que alocam de forma eficiente capital em vários protocolos. Porque Yearn precisa acompanhar o mercado competitivo de agregação de rendimento, precisamos implantar estratégias rapidamente, e isso significa que sempre há riscos de segurança.
@@ -39,7 +38,7 @@ Confira mais informações sobre os procedimentos de segurança de Yearn no twee
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/image2.jpg?w=1456&h=753)
 
-CRV é o token de governança da curve.fi, que pode ser bloqueado por até 4 anos e dá a você a capacidade de votar e reivindicar taxas de protocolo. Ao usar o Yearn para bloquear seu CRV para receber veCRV (CRV com garantia de voto), você pode ganhar mais recompensas via Yearn, que  doa periodicamente alguns de nossos CRV coletados para o vault yveCRV. Portanto, além das recompensas normais do CRV, você poderá reivindicar a parte de Yearn das taxas de protocolo da Curve.
+CRV é o token de governança da curve.fi, que pode ser bloqueado por até 4 anos e dá a você a capacidade de votar e reivindicar taxas de protocolo. Ao usar o Yearn para bloquear seu CRV para receber veCRV (CRV com garantia de voto), você pode ganhar mais recompensas via Yearn, que doa periodicamente alguns de nossos CRV coletados para o vault yveCRV. Portanto, além das recompensas normais do CRV, você poderá reivindicar a parte de Yearn das taxas de protocolo da Curve.
 
 No entanto, com o veCRV depositado no Yearn (como yveCRV), você não pode votar diretamente no Curve. Mesmo com esse pequeno porém, o que Yearn faz pelos usuários é executar simulações e vota para maximizar o rendimento em todos os vaults.
 

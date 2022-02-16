@@ -1,45 +1,38 @@
 ---
-title:  "Yearn Finance Newsletter #50"
+title: "Yearn Finance Newsletter #50"
 image:
   src: ./cover.jpeg
   width: 576
   height: 288
 author: Yearn
-date: '2021-12-05'
+date: "2021-12-05"
 translator:
 ---
 
 ### Week Ending December 5th, 2021
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/cover.jpeg?w=880&h=440)
+![](./cover.jpeg?w=576&h=288)
 
 Welcome to the 50th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
 
 ## Summary
 
--   New Yearn UI
-    
--   YFI Tokenomics Update Proposal
-    
--   Updated Yearn Docs
-    
--   YIP-64 Fails To Meet Quorum
-    
--   Yearn Delegates 23M veCRV to Convex
-    
--   Yearn Snapshot Strategy
-
--   Vaults at Yearn
-
--   Ecosystem News
+- New Yearn UI
+- YFI Tokenomics Update Proposal
+- Updated Yearn Docs
+- YIP-64 Fails To Meet Quorum
+- Yearn Delegates 23M veCRV to Convex
+- Yearn Snapshot Strategy
+- Vaults at Yearn
+- Ecosystem News
 
 ## New Yearn UI
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image2.jpg?w=1024&h=1024)
+![](./image2.jpg?w=512&h=512)
 
-We’ve rebuilt [yearn.finance](https://yearn.finance/) from scratch with tons of feedback from our community. It's live now, so take it for a spin. 
+We’ve rebuilt [yearn.finance](https://yearn.finance/) from scratch with tons of feedback from our community. It's live now, so take it for a spin.
 
-One of the most interesting features (in our opinion) is the Simulations feature. To deposit into vaults in previous UI versions we added Zapper support so, for example, you can deposit into 3CRV vault with ETH or any token supported by Zapper, which is fast and convenient and implies that a swap will happen in your deposit. What is that "Simulating.." message you may ask? Well that "Simulating..." label checks your input tokens and with Zapper's API and Tenderly, an awesome service that eagerly executes a simulation of your transaction.This simulation calculates what the exact output would be, like a preview of your deposit. e.g ETH>3crv. 
+One of the most interesting features (in our opinion) is the Simulations feature. To deposit into vaults in previous UI versions we added Zapper support so, for example, you can deposit into 3CRV vault with ETH or any token supported by Zapper, which is fast and convenient and implies that a swap will happen in your deposit. What is that "Simulating.." message you may ask? Well that "Simulating..." label checks your input tokens and with Zapper's API and Tenderly, an awesome service that eagerly executes a simulation of your transaction.This simulation calculates what the exact output would be, like a preview of your deposit. e.g ETH>3crv.
 
 Why is this useful and great? Well, given the protocols involved and on-chain state being dynamic, it's hard to predict a good estimate of vault tokens you can receive. Your slippage may be bigger than expected, or your token path may fail and cost you gas, etc. This simulation may save you gas either on deposit or withdrawals.
 
@@ -55,7 +48,7 @@ Look under the hood [here](https://medium.com/iearn/yearn-ui-v3-0-a194355bdb1f).
 
 A snapshot poll is live to gauge support for community proposals on YFI tokenomics.
 
-There are currently 5 options up for vote, with the working names being ySplit, veYFI, xYFI, BurnKeYs, and Status Quo. The [ySplit proposal](https://docs.google.com/document/d/1dAWTkS_ZsXNy7mKKjOFUjILSlLsLz9KhGfLrwVu0GUg/edit) suggests splitting the YFI token into 10,000 to 1,000,000 to combat unit bias. The [veYFI proposal](https://docs.google.com/document/d/1hoi-IVccOB6iUJYzuApVbyjbQBx8-M0UuzZosb9wlWM/edit) suggests locking YFI for a given period of time in order to receive governance rights that dictate the vaults where treasury earnings should go. [xYFI](https://docs.google.com/document/d/1ev16BXu3bDC8zMSBvHmxMWIeD82ptZck6SJAO5frV5g/edit) suggests the creation of a YFI staking vault where excess treasury earnings are to be sent. [BurnKeYs](https://docs.google.com/document/d/1BqmRsfdfCIaCtNZULdhKqUJzpKdaHE1XOGQlVp2nuSc/edit) calls for the mint function of the YFI token to be permanently disabled, thus capping the supply at 36,666 tokens. Status Quo would leave the YFI tokenomics in its current state and inform holders and potential investors of the benefits.
+There are currently 5 options up for vote, with the working names being ySplit, veYFI, xYFI, BurnKeYs, and Status Quo. The [ySplit proposal](https://docs.google.com/document/d/1dAWTkS_ZsXNy7mKKjOFUjILSlLsLz9KhGfLrwVu0GUg/edit) suggests splitting the YFI token into 10,000 to 1,000,000 to combat unit bias. The [veYFI proposal](https://docs.google.com/document/d/1hoi-IVccOB6iUJYzuApVbyjbQBx8-M0UuzZosb9wlWM/edit) suggests locking YFI for a given period of time in order to receive governance rights that dictate the vaults where treasury earnings should go. [xYFI](https://docs.google.com/document/d/1ev16BXu3bDC8zMSBvHmxMWIeD82ptZck6SJAO5frV5g/edit) suggests the creation of a YFI staking vault where excess treasury earnings are to be sent. [BurnKeys](https://docs.google.com/document/d/1BqmRsfdfCIaCtNZULdhKqUJzpKdaHE1XOGQlVp2nuSc/edit) calls for the mint function of the YFI token to be permanently disabled, thus capping the supply at 36,666 tokens. Status Quo would leave the YFI tokenomics in its current state and inform holders and potential investors of the benefits.
 
 Vote here at [the Snapshot page](https://yearn.snapshot.page/#/proposal/0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea). Thank you to all in the community who have contributed. An update from the working group, haiku included, can be found [here](https://docs.google.com/document/d/1-YEfXqXgTm-qzhPRUKs5allfX1XqYUOYwr_49FApnLU/edit).
 
@@ -69,7 +62,7 @@ Check out the new docs [here](https://docs.yearn.finance/).
 
 ## YIP-64 Fails To Meet Quorum
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image3.jpg?w=1100&h=759)
+![](./image3.jpg?w=1100&h=759)
 
 YIP-64: Adjust fees on non-stablecoin yVaults entered the voting phase and ended in the majority voting against adjusting fees.
 
@@ -77,7 +70,7 @@ Check out the proposal [here](https://snapshot.org/#/ybaby.eth/proposal/0xfe7296
 
 ## Yearn Delegates 23M veCRV to Convex
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image4.jpg?w=873&h=615)
+![](./image4.jpg?w=873&h=615)
 
 Yearn has delegated 23 million veCRV to Convex Finance using Curve’s new native boost delegation feature. This will increase yields of factory pools for both our DAOs. This does not affect regular pools, fees or voting.
 

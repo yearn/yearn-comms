@@ -5,37 +5,30 @@ image:
   width: 576
   height: 288
 author: Yearn
-date: '2021-12-05'
+date: "2021-12-05"
 translator: Dastronom
 ---
 
 ### 5 Aralık 2021'de Sona Eren Hafta
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/cover.jpeg?w=880&h=440)
+![](./cover.jpeg?w=576&h=288)
 
 Yearn Finance Bülteninin 50. baskısına hoş geldiniz. Bu bültenle amacımız, Yearn'i ve daha geniş kripto topluluğunu ürün lansmanları, yönetim değişiklikleri ve ekosistem güncellemeleri de dahil olmak üzere en son gelişmelerden haberdar etmektir. Yearn Finance hakkında daha fazla bilgi edinmek istiyorsanız, resmi [Twitter](https://twitter.com/iearnfinance) ve [Medium](https://medium.com/iearn) hesaplarımızı takip edin.
 
 ## Özet
 
 - Yearn'in yeni Kullanıcı Arayüzü
-    
 - YFI Tokenomik Güncelleme Önerisi
-    
 - Güncellenen Yearn Dokümanları
-    
 - YIP-64 Nisabı Yakalayamadı
-    
 - Yearn Convex'e 23M veCRV'yi Delegate etti
-    
 - Yearn Snapshot Stratejisi
-
 - Yearn'de Vault'lar
-
 - Ekosistem Haberleri
 
 ## Yearn'in yeni Kullanıcı Arayüzü
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image2.jpg?w=1024&h=1024)
+![](./image2.jpg?w=512&h=512)
 
 Topluluğumuzdan aldığımız tonlarca geri bildirimle [yearn.finance](https://yearn.finance/) sistemini sıfırdan yeniden oluşturduk. Şu anda hayata geçti, o yüzden bir deneyin.
 
@@ -58,7 +51,6 @@ YFI belirteçleriyle ilgili topluluk tekliflerine yönelik desteği ölçmek iç
 Şu anda oylama için 5 seçenek var ve çalışma adları ySplit, veYFI, xYFI, BurnKEYs ve Status Quo. [ySplit Önerisi](https://docs.google.com/document/d/1dAWTkS_ZsXNy7mKKjOFUjILSlLsLz9KhGfLrwVu0GUg/edit) , birim önyargısıyla mücadele etmek için YFI belirtecini 10.000 ila 1.000.000 arasında bölmeyi önerir. [veYFI önerisi](https://docs.google.com/document/d/1hoi-IVccOB6iUJYzuApVbyjbQBx8-M0UuzZosb9wlWM/edit), hazine kazançlarının gitmesi gereken vault'ları dikte eden yönetim haklarını almak için belirli bir süre için YFI'yi kilitlemeyi önerir. [xYFI](https://docs.google.com/document/d/1ev16BXu3bDC8zMSBvHmxMWIeD82ptZck6SJAO5frV5g/edit), fazla hazine kazançlarının gönderileceği bir YFI stake vault'u oluşturulmasını önerir. [BurnKeYs](https://docs.google.com/document/d/1BqmRsfdfCIaCtNZULdhKqUJzpKdaHE1XOGQlVp2nuSc/edit), YFI belirtecinin üretim işlevinin kalıcı olarak devre dışı bırakılmasını gerektirir, böylece arzı 36.666 belirteçle sınırlandırır. Status Quo, YFI tokenomiklerini mevcut durumunda bırakacak ve sahipleri ve potansiyel yatırımcıları faydalar hakkında bilgilendirecektir.
 
 [Snapshot sayfasında](https://yearn.snapshot.page/#/proposal/0x783cb3d57dd59b2827f6a42967375f06504cc947ebaa3c0e495c7b29ffd47aea) oy verebilirsiniz. Katkı sağlayan tüm topluluklara teşekkür ederiz. Haiku dahil, çalışma grubundan bir güncelleme [burada](https://docs.google.com/document/d/1-YEfXqXgTm-qzhPRUKs5allfX1XqYUOYwr_49FApnLU/edit) bulunabilir.
-    
 ## Güncellenen Yearn Dokümanları
 
 Birkaç ay önce Yearn'e katkıda bulunanlar, dokümanlarımızı dostane ve ulaşılabilir kılmak için yeniden yazmaya başladılar.
@@ -66,21 +58,21 @@ Birkaç ay önce Yearn'e katkıda bulunanlar, dokümanlarımızı dostane ve ula
 Tamamen yenilenen dokümanlar, kullanıcılara, geliştiricilere, ortaklara rehberlik etmek ve daha önce görülmemiş birçok girişle merakınızı beslemek için burada.
 
 Yeni dokümanlara [buradan](https://docs.yearn.finance/) göz atın.
-    
+
 ## YIP-64 Nisabı Yakalayamadı
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image3.jpg?w=1100&h=759)
+![](./image3.jpg?w=1100&h=759)
 
 YIP-64: Stabil olmayan jetonlar yVault'larının düzeltme ücretleri, oylama aşamasına girdi ve ayarlama ücretlerine karşı çoğunluk oylamasıyla sona erdi.
 
 Öneriye [buradan](https://snapshot.org/#/ybaby.eth/proposal/0xfe7296601d199b89a8aa53f95d6243ef935d736bea2f13109979d8d5098017d2) bakabilirsiniz.
 
 ## Yearn Convex'e 23M veCRV'yi Delegate etti
- 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image4.jpg?w=873&h=615)
- 
+
+![](./image4.jpg?w=873&h=615)
+
 Yearn, Curve'ün yeni yerel güçlendirme yetkilendirme özelliğini kullanarak 23 milyon veCRV'yi Convex Finance'ye devretti. Bu, her iki DAO'muz için fabrika havuzlarının verimini artıracaktır. Bu, normal havuzları, ücretleri veya oylamayı etkilemez.
- 
+
 [Burada](https://convex-boost-delegation.vercel.app/) kullanılmayan veCRV'yi devretmek, tüm Convex katılımcıları için fabrika ödüllerini artırır, bu da Convex ve Yearn için verimi artırmaya yardımcı olur. Delegasyon işlemimize [buradan](https://etherscan.io/tx/0x4734c879b23c678cb97ba90591e16a14f1f7a2e0a7d71bfa67d2e7bb5d718e5f) ulaşabilirsiniz.
 
 ## Yearn Snapshot Stratejisi

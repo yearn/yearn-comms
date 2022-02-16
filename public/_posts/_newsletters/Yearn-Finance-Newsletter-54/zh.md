@@ -28,7 +28,7 @@ translator: Bee
 
 # 推出 7 个在 Fantom 上新的机枪池
 
-![](./image2.jpg?w=1100&h=554)
+![](./image2.jpg?w=550&h=734)
 
 在 Fantom 上，这些新的机枪池是：WBTC，WETH，SPELL，DOLA，Curve Tricrypto，Curve Geist，and CRV。
 
@@ -51,7 +51,7 @@ translator: Bee
 
 # Yearn 的网页更新
 
-![](./image4.jpg?w=900&h=734)
+![](./image4.jpg?w=450&h=367)
 
 这个礼拜 Yearn 的网页更新包括各个新的贡献者提供 PR 并改进了 Iron Bank 和 Curve LP 代币的后端逻辑。
 

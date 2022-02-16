@@ -5,42 +5,34 @@ image:
   width: 576
   height: 288
 author: Yearn
-date: '2021-12-05'
+date: "2021-12-05"
 translator: 🤖💵💵💰💰.eth
 ---
 
 ### Tuần Kết thúc Ngày 05/12/2021
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/cover.jpeg?w=880&h=440)
+![](./cover.jpeg?w=576&h=288)
 
 Chào mừng các bạn đến với Bản tin Yearn.Finance Số #50. Chúng tôi hy vọng sẽ truyền tải được những dữ kiện mới nhất cho cộng đồng tiền mã thuật số (`crypto`) nói chung lẫn cộng đồng Yearn nói riêng; từ phát hành sản phẩm, thay đổi trong quản trị đến nhiều dự án đối tác trực thuộc hệ sinh thái Yearn. Nếu quan tâm và muốn biết thêm chi tiết về Yearn.Finance, hãy theo dõi tài khoản [Twitter](https://twitter.com/iearnfinance), [Medium](https://medium.com/iearn) cũng như [blog Tiếng Việt](https://vietnamese.blog.yearn.finance/) chính thức của chúng tôi.
 
 ## Tóm tắt
 
 - Giao diện mới cho Người dùng của Yearn
-
 - Đề xuất Cập nhật Mô hình Kinh tế YFI
-
 - Cập nhật Tư liệu Yearn
-
 - YIP-64 Không Đáp ứng được Túc số
-
 - Yearn Giao phó 23&nbsp;Triệu veCRV cho Convex
-
 - Chiến lược với Snapshot của Yearn
-
 - Các Kho bạc (`Vault`) tại Yearn
-
 - Tin tức trong Hệ Sinh thái
-
 
 ## Giao diện mới cho Người dùng của Yearn
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image2.jpg?w=1024&h=1024)
+![](./image2.jpg?w=512&h=512)
 
-Chúng tôi đã tái thiết kế [yearn.finance](https://yearn.finance/) từ gốc tới ngọn nhờ hàng ngàn góp ý quý giá của cộng đồng. Ứng dụng với trang web mới đã chính thức phát hành, thậm chí sắp có cả phiên bản Việt hóa hoàn chỉnh. 
+Chúng tôi đã tái thiết kế [yearn.finance](https://yearn.finance/) từ gốc tới ngọn nhờ hàng ngàn góp ý quý giá của cộng đồng. Ứng dụng với trang web mới đã chính thức phát hành, thậm chí sắp có cả phiên bản Việt hóa hoàn chỉnh.
 
-Một trong những điều thú vị nhất (theo chúng tôi) là tính năng Mô phỏng. Khi ký gửi vào các kho bạc (`vault`) ở những phiên bản UI trước, chúng tôi đã hỗ trợ Zapper để giúp bạn, chẳng hạn như, ký gửi vào kho bạc 3CRV bằng cách dùng ETH hoặc bất cứ tôken nào khác mà Zapper chấp nhận. Điều này vừa nhanh, vừa tiện nhưng rõ ràng có công đoạn bán-đổi (`swap`) xảy ra trong quá trình ký gửi của bạn. Vậy dòng chữ "Đang mô phỏng..." kia nghĩa là? Vâng, đoạn đó nghĩa là hệ thống đang kiểm tra tôken đầu vào với API (`Giao diện Lập trình Ứng dụng`) của Zapper và Tenderly, một dịch vụ tuyệt vời đem lại khả năng mô phỏng giao dịch cho người dùng. Nó tính toán chính xác kết quả đầu ra, như một dạng xem trước tương lai đối với tác vụ ký gửi mà bạn định thực hiện. Ví dụ: ETH>3crv. 
+Một trong những điều thú vị nhất (theo chúng tôi) là tính năng Mô phỏng. Khi ký gửi vào các kho bạc (`vault`) ở những phiên bản UI trước, chúng tôi đã hỗ trợ Zapper để giúp bạn, chẳng hạn như, ký gửi vào kho bạc 3CRV bằng cách dùng ETH hoặc bất cứ tôken nào khác mà Zapper chấp nhận. Điều này vừa nhanh, vừa tiện nhưng rõ ràng có công đoạn bán-đổi (`swap`) xảy ra trong quá trình ký gửi của bạn. Vậy dòng chữ "Đang mô phỏng..." kia nghĩa là? Vâng, đoạn đó nghĩa là hệ thống đang kiểm tra tôken đầu vào với API (`Giao diện Lập trình Ứng dụng`) của Zapper và Tenderly, một dịch vụ tuyệt vời đem lại khả năng mô phỏng giao dịch cho người dùng. Nó tính toán chính xác kết quả đầu ra, như một dạng xem trước tương lai đối với tác vụ ký gửi mà bạn định thực hiện. Ví dụ: ETH>3crv.
 
 Tại sao điều này lại hữu ích và tuyệt vời? Về mặt kỹ thuật, do giao thức chúng tôi tương tác với trạng thái bộ nhớ trực-chuỗi (`on-chain state`), và bộ nhớ này thay đổi liên tục khiến việc ước tính lượng tôken kho bạc mà bạn sắp nhận về không phải dễ. Độ trượt giá mà bạn phải chịu có thể lớn hơn dự kiến, hoặc đường đi của tôken bất ngờ thất bại làm tiêu tốn phí gas, v.v... Tính năng mô phỏng mới sẽ giúp tiết kiệm phí gas cả khi ký gửi lẫn lúc rút.
 
@@ -70,7 +62,7 @@ Xem ngay tư liệu mới [ở liên kết này](https://docs.yearn.finance/).
 
 ## YIP-64 Không Đáp ứng được Túc số
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image3.jpg?w=1100&h=759)
+![](./image3.jpg?w=1100&h=759)
 
 `YIP-64: Điều chỉnh phí cho kho bạc không chứa tiền bình giá` đã đi vào giai đoạn biểu quyết và kết thúc với đa số bỏ phiếu phản đối việc thay đổi phí.
 
@@ -78,7 +70,7 @@ Kiểm tra đề xuất nói trên [tại đây](https://snapshot.org/#/ybaby.et
 
 ## Yearn Giao phó 23&nbsp;Triệu veCRV cho Convex
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-50/image4.jpg?w=873&h=615)
+![](./image4.jpg?w=873&h=615)
 
 Yearn đã giao phó 23&nbsp;triệu veCRV cho `Convex Finance` bằng tính năng ủy thác kích thưởng nguyên gốc mới của Curve. Điều này sẽ làm tăng hoa lợi của các "bể tự phát" (`factory pool`) cho cả hai ĐAO. Không có thay đổi gì về phí, biểu quyết hay những bể góp vốn thường.
 
@@ -88,7 +80,7 @@ Giao phó veCRV không dùng đến [tại đây](https://convex-boost-delegatio
 
 Để chuẩn bị cho một số cuộc bỏ phiếu quan trọng, chiến lược Snapshot của Yearn đã được cập nhật mới.
 
-Giờ đây, bạn có thể biểu quyết bằng YFI ở mọi nơi, từ trong ví, mọi kho bạc Yearn v2, Bancor, Balancer v2, Uniswap v2, Sushi (kể cả  MasterChef), MakerDAO, Unit, Instadapp (kể cả  MakerDAO).
+Giờ đây, bạn có thể biểu quyết bằng YFI ở mọi nơi, từ trong ví, mọi kho bạc Yearn v2, Bancor, Balancer v2, Uniswap v2, Sushi (kể cả MasterChef), MakerDAO, Unit, Instadapp (kể cả MakerDAO).
 
 Hợp đồng (`contract`) tương ứng có thể được kiểm tra [ở liên kết này](https://github.com/yearn/snapshot-strategy) cũng như triển khai [tại đây](https://etherscan.io/address/0xA79e803FffE9DA37477ddaFD7C6F3dbDCa1C566C#code).
 

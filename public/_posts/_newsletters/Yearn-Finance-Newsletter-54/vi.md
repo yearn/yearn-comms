@@ -28,7 +28,7 @@ Chào mừng các bạn đến với Bản tin Yearn.Finance Số #54! Chúng t�
 
 # Giới thiệu Bảy Kho bạc Fantom Mới
 
-![](./image2.jpg?w=1100&h=554)
+![](./image2.jpg?w=550&h=734)
 
 Trên Fantom, bảy kho bạc mới trình diện: WBTC, WETH, SPELL, DOLA, Curve Tricrypto, Curve Geist và CRV
 
@@ -50,7 +50,7 @@ Xem các kho bạc nói trên [tại đây](https://yearn.finance/#/vaults).
 
 # Cập nhật Yearn Web
 
-![](./image4.jpg?w=900&h=734)
+![](./image4.jpg?w=450&h=367)
 
 Tuần này, các cập nhật Yearn Web bao gồm nhiều đóng góp viên lần đầu mở `Pull Request` (PR) và cải thiện lôgic nền tảng mặt sau (`backend`) cho những tôken Iron&nbsp;Bank & Curve&nbsp;LP.
 
