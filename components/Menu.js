@@ -28,7 +28,7 @@ function	MenuItems() {
 			<MenuItem
 				className={'mb-4'}
 				label={common['menu-announcements']}
-				condition={router.asPath.startsWith('/announcements') || router.asPath === '/'}
+				condition={router.asPath.startsWith('/announcements')}
 				href={'/announcements'} />
 			<MenuItem
 				className={'mb-4'}
