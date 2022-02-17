@@ -130,4 +130,5 @@ Producer: [Worms](https://twitter.com/MarcoWorms), Reviewer: [Dark Ghosty](https
 
 Thanks a lot Dark Ghosty for going through all these dashboards and showing me how to navigate them ❤
 </br>
-Made in[ yearn.finance](https://yearn.finance/)
+
+**Made in[ yearn.finance](https://yearn.finance/)**
