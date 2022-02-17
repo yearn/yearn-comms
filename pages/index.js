@@ -27,7 +27,7 @@ export async function getStaticProps({locale}) {
 			dirs.push(`_${childrens[index][0]}${childrens[index][1][jindex]}`);
 		}
 	}
-	const _allPosts = listAllPosts(dirs, locale);
+	const	_allPosts = listAllPosts(dirs, locale);
 	const	col1 = [];
 	const	col2 = [];
 	const	col3 = [];
@@ -44,15 +44,20 @@ export async function getStaticProps({locale}) {
 			currentCol = 1;
 		}
 	}
-	if (col1.length > col2.length) {
-		col2.push(null);
+
+	while (col1.length > col2.length) {
+		col2.push({});
 	}
-	if (col1.length > col3.length) {
-		col3.push(null);
+	while (col1.length > col3.length) {
+		col3.push({});
 	}
 	return {
 		props: {
-			allPosts: [...col1, ...col2, ...col3],
+			allPosts: {
+				col1,
+				col2,
+				col3,
+			},
 		},
 	};
 }

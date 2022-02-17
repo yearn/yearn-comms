@@ -45,7 +45,11 @@ export async function getStaticProps({params, locale}) {
 		}
 		return {
 			props: {
-				allPosts: [...col1, ...col2, ...col3],
+				allPosts: {
+					col1,
+					col2,
+					col3,
+				},
 				isListing: true,
 				path: `${params.path}`
 			},

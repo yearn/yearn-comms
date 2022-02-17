@@ -54,8 +54,12 @@ export const getStaticProps = async ({locale, params}) => {
 	}
 	return {
 		props: {
-			allPosts: [...col1, ...col2, ...col3],
-			path: params.path
+			path: params.path,
+			allPosts: {
+				col1,
+				col2,
+				col3,
+			},
 		},
 	};
 };
