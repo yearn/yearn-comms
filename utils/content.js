@@ -15,6 +15,8 @@ export function getPostSlugs(dir) {
 export function getPostBySlug(dir, slug, fields = [], locale, withFallback) {
 	const	postsDirectory = join(process.cwd(), `public/_posts/${dir}`);
 	const	fullPath = join(`${postsDirectory}/${slug}/${locale}.md`);
+	const	defaultFields = ['published', 'slug', 'date', 'title', 'image', 'author', 'translator'];
+	fields = [...fields, ...defaultFields];
 
 	if (!fs.existsSync(fullPath)) {
 		if (withFallback) {
@@ -24,12 +26,13 @@ export function getPostBySlug(dir, slug, fields = [], locale, withFallback) {
 			const	items = {slug};
 	
 			// Ensure only the minimal needed data is exposed
+			items['published'] = true;
 			fields.forEach((field) => {
 				if (field === 'content') {
 					items[field] = content;
 				}
 	
-				if (data[field]) {
+				if (data[field] !== undefined) {
 					if (field === 'image') {
 						const {src, width, height} = data[field];
 						if ((src || '').startsWith('./')) {
@@ -52,18 +55,20 @@ export function getPostBySlug(dir, slug, fields = [], locale, withFallback) {
 		const	{data, content} = matter(fileContents);
 		const	items = {slug};
 
-		// Ensure only the minimal needed data is exposed
+		// remove leading _ from dir
+		items['path'] = `${dir.replace(/^_/, '')}`;
+		items['published'] = true;
 		fields.forEach((field) => {
 			if (field === 'content') {
 				items[field] = content;
 			}
 
-			if (data[field]) {
+			if (data[field] !== undefined) {
 				if (field === 'image') {
 					const {src, width, height} = data[field];
 					if ((src || '').startsWith('./')) {
 						items[field] = {
-							src: src.replace('./', `/_posts/${dir}/${slug}/`),
+							src: src.replace('./', `/_posts/${dir}${slug}/`),
 							width,
 							height
 						};
@@ -113,47 +118,24 @@ export function getAllPosts(
 		slugs.push(...getPostSlugs(`${dir}/${paths[index]}`));
 	}
 	const posts = slugs
-		.map((slug) => (
-			getPostBySlug(dir, slug, fields, locale, withFallback))
-		)
+		.map((slug) => getPostBySlug(dir, slug, fields, locale, withFallback))
 		.filter(Boolean)
 		.sort((post1, post2) => (post1.date > post2?.date ? -1 : 1));
 	return posts;
 }
 
-function getPostSlugsList(dir, subdir) {
-	const postsDirectory = join(process.cwd(), `public/_posts/${dir}`);
-	const dirContent = fs.readdirSync(`${postsDirectory}`);
-	const toRet = [];
-	for (let index = 0; index < dirContent.length; index++) {
-		toRet.push(`${subdir ? `${subdir}/` : ''}${dirContent[index]}`);
-	}
-	return (toRet);
-}
-export function listAllPosts(
-	dir,
-	paths = [''],
-	locale,
-	withFallback = false
-) {
-	let	slugs = [];
-	for (let index = 0; index < paths.length; index++) {
-		slugs.push(
-			...getPostSlugsList(`${dir}/${paths[index]}`, paths[index])
+export function listAllPosts(dir, locale, withFallback = false) {
+	let	posts = [];
+	for (let index = 0; index < dir.length; index++) {
+		const	slugs = [...getPostSlugs(dir[index])];
+		posts.push(
+			...slugs
+				.map((slug) => getPostBySlug(dir[index], slug, [], locale, withFallback))
+				.filter(Boolean)
+				.filter(p => p.published)
 		);
 	}
-	const posts = slugs
-		.map((slug) => (
-			getPostBySlug(
-				dir,
-				slug,
-				['title', 'date', 'slug', 'author', 'image'],
-				locale,
-				withFallback
-			))
-		)
-		.filter(Boolean)
-		.sort((post1, post2) => (post1.date > post2?.date ? -1 : 1));
+	posts = posts .sort((post1, post2) => (post1.date > post2?.date ? -1 : 1));
 	return posts;
 }
 

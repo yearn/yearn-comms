@@ -2,9 +2,9 @@
 title: "How Yearn calculates estimated returns (APY)
 "
 image:
-  src: ./cover.png
-  width: 1280
-  height: 800
+  src: ./image1.jpg
+  width: 469
+  height: 246
 date: '2022-02-14'
 author: Marco_Worms
 translator: 

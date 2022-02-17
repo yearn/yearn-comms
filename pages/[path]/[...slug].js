@@ -30,7 +30,7 @@ export async function getStaticProps({params, locale}) {
 		(params.path === 'articles' && (params.slug.length === 1 && params.slug[0] === 'yearn-finance')) ||
 		(params.path === 'updates' && (params.slug.length === 1 && params.slug[0] === 'web-team'))		
 	) {
-		const	_allPosts = listAllPosts(`_${params.path}`, params.slug, locale);
+		const	_allPosts = listAllPosts([`_${params.path}/${params.slug}/`], locale);
 		const	col1 = [];
 		const	col2 = [];
 		const	col3 = [];
@@ -45,7 +45,11 @@ export async function getStaticProps({params, locale}) {
 		}
 		return {
 			props: {
-				allPosts: [...col1, ...col2, ...col3],
+				allPosts: {
+					col1,
+					col2,
+					col3,
+				},
 				isListing: true,
 				path: `${params.path}`
 			},
@@ -54,20 +58,8 @@ export async function getStaticProps({params, locale}) {
 
 	const slug = params.slug[params.slug.length - 1];
 	const path = `_${params.path}/${params.slug.slice(0, -1).join('/')}`;
-	const post = getPostBySlug(
-		path,
-		slug,
-		['title', 'image', 'date', 'slug', 'author', 'content', 'translator'],
-		locale,
-		true
-	);
-	const [newer, older] = await getRelatedPosts(
-		path,
-		['slug', 'date', 'title'],
-		locale,
-		false,
-		slug
-	);
+	const post = getPostBySlug(path, slug, ['content'], locale, true);
+	const [newer, older] = await getRelatedPosts(path, [], locale, false, slug);
 
 	return {
 		props: {

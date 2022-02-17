@@ -28,7 +28,7 @@ function	MenuItems() {
 			<MenuItem
 				className={'mb-4'}
 				label={common['menu-announcements']}
-				condition={router.asPath.startsWith('/announcements') || router.asPath === '/'}
+				condition={router.asPath.startsWith('/announcements')}
 				href={'/announcements'} />
 			<MenuItem
 				className={'mb-4'}
@@ -147,7 +147,7 @@ function	MenuDesktop() {
 				<div className={'flex relative flex-col w-full h-full'}>
 					<div className={'flex flex-row justify-between items-center'}>
 						<Link href={'/'}>
-							<span className={'flex flex-row items-start'}>
+							<span className={'flex flex-row items-start cursor-pointer'}>
 								<Image src={'/YFI.png'} width={32} height={32} quality={95} loading={'eager'} />
 								<h1 className={'pl-4 text-lg font-bold text-dark-blue-1 dark:text-white'}>
 									<span className={'text-yearn-blue'}>{'yearn'}</span>
