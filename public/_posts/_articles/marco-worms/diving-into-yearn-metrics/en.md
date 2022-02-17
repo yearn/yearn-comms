@@ -48,31 +48,47 @@ This page gives us a lot of information on the overall health of all Yearn Vault
 There is information about TVL (Total Value Locked) which represents all funds deposited across all yVaults. We can see both Ethereum and Fantom total TVL and also each network slice. There are some charts showing daily/weekly deltas, which are comparisons with present data and past ones. “share price” is also an important metric to follow, it represents the vault’s lifetime gains in the form of a number which grows over time above 1.0. Below you can see a share price example for ETH to yETH. Here is how “share price” works:
 
 ![](./image5.jpg?w=1400&h=849)
+*how “share price” works*
+</br>
 
 Back to the Vision dashboard, on the top-right corner, you can always change the time range which will update most charts.
 
 
-![](./image6.jpg?w=226&h=469)
+![](./image6.jpg?w=226&h=469)</br>
+*change the time range in the top-right corner*
+</br>
+
 
 Don’t get scared by the charts with many colors they normally show all vaults/strategies and you reduce the noise by selecting only the one you want to learn more about. You can click on the list of items to filter analytics by a single part, most of them will come with all items selected by default so you’ll have to pick the vault you want to check:
 
-![](./image7.jpg?w=884&h=231)
+![](./image7.jpg?w=884&h=231)</br>
+*Unfiltered*
+</br>
 
-![](./image8.jpg?w=895&h=258)
+![](./image8.jpg?w=895&h=258)</br>
+*Filtered*
+</br>
 
 “time since last report” means when this vault strategies were last harvested. The above “Filtered” chart is an example of all harvest from the USDC yVault that happened the last week, the vertical drop means that a harvest happened so “time since the last harvest/report” goes to 0
 
 You can switch to other dashboards on the left side of the screen:
 
-![](./image9.jpg?w=225&h=221)
+![](./image9.jpg?w=225&h=221)</br>
+*see all dashboards: https://yearn.vision/dashboards*
+</br>
+
 
 Here you’ll find plenty of dashboard to dive deeper into what’s happening at Yearn!
 
 ![](./image10.jpg?w=1395&h=565)
+*dashboards used by strategist*
+</br>
 
 Let’s take a peek at the “Vault Overview” dashboard:
 
 ![](./image11.jpg?w=1400&h=640)
+*Vault Overview Dashboard: https://yearn.vision/d/ibsIoEknkdffd/vault-overview?orgId=1*
+</br>
 
 In this Vault Overview dashboard we can see there are 6 active strategies for the USDC yVault: “totalDebt” is the amount that the vault is delegating to these strategies, “amount of free funds” means how many funds are available for cheap (gas-wise) withdrawal, when this number is less than the amount you’d like to withdraw then the transaction will cost a bit more gas because the vault will have to take funds delegated to strategies and make more operations in the process.
 
@@ -81,6 +97,8 @@ We’ll use yearn.watch later to look at how the funds are delegated proportiona
 There are also great dashboards for inspecting Yearn’s overall health, and you can even monitor the DAO’s treasury:
 
 ![](./image12.jpg?w=1363&h=201)
+*Yearn Treasury Dashboard: https://yearn.vision/d/9_ppKhd7z/treasury*
+</br>
 
 
 ## **Yearn Watch**
