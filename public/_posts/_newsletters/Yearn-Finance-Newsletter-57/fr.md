@@ -3,7 +3,7 @@ layout: post
 title: "Yearn Finance Newsletter #57"
 categories: [Newsletters]
 image:
-  src: ./cover.png
+  src: ./image1.jpg
   width: 1152
   height: 576
 author: Yearn
@@ -17,23 +17,21 @@ translator: Cryptouf
 
 ![](./image1.jpg?w=1456&h=733)
 
-
 Bienvenue à la 57e édition de la Newsletter Yearn Finance. Notre objectif avec cette newsletter est de tenir la communauté Yearn, et plus généralement la communauté crypto, au courant des dernières nouvelles, y compris les lancements de produits, les changements de gouvernance et les mises à jour de l’écosystème. Si vous souhaitez en savoir plus sur Yearn Finance, suivez nos comptes [Twitter](https://twitter.com/iearnfinance) et [Medium](https://medium.com/iearn) officiels.
 
 ## Summary
 
-* Le YIP-66 acceptée
-* Mises à jour de Yearn Web
-* Yearn à l' EthDenver
-* Sécurité chez Yearn
-* Comment les nouvelles stratégies des Yearn sont-elles approuvées ?
-* Vaults chez Yearn
-* Nouvelles de l’écosystème
+- Le YIP-66 acceptée
+- Mises à jour de Yearn Web
+- Yearn à l' EthDenver
+- Sécurité chez Yearn
+- Comment les nouvelles stratégies des Yearn sont-elles approuvées ?
+- Vaults chez Yearn
+- Nouvelles de l’écosystème
 
 # Le YIP-66 acceptée
 
 ![](./image2.jpg?w=1456&h=1456)
-
 
 Le YIP-66,qui concerne un nouveau plan de compensation pour Yearn a récemment passé l'étape du vote avec succes et sera intégrée au protocole Yearn.
 
@@ -45,12 +43,9 @@ Nous vous invitons à vous engager, à donner votre avis et à participer en nou
 
 Consultez la proposition [ici](https://gov.yearn.finance/t/proposal-streamlining-contributor-compensation/12247) et retrouvez le vote [ici](https://snapshot.org/#/ybaby.eth/proposal/0x804d3765e70d6e4f0f0a225222dadd396cd328595d5fd097b732b36fdf8e6af6).
 
-
-
 # Mises à jour de Yearn Web
 
 ![](./image3.jpg?w=680&h=372)
-
 
 La mise à jour Web Yearn de cette semaine comprend le support Web pour Arbitrum, les tests et les alertes en temps, et la croissance de notre équipe pour l'infrastructure.
 
@@ -69,7 +64,6 @@ Nous sommes toujours à la recherche de collaborateurs expérimentés pour le d�
 La culture de Yearn est l'une des plus amicales du paysage DeFi, chaque "anon" pouvant faire ses preuves grace a son travail et en collaborant avec des dizaines d'autres membres partageant les mêmes idées. Yearn est 100 % remote, flexible et extrêmement axé sur la croissance, comme vous l'avez peut-être vu dans [The Blue Pill](https://thebluepill.eth.limo/).
 
 Consultez l'article complet[ici](https://medium.com/iearn/yearn-finance-will-be-at-ethdenver-we-are-looking-for-people-to-join-our-team-83ed3aa20269).
-
 
 # Sécurité chez Yearn
 
@@ -96,8 +90,7 @@ Désormais, le stratège + tous les contributeurs ayant participé a valider et 
 Lorsque la stratégie a plus de 10 millions de TVL, le stratège doit — créer un comité de 3 personnes ayant des connaissances approfondies surveillant la stratégie 24h/24 et 7j/7.
 Lorsque la stratégie a plus de 100 millions de TVL, elle sera ensuite auditée par une société d'audit externe réputée et nous commencerons à effectuer des examens internes récurrents.
 
-
-Si vous souhaitez contribuer, venez rejoindre notre [discord](https://discord.com/invite/8rF374XkXy), créez une "issue"  dans l'un des repos se indique dans le Medium partagez vos stratèges avec nous sur [ twitter](https://twitter.com/iearnfinance) !
+Si vous souhaitez contribuer, venez rejoindre notre [discord](https://discord.com/invite/8rF374XkXy), créez une "issue" dans l'un des repos se indique dans le Medium partagez vos stratèges avec nous sur [ twitter](https://twitter.com/iearnfinance) !
 
 Lisez l'article complet de Marco Worms [ici](https://medium.com/iearn/how-new-yearn-vault-strategies-are-endorsed-8c0e0870790d).
 
