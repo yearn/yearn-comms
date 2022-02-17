@@ -3,14 +3,13 @@ layout: post
 title: "Yearn Finance Newsletter #57"
 categories: [Newsletters]
 image:
-src: ./cover.png
-width: 1456
-height: 733
+  src: ./cover.png
+  width: 1152
+  height: 576
 author: Yearn
 date: "2022-02-15"
 translator: jameskbh
 ---
-
 ### Semana que termina em 15 de fevereiro de 2022
 
 ![](./image1.jpg?w=1456&h=733)
