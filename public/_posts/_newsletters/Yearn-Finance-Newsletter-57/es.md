@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Newsletter #57 de Yearn Finance "
+title: "Newsletter #57 de Yearn Finance"
 categories: [Newsletters]
 image:
-  src: ./image1.jpg
+  src: ./cover.png
   width: 1456
   height: 733
 author: Yearn
