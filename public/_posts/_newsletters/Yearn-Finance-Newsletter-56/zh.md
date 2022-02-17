@@ -5,7 +5,7 @@ image:
   width: 1456
   height: 733
 author: Yearn
-date: '2022-02-02'
+date: "2022-02-02"
 translator: Bee926
 ---
 
@@ -13,15 +13,14 @@ translator: Bee926
 
 ![](./image1.jpg?w=1456&h=733)
 
-
 欢迎来到 Yearn 最新动态第 56 版。 此新闻简报的目的是让 Yearn 和所有加密货币社区了解最新消息，包括新产品发布，治理变化和生态系统更新。如果你有兴趣了解更多有关 Yearn Finance 的信息，请关注我们的官方 [Twitter](https://twitter.com/iearnfinance) 和 [Medium](https://medium.com/iearn) 帐户。
 
 ## 摘要
 
 - 更新 Yearn 的报酬系统的提案
 - Yearn 以 $390 万美金回购了额外的 127.9 枚 YFI
-- Yearn 平台用户有资格获得 Project Galaxy 的 NFT 徽章 
-- 阅读新的 Yearn 合作伙伴跟踪器审计 
+- Yearn 平台用户有资格获得 Project Galaxy 的 NFT 徽章
+- 阅读新的 Yearn 合作伙伴跟踪器审计
 - Yearn 在 ARK Invest Big Ideas 的报告中被提到
 - Yearn 的机枪池
 - 生态系统最新消息
@@ -32,7 +31,7 @@ translator: Bee926
 
 各位朋友，想看到更多的 YFI 回购吗？我们想想以下的一些场景吧：如果 Yearn 的报酬系统可以应用在 YIP-65 提案中的新的代币模型？如果每次 Yearn 的团队成员拿到报酬后他们最多可以分配到 100% 用于购买和锁定 veYFI?
 
-经过数月的工作，一群由 15 人组成的团队提出了一份贡献者买断提案，此提案包括Yearn 将会为那些选择在 Yearn 全职工作的人提供的新福利。
+经过数月的工作，一群由 15 人组成的团队提出了一份贡献者买断提案，此提案包括 Yearn 将会为那些选择在 Yearn 全职工作的人提供的新福利。
 
 这个提案的目的是将 Yearn 发展成一个单一而且灵活的报酬计划，集合 veYFI 的代币模型，与 YFI 对齐，激励代币锁仓，还有自动化的运行。该提案包括 Yearn 先前报酬方法的历史，新提议的计划和简化报酬计划的过渡步骤以及风险。
 
@@ -40,14 +39,11 @@ translator: Bee926
 
 你可以在[这里](https://gov.yearn.finance/t/proposal-streamlining-contributor-compensation/12247)查看此提案。
 
-
-
 # Yearn 以 $390 万美金回购了额外的 127.9 枚 YFI
-
 
 根据在 2021 年 1 月通过的 YIP-56 提案：回购并建造 Yearn，我们非常高兴的宣布 Yearn 的财库以 $390 万美金回购了额外的 127.9 枚 YFI。
 
-在有更改此回购政策的新治理提案被投票通过之前，Yearn 的财库不会停止继续用协议赚取的利润来回购 YFI。你可以在这里读更多有关于 BABY 提案的资讯。 
+在有更改此回购政策的新治理提案被投票通过之前，Yearn 的财库不会停止继续用协议赚取的利润来回购 YFI。你可以在这里读更多有关于 BABY 提案的资讯。
 
 如果你想阅读更多有关于 Yearn 财库之前购买 YFI 的详细分类，你可以点击这个[链接](https://gov.yearn.finance/t/yfi-buyback-auctions/10491/3)。
 
@@ -60,7 +56,6 @@ translator: Bee926
 在 Yearn，Alpha 或 Badger 上有做过任何质押操作的用户将获得“Yield Farmer - DeFi 101”的徽章。 请继续关注我们未来将推出的奖励!
 
 你可以在 [galaxy.eco/coingecko ](https://twitter.com/ProjectGalaxyHQ/status/1487048124182921220?s=20&t=Z5Z2328-bsM-BNCp9d1KAA) 领取未来的奖励，并可以在[这里](https://twitter.com/ProjectGalaxyHQ/status/1487048124182921220?s=20&t=Z5Z2328-bsM-BNCp9d1KAA)读完整的推文。
-
 
 # 阅读新的 Yearn 合作伙伴跟踪器审计
 
