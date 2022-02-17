@@ -1,7 +1,7 @@
 ---
 title: "Yearn 最新动态 #56"
 image:
-  src: ./image1.jpg
+  src: ./cover.png
   width: 1456
   height: 733
 author: Yearn
