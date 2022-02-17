@@ -3,7 +3,7 @@ layout: post
 title: "Yearn Finance Newsletter #57"
 categories: [Newsletters]
 image:
-  src: ./image1.jpg
+  src: ./cover.png
   width: 1152
   height: 576
 author: Yearn
