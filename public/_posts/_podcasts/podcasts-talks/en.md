@@ -13,8 +13,10 @@ translator:
 - [Synthetix Yearn Governance](https://www.spreaker.com/user/14928562/synthetix-yearn-governance)
 
 ### Talks
-- [Facu Ameal: How to become a mighty strategist](https://www.youtube.com/watch?v=NVR3teJw0Y0) | Also at [ETH Denver](https://www.youtube.com/watch?v=6og7NV7lzUk)
+- [The Limits Of Decentralization | Orca, Tracheopteryx, Frog Monkee](https://www.youtube.com/watch?v=Q5j32zOdNR8)
+- [An Incoherent Rambling About DAOs | Tracheopteryx](https://www.youtube.com/watch?v=UetmH8gTjG8)
 - [Tracheopteryx: How to Contribute to DAOs](https://www.youtube.com/watch?v=anDAtWrhDnE)
+- [Facu Ameal: How to become a mighty strategist](https://www.youtube.com/watch?v=NVR3teJw0Y0) | Also at [ETH Denver](https://www.youtube.com/watch?v=6og7NV7lzUk)
 - [How DAOs will Change Everything | Kain Warwick, CoopahTroopah, Tracheopteryx](https://www.youtube.com/watch?v=dZ4o6wma4js)
 - [Building the Right Culture for DAOs | Punia, Tracheopteryx](https://www.youtube.com/watch?v=l4Dk1bYzZGE)
 - [Coordination at Yearn: Notes From the Frontier | Tracheopteryx](https://www.youtube.com/watch?v=PZOuuLm9Qjo)
