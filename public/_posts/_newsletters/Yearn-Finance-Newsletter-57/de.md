@@ -14,7 +14,7 @@ translator: Mkflow27
 
 ![](./image1.jpg?w=1456&h=733)
 
-Herzlich willkommen zur 57ten Ausgabe des Yearn Finance Newsletters. Ziel dieses Newsletters ist es, die Yearn- sowie die breitere community über der aktuellste Neuigkeiten, wie Produktlaunches, Änderungen beim Thema Governance sowie Ökosystemupdates, zu informieren. Wenn du mehr über Yearn erfahren möchtest, folge unserem offiziellen [Twitter](https://twitter.com/iearnfinance) und [Medium](https://medium.com/iearn) account.
+Herzlich willkommen zur 57ten Ausgabe des Yearn Finance Newsletters. Ziel dieses Newsletters ist es, die Yearn- sowie die breitere community über die aktuellsten Neuigkeiten, wie Produktlaunches, Änderungen beim Thema Governance sowie Ökosystemupdates, zu informieren. Wenn du mehr über Yearn erfahren möchtest, folge unserem offiziellen [Twitter](https://twitter.com/iearnfinance) und [Medium](https://medium.com/iearn) account.
 
 ## Zusammenfassung
 
@@ -32,9 +32,9 @@ Herzlich willkommen zur 57ten Ausgabe des Yearn Finance Newsletters. Ziel dieses
 
 YIP-66 beinhaltet einen Plan zum Entlohnungsprogramm von Yearn mit dem Ziel, Unabhängigkeit herzustellen und wurde kürzlich erfolgreich verabschiedet.
 
-Allein im vierten Quartal 2021 betrug die Entlohnung von Yearn Strategists €4.546.090. YIP-65 hat die Absicht, ein Entlohnungssystem zu schaffen, welches allgemeingültig für die komplette Yearn DAO ist.
+Allein im vierten Quartal 2021 betrug die Entlohnung von Yearn Strategists $5.142.137. YIP-65 hat die Absicht, ein Entlohnungssystem zu schaffen, welches allgemeingültig für die komplette Yearn DAO ist.
 
-Weitere Stimmen vertreten die Meinung, dass YIP-65 die Komplexität des Entlohnungssystems zu stark verkompliziere, Probleme bei der Besteuerung mit sich ziehe oder die exzellente Arbeit der Yearn Strategists nicht ausreichend würdige. Ziel von YIP-65 ist es, diese Punkte aufzunehmen und ein effizienteres DAO management zu gewährleiten.
+Weitere Stimmen vertreten die Meinung, dass YIP-65 die Komplexität des Entlohnungssystems zu stark verkompliziere, Probleme bei der Besteuerung mit sich ziehe oder die exzellente Arbeit der Yearn Strategists nicht ausreichend würdige. Ziel von YIP-65 ist es, diese Punkte aufzunehmen und ein effizienteres DAO management zu gewährleisten.
 
 Wir freuen uns über einen informellen Austausch sowie Feedback und Anregungen bei uns im [Discord](https://discord.gg/8rF374XkXy), [Twitter](http://twitter.com/iearnfinance), oder [Github](http://github.com/yearn). Lass uns gemeinsam nach Vorn schauen.
 
@@ -48,13 +48,13 @@ Seit dieser Woche unterstützt die Yearn Webapplikation Arbitrum, echtzeit Ende 
 
 Es werden bald ausführliche Informationen zu Sicherheitsupdates sowie eine verbesserte Übersicht zu den Effektiverträgen folgen.
 
-Schau dir das aktuellste Update [hier] an(https://yearnweb.substack.com/p/yearn-web-engineering-update-160?r=2y79e&utm_campaign=post&utm_medium=web).
+Schau dir das aktuellste Update hier an (https://yearnweb.substack.com/p/yearn-web-engineering-update-160?r=2y79e&utm_campaign=post&utm_medium=web).
 
 # Aktuelles zu Yearn von ETHDenver
 
 ![](./image4.jpg?w=1328&h=654)
 
-Yearn hat dieses Jahr erstmalig als ETHDenver Sponsor gewirkt. Umso mehr freuen wir uns, mit den Entwicklern sowie der breiteren Community auszutauschen.
+Yearn hat dieses Jahr erstmalig als ETHDenver Sponsor gewirkt. Umso mehr freuen wir uns, uns mit den Entwicklern sowie der breiteren Community auszutauschen.
 
 Wir sind stetig auf der Suche nach erfahrenen Leuten im Bereich Programmierung, Produktmanagement, Marketing & Kommunikation sowie im Bereich Operations.
 
@@ -66,9 +66,9 @@ Schau dir den kompletten Artikel [hier](https://medium.com/iearn/yearn-finance-w
 
 ![](./image5.jpg?w=945&h=408)
 
-Bei Yearn ist Sicherheit ein extrem hohes Gut. Damit streben wir an, führ unsere Benutzer die besten risikoangepassten Erträge zu erzielen.
+Bei Yearn ist Sicherheit ein extrem hohes Gut. Damit streben wir an, für unsere Benutzer die besten risikoangepassten Erträge zu erzielen.
 
-Kürzlich hat Yearn eine Bug Belohnung in Höhe von €176.660 ausgezahlt. Ein Whitehat hat uns auf eine Schwachstelle mittels Immunefi aufmerksam gemacht. Die Schwachstelle wurde seitdem behoben und die Strategie wurden innerhalb von 2 Wochen angepasst.
+Kürzlich hat Yearn eine Bug Belohnung in Höhe von $200.000 ausgezahlt. Ein Whitehat hat uns auf eine Schwachstelle mittels Immunefi aufmerksam gemacht. Die Schwachstelle wurde seitdem behoben und die Strategie wurden innerhalb von 2 Wochen angepasst.
 
 Mehr Informationen zu der Sicherheitslücke findest du [hier](https://github.com/yearn/yearn-security/blob/master/disclosures/2022-01-30.md). Sicher die eine Belohnung bis zu $200.000 bei [Immunefi](https://immunefi.com/bounty/yearnfinance/). Sieh dir ebenfalls die Bounties für die ETHDenver Konferenz [hier](https://www.ethdenver.com/bounties/yearn-finance) an.
 
