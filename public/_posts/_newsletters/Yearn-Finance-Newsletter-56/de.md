@@ -13,6 +13,7 @@ translator: "Nesyeth"
 
 ![](./image1.jpg?w=1456&h=733)
 
+
 Willkommen zur 56. Ausgabe des Yearn Finance Newsletter. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter möchten wir die Yearn- und die breitere Krypto-Community über die neuesten Nachrichten informieren, darunter Produkteinführungen, Änderungen in der Unternehmensführung und Aktualisierungen im Ökosystem. Wenn du mehr über Yearn Finance erfahren möchtest, folge unserem offiziellen [Twitter](https://twitter.com/iearnfinance)- und [Medium](https://medium.com/iearn)-Konten.
 
 ## Zusammenfassung
@@ -39,7 +40,10 @@ Wir laden dich ein, dich zu engagieren, Feedback zu geben und sich an der unverb
 
 Sieh dir den Vorschlag [hier](https://gov.yearn.finance/t/proposal-streamlining-contributor-compensation/12247) an.
 
+
+
 # Yearn hat weitere 127,9 YFI für 3,9 Mio. $ erworben
+
 
 In Übereinstimmung mit YIP-56: Buyback and Build Yearn, das im Januar 2021 verabschiedet wurde, können wir mit Stolz verkünden, dass das Schatzamt von Yearn weitere 127,9 YFI für 3,9 Millionen Dollar erworben hat.
 
@@ -56,6 +60,7 @@ Mit Hilfe unserer Partner bei Project Galaxy haben wir der Yearn-Gemeinschaft ei
 Benutzer, die einen beliebigen Betrag auf Yearn, Alpha oder Badger gesetzt haben, werden mit dem Abzeichen "Yield Farmer - DeFi 101" belohnt. Halte Ausschau nach zukünftigen Belohnungen, die wir ebenfalls anbieten!
 
 Beanspruche deine zukünftigen Prämien unter [galaxy.eco/coingecko ](https://twitter.com/ProjectGalaxyHQ/status/1487048124182921220?s=20&t=Z5Z2328-bsM-BNCp9d1KAA) und lies den vollständigen Beitrag [hier](https://twitter.com/ProjectGalaxyHQ/status/1487048124182921220?s=20&t=Z5Z2328-bsM-BNCp9d1KAA).
+
 
 # Lies den New Yearn Partner Tracker Audit
 
