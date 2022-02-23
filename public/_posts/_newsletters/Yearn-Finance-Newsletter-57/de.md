@@ -12,7 +12,6 @@ translator:
 ---
 ### Woche zum 15. Februar 2022
 
-
 ![](./image1.jpg?w=1456&h=733)
 
 Willkommen zur 57. Ausgabe des Yearn Finance Newsletter. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter möchten wir die Yearn- und die breitere Krypto-Community über die neuesten Nachrichten informieren, darunter Produkteinführungen, Änderungen in der Unternehmensführung und Aktualisierungen im Ökosystem. Wenn du mehr über Yearn Finance erfahren möchtest, folge unserem offiziellen [Twitter](https://twitter.com/iearnfinance)- und [Medium](https://medium.com/iearn)-Konten.
@@ -41,7 +40,6 @@ Wir laden dich ein, dich zu engagieren, Feedback zu geben und dich an der Yearn-
 
 Den Vorschlag kannst du dir [hier](https://gov.yearn.finance/t/proposal-streamlining-contributor-compensation/12247) und den Schnappschuss [hier](https://snapshot.org/#/ybaby.eth/proposal/0x804d3765e70d6e4f0f0a225222dadd396cd328595d5fd097b732b36fdf8e6af6) ansehen.
 
-
 # Yearn Web Aktualisierung
 
 ![](./image3.jpg?w=450&h=367)
@@ -64,7 +62,6 @@ Die Kultur bei Yearn ist eine der freundlichsten in der DeFi-Landschaft. Jeder A
 
 Den vollständigen Artikel kannst du [hier](https://medium.com/iearn/yearn-finance-will-be-at-ethdenver-we-are-looking-for-people-to-join-our-team-83ed3aa20269) lesen.
 
-
 # Sicherheit bei Yearn
 
 ![](./image5.jpg?w=945&h=408)
@@ -74,7 +71,6 @@ Bei Yearn nehmen wir die Sicherheit sehr ernst, um unseren Nutzern die besten ri
 Vor kurzem hat Yearn ein Kopfgeld in Höhe von 200.000 Dollar an einen Whitehat gezahlt, der eine Sicherheitslücke über Immunefi aufgedeckt hat. Die Schwachstelle wurde inzwischen behoben und die Strategie wurde innerhalb von zwei Wochen neu geschrieben.
 
 Die Offenlegung der Schwachstelle kannst du [hier](https://github.com/yearn/yearn-security/blob/master/disclosures/2022-01-30.md) lesen. Verdiene bis zu 200.000 $ als Prämie bei [Immunefi](https://immunefi.com/bounty/yearnfinance/) und sieh dir die EthDenver-Kopfgelder [hier](https://www.ethdenver.com/bounties/yearn-finance) an.
-
 
 # Wie Yearn-Strategien befürwortet werden
 
@@ -93,7 +89,6 @@ Den vollständigen Artikel von Marco Worms kannst du [hier](https://medium.com/i
 # Vaults bei Yearn
 
 Eine detaillierte Beschreibung der Strategien für alle unsere aktiven yVaults kannst du [hier](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) lesen.
-
 
 # Ecosystem News
 
