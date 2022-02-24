@@ -9,8 +9,6 @@ date: '2021-10-10'
 translator: Dastronom
 ---
 
-# Yearn Finance Haber Bülteni #48
-
 ### 10 Ekim 2021'de Sona Eren Hafta
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/cover.jpeg?w=880&h=440)
