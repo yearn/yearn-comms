@@ -23,10 +23,12 @@ In the past few weeks, we had a lot of feedback about how our v3 dashboard displ
 In DeFI we often see these 2 terms a lot:
 * **APR:** Annual Percentage Rate
 * **APY:** Annual Percentage Yield
+
 Both are used to communicate to the user how much they expected to gain over an investment:
+
 * **APR** assumes no automatic compounding of yield
 * **APY** indicates that yield is auto-compounded into the investment
-</br>
+
 ## What we learned
 We updated the way our interface shows APYs a few weeks ago when going through [ve(3,3) wars on Fantom](https://twitter.com/iearnfinance/status/1484570907041357828) in order to better reflect the APY using recent harvests data. Before this change, we showed more conservative APYs based on long-term historical data, but during the wars most Fantom vault APYs skyrocketed and short-term gains weren’t being shown properly to the users. We made a change to show a number based on recent harvest so people could see our vaults were farming the most profitable protocols:
 
