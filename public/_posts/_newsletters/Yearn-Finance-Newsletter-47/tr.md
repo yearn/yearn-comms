@@ -9,8 +9,6 @@ date: '2021-09-26'
 translator: Dastronom
 ---
 
-# Yearn Finance Haber Bülteni #47
-
 ### 26 Eylül 2021'de Sona Eren Hafta
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/cover.jpeg?w=880&h=440)
