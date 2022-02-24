@@ -1,5 +1,5 @@
 ---
-title: "Yearn Finance Newsletter #56"
+title: "Yearn Finance Haber Bülteni #56"
 image:
   src: ./cover.png
   width: 1152
