@@ -9,8 +9,6 @@ author: Marco_Worms
 translator: Cryptouf
 ---
 
-# Comment Yearn calcule-t-il les rendements estimés (APY)
-
 ![](./image1.jpg?w=469&h=246)
 *Ancien affichage des APY*
 
@@ -30,12 +28,11 @@ Nous avons mis à jour la façon dont notre interface affiche les APY il y a que
 
 L'inconvénient du calcul de l'APY via des données récentes, est que lorsque les gains issus de la "guerre" ont commencé à diminuer, nous montrons un chiffre provenant de récoltes récentes. qui est donc élevé, mais les récoltes suivantes n'allaient probablement pas être aussi rentables, nous avons donc décidé d'apporter quelques modifications pour résoudre ce problème.
 Nous avions donc un calcul d'APY très conservateur avant l'épisode mentionné ci-dessus, puis nous l'avons mondifié pour nous concentrer sur les données récentes. Passer par ces 2 extrêmes nous a beaucoup appris sur ce qui fonctionne et ce qui ne fonctionne pas ! Voici comment nous procéderons maintenant :
-</br>
+
 ### Pour les yVaults qui n'utilisent pas Curve:
 
 ![](./image3.jpg?w=150&h=190)
 *Nouvel affichage des APY pour les yVault non Curve*
-</br>
 
 * **APR brut :** APR total du yVault avant la déductions des frais 
 * **APY net :** APY actuel du yVault
@@ -45,10 +42,8 @@ Nous avions donc un calcul d'APY très conservateur avant l'épisode mentionné 
 
 ### Pour les yVaults qui utilise Curve:
 
-
 ![](./image4.jpg?w=182&h=196)
 *Nouvel affichage des APY pour les yVault Curve*
-</br>
 
 * **Pool APY** :  APY provenant des frais de swaps de Curve sur cette pool, la moitié va dans le yVault et l'autre moitié va aux détenteurs de veCRV.
 * **Bonus Rewards APR :** Récompenses ajoutées généralement par le projet émettant  le jeton. Exemple: La pool frax vous distribue égalementdes jetons frax. Cette valeur représente l'APY si vous vendez le jeton a son prix actuel.
@@ -61,5 +56,5 @@ Nous avions donc un calcul d'APY très conservateur avant l'épisode mentionné 
 ---
 
 Merci à tous ceux qui ont donné leur avis et fait des retours sur cette fonctionnalité ainsi qu'aux équipes qui ont rapidement réagi. Nous espérons que le nouvel affichage reflète mieux la réalité des gains des nos yVaults !
-</br>
+
 Ecriture : [Worms](https://twitter.com/MarcoWorms), Relécture : [x48](https://twitter.com/x48_crypto), [Vany](https://twitter.com/vannny365), [Dark Ghosty](https://github.com/DarkGhost7)
