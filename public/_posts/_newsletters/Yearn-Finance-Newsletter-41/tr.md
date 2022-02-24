@@ -11,8 +11,6 @@ translator: Dastronom
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-41/cover.jpeg?w=880&h=440)
 
-# Yearn Finance Haber Bülteni #41
-
 Yearn Finans Bülteninin 41. baskısına hoş geldiniz. Bu bülten ile amacımız ürün lansmanları, denetim değişiklikleri ve ekosistem güncellemeleri dahil olmak üzere Yearn ve daha geniş kripto topluluklarını son gelişmeler hakkında bilgilendirmektir. Yearn Finans hakkında daha fazla bilgi sahibi olmak için resmi [Twitter](https://twitter.com/iearnfinance) ve [Medium](https://medium.com/iearn) hesaplarımızı takip ediniz.
 
 ## Özet
