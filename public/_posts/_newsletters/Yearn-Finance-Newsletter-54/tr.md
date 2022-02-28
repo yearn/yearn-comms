@@ -1,4 +1,3 @@
-# Yearn Finance Newsletter #54 - TR
 ---
 layout: post
 title: "Yearn Finance Bülteni #54"
@@ -11,11 +10,10 @@ author: Yearn
 date: '2022-01-20'
 translator: Dastronom
 ---
-# Yearn Finance Bülteni #54
 
 ### 16 Ocak 2022'de Sona Eren Hafta
 
-![](image1.png)
+![](./image1.jpg?w=1100&h=554)
 
 Yearn Finance Bülteninin 54. baskısına hoş geldiniz. Bu bültenle amacımız, Yearn'i ve daha geniş kripto topluluğunu ürün lansmanları, yönetim değişiklikleri ve ekosistem güncellemeleri de dahil olmak üzere en son gelişmelerden haberdar etmektir. Yearn Finance hakkında daha fazla bilgi edinmek istiyorsanız, resmi [Twitter](https://twitter.com/iearnfinance) ve [Medium](https://medium.com/iearn) hesaplarımızı takip edin.
 
@@ -31,7 +29,7 @@ Yearn Finance Bülteninin 54. baskısına hoş geldiniz. Bu bültenle amacımız
 
 # Yedi yeni Fantom Vault'u Tanıtımı
 
-![](image2.png)
+![](./image2.jpg?w=550&h=733.5)
 
 Fantom'da bu yedi vault diğerlerine katılıyor: WBTC, WETH, SPELL, DOLA, Curve Tricrypto, Curve Geist ve CRV
 
@@ -41,7 +39,7 @@ Planın ne? [yearn.finance/vaults](https://yearn.finance/vaults) adresinde bugü
 
 # Yeni Curve Vault'ları Yayında
 
-![](image3.png)
+![](./image3.jpg?w=644&h=464)
 
 Ethereum'da yeni Curve vault'ları şu anda yayında: CVX-ETH, CRV-ETH, 3EUR, UST Wormhole, USDPax, DOLA ve RAI - Reflexer'ın özel Curve uygulamasını kullanan ilk vault
 
@@ -53,7 +51,7 @@ Yeni vault'lara [buradan](https://yearn.finance/#/vaults) göz atabilirsiniz.
 
 #  Yearn Web Güncellemeleri
 
-![](image4.png)
+![](./image4.jpg?w=450&h=367)
 
 Bu haftanın Yearn web güncellemesi, PR'leri açan birkaç ilk kez katkıda bulunanları ve Iron Bank & Curve LP jetonları için geliştirilmiş back end mantığını içeriyor
 
@@ -63,7 +61,7 @@ Tam yeni güncellemeye [buradan](https://yearnweb.substack.com/p/yearn-web-engin
 
 # Yearn Finance Vault'ları: DeFi'nin Kapısını Çalıyor
 
-![](image5.png)
+![](./image5.jpg?w=957&h=538)
 
 BanklessDAO'nun bu makalesi, Yearn tarafından sunulan özelliklerin eksiksiz bir özetini sunar ve DeFi'nin kullanımını nasıl kolaylaştırdığını gösterir.
 
@@ -72,6 +70,8 @@ Genel olarak, Yearn vault'larını kullanmak, en yüksek getiri toplayıcı güv
 Tüm parçalara [buradan](https://medium.com/bankless-dao/yearn-finance-vaults-knockin-on-defi-s-door-f5e9f56f669a) göz atabilirsiniz.
 
 # yvBOOST'te Güncellemeler
+
+![](./image6.jpg?w=1100&h=569)
 
 Çoğu kişi fark etmeyebilir, ancak 1 yvBOOST, 1 veCRV'den 2,2 kat daha fazla haftalık Curve protokol ücreti toplar. yvBOOST APR ayrıca %100'ün üzerinde, sürdürülebilir ve 1 yvBOOST şu anda 1 CRV'den %32 daha ucuz. Tüm bunlardan sonra bile, yvBOOST sahiplerine bağışlanacak 5 milyon dolardan fazla para var
 
