@@ -1,5 +1,5 @@
 ---
-title:  "Diving into Yearn Metrics"
+title: "Diving into Yearn Metrics"
 image:
   src: ./image3.jpg
   width: 1400
@@ -8,7 +8,6 @@ date: '2022-02-17'
 author: Marco_Worms
 translator: Cripu
 ---
-
 
 自分で調べるということはクリプトを扱う上で必要不可欠な課題です。[yVaultsとストラテジー](https://medium.com/iearn/yearn-finance-explained-what-are-vaults-and-strategies-96970560432)に関しては、調査可能ないくつかのビューが用意されているため、すべての数字を計算することができます。この記事では、公開されたすべてのYearnの分析リソース（ストラテジストがボールトやストラテジーヘルスをモニターするために使うもの）を詳しく紹介します。これらのツールの操作方法を学ぶことで、Yearnのチームメンバーと同じレベルのボールト情報を得ることができます。今日紹介する３つのツールはこちらです：
 ### [The Vaults at Yearn](https://vaults.yearn.finance/)
