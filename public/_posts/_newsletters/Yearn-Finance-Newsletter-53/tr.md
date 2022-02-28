@@ -10,11 +10,10 @@ author: Yearn
 date: '2022-01-11'
 translator: Dastronom
 ---
-# Yearn Finance Bülteni #53
 
 ### 9 Ocak 2022'de Sona Eren Hafta
 
-![](image1.png)
+![](./image1.jpg?w=1100&h=554)
 
 Yearn Finance Bülteninin 53. baskısına hoş geldiniz. Bu bültenle amacımız, Yearn'i ve daha geniş kripto topluluğunu ürün lansmanları, yönetim değişiklikleri ve ekosistem güncellemeleri de dahil olmak üzere en son gelişmelerden haberdar etmektir. Yearn Finance hakkında daha fazla bilgi edinmek istiyorsanız, resmi [Twitter](https://twitter.com/iearnfinance) ve [Medium](https://medium.com/iearn) hesaplarımızı takip edin.
 
@@ -29,7 +28,7 @@ Yearn Finance Bülteninin 53. baskısına hoş geldiniz. Bu bültenle amacımız
 
 # Yearn'de Şeffaflık
 
-![](image2.png)
+![](./image2.jpg?w=550&h=366)
 
 # Daha çok şeffaflık. Daha çok alfa.
 
@@ -45,7 +44,7 @@ Araçlar hakkında daha fazla bilgiyi buradan okuyun. vault ansiklopedisindeki h
 
 # Yearn Web Güncellemeleri
 
-![](image3.png)
+![](./image3.jpg?w=550&h=449)
 
 Şeffaflığı artırmak amacıyla, Yearn'in web ekosistemine katkıda bulunan birkaç kişi, web teknolojisi yığınında periyodik derin dalışlara ek olarak yeni özellikleri, devam eden sorunları ve planlanan güncellemeleri toplayacak bir haber bülteni başlattı.
 
@@ -57,7 +56,7 @@ Güncellemeleri[buradan](https://yearnweb.substack.com/p/update-jan-5-2022?showW
 
 # yAcademyDAO'nun Sonraki Yinelemesi için Kaydolun
 
-![](image4.png)
+![](./image4.jpg?w=238&h=243)
 
 Bilmeyenler için, yAcademyDAO, blok zinciri güvenliğine topluluk odaklı bir yaklaşımdır. Yearn'de güvenliği çok ciddiye alıyoruz ve yAcademy, sürdürülebilir ve işbirlikçi blok zinciri güvenliği oluşturmak ve yeteneklerin uygun şekilde kullanılmasını sağlamak için ekosistem girişimlerimizden biridir.
 
