@@ -1,7 +1,7 @@
 ---
 title:  "Clarification sur les fusions de 2020; une Iron Bank indépendante"
 image:
-  src: ./
+  src: ./cover.png
   width: 1280
   height: 800
 date: '2022-02-25'
