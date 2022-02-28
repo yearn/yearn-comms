@@ -9,6 +9,8 @@ author: Weaver
 translator:
 ---
 
+![](cover.png?w=800&h=450)
+
 In late 2020 Yearn Finance announced several “mergers” with the goal of bringing leading DeFi projects together, creating an ecosystem focused on critical infrastructure: AMM (SushiSwap), Lending (C.R.E.A.M. Finance), Institutional support (Akropolis), and Yield Management (Pickle Finance).
 
 As an ecosystem, we learned and supported each other over the past ~15 months and enjoyed strong collaboration across teams, achieving many successes.
