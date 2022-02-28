@@ -1,5 +1,5 @@
 ---
-title:  "Clarifying 2020 Mergers; An Independent Iron Bank"
+title:  "Clarification sur les fusions de 2020; une Iron Bank indépendante"
 image:
   src: ./
   width: 1280
