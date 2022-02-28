@@ -1,7 +1,7 @@
 ---
 title:  "Clarifying 2020 Mergers; An Independent Iron Bank"
 image:
-  src: ./
+  src: ./cover.png
   width: 1280
   height: 800
 date: '2022-02-25'
