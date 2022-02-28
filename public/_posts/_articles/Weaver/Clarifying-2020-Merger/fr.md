@@ -22,4 +22,4 @@ L'Iron Bank fonctionnera également comme un projet indépendant avec ses propre
 Les utilisateurs doivent donc se rendre sur les canaux respectifs de chaque projet pour les annonces officielles.
 
 Cordialement,
-Yearn Finance, SushiSwap, C.R.E.A.M. Finance, Akropolis, Pickle Finance, Banque de fer
+Yearn Finance, SushiSwap, C.R.E.A.M. Finance, Akropolis, Pickle Finance, Iron Bank
