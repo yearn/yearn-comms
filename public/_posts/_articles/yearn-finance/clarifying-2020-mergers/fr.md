@@ -9,6 +9,8 @@ author: Weaver
 translator: Cryptouf
 ---
 
+![](cover.png?w=800&h=450)
+
 Fin 2020, Yearn Finance a annoncé plusieurs « fusions » dans le but de regrouper les principaux projets DeFi, et ainsi créer un écosystème centré sur les infrastructures importantes : AMM (SushiSwap), Lending (CREAM Finance), support institutionel (Akropolis) et Yield Gestion (Finance Pickle).
 
 En tant qu'écosystème, nous avons soutenu et appris les uns des autres au cours des ~ 15 derniers mois et avons bénéficié de cette collaboration, en réalisant de belles choses.
