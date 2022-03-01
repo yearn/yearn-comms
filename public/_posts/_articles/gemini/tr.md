@@ -8,13 +8,14 @@ date: '2021-03-25'
 author: Gemini/Cryptopedia
 translator: Dastronom
 ---
+
 orijinal yayın: [https://www.gemini.com/cryptopedia/yearn-finance-defi-lending-protocol](https://www.gemini.com/cryptopedia/yearn-finance-defi-lending-protocol)
 
 # Yearn Finance ve Para Robotları: Otomatikleştirilmiş DeFi Stratejisi
 
 Yearn Finance, Yearn'in kendi topluluğu olan "kalabalığın sağladığı bilgeliği" içeren robotlar tarafından desteklenen bir dizi yatırım stratejisi sunar.
 
-![alt_text](image1.png)
+![](image1.png?w=1281&h=721)
 
 ## Özet
 
