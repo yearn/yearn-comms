@@ -1,18 +1,17 @@
 ---
-layout: post
-title:  "Yearn Finance Newsletter #50"
-categories: [ Newsletters ]
-image: ./Yearn-Finance-Newsletter-50/image1.png
+title: "Yearn Finance Newsletter #50"
+image:
+  src: ./cover.jpeg
+  width: 576
+  height: 288
 author: Yearn
+date: "2021-12-05"
 translator: Nesyeth
-publish: true
 ---
-
-# Yearn Finance Newsletter #50
 
 ### Woche bis zum 11. Dezember 2021
 
-![](image1.png)
+![](./cover.jpeg?w=576&h=288)
 
 Willkommen zur 50. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter möchten wir die Yearn- und die breitere Krypto-Community über die neuesten Nachrichten informieren, darunter Produkteinführungen, Änderungen in der Unternehmensführung und Aktualisierungen im Ökosystem. Wenn du mehr über Yearn Finance erfahren möchtest, folge unserem offiziellen [Twitter](https://twitter.com/iearnfinance)- und [Medium](https://medium.com/iearn)-Konten.
 
@@ -36,7 +35,7 @@ Willkommen zur 50. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter 
 
 ## Neu Yearn UI
 
-![](image2.png)
+![](./image2.jpg?w=512&h=512)
 
 Wir haben [yearn.finance](https://yearn.finance/) von Grund auf neu aufgebaut und dabei jede Menge Feedback von unserer Community erhalten. Es ist jetzt live, probiere es aus 
 
@@ -70,7 +69,7 @@ Sieh dir die neuen Dokumente [hier](https://docs.yearn.finance/) an.
 
 ## YIP-64 erreicht nicht das Quorum
 
-![](image3.png)
+![](./image3.jpg?w=1100&h=759)
 
 YIP-64: Anpassung der Gebühren für nicht-stablecoin yVaults kam in die Abstimmungsphase und endete damit, dass die Mehrheit gegen die Anpassung der Gebühren stimmte
 
@@ -78,7 +77,7 @@ Sieh dir den Vorschlag [hier](https://snapshot.org/#/ybaby.eth/proposal/0xfe7296
 
 ## Yearn delegiert 23M veCRV an Convex
 
-![](image4.png)
+![](./image4.jpg?w=873&h=615)
 
 Yearn hat 23 Millionen veCRV an Convex Finance delegiert und dabei die neue native Boost-Delegationsfunktion von Curve genutzt. Dies wird die Renditen der Factory Pools für unsere beiden DAOs erhöhen. Dies hat keine Auswirkungen auf reguläre Pools, Gebühren oder Abstimmungen.
 
