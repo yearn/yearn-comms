@@ -1,11 +1,12 @@
 ---
-layout: post
 title:  "Lanzamientos justos, colaboración descentralizada y Fixed Forex"
-categories: [ Articles ]
-image: ./Fair-launches-decentralized-collaboration-and-Fixed-Forex/andre-hero.png
+image:
+  src: ./andre-hero.png
+  width: 700
+  height: 300
+date: '2021-07-21'
 author: Andre
 translator: RestlessMik3
-publish: true
 ---
 
 # Lanzamientos justos, colaboración descentralizada y Fixed Forex
@@ -57,7 +58,7 @@ Para conocer los factores colaterales actualizados, puede visitar la documentaci
 
 Cada par de divisas apuntará a 2 grupos de liquidez;
 
-ib\*/\* ([curva.fi](https://curva.fi/))  
+ib\*/\* ([curve.fi](https://curve.fi/))  
 ib\*/ETH ([sushi.com](https://sushi.com/))  
 
 ![](image4.png)
@@ -75,7 +76,7 @@ El mecanismo IBFF es complejo y debe entenderse cuidadosamente antes de particip
 
 El lanzamiento inicial tendrá como objetivo un único grupo, [ibEUR/ETH](https://analytics.sushi.com/tokens/0x96e61422b6a9ba0e068b6c5add4ffabc6a4aae27)
 
-Como LP, puede apostar el token LP en IBFF [faucet](https://etherscan.io/address/0x7d254d9adc588126edaee52a1029278180a802e8), esto proporciona un goteo de token fraccional, esto es necesario para crear un bloqueo de token en el contrato de adquisición, [ veIBFF](https://etherscan.io/address/0x4d0518c9136025903751209ddddf6c67067357b1).
+Como LP, puede apostar el token LP en IBFF [faucet](https://etherscan.io/address/0x7d254d9adc588126edaee52a1029278180a802e8), esto proporciona un goteo de token fraccional, esto es necesario para crear un bloqueo de token en el contrato de adquisición, [veIBFF](https://etherscan.io/address/0x4d0518c9136025903751209ddddf6c67067357b1).
 
 El verdadero token nativo del sistema es veIBFF, o IBFF conferido, veIBFF gana tarifas de protocolo, estas tarifas son dinámicas en función de la oferta y la demanda. Actualmente, estas tarifas son 10.15% de TVL.
 
