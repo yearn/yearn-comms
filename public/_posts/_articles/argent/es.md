@@ -1,13 +1,13 @@
 ---
-layout: post
 title:  "Gana fácilmente con Yearn v2 en Argent"
-categories: [ Articles ]
-image: ./easily-earn-with-yearn-v2-in-argent/Image1.jpg
+image:
+  src: ./cover.jpeg
+  width: 800
+  height: 419
+date: '2021-08-24'
 author: Argent
 translator: RestlessMik3
-publish: true
 ---
-
 # Gana fácilmente con Yearn v2 en Argent
 
 ![](Image1.jpg)
