@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  "Yearn Finance y robots de dinero"
-categories: [ Articles ]
-image: ./Yearn-Finance-and-Money-Robots/image1.png
+title:  "Yearn Finance y Robots de Dinero"
+image:
+  src: ./cover.png
+  width: 1281
+  height: 721
+date: '2021-03-25'
 author: Gemini/Cryptopedia
 translator: RestlessMik3
-publish: true
 ---
 
 Publicación original: [https://www.gemini.com/cryptopedia/yearn-finance-defi-lending-protocol](https://www.gemini.com/cryptopedia/yearn-finance-defi-lending-protocol)
