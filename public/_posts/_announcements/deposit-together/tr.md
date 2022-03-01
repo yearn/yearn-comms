@@ -1,4 +1,3 @@
-# Announcing… 💥 - TR
 ---
 title:  "birlikte para yatırın"
 image:
@@ -9,6 +8,7 @@ author: Yearn
 date: '2021-11-01'
 translator: Dastronom
 ---
+
 Duyurulur… 💥
 
 Wido ile birlikte para yatırın, ücretleri bölün ve gazda %80+ tasarruf edin
