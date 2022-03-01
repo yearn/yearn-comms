@@ -1,18 +1,17 @@
 ---
-layout: post
-title:  "Newsletter #50 de Yearn Finance"
-categories: [ Newsletters ]
-image: ./Yearn-Finance-Newsletter-50/image1.png
+title: "Newsletter #50 de Yearn Finance"
+image:
+  src: ./cover.jpeg
+  width: 576
+  height: 288
 author: Yearn
-translator:Restlessmik3
-publish: true
+date: "2021-12-05"
+translator: Restlessmik3
 ---
-
-#  Newsletter #50 de Yearn Finance
 
 ### Semana que termina el 5 de Diciembre de 2021
 
-![](image1.png)
+![](./cover.jpeg?w=576&h=288)
 
 Bienvenido a la edición número 50 de la newsletter de Yearn Finance. Nuestro objetivo con esta newsletter es mantener informada a la comunidad de Yearn y de cripto en general con las últimas noticias, incluyendo el lanzamiento de productos, cambios de gobernanza y actualizaciones del ecosistema. Si estás interesado en aprender más de Yearn Finance, sigue las cuentas de [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn) oficiales.
 
@@ -36,7 +35,7 @@ Bienvenido a la edición número 50 de la newsletter de Yearn Finance. Nuestro o
 
 ## Nueva UI de Yearn
 
-![](image2.png)
+![](./image2.jpg?w=512&h=512)
 
 Hemos reconstruido [yearn.finance](https://yearn.finance/) desde cero con el feeback de la comunidad. Ahora mismo está en línea así que puedes probarla. 
 
@@ -70,7 +69,7 @@ Consulte los nuevos documentos [aquí](https://docs.yearn.finance/).
 
 ## YIP-64 no ha conseguido cuórum
 
-![](image3.png)
+![](./image3.jpg?w=1100&h=759)
 
 YIP-64: Ajustar las tarifas en las monedas no estables yVaults entró en la fase de votación y terminó con la votación mayoritaria en contra de las tarifas de ajuste.
 
@@ -78,7 +77,7 @@ Consulte la propuesta [aquí](https://snapshot.org/#/ybaby.eth/proposal/0xfe7296
 
 ##  Yearn delega 23M de veCRV a Convex
 
-![](image4.png)
+![](./image4.jpg?w=873&h=615)
 
 Yearn ha delegado 23 millones de veCRV a Convex Finance utilizando la nueva función de delegación de impulso nativa de Curve. Esto aumentará los rendimientos de los grupos de fábrica para nuestros dos DAO. Esto no afecta a los fondos comunes, las tarifas o las votaciones.
 
