@@ -1,5 +1,5 @@
 ---
-title: "Newsletter # 51 de Yearn Finance"
+title: "Newsletter# 51 de Yearn Finance"
 image:
   src: ./cover.jpeg
   width: 576
@@ -85,7 +85,7 @@ Puede leer una descripción detallada de las estrategias para todos nuestras yVa
 
 ## Noticias del ecosistema
 
-[Echa un vistazo al chat de seguridad de Facu con el equipo de Wido que está construyendo sobre Yearn](https://www.joinwido.com/blog/chat-with-facu-about-wido-together-and-its-security-model )
+[Echa un vistazo al chat de seguridad de Facu con el equipo de Wido que está construyendo sobre Yearn](https://www.joinwido.com/blog/chat-with-facu-about-wido-together-and-its-security-model)
 
 [Deposite en Yearn con tarifas de gas más bajas gracias a la billetera L2 de Argent](https://twitter.com/argentHQ/status/1471503921851944983)
 
