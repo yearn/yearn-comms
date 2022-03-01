@@ -1,4 +1,3 @@
-# The Blue Pill - TR
 ---
 title:  "The Blue Pill"
 image:
@@ -7,8 +6,9 @@ image:
   height: 450
 date: '2021-06-02'
 author: Yearn
-Translator:Dastronom
+Translator: Dastronom
 ---
+
 # The Blue Pill
 
 Biz buna basitçe Hediye diyoruz.
