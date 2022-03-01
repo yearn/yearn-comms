@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  "How we think about Yearn"
-categories: [ Articles ]
-image: ./How-we-think-about-Yearn/YFI1.jpeg
+title:  "Pensando en Yearn"
+image:
+  src: ./cover.jpeg
+  width: 690
+  height: 472
+date: '2020-10-20'
 author: Yearn DAO Contributors
 translator: Restlessmik3
-publish: true
 ---
 
 # Pensando en Yearn
