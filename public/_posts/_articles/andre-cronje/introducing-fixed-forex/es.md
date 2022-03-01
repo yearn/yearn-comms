@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  "Introducing Fixed Forex"
-categories: [ Articles ]
-image: ./Introducing-Fixed-Forex/andre-hero.png
+title:  "Introducción de Fixed Forex"
+image:
+  src: ./andre-hero.png
+  width: 700
+  height: 300
 author: Andre
-translator:
-publish: true
+date: '2021-07-02'
+translator: RestlessMik3
 ---
 
 # Introducción de Fixed Forex (USD, EUR, ZAR, JPY, CNY, etc.)
