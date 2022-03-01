@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  "Liquidity Mining Rewards v2"
-categories: [ Articles ]
-image: ./Liquidity-Mining-Rewards-v2/andre-hero.png
+title:  "Recompensas de minería de liquidez v2"
+image:
+  src: ./andre-hero.png
+  width: 700
+  height: 300
+date: '2021-08-15'
 author: Andre
-translator:RestlessMik3
-publish: true
+translator: RestlessMik3
 ---
 
 # Recompensas de minería de liquidez v2
