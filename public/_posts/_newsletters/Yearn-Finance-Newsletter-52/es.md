@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Yearn Finance Newsletter #52"
+title: "Newsletter #52 de Yearn Finance"
 categories: [Newsletters]
-image: ./Yearn-Finance-Newsletter-52/image1.png
+image:
+  src: ./cover.jpeg
+  width: 1152
+  height: 576
 author: Yearn
+date: '2022-01-02'
 translator: RestlessMik3
-publish: true
 ---
-
-# Newsletter #52 de Yearn Finance
-
 ### Semana que termina el 2 de enero de 2022
 
-![](image1.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/cover.jpeg?w=880&h=440)
 
 Bienvenido a la 52ª edición de la Newsletter de Yearn Finance. Nuestro objetivo con esta newsletter es mantener informada a la comunidad de Yearn y de cripto en general con las últimas noticias, incluyendo el lanzamiento de productos, cambios de gobernanza y actualizaciones del ecosistema. Si estás interesado en aprender más de Yearn Finance, sigue las cuentas de [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn) oficiales.
 
@@ -32,7 +32,7 @@ Bienvenido a la 52ª edición de la Newsletter de Yearn Finance. Nuestro objetiv
 
 ## YIP-65 entra en votación
 
-![](image2.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/image2.jpg?w=980&h=871)
 
 En resumen, YIP-65 busca evolucionar el papel que juega YFI en Yearn en cuatro fases distintas, consolidando la visión del token como la base fundamental de la gobernanza.
 
@@ -58,7 +58,7 @@ Un agradecimiento especial a los autores: @ 0xJiji, @banteg, daryllautk, HAtTip3
 
 ## - [Propuesta] - Programa piloto de recompra de DCA
 
-![](image3.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/image3.jpg?w=690&h=301)
 
 El objetivo de este programa piloto es proporcionar una mejor comprensión a través del ejemplo de que el método DCA es una mejor manera de ejecutar recompras dentro de la tesorería.
 
@@ -100,7 +100,7 @@ Gracias a Wot_Is_Goin_On por el increíble hilo que se puede encontrar [aquí](h
 
 ## Yearn ha recibido una subvención FTM de 1 millón de la Fundación Fantom
 
-![](image4.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/image4.jpg?w=1100&h=1092)
 
 Yearn ha recibido una subvención FTM de 1 millón de la Fundación Fantom.
 
