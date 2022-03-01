@@ -8,8 +8,9 @@ image:
   height: 576
 author: Yearn
 date: "2022-02-15"
-translator:
+translator: Delace19
 ---
+
 ### Woche zum 15. Februar 2022
 
 ![](./image1.jpg?w=1456&h=733)
