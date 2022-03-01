@@ -11,7 +11,7 @@ translator:Restlessmik3
 
 ### Semana que termina el 19 de diciembre de 2021
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/cover.jpeg?w=880&h=440)
+![](./cover.jpeg?w=880&h=440)
 
 Bienvenido a la 51ª edición de la Newsletter de Yearn Finance. Nuestro objetivo con esta newsletter es mantener informada a la comunidad de Yearn y de cripto en general con las últimas noticias, incluyendo el lanzamiento de productos, cambios de gobernanza y actualizaciones del ecosistema. Si estás interesado en aprender más de Yearn Finance, sigue las cuentas de [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn) oficiales.
 
@@ -33,7 +33,7 @@ Muchas gracias a [Fin4Dao](https://twitter.com/Fin4Dao) por todo el trabajo de f
 
 ## Yearn ha comprado 7,5 millones $ de YFI
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image2.jpg?w=800&h=609)
+![](./image2.jpg?w=800&h=609)
 
 Yearn ha comprado YFI por valor de 7,526,343 $ en el mercado abierto. Obtuvimos 282.4 YFI (0.77% de la oferta total) a un precio promedio de $ 26,651. Se ha recomprado más YFI en el último mes que en el año anterior.
 
@@ -43,7 +43,7 @@ También hemos estado comprando una cantidad significativa de yvBOOST para resta
 
 ## Propuesta: Evolución de la tokenomics de YFI
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image3.jpg?w=800&h=466)
+![](./image3.jpg?w=800&h=466)
 
 El paso 1 es xYFI, donde podrás hacer staking en la vault xYFI, obteniendo YFI de la tesorería.
 
@@ -61,7 +61,7 @@ Lea todos los detalles de la propuesta [aquí](https://gov.yearn.finance/t/propo
 
 ## Informe: Renacido como un agujero negro
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image4.jpg?w=733&h=750)
+![](./image4.jpg?w=733&h=750)
 
 Ape Froman ha publicado recientemente un informe que detalla una descripción general completa de Yearn, y detalla los problemas de tokenomics recientes en Yearn, posibles soluciones y más integraciones del token YFI en el mayor ecosistema DeFi. Esto permitirá una mejor captura de valor para los holders y permitirá un posible desequilibrio en la oferta circulante de YFI, impulsando así la demanda.
 
@@ -69,7 +69,7 @@ Un agradecimiento especial a [Ape Froman](https://medium.com/@portiadog) por la 
 
 ## NFT de Tarjeta de navidad de Yearn
 
-![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image5.jpg?w=625&h=750)
+![](./image5.jpg?w=625&h=750)
 
 Participe en la búsqueda del tesoro navideña de Project Galaxy y obtenga esta tarjeta navideña Yearn NFT, solo por ser un suscriptor de la newsletter  informativa de Yearn.
 
