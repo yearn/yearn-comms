@@ -6,7 +6,7 @@ image:
   height: 288
 author: Yearn
 date: '2021-12-22'
-translator:Restlessmik3
+translator: Restlessmik3
 ---
 
 ### Semana que termina el 19 de diciembre de 2021
