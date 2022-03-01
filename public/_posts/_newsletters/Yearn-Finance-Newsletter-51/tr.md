@@ -1,5 +1,5 @@
 ---
-title: "Yearn Finance Newsletter #51"
+title: "Yearn Finance Haber Bülteni #51"
 image:
   src: ./cover.jpeg
   width: 576
@@ -8,8 +8,6 @@ author: Yearn
 date: '2021-12-22'
 translator: Dastronom
 ---
-
-# Yearn Finance Bülteni #51
 
 ### 19 Aralık 2021'de Sona Eren Hafta
 

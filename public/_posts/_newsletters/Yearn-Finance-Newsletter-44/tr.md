@@ -9,8 +9,6 @@ date: '2021-09-02'
 translator: Dastronom
 ---
 
-# Yearn Finance Haber Bülteni #44
-
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/cover.jpeg?w=880&h=440)
 
 Yearn Finance Bülteninin 42. baskısına hoş geldiniz. Bu bültenle amacımız, Yearn'i ve daha geniş kripto topluluğunu ürün lansmanları, yönetim değişiklikleri ve ekosistem güncellemeleri de dahil olmak üzere en son gelişmelerden haberdar etmektir. Yearn Finance hakkında daha fazla bilgi edinmek istiyorsanız, resmi [Twitter](https://twitter.com/iearnfinance) ve [Medium](https://medium.com/iearn) hesaplarımızı takip edin.
