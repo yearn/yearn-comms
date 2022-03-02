@@ -1,5 +1,5 @@
 ---
-title:  "Profundizando en las métricas de Yearn"
+title: "Profundizando en las métricas de Yearn"
 image:
   src: ./image3.jpg
   width: 1400
@@ -8,7 +8,6 @@ date: '2022-02-17'
 author: Marco_Worms
 translator: RestlessMik3
 ---
-
 
 Hacer su propia investigación es un ejercicio necesario cuando se trata de criptomonedas y para [yVaults y estrategias](https://medium.com/iearn/yearn-finance-explained-what-are-vaults-and-strategies-96970560432) hay un puñado de vistas que puede explorar y usar para calcular todos los números. En este artículo, me sumergiré en todos los recursos analíticos públicos de Yearn utilizados por los estrategas para monitorear el estado de las vaults y las estrategias, por lo que aprender a navegar por estas herramientas le permitirá tener el mismo nivel de información sobre las vaults que un miembro del equipo de Yearn. Las tres herramientas que exploraremos hoy son:
 ### [Las vaults en Yearn](https://vaults.yearn.finance/)
