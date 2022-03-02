@@ -1,11 +1,11 @@
 ---
-title: "Aprofundando-se nas métricas de Yearn"
+title:  "Aprofundando-se nas Métricas de Yearn"
 image:
-src: ./image3.jpg
+  src: ./image3.jpg
   width: 1400
   height: 625
-data: '2022-02-17'
-autor: Marco_Worms
+date: '2022-02-17'
+author: Marco_Worms
 translator: jameskbh
 ---
 
