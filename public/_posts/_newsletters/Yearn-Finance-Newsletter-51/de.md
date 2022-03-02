@@ -1,18 +1,17 @@
 ---
-layout: post
 title: "Yearn Finance Newsletter #51"
-categories: [Newsletters]
-image: ./Yearn-Finance-Newsletter-51/image1.png
+image:
+  src: ./cover.jpeg
+  width: 576
+  height: 288
 author: Yearn
-translator: " Nesyeth "
-publish: true
+date: '2021-12-22'
+translator: Nesyeth
 ---
-
-# Yearn Finance Newsletter #51
 
 ### Woche bis zum 19. Dezember 2021
 
-![](image1.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/cover.jpeg?w=880&h=440)
 
 Willkommen zur 51. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter möchten wir die Yearn- und die breitere Krypto-Community über die neuesten Nachrichten informieren, darunter Produkteinführungen, Änderungen in der Unternehmensführung und Aktualisierungen im Ökosystem. Wenn du mehr über Yearn Finance erfahren möchtest, folge unserem offiziellen [Twitter](https://twitter.com/iearnfinance)- und [Medium](https://medium.com/iearn)-Konten.
 
@@ -34,7 +33,7 @@ Ein großes Dankeschön an [Fin4Dao](https://twitter.com/Fin4Dao) für die Erlei
 
 ## Yearn hat YFI im Wert von 7,5 Millionen Dollar gekauft
 
-![](image2.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image2.jpg?w=800&h=609)
 
 Yearn hat YFI im Wert von $7.526.343  auf dem freien Markt gekauft. Wir haben 282,4 YFI (0,77 % des Gesamtangebots) zu einem Durchschnittspreis von $26.651 erworben. Im vergangenen Monat wurden mehr YFI zurückgekauft als im Jahr zuvor.
 
@@ -44,7 +43,7 @@ Wir haben auch eine beträchtliche Menge an yvBOOST zurückgekauft, um den Peg w
 
 ## Vorschlag: Die Tokenomics von YFI weiterentwickeln
 
-![](image3.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image3.jpg?w=800&h=466)
 
 Schritt 1 ist xYFI, bei dem man in den Vault xYFI einzahlt und dafür YFI aus der Schatzkammer zurückbekommt.
 
@@ -62,7 +61,7 @@ Alle Details des Vorschlags kannst du [hier](https://gov.yearn.finance/t/proposa
 
 ## Bericht: Wiedergeburt als Schwarzes Loch
 
-![](image4.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image4.jpg?w=733&h=750)
 
 Ape Froman hat vor kurzem einen Bericht veröffentlicht, der einen umfassenden Überblick über Yearn gibt. Er beschreibt die jüngsten Tokenomics-Probleme bei Yearn, mögliche Lösungen und weitere Integrationen des YFI-Tokens in das größere DeFi-Ökosystem. Dies wird eine bessere Werterfassung für die Inhaber ermöglichen und ein potenzielles Ungleichgewicht im zirkulierenden Angebot von YFI schaffen - und damit die Nachfrage ankurbeln.
 
@@ -70,7 +69,7 @@ Besonderen Dank an [Ape Froman](https://medium.com/@portiadog) für den aufmerks
 
 ## Yearn Urlaubskarte NFT
 
-![](image5.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image5.jpg?w=625&h=750)
 
 Mach mit bei der Urlaubsschatzsuche von Project Galaxy und sichere dir diese Yearn Urlaubskarte NFT, nur weil du ein Abonnent des Yearn Newsletters bist.
 
