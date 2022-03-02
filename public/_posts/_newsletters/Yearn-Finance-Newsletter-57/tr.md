@@ -12,7 +12,7 @@ translator: Dastronom
 ---
 ### 15 Şubat 2022'de Sona Eren Hafta
 
-![](image1.png)
+![](./image1.jpg?w=1456&h=733)
 
 Yearn Finance Bülteninin 57. baskısına hoş geldiniz. Bu bültenle amacımız, Yearn'i ve daha geniş kripto topluluğunu ürün lansmanları, yönetim değişiklikleri ve ekosistem güncellemeleri de dahil olmak üzere en son gelişmelerden haberdar etmektir. Yearn Finance hakkında daha fazla bilgi edinmek istiyorsanız, resmi [Twitter](https://twitter.com/iearnfinance) ve [Medium](https://medium.com/iearn) hesaplarımızı takip edin.
 
@@ -86,7 +86,7 @@ Katkıda bulunmak istiyorsanız, [discord](https://discord.com/invite/8rF374XkXy
 
 Marco Worms tarafından yazılan yazının tamamını [buradan](https://medium.com/iearn/how-new-yearn-vault-strategies-are-endorsed-8c0e0870790d) okuyabilirsiniz.
 
-# Yearn'deki Vult'lar
+# Yearn'deki Vault'lar
 
 Tüm aktif yVault'larımız için stratejilerin ayrıntılı bir açıklamasını [buradan](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) okuyabilirsiniz.
 
