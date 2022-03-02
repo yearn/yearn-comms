@@ -2,17 +2,18 @@
 layout: post
 title: "Yearn Finance Newsletter #52"
 categories: [Newsletters]
-image: ./Yearn-Finance-Newsletter-52/image1.png
+image:
+  src: ./cover.jpeg
+  width: 1152
+  height: 576
 author: Yearn
+date: '2022-01-02'
 translator: Nesyeth
-publish: true
 ---
-
-# Yearn Finance Newsletter #52
 
 ### Woche bis zum 2. Januar 2022
 
-![](image1.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/cover.jpeg?w=880&h=440)
 
 Willkommen zur 52. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter möchten wir die Yearn- und die breitere Krypto-Community über die neuesten Nachrichten informieren, darunter Produkteinführungen, Änderungen in der Unternehmensführung und Aktualisierungen im Ökosystem. Wenn du mehr über Yearn Finance erfahren möchtest, folge unserem offiziellen [Twitter](https://twitter.com/iearnfinance)- und [Medium](https://medium.com/iearn)-Konten.
 
@@ -32,7 +33,7 @@ Willkommen zur 52. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter 
 
 ## YIP-65 nimmt an der Abstimmung teil
 
-![](image2.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/image2.jpg?w=980&h=871)
 
 Zusammenfassend lässt sich sagen, dass YIP-65 darauf abzielt, die Rolle, die YFI in Yearn spielt, in vier verschiedenen Phasen weiterzuentwickeln und die Vision des Tokens als essentielle Grundlage der Governance zu festigen.
 
@@ -58,7 +59,7 @@ Besonderen Dank an die Autoren: @0xJiji, @banteg, daryllautk, HAtTip3675, @onlyl
 
 ## [Vorschlag] Mean - DCA-Rückkaufpilotprogramm
 
-![](image3.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/image3.jpg?w=690&h=301)
 
 Ziel dieses Pilotprogramms ist es, anhand von Beispielen ein besseres Verständnis dafür zu schaffen, dass DCAing ein besserer Weg ist, um Rückkäufe innerhalb der Schatzkammer durchzuführen.
 
@@ -102,7 +103,7 @@ Vielen Dank an Wot_Is_Goin_On für den tollen Thread, der [hier](https://twitter
 
 ## Yearn hat einen FTM-Zuschuss in Höhe von 1 Mio. Euro von der Fantom-Stiftung erhalten
 
-![](image4.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/image4.jpg?w=1100&h=1092)
 
 Yearn hat einen FTM-Zuschuss in Höhe von 1 Mio. Euro von der Fantom-Stiftung erhalten.
 
