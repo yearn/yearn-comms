@@ -52,7 +52,6 @@ Web3 actions is another feature from Tenderly allowing users to trigger internal
 #### Debugging
 Using the Tenderly debugger has been a huge leap forward for Yearn developers. Gone are the days of using Ganache to fork mainnet in local development environments. While Ganache can be slow, unreliable, and lead to RPC crashes; Tenderly forks are especially robust, and have saved many developer hours by helping find the exact line that caused a transaction to revert. Further, individual forks and transaction traces can be shared via URL so that you know you're looking at the same thing peers and code reviewers are.
 
-
 #### Incident Analysis
 Tenderly offers the best UI debugger in the industry. It has been invaulable for the Yearn team getting to the bottom of security events and helping to dissect bugs and attacks. War room environments are stressful and noisy, so it's helpful to have shareable URL's which help everyone get on the same page. More efforts are underway regarding incident analysis, but we’ll cover this in a separate post. 
 
