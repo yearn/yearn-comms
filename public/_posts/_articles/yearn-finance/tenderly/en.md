@@ -1,14 +1,13 @@
 ---
-title:  "Yearn Finance Partners with Tenderly to Supercharge Development, Debugging & Incident Analysis"
+title: "Yearn Finance Partners with Tenderly to Supercharge Development, Debugging & Incident Analysis"
 image:
   src: ./cover.png
   width: 1280
   height: 800
 date: '2022-02-25'
 author: Weaver
-translator:
+translator: 
 ---
-
 
 The Yearn-Tenderly partnership has proven to be a mutually beneficial one.
 
@@ -67,7 +66,6 @@ Tenderly offers the best UI debugger in the industry. It has been invaulable for
 
 *Error simulation*
 ![](image3.png?w=1280&h=672)
-
 
 ## What's Next
 One thing Yearn is most excited about is bringing in new contributors and attracting talent. In collaboration with the Tenderly team, we offer 90-day free access to Tenderly for members of YFI Boarding School (a community for upcoming strategists). We believe this has helped boarding school members get deeper insights into their own strategy code, helping them learn more efficiently, while also showing them the power of Tenderly's product.
