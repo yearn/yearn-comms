@@ -9,7 +9,6 @@ autor: Marco_Worms
 translator: jameskbh
 ---
 
-
 Fazer sua própria pesquisa é um exercício necessário ao lidar com criptomoedas e para os [yVaults e Estratégias](https://medium.com/iearn/yearn-finance-explained-what-are-vaults-and-strategies-96970560432) existem um punhado de visualizações que você pode explorar e usar para processar todos os números. Neste artigo, vou mergulhar em todos os recursos públicos de análise de Yearn usados pelos estrategistas para monitorar a integridade dos vaults e estratégias. Portanto, aprender a navegar nessas ferramentas permitirá que você tenha o mesmo nível de informações sobre os vaults que um membro da equipe do Yearn. As três ferramentas que vamos explorar hoje são:
 ### [Vaults de Yearn](https://vaults.yearn.finance/)
 * Uma visão abrangente de todos os yVaults e descrições de estratégias. Um ótimo lugar para começar a aprender sobre como e onde os fundos do vault são delegados.
@@ -131,4 +130,4 @@ Produtor: [Worms](https://twitter.com/MarcoWorms), Revisor: [Dark Ghosty](https:
 Muito obrigado Dark Ghosty por passar por todos esses painéis e me mostrar como navegar neles ❤
 </br>
 
-**Feito em[ yearn.finance](https://yearn.finance/)**
+**Feito em [yearn.finance](https://yearn.finance/)**
