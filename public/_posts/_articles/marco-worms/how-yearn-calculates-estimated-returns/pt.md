@@ -1,6 +1,5 @@
 ---
-title: "Como a Yearn calcula os retornos estimados (APY)
-"
+title: "Como a Yearn calcula os retornos estimados (APY)"
 image:
   src: ./image1.jpg
   width: 469
@@ -9,6 +8,7 @@ data: '2022-02-14'
 author: Marco_Worms
 translator: jameskbh 
 ---
+
 # Como o Yearn calcula os retornos estimados (APY)
 
 ![](./image1.jpg?w=469&h=246)
