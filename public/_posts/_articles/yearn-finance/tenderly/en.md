@@ -13,7 +13,7 @@ The Yearn-Tenderly partnership has proven to be a mutually beneficial one.
 
 Tenderly has given Yearn access to best-in-class developer tools, deeper insights into on-chain activity and support by a rockstar team of developers. While Yearn has supplied key use cases and requirements from a major DeFi protocol, helping the Tenderly product to iterate and adapt to the needs of the industry.
 
-![](cover1.png?w=1400&h=670)
+![](cover.png?w=1400&h=670)
 
 ## Situation
 Yearn Finance prides itself on being one of the most secure and highest TVL protocols in all of DeFi. Yearn also has a massive amount of on-chain infrastructure: over 300 v2 vault and strategy smart contracts on mainnet alone (not to mention v1 vaults, keep3r infrastructure, helper contracts, sidechain deployments, etc.).
@@ -21,7 +21,6 @@ Yearn Finance prides itself on being one of the most secure and highest TVL prot
 Yearn is also a permissionless *money lego*. Meaning it uses many different protocols across the DeFi landscape to help generate yield, and in turn, many different protocols use Yearn to generate yield for their users and treasuries. While being so deeply integrated enables massive opportunity, it also comes at a cost of stacking risk: as the number of integrations across protocols grow, the attack surface grows as well.
 
 ## Challenge
-
 With such a large team of dev contributors and vast on-chain infrastructure, it becomes important to find and utilize best-in-class developer tooling. Some of the challenges Yearn is faced with running its operations at scale are:
 
 #### Monitoring & Alerting
