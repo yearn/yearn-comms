@@ -1,5 +1,5 @@
 ---
-title:  "What can you do with YFI?"
+title:  "¿Qué puedo hacer con YFI?"
 image:
   src: ./cover.png
   width: 768
