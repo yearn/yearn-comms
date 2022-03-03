@@ -19,15 +19,10 @@ Bienvenido a la 52ª edición de la Newsletter de Yearn Finance. Nuestro objetiv
 ## Resumen
 
 - YIP-65 entra en votación
-
 - Propuesta - Programa piloto de recompra de DCA
-
 - Reflexionando sobre Yearn
-
 - Yearn ha recibido una subvención FTM de 1 millón de la Fundación Fantom
-
 - Bóvedas en Yearn
-
 - Noticias del ecosistema
 
 ## YIP-65 entra en votación
