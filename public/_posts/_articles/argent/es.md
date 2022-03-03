@@ -1,5 +1,5 @@
 ---
-title:  "Gana fácilmente con Yearn v2 en Argent"
+title: "Gana fácilmente con Yearn v2 en Argent"
 image:
   src: ./cover.jpeg
   width: 800
@@ -8,8 +8,6 @@ date: '2021-08-24'
 author: Argent
 translator: RestlessMik3
 ---
-# Gana fácilmente con Yearn v2 en Argent
-
 ![](Image1.jpg)
 
 ¡Las vaults de Yearn V2 ahora están a solo un toque de distancia en Argent! Obtén hasta un 16,47 % de APY neto\* con la generación de rendimiento automatizada. Esto se basa en nuestro soporte existente para [Vaults V1 de Yearn](https://www.argent.xyz/blog/yearn-vaults-in-argent/).
