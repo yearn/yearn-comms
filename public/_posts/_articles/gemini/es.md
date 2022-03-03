@@ -1,5 +1,5 @@
 ---
-title:  "Yearn Finance y Robots de Dinero"
+title: "Yearn Finance y Robots de Dinero"
 image:
   src: ./cover.png
   width: 1281
