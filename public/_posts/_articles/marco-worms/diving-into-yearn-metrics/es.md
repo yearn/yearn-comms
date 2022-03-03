@@ -51,23 +51,23 @@ Hay información sobre TVL (Valor total bloqueado) que representa todos los fond
 
 Volviendo al panel de Visión, en la esquina superior derecha, siempre puede cambiar el rango de tiempo que actualizará la mayoría de los gráficos.
 
-![](./image6.jpg?w=226&h=469)</br>
+![](./image6.jpg?w=226&h=469)
 *cambiar el intervalo de tiempo en la esquina superior derecha*
 
 No se asuste con los gráficos con muchos colores, normalmente muestran todas las vaults/estrategias y reduce el ruido seleccionando solo el que desea obtener más información. Puede hacer clic en la lista de elementos para filtrar los análisis por una sola parte, la mayoría de ellos vendrán con todos los elementos seleccionados de forma predeterminada, por lo que deberá elegir la vault que desea verificar:
 
-![](./image7.jpg?w=884&h=231)</br>
+![](./image7.jpg?w=884&h=231)
 *Sin filtrar*
 
 
-![](./image8.jpg?w=895&h=258)</br>
+![](./image8.jpg?w=895&h=258)
 *Filtrado*
 
 "tiempo desde el último informe" significa cuándo se recolectaron por última vez las estrategias de esta vault. El gráfico "filtrado" anterior es un ejemplo de toda la cosecha del USDC yVault que ocurrió la última semana, la caída vertical significa que ocurrió una cosecha, por lo que el "tiempo desde la última cosecha/informe" va a 0
 
 Puede cambiar a otros paneles en el lado izquierdo de la pantalla:
 
-![](./image9.jpg?w=225&h=221)</br>
+![](./image9.jpg?w=225&h=221)
 *ver todos los paneles: https://yearn.vision/dashboards*
 
 ¡Aquí encontrarás un montón de paneles para profundizar en lo que está sucediendo en Yearn!
