@@ -48,23 +48,20 @@ Hay información sobre TVL (Valor total bloqueado) que representa todos los fond
 
 ![](./image5.jpg?w=1400&h=849)
 *cómo funciona el "precio de las acciones"*
-</br>
 
 Volviendo al panel de Visión, en la esquina superior derecha, siempre puede cambiar el rango de tiempo que actualizará la mayoría de los gráficos.
 
 ![](./image6.jpg?w=226&h=469)</br>
 *cambiar el intervalo de tiempo en la esquina superior derecha*
-</br>
 
 No se asuste con los gráficos con muchos colores, normalmente muestran todas las vaults/estrategias y reduce el ruido seleccionando solo el que desea obtener más información. Puede hacer clic en la lista de elementos para filtrar los análisis por una sola parte, la mayoría de ellos vendrán con todos los elementos seleccionados de forma predeterminada, por lo que deberá elegir la vault que desea verificar:
 
 ![](./image7.jpg?w=884&h=231)</br>
 *Sin filtrar*
-</br>
+
 
 ![](./image8.jpg?w=895&h=258)</br>
 *Filtrado*
-</br>
 
 "tiempo desde el último informe" significa cuándo se recolectaron por última vez las estrategias de esta vault. El gráfico "filtrado" anterior es un ejemplo de toda la cosecha del USDC yVault que ocurrió la última semana, la caída vertical significa que ocurrió una cosecha, por lo que el "tiempo desde la última cosecha/informe" va a 0
 
@@ -72,19 +69,16 @@ Puede cambiar a otros paneles en el lado izquierdo de la pantalla:
 
 ![](./image9.jpg?w=225&h=221)</br>
 *ver todos los paneles: https://yearn.vision/dashboards*
-</br>
 
 ¡Aquí encontrarás un montón de paneles para profundizar en lo que está sucediendo en Yearn!
 
 ![](./image10.jpg?w=1395&h=565)
 *paneles utilizados por el estratega*
-</br>
 
 Echemos un vistazo al panel de control "Vault Overview":
 
 ![](./image11.jpg?w=1400&h=640)
 *Panel de información general de Vault: https://yearn.vision/d/ibsIoEknkdffd/vault-overview?orgId=1*
-</br>
 
 En este panel de información general de la vault podemos ver que hay 6 estrategias activas para USDC yVault: "totalDebt" es la cantidad que la vault está delegando a estas estrategias, "cantidad de fondos libres" significa cuántos fondos están disponibles a bajo costo (gasolina). sabio) retiro, cuando este número es menor que la cantidad que le gustaría retirar, la transacción costará un poco más de gas porque la vault tendrá que tomar fondos delegados a las estrategias y realizar más operaciones en el proceso.
 
@@ -94,7 +88,6 @@ También hay excelentes paneles para inspeccionar la salud general de Yearn, e i
 
 ![](./image12.jpg?w=1363&h=201)
 *Panel de control del Tesoro de Yearn: https://yearn.vision/d/9_ppKhd7z/treasury*
-</br>
 
 ## **Reloj de año**
 **Enlace: https://yearn.watch/**
@@ -122,6 +115,5 @@ Ampliación de un informe individual para obtener más información:
 Creador: [Worms](https://twitter.com/MarcoWorms), Revisor: [Dark Ghosty](https://github.com/DarkGhost7)
 
 Muchas gracias Dark Ghosty por revisar todos estos paneles y mostrarme cómo navegar por ellos ❤
-</br>
 
 **Hecho en [yearn.finance](https://yearn.finance/)**
