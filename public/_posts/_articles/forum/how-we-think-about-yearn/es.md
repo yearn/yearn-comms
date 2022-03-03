@@ -8,9 +8,6 @@ date: '2020-10-20'
 author: Yearn DAO Contributors
 translator: Restlessmik3
 ---
-
-# Pensando en Yearn
-
 ## Lo que Yearn no es 
 
 1. **Yearn no es una empresa.** No tiene directorio. No hay un director general, no hay un equipo de gerentes. No hay lugar para burócratas.
