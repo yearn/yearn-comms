@@ -1,5 +1,5 @@
 ---
-title: "Yearn Finance Newsletter #46"
+title: "Newsletter #46 de Yearn Finance"
 image:
   src: ./cover.jpeg
   width: 576
