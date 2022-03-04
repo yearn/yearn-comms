@@ -29,3 +29,5 @@ After initially taking a call with [Farrah](https://twitter.com/_farrahmay) and 
 
 ## What’s Next
 At the end of each month, Yearn pays contributors through [Coordinape](https://coordinape.com/). Coordinape is a web3 payment tool, which is separated from the Yearn ecosystem. Individuals first contribute, then they are added to Coordinape which allows them to receive a monthly grant in a token (for Yearn it’s [$YFI](https://coinmarketcap.com/currencies/yearn-finance/)) for their work. By allocating and rewarding individuals based on the amount of work completed, Daos have an easy way to compensate active participants. I am looking forward to finishing up current projects and wrapping up my first month at Yearn!
+
+Stay tuned for more updates over the coming months, I plan to continue to document my journey here at Yearn!
