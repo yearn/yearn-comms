@@ -9,6 +9,8 @@ author: Kish
 translator: 
 ---
 
+![](cover.png?w=800&h=450)
+
 original publication: [Coinmonks Medium](https://medium.com/coinmonks/my-first-impressions-of-being-a-contributor-at-yearn-e154743b9cd5)
 
 *Why I joined a DAO and what I’ve learned so far.*
