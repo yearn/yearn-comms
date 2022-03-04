@@ -1,5 +1,5 @@
 ---
-title: "Yearn Finance Partners with Tenderly to Supercharge Development, Debugging & Incident Analysis"
+title: "Yearn Finance se asocia con Tenderly para supercargar el desarrollo, eliminación de bugs y analisis de incidentes"
 image:
   src: ./cover.png
   width: 1280
