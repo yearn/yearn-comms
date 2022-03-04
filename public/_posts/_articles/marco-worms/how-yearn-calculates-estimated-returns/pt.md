@@ -9,12 +9,9 @@ author: Marco_Worms
 translator: jameskbh 
 ---
 
-# Como o Yearn calcula os retornos estimados (APY)
-
 ![](./image1.jpg?w=469&h=246)
 *Exibição APY antiga*
 </br>
-
 
 Nas últimas semanas, recebemos muitos comentários sobre como nosso painel v3 exibe o “Rendimento percentual anual” (APY) dos ativos depositados. Especialmente no Fantom, onde o ecossistema tem preços e estratégias mais voláteis, implantamos mudanças de curto prazo em como o APY é exibido para representar o rendimento recebido por [weve e 0xdao](https://twitter.com/iearnfinance/status/1484570907041357828) . Quando voltamos aos nossos cálculos anteriores, não consideramos os cálculos APY de longo prazo como sendo inflados, mas agora enviamos uma atualização para corrigir esse erro. Este artigo tem como objetivo dar mais contexto sobre o que aconteceu e nossa solução!
 </br>
@@ -34,7 +31,6 @@ Atualizamos a maneira como nossa interface mostra APYs algumas semanas atrás, a
 
 </br>
 
-
 A desvantagem de calcular o APY por meio de dados recentes é: quando os ganhos das guerras começaram a diminuir, mostramos um número que veio de coletas recentes realmente lucrativas, mas as próximas colheitas provavelmente não seriam tão lucrativas (diminuição das emissões de protocolos comunitários construídos para aproveitar a "guerra", menos especulação após a definição dos 20 maiores TVL), então decidimos fazer algumas alterações para corrigir este caso.
 Então tínhamos um cálculo de APY realmente conservador antes do episódio mencionado acima, então mudamos para focar em dados recentes. Passar por esses 2 extremos nos fez aprender muito sobre o que funciona e o que não funciona! Aqui está como o fazemos agora:
 </br>
@@ -43,7 +39,6 @@ Então tínhamos um cálculo de APY realmente conservador antes do episódio men
 ![](./image3.jpg?w=150&h=190)
 *nova exibição APY para vault não crv*
 </br>
-
 
 * **APR bruto:** APR total do vault antes da dedução das taxas
 * **APY Líquido:** APY atual do Vault
@@ -54,7 +49,6 @@ Então tínhamos um cálculo de APY realmente conservador antes do episódio men
 </br>
 
 ### Para vaults que usam ativos de Curve.fi:
-
 
 ![](./image4.jpg?w=182&h=196)
 *nova exibição APY para vault crv*
@@ -68,10 +62,7 @@ Então tínhamos um cálculo de APY realmente conservador antes do episódio men
 * **APR bruto:** APR total do vault antes da dedução das taxas
 * **APY Líquido:** APY atual do Vault
 
-
-
 ---
-
 
 Obrigado a todos que deram feedback sobre esse recurso e também às equipes que agiram rapidamente. Esperamos que a nova tela reflita melhor a realidade dos ganhos de um vault!
 </br>
