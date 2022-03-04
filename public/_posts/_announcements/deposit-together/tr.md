@@ -1,5 +1,5 @@
 ---
-title:  "birlikte para yatırın"
+title:  "Birlikte Para Yatırın"
 image:
   src: ./cover.jpg
   width: 576
