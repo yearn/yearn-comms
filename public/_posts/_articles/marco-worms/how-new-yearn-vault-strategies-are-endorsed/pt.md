@@ -9,9 +9,6 @@ author: Marco_Worms
 translator: jameskbh
 ---
 
-# Como as novas estratégias do Yearn Vault são endossadas?
-
-
 ![](./image1.jpg?w=900&h=478)
 *Processo de verificação de estratégia*
 </br>
