@@ -1,5 +1,5 @@
 ---
-title:  "Update Bowswap"
+title: "Bowswap Güncel"
 image:
   src: ./cover.jpg
   width: 680
