@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yearn Finance Bülteni #53"
+title: "Yearn Finance Haber Bülteni #53"
 categories: [Newsletters]
 image:
   src: ./cover.png
