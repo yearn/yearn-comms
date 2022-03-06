@@ -68,7 +68,7 @@ So we had a really conservative APY calculation before the mentioned episode abo
 * **Boost:** Boost how much of the multiplier you get from staked veCRV
 * **Convex APR:** Current convex apr if you deposit to convex
 * **Gross APR:** Vault total APR before deducted fees
-* **Net APY: **Vault current APY
+* **Net APY:** Vault current APY
 
 
 
