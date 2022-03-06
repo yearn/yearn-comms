@@ -10,7 +10,7 @@ translator: Dastronom
 ---
 
 ![](./image1.jpg?w=469&h=246)
-*Eski ARY görüntüleme*
+*Eski APY görüntüleme*
 
 Geçtiğimiz birkaç hafta içinde, v3 gösterge tablomuzun yatırılan varlıkların "Yıllık Yüzde Getirisini" (APY) nasıl gösterdiği hakkında çok sayıda geri bildirim aldık. Özellikle ekosistemin daha değişken fiyatlara ve stratejilere sahip olduğu Fantom'da, [weve ve 0xdao](https://twitter.com/iearnfinance/status/1484570907041357828) tarafından alınan verimi temsil etmek için APY'nin görüntülenme biçiminde kısa vadeli değişiklikler uyguladık. Önceki hesaplamalarımıza döndüğümüzde, uzun vadeli APY hesaplamalarının şişirildiğini düşünmüyorduk, şimdi bu hatayı düzeltmek için bir güncelleme yayınladık. Bu makale, neler olduğu ve çözümümüz hakkında daha fazla bağlam vermeyi amaçlamaktadır!
 
@@ -21,8 +21,8 @@ DeFI'da bu 2 terimi sıklıkla görüyoruz:
 
 Her ikisi de kullanıcıya bir yatırım üzerinden ne kadar kazanç beklediklerini bildirmek için kullanılır:
 
-* **APR**, verimin otomatik olarak birleştirilmesinin olmadığını varsayar
-* **APY** getirinin yatırıma otomatik olarak dahil edildiğini gösterir
+* **APR** verimin otomatik olarak birleştirilmesinin olmadığını varsayar.
+* **APY** getirinin yatırıma otomatik olarak dahil edildiğini gösterir.
 
 ## Ne Öğrendik
 Son hasat verilerini kullanarak APY'yi daha iyi yansıtmak için birkaç hafta önce [Fantom'da ve(3,3) savaşları](https://twitter.com/iearnfinance/status/1484570907041357828) geçerken arayüzümüzün APY'leri gösterme şeklini güncelledik. Bu değişiklikten önce, uzun vadeli geçmiş verilere dayanan daha muhafazakar APY'ler gösteriyorduk, ancak savaşlar sırasında Fantom kasası APY'lerinin çoğu fırladı ve kısa vadeli kazanımlar kullanıcılara düzgün bir şekilde gösterilmedi. İnsanların kasalarımızın en karlı protokolleri yetiştirdiğini görebilmeleri için son hasata dayalı bir sayı göstermek için bir değişiklik yaptık:
@@ -37,11 +37,11 @@ Bu yüzden yukarıda bahsedilen olaydan önce gerçekten muhafazakar bir APY hes
 ![](./image3.jpg?w=150&h=190)
 *crv olmayan vault için yeni APY ekranı*
 
-* **Brüt APR:** Mahsup ücretleri düşülmeden önceki toplam APR
-* **Net APY:** Vault mevcut APY
-* **Haftalık APY:** Son 7 gündeki hasatlara göre
-* **Aylık APY:** Son 30 günlük hasatlara göre
-* **Başlangıç APY:** Vault'un varlığından bu yana yapılan tüm hasatlara göre
+* **Brüt APR:** Mahsup ücretleri düşülmeden önceki toplam APR.
+* **Net APY:** Vault mevcut APY.
+* **Haftalık APY:** Son 7 gündeki hasatlara göre.
+* **Aylık APY:** Son 30 günlük hasatlara göre.
+* **Başlangıç APY:** Vault'un varlığından bu yana yapılan tüm hasatlara göre.
 
 ### Curve varlıklar kullanan Vault'lar için:
 
@@ -50,11 +50,11 @@ Bu yüzden yukarıda bahsedilen olaydan önce gerçekten muhafazakar bir APY hes
 
 * **Havuz APY:** O havuzdaki curve takas ücretinden APY, yarısı buraya yarısı veCRV sahiplerine gider.
 * **Bonus Ödüller APR:** Ödüller genellikle o jetonun sahibi tarafından eklenir. IE frax curve havuzları da size frax verir. APY, jetonu mevcut fiyattan sattıysanız.
-* **Temel CRV APR:** Bu curve havuzunun aldığı minimum crv emisyon miktarının APR'si. (destek için stake veCRV'niz yoksa, bu + havuz apy'sini + bonus ödüllerini alırsınız.
-* **Boost:** Stake edilen veCRV'den elde ettiğiniz karın çarpanını artırın
-* **Convex APR:** Convex olarak yatırırsanız mevcut convex apr
-* **Brüt APR:** Mahsup ücretleri düşülmeden önceki toplam APR
-* **Net APY:** Vault'un güncel APY'si
+* **Temel CRV APR:** Bu curve havuzunun aldığı minimum crv emisyon miktarının APR'si (destek için stake veCRV'niz yoksa, bu + havuz apy'sini + bonus ödüllerini alırsınız)
+* **Boost:** Stake edilen veCRV'den elde ettiğiniz karın çarpanını artırın.
+* **Convex APR:** Convex olarak yatırırsanız mevcut convex APR.
+* **Brüt APR:** Mahsup ücretleri düşülmeden önceki toplam APR.
+* **Net APY:** Vault'un güncel APY'si.
  
 ---
 
