@@ -1,5 +1,5 @@
 ---
-title:  "Risk, Tooling, & Insight"
+title:  "Risk, Araçlar ve İçgörü"
 image:
   src: ./cover.jpg
   width: 1500

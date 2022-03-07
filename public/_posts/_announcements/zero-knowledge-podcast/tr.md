@@ -1,5 +1,5 @@
 ---
-title:  "Zero Knowledge Podcast"
+title:  "Zero Knowledge'in Podcast'ı"
 image:
   src: ./cover.jpg
   width: 576

@@ -1,5 +1,5 @@
 ---
-title:  "Yearn’s Dai Vault —did you know it’s now a top 20 DeFi protocol?"
+title: "Yearn'nin Dai Vault'ları — artık en iyi 20 DeFi protokolünden biri olduğunu biliyor muydunuz?"
 image:
   src: ./cover.png
   width: 1280
@@ -8,8 +8,6 @@ date: '2021-06-01'
 author: Wot_Is_Goin_On
 translator: Dastronom
 ---
-
-# **Yearn's Dai Vault — artık en iyi 20 DeFi protokolünden biri olduğunu biliyor muydunuz?**
 
 [Yearn'in web sitesine](https://yearn.finance/vaults) giderseniz, en sonuncusu [SNX vault'u](https://twitter.com/iearnfinance/status/1395413780012666881) olmak üzere yaklaşık 50 kripto vault'unun bir listesini görürsünüz. [Kriptonuzu](https://docs.yearn.finance/resources/guides/how-to-participate-in-a-yvault) Yearn'in vault'larından birine yatırırken, protokol sizin için bir getiri üretmeye başlayacak.
 

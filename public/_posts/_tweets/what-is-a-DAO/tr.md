@@ -1,5 +1,5 @@
 ---
-title:  "What is a DAO"
+title: "DAO Nedir"
 image:
   src: ./cover.jpg
   width: 292
