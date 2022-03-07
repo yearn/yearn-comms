@@ -9,13 +9,8 @@ author: Marco_Worms
 translator: Dastronom
 ---
 
-
-
-# Yearn Finance açıkladı: Vault'lar ve stratejiler nelerdir
-
 ![](./image1.jpg?w=900&h=478)
 *Basit Ethereum Yearn Vault Örneği*
-</br>
 
 [Yearn Finance](http://yearn.finance/), Blockchain üzerinde getiri yaratma, kredi toplama ve daha fazlasını sağlayan Merkezi Olmayan Finans (DeFi) içindeki bir ürün paketidir. Protokol, çeşitli bağımsız geliştiriciler tarafından sürdürülür ve $YFI sahipleri tarafından yönetilir.
 
@@ -37,7 +32,6 @@ Yearn Vault'u adlandırmanın kısa yolu **yVault**'dur. Yearn'in mevcut sürüm
 
 ![](./image2.jpg?w=4000&h=588)
 *Strateji İnceleme Süreci*
-</br>
 
 Çabaları için stratejistler, stratejinin performans ücretinin bir kısmı ile ödüllendirilir.
 
@@ -53,7 +47,6 @@ Artık yVault'ların ve Stratejilerin ne olduğunu bildiğimize göre, iç işle
 
 ![](./image3.jpg?w=1024&h=597)
 *Finematics bu resim için teşekkürler!*
-</br>
 
 Yukarıdaki görüntü, 1 yVault sürümündeki Ethereum vault stratejisine genel bir bakıştır. yVault'lar artık sürüm 2'dedir ve aynı anda birden çok stratejiyi işleyebilir, ancak bu örnekte tek bir stratejiye odaklanılacaktır. Daha derine inmek istemeniz durumunda bunun nasıl çalıştığına dair bir [Finematics gönderisinin ve videosunun tamamı](https://finematics.com/yearn-vaults-eth-vault-explained/) var!
 
@@ -62,14 +55,13 @@ Bu örnekte, bir stratejinin diğer vault'ları nasıl kullanabileceğini göreb
 * Teminat DAI ödünç almak için kullanılır
 * Ödünç alınan DAI, DAI yVault'a yatırılır
 O zaman DAI'yi ödünç almak ve DAI yVault stratejisini kullanarak getiri elde etmek için ETH kullanıyoruz.
-</br>
+
 ### Yearn parayı vault'a nasıl/ne zaman taşır ve ne kadar ücret alır?
 Bir stratejinin temel işlevlerinden birine “hasat” denir. Çağrıldığında, kârın gerçekleştiği ve stratejiye yeniden yatırıldığı bir yeniden dengeleme sürecini tetikler.
-</br>
+
 ### Yearn, bir stratejinin jetonları kaybetmek yerine her zaman üretmesini nasıl garanti ediyor?
 Stratejistler, strateji sağlığını sağlamak için zincir üzerindeki verileri izlemek için bir dizi araç kullanır. Bu araçlardan biri, blok zincirinde yaşayan birçok önemli metrik ile güzel bir kullanıcı arayüzü sunan [Yearn Watch](https://yearn.watch/) aracıdır.
 Üretime geçtikten sonra izleme stratejileri kadar önemli olan, gerçek para ile üretime gönderilmeden önce yapılan durum tespitidir. Yearn strateji ekibinin ayrıca, kullanılan temel stratejiler için risk seviyesini değerlendiren bir “Strateji Puanlama Sistemi” vardır, bunu gelecekte belgelerimizde ve uygulamalarımızda kullanıcılarımıza daha iyi sunmayı umuyoruz!
-</br>
 
 ### Stratejilerin, geçmiş vault'larla ilgili deneyimlerle öğrenilen kısıtlamaları vardır
 * Vault fonları aşağı doğru değil "yalnızca yukarı doğru" gitmeli
@@ -77,9 +69,7 @@ Stratejistler, strateji sağlığını sağlamak için zincir üzerindeki verile
 * Kullanıcılar istedikleri zaman para çekebilmelidir (böylece strateji tüm vault fonlarını zaman kilitleyemez, yalnızca küçük bir kısmı)
 * Use only protocols with proven track record and well understood, immutable contracts
 
-</br>
-
-### h2Keep3r'ler ve yVault'lar
+### Keep3r'ler ve yVault'lar
 
 Yearn ve [Keep3r](https://docs.keep3r.network/) gerçekten güçlü bir sinerjiye sahip: Keep3r, vault'lar için ortak görevleri otomatikleştirmek için yVault'lar tarafından kullanılıyor!
 
@@ -96,8 +86,7 @@ Ve bunun gibi birçok durum vardır, başka bir örnek, stratejinin bir bölüm�
 
 ### Strateji Kurmak
 * **yVault'lar** [Vyper](https://vyper.readthedocs.io/en/stable/) üzerinde programlanmıştır
-* * **Stratejiler** [Solidity](https://docs.soliditylang.org/en/v0.8.11/) içinde programlanmıştır
-
+* **Stratejiler** [Solidity](https://docs.soliditylang.org/en/v0.8.11/) içinde programlanmıştır
 
 > Strateji uzmanı olmak için gelişmiş bir geliştirici veya finansal analist olmanıza gerek yok!
 
