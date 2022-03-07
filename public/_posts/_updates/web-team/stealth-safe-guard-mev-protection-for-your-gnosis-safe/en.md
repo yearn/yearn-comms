@@ -6,12 +6,12 @@ image:
   src: ./cover.png
   width: 1256
   height: 1024
-author: 0x71B1
+author: "0x71B1"
 date: "2021-11-16"
 translator:
 ---
 
-![](./cover.png?w=469&h=246)
+![](./cover.png?w=2000&h=1000)
 
 ## Introduction
 
