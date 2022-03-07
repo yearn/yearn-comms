@@ -11,7 +11,9 @@ date: "2021-11-16"
 translator:
 ---
 
-![](./cover.png?w=2000&h=1000)
+![](./cover.png?w=1000&h=500)
+
+original article: [Yearn.Finance Engineering](https://mirror.xyz/yearn-finance-engineering.eth)
 
 ## Introduction
 
@@ -82,87 +84,90 @@ The account(s) you'll use to execute the safe transactions will need to perform 
 
 ### Contract interactions
 
-- Executor needs to call `bond(1 ether)`
+- *Executor* needs to call `bond(1 ether)`
 - Used by the **StealthRelayer** to validate executor bonds and StealthHash
-- Executor needs to enable `StealthRelayer` as a `StealthVault.job`
+- *Executor* needs to enable `StealthRelayer` as a `StealthVault.job`
 
-StealthRelayer
+### StealthRelayer
 
-    Governor needs to call .addJob(GnosisSafeAddress)
-    Governor can disable block protection by calling setForceBlockProtection(bool)
-        block protection should be disabled for chains where flashbots is not supported
-    Executor can then call execute(GnosisSafeAddress, data, stealthHash, blockNumber) using a flashbots bundle
-        or executeWithoutBlockProtection(GnosisSafeAddress, data, stealthHash) on non flashbots chains
+- *Governor* needs to call `.addJob(GnosisSafeAddress)`
+- *Governor* can disable block protection by calling `setForceBlockProtection(bool)`
+    - block protection should be disabled for chains where flashbots is not supported
+- *Executor* can then call `execute(GnosisSafeAddress, data, stealthHash, blockNumber)` using a flashbots bundle
+    - or `executeWithoutBlockProtection(GnosisSafeAddress, data, stealthHash)` on non flashbots chains
 
-GnosisSafe
+### GnosisSafe
 
-    Should be version ≥1.3.0
-    Safe should execute on itself setGuard(StealthSafeGuard)
+- Should be version `≥1.3.0`
+- Safe should execute on itself `setGuard(StealthSafeGuard)`
 
-StealthSafeGuard
+### StealthSafeGuard
 
-    Governor should call addExecutor(executor)
-    Governor can call setOverrideGuardChecks(true) to disable all guard checks in case of brick
+- *Governor* should call `addExecutor(executor)`
+- *Governor* can call `setOverrideGuardChecks(true)` to disable all guard checks in case of brick
 
-Troubleshooting & Safeguards
+## Troubleshooting & Safeguards
 
-Adding a guard into a safe is an extremely delicate action, since it can break/brick the safe completely. (you'll get locked out of your safe and lose all the assets it holds). We encourage new users to try this out on a brand new safe to get the hang of it.
+Adding a guard into a safe is an extremely delicate action, since it can break/brick the safe completely (you'll get locked out of your safe and lose all the assets it holds). *We encourage new users to try this out on a brand new safe to get the hang of it.*
 
-StealthSafeGuard has a few protections in place which make sure you'll never get locked out of your safe.
+**StealthSafeGuard** has a few protections in place which make sure you'll never get locked out of your safe.
 
-    StealthSafeGuard's owner should NOT be the same safe it's protecting
-        you should instead set the safe as the manager role.
-            StealthSafeGuard.setPendingManager(safe) as owner (second safe)
-            StealthSafeGuard.acceptManager() as main safe
-        StealthSafeGuard.owner should be a separate safe which only purpose is to salvage the main safe in case of an issue.
-    Both Owner and Manager can disable ALL checks (StealthRelayer and Executor requirements) by toggling a flag
-        StealthSafeGuard.setOverrideGuardChecks(true) as owner (second safe)
-        StealthSafeGuard.setOverrideGuardChecks(false) as owner (second safe)
-            remember that the flag needs to be manually set back to false
-    Both Owner and Manager can change the StealthRelayer by calling StealthSafeGuard.setStealthRelayer(address _newStealthRelayer)
-    Both Owner and Manager can add and remove executors addresses
-        StealthSafeGuard.addExecutor(address _executor)
-        StealthSafeGuard.removeExecutor(address _executor)
+1. **StealthSafeGuard**'s owner should NOT be the same safe it's protecting
+    1. you should instead set the safe as the manager role.
+        1. `StealthSafeGuard.setPendingManager(safe)` as owner (second safe)
+        2. `StealthSafeGuard.acceptManager()` as main safe
+    2. **StealthSafeGuard** *.owner* should be a separate safe which only purpose is to salvage the main safe in case of an issue.
+2. Both *Owner* and *Manager* can disable ALL checks (**StealthRelayer** and *Executor* requirements) by toggling a flag
+    1. `StealthSafeGuard.setOverrideGuardChecks(true)` as owner (second safe)
+    2. `StealthSafeGuard.setOverrideGuardChecks(false)` as owner (second safe)
+        1. remember that the flag needs to be manually set back to false
+3. Both *Owner* and *Manager* can change the **StealthRelayer** by calling `StealthSafeGuard.setStealthRelayer(address _newStealthRelayer)`
+4. Both *Owner* and *Manager* can add and remove executors addresses
+    1. `StealthSafeGuard.addExecutor(address _executor)`
+    2. `StealthSafeGuard.removeExecutor(address _executor)`
 
-Automation
+## Automation
 
 Execution can be automated by running a script that every X minutes:
 
-    queries gnosis safe API for queued txs and it's confirmations
-    generates the safe tx
-    appends and encodes the signatures to the tx
-    generates the safe execution raw transaction
-    grabs gas and network details
-    generates stealth hash and assign target block number
-    signs it with the executor EOA
-    creates, simulates and broadcasts the bundle to flashbots
-    loops though 5. and 8. until the bundle is included in a block
+1. queries gnosis safe API for queued txs and it's confirmations
+2. generates the safe tx
+3. appends and encodes the signatures to the tx
+4. generates the safe execution raw transaction
+5. grabs gas and network details
+6. generates stealth hash and assign target block number
+7. signs it with the executor EOA
+8. creates, simulates and broadcasts the bundle to flashbots
+9. loops though 5. and 8. until the bundle is included in a block
 
-You can see an example on: scripts/guard/01-stealth-relayer-guard-get-signatures-and-execute.ts
-Manual Signing and Execution
+You can see an example on: [scripts/guard/01-stealth-relayer-guard-get-signatures-and-execute.ts](https://github.com/yearn/hardhat-monorepo/blob/main/packages/strategies-keep3r/scripts/guard/01-stealth-safe-guard-get-signatures-and-execute.ts)
 
-The following command will prompt you to enter the Safe address and safeTxHash, then output the signed message.
+## Manual Signing and Execution
 
-npx hardhat run scripts/guard/02-stealth-relayer-guard-sign.ts --network rinkeby
+The following command will prompt you to enter the *Safe address* and *safeTxHash*, then output the signed message.
 
-The signed message can be added into offchainSignatures on: scripts/guard/01-stealth-relayer-guard-get-signatures-and-execute.ts
+`npx hardhat run` [scripts/guard/02-stealth-relayer-guard-sign.ts](https://github.com/yearn/strategies-keep3r/blob/main/scripts/guard/02-stealth-relayer-guard-sign.ts) `--network rinkeby`
 
-Then you can run the script to grab the first queued safe Tx, and it will grab signatures from the gnosis API and add the offchainSignatures to the transaction, and submit it to flashbots (if on mainnet) though the stealth relayer. npx hardhat run scripts/guard/01-stealth-relayer-guard-get-signatures-and-execute.ts --network rinkeby
-Improvements
+The signed message can be added into `offchainSignatures` on: [scripts/guard/01-stealth-relayer-guard-get-signatures-and-execute.ts](https://github.com/yearn/hardhat-monorepo/blob/main/packages/strategies-keep3r/scripts/guard/01-stealth-safe-guard-get-signatures-and-execute.ts)
 
-    reduce gas usage
-    add useful events such as success execution and hash+nonce
+Then you can run the script to grab the first queued safe Tx, and it will grab signatures from the gnosis API and add the `offchainSignatures` to the transaction, and submit it to flashbots (if on mainnet) though the stealth relayer. `npx hardhat run scripts/guard/01-stealth-relayer-guard-get-signatures-and-execute.ts --network rinkeby`
 
-Credits
+## Improvements
 
-StealthSafeGuard exists thanks to the efforts of the Flashbots, Gnosis and Yearn teams.
+- reduce gas usage
+- add useful events such as success execution and hash+nonce
 
-    Gnosis team added the guard system on their safe-contracts 1.3.0 release
-    Flashbots team provides the basis on which stealth-tx can be safely and accurately executed
+## Credits
 
-Interested in building similar solutions?
+**StealthSafeGuard** exists thanks to the efforts of the Flashbots, Gnosis and Yearn teams.
 
-💡 Collaborate with us at yearn!
-Interested in having this for your multisig, but not sure how?
+- Gnosis team added the guard system on their [safe-contracts 1.3.0 release](https://github.com/gnosis/safe-contracts/releases/tag/v1.3.0)
+- Flashbots team provides the basis on which stealth-tx can be safely and accurately executed
 
-*git gud. *jk, you can contact any yearn moderators via our discord or telegram and ask to speak with our own stealth expert skeletor_spaceman or any of our other yMechanic team members on telegram, we would be happy to guide you.
+### Interested in building similar solutions?
+
+💡 [Collaborate with us at yearn!](https://yearnfinance.notion.site/)
+
+### Interested in having this for your multisig, but not sure how?
+
+*git gud. *jk, you can contact any yearn moderators via our [discord](https://discord.yearn.finance/) or [telegram](https://t.me/yearnfinance) and ask to speak with our own stealth expert [skeletor_spaceman](https://t.me/skeletor_spaceman) or any of our other yMechanic team members on telegram, we would be happy to guide you.
