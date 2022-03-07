@@ -9,6 +9,7 @@ author: Marco_Worms
 translator:
 ---
 
+![](./cover.png?w=1400&h=729)
 [Yearn Vaults](https://medium.com/iearn/yearn-finance-explained-what-are-vaults-and-strategies-96970560432) are built with open standards and YFI partners have made amazing applications on top of them in the past couple of years. This article showcases how other protocols have extended Yearn products, and we hope it inspires more experiments on top of YFI services!
 
 ## Example cases
@@ -30,7 +31,8 @@ An overview of Abracadabra would be:
 1. User deposits yvWETH on Abracadaba as collateral, Abracadabra allows the user to mint a percentage of their collateral as a dollar stablecoin called Magic Internet Money (MIM)
 
 ![](./image1.png?w=633&h=527)
-*Abracadabra “borrow” interface*
+
+*[Abracadabra](http://abracadabra.money/) “borrow” interface*
 
 
 When the user mints MIM the collateral deposited gets locked until the MIM borrowed is paid back
@@ -50,7 +52,7 @@ Alchemix uses DAI (another dollar stablecoin, much like MIM) yVault in order to 
 Here is the complete Alchemix ecosystem overview and how it integrates with Yearn:
 
 ![](./image2.png?w=1400&h=950)
-*Alchemix ecosystem*
+*[Alchemix](https://alchemix.fi/) ecosystem*
 
 ## yVaults in B2B
 *For business use-cases the Yearn DAO truly makes a difference: it has the infrastructure to provide the best vault security in DeFi at the moment.*
@@ -60,13 +62,15 @@ Partners earn a share of fees based on the TVL they contribute to the vaults, yo
 **Earn Sections:** pages that provide an alternative front for users to deposit their assets into yVaults. A good example of Earn section can be found on [ShapeShift](https://shapeshift.com/), their contract to deposit the assets at Yearn Vaults is [open-source on GitHub](https://github.com/shapeshift/yearn-router).
 
 ![](./image3.png?w=363&h=681)
-*ShapeShift earn section*
+
+*[ShapeShift](https://shapeshift.com/) earn section*
 
 **Wallets**: partners provide Yearn yield generating options inside their ecosystem using yVaults. The [SteakWallet](https://www.steakwallet.fi/) is a good example of a wallet service that integrates with 
 Yearn:
 
 ![](./image4.png?w=1177&h=869)
-*SteakWallet interface*
+
+*[SteakWallet](https://www.steakwallet.fi/) interface*
 
 ## Resources to become a partner
 If you would like to build on top of our yVaults it’s recommended to:
