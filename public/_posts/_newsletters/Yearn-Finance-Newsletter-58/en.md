@@ -14,7 +14,7 @@ translator:
 
 ### Week Ending March 8th, 2022
 
-![](./image1.jpg?w=1456&h=733)
+![](./image5.jpg?w=1456&h=733)
 
 Welcome to the 58th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
 
