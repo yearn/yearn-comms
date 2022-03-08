@@ -65,12 +65,12 @@ Partners earn a share of fees based on the TVL they contribute to the vaults, yo
 
 **Earn Sections:** pages that provide an alternative front for users to deposit their assets into yVaults. A good example of Earn section can be found on [ShapeShift](https://shapeshift.com/), their contract to deposit the assets in Yearn Vaults is [open-sourced on GitHub](https://github.com/shapeshift/yearn-router).
 
-![](./image3.png?w=363&h=681)
+![](./image3.png?w=750&h=554)
 *[ShapeShift](https://shapeshift.com/) earn section*
 
 **Wallets**: partners provide Yearn yield generating options inside their ecosystem using yVaults. The [SteakWallet](https://www.steakwallet.fi/) is a good example of a wallet service that integrates with Yearn:
 
-![](./image4.png?w=1177&h=869)
+![](./image4.png?w=363&h=681)
 *[SteakWallet](https://www.steakwallet.fi/) interface*
 
 ## Resources to become a partner
