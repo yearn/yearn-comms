@@ -65,12 +65,12 @@ Les partenaires gagnent une part des frais en fonction de la TVL qu'ils apporten
 
 **Sections Earn :** pages qui offrent aux utilisateurs une alternative pour déposer leurs actifs dans les yVaults. Un bon exemple de section Earn peut être trouvé sur [ShapeShift](https://shapeshift.com/), leur contrat pour déposer les actifs chez Yearn Vaults est [open-source sur GitHub](https://github.com/shapeshift/yearn-router).
 
-![](./image3.png?w=363&h=681)
+![](./image3.png?w=750&h=554)
 *Section earn de ShapeShift *
 
 **Wallets** : les partenaires proposent des options de génération de rendement Yearn dans leur écosystème à l'aide de yVaults. Le [SteakWallet](https://www.steakwallet.fi/) est un bon exemple de service de portefeuille qui s'intègre avec Yearn:
 
-![](./image4.png?w=1177&h=869)
+![](./image4.png?w=363&h=681)
 *Interface de SteakWallet*
 
 ## Ressources pour devenir partenaire
