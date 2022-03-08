@@ -11,19 +11,19 @@ translator:
 
 Doing your own research is a necessary exercise when dealing with crypto and for [yVaults and strategies](https://medium.com/iearn/yearn-finance-explained-what-are-vaults-and-strategies-96970560432) there are a handful of views that you can explore and use to crunch all the numbers. In this article I will dive into all public Yearn analytics resources used by strategists to monitor vaults and strategies health, so learning how to navigate these tools will allow you to have the same level of information about vaults as a Yearn team member. The three tools we’ll explore today are:
 
-**[The Vaults at Yearn](https://vaults.yearn.finance/)**
+### **[The Vaults at Yearn](https://vaults.yearn.finance/)**
 
 A comprehensive overview of all yVaults and strategy descriptions. A great place to start learning about how and where vault funds are delegated.
 
-**[Yearn Vision](https://yearn.vision/)**
+### **[Yearn Vision](https://yearn.vision/)**
 
 A complete interactive dashboard that can be used to analyze historical data for all vaults and strategies. This is where we’ll be able to extract and analyze any kind of historical data from yVaults and strategies usage.
 
-**[Yearn Watch](https://yearn.watch/)**
+### **[Yearn Watch](https://yearn.watch/)**
 
 A dashboard made by strategists for strategists that contains quick access to useful data about strategies health for each yVault.
 
-**[The Vaults at Yearn](https://vaults.yearn.finance/)**
+### **[The Vaults at Yearn](https://vaults.yearn.finance/)**
 
 The Vaults at Yearn is a great resource to start understanding how funds are managed by a vault. Here you’ll find descriptions for all yVaults and their strategies:
 
@@ -35,6 +35,7 @@ On the left side, you can choose either Ethereum or Fantom vaults and they are a
 - **DeFi Tokens**: yVaults made for tokens from the DeFi ecosystem of the chosen network (ETH or FTM)
 - **Curve Pools**: yVaults made for tokens from the [curve.fi](https://curve.fi/) ecosystem
 - **Retired Vaults**: old yVaults that aren’t used anymore
+
 When you choose a section you’ll see a list of vaults. You can click on a vault to expand it and see the descriptions of all the strategies that it uses:
 
 ![](./image2.jpg?w=897&h=856)
