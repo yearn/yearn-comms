@@ -28,7 +28,7 @@ Algunas de las cosas que el documento debe describir son:
 
 El estratega puede codificar una estrategia utilizando el [repositorio de plantillas “brownie-strategy-mix”](https://github.com/yearn/brownie-strategy-mix). Cuando la estrategia es completada y revisada por 2 pares, debe implementarse en ape.tax, que es un sitio web que permite probar vaults experimentales en un entorno de producción.
 
-![](./image3.jpg?w=900&h=478)\
+![](./image3.jpg?w=352&h=28)\
 *Advertencia de vaults de Ape.tax!*
 
 Con el documento terminado y después de que algunos ciclos de cosecha se completen con éxito y sin problemas, el estratega ahora puede [buscar colaboradores de Yearn](https://docs.yearn.finance/developers/v2/DEPLOYMENT#deploying-a-new-strategy) para que el [Comité de agricultura segura](https://gov.yearn.finance/t/introducing-yearn-safe-farming-committee/10533) apruebe la estrategia. Los revisores internos de Yearn realizarán una revisión de seguridad completa.

@@ -28,7 +28,7 @@ Some of the things the doc should outline are:
 
 The strategist can code a strategy using the [“brownie-strategy-mix” template repository](https://github.com/yearn/brownie-strategy-mix). When the strategy is completed and reviewed by 2 peers it should be deployed on ape.tax which is a website that allows experimental vaults to be tested in a production environment.
 
-![](./image3.jpg?w=900&h=478)\
+![](./image3.jpg?w=352&h=28)\
 *ape.tax vaults warning!*
 
 With the document done and after some harvest cycles are completed successfully with no issues, the strategist can now [reach for Yearn contributors](https://docs.yearn.finance/developers/v2/DEPLOYMENT#deploying-a-new-strategy) to get the strategy approved by the [Safe Farming Committee](https://gov.yearn.finance/t/introducing-yearn-safe-farming-committee/10533). A complete security review will be done by internal Yearn reviewers.
