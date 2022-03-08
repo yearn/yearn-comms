@@ -10,7 +10,6 @@ author: Yearn
 date: '2022-03-08'
 translator:
 ---
-# Yearn Finance Newsletter #58
 
 ### Week Ending March 8th, 2022
 
@@ -20,14 +19,14 @@ Welcome to the 58th edition of the Yearn Finance Newsletter. Our aim with this n
 
 ## Summary
 
-* Yearn on Arbitrum
-* Yearn Security Review
-* Clarifying 2020 Mergers
-* Diving Into Yearn Metrics
-* Yearn Partners With Tenderly
-* Andre Cronje Involvement With DeFi
-* Vaults at Yearn 
-* Ecosystem News
+- Yearn on Arbitrum
+- Yearn Security Review
+- Clarifying 2020 Mergers
+- Diving Into Yearn Metrics
+- Yearn Partners With Tenderly
+- Andre Cronje Involvement With DeFi
+- Vaults at Yearn 
+- Ecosystem News
 
 # Yearn on Arbitrum
 
