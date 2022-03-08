@@ -19,6 +19,7 @@ Les cas de partenariat les plus courants sont :
 
 
 Dans les deux cas, le partenaire est récompensé en recevant des commissions de performance prélevées sur les bénéfices globaux du yVault, plus un partenaire contribue au volume total, plus la part des bénéfices qu'il reçoit est importante.
+
 > En 2021, Yearn a partagé 2 793 161 $ avec des partenaires via le programme de partenariat
 
 Plongeons maintenant en profondeur et prennons des exemples avec nos plus grands partenaire :
