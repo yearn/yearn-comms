@@ -6,7 +6,7 @@ image:
   height: 721
 date: '2022-02-25'
 author: Kish
-translator: " Delace"
+translator: " Delace19"
 ---
 
 ![](cover.png?w=800&h=450)
