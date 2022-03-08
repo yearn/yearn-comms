@@ -16,6 +16,7 @@ translator: Dastronom
 ## Örnek durumlar
 
 En yaygın ortaklık durumları şunlardır:
+
 1. yVault'ları ödünç verme/ödünç alma için teminat olarak kullanma
 2. Kullanıcı fonlarıyla getiri elde etmek için yVault'ları kullanma
 
@@ -30,10 +31,11 @@ Her iki durumda da ortak, vault'un genel karından alınan performans ücretleri
 Abracadabra, ödünç alma hizmetlerinde yVault'ları kullanır: En önemli yenilik, faiz getiren belirteçleri borçlanma için teminat olarak kabul etmektir, kullanıcı geri ödendiğinde, kilitlenen zaman boyunca üretilen kârları içeren teminat vault'u belirteçlerini geri alır.
 
 Abracadabra'ya genel bir bakış:
+
 1. Kullanıcı bir yVault'a wETH (Ethereum ile aynı, sarılı Ethereum) yatırır, yvWETH alır
 2. Kullanıcı teminat olarak Abracadaba'ya yvWETH yatırır, Abracadabra, kullanıcının teminatlarının bir yüzdesini Magic Internet Money (MIM) adı verilen bir dolar sabit parası olarak basmasına izin verir.
 
-![](./image1.png?w=633&h=527)
+![](./image1.png?w=633&h=527)\
 *[Abracadabra](http://abracadabra.money/) “borç alma” arayüzü*
 
 Kullanıcı MIM bastığında, yatırılan teminat, ödünç alınan MIM geri ödenene kadar kilitlenir
@@ -54,7 +56,7 @@ Alchemix, kullanıcı tarafından yatırılan DAI'den faiz oluşturmak ve kredil
 
 İşte Alchemix ekosistemine genel bakış ve Yearn ile nasıl bütünleştiği:
 
-![](./image2.png?w=1400&h=950)
+![](./image2.png?w=1400&h=950)\
 *[Alchemix](https://alchemix.fi/) ekosistem*
 
 ## B2B'de yVault'lar
@@ -65,12 +67,12 @@ Alchemix, kullanıcı tarafından yatırılan DAI'den faiz oluşturmak ve kredil
 
 **Bölümler Kazanın:** kullanıcıların varlıklarını yVaults'a yatırmaları için alternatif bir cephe sağlayan sayfalar. Kazanma bölümünün iyi bir örneği [ShapeShift](https://shapeshift.com/)'te bulunabilir, onların varlıkları Yearn Vaults'a yatırma sözleşmeleri [GitHub'da açık kaynaklıdır](https://github.com/shapeshift/yearn-router).
 
-![](./image3.png?w=363&h=681)
+![](./image3.png?w=750&h=554)\
 *[ShapeShift](https://shapeshift.com/) kazan sekmesi*
 
 **Cüzdanlar**: iş ortakları, yVault'ları kullanarak ekosistemlerinde Yearn getirisi sağlayan seçenekler sunar. [SteakWallet](https://www.steakwallet.fi/), Yearn ile entegre olan bir cüzdan hizmetine iyi bir örnektir:
 
-![](./image4.png?w=1177&h=869)
+![](./image4.png?w=363&h=681)\
 *[SteakWallet](https://www.steakwallet.fi/) arayüz*
 
 ## İş ortağı olmak için kaynaklar
