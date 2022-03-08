@@ -30,7 +30,7 @@ Welcome to the 58th edition of the Yearn Finance Newsletter. Our aim with this n
 
 # Yearn on Arbitrum
 
-![](./image2.png?w=1200&h=1200)
+![](./image2.jpg?w=1000&h=1000)
 
 Yearn has now launched on Arbitrum, its first Ethereum L2. This is also our second non-Ethereum mainnet deployment after Fantom.
 
@@ -42,7 +42,7 @@ We invite you to engage, give feedback, and participate in the Yearn community b
 
 # Yearn Security Review
 
-![](./image3.png?w=1456&h=819)
+![](./image3.jpg?w=1000&h=563)
 
 At Yearn, we take security very seriously and hope to provide the best risk-adjusted yields in DeFi. 
 
