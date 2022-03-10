@@ -19,6 +19,8 @@ translator:
 > 
 > The forward-looking statements in this report are subject to numerous assumptions, risks and uncertainties which are subject to change over time. There are many risk factors, including those relating to blockchain and cryptographic technology generally, as well as Yearn specifically, that could cause actual results or developments anticipated by us not to be realized or, even if substantially realized, to fail to achieve any or all of the benefits that could be expected therefrom. We reserve the right to change the plans, expectations and intentions stated herein at any time, and we undertake no obligation to update publicly or revise any forward-looking statement, whether as a result of new information, future developments or otherwise. ACCORDINGLY, WE RECOMMEND THAT YOU DO NOT RELY ON, AND DO NOT MAKE ANY FINANCIAL DECISION OR INVESTMENT BASED ON, THE STATEMENTS CONTAINED IN THIS UPDATE — INCLUDING BUT NOT LIMITED TO ANY SELLING OR TRADING OF YFI TOKENS, ETHER OR ANY OTHER CRYPTOGRAPHIC OR BLOCKCHAIN TOKEN.
 
+---
+
 ## Table of Contents
 
 - Introduction to Yearn Finance
@@ -28,6 +30,8 @@ translator:
 - Total Value Locked
 - Interactive Financial Dashboard
 - Sources
+
+---
 
 ## An Introduction to Yearn Finance
 
@@ -40,6 +44,8 @@ Shortly after the distribution of the YFI token the yVault product offering was 
 Yearn engaged in a series of partnerships in the fall of 2020, forming the Yearn Ecosystem. These partnerships include SushiSwap (Automated Market Maker), C.R.E.A.M (lending), Keep3r Network (automated job platform), Akropolis, and Pickle Finance (yield-aggregator). While the protocol specified above in conjunction with Yearn Finance comprise the Yearn ecosystem, the YFI token does not govern the other protocols in the ecosystem.
 
 Version 2 of the yVault product was launched in early 2021 and includes a revised fee schedule and the ability for vaults to incorporate multiple strategies per vault. Version 1 yVaults are only able to employ one strategy per yVault.
+
+---
 
 ## Adjusted EBITDA for **Q3-21 was $11.6m** and Yearn experienced continued revenue generation from its yVault product offering in the quarter.
 
@@ -66,6 +72,8 @@ The financial statements are presented on an accrual basis of accounting. The fi
 - Adjusted EBITDA excludes interest, taxes, depreciation & amortization, and various non-cash expenses (such as token-based compensation) or non-recurring items.
 - Yearn generated strong adjusted EBITDA in Q3-21 despite the decline in top-line revenue for the quarter related to unfavorable market conditions in the cryptocurrency space. We anticipate continued EBITDA growth for Q4-21.
 
+--
+
 ## Yearn’s operating margin for Q3-21 was 68% and the majority of costs are associated with contributor compensation, primarily Strategists fees.
 
 ![](./image3.jpg?w=964&h=687)
@@ -75,6 +83,8 @@ The financial statements are presented on an accrual basis of accounting. The fi
 - Presented in the chart above is the key financial drivers for Q3- 21 for adjusted EBITDA. Items adjusted include, interest, taxes, depreciation & amortization, non-cash expenses (contributor vesting), non-recurring items (airdrops, donations, one-time unforeseen losses, and capital gains/(losses)).
 - Majority of the expenses are related to Strategist fees, salaries, and grants necessary to maintain and develop the protocol.
 - Other operating expenses is primarily unforeseen advents affecting users that are reimbursed by Yearn.
+
+---
 
 ## yVault revenue rebounded strongly in Aug and Sep-21, after comparatively low revenue in Jul-21 due to adverse market conditions in the cryptocurrency space.
 
@@ -87,6 +97,8 @@ The financial statements are presented on an accrual basis of accounting. The fi
 - The majority of our yVaults are focused on Curve Finance strategies by earning CRV
 rewards and depositing into liquidity pools on Curve.
 
+---
+
 ## The full-time contributor slightly expanded in Q3 as Yearn onboards more contributors to maintain existing and create new innovative products.
 
 ![](./image5.jpg?w=698&h=272)
@@ -95,6 +107,8 @@ rewards and depositing into liquidity pools on Curve.
 - The majority of Yearn contributors are developers that maintain Yearn’s products.
 - Administrative salaries for Q2-21 was less than 4.5% of gross profit generated for the quarter.
 - Salaries are typically paid one month in arrears and we have accrued these expenses in the month they were earned.
+
+---
 
 ## Yearn continues to reward part-time contributors using its novel Coordinape decentralized grant payment program.
 
@@ -105,6 +119,8 @@ rewards and depositing into liquidity pools on Curve.
 - You can access Coordinape here: https://coordinape.com/
 - Grants expenses were higher in Jul-21 as Yearn incurred expenses related to the creation of YFI Story. The contributors that helped create YFI Story were paid in YFI tokens, which are a non-cash expense to the Yearn protocol, i.e., YFI was paid from Treasury instead of cash payments to these recipients.
 
+---
+
 ## Yearn has purchased 130.50 YFI since beginning its buyback program in November 2020.
 
 ![](./image7.jpg?w=741&h=619)
@@ -113,6 +129,8 @@ rewards and depositing into liquidity pools on Curve.
 - The yBudget team determines monthly budgets for YFI repurchases based on a monthly earnings analysis. YFI accrued to Treasury is used to incentivize future contributors (vesting), cross-protocol initiatives, or potential future liquidity mining programs and is determined by the yBudget and yPeople teams and ultimately executed by the Multisig.
 - Yearn continues to repurchase YFI each month with protocol earnings unless a new YIP changes this policy.
 - Q2 and Q3-21 saw meaningful YFI buybacks from Treasury and we anticipate this will continue in the foreseeable future.
+
+---
 
 ## Yearn owns approximately $159m in assets held in Treasury, and as of September 2021 has no net debt (outstanding debt less cash).
 
@@ -133,6 +151,8 @@ rewards and depositing into liquidity pools on Curve.
 - **Long term liabilities** – Debt owed to MakerDAO and Unit.xyz related to the Treasury yield- farming. Unit debt was completely paid off in June 2021. As of Sep-21, Yearn only owes debt to MakerDAO related to the CDP opened by Yearn Treasury. Yearn uses the proceeds from this loan to earn yield on idle YFI held in Treasury. Yearn Treasury may close and repay this CDP to protect capital in the event of volatile market conditions. However, Yearn has sufficient cash balances to fully repay this debt at any time without selling any other assets.
 - **Equity** – includes accumulated other comprehensive income related to valuing assets held on Yearn’s balance sheet to fair market value (FMV) at month-end.
 
+---
+
 ## Yearn Total Value Locked exceeded $5.0b as of September 30th, 2021, and has shown strong continuous growth.
 
 ![](./image9.jpg?w=714&h=654)
@@ -144,6 +164,8 @@ rewards and depositing into liquidity pools on Curve.
 - *Note: The chart presented above is as of September 30th, 2021.*
 - Source: Github: [yearn/yearn-exporter](https://github.com/yearn/yearn-exporter)
 
+---
+
 ## We continue to make improvements to our financial dashboard displaying transactions, an Income Statement, and a Balance Sheet
 
 ![](./image10.jpg?w=1058&h=611)
@@ -152,6 +174,8 @@ rewards and depositing into liquidity pools on Curve.
 - Please note that this dashboard is displayed on a cash-basis of accounting, whereas the financial statements presented in this report are on an accrual basis of accounting. Specifically, the dashboard does not account for accounts receivable, accrued interest, unrealized capital gains and losses, or other accrual based items.
 - The financial dashboard has not been audited by a professional third-party accounting firm and is intended for information purposes only. It is not to be used for financial, investment, or advice of any kind.
 - You can access the dashboard at https://www.yfistats.com/financials/financials.html
+
+---
 
 ## Sources
 
