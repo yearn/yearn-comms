@@ -25,7 +25,7 @@ Bienvenidos a la 58ª edición de la newsletter Yearn Finance. Nuestro objetivo 
 - Sumergirse en las métricas de Yearn
 - Yearn se asocia con Tenderly
 - Participación de Andre Cronje con DeFi
-- Bóvedas en Yearn
+- Vaults en Yearn
 - Noticias del ecosistema
 
 # Yearn en Arbitrum
@@ -34,9 +34,9 @@ Bienvenidos a la 58ª edición de la newsletter Yearn Finance. Nuestro objetivo 
 
 Yearn ahora ha lanzado en Arbitrum, su primer Ethereum L2. Este es también nuestro segundo despliegue de red principal que no es Ethereum después de Fantom.
 
-Arbitrum es el L2 más grande de Ethereum, con tarifas de gas 10 veces más bajas y retiros y depósitos respaldados por los principales intercambios. Para empezar, Yearn comenzará en Arbitrum con una bóveda Curve triCrypto compuesta por ETH, USDT y WBTC.
+Arbitrum es el L2 más grande de Ethereum, con tarifas de gas 10 veces más bajas y retiros y depósitos respaldados por los principales intercambios. Para empezar, Yearn comenzará en Arbitrum con una Vault Curve triCrypto compuesta por ETH, USDT y WBTC.
 
-Para ingresar a esta bóveda, deberá agregar Arbitrum a Metamask, puente a través de Synapse, Hop o el puente Arbitrum oficial, agregar liquidez a triCrypto en [curve.fi](https://arbitrum.curve.fi/), y finalmente, deposite en [yearn.finance/vaults](http://yearn.finance/vaults).
+Para ingresar a esta Vault, deberá agregar Arbitrum a Metamask, puente a través de Synapse, Hop o el puente Arbitrum oficial, agregar liquidez a triCrypto en [curve.fi](https://arbitrum.curve.fi/), y finalmente, deposite en [yearn.finance/vaults](http://yearn.finance/vaults).
 
 Lo invitamos a participar, dar su opinión y participar en la comunidad de Yearn uniéndose a nosotros en [Discord](https://discord.gg/8rF374XkXy), [Twitter](http://twitter.com/iearnfinance), o [Github](http://github.com/yearn). Ven a construir con nosotros.
 
@@ -66,13 +66,13 @@ Consulte el artículo completo [aquí](https://medium.com/iearn/clarifying-2020-
 
 Uno de los valores principales de las criptomonedas es que uno haga su propia investigación, y aquí en Yearn, esperamos enfatizar que las métricas transparentes son una de nuestras mayores fortalezas para ayudar a los usuarios a tener cuidado al interactuar con el protocolo.
 
-Tres sitios de uso común que recomendamos son [Las bóvedas de Yearn](https://vaults.yearn.finance/), [Visión de Yearn](https://yearn.vision/) y [Yearn Watch](https://yearn.watch/).
+Tres sitios de uso común que recomendamos son [Las Vaults de Yearn](https://vaults.yearn.finance/), [Visión de Yearn](https://yearn.vision/) y [Yearn Watch](https://yearn.watch/).
 
-"Las bóvedas de Yearn" es el más simple y brinda breves descripciones generales de las estrategias de bóveda y los tipos de bóvedas en Yearn. "Visión de Yearn" es nuestro panel de control más completo que brinda información sobre el estado de las bóvedas, el valor total bloqueado y otros análisis. Por último, Yearn Watch es una herramienta principalmente para que los estrategas comprendan información sobre la salud de ciertas estrategias.
+"Las Vaults de Yearn" es el más simple y brinda breves descripciones generales de las estrategias de Vault y los tipos de Vaults en Yearn. "Visión de Yearn" es nuestro panel de control más completo que brinda información sobre el estado de las Vaults, el valor total bloqueado y otros análisis. Por último, Yearn Watch es una herramienta principalmente para que los estrategas comprendan información sobre la salud de ciertas estrategias.
 
 Consulte este artículo completo de MarcoWorms y Dark Ghosty [aquí](https://medium.com/iearn/diving-into-yearn-metrics-8c3fb0520927).
 
-Puede acceder a las bóvedas enumeradas en estos sitios y comenzar a ganar hoy en [yearn.finance/#/vaults](https://yearn.finance/#/vaults).
+Puede acceder a las Vaults enumeradas en estos sitios y comenzar a ganar hoy en [yearn.finance/#/vaults](https://yearn.finance/#/vaults).
 
 # Yearn se asocia con Tenderly
 
@@ -80,7 +80,7 @@ Puede acceder a las bóvedas enumeradas en estos sitios y comenzar a ganar hoy e
 
 Después de una reciente recaudación de fondos de la Serie B de $ 40 millones, la plataforma de herramientas de desarrollo de Ethereum, Tenderly, se ha asociado oficialmente con nosotros en Yearn.
 
-Como Yearn se ha convertido en una especie de gigante DeFi, ya hay más de 300 contratos inteligentes creados solo para bóvedas v2. Esto solo cubre la superficie de la cantidad de contratos inteligentes que hemos escrito, con bóvedas v1, infraestructura keep3r, contratos de ayuda e implementaciones de cadenas laterales que también se están creando.
+Como Yearn se ha convertido en una especie de gigante DeFi, ya hay más de 300 contratos inteligentes creados solo para Vaults v2. Esto solo cubre la superficie de la cantidad de contratos inteligentes que hemos escrito, con Vaults v1, infraestructura keep3r, contratos de ayuda e implementaciones de cadenas laterales que también se están creando.
 
 Con un equipo masivo, una gran cantidad de contratos y la necesidad de realizar envíos más rápido, necesitamos encontrar las mejores herramientas para desarrolladores de su clase. Tenderly nos ha permitido acelerar nuestro monitoreo y alerta, depuración y análisis de incidentes para la infraestructura de protocolo general y, en ocasiones, creamos salas de guerra.
 
@@ -96,9 +96,9 @@ Como muchos de vosotros sabeis, Andre Cronje, el fundador de Yearn, anunció rec
 
 La jubilación de Andre no tiene ningún efecto en las operaciones diarias de Yearn, y nuestra infraestructura sigue siendo una de las más sólidas del espacio. Nuestros próximos cambios de tokenómica y otros YIP todavía están en su lugar para implementarse también.
 
-# Bóvedas de Yearn
+# Vaults de Yearn
 
-Puede leer una descripción detallada de las estrategias para todos nuestras yBóvedas activas [aquí](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Puede leer una descripción detallada de las estrategias para todos nuestras yVaults activas [aquí](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
 
 # Ecosistema Noticias
