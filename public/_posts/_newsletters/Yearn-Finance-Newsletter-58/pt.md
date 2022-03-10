@@ -11,7 +11,7 @@ date: '2022-03-08'
 translator: jameskbh
 ---
 
-# ## Semana que termina em 8 de março de 2022
+### Semana que termina em 8 de março de 2022
 
 ![](./image1.png?w=1456&h=733)
 
