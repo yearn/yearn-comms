@@ -72,7 +72,7 @@ The financial statements are presented on an accrual basis of accounting. The fi
 - Adjusted EBITDA excludes interest, taxes, depreciation & amortization, and various non-cash expenses (such as token-based compensation) or non-recurring items.
 - Yearn generated strong adjusted EBITDA in Q3-21 despite the decline in top-line revenue for the quarter related to unfavorable market conditions in the cryptocurrency space. We anticipate continued EBITDA growth for Q4-21.
 
---
+---
 
 ## Yearn’s operating margin for Q3-21 was 68% and the majority of costs are associated with contributor compensation, primarily Strategists fees.
 
