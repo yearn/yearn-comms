@@ -52,7 +52,7 @@ Lea la auditoría completa [aquí](https://www.defisafety.com/pqrs/354).
 
 # Aclarando fusiones 2020
 
-A fines de 2020, Yearn Finance anunció varias "fusiones" con el objetivo de unir proyectos DeFi líderes, creando un ecosistema centrado en infraestructura crítica: AMM (SushiSwap), Lending (CREAM Finance), apoyo institucional (Akropolis) y Yield Management (Pickle). Finanzas).
+A fines de 2020, Yearn Finance anunció varias "fusiones" con el objetivo de unir proyectos DeFi líderes, creando un ecosistema centrado en infraestructura crítica: AMM (SushiSwap), Lending (C.R.E.A.M. Finance), Apoyo Institucional (Akropolis) y Yield Management (Pickle Finance).
 
 A pesar de tener éxito de varias maneras, nunca pudimos convertirnos en una entidad genuinamente fusionada. En el futuro, cada protocolo operará de forma independiente sin dejar de ser fuertes colaboradores y buenos amigos con Yearn y entre ellos.
 
