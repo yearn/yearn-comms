@@ -6,10 +6,8 @@ image:
   height: 800
 date: '2021-06-01'
 author: Wot_Is_Goin_On
-translator: " Nesyeth"
+translator: Nesyeth
 ---
-
-# **Yearns Dai Vault - wusstest du, dass es jetzt ein Top 20 DeFi Protokoll ist?**
 
 Wenn du auf die [Yearn Website](https://yearn.finance/vaults)  gehst, siehst eine Liste von fast 50 Krypto-Vaults, wobei der [SNX vault](https://twitter.com/iearnfinance/status/1395413780012666881) der Jüngste ist. Auf [Einzahlung deiner Kryptowährung](https://docs.yearn.finance/resources/guides/how-to-participate-in-a-yvault) kannst du in einen der Vaults von Yearn einzahlen. Dann beginnt das Protokoll, einen Ertrag für dich zu generieren.
 
