@@ -12,7 +12,7 @@ module.exports = ({
 		],
 	},
 	env: {
-		WEBSITE_URI: 'https://blog.yearn.finance/',
+		WEBSITE_URI: 'https://blog.yearn.finance',
 		WEBSITE_NAME: 'Yearn Comms',
 		WEBSITE_TITLE: 'Yearn Comms',
 		WEBSITE_DESCRIPTION: 'Yearn Comms',

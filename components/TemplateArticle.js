@@ -1,7 +1,9 @@
 import	React					from	'react';
 import	Link					from	'next/link';
+import	{useRouter}				from	'next/router';
 import	Image					from	'next/image';
 import	Head					from	'next/head';
+import	{NextSeo}				from	'next-seo';
 import	remarkGfm				from	'remark-gfm';
 import	ReactMarkdown			from	'react-markdown';
 import	useLocalization			from	'contexts/useLocalization';
@@ -9,6 +11,7 @@ import	IconChevron				from	'components/icons/IconChevron';
 import	{parseMarkdown}			from	'utils';
 
 function	Template({routerPath, path, post, newer, older}) {
+	const	router = useRouter();
 	const	{common, language} = useLocalization();
 
 	return (
@@ -17,6 +20,22 @@ function	Template({routerPath, path, post, newer, older}) {
 				<title>{post?.title || ''}</title>
 				{post?.ogImage?.url ? <meta property={'og:image'} content={post.ogImage.url} /> : null}
 			</Head>
+			<NextSeo
+				title={post?.title || ''}
+				openGraph={{
+					url: `${process.env.WEBSITE_URI}${router.asPath}`,
+					title: post?.title || '',
+					images: [
+						{
+							url: `${process.env.WEBSITE_URI}${post.image.src}`,
+							width: post.image.width,
+							height: post.image.height,
+							alt: post?.title || ''
+						}
+					],
+					site_name: 'Yearn Blog',
+				}}
+			/>
 
 			<div className={'flex flex-row justify-between pt-6 pb-4'}>
 				{newer ? <Link href={`/${path}/${newer?.slug}`}>
