@@ -1,5 +1,5 @@
 ---
-title:  "Yearns Dai Vault - wusstest du, dass es jetzt ein Top 20 DeFi Protokoll ist?"
+title:  "Yearn Dai Vault - wusstest du, dass es jetzt ein Top 20 DeFi Protokoll ist?"
 image:
   src: ./cover.png
   width: 1280
