@@ -18,7 +18,7 @@ function	Template({routerPath, path, post, newer, older}) {
 		<div className={'-mt-2 md:-mt-12'}>
 			<Head>
 				<title>{post?.title || ''}</title>
-				{post?.ogImage?.url ? <meta property={'og:image'} content={post.ogImage.url} /> : null}
+				{post?.image?.url ? <meta property={'og:image'} content={post.image.url} /> : null}
 			</Head>
 			<NextSeo
 				title={post?.title || ''}
@@ -27,10 +27,10 @@ function	Template({routerPath, path, post, newer, older}) {
 					title: post?.title || '',
 					images: [
 						{
-							url: `${process.env.WEBSITE_URI}${post.image.src}`,
-							width: post.image.width,
-							height: post.image.height,
-							alt: post?.title || ''
+							url: post?.image?.src ? `${process.env.WEBSITE_URI}${post.image.src}` : `${process.env.WEBSITE_URI}/og.png`,
+							width: post?.image?.width || 1200,
+							height: post?.image?.height || 675,
+							alt: post?.title || 'Yearn Blog'
 						}
 					],
 					site_name: 'Yearn Blog',
