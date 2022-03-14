@@ -1,5 +1,5 @@
 ---
-title:  "2020 Birleşmelerinin Netleştirilmesi; Bağımsız Bir Iron Bank"
+title: "2020 Birleşmelerinin Netleştirilmesi; Bağımsız Bir Iron Bank"
 image:
   src: ./cover.png
   width: 1280
@@ -17,7 +17,7 @@ Bir ekosistem olarak, geçtiğimiz ~15 ay boyunca birbirimizi tanıyıp destekle
 
 Ortak başarımıza rağmen, hiçbir zaman tam anlamıyla birleşmiş bir varlık olmadık. Bu, ilgili topluluklarımızda kafa karışıklığına, roller ve sorumluluklarda belirsizliğe ve karar alma sürecini yavaşlattı.
 
-gelecekte bizi bekleyen şeyler için heyecanlıyız.
+Gelecekte bizi bekleyen şeyler için heyecanlıyız.
 
 Iron Bank ayrıca, Yearn Vaults'a likidite ortağı olarak hizmet vermeye devam ederken, kendi iletişim kanalları ve [frontend](https://app.ib.xyz/) ile bağımsız bir proje olarak faaliyet gösterecek. Bu karar, topluluklarımızın ihtiyaç duyduğu netliği sağlarken, herkesin DeFi'nin geleceğini inşa etmek için kararlar almasına ve daha hızlı ilerlemesine olanak tanır.
 
