@@ -8,7 +8,7 @@ image:
   height: 288
 author: Yearn
 date: '2022-03-08'
-translator: "Nesyeth"
+translator: Nesyeth
 ---
 
 ### Woche bis zum 8. März 2022
@@ -99,7 +99,6 @@ Andres Rücktritt hat keine Auswirkungen auf den täglichen Betrieb von Yearn, u
 # Vaults bei Yearn
 
 Eine detaillierte Beschreibung der Strategien für alle unsere aktiven yVaults kannst du [hier](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) lesen.
-
 
 # Nachrichten zum Ökosystem
 
