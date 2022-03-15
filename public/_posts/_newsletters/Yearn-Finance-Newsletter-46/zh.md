@@ -9,7 +9,6 @@ date: '2021-09-12'
 translator: Bee926
 ---
 
-# Yearn Finance 最新动态 #46
 #### 2021年9月12日之前的一周
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-46/cover.jpeg?w=880&h=440)
