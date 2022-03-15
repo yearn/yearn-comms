@@ -1,5 +1,5 @@
 ---
-title:  "Yearn 最新动态 #42"
+title:  "Yearn Finance 最新动态 #42"
 image:
   src: ./cover.jpeg
   width: 576
@@ -8,8 +8,6 @@ author: Yearn
 date: '2021-08-03'
 translator: Bee926
 ---
-
-# Yearn 最新动态 #42
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-42/cover.jpeg?w=880&h=440)
 
