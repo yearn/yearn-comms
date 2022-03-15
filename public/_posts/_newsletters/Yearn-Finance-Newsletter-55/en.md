@@ -11,7 +11,7 @@ date: '2022-01-26'
 translator:
 ---
 
-### Week Ending January 23rd, 2021
+### Week Ending January 23rd, 2022
 
 ![](./image1.jpg?w=1100&h=554)
 
