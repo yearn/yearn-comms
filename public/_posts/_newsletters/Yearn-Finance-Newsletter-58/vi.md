@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yearn Finance Newsletter #58"
+title: "Bản tin Yearn Finance #58"
 categories: [Newsletters]
 image:
   src: ./cover.png
@@ -8,7 +8,7 @@ image:
   height: 288
 author: Yearn
 date: '2022-03-08'
-translator:
+translator: 🤖💵💵💰💰.eth
 ---
 
 ### Tuần Kết thúc Ngày 08/03/2022
