@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web Engineering Update: Feb 28, 2022"
+title: "Web Engineering Update: Feb. 28, 2022"
 categories: [Updates]
 image:
   src: ./logo.png
@@ -45,7 +45,7 @@ You can tell spring is in the air by the amount of change happening in the Web3 
 **Outstanding issues**
 
 - Managing the ever growing list of vaults with yearn-exporter
-- https://github.com/yearn/yearn-finance-v3/issues
+- [https://github.com/yearn/yearn-finance-v3/issues](https://github.com/yearn/yearn-finance-v3/issues)
 
 ## **Come Build with us! 👷**
 

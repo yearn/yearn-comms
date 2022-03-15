@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Web Engineering Update: February 21, 2022"
+title: "Web Engineering Update: Feb. 21, 2022"
 categories: [Updates]
 image:
   src: ./logo.png
   width: 1256
   height: 1024
 author: f0xTheSin
-date: "2022-02-21"
+date: "2022-02-24"
 translator:
 ---
 
