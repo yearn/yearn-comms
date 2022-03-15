@@ -8,7 +8,7 @@ function	Column({allPosts, language}) {
 	return (
 		<div>
 			{(allPosts || []).map((post, index) => {
-				if (!post) {
+				if (!post || !post?.slug) {
 					return (
 						<div className={'mb-4 break-inside'} key={`${index}${language}`}>
 							<div className={'overflow-hidden w-full bg-white dark:bg-black rounded-sm cursor-pointer'}>
