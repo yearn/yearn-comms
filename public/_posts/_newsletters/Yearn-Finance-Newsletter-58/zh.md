@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yearn Finance Newsletter #58"
+title: "Yearn Finance 最新动态 #58"
 categories: [Newsletters]
 image:
   src: ./cover.png
