@@ -10,7 +10,7 @@ translator: jameskbh
 ---
 
 ### Twitter Spaces
-- [Synthetix Yearn Governance](https://www.spreaker.com/user/14928562/synthetix-yearn-governance)
+- [Synthetix e Yearn falam sobre Governança](https://www.spreaker.com/user/14928562/synthetix-yearn-governance)
 
 ### Talks
 - [Os limites da decentralização | Orca, Tracheopteryx, Frog Monkee](https://www.youtube.com/watch?v=Q5j32zOdNR8)
