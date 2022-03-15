@@ -9,8 +9,6 @@ date: '2021-08-11'
 translator: Bee926
 ---
 
-# Yearn Finance 最新动态 #43
-
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-43/cover.jpeg?w=880&h=440)
 
 欢迎来到Yearn最新动态第43版。我们此新闻简报的目的是使Yearn和所有加密货币社区了解最新消息，包括新产品发布，治理变化和生态系统更新。如果你有兴趣了解更多有关Yearn Finance的信息，请关注我们的官方[Twitter](https://twitter.com/iearnfinance)和[Medium](https://medium.com/iearn)帐户。

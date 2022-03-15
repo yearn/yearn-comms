@@ -8,7 +8,6 @@ author: Yearn
 date: '2021-10-10'
 translator: Bee926
 ---
-# Yearn Finance 最新动态 #48
 
 ### 2021年10月10日之前的一周
 

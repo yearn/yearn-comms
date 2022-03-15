@@ -1,5 +1,5 @@
 ---
-title: "Yearn 最新动态 #56"
+title: "Yearn Finance 最新动态 #56"
 image:
   src: ./cover.png
   width: 1456

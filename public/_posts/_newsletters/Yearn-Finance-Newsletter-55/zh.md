@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yearn Finance Newsletter #55"
+title: "Yearn Finance 最新动态 #55"
 image:
   src: ./cover.png
   width: 1152
@@ -9,10 +9,6 @@ author: Yearn
 date: '2022-01-26'
 translator: Xiaona
 ---
-
-
-
-# Yearn Finance 最新动态 #55
 
 ### 2022年1月26日结束的一周
 
