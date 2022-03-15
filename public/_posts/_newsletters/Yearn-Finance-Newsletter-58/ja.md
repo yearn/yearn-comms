@@ -34,8 +34,7 @@ Yearn Finance Newsletterの第58号へようこそ。このニュースレター
 
 YearnはArbitrum上でプロダクトをローンチしました。ArbitrumはYearnにとって初のイーサリアムL2です。また、非イーサリアムメインネットの展開はFantomに次いで2番目となります。
 
-Arbitrumはイーサリアムの一番大きなL2です。ガス代が10倍安くなり、出金・入金もトップクラスの取引所にサポートされています。まずはじめに
-、YearnはArbitrumのETH/USDT/WBTCを複合したCurveのtriCryptoボールトから展開をはじめます。
+Arbitrumはイーサリアムの一番大きなL2です。ガス代が10倍安くなり、出金・入金もトップクラスの取引所にサポートされています。まずはじめに、YearnはArbitrumのETH/USDT/WBTCを複合したCurveのtriCryptoボールトから展開をはじめます。
 
 このボールトに入金するには、MetaMaskにArbitrumを追加し、Synapse、Hop、またはArbitrum公式ブリッジ経由でブリッジし、[curve.fi](https://arbitrum.curve.fi/)のtriCryptoに流動性を追加し、最後に[yearn.finance/vaults](http://yearn.finance/vaults)に入金する必要があります。
 
