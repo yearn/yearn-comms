@@ -1,13 +1,11 @@
 ---
-layout: post
-title: "La pastilla azul"
-categories: [Article]
+title: "The Blue Pill"
 image:
   src: ./cover.jpg
   width: 742
   height: 450
-author: Yearn
 date: '2021-06-02'
+author: Yearn
 translator: RestlessMik3
 ---
 
@@ -15,7 +13,7 @@ La pastilla azul
 Una guía espiritual para el pasado, presente y futuro.
 
 la pastilla azul
-PASADO PRESENTE FUTURO
+PASADO • PRESENTE • FUTURO
 
 QUÉ ES
 ¿YEARN?
@@ -559,4 +557,3 @@ más allá del borde del mapa
 
 Todo lo que importa es
 que navegamos
-
