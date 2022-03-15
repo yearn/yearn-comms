@@ -9,8 +9,6 @@ date: '2021-11-14'
 translator: Xiaona
 ---
 
-# Yearn Finance 最新动态 #49
-
 ### 2021年11月14日结束的一周
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/cover.jpeg?w=880&h=440)
