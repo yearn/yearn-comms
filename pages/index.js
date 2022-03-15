@@ -19,7 +19,7 @@ export async function getStaticProps({locale}) {
 		['tweets/', ['']],
 		['financials/', ['', 'quarterly-report/']],
 		['updates/', ['', 'web-team/']],
-		['articles/', ['', 'andre-cronje/', 'forum/', 'wot-is-goin-on/', 'yearn-finance/', 'marco-worms/']],
+		['articles/', ['', 'andre-cronje/', 'forum/', 'wot-is-goin-on/', 'yearn-finance/', 'marco-worms/', 'kish/']],
 	];
 	const	dirs = [];
 	for (let index = 0; index < childrens.length; index++) {
