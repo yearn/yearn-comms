@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web Engineering Update: Jan. 17th"
+title: "Web Engineering Update: Jan. 7, 2022"
 categories: [Updates]
 image:
   src: ./logo.png
@@ -11,11 +11,9 @@ date: "2022-01-20"
 translator:
 ---
 
-original source: https://yearnweb.substack.com/p/yearn-web-engineering-update-7d7
+original source: [Web Engineering Update 7 Jan](https://yearnweb.substack.com/p/yearn-web-engineering-update-7d7)
 
-# Yearn Web Engineering Update
-
-### Week of 17 Jan 2022
+### Week of January 17, 2022
 
 ## **Summary**
 
@@ -29,18 +27,12 @@ Other updates include no more dust following vault withdrawals, support for a ne
 
 - feat: readme instructions improved 📚
 - feat: APY tooltips for vaults and labs
-
   - Hovering over a vault's APY on the vaults page or the detail page will now provide a similar breakdown as seen on the v2 website, with extra info included for Curve LP vaults.
-
 - feat: add health status route 🏘️
 - feat: withdraw all for vaults
-
   - Previously, when withdrawing the UI would convert the user's input of underlying token balance into vault shares, and then pass this to the vault contract via `withdraw(shares)`. However, if share price was increasing following a harvest, this could leave a user with dust (a tiny, fractional amount of vault shares). Now, the UI detects if a user is trying to withdraw all of their vault position, and instead passes `withdraw(max_uint)`, which will burn all of the user's vault shares and leave no dust even if the share price is increasing each block.
-
 - fix: labs withdraw share calculation
-
   - There was an issue displaying the amount of yveCRV a user would receive from a yvBOOST withdrawal due to special handling of the vault token (yvBOOST) as the display token. This has been corrected.
-
 - style: eslint rule for import order 📝
 
 ### **SDK Release 1.0.15 (19 Jan 2022)**
@@ -55,9 +47,7 @@ Other updates include no more dust following vault withdrawals, support for a ne
 
 - feat: live puppeteer site monitoring framework
 - fix: update user borrow limit
-
   - This UI fix considers an asset's collateral cap when displaying a user's borrow limit for Iron Bank
-
 - fix: update curve calculations for new pools
 - fix: yvBoost display error
 - feat: remove new type override for curve vaults
