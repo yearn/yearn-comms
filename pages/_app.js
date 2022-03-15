@@ -39,8 +39,6 @@ function	WithLayout({props}) {
 }
 
 function	AppWrapper(props) {
-	const	WEBSITE_URI = process.env.WEBSITE_URI;
-
 	return (
 		<>
 			<Head>
@@ -85,13 +83,13 @@ function	AppWrapper(props) {
 				openGraph={{
 					type: 'website',
 					locale: 'en_US',
-					url: WEBSITE_URI,
+					url: process.env.WEBSITE_URI,
 					site_name: process.env.WEBSITE_NAME,
 					title: process.env.WEBSITE_NAME,
 					description: process.env.WEBSITE_DESCRIPTION,
 					images: [
 						{
-							url: `${WEBSITE_URI}og.png`,
+							url: `${process.env.WEBSITE_URI}/og.png`,
 							width: 1200,
 							height: 675,
 							alt: 'Yearn',
