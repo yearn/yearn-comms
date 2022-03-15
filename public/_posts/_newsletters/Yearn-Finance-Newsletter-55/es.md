@@ -2,13 +2,14 @@
 layout: post
 title: "Newsletter #55 de Yearn Finance"
 categories: [Newsletters]
-image: ./Yearn-Finance-Newsletter-55/image1.png
+image:
+  src: ./cover.png
+  width: 1152
+  height: 576
 author: Yearn
+date: '2022-01-26'
 translator: Restlessmik3
-publish: true
 ---
-
-# Newsletter #55 de Yearn Finance
 
 ### Semana que finaliza el 23 de enero de 2022
 
