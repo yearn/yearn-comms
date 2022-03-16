@@ -1,7 +1,7 @@
 ---
 title: "Por que o Yearn Finance é diferente?"
 image:
-src: ./cover.jpg
+  src: ./cover.jpg
   width: 562
   height: 651
 date: "2022-01-01"
