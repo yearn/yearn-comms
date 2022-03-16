@@ -36,7 +36,7 @@ YIP-66, जो यर्न के लिए एक मुआवजा योज
 
 इसके विपरीत, कुछ लोगों का तर्क है कि प्रस्ताव वर्तमान मुआवजे की प्रक्रिया को जटिल बनाता है, कर के मुद्दे बनाता है, या इस बात की उपेक्षा करता है कि रणनीतिकार वर्तमान में कितनी अच्छी तरह काम करते हैं। इन सभी पर काम करने का इरादा है और अब वोट पास हो गया है, और अधिक कुशल डाओ प्रबंधन के लक्ष्यों के साथ।
 
-हम आपको [Discord](https://discord.gg/8rF374XkXy), [Twitter](http://twitter.com/iearnfinance) पर जुड़कर, शामिल होने, प्रतिक्रिया देने और यर्न  समुदाय में भाग लेने के लिए आमंत्रित करते हैं, या [github] (http://github.com/yearn)। आओ हमारे साथ निर्माण करो।
+हम आपको [Discord](https://discord.gg/8rF374XkXy), [Twitter](http://twitter.com/iearnfinance) पर जुड़कर, शामिल होने, प्रतिक्रिया देने और यर्न  समुदाय में भाग लेने के लिए आमंत्रित करते हैं, या [github](http://github.com/yearn)। आओ हमारे साथ निर्माण करो।
 
 प्रस्ताव देखें [यहां](https://gov.yearn.finance/t/proposal-streamlining-contributor-compensation/12247) और स्नैपशॉट देखें [यहां](https://snapshot.org/#/ybaby.eth/proposal/0x804d3765e70d6e4f0f0a225222dadd396cd328595d5fd097b732b36fdf8e6af6)।
 
