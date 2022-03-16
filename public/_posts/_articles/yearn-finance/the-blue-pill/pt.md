@@ -9,8 +9,6 @@ author: Weaver
 translator: jameskbh
 ---
 
-# A Pílula Azul
-
 Nós nos referimos a ela simplesmente como O Presente.
 
 Há um ano, em julho de 2020, Andre deu tokens YFI a qualquer pessoa na comunidade DeFi que quisesse fazer parte do projeto ao fazer stake, farm, ou votando.
