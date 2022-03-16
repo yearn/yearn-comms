@@ -32,7 +32,7 @@ Algumas semanas de limpeza enquanto encerramos janeiro de 2022:
 - correção: atualização do endereço de exemplo de simulação
 - correção: migrar para o novo endpoint de cache
 - entrega: melhorar o tratamento de erros para simulações 🤬
-- Quando as simulações falham, nossa equipe de suporte tem feito um trabalho incrível com a solução de problemas, mas é hora de dar-lhes mais ferramentas. Esse recurso ajudará os usuários e a equipe de suporte a resolver problemas com maior precisão.
+  - Quando as simulações falham, nossa equipe de suporte tem feito um trabalho incrível com a solução de problemas, mas é hora de dar-lhes mais ferramentas. Esse recurso ajudará os usuários e a equipe de suporte a resolver problemas com maior precisão.
 - correção: disableAllowlist não é necessário
 - correção: ler metadados de estratégias da API
 
@@ -47,7 +47,7 @@ Algumas semanas de limpeza enquanto encerramos janeiro de 2022:
 **SDK versão 1.0.25**
 
 - correção: adicionar novos tipos de metadados do iron bank
-- Especificamente, isso abordou o recurso de limite de garantia que o Iron Bank implementou recentemente
+  - Especificamente, isso abordou o recurso de limite de garantia que o Iron Bank implementou recentemente
 
 **Web Release 1.0.13**
 
@@ -76,7 +76,7 @@ Algumas semanas de limpeza enquanto encerramos janeiro de 2022:
 - correção: link de descrição do vault
 - correção: adicionar paginação para ativos dinâmicos
 - adição: introduzir estratégias 0xDAO 🤑
-- Embora de curta duração, isso foi divertido enquanto durou 🙃
+  - Embora de curta duração, isso foi divertido enquanto durou 🙃
 - adição: adicione multicall ao ajudante de preços
 - adição: inserir TUSD e UST fantom IB
 - correção: remover contrato lens
@@ -91,9 +91,9 @@ Algumas semanas de limpeza enquanto encerramos janeiro de 2022:
 
 - Fantom RPC. Embora isso não seja específico de Yearn, continua afetando os usuários. O Yearn mudou nossa infraestrutura para um nó auto-hospedado, o que, esperançosamente, deve suavizar quaisquer problemas anteriores que os usuários tenham experimentado com o RPC público.
 - Cálculos APY continuam a ser uma fonte de perguntas, especialmente em Fantom. As novas adições ao repo yearn-reporter estão quase concluídas e fornecerão:
-- APY prospectivo por estratégia (Curve/Convex) e coleta anterior (todos os outros vaults)
-- APY semanal, mensal, e desde o início no nível de cada vault.
-- Para exibir todos esses novos números, adicionaremos uma página de estatísticas muito básica. 📊
+  - APY prospectivo por estratégia (Curve/Convex) e coleta anterior (todos os outros vaults)
+  - APY semanal, mensal, e desde o início no nível de cada vault.
+  - Para exibir todos esses novos números, adicionaremos uma página de estatísticas muito básica. 📊
 
 ## **Venha Construir conosco! 👷**
 
