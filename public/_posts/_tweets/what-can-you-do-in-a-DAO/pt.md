@@ -10,6 +10,7 @@ translator: jameskbh
 ---
 
 fonte: [twitter](https://twitter.com/tracheopteryx/status/1473314953713045507)
+
 ---
 
 ##### 1
@@ -23,6 +24,7 @@ Ajudei dezenas de novatos no espaço nos últimos 18 meses e o que geralmente é
 Aqui está um fio sobre como descobrir isso:
 
 ![3_1473291057580367879](3_1473291057580367879.jpg?w=1200&h=1200)
+
 ---
 
 ##### 2
@@ -32,6 +34,7 @@ Em um DAO real, o trabalho acontece de forma diferente.
 É como a diferença entre um robô e uma ameba – DAOs são como tigelas de aminoácidos esperando que algum ribossomo venha e os empilhe em proteínas, não como um servomotor cuidadosamente projetado aguardando seu impulso elétrico predefinido.
 
 ![3_1473314358570766343](3_1473314358570766343.jpg?w=1200&h=630)
+
 ---
 
 ##### 3
@@ -43,6 +46,7 @@ Você está na sopa, e precisa descobrir o que fazer com muito pouca orientaçã
 Sofremos centenas de anos de informações distorcidas para construir a ideia de uma "ética de trabalho"... <br>
 
 <img src="Yoda.gif" width="100%">
+
 ---
 
 ##### 4
@@ -52,6 +56,7 @@ Sofremos centenas de anos de informações distorcidas para construir a ideia de
 A maioria de nós está tão divorciada da conexão com nossas próprias necessidades e desejos internos que é quase impossível responder à pergunta "o que eu realmente quero?"
 
 ![3_1473305925603803143](3_1473305925603803143.jpg?w=520&h=355)
+
 ---
 
 ##### 5
@@ -59,6 +64,7 @@ A maioria de nós está tão divorciada da conexão com nossas próprias necessi
 E, por mais estranho que pareça, essa é a pergunta que os DAOs precisam que respondamos.
 
 Porque, como a biologia, os DAOs confiam em cada um de nós seguindo nossa própria sabedoria. Cada componente de um DAO precisa ser capaz de decidir por si mesmo o que fazer através do autoconhecimento e da percepção em tempo real do todo.
+
 ---
 
 ##### 6
@@ -66,6 +72,7 @@ Porque, como a biologia, os DAOs confiam em cada um de nós seguindo nossa próp
 Esta não é uma "organização horizontal". Este conceito não funciona. A hierarquia é uma característica essencial da nossa realidade (o sol é maior que a terra, supere isso).
 
 O importante é uma hierarquia fluida onde o líder é quem sabe o que fazer a seguir. (E também processo e estrutura.)
+
 ---
 
 ##### 7
@@ -78,6 +85,7 @@ Vou percorrer cada círculo.
 <td> <img src="3_1473304133268643850.jpg" style="width: 500px;"/> </td>
 <td> <img src="3_1473304319655043081.jpg" style="width: 500px;"/> </td>
 </tr></table>
+
 ---
 
 ##### 8
@@ -87,6 +95,7 @@ Vou percorrer cada círculo.
 Qualquer coisa neste círculo é valiosa para o DAO. Verifique problemas no github, quadros de recompensas, páginas do Notion, canais do Discord ou quaisquer outros recursos que o DAO tenha para revelar o trabalho necessáro.
 
 Encontre algum trabalho que chame sua atenção e faça-o.
+
 ---
 
 ##### 9
@@ -96,6 +105,7 @@ Encontre algum trabalho que chame sua atenção e faça-o.
 Nem todas as contribuições têm o mesmo valor. Se você pode ganhar $ 1.000/h como designer de logotipo, em geral esse tipo de trabalho será de maior utilidade para o DAO do que algo pelo qual você não pode ser pago muito.
 
 Mas esse não é o único fator.
+
 ---
 
 ##### 10
@@ -105,6 +115,7 @@ Mas esse não é o único fator.
 Talvez você seja pago muito bem por logotipos, mas se você odeia fazê-los, é provável que eles não sejam tão bons e, além disso, você não fique por muito tempo.
 
 A vida é muito curta para não fazer o que você ama. E o trabalho feito com amor é sempre mais forte.
+
 ---
 
 ##### 11
@@ -113,7 +124,8 @@ A vida é muito curta para não fazer o que você ama. E o trabalho feito com am
 
 Uma das grandes alegrias do mundo é trabalhar com colegas brilhantes. Imagine como seria se cada um de nós fizesse o que somos melhores?
 
-(Não preciso imaginar, contribuo em [@iearnfinance](https://twitter.com/iearnfinance) e [@coordinape](https://twitter.com/coordinape).)
+(Não preciso imaginar, contribuo em [@iearnfinance](https://twitter.com/iearnfinance) e [@coordinape](https://twitter.com/coordinape))
+
 ---
 
 ##### 12
@@ -125,6 +137,7 @@ Que trabalho será de maior valor para o DAO?
 Como posso ser mais útil?
 
 Tudo no círculo "o que o DAO precisa" é valioso, mas são as áreas vermelhas que serão mais valiosas. E no meio é onde a mágica acontece.
+
 ---
 
 ##### 13
@@ -134,6 +147,7 @@ Não precisamos fazer mais gigantes FAANG. O mundo honestamente não pode sobrev
 Trabalhar pode ser uma /alegria/ não um fardo. A compensação pode ser um presente, não uma competição. E talvez 'corporações' possam parecer florestas, não lotes industriais.
 
 ![3_1473312850865278988](3_1473312850865278988.jpg?w=960&h=504)
+
 ---
 
 ##### 14
