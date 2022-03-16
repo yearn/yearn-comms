@@ -76,11 +76,11 @@ Isto é conseguido exigindo que o `msg.sender` em **StealthSafeGuard** seja o no
 
 **StealthSafeGuard** pode ser facilmente implantado com o seguinte script: [/guard/00-stealth-safe-guard-deploy.ts](https://github.com/yearn/hardhat-monorepo/blob/main/packages/strategies-keep3r/scripts/guard/00-stealth-safe-guard-deploy.ts)
 
-Lembre-se de definir corretamente seu endereço `StealthRelayer` no arquivo [utils/contracts.ts](https://github.com/yearn/strategies-keep3r/blob/main/utils/contracts.ts#L73) e inserir corretamente o endereço de seu Safe, ao qual será atribuído como a função `Gerente`, pois o `msg.sender` receberá a função `Proprietário`.
+Lembre-se de definir corretamente seu endereço `StealthRelayer` no arquivo [utils/contracts.ts](https://github.com/yearn/strategies-keep3r/blob/main/utils/contracts.ts#L73) e inserir corretamente o endereço de seu Safe, ao qual será atribuído como a função `Manager`, pois o `msg.sender` receberá a função `Owner`.
 
 ### Executor
 
-A (s) conta(s) que você usará para executar as transações seguras precisaram realizar algumas transações, incluindo vincular algum ETH ao [StealthVault](https://github.com/yearn/hardhat-monorepo/blob/main/packages/stealth-txs/contracts/StealthVault.sol), para poder executar corretamente através do **StealthRelayer**. Além disso, o *Governador* ou *Gerente* do **StealthSafeGuard** precisaria adicionar essas contas como executores. Você pode verificar nas interações do contrato como executá-las. A chave privada do *Executor* também será usada nos scripts abaixo.
+A (s) conta(s) que você usará para executar as transações seguras precisaram realizar algumas transações, incluindo vincular algum ETH ao [StealthVault](https://github.com/yearn/hardhat-monorepo/blob/main/packages/stealth-txs/contracts/StealthVault.sol), para poder executar corretamente através do **StealthRelayer**. Além disso, o *Governor* ou *Manager* do **StealthSafeGuard** precisaria adicionar essas contas como executores. Você pode verificar nas interações do contrato como executá-las. A chave privada do *Executor* também será usada nos scripts abaixo.
 
 ### Interações contratuais
 
@@ -90,8 +90,8 @@ A (s) conta(s) que você usará para executar as transações seguras precisaram
 
 ### StealthRelayer
 
-- *Governador* precisa chamar `.addJob(GnosisSafeAddress)`
-- *Governador* pode desativar a proteção de bloco chamando `setForceBlockProtection(bool)`
+- *Governor* precisa chamar `.addJob(GnosisSafeAddress)`
+- *Governor* pode desativar a proteção de bloco chamando `setForceBlockProtection(bool)`
     - a proteção do bloco deve ser desativada para redes em que os flashbots não são suportados
 - *Executor* pode então chamar `execute(GnosisSafeAddress, data, stealthHash, blockNumber)` usando um pacote flashbots
     - ou `executeWithoutBlockProtection(GnosisSafeAddress, data, stealthHash)` em cadeias sem flashbots
@@ -103,8 +103,8 @@ A (s) conta(s) que você usará para executar as transações seguras precisaram
 
 ### StealthSafeGuard
 
-- *Governador* deve chamar `addExecutor(executor)`
-- *Governador* pode chamar `setOverrideGuardChecks(true)` para desativar todas as verificações de guarda em caso de erro
+- *Governor* deve chamar `addExecutor(executor)`
+- *Governor* pode chamar `setOverrideGuardChecks(true)` para desativar todas as verificações de guarda em caso de erro
 
 ## Solução de problemas e salvaguardas
 
@@ -112,17 +112,17 @@ Adicionar um guarda em um Safe é uma ação extremamente delicada, uma vez que 
 
 **StealthSafeGuard** tem algumas proteções em vigor que garantem que você nunca será trancado fora do seu Safe.
 
-1. O proprietário de **StealthSafeGuard** NÃO deve ser o mesmo Safe que está protegendo
-    1. você deve, em vez disso, definir o Safe com a função de gerente.
-        1. `StealthSafeGuard.setPendingManager(Safe)` como proprietário (segundo Safe)
+1. O "owner" de **StealthSafeGuard** NÃO deve ser o mesmo Safe que está protegendo
+    1. você deve, em vez disso, definir o Safe com a função de "manager".
+        1. `StealthSafeGuard.setPendingManager(Safe)` como "owner" (segundo Safe)
         2. `StealthSafeGuard.acceptManager()` como Safe principal
     2. **StealthSafeGuard** *.owner* deve ser um Safe separado, cujo único objetivo é resgatar o Safe principal em caso de problema.
-2. Tanto o *Proprietário* quanto o *Gerente* podem desativar TODAS AS verificações (requisitos **StealthRelayer** e *Executor*) habilitando uma bandeira
-    1. `StealthSafeGuard.setOverrideGuardChecks(true)` como proprietário (segundo Safe)
-    2. `StealthSafeGuard.setOverrideGuardChecks(false)` como proprietário (segundo Safe)
+2. Tanto o *Owner* quanto o *Manager* podem desativar TODAS AS verificações (requisitos **StealthRelayer** e *Executor*) habilitando uma bandeira
+    1. `StealthSafeGuard.setOverrideGuardChecks(true)` como "owner" (segundo Safe)
+    2. `StealthSafeGuard.setOverrideGuardChecks(false)` como "owner" (segundo Safe)
         1. lembre-se de que a bandeira precisa ser ajustada manualmente para falso
-3. Tanto o *Proprietário* quanto o *Gerente* podem alterar o **StealthRelayer** chamando `StealthSafeGuard.setStealthRelayer(address_newStealthRelayer)`
-4. Tanto o *Proprietário* quanto o *Gerente* podem adicionar e remover endereços de executores
+3. Tanto o *Owner* quanto o *Manager* podem alterar o **StealthRelayer** chamando `StealthSafeGuard.setStealthRelayer(address_newStealthRelayer)`
+4. Tanto o *Owner* quanto o *Manager* podem adicionar e remover endereços de executores
     1. `StealthSafeGuard.addExecutor(address_executor)`
     2. `StealthSafeGuard.removeExecutor(address _executor)`
 
@@ -161,7 +161,7 @@ Em seguida, você pode executar o script para pegar a primeira Tx do Safe na fil
 
 **StealthSafeGuard** existe graças aos esforços das equipes Flashbots, Gnosis e Yearn.
 
-- A equipe da Gnosis adicionou o sistema de guarda em sua [versão 1.3.0 dos contratos do Safe](https://github.com/gnosis/safe-contracts/releases/tag/v1.3.0)
+- A equipe da Gnosis adicionou o sistema de guarda em sua [safe-contracts versão 1.3.0](https://github.com/gnosis/safe-contracts/releases/tag/v1.3.0)
 - A equipe Flashbots fornece a base sobre a qual a stealth-tx pode ser executada com segurança e precisão
 
 ### Interessado em construir soluções semelhantes?
