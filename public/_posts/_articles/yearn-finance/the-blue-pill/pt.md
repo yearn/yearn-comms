@@ -1,7 +1,7 @@
 ---
 title:  "A Pílula Azul"
 image:
-src: ./cover.png
+  src: ./cover.png
   width: 711
   height: 474
 date: '2021-06-01'
