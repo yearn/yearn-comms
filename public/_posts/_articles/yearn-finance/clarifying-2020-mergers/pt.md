@@ -1,9 +1,9 @@
 ---
 title:  "Esclarecendo Fusões 2020; Um Iron Bank Independente"
 image:
-src: ./cover.png
-width: 1280
-height: 800
+  src: ./cover.png
+  width: 1280
+  height: 800
 date: '2022-02-25'
 author: Weaver
 translator: jameskbh
