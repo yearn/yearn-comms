@@ -23,9 +23,9 @@ Un tablero interactivo completo que se puede usar para analizar datos histórico
 
 Un panel creado por estrategas para estrategas que contiene acceso rápido a datos útiles sobre el estado de las estrategias para cada yVault.
 
-### **[Las vaults de Yearn](https://vaults.yearn.finance/)**
+### **[Las Vaults de Yearn](https://vaults.yearn.finance/)**
 
-"Las vaults de Yearn" es un excelente recurso para comenzar a comprender cómo una vault administra los fondos. Aquí encontrará descripciones de todas las yVaults y sus estrategias:
+"Las Vaults de Yearn" es un excelente recurso para comenzar a comprender cómo una vault administra los fondos. Aquí encontrará descripciones de todas las yVaults y sus estrategias:
 
 ![](./image1.jpg?w=1211&h=733)
 
@@ -52,7 +52,7 @@ Visión de Yearn es un conjunto completo de paneles de análisis con muchas vist
 
 ![](./image4.jpg?w=1400&h=445)
 
-Esta página nos brinda mucha información sobre el estado general de todas las vaults de Yearn.
+Esta página nos brinda mucha información sobre el estado general de todas las Vaults de Yearn.
 
 Hay información sobre TVL (Valor total bloqueado) que representa todos los fondos depositados en todas las vaults. Podemos ver el TVL total de Ethereum y Fantom como también la fracción de cada red. Hay algunos gráficos que muestran deltas diarios/semanales, que son comparaciones con datos actuales y pasados. El "precio de la acción" también es una métrica importante a seguir, que representa las ganancias de por vida de la vault en forma de un número que crece con el tiempo por encima de 1.0. A continuación podrás ver un ejemplo del precio de acción de ETH a YETH. Así es como funciona el "precio de las acciones":
 
