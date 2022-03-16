@@ -1,5 +1,5 @@
 ---
-title: "Yearn Finance fsz Parceria com Tenderly para Turbinar Desenvolvimento, Depuração & Análise de Incidentes"
+title: "Yearn Finance faz Parceria com Tenderly para Turbinar Desenvolvimento, Depuração & Análise de Incidentes"
 image:
   src: ./cover.png
   width: 1280
