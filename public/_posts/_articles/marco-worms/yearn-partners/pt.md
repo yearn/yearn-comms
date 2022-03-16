@@ -1,7 +1,7 @@
 ---
 title:  "Parceiros de Yearn: Construindo usando yVaults"
 image:
-src: ./cover.png
+  src: ./cover.png
   width: 1500
   height: 729
 date: '2022-03-07'
