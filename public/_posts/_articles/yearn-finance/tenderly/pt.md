@@ -2,8 +2,8 @@
 title: "Yearn Finance fsz Parceria com Tenderly para Turbinar Desenvolvimento, Depuração & Análise de Incidentes"
 image:
   src: ./cover.png
-width: 1280
-height: 800
+  width: 1280
+  height: 800
 date: '2022-03-02'
 author: Weaver
 translator: jameskbh 
