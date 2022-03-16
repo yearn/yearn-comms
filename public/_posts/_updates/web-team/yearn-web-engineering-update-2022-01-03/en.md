@@ -1,19 +1,17 @@
 ---
 layout: post
-title: "Web Engineering Update: Jan. 3rd"
+title: "Web Engineering Update: Jan. 3, 2022"
 categories: [Updates]
 image:
   src: ./logo.png
   width: 1256
   height: 1024
 author: Dudesahn
-date: "2022-01-03"
+date: "2022-01-05"
 translator:
 ---
 
-original source: https://yearnweb.substack.com/p/update-jan-5-2022
-
-# Yearn Web Engineering Update
+original source: [Web Engineering Update 4 Jan](https://yearnweb.substack.com/p/update-jan-5-2022)
 
 #### Week of January 3, 2022
 
@@ -24,7 +22,6 @@ Release of v3 beta site to production in December has gone well. We continue to 
 ## **Accomplishments**
 
 - Release 1.0.4
-
   - Fix: alchemy link on footer
   - Fix: pickle API link
   - Fix: labs deposit expected token amount
@@ -45,11 +42,9 @@ Release of v3 beta site to production in December has gone well. We continue to 
 ## **Ongoing Focus and Outstanding Issues**
 
 - Cycle Focus: Web Security
-
   - In response to the increasing sophistication of front-end attacks on DeFi protocols, we have spent the last several weeks designing and implementing several improvements to Yearn's web security, including monitoring, real-time verification, and implementation of a web multisig. More details to follow upon release.
 
 - Vault migration bug
-
   - Some users have reported an issue when migrating vaults requiring a page refresh for their new vault balance to appear. While this issue has proven a bit difficult to replicate, engineers are debugging this week.
 
 ## **Come Build with us!**

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web Engineering Update: Jan. 10th"
+title: "Web Engineering Update: Jan. 10 2022"
 categories: [Updates]
 image:
   src: ./logo.png
@@ -11,9 +11,7 @@ date: "2022-01-12"
 translator:
 ---
 
-original source: https://yearnweb.substack.com/p/yearn-web-engineering-update
-
-# Yearn Web Engineering Update
+original source: [Web Engineering Update 10 Jan](https://yearnweb.substack.com/p/yearn-web-engineering-update)
 
 #### Week of 10 Jan 2022
 
@@ -26,12 +24,10 @@ This week saw several updates to yearn-meta, including token and strategy descri
 ## **Accomplishments ✅**
 
 - Release 1.0.5
-
   - fix: tx token price update
   - fix: downgrade bnc-onboard
 
 - Release 1.0.6
-
   - refactor: pin new dependencies
   - fix: add dev timeouts for reduxtoolkit
   - feat: supported assets validation \[WEB-1060\] (#418)
@@ -41,7 +37,6 @@ This week saw several updates to yearn-meta, including token and strategy descri
   - feat: remove unsupported tokens (#425)
 
 - Miscellaneous
-
   - fix: handle custom vaults response on camelCase to snake_case (web-1104)
   - fix: refactor normalize casing of composite object (web-1103)
   - fix: paginate token balances (web-1125)
@@ -63,11 +58,9 @@ This week saw several updates to yearn-meta, including token and strategy descri
 ## **Ongoing Focus and Outstanding Issues**
 
 - Cycle Focus: Web Security
-
   - Two-week cycle continues our focus on mitigating front-end attacks. Be on the lookout for an in-depth post regarding these updates once they are completed.
 
 - Outstanding Issues
-
   - Update test suite for SDK
   - Improve simulation errors to be more specific and informative
   - Refactor APY code in API and write documentation

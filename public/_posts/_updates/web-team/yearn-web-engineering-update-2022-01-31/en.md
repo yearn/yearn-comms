@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web Engineering Update: Jan 31, 2022"
+title: "Web Engineering Update: Jan. 31, 2022"
 categories: [Updates]
 image:
   src: ./logo.png
