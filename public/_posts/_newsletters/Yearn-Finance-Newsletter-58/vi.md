@@ -78,7 +78,7 @@ Bạn có thể truy cập các kho bạc được liệt kê ở những trang 
 
 ![](./image5.png?w=1400&h=670)
 
-Tenderly nổi như cồn từ đợt gây quỹ `Series B` 40&nbsp;Triệu&nbsp;$ gần đây, nền tảng công cụ phát triển Ethereum này đã chính thức đặt quan hệ đối tác với chúng tôi tại Yearn.
+Tenderly nổi như cồn từ đợt gây quỹ `Series B` 40 Triệu $ gần đây, nền tảng công cụ phát triển Ethereum này đã chính thức đặt quan hệ đối tác với chúng tôi tại Yearn.
 
 Dường như Yearn đã trở thành gã khổng lồ trong thế giới ĐeFi với hơn 300 hợp đồng thông minh (`smart contract`) chỉ tính riêng cho các kho bạc v2. Đó mới chỉ là bề nổi của tảng băng chìm, chúng tôi còn đã lập trình rất nhiều hợp đồng (`contract`) kho bạc v1, cơ sở hạ tầng keep3r, hợp đồng (`contract`) `helper` và triển khai ở các chuỗi bên (`sidechain`).
 
@@ -99,7 +99,6 @@ Việc Andre "nghỉ hưu" không ảnh hưởng gì đến hoạt động hàng
 # Các Kho bạc (`Vault`) tại Yearn
 
 Bạn có thể đọc mô tả chi tiết các chiến lược của mọi yVault đang hoạt động [tại đây](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
-
 
 # Tin tức trong Hệ Sinh thái
 
