@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Bản tin Yearn.Finance Số #56"
 image:
   src: ./cover.png
@@ -18,7 +19,7 @@ Chào mừng các bạn đến với Bản tin Yearn.Finance Số #56! Chúng t�
 ## Tóm tắt
 
 - Đề xuất Nâng cấp Hệ thống Đãi ngộ của Yearn
-- Yearn Đã Mua lại Thêm 127.9 YFI Trị giá 3.9&nbsp;Triệu&nbsp;$
+- Yearn Đã Mua lại Thêm 127.9 YFI Trị giá 3.9 Triệu $
 - Người dùng Yearn Được Nhận Phù hiệu NFT từ Project Galaxy
 - Đọc Kiểm toán Trình Giám sát Đối tác Mới của Yearn
 - Yearn được Đề cập trong Báo cáo Ý tưởng Lớn của ARK Invest
@@ -39,12 +40,9 @@ Chúng tôi mời bạn tham gia, góp ý và biểu quyết trong cuộc bỏ p
 
 Kiểm tra đề xuất nói trên [tại đây](https://gov.yearn.finance/t/proposal-streamlining-contributor-compensation/12247).
 
+# Yearn Đã Mua lại Thêm 127.9 YFI Trị giá 3.9 Triệu $
 
-
-# Yearn Đã Mua lại Thêm 127.9 YFI Trị giá 3.9&nbsp;Triệu&nbsp;$
-
-
-Thể theo `YIP-56: BABY (Mua lại và Xây dựng Yearn)` được thông qua vào tháng 01/2021, chúng tôi rất vinh dự thông báo Ngân khố (`Treasury`) của Yearn đã mua lại thêm 127.9 đồng YFI từ thị trường tự do, trị giá 3.9&nbsp;triệu&nbsp;$.
+Thể theo `YIP-56: BABY (Mua lại và Xây dựng Yearn)` được thông qua vào tháng 01/2021, chúng tôi rất vinh dự thông báo Ngân khố (`Treasury`) của Yearn đã mua lại thêm 127.9 đồng YFI từ thị trường tự do, trị giá 3.9 triệu $.
 
 Trong tương lai, Ngân khố (`Treasury`) Yearn sẽ tiếp tục đầu cơ đồng YFI định kỳ bằng cách dùng lợi nhuận mà giao thức thu được, trừ khi có đề xuất quản trị mới làm thay đổi chính sách mua lại này. Bạn có thể đọc nội dung về đề xuất BABY <g1>ở liên kết này</g1>.
 
@@ -59,7 +57,6 @@ Nhờ sự trợ giúp của các đối tác ở `Project Galaxy`, chúng tôi 
 Những ai đã đặt cọc (`stake`) bất kỳ lượng tiền nào vào Yearn, Alpha hay Badger đều sẽ được tưởng thưởng phù hiệu “Yield Farmer - DeFi 101”. Hãy chú ý theo dõi những món quà tiếp theo từ chúng tôi trong tương lai!
 
 Lấy phần thưởng sắp tới của bạn tại [galaxy.eco/coingecko](https://twitter.com/ProjectGalaxyHQ/status/1487048124182921220?s=20&t=Z5Z2328-bsM-BNCp9d1KAA) và xem nội dung đầy đủ [ở đây](https://twitter.com/ProjectGalaxyHQ/status/1487048124182921220?s=20&t=Z5Z2328-bsM-BNCp9d1KAA).
-
 
 # Đọc Kiểm toán Trình Giám sát Đối tác Mới của Yearn
 
