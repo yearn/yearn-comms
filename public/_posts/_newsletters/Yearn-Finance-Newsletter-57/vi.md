@@ -71,7 +71,7 @@ Tại Yearn, chúng tôi cực kỳ coi trọng vấn đề bảo đảm an toà
 
 Gần đây, Yearn đã trả 200,000$ tiền thưởng cho một hắc-kơ "mũ trắng" tìm ra và tiết lộ có trách nhiệm về một lỗ hổng bảo an qua Immunefi. Lỗ hổng đó đã được khắc phục, chiến lược liên quan đã được viết lại nội trong vòng hai tuần.
 
-Đọc thông cáo về lỗ hổng này [tại đây](https://github.com/yearn/yearn-security/blob/master/disclosures/2022-01-30.md). Kiếm lên đến 200&nbsp;000&nbsp;$ tiền thưởng tại [Immunefi](https://immunefi.com/bounty/yearnfinance/) cũng như EthDenver [ở liên kết này](https://www.ethdenver.com/bounties/yearn-finance).
+Đọc thông cáo về lỗ hổng này [tại đây](https://github.com/yearn/yearn-security/blob/master/disclosures/2022-01-30.md). Kiếm lên đến 200,000$ tiền thưởng tại [Immunefi](https://immunefi.com/bounty/yearnfinance/) cũng như EthDenver [ở liên kết này](https://www.ethdenver.com/bounties/yearn-finance).
 
 # Quy trình Duyệt Chiến lược ở Yearn
 
@@ -81,7 +81,7 @@ Theo sau lần trước ở [Các Kho bạc và Chiến lược Yearn](https://m
 
 Đầu tiên, một Chiến lược gia phải soạn ra tư liệu thẩm định nêu rõ các rủi ro giao thức cơ bản. Sau đó, triển khai chiến lược theo [mẫu của Yearn](https://github.com/yearn/brownie-strategy-mix) trên trang ape.tax. Sau vài lần thu hoạch, "Ủy ban Canh tác An toàn" tại Yearn duyệt thông qua chiến lược bên cạnh các thẩm định gia nội bộ khác.
 
-Sau khi nhận được góp ý cũng như giải quyết các mối lo ngại, chiến lược mới có thể chính thức phát hành trên trang web [yearn.finance](http://yearn.finance/). Chiến lược gia mới sẽ kiếm được 10% phí thành quả, và có những công tác buộc phải đáp ứng ở các cột mốc nhất định. Ở 10 Triệu $ TVL, cần có 3 người thường trực "canh gác" chiến lược. Ở 100&nbsp;Triệu&nbsp;$ TVL trở lên, một công ty kiểm toán bên ngoài và các thẩm định gia nội bộ sẽ liên tục thanh tra chiến lược.
+Sau khi nhận được góp ý cũng như giải quyết các mối lo ngại, chiến lược mới có thể chính thức phát hành trên trang web [yearn.finance](http://yearn.finance/). Chiến lược gia mới sẽ kiếm được 10% phí thành quả, và có những công tác buộc phải đáp ứng ở các cột mốc nhất định. Ở 10 Triệu $ TVL, cần có 3 người thường trực "canh gác" chiến lược. Ở 100 Triệu $ TVL trở lên, một công ty kiểm toán bên ngoài và các thẩm định gia nội bộ sẽ liên tục thanh tra chiến lược.
 
 Nếu muốn đóng góp, hãy tham dự kênh [Discord](https://discord.com/invite/8rF374XkXy) chính thức, tạo đề tài (`issue`) ở một trong các tập mã nguồn (`repo`) như đã nói tại Medium, hoặc chia sẻ thiết kế của bạn với chúng tôi trên [Twitter](https://twitter.com/iearnfinance)!
 
