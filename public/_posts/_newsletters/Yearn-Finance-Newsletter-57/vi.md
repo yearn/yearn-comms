@@ -10,6 +10,7 @@ author: Yearn
 date: "2022-02-15"
 translator: 🤖💵💵💰💰.eth
 ---
+
 ### Tuần Kết thúc Ngày 15/02/2022
 
 ![](./image1.jpg?w=1456&h=733)
@@ -32,7 +33,7 @@ Chào mừng các bạn đến với Bản tin Yearn.Finance Số #57! Chúng t�
 
 YIP-66, đề cập kế hoạch đãi ngộ mới ở Yearn cũng như hy vọng đạt quyền tự chủ trong việc hiện thực hóa nó, đã vượt qua giai đoạn biểu quyết và sẽ tích hợp vào giao thức.
 
-Trong chỉ Q4 2021, các Chiến lược gia thu về 5&nbsp;142&nbsp;137&nbsp;$ phí thành quả. Để quản lý quy mô thanh toán này, YIP-65 được thiết kế làm giải pháp toàn năng cho hệ sinh thái ĐAO của Yearn.
+Trong chỉ Q4 2021, các Chiến lược gia thu về 5,142,137$ phí thành quả. Để quản lý quy mô thanh toán này, YIP-65 được thiết kế làm giải pháp toàn năng cho hệ sinh thái ĐAO của Yearn.
 
 Tuy nhiên, một số cho rằng đề xuất này làm phức tạp quá tiến trình đãi ngộ hiện tại, gây ra vấn đề về thuế má, hay coi nhẹ thành quả tốt bấy giờ của Chiến lược gia. Tất cả các điểm trên sẽ được chú tâm tháo gỡ, đặc biệt khi cuộc biểu quyết đã duyệt qua, với mục tiêu quản lý ĐAO hiệu quả hơn nữa.
 
@@ -68,7 +69,7 @@ Xem toàn bộ nội dung [tại đây](https://medium.com/iearn/yearn-finance-w
 
 Tại Yearn, chúng tôi cực kỳ coi trọng vấn đề bảo đảm an toàn nhằm đem lại hoa lợi tối đa mà đỡ rủi ro nhất cho người dùng trong thế giới ĐeFi.
 
-Gần đây, Yearn đã trả 200&nbsp;000&nbsp;$ tiền thưởng cho một hắc-kơ "mũ trắng" tìm ra và tiết lộ có trách nhiệm về một lỗ hổng bảo an qua Immunefi. Lỗ hổng đó đã được khắc phục, chiến lược liên quan đã được viết lại nội trong vòng hai tuần.
+Gần đây, Yearn đã trả 200,000$ tiền thưởng cho một hắc-kơ "mũ trắng" tìm ra và tiết lộ có trách nhiệm về một lỗ hổng bảo an qua Immunefi. Lỗ hổng đó đã được khắc phục, chiến lược liên quan đã được viết lại nội trong vòng hai tuần.
 
 Đọc thông cáo về lỗ hổng này [tại đây](https://github.com/yearn/yearn-security/blob/master/disclosures/2022-01-30.md). Kiếm lên đến 200&nbsp;000&nbsp;$ tiền thưởng tại [Immunefi](https://immunefi.com/bounty/yearnfinance/) cũng như EthDenver [ở liên kết này](https://www.ethdenver.com/bounties/yearn-finance).
 
@@ -80,7 +81,7 @@ Theo sau lần trước ở [Các Kho bạc và Chiến lược Yearn](https://m
 
 Đầu tiên, một Chiến lược gia phải soạn ra tư liệu thẩm định nêu rõ các rủi ro giao thức cơ bản. Sau đó, triển khai chiến lược theo [mẫu của Yearn](https://github.com/yearn/brownie-strategy-mix) trên trang ape.tax. Sau vài lần thu hoạch, "Ủy ban Canh tác An toàn" tại Yearn duyệt thông qua chiến lược bên cạnh các thẩm định gia nội bộ khác.
 
-Sau khi nhận được góp ý cũng như giải quyết các mối lo ngại, chiến lược mới có thể chính thức phát hành trên trang web [yearn.finance](http://yearn.finance/). Chiến lược gia mới sẽ kiếm được 10% phí thành quả, và có những công tác buộc phải đáp ứng ở các cột mốc nhất định. Ở 10&nbsp;Triệu&nbsp;$ TVL, cần có 3 người thường trực "canh gác" chiến lược. Ở 100&nbsp;Triệu&nbsp;$ TVL trở lên, một công ty kiểm toán bên ngoài và các thẩm định gia nội bộ sẽ liên tục thanh tra chiến lược.
+Sau khi nhận được góp ý cũng như giải quyết các mối lo ngại, chiến lược mới có thể chính thức phát hành trên trang web [yearn.finance](http://yearn.finance/). Chiến lược gia mới sẽ kiếm được 10% phí thành quả, và có những công tác buộc phải đáp ứng ở các cột mốc nhất định. Ở 10 Triệu $ TVL, cần có 3 người thường trực "canh gác" chiến lược. Ở 100&nbsp;Triệu&nbsp;$ TVL trở lên, một công ty kiểm toán bên ngoài và các thẩm định gia nội bộ sẽ liên tục thanh tra chiến lược.
 
 Nếu muốn đóng góp, hãy tham dự kênh [Discord](https://discord.com/invite/8rF374XkXy) chính thức, tạo đề tài (`issue`) ở một trong các tập mã nguồn (`repo`) như đã nói tại Medium, hoặc chia sẻ thiết kế của bạn với chúng tôi trên [Twitter](https://twitter.com/iearnfinance)!
 
