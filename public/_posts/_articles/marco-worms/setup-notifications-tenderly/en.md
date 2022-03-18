@@ -8,7 +8,7 @@ date: '2022-03-18'
 author: Marco_Worms
 translator:
 ---
-In the article where Yearn announced a partnership with Tenderly there was a section that we said:
+In the [article where Yearn announced a partnership with Tenderly](https://medium.com/iearn/yearn-finance-partners-with-tenderly-to-supercharge-development-debugging-incident-analysis-6489260298a5) there was a section that we said:
 
 > “Tenderly has built-in customizable alerts that allow even novice users to create alerts on virtually any on-chain event.”
 > 
