@@ -1,7 +1,7 @@
 ---
 title:  "Setup notifications for blockchain transactions with Tenderly"
 image:
-  src: ./cover.png
+  src: ./image1.jpg
   width: 1500
   height: 729
 date: '2022-03-18'
