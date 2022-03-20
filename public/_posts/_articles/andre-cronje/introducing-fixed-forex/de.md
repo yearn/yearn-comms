@@ -6,7 +6,7 @@ image:
   height: 300
 author: Andre
 date: '2021-07-02'
-translator: "Nesyeth"
+translator: Nesyeth
 ---
 
 # Einführung von festen Devisen (USD, EUR, ZAR, JPY, CNY, usw.)
