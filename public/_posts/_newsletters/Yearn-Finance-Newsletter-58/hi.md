@@ -38,7 +38,7 @@ translator: jengajojo
 
 इस तिजोरी में प्रवेश करने के लिए, आपको आर्बिट्रम को मेटामास्क, ब्रिज वाया सिनैप्स, हॉप, या आधिकारिक आर्बिट्रम ब्रिज, [curve.fi](https://arbitrum.curve.fi/) पर ट्राईक्रिप्टो में तरलता जोड़ने की आवश्यकता होगी, और अंत में, [yearn.finance/vaults](http://yearn.finance/vaults) पर जमा करें।
 
-हम आपको [Discord](https://discord.gg/8rF374XkXy), [Twitter](http://twitter.com/iearnfinance) पर जुड़कर, शामिल होने, प्रतिक्रिया देने और यर्न  समुदाय में भाग लेने के लिए आमंत्रित करते हैं, या [github] (http://github.com/yearn)। आओ हमारे साथ निर्माण करें।
+हम आपको [Discord](https://discord.gg/8rF374XkXy), [Twitter](http://twitter.com/iearnfinance) पर जुड़कर, शामिल होने, प्रतिक्रिया देने और यर्न  समुदाय में भाग लेने के लिए आमंत्रित करते हैं, या [github](http://github.com/yearn)। आओ हमारे साथ निर्माण करें।
 
 # यर्न सुरक्षा समीक्
 
