@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Atualização de Engenharia Web: 07 de março de 2022"
-categories: [Atualizações]
+categories: [Updates]
 image:
   src: ./logo.png
   width: 1256
