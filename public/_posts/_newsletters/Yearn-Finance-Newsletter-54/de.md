@@ -2,17 +2,18 @@
 layout: post
 title: "Yearn Finance Newsletter #54"
 categories: [Newsletters]
-image: ./Yearn-Finance-Newsletter-54/image1.png
+image:
+  src: ./cover.png
+  width: 1152
+  height: 576
 author: Yearn
-translator: "Nesyeth"
-publish: true
+date: '2022-01-20'
+translator: Nesyeth
 ---
-
-# Yearn Finance Newsletter #54
 
 ### Woche bis zum 16. Januar 2022
 
-![](image1.png)
+![](./image1.jpg?w=1100&h=554)
 
 Willkommen zur 54. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter möchten wir die Yearn- und die breitere Krypto-Community über die neuesten Nachrichten informieren, darunter Produkteinführungen, Änderungen in der Unternehmensführung und Aktualisierungen im Ökosystem. Wenn du mehr über Yearn Finance erfahren möchtest, folge unserem offiziellen [Twitter](https://twitter.com/iearnfinance)- und [Medium](https://medium.com/iearn)-Konten.
 
@@ -28,7 +29,7 @@ Willkommen zur 54. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter 
 
 # Sieben neue Fantom Vaults stellen sich vor
 
-![](image2.png)
+![](./image2.jpg?w=550&h=733.5)
 
 Bei Fantom kommen diese sieben Vaults hinzu: WBTC, WETH, SPELL, DOLA, Curve Tricrypto, Curve Geist, und CRV
 
@@ -38,7 +39,7 @@ Was willst du tun? Beginne noch heute mit der Einzahlung unter [yearn.finance/va
 
 # Neue Curve Vaults Live
 
-![](image3.png)
+![](./image3.jpg?w=644&h=464)
 
 Auf Ethereum sind die folgenden neuen Curve Vaults jetzt live: CVX-ETH, CRV-ETH, 3EUR, UST Wormhole, USDPax, DOLA und RAI - der erste Vault, der Reflexers eigene Curve-Implementierung nutzt
 
@@ -50,7 +51,7 @@ Sieh dir die neuen Vaults [hier](https://yearn.finance/#/vaults) an.
 
 # Aktualisierung von Yearn Web
 
-![](image4.png)
+![](./image4.jpg?w=450&h=367)
 
 Das dieswöchige Yearn-Web-Update umfasst mehrere Erstanbieter, die PRs eröffnen, sowie eine verbesserte Backend-Logik für Iron Bank- und Curve LP-Token
 
@@ -60,7 +61,7 @@ Das komplette neue Update findest du [hier](https://yearnweb.substack.com/p/year
 
 # Yearn Finance Vaults: Wir klopfen an DeFis Tür
 
-![](image5.png)
+![](./image5.jpg?w=957&h=538)
 
 Dieser Artikel von BanklessDAO bietet einen vollständigen Überblick über die von Yearn angebotenen Funktionen und zeigt, wie es die Nutzung von DeFi erleichtert.
 
@@ -69,6 +70,8 @@ Insgesamt ist die Verwendung von Yearn Vaults eine Wette darauf, dass das Protok
 Lies den vollständigen Artikel [hier](https://medium.com/bankless-dao/yearn-finance-vaults-knockin-on-defi-s-door-f5e9f56f669a).
 
 # Aktualisierung von yvBOOST
+
+![](./image6.jpg?w=1100&h=569)
 
 Die meisten wissen es vielleicht nicht, aber 1 yvBOOST sammelt 2,2x mehr wöchentliche Curve-Protokollgebühren als 1 veCRV. yvBOOST APR ist auch über 100%, nachhaltig, wobei 1 yvBOOST derzeit 32% billiger ist als 1 CRV. Selbst nach all dem gibt es noch über 5 Millionen Dollar, die an yvBOOST-Inhaber gespendet werden müssen
 
