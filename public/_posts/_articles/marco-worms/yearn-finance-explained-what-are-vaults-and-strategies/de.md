@@ -27,7 +27,7 @@ Die Kurzform für einen Yearn Vault ist **yVault**. In der aktuellen Version von
 
 ## Strategien und Strategen
 
-**Strategen** sind Personen, die eine oder mehrere zugrunde liegende  **Strategien** für yVaults entwickeln
+**Strategen** sind Personen, die eine oder mehrere zugrunde liegende **Strategien** für yVaults entwickeln
 
 [Jeder kann eine Strategie erstellen](https://docs.yearn.finance/developers/v2/getting-started), aber um sie zu yVault hinzuzufügen, muss der Stratege die Strategie durch den [Strategieüberprüfungsprozess](https://docs.yearn.finance/developers/v2/getting-started#overview-of-our-vetting-process) führen, der eine Konzeptüberprüfung, eine Codeüberprüfung, eine Sicherheitsüberprüfung und Mainnet-Tests umfasst.
 
@@ -116,7 +116,7 @@ Wenn du mehr über Vaults und Strategien wissen willst, schau dir diese Quellen 
 - [Externes Video/Artikel von Finematics über yVaults](https://finematics.com/yearn-vaults-eth-vault-explained/)
 - [Zusätzliche Ressourcen von Yearn](https://docs.yearn.finance/developers/v2/additional-resources)
 
-### Nimm die blaue Pille!
+### Nimm die Blaue Pille!
 
 Wenn dir die Vaults und die Abstraktion der Strategien gefallen hat:
 
