@@ -19,7 +19,7 @@ Chào mừng các bạn đến với Bản tin Yearn.Finance Số #56! Chúng t�
 ## Tóm tắt
 
 - Đề xuất Nâng cấp Hệ thống Đãi ngộ của Yearn
-- Yearn Đã Mua lại Thêm 127.9 YFI Trị giá 3.9 Triệu $
+- Yearn Đã Mua lại Thêm 127.9 YFI Trị giá 3.9&nbsp;Triệu&nbsp;$
 - Người dùng Yearn Được Nhận Phù hiệu NFT từ Project Galaxy
 - Đọc Kiểm toán Trình Giám sát Đối tác Mới của Yearn
 - Yearn được Đề cập trong Báo cáo Ý tưởng Lớn của ARK Invest
@@ -40,11 +40,11 @@ Chúng tôi mời bạn tham gia, góp ý và biểu quyết trong cuộc bỏ p
 
 Kiểm tra đề xuất nói trên [tại đây](https://gov.yearn.finance/t/proposal-streamlining-contributor-compensation/12247).
 
-# Yearn Đã Mua lại Thêm 127.9 YFI Trị giá 3.9 Triệu $
+# Yearn Đã Mua lại Thêm 127.9 YFI Trị giá 3.9&nbsp;Triệu&nbsp;$
 
-Thể theo `YIP-56: BABY (Mua lại và Xây dựng Yearn)` được thông qua vào tháng 01/2021, chúng tôi rất vinh dự thông báo Ngân khố (`Treasury`) của Yearn đã mua lại thêm 127.9 đồng YFI từ thị trường tự do, trị giá 3.9 triệu $.
+Thể theo `YIP-56: BABY (Mua lại và Xây dựng Yearn)` được thông qua vào tháng 01/2021, chúng tôi rất vinh dự thông báo Ngân khố (`Treasury`) của Yearn đã mua lại thêm 127.9 đồng YFI từ thị trường tự do, trị giá 3.9&nbsp;triệu&nbsp;$.
 
-Trong tương lai, Ngân khố (`Treasury`) Yearn sẽ tiếp tục đầu cơ đồng YFI định kỳ bằng cách dùng lợi nhuận mà giao thức thu được, trừ khi có đề xuất quản trị mới làm thay đổi chính sách mua lại này. Bạn có thể đọc nội dung về đề xuất BABY <g1>ở liên kết này</g1>.
+Trong tương lai, Ngân khố (`Treasury`) Yearn sẽ tiếp tục đầu cơ đồng YFI định kỳ bằng cách dùng lợi nhuận mà giao thức thu được, trừ khi có đề xuất quản trị mới làm thay đổi chính sách mua lại này. Bạn có thể đọc nội dung về đề xuất BABY [ở liên kết này](https://yips.yearn.finance/YIPS/yip-56).
 
 Để biết thêm thông tin, nội dung chi tiết về những lần mua YFI trước đây do Ngân khố (`Treasury`) Yearn thực hiện được đăng tải [tại đây](https://gov.yearn.finance/t/yfi-buyback-auctions/10491/3).
 
