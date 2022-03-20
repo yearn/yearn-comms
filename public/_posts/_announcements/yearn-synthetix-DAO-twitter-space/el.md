@@ -1,5 +1,5 @@
 ---
-title:  "Yearn & Synthetix DAO twitter space"
+title:  "Twitter Space από το Yearn και το Synthetix DAO"
 image:
   src: ./cover.jpg
   width: 800
