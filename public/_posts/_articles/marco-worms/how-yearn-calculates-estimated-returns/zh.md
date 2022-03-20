@@ -36,7 +36,7 @@ translator: Xiaona
 
 前面说过在大战之前我们的 APY 计算方式很保守，大战期间我们改为根据最近数据来计算 APY。经历这两个极端让我们学到了很多！以下是我们现在的做法：
 
-### 非 curve 机枪池：
+### 非 Curve 机枪池：
 
 ![](./image3.jpg?w=150&h=190)\
 *新 APY 展示 （非 Curve 机枪池）*
@@ -47,7 +47,7 @@ translator: Xiaona
 - **Monthly APY:** 基于最近 30 天的收益率
 - **Inception APY:** 基于自机枪池上线以来至今的收益率
 
-### For vaults that use curve assets:
+### Curve 机枪池:
 
 ![](./image4.jpg?w=182&h=196)\
 *新 APY 展示 （Curve 机枪池）*
