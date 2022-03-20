@@ -159,7 +159,7 @@ recompensas y depósitos en fondos de liquidez en Curve.
 
 - El TVL de Yearn superó los máximos históricos en el tercer trimestre de 2021 que se establecieron en el segundo trimestre de 2021 y tuvo más de $ 5 mil millones en TVL.
 - La mayoría de nuestro TVL se deriva de nuestra línea de productos yVault v2. A fines de mayo y durante todo junio, hicimos la transición de una parte importante de nuestras vaults v1 a vaults v2. Ya no admitimos vaults v1 y alentamos a todos los depositantes a migrar a vaults v2.
-- Iron Bank es la plataforma de préstamos interna de Yearn que está en colaboración con C.R.E.A.M. Finanzas. Continuamos viendo un crecimiento en el TVL de Iron Bank del primer al segundo trimestre.
+- Iron Bank es la plataforma de préstamos interna de Yearn que está en colaboración con C.R.E.A.M. Finance. Continuamos viendo un crecimiento en el TVL de Iron Bank del primer al segundo trimestre.
 - Yearn tiene más de $ 5 mil millones en TVL **sin ningún subsidio simbólico** u otros incentivos que normalmente ofrecen los protocolos de la competencia en DeFi.
 - *Nota: El cuadro presentado arriba es al 30 de septiembre de 2021.*
 - Fuente: Github: [yearn/yearn-exporter](https://github.com/yearn/yearn-exporter)
