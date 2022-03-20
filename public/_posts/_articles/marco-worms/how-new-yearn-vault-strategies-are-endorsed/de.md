@@ -6,7 +6,7 @@ image:
   height: 800
 date: '2022-02-02'
 author: Marco_Worms
-translator: " Delace19"
+translator: Delace19
 ---
 
 ![](./image1.jpg?w=900&h=478)\
