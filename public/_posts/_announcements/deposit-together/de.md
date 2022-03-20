@@ -6,7 +6,7 @@ image:
   height: 344
 author: Yearn
 date: '2021-11-01'
-translator: " Nesyeth"
+translator: Nesyeth
 ---
 
 Ankündigung… 💥
