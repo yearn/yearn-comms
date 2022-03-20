@@ -72,7 +72,7 @@ translator: giosereth
 
 Δείτε το πλήρες άρθρο από του MarcoWorms και Dark Ghosty [εδώ](https://medium.com/iearn/diving-into-yearn-metrics-8c3fb0520927).
 
-Μπορείτε να αποκτήσετε πρόσβαση στα θησαυροφυλάκια που παρατίθενται σε αυτούς τους ιστότοπους και να αρχίσετε να κερδίζετε από σήμερα στη διεύθυνση  [yearn.finance/#/vaults](https://yearn.finance/#/vaults).
+Μπορείτε να αποκτήσετε πρόσβαση στα θησαυροφυλάκια που παρατίθενται σε αυτούς τους ιστότοπους και να αρχίσετε να κερδίζετε από σήμερα στη διεύθυνση [yearn.finance/#/vaults](https://yearn.finance/#/vaults).
 
 # Το Yearn συνεργάζεται με την Tenderly
 
@@ -99,7 +99,6 @@ translator: giosereth
 # Θησαυροφυλάκια στο Yearn 
 
 Μπορείτε να διαβάσετε μια λεπτομερή περιγραφή των στρατηγικών για όλα τα ενεργά yVaults μας [εδώ](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
-
 
 # Τα Νέα του Οικοσυστήματος
 
