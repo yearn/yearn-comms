@@ -1,18 +1,19 @@
 ---
 layout: post
-title: "Yearn Finance Newsletter #53"
+title: "Newsletter #53 de Yearn Finance"
 categories: [Newsletters]
-image: ./Yearn-Finance-Newsletter-53/image1.png
+image:
+  src: ./cover.png
+  width: 1152
+  height: 576
 author: Yearn
+date: '2022-01-11'
 translator: RestlessMik3
-publish: true
 ---
-
-# Newsletter #53 de Yearn Finance 
 
 ### Semana que finaliza el 9 de enero de 2022
 
-![](image1.png)
+![](./image1.jpg?w=1100&h=554)
 
 Bienvenido a la 53.ª edición de la Newsletter de Yearn Finance. Nuestro objetivo con esta newsletter es mantener a Yearn y a la comunidad cripto informada sobre las últimas noticias, incluidos los lanzamientos de productos, los cambios en la gobernanza y las actualizaciones del ecosistema. Si está interesado en obtener más información sobre Yearn Finance, sigue nuestras cuentas oficiales [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn).
 
@@ -27,7 +28,7 @@ Bienvenido a la 53.ª edición de la Newsletter de Yearn Finance. Nuestro objeti
 
 # Transparencia en Yearn
 
-![](image2.png)
+![](./image2.jpg?w=550&h=366)
 
 # Más transparencia. Más alfa.
 
@@ -43,7 +44,7 @@ Lea más sobre las herramientas aquí. Gracias a @0xMajor, @KoxEvan y DarkGhosty
 
 # Actualizaciones web de Yearn
 
-![](image3.png)
+![](./image3.jpg?w=550&h=449)
 
 En un esfuerzo por aumentar la transparencia, varios colaboradores del ecosistema web de Yearn han lanzado un boletín informativo que recopilará nuevas funciones, problemas actuales y actualizaciones planificadas, además de inmersiones periódicas en la pila de tecnología web.
 
@@ -55,7 +56,7 @@ Consulta las actualizaciones [aquí](https://yearnweb.substack.com/p/update-jan-
 
 # Regístrese para la próxima iteración de yAcademyDAO
 
-![](image4.png)
+![](./image4.jpg?w=238&h=243)
 
 Para los que no están familiarizados, yAcademyDAO es un enfoque impulsado por la comunidad para la seguridad de la cadena de bloques. En Yearn, nos tomamos la seguridad muy en serio y yAcademy es una de las iniciativas de nuestro ecosistema para crear seguridad blockchain sostenible y colaborativa y garantizar que el talento se utilice correctamente.
 
