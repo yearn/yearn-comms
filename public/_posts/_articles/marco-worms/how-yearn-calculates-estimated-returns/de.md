@@ -19,7 +19,7 @@ In den letzten Wochen haben wir viele Rückmeldungen darüber erhalten, wie unse
 Im DeFI sehen wir häufig diese beiden Begriffe:
 
 - **APR:** Jährlicher Prozentsatz
-- **APY:** Jährliche prozentuale Rendite
+- **APY:** Jährliche Prozentuale Rendite
 
 Beide werden verwendet, um dem Nutzer mitzuteilen, wie viel Gewinn er bei einer Investition zu erwarten hat:
 
@@ -41,7 +41,7 @@ Vor der oben erwähnten Episode hatten wir also eine sehr konservative Berechnun
 ![](./image3.jpg?w=150&h=190)\
 *Neue APY-Anzeige für den Nicht-Crv-Vault*
 
-- **Brutto effektiver Jahreszins (APY):** Gewölbter effektiver Jahreszins (gesamt) vor abgezogenen Gebühren
+- **Brutto effektiver Jahreszins (APR)** Gewölbter effektiver Jahreszins (gesamt) vor abgezogenen Gebühren
 - **Netto APY:** Aktueller effektiver Jahreszins des Vaults
 - **Wöchentlicher APY:** Basierend auf den Erträgen der letzten 7 Tage
 - **Monatlicher APY:** Basierend auf den Erträgen der letzten 30 Tage
