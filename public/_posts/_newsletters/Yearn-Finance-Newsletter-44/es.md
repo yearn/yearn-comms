@@ -1,5 +1,5 @@
 ---
-title:  "Newsletter #44 de Yearn Finance"
+title: "Newsletter #44 de Yearn Finance"
 image:
   src: ./cover.jpeg
   width: 576
@@ -9,10 +9,7 @@ date: '2021-09-02'
 translator: RestlessMik3
 ---
 
-
-# Newsletter #44 de Yearn Finance 
-
-![](image1.jfif)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/cover.jpeg?w=880&h=440)
 
 Bienvenidos a la edición número 44 de la Newsletter de Yearn Finance. Con esta newsletter nuestra idea es mantener informada a la comunidad de Yearn y de cripto en general con las últimas noticias, incluyendo lanzamiento de productos, cambios de gobernanza y actualizaciones del ecosistema. Si estás interesado en aprender más sobre Yearn Finance, sigue las cuentas oficiales de [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn). 
 
@@ -28,7 +25,7 @@ Bienvenidos a la edición número 44 de la Newsletter de Yearn Finance. Con esta
 
 ## **Resultados de YIP-63**
 
-![](image2.jfif)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image2.jpg?w=1456&h=690)
 
 La votación reciente con respecto a YIP-63, ha resultado en el acuerdo de aportar fondos al DAO LeXpunK. Yearn ha transferido un millón de DAI a la multifirma controlada por Curve Finance, Lido Finance y el DAO LeXpunK.
 
@@ -48,17 +45,17 @@ Completa la encuesta [Aquí](https://yearnfinance.typeform.com/to/ojp3J8gn).
 
 ## **Hemos introducido 4 nuevas vaults**
 
-![](image3.jfif)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image3.jpg?w=611&h=298)
 
 4 nuevas yVaults están ahora disponibles en nuestra web. Deposita hoy y genera rendimiento con tu AAVE, COMP, TUSD y SUSHI.
  
-Las vaults de AAVE, COMP y SUSHI generan rendimiento haciendo staking en universe.xyz, por lo que no se encuentran expuestos a pérdidas impermanentes. TUSD genera rendimiento en Kashi dentro de SushiSwap.
+Las vaults de AAVE, COMP y SUSHI generan rendimiento haciendo staking en [universe.xyz](https://universe.xyz/polymorphs), por lo que no se encuentran expuestos a pérdidas impermanentes. TUSD genera rendimiento en Kashi dentro de SushiSwap.
 
 Puedes ver las últimas APYs de estas vaults y depositar en las mismas haciendo clic en este [Enlace](https://yearn.finance/vaults).
 
 ## **Yearn ha sido Integrado en Defi Saver**
 
-![](image4.jfif)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image4.jpg?w=1012&h=506)
 
 YFI ha sido integrado en el creador de recetas de Defi Saver. Con esta integración, puedes depositar cualquier activo soportado en las vaults de Yearn usando Defi saver, además combinar esta acción con cualquier otra interacción con el protocolo. Algunos ejemplos se encuentran detallados abajo.
  
@@ -70,7 +67,7 @@ Echa un vistazo a otras recetas usando Yearn [Aquí](https://app.defisaver.com/)
 
 ## **No os olvidéis de Woofy**
 
-![](image5.jfif)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image5.jpg?w=986&h=1251)
 
 Al convertir YFI a WOOFY con un cambio de 1 YFI por 1 millón de WOOFY, puedes depositarlo en un fondo de liquidez, utilizar un puente a otras cadenas de bloques como Polygon o Fantom, y depositarlo en [ape.tax](https://ape.tax/) para obtener un rendimiento increíble.
  
