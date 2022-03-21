@@ -1,18 +1,19 @@
 {
-	"title-blog": "Blog",
+	"title-blog": "ब्लॉग",
 	"menu-announcements": "घोषणा",
-	"menu-newsletters": "समाचार पत्रिका",
+	"menu-newsletters": "समाचार पत्र",
 	"menu-tweets": "ट्वीट",
 	"menu-articles": "लेख",
-	"menu-articles-forum": "Forum",
+	"menu-articles-forum": "चर्चा",
 	"menu-articles-yearn": "Yearn.Finance",
-	"menu-updates": "Updates",
-	"menu-podcasts": "Podcasts",
+	"menu-updates": "परिवर्तन",
+	"menu-podcasts": "पॉडकास्ट",
 	"menu-financials": "वित्तीय स्थिति",
-	"menu-financials-quarterly-report": "Quarterly Report",
-	"written-by": "Written by",
-	"translated-by": "Translated by",
+	"menu-financials-quarterly-report": "त्रैमासिक विवरण",
+	"written-by": "लेखक",
+	"translated-by": "अनुवादक",
 	"footer-contribute": "यर्न योगदान",
 	"footer-join": "यर्न ज्ञानप्राप्ति",
-	"footer-vault-at-yearn": "यर्न के वॉल्ट्स"
+	"footer-vault-at-yearn": "यर्न की तिजोरियाँ",
+	"footer-disclaimer": "अस्वीकरण"
 }
