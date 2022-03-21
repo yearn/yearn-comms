@@ -13,7 +13,7 @@ translator: Restlessmik3
 
 ### Semana que finaliza el 23 de enero de 2022
 
-![](image1.png)
+![](./image1.jpg?w=1100&h=554)
 
 Bienvenido a la 55.ª edición de la newsletter de Yearn Finance. Nuestro objetivo con este boletín es mantener a Yearn y a la comunidad cripto informada sobre las últimas noticias, incluidos los lanzamientos de productos, los cambios en la gobernanza y las actualizaciones del ecosistema. Si está interesado en obtener más información sobre Yearn Finance, sigue nuestras cuentas oficiales [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn).
 
@@ -28,7 +28,7 @@ Bienvenido a la 55.ª edición de la newsletter de Yearn Finance. Nuestro objeti
 
 # Estado de las vaults de Fantom
 
-![](image2.png)
+![](./image2.jpg?w=674&h=680)
 
 Con el auge del nuevo proyecto de Andre Cronje y Daniele Sesta, Solidly ve(3,3), los ataques de vampiros han llegado a Fantom para calificar para el lanzamiento aéreo de Solidly a los 20 mejores proyectos de TVL en Fantom.
 
@@ -38,7 +38,7 @@ Para aprovechar esto, puedes guardar tus activos en una cómoda vault de [yearn.
 
 # Destacados del ecosistema Fantom - Yearn
 
-![](image3.png)
+![](./image3.jpg?w=1456&h=819)
 
 El colaborador de Yearn, Tracheopteryx, brinda una breve descripción general de Yearn y nuestra misión, con nuestro enfoque en los usuarios, socios y constructores cotidianos.
 
@@ -50,7 +50,7 @@ Consulte el nuevo artículo completo [aquí](https://fantom.foundation/blog/fant
 
 # Actualizaciones web de Yearn
 
-![](image4.png)
+![](./image4.jpg?w=900&h=734)
 
 La actualización web de Yearn de esta semana incluye información sobre herramientas de desplazamiento de APY agregada a la interfaz de usuario y una corrección de polvo para retiros de vault
 
@@ -60,7 +60,7 @@ Consulte la nueva actualización completa [aquí](https://yearnweb.substack.com/
 
 # Yearn finance explicado
 
-![](image5.png)
+![](./image5.jpg?w=1000&h=531)
 
 Las vaults de Yearn están generando tokens IOU creados por estrategas que llevan a cabo un difícil proceso de investigación para garantizar que los usuarios de Yearn reciban el mejor rendimiento ajustado al riesgo en el ecosistema criptográfico.
 
