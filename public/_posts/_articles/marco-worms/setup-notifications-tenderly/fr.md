@@ -86,10 +86,10 @@ Après avoir cliqué dessus, nous verrons cette page avec tous les détails du c
 ![](./image11.jpg?w=1157&h=757)\
 *Details du SPELL yVault*
 
-Cela ouvrira le [SPELL yVault Contract](https://ftmscan.com/address/0xD3c19eB022CAC706c898D60d756bf1535d605e1d) sur FTMScan (Fantom fork of [Etherscan](https://etherscan.io/)) : 
+Cela ouvrira le [Contrat SPELL yVault](https://ftmscan.com/address/0xD3c19eB022CAC706c898D60d756bf1535d605e1d) sur FTMScan (Fantom fork of [Etherscan](https://etherscan.io/)) : 
 
 ![](./image12.jpg?w=1367&h=845)\
-*[Contract SPELL yVault sur FTMScan](https://ftmscan.com/address/0xD3c19eB022CAC706c898D60d756bf1535d605e1d)*
+*[Contrat SPELL yVault sur FTMScan](https://ftmscan.com/address/0xD3c19eB022CAC706c898D60d756bf1535d605e1d)*
 
 Voici les informations importantes pour notre exemple:
 - D'abord l'adresse du contrat
