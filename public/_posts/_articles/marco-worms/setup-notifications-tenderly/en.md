@@ -1,9 +1,9 @@
 ---
 title: "Setup notifications for blockchain transactions with Tenderly"
 image:
-  src: ./image1.jpg
-  width: 1500
-  height: 729
+  src: ./cover.jpg
+  width: 1200
+  height: 675
 date: '2022-03-18'
 author: Marco_Worms
 translator: 
