@@ -1,98 +1,98 @@
 ---
 layout: post
-title:  "What is Yearn"
+title:  "Τι είναι το Yearn"
 categories: [ Tweets ]
 image: ./What-is-Yearn/3_1446243220468293632.jpg
 author: Wot_Is_Goin_On
-translator:
+translator: giosereth
 publish: true
 ---
 
-original source: [twitter](https://twitter.com/Wot_Is_Goin_On/status/1446540007292952579)
+Αρχική πηγή: [twitter](https://twitter.com/Wot_Is_Goin_On/status/1446540007292952579)
 
 ##### 1
-People had difficulty understanding ETH in mid-2020. It wasn’t clear what the use case would be, TVL was at $8bn and hadn’t grown much in 18 months. Even out of those who believed in Ethereum, there was scepticism around how value would accrue to ETH.
+Ο κόσμος δυσκολευόταν να κατανοήσει το ETH στα μέσα του 2020. Δεν ήταν σαφές ποια θα ήταν η περίπτωση χρήσης του, η Συνολική Κλειδωμένη Αξία (TVL) ήταν κολλημένη στα 8 δισ. δολάρια και δεν είχε αυξηθεί πολύ για 18 μήνες. Ακόμη και ανάμεσα σε εκείνους που πίστευαν στο Ethereum, υπήρχε σκεπτικισμός σχετικά με το πώς θα προέκυπτε αξία για το ETH.
 
 ##### 2
-Fast forward to today and it’s clear there’s a lot that can be built on Ethereum (DeFi, NFTs and gaming), TVL has sky-rocketed to over $100bn and throw in a token burn mechanism and people understand how value accrues to the native token.
+Περνώντας γρήγορα στο σήμερα στο σήμερα και είναι σαφές ότι υπάρχουν πολλά που μπορούν να χτιστούν πάνω στο Ethereum (DeFi, NFTs και παιχνίδια), η Συνολική Κλειδωμένη Αξία (TVL) έχει εκτοξευθεί σε πάνω από 100 δισ. δολάρια και προσθέστε σε όλα αυτά και έναν μηχανισμό καύσης token και κάπως έτσι οι άνθρωποι καταλαβαίνουν πώς η αξία αυξάνεται για το εγγενές token της αλυσίδας.
 
 ##### 3
-In some ways the perception of Yearn today is similar to that of ETH in mid-2020, at least in terms of uncertainty over what will be built on Yearn, its future growth and value accrual to YFI. Even Yearn’s OGs are getting restless.
+Κατά κάποιο τρόπο η αντίληψη για το Yearn σήμερα είναι παρόμοια με εκείνη για το ETH στα μέσα του 2020, τουλάχιστον όσον αφορά την αβεβαιότητα σχετικά με το τι θα χτιστεί στο Yearn, τη μελλοντική του ανάπτυξη και τη δημιουργία αξίας για το YFI. Ακόμη και οι OGs του Yearn αρχίζουν να γίνονται ανήσυχοι.
 
 ![3_1446534086277861380](3_1446534086277861380.jpg)
 
 ##### 4
-Yearn’s TVL has reached an all-time high of over $5bn TVL, achieving this without offering incentives. This is higher than the much-hyped Avalanche and Polygon that trade at multiples compared to YFI.
+Η Συνολική Κλειδωμένη Αξία (TVL) του Yearn έφτασε σε ιστορικά υψηλά επίπεδα άνω των 5 δισ. δολαρίων TVL, επιτυγχάνοντάς το αυτό χωρίς να προσφέρει κίνητρα. Αυτή η Κλειδωμένη Αξία είναι υψηλότερή από τα πολυδιαφημισμένα Avalanche και Polygon που διαπραγματεύονται σε πολλαπλάσια επίπεδα σε σύγκριση με το YFI
 
 ##### 5
-Its vaults have been integrated into Badger, Enzyme Finance, Argent Wallet, [Crypto.com](http://Crypto.com) and the MEW Wallet app on Android. Making vaults widely accessible is a great start, but Yearn is waiting for its killer dapp.
+Τα θησαυροφυλάκια του έχουν ενσωματωθεί από τους Badger, Enzyme Finance, Argent Wallet, [Crypto.com](http://Crypto.com) και την εφαρμογή MEW Wallet στο Android. Η ευρεία πρόσβαση στα θησαυροφυλάκια είναι μια καλή αρχή, αλλά το Yearn περιμένει υπομονετικά το δολοφονικό της dapp.
 
 [medium.com/myetherwallet/…](https://medium.com/myetherwallet/introducing-yearn-vaults-on-mew-wallet-app-android-274818aa830e)
 
 ##### 6
-The first dapp built on Yearn to get product market fit was Alchemix’s self-repaying loans. The sudden jumps in yvDai in early 2021 shown below happened as Yearn had to quickly increase the limits of its most popular vault to keep up with the demand.
+Το πρώτο dapp που δημιουργήθηκε στο Yearn για να αποκτήσει το πρωτόκολλο αγορά προϊόντος ήταν τα αυτοαποπληρούμενα δάνεια του Alchemix. Τα ξαφνικά άλματα στο yvDai στις αρχές του 2021 που φαίνονται παρακάτω συνέβησαν καθώς το Yearn έπρεπε να αυξήσει γρήγορα τα όρια του πιο δημοφιλούς θησαυροφυλακίου του για να συμβαδίσει με τη ζήτηση.
 
 ![3_1446534659123335169](3_1446534659123335169.jpg)
 
 ##### 7
-[@PoolTogether\_](https://twitter.com/PoolTogether_)’s no-loss lottery also opted to earn yield with Yearn. In the UK there’s over £100bn ($140bn) in premium bonds where the lottery distributes a depressing 1% annual yield.
+Η χωρίς απώλειες λοταρία του [@PoolTogether\_](https://twitter.com/PoolTogether_)επέλεξε επίσης να κερδίσει απόδώσεις χρησιμοποιώντας το Yearn. Στο Ηνωμένο Βασίλειο υπάρχουν πάνω από 100 δισεκατομμύρια λίρες (140 δισεκατομμύρια δολάρια) σε ομόλογα με ασφάλιστρα, όπου η λοταρία διανέμει μια καταθλιπτική ετήσια απόδοση της τάξης του 1%.
 
 ##### 8
-If [@element_fi](https://twitter.com/element_fi) can crack fixed income, with Yearn’s vaults (the “yv” tokens) in the background, then we’re talking a total addressable market in the trillions.
+Εαν το [@element_fi](https://twitter.com/element_fi) μπορεί να σπάσει το γρίφο γύρω από την παροχή σταθερού εισόδηματος, με τα θησαυροφυλάκια του Yearn (τα token "yv") στο παρασκήνιο, τότε μιλάμε για μια συνολική αγορά τρισεκατομμυρίων, στην οποία απευθυνόμαστε.
 
 ![3_1446535031292313608](3_1446535031292313608.jpg)
 
 ##### 9
-[@ribbonfinance](https://twitter.com/ribbonfinance)’s put-selling vaults leverage DeFi’s composability so that the USDC is earning a yield with Yearn in the background.
+Τα θησαυροφυλάκια του [@ribbonfinance](https://twitter.com/ribbonfinance) αξιοποιούν τη δυνατότητα σύνθεσης που παρέχει η Αποκεντρωμένη Οικονομία (DeFi), έτσι ώστε το USDC να κερδίζει αποδόσεις με το Yearn να δουλεύει στο παρασκήνιο.
 
 ![3_1446535099063885835](3_1446535099063885835.jpg)
 
 ##### 10
-[@longlongfinance](https://twitter.com/longlongfinance) is also available to diversify your principal and yield into different assets.
+Το [@longlongfinance](https://twitter.com/longlongfinance) είναι επίσης διαθέσιμο για να διαφοροποιήσετε το κεφάλαιό σας και την απόδοσή σας σε διαφορετικά περιουσιακά στοιχεία.
 
 ##### 11
-Despite all the interesting protocols so far, the protocols that bring the greatest adoption to Yearn probably haven’t been built yet but there’s plenty of teams working on it.
+Παρ' όλα τα ενδιαφέροντα πρωτόκολλα μέχρι στιγμής, τα πρωτόκολλα που θα φέρουν τη μεγαλύτερη υιοθέτηση για το Yearn πιθανότατα δεν έχουν κατασκευαστεί ακόμα, αλλά υπάρχουν πολλές ομάδες που εργάζονται πάνω σ' αυτό.
 
 ![3_1446535242404274176](3_1446535242404274176.jpg)
 
 ##### 12
-With Yearn going multi-chain there’s potential for different types of dapps on each chain. [twitter.com/iearnfinance/s…](https://twitter.com/iearnfinance/status/1446243257336229912?s=20)
+Με τη μετάβαση του Yearn σε πρωτόκολλο που λειτουργεί σε πολλαπλές αλυσίδες (multi-chain) δημιουργούνται οι δυνατότητες για την ανάπτυξη διαφορετικών τύπων dapps σε κάθε αλυσίδα. [twitter.com/iearnfinance/s…](https://twitter.com/iearnfinance/status/1446243257336229912?s=20)
 
 > ![iearnfinance](earnfinance-1223779978459770880.jpg)
 > yearn.finance ([@iearnfinance](https://twitter.com/iearnfinance))
 
-> The Realm of Multichain beckons.
+> Το βασίλειο των Πολλαπλών Αλυσίδων (Multichain) μας καλεί.
 
-And Yearn has heeded the call. 📯
+Και το Yearn ανταποκρίθηκε στο κάλεσμα. 📯
 
-Today, we go multichain with the launch of Iron Bank Fantom and the first Fantom vaults on [beta.yearn.finance](http://beta.yearn.finance)🧵
+Σήμερα, ξεκινάμε την παρουσία μας σε πολλαπλές αλυσίδες με το λανσάρισμα του Iron Bank Fantom και των πρώτων θησαυροφυλακίων Fantom στο [beta.yearn.finance](http://beta.yearn.finance)🧵
 
 > ![3_1446243220468293632](3_1446243220468293632.jpg)
 
 ##### 13
-The people calling for the death of DeFi on Ethereum may need to zoom out. Yearn’s Q3 2021 TVL was $4.6bn, nearly 300% higher than 12 months before. Q3 2021 annualised revenue was over $60m, up nearly 400% over the year.
+Οι άνθρωποι που μιλάνε για το θάνατο της Αποκεντρωμένης Οικονομίας (DeFi) στο Ethereum ίσως χρειαστεί να κάνουν zoom out. H Συνολική Κλειδωμένη Αξία (TVL) του Yearn για το γ' τρίμηνο του 2021 ήταν 4,6 δισ. δολάρια, σχεδόν 300% υψηλότερο από ό,τι 12 μήνες πριν. Τα ετησιοποιημένα έσοδα του 3ου τριμήνου 2021 ήταν πάνω από 60 εκατ. δολάρια, αυξημένα κατά σχεδόν 400% σε σχέση με το προηγούμενο έτος.
 
 ![3_1446536804035960832](3_1446536804035960832.jpg)
 
 ##### 14
-The criticism around lack of value accrual is one that can be easily fixed. However, the challenge is to design tokenomics that incentivize growth and sustainability of the protocol in terms of contributors and TVL, as well as value accrual.
+Η κριτική σχετικά με την έλλειψη συσσώρευσης αξίας είναι κάτι που μπορεί να διορθωθεί εύκολα. Ωστόσο, η πρόκληση έγκειται στον σχεδιασμό των tokenomics που παρέχουν κίνητρα για την ανάπτυξη και τη βιωσιμότητα του πρωτοκόλλου όσον αφορά τους συνεισφέροντες και τη TVL, καθώς και τη συσσώρευση αξίας.
 
 ##### 15
-It took Ethereum 5+ years to implement EIP-1559, and 2022 brings the migration to PoS that will reward ETH stakers instead of miners. And when cartoon animals are incentivized to figure things out, things usually get figured out.
+Το Ethereum χρειάστηκε 5+ χρόνια για να εφαρμόσει το EIP-1559 και το 2022 φέρνει τη μετάβαση στο PoS που θα ανταμείβει τους ETH stakers αντί για τους miners. Και όταν υπάρχουν κίνητρα για να επιτευχθούν πράγματα, τα πράγματα συνήθως επιτυγχάνονται.
 
 [gov.yearn.finance/t/call-for-ide…](https://gov.yearn.finance/t/call-for-ideas-yfi-tokenomics-revamp/11573/5)
 
 ##### 16
-The sustainability of liquidity mining and competition on fees, and the pace of innovation in DeFi, mean that nothing is guaranteed of course!
+Η βιωσιμότητα της εξόρυξης ρευστότητας (liquidity mining) και ο ανταγωνισμός ως προς τις παρεχόμενες αμοιβές, καθώς και ο ρυθμός της καινοτομίας στον τομέα της Αποκεντρωμένης Οικονομίας (DeFi), σηματοδοτούν ότι τίποτα δεν είναι εγγυημένο!
 
 ##### 17
-But these worries can be brushed aside safe in the knowledge that this guy deployed Yearn’s first smart contract.
+Αλλά αυτές οι ανησυχίες μπορούν να παραμεριστούν γνωρίζοντας ότι αυτός ο τύπος ανέπτυξε το πρώτο έξυπνο συμβόλαιο του Yearn.
 
 [twitter.com/CFantom777/sta…](https://twitter.com/CFantom777/status/1446366012421468162?s=20)
 
 > ![CFantom777](CFantom777-1387931745832497152.jpg)
 > Fantom_Memes ([@CFantom777](https://twitter.com/CFantom777))
 
-> Damn it feels good to be a fantie
+> Γαμώτο, είναι ωραίο να είσαι fantie
 
 [$FTM](https://twitter.com/search?q=%24FTM) [#Fantom](https://twitter.com/hashtag/Fantom) [#cryptocurrency](https://twitter.com/hashtag/cryptocurrency) [#andrecronje](https://twitter.com/hashtag/andrecronje) [pic.twitter.com/B1tTP48nqN](https://twitter.com/CFantom777/status/1446366012421468162/video/1)
