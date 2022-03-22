@@ -1,9 +1,9 @@
 ---
-title:  "Configurer des notifications pour suivre des transactions su7r la blockchain avec Tenderly"
+title:  "Configurer des notifications pour suivre des transactions sur la blockchain avec Tenderly"
 image:
-  src: ./cover.png
-  width: 1500
-  height: 729
+  src: ./cover.jpg
+  width: 1200
+  height: 675
 date: '2022-03-18'
 author: Marco_Worms
 translator: Cryptouf
