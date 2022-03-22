@@ -132,6 +132,7 @@ O alvo será um endereço:
 *Selecione o alvo do alerta*
 
 Você poderá selecionar o contrato que adicionamos anteriormente e, em seguida, escolher qualquer função que exista dentro dele. Observe que muitas funções podem ter nomes semelhantes, funções que começam com “_” geralmente são funções internas privadas e não serão as que estamos procurando.
+
 Neste caso, temos _deposit (private: para uso interno) e deposit (public: para usuários externos). Vamos escolher o que é público:
 
 ![](./image19.jpg?w=1319&h=679)\
@@ -140,7 +141,7 @@ Neste caso, temos _deposit (private: para uso interno) e deposit (public: para u
 Por fim, escolha o destino no Telegram que foi configurado anteriormente e salve o alerta:
 
 ![](./image20.jpg?w=1325&h=909)\
-*Selecione o destino de alerta *
+*Selecione o destino de alerta*
 
 Terminamos! O alerta foi criado e eu vou receber uma mensagem toda vez que alguém depositar SPELL naquele yVault!
 
