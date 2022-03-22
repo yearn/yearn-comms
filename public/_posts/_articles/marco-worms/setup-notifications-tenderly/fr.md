@@ -78,12 +78,8 @@ Pour terminer le processus ci-dessus, copiez les "magic words" de l'étape 3. Co
 
 Commençons par surveiller certains événements effectués sur le SPELL yVault sur le réseau Fantom. Nous avons besoin de connaître l'adresse du contrat SPELL yVault, nous pouvons la trouver en allant sur l'[interface Yearn Vaults](https://yearn.finance/#/vaults) et en cliquant sur le coffre SPELL.
 
-Let’s start by monitoring some events made on the SPELL yVault on the Fantom Network. We need to know the SPELL yVault contract address, we can find it by going to the [Yearn Vaults interface](https://yearn.finance/#/vaults) and clicking on the SPELL vault.
-
 ![](./image10.jpg?w=625&h=287)\
 *Yearn Vaults sur Fantom*
-
-After clicking on it we’ll see this page with all the vault details, click the “block explorer” button that will take you to the vault’s contract:
 
 Après avoir cliqué dessus, nous verrons cette page avec tous les détails du coffre-fort, cliquez sur le bouton « Explorateur de blocs » qui vous mènera au contrat du coffre-fort: 
 
