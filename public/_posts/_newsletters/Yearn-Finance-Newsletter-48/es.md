@@ -9,8 +9,6 @@ date: '2021-10-10'
 translator: RestlessMik3
 ---
 
-# Newsletter #48 de Yearn Finance
-
 ### Semana del 10 de Octubre, 2021
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-48/cover.jpeg?w=880&h=440)
