@@ -34,17 +34,17 @@ Commençons par vérifier tout ce que nous pouvons faire lorsque nous essayons d
 ![](./image3.jpg?w=1537&h=669)\
 *Créer une alerte*
 
-- **Alert Type** will be the conditions we’ll set for a chain event to trigger a notification:
+- **Alert Type** seront les conditions que nous définirons pour qu'un événement on-chain déclenche une notification:
 
 ![](./image4.jpg?w=1437&h=413)\
 *tous les types d'alerte*
 
-- **Alert Target** will be the contract monitored for the above events and conditions:
+- **Alert Target** sera le contrat surveillé par les événements et conditions ci-dessus:
 
 ![](./image5.jpg?w=991&h=253)\
 *toutes les cibles d'alerte*
 
-- **Alert Destinations** will be the places that will receive notifications when the above contract meets the conditions for an alert:
+- **Alert Destinations** est l'endroit ou il y aura les notifications lorsque le contrat ci-dessus remplira les conditions d'une alerte: 
 
 ![](./image6.jpg?w=937&h=195)\
 *toutes les destinations d'alerte*
@@ -74,7 +74,7 @@ Pour terminer le processus ci-dessus, copiez les "magic words" de l'étape 3. Co
 ![](./image9.jpg?w=772&h=235)\
 *Message de confirmation indiquant que le bot peut désormais envoyer des messages dans ce chat!*
 
-### Monitoring Yearn Vault deposits/withdrawals
+### Surveiller les dépôts/retraits d'un Vault Yearn
 
 Commençons par surveiller certains événements effectués sur le SPELL yVault sur le réseau Fantom. Nous avons besoin de connaître l'adresse du contrat SPELL yVault, nous pouvons la trouver en allant sur l'[interface Yearn Vaults](https://yearn.finance/#/vaults) et en cliquant sur le coffre SPELL.
 
