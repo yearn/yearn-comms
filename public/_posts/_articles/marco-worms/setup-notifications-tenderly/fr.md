@@ -72,7 +72,7 @@ Annotez-le et suivez les instructions pour permettre au bot de vous envoyer des 
 Pour terminer le processus ci-dessus, copiez les "magic words" de l'étape 3. Collez-le dans le chat avec le bot telegram de Tenderly qui s'ouvrira en cliquant sur [@TenderlyRobot](https://t.me/TenderlyRobot).
 
 ![](./image9.jpg?w=772&h=235)\
-*Message de confirmation indiquant que le bot peut désormais envoyer des messages dans ce chat !*
+*Message de confirmation indiquant que le bot peut désormais envoyer des messages dans ce chat!*
 
 ### Monitoring Yearn Vault deposits/withdrawals
 
@@ -84,7 +84,7 @@ Commençons par surveiller certains événements effectués sur le SPELL yVault 
 Après avoir cliqué dessus, nous verrons cette page avec tous les détails du coffre-fort, cliquez sur le bouton « Explorateur de blocs » qui vous mènera au contrat du coffre-fort: 
 
 ![](./image11.jpg?w=1157&h=757)\
-*Details du SPELL yVault *
+*Details du SPELL yVault*
 
 Cela ouvrira le [SPELL yVault Contract](https://ftmscan.com/address/0xD3c19eB022CAC706c898D60d756bf1535d605e1d) sur FTMScan (Fantom fork of [Etherscan](https://etherscan.io/)) : 
 
@@ -96,11 +96,11 @@ Voici les informations importantes pour notre exemple:
 - Ensuite, le "Token Name" (aide lorsque vous avez de nombreux onglets de contrat ouverts)
 - Enfin l'historique des méthodes (fonctions) que ce contrat a exécuté
 
-Pour notre exemple, ** nous ajouterons une notification lorsque quelqu'un déposera des jetons dans le vault **. Pour ce faire, copiez l'URL de la page de contrat :
+Pour notre exemple, **nous ajouterons une notification lorsque quelqu'un déposera des jetons dans le vault**. Pour ce faire, copiez l'URL de la page de contrat:
 
 https://ftmscan.com/address/0xD3c19eB022CAC706c898D60d756bf1535d605e1d
 
-Allez ensuite dans l'onglet contrat de Tenderly et cliquez pour importer ce contrat sur le dashboard, cela nous permettra de créer des alertes :
+Allez ensuite dans l'onglet contrat de Tenderly et cliquez pour importer ce contrat sur le dashboard, cela nous permettra de créer des alertes:
 
 ![](./image13.jpg?w=1399&h=681)\
 *Contrat importé dans Tenderly*
@@ -110,7 +110,7 @@ Collez l'adresse, sélectionnez le “Vyper Contract” (le nom s'affiche comme 
 ![](./image14.jpg?w=1155&h=909)\
 *Importation de contact dans Tenderly*
 
-Après l'importation, le contrat est prêt pour que nous créions une alerte pour celui-ci !
+Après l'importation, le contrat est prêt pour que nous créions une alerte pour celui-ci!
 
 ![](./image15.jpg?w=865&h=467)\
 *Importation de contact dans Tenderly*
@@ -154,11 +154,11 @@ Voici un exemple de notification que vous recevrez après avoir configuré cette
 
 ## Remarque finale
 
-Cet exemple, utilisant Yearn, présente un moyen simple de surveiller l'appel d'une fonction d'un contrat. Si vous prnez le temps d'explorer les différentes  options, vous verrez qu'il existe de nombreuses positibilités et que les applications sont très variées, par exemple :
+Cet exemple, utilisant Yearn, présente un moyen simple de surveiller l'appel d'une fonction d'un contrat. Si vous prnez le temps d'explorer les différentes  options, vous verrez qu'il existe de nombreuses positibilités et que les applications sont très variées, par exemple:
 
 - Les créateurs de collections NFT peuvent surveiller chaque fois que leur contrat appelle la création d'un nouveau jeton et le partager automatiquement sur Discord
 - Les personnes surveillant les flux Tokenomics peuvent utiliser des notifications pour garder un œil sur les soldes de portefeuille et les actions des contrats pour voir si les développeurs font ce qui est prévu
 
-Vous pouvez surveiller tout type d'activité on-chain chaîne et être averti, faites vos propres tests et utilisez votre imagination !
+Vous pouvez surveiller tout type d'activité on-chain chaîne et être averti, faites vos propres tests et utilisez votre imagination!
 
 Rédacteur: [Worms](https://twitter.com/MarcoWorms), Relécteurs: [Cryptouf](https://twitter.com/cryptouf), [Dark Ghosty](https://github.com/DarkGhost7)
