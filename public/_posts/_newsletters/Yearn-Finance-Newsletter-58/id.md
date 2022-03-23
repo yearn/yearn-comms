@@ -101,7 +101,7 @@ Pensiunnya Andre tidak memberikan dampak pada operasional hari-ke-hari Yearn, da
 
 # Lemari Besi Yearn
 
-Kami dapat belajar lebih lanjut deskripsi detail dari strategi-strategi lemari besi dari yVaults kita yang aktif [di sini](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Kamu dapat belajar lebih lanjut deskripsi detail dari strategi-strategi lemari besi dari yVaults kita yang aktif [di sini](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
 
 # Berita dari Ekosistem
