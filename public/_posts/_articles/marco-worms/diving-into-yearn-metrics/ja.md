@@ -1,5 +1,5 @@
 ---
-title: "Diving into Yearn Metrics"
+title: "Yearnの評価指標を徹底調査"
 image:
   src: ./image3.jpg
   width: 1400
