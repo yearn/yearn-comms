@@ -3,9 +3,9 @@ layout: post
 title: "Surat Kabar Yearn Finance #58"
 categories: [Newsletters]
 image:
-src: ./cover.png
-width: 576
-height: 288
+  src: ./cover.png
+  width: 576
+  height: 288
 author: Yearn
 date: '2022-03-08'
 translator: empeje
