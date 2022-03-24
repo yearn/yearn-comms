@@ -12,6 +12,6 @@ publish: true
 
 Dasbor fundamental Yearn di token Terminal
 
-Teman kami di [@tokenterminal](https://twitter.com/tokenterminal) sekarang melacak metrik fundamental YFI seperti sisi penawaran dan pendapatan protokol,rasio P/S and P/E, modal tahunan yang dikerahkan.
+Teman kami di [@tokenterminal](https://twitter.com/tokenterminal) sekarang melacak metrik fundamental YFI seperti sisi penawaran dan pendapatan protokol, rasio P/S and P/E, modal tahunan yang dikerahkan.
 
 [https://www.tokenterminal.com/terminal/projects/yearn-finance](https://www.tokenterminal.com/terminal/projects/yearn-finance)
