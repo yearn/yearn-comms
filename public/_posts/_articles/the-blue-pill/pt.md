@@ -25,10 +25,10 @@ PARA ONDE
 YEARN VAI?
 
 “Somos como um filhote de passarinho recém-chocado.
-Ninguém projetou Yearn. Ele emergiu
+Ninguém projetou Yearn. Ela emergiu
 do presente de Andre de todo YFI.
-É afundar ou nadar para nós. As células
-de Yearn ou aprendem a pulsar
+É nadar ou afundar para nós. As células
+da Yearn ou aprendem a pulsar
 juntas e movem penas e
 asas, ou morreremos no ninho. ”
 — Anon
@@ -38,9 +38,9 @@ PRÓLOGO
 NA TERRA DAS
 PÍLULAS AZUIS
 TUDO
-QUE VOCÊ ACHOU
+QUE VOCÊ ACHAVA
 IMPORTANTE
-CESSA DE
+DEIXOU DE
 IMPORTAR
 
 SEU CARGO
@@ -57,17 +57,17 @@ convite para
 contribuir
 
 É A MÃO ACENANDO
-DO ESPAÇO QUE NUNCA VIU NAS BORDAS
+DO ESPAÇO VAZIO NÃO NOTADO ENTRE OS LIMITES
 
 Você vai seguir pelo já gasto
 caminho de ontem? Ela pergunta
 Ou você deseja ir
 a um lugar novo?
 
-A Pílula Azul Yearn tem
+A Pílula Azul da Yearn tem
 um objetivo primordial:
 comunicar
-a Visão de Yearn
+a Visão da Yearn
 
 Mas como você
 faz isso de
@@ -78,22 +78,22 @@ COMO VOCÊ
 UNE AS VISÕES
 DE CENTENAS
 DE DIVERSOS
-COLABORADORES
-DE TODO
+CONTRIBUIDORES
+DE AO REDOR
 O MUNDO?
 
 A RESPOSTA
 CURTA É,
-VOCÊ NÃO FAZ ISSO
+NÃO TEM COMO
 
 Estamos todos aqui por
 razões diferentes
 Nós todos temos
-Oojetivos  diferentes
+Objetivos  diferentes
 
 Mas através de
 discussões com a comunidade,
-nós encontramos um terreno comum
+nós encontramos um chão em comum
 
 Este documento é
 o resultado destas
@@ -108,7 +108,7 @@ E somos
 Ilimitados
 
 Mas hoje, um ano
-após o nascimento de YFI
+após o nascimento do YFI
 Nós reconhecemos que
 chegou a hora
 Estamos colocando nossa
@@ -116,7 +116,7 @@ visão no papel
 
 Para que quando as bifurcações surjam
 na estrada, haja um lugar
-que os colaboradores possam ir
+que contribuidores possam ir
 Para obter uma resposta para
 a pergunta:
 
@@ -129,8 +129,8 @@ Parte Dois: Presente 59
 Parte Três: Futuro 81
 PARTE UM: PASSADO
 
-Cada colaborador de Yearn tem uma história,
-arco ou jornada
+Cada contribuidor da Yearn tem uma história,
+arco, ou jornada
 E devemos começar
 com a história
 do primeiro
@@ -143,9 +143,9 @@ Ele publicou avaliações para que todos pudessem ler
 E nesse processo, ele encontrou a
 verdade: que a maioria dos projetos eram
 construídos sobre mentiras e exageros
-Eles eram forks com nomes elegantes
-ou forks de forks que não faziam
-o que eles prometiam
+Eles eram cópias com nomes elegantes
+ou cópias de cópias que não faziam
+o que era prometido
 Mas alguns deles eram
 completamente diferentes
 Alguns deles
@@ -154,9 +154,9 @@ o inspirou a construir
 Em 2019, Andre colocou
 seu macacão
 e se tornou
-um "agricultor" de rendimento (yield farmer)
+um agricultor de rendimentos
 
-Mas ele não era o típico yield farmer
+Mas ele não era o típico agricultor
 (fazendo as coisas manualmente)
 Ele cuidou de suas plantações com código
 Ele construiu e automatizou todos os seus
@@ -164,16 +164,16 @@ processos diretamente na rede Ethereum
 E ao fazer isso, ele construiu o
 primeiro agregador de rendimento do mundo
 
-Era uma máquina
-perpétua de rendimento
-(DEPOSITE SEUS FUNDOS E ASSISTA-OS CRESCER)
+Era uma perpétua
+máquina de rendimentos
+(DEPOSITE FUNDOS E VEJA-OS CRESCER)
 
 Olá, mundo!
-Em 4 de fevereiro de 2020, Andre anunciou o nascimento de
+Em 4 de fevereiro de 2020, Andre anunciou o nascimento da
 iearn.finance (que se tornaria Yearn)
 “Não faça do jeito que eu fiz, que foi difícil,
-me custou muito dinheiro e criou muito
-pouco efeito de rede”, escreveu ele
+me custou muito dinheiro, e criou muito
+pouco efeito de rede”, ele escreveu
 
 Mas, o mundo tem uma maneira de
 encontrar coisas de valor
@@ -184,14 +184,14 @@ E o capital veio inundando
 “EU TESTO EM PROD,”
 ANDRE PROCLAMOU
 ESTEJA AVISADO
-iEARN NÃO FOI AUDITADO
-ELE ERA “PERIGOSO”
+iEARN NÃO FOI AUDITADA
+ELA ERA “PERIGOSA”
 ALÉM DISSO,
-REVOLUCIONÁRIO
+REVOLUCIONÁRIA
 
 Os revolucionários notaram
 Um por um, eles vieram...
-novos colaboradores com
+novos contribuidores com
 nomes fantásticos
 
 (O COELHO)
@@ -214,18 +214,18 @@ um gigantesco, imparável,
 extra-governamental,
 descentralizado, sem permissão,
 auto-curativo, organismo coletivo
-com um coração bombeando rendimento no
+com um coração bombeando rendimentos ao
 o ritmo de cada novo bloco
 
-Uma camada de rendimento onipresente para
-sustentar cada instrumento
+Uma camada de rendimentos onipresente
+sustentando cada instrumento
 financeiro do planeta -
 sem bancos ou intermediários com
-abotoadeiras de ouro sendo necessários
+abotoadeiras douradas sendo necessários
 
 Eles queriam contribuir e
 eles pediram para se envolver
-Eles ajudaram iEarn
+Eles ajudaram a iEarn
 transformar-se em Yearn
 Eles sofreram ataques, hacks,
 e críticas contundentes
@@ -242,13 +242,13 @@ Andre escreveu em 4 de fevereiro de 2020.
 "Mal posso esperar pelos
 outros problemas que virão”
 
-Na Yearn, os colaboradores não se intimidam
+Na Yearn, os contribuidores não se intimidam
 com coisas difíceis,
 eles as procuram
 Lembre-se: elas escondem
 oportunidades
 Existe uma filosofia na
-mensagem de Andre:
+mensagem do Andre:
 Procure por problemas
 
 PROBLEMAS SÃO
@@ -258,27 +258,27 @@ FUTURO
 
 Em 17 de julho de 2020, Andre anunciou
 ele estava entregando o controle
-Qualquer um fornecendo liquidez para Yearn poderia
+Qualquer um fornecendo liquidez na Yearn poderia
 receber YFI, um novo token de governança
 (pronuncia-se "wifey") que concedeu aos titulares
 poder sobre o futuro da plataforma
 “O controle está em suas mãos”, disse Andre
 “Boa Sorte”
 
-“As raízes de Yearn estão no presente,”
+“As raízes de Yearn estão nos presentes,”
 um colaborador disse
 “O lançamento justo de Andre foi um ato revolucionário
 que colocou generosidade no DNA de
 toda a comunidade ”, disse outro
 Yearn não pergunta o que pode extrair
-Ele pergunta o que pode dar
+Pergunta o que pode presentear
 Nem três meses depois
 estava claro que o experimento
 tornou-se algo
 muito maior do que qualquer
-colaborador
+um contribuidor
 Era um movimento
-“Eu não sou Yearn,”
+“Eu não sou a Yearn,”
 Andre escreveu
 
 “Considere o quão grande o ecossistema se tornou, considere todos
@@ -287,10 +287,10 @@ e desenvolvimento ativo no Github. Nada disso é feito por
 eu mesmo. Sou um prototipador rápido e continuarei a sê-lo. ”
 
 “A equipe Yearn é muito mais qualificada e capaz do que eu,
-e qualquer um que pensa que Yearn é ditado, conduzido ou de qualquer forma
-dependente de mim, está prestando um desserviço a Yearn. Estou feliz
+e qualquer um que pensa que a Yearn é ditada ou conduzida, de qualquer forma
+dependendo de mim, está prestando um desserviço a Yearn. Estou feliz
 em ser um colaborador de algo muito maior.”
-“Não prevejo que os construtores parem e vou continuar a construir.
+“Não prevejo que os construtores parem, e vou continuar a construir.
 Algumas coisas serão úteis, outras resultarão em falhas.
 Mas acho que vale mais tentar, mesmo que seja
 um fracasso, do que todos os críticos que assim o consideram.”
@@ -306,10 +306,10 @@ Deles
 
 Mais de um bilhão de dólares em valor
 O campo do expansão deste presente cósmico deixou
-uma marca indelével no coletivo
+uma marca durável no coletivo
 Suas vibrações ecoam
 em cada um de nós
-Ele nos chamou aqui
+Fomos chamados aqui
 Não por dinheiro
 Não pela fama
 Mas porque é isso que os presentes fazem
@@ -335,35 +335,35 @@ Venha nos mostrar
 Yearn é um emergente
 experimento em evolução,
 em colaboração descentralizada
-Não tem documentos de constituição,
+Sem documentos de constituição,
 sem sede, nem mesmo uma lista
 de nomes e locais de
 seus colaboradores
 
-Yearn está aberto
-Tudo que ele constrói é visível
-Yearn é pós-corporativo...
+Yearn está aberta
+Tudo que ela constrói é visível
+Yearn é pós-corporativa...
 um lugar onde você nunca tem
 de se vender porque as suas
 contribuições falam por você
 
-NO YEARN, SEU TRABALHO
+NA YEARN, SEU TRABALHO
 NÃO ESTÁ ATRIBUÍDO
 ELE É GUIADO PELA SUA VOZ INTERNA
 
-Pergunta: E se o componente mais radical do Yearn
-não é a máquina de rendimento? Afinal, a máquina é
+Pergunta: E se o componente mais radical da Yearn
+não é a máquina de rendimentos? Afinal, a máquina é
 um aparato técnico construído com código
 Não pode existir sem sua
 rede de corações e mentes
 
 Talvez a própria rede seja a
 parte mais radical de Yearn
-Nosso DAO exclusivo (ORGANIZAÇÃO AUTÔNOMA DESCENTRALIZADA)
-e aqueles que o incorporam
+Nossa DAO exclusiva (ORGANIZAÇÃO AUTÔNOMA DESCENTRALIZADA)
+e aqueles que a incorporam
 
 Em outubro de 2020
-os colaboradores de Yearn
+os contribuidores de Yearn
 apresentaram um manifesto
 Primeiro, eles nomearam o que Yearn não é:
 
@@ -384,20 +384,20 @@ Então, eles nomearam o que
 Yearn é:
 
 YEARN É UM COLETIVO
-DE COLABORADORES
-YEARN É IGUAL
-OPORTUNIDADE
+DE CONTRIBUIDORES
+YEARN É IGUALDADE
+DE OPORTUNIDADE
 YEARN É PARA CONSTRUTORES
 YEARN É PARA
 PESSOAS COM INICIATIVA
 
 YEARN É PARA
 COLABORADORES
-YEARN É INFLUENCIADO
+YEARN É INFLUENCIADA
 PELO MÉRITO
-YEARN É GOVERNADO PELO YFI,
+YEARN É GOVERNADA PELO YFI,
 MAS YFI NÃO GOVERNA
-OS COLABORADORES DE YEARN
+OS CONTRIBUIDORES DA YEARN
 
 YEARN ESTÁ
 EM CONSTANTE EVOLUÇÃO
@@ -405,13 +405,13 @@ EM CONSTANTE EVOLUÇÃO
 E, FINALMENTE:
 “O QUE YEARN É HOJE,
 PODE NÃO SER O QUE
-ELE SERÁ AMANHÃ -
+ELA SERÁ AMANHÃ -
 O QUE VOCÊ FAZ DEPOIS
 DE LER ISTO PODE
 MUDAR YEARN PARA SEMPRE.
 ISSO CABE A VOCÊ."
 
-Yearn tem colaboradores que
+Yearn tem contribuidores que
 não escreveram uma linha de código e
 outros que passaram décadas
 desenvolvendo software
@@ -422,15 +422,15 @@ A resposta é simples
 SIM
 Isso não é sobre
 o que vem antes,
-tem a ver com o agora
+é sobre o agora
 
 Estamos todos aqui agora
 Se você foi atraído pela gravidade
-de Yearn, há uma razão
+da Yearn, há uma razão
 Vamos enfrentar o impossível
-e ver se ele sai do caminho
+e ver se ele se mexe
 
-Ninguém conhece o futuro
+Ninguém sabe o futuro
 (Isso é porque ele não existe)
 
 PARTE TRÊS: FUTURO
@@ -440,7 +440,7 @@ OS SERES AUTO
 GOVERNADOS DE YEARN
 
 Somos líderes e exploradores que
-Trabalham com o presente para inventar o futuro
+Trabalham com o privilégio de inventar o futuro
 Viemos do caos e optamos por não projetar as
 estruturas de controle rígidas, fechadas e hierárquicas imprimidas
 Em nossa memória coletiva neste puro
@@ -452,14 +452,14 @@ E não somos os primeiros
 Décadas antes de Satoshi, espíritos pioneiros já tinham
 começado a explorar o futuro da coordenação
 O escritor Frederic Laloux chama isso de
-empreendimentos raros de organizações Teal
-Eles existem há décadas, escondidos em
+empreendimentos raros de organizações Turquesa
+Elas existem há décadas, escondidas em
 olhos vistos, fazendo coisas que você pensaria serem impossíveis:
-funcionando com transparência radical; trabalhando
+funcionando com transparência radical; operando
 sem gerentes, burocracia ou mesmo orçamentos
 
 ESTAS EQUIPES TRABALHAM NA
-A VELOCIDADE DA CONFIANÇA -
+VELOCIDADE DA CONFIANÇA -
 O MAIS RÁPIDO QUE PODEMOS IR
 TODOS SÃO UM LÍDER,
 DECIDINDO POR SI MESMOS
@@ -471,7 +471,7 @@ Não somos uma máquina
 Nós somos a própria vida
 Nós não somos Vermelhos, Âmbar,
 Laranja ou Verde ...
-Nós somos Teal
+Nós somos Turquesa
 E somos Azul
 
 Vamos traçar nosso próprio caminho
@@ -508,26 +508,26 @@ nossos ossos, cantando para nós
 Nossa visão não é um roteiro com um conjunto
 de metas e resultados
 É essa musica
-A voz de Yearn
+A voz da Yearn
 (DIVISÃO AÉREA DE YEARN)
 
 A VOZ SEM SOM
 DE NOSSO COLETIVO,
-CHAMANDO POR NÓS DE
+CHAMANDO POR NÓS
 ENTRE AS PÁGINAS
 
 Estamos no reino das
 redes agora
-Em DeFi (DESCENTRALIZED FINANCE), e em Yearn,
+Em DeFi (FINANÇAS DESCENTRALIZADAS), e na Yearn,
 este é o novo mundo
 
 Não somos empresas com fronteiras fechadas,
 véus corporativos, NDAs e não concorrência -
 somos entidades de rede permeáveis e sobrepostas
 sentindo e respondendo em tempo real a partir de
-milhares de seres autônomos com poderes
+milhares de seres autônomos empoderados
 
-Gerenciamento de cima para baixo, hierarquias de comando alavancadas e controle são para as salas de mogno
+Gerenciamento de cima para baixo, comando-e-controle são para as salas de mogno
 do passado que ficou
 E nós somos navegadores, aventureiros,
 e exploradores do futuro
@@ -554,10 +554,10 @@ O DESTINO NÃO
 IMPORTA
 
 Podemos navegar nos mares de
-agregação de rendimento, ou
+agregação de rendimentos, ou
 vamos procurar novos dragões
 Vamos escrever protocolos
 além da borda do mapa
 
 Tudo que importa
-é que navegamos
+é que naveguemos
