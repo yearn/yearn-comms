@@ -2,17 +2,18 @@
 layout: post
 title: "Yearn Finance 最新动态 #53"
 categories: [Newsletters]
-image: ./Yearn-Finance-Newsletter-53/image1.png
+image:
+  src: ./cover.png
+  width: 1152
+  height: 576
 author: Yearn
+date: '2022-01-11'
 translator: Bee926
-publish: true
 ---
-
-# Yearn Finance 最新动态 #53
 
 ### 2022 年 1 月 9 日结束的一周
 
-![](image1.png)
+![](./image1.jpg?w=1100&h=554)
 
 欢迎来到 Yearn 最新动态第 53 版。 此新闻简报的目的是让 Yearn 和所有加密货币社区了解最新消息，包括新产品发布，治理变化和生态系统更新。如果你有兴趣了解更多有关 Yearn Finance 的信息，请关注我们的官方 [Twitter](https://twitter.com/iearnfinance) 和 [Medium](https://medium.com/iearn) 帐户。
 
@@ -27,7 +28,7 @@ publish: true
 
 # Yearn 的透明度
 
-![](image2.png)
+![](./image2.jpg?w=550&h=366)
 
 # 更透明，更多 alpha。
 
@@ -43,7 +44,7 @@ Yearn 的最新两款工具揭示了兔子洞的神秘深处：[内容集合器 
 
 # Yearn 网站更新
 
-![](image3.png)
+![](./image3.jpg?w=550&h=449)
 
 为了要增加透明度，多位 Yearn 网页生态系统的贡献者已开始整理一份时事通讯，此通讯将被用于集合关于新功能，正在进行的工作和计划的更新，还会包括定期关于网络技术的深入研究。
 
@@ -55,7 +56,7 @@ Yearn 的最新两款工具揭示了兔子洞的神秘深处：[内容集合器 
 
 # 申请下一季的 yAcademyDAO
 
-![](image4.png)
+![](./image4.jpg?w=238&h=243)
 
 如果你不熟悉 yAcademyDAO，这是一个由社区驱动的区块链安全小组。在 Yearn，我们非常的注重安全性，yAcademy 是我们的生态系统计划之一，为的是创建可持续和协作的区块链安全性并确保我们的人才可得到充分的利用。
 
