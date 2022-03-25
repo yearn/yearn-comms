@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "यर्न फाइनेंस समाचार पत्र #५८ "
+title: "यर्न फाइनेंस समाचार पत्र #५८"
 categories: [Newsletters]
 image:
   src: ./cover.png
@@ -72,7 +72,7 @@ translator: jengajojo
 
 मार्कोवर्म्स और डार्क घोस्टी से यह पूरा लेख देखें [यहां](https://medium.com/iearn/diving-into-yearn-metrics-8c3fb0520927).
 
-आप इन साइटों पर सूचीबद्ध वाल्टों तक पहुंच सकते हैं और आज से yearn.finance/vaults पर कमाई शुरू कर सकते हैं।
+आप इन साइटों पर सूचीबद्ध वाल्टों तक पहुंच सकते हैं और आज से [yearn.finance/#/vaults](https://yearn.finance/#/vaults) पर कमाई शुरू कर सकते हैं।
 
 # टेंडरली के साथ यर्न का समझौता
 
