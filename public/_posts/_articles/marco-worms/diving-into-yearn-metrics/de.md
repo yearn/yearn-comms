@@ -6,7 +6,7 @@ image:
   height: 625
 date: '2022-02-17'
 author: Marco_Worms
-translator: "Delace19"
+translator: Delace19
 ---
 
 Eigene Nachforschungen sind eine notwendige Übung, wenn man sich mit Kryptowährungen beschäftigt, und für [yVaults und Strategien](https://medium.com/iearn/yearn-finance-explained-what-are-vaults-and-strategies-96970560432) gibt es eine Handvoll Ansichten, die du erforschen und nutzen kannst, um alle Zahlen zu analysieren. In diesem Artikel werde ich alle öffentlichen Yearn-Analyse-Ressourcen vorstellen, die von Strategen genutzt werden, um den Zustand von yVaults und Strategien zu überwachen. Wenn du also lernst, wie man mit diesen Tools umgeht, wirst den gleichen Informationsstand über Vaults haben wie ein Mitglied des Yearn-Teams. Die drei Tools, die wir heute erkunden werden, sind:
