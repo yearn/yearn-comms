@@ -2,37 +2,33 @@
 layout: post
 title: "Yearn Finance Newsletter #52"
 categories: [Newsletters]
-image: ./Yearn-Finance-Newsletter-52/image1.png
+image:
+  src: ./cover.jpeg
+  width: 1152
+  height: 576
 author: Yearn
+date: '2022-01-02'
 translator: Cripu
-publish: true
 ---
-
-# Yearn Finance Newsletter #52
 
 ### Week Ending January 2nd, 2022
 
-![](image1.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/cover.jpeg?w=880&h=440)
 
 Yearn Finance Newsletterの第52号へようこそ。このニュースレターの目的は、プロダクトのローンチ、ガバナンスの変更、エコシステムの更新など、最新のニュースをYearnとより広いクリプトコミュニティにお知らせすることです。Yearn Financeについてもっと知りたいという方は、私たちの公式[Twitter](https://twitter.com/iearnfinance)と[Medium](https://medium.com/iearn)アカウントをフォローしてください。
 
 ## 要約
 
 - YIP-65の参加投票
-
 - [提案] Mean - DCA バイバックパイロットプログラム
-
 - Yearn考察
-
 - YearnがFantom基金から1Mドルの助成金を受領
-
 - Yearnのボールト
-
 - エコシステムニュース
 
 ## YIP-65の参加投票
 
-![](image2.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/image2.jpg?w=980&h=871)
 
 要約すると、YIP-65はYearnの中でYFIが果たす役割を4つのフェーズに分けて進化させ、ガバナンスの基盤構造としてのトークンビジョンを強固にすることを目的とした提案です。
 
@@ -58,7 +54,7 @@ Yearn Finance Newsletterの第52号へようこそ。このニュースレター
 
 ## [提案] Mean - DCA バイバックパイロットプログラム
 
-![](image3.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/image3.jpg?w=690&h=301)
 
 このパイロットプログラムの目的は、DCAingはトレジャリー内でバイバックを実行するための良い方法であることを、例を通じて理解を深めてもらうことです。
 
@@ -103,7 +99,7 @@ Keep3rです。バイバックを行う最適な時期について研究して�
 
 ## YearnがFantom基金から1Mドルの助成金を受領
 
-![](image4.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-52/image4.jpg?w=1100&h=1092)
 
 YearnはFantom基金から1M FTMの助成金を受け取りました。
 
