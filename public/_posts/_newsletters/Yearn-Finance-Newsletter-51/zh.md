@@ -1,18 +1,17 @@
 ---
-layout: post
 title: "Yearn Finance 最新动态 #51"
-categories: [Newsletters]
-image: ./Yearn-Finance-Newsletter-51/image1.png
+image:
+  src: ./cover.jpeg
+  width: 576
+  height: 288
 author: Yearn
+date: '2021-12-22'
 translator: Bee926
-publish: true
 ---
-
-# Yearn Finance 最新动态 #51
 
 ### 2021 年 12 月 19 日之前的一周
 
-![](image1.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/cover.jpeg?w=880&h=440)
 
 欢迎来到 Yearn 最新动态第48版。我们此新闻简报的目的是使 Yearn 和所有加密货币社区了解最新消息，包括新产品发布，治理变化和生态系统更新。如果你有兴趣了解更多有关 Yearn Finance 的信息，请关注我们的官方 [Twitter](https://twitter.com/iearnfinance) 和 [Medium](https://medium.com/iearn) 帐户。
 
@@ -34,7 +33,7 @@ publish: true
 
 ## Yearn 已回购值 750 万美元的 YFI
 
-![](image2.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image2.jpg?w=800&h=609)
 
 Yearn 已从市场上回购了值 $7,526,343 的 YFI。我们以 $26,651 的平均价格回购了 282.4 个 YFI (供应量的 0.77%）。上个月的总回购量超过了去年的数量。
 
@@ -44,7 +43,7 @@ Yearn 已从市场上回购了值 $7,526,343 的 YFI。我们以 $26,651 的平�
 
 ## 提案：升级 YFI 的代币模型
 
-![](image3.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image3.jpg?w=800&h=466)
 
 第一步是 xYFI，质押在 xYFI 的机枪池以赚取从财库分发的 YFI。
 
@@ -62,7 +61,7 @@ Yearn 已从市场上回购了值 $7,526,343 的 YFI。我们以 $26,651 的平�
 
 ## 报告：以黑洞再生
 
-![](image4.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image4.jpg?w=733&h=750)
 
 Ape Froman 最近发布了一个报告，详细介绍了 Yearn，代币模型的问题，潜在的解决方案以及 YFI 代币可进一步整合到更大的 DeFi 生态系统中的想法。这将让代币持有者可更好地获取价值，并创造 YFI 循环供应的不平衡 — 借此方式而推动需求。
 
@@ -70,7 +69,7 @@ Ape Froman 最近发布了一个报告，详细介绍了 Yearn，代币模型的
 
 ## Yearn NFT 节日卡
 
-![](image5.png)
+![](/_posts/_newsletters/Yearn-Finance-Newsletter-51/image5.jpg?w=625&h=750)
 
 Project Galaxy 目前正在进行 Holiday Treasure Hunt，做为 Yearn 周报的订阅者你将可获得 Yearn 节日卡的 NFT。
 
