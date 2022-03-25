@@ -8,7 +8,6 @@ author: Yearn
 date: '2022-01-26'
 translator: Cripu
 ---
-# Yearn Finance Newsletter #55
 
 ### 2022年1月23日までの週
 
