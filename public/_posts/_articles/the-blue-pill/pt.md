@@ -64,7 +64,7 @@ caminho de ontem? Ela pergunta
 Ou você deseja ir
 a um lugar novo?
 
-A Pílula Azul da Yearn tem
+A Pílula Azul tem
 um objetivo primordial:
 comunicar
 a Visão da Yearn
