@@ -1,5 +1,5 @@
 ---
-title:  "I介绍固定外汇"
+title:  "介绍固定外汇"
 image:
   src: ./andre-hero.png
   width: 700
