@@ -6,13 +6,14 @@
 	"menu-articles": "Makaleler",
 	"menu-articles-forum": "Forum",
 	"menu-articles-yearn": "Yearn.Finance",
-	"menu-updates": "Updates",
-	"menu-podcasts": "Podcasts",
-	"menu-financials": "Finans",
-	"menu-financials-quarterly-report": "Quarterly Report",
-	"written-by": "Written by",
-	"translated-by": "Translated by",
-	"footer-contribute": "Yearn Katılım",
-	"footer-join": "Yearn Işe Alım",
-	"footer-vault-at-yearn": "Vaults at Yearn"
+	"menu-updates": "Güncellemeler",
+	"menu-podcasts": "Podcast'lar",
+	"menu-financials": "Finansal",
+	"menu-financials-quarterly-report": "Üçaylık Rapor",
+	"written-by": "Yazar:",
+	"translated-by": "Çevirmen:",
+	"footer-contribute": "Katkıda Bulun",
+	"footer-join": "Yearn'e Katıl",
+	"footer-vault-at-yearn": "Yearn'daki Vault'lar",
+	"footer-disclaimer": "Feragatname"
 }

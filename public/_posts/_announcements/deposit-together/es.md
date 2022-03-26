@@ -1,5 +1,5 @@
 ---
-title:  "Deposit Together"
+title: "Depositos Agrupados"
 image:
   src: ./cover.jpg
   width: 576
@@ -11,7 +11,7 @@ translator: RestlessMik3
 
 Anuncio… 💥
 
-Has depósitos conjuntos con Wido, divide los fees y ahorra hasta 80% en gas
+Haz depósitos agrupados con Wido, divide los fees y ahorra hasta 80% en gas
 
 Empezando con nuestro querido Yearn 💙
 

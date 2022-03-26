@@ -1,5 +1,5 @@
 ---
-title: "Yearn Finance Newsletter #46"
+title: "Newsletter #46 de Yearn Finance"
 image:
   src: ./cover.jpeg
   width: 576
@@ -8,8 +8,6 @@ author: Yearn
 date: '2021-09-12'
 translator: RestlessMik3
 ---
-
-# Newsletter #46 de Yearn Finance 
 
 #### Semana del 12 de Septiembre de 2021
 
