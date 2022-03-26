@@ -5,6 +5,7 @@ image:
   width: 700
   height: 300
 author: Andre
+date: '2021-07-02'
 translator: Xiaona
 published: true
 ---
