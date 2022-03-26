@@ -11,7 +11,7 @@ translator: gateway-504
 
 ![](/_posts/_announcements/legal-activism-DAO/1.jpg?w=800&h=450)
 
-[@LeXpunK_DAO](https://twitter.com/LeXpunK_DAO) mengusulkan untuk meningkatkan DAO aktivisme hukum crypto yang berpusat pada pembangun dari komunitas lain yang selaras dengan nilai.
+[@LeXpunK_DAO](https://twitter.com/LeXpunK_DAO) mengusulkan untuk meningkatkan aktivisme hukum crypto DAO yang berpusat pada pembangun dari komunitas yang punya nilai yang selaras.
 
 Ini untuk para pembangun & degen yang memiliki suara yang lebih langsung dalam diskusi hukum kripto yang kritis, tanpa pengaruh Lembah Silikon.
 
