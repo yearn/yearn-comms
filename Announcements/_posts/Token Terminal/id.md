@@ -4,7 +4,7 @@ title:  "Token Terminal"
 categories: [ Announcements ]
 image: ./Token-Terminal/1.jpg
 author: Yearn
-translator: gateway-504
+translator: Gateway-504
 publish: true
 ---
 
