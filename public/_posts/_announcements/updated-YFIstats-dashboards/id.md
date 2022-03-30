@@ -9,7 +9,7 @@ date: '2021-09-30'
 translator: Gateway-504
 ---
 
-![](/_posts/_announcements/updated-YFIstats-dashboards/1.jpg?w=1280&h=707)
+![](/_posts/_announcements/updated-YFIstats-dashboards/1.jpg?w=1280&h=707) 
 
 [YFI Stats](https://www.yfistats.com/) telah diperbarui dengan beberapa dasbor baru. Kami sekarang memiliki pembelian kembali YFI dan CRV dari dasbor airdrop EPS untuk membantu pengguna memvisualisasikan metrik ini dengan lebih baik. Ini adalah beberapa fitur yang paling banyak diminta baru-baru ini dan sekarang sudah ditayangkan! Jika ada metrik lain yang ingin Anda lihat di YFI Stats, silakan hubungi. Anda dapat memeriksanya sekarang di tautan di bawah ini.
 
