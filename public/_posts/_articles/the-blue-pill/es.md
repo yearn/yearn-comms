@@ -68,7 +68,7 @@ un objetivo primordial:
 comunicar
 La visión de Yearn
 
-Pero ¿como lo 
+¿Pero como lo 
 haces desde
 dentro de una red
 sin líder?
