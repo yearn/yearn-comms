@@ -19,8 +19,9 @@ In this article we’ll learn how to self-host app interfaces for core crypto an
 
 A quick intro to these concepts:
 
-* **Front-end** is the name given to the app side that is seen by the user, like a website or a mobile app. Also called the "User Interface"
-* **Back-end** is the name given to the app side that is not seen by the user. Many front-end actions rely on back-end to process
+* **Front-end** is the name given to the portion of the application that is seen by the user, like a website or a mobile app.
+* **Back-end** is the name given to the portion of the application that is not seen by the user. Many front-end actions rely on back-end to process.
+
 
 In Web3 the blockchain manages to decentralize the back-end, but the front-end will still be served to the user using the default centralized method:
 
@@ -42,7 +43,7 @@ You won't be able to see the front-end in order to click stuff and communicate w
 
 Self-hosting a website in web3 means the front-end will work even when the default front-end provider is down. This cuts many middlemen that exist in the middle of the way of your machine reaching the front-end files! It’s a win/win relationship for the individual and the service that if you know how to do it you can back up the services that are essential to you:
 
-* The individual gain more resiliency accessing the service even when conditions to reach the front-end are bad.
+* The individual gains more resiliency accessing the service even when conditions to reach the front-end are bad.
 * The server that delivers front-end files receives fewer requests, which helps it not getting congested
 * The local version of the app will be frozen in a specific version. If this version works well for the individual it's great to have a backup so if the live front-end breaks any feature you can still access the working version
 
