@@ -48,7 +48,7 @@ yVault ürününün 2. Sürümü, 2021'in başlarında piyasaya sürüldü ve re
 
 ---
 
-## **3.Çeyrek-21 için Düzeltilmiş FAVÖK 11,6 milyon ABD dolarıydı** ve Yearn, çeyrekte yVault ürün teklifinden sürekli gelir elde etti.
+## **2021 3.Çeyrek için Düzeltilmiş FAVÖK 11,6 milyon ABD dolarıydı** ve Yearn, çeyrekte yVault ürün teklifinden sürekli gelir elde etti.
 
 ![](./image2.jpg?w=613&h=706)
 
