@@ -9,8 +9,6 @@ author: Marco_Worms
 translator: 
 ---
 
-# Self-hosting Web3 Services
-
 ![](./image1.jpg?w=1400&h=702)
 
 Web3 has brought a new way to communicate with applications: apps are no longer hosted by centralized server providers but rather on blockchains, which are decentralized systems. Apps built on top of decentralized foundations are resilient to downtime and censorship, but there is an issue: serving the app interface to the users using the web browser often relies on centralized entities.
@@ -105,7 +103,7 @@ After running it locally, instead of accessing the default website URL in the br
 2) `git clone https://github.com/yearn/yearn-finance-v3`
 3) `cd yearn-finance-v3`
 4) `yarn install`
-5) **Not-Windows:** `yarn dev` / **Windows:** `yarn dev-win`
+5) Not-Windows: `yarn dev` / Windows: `yarn dev-win`
 6) Browser should automatically open a tab at `localhost:3000`
 
 ![](./image4.jpg?w=1145&h=667)
@@ -240,4 +238,4 @@ After running it locally, instead of accessing the default website URL in the br
 
 #### *Producers: [Worms](https://twitter.com/MarcoWorms), Reviewers: [Dark Ghosty](https://github.com/DarkGhost7), [Cryptouf](https://twitter.com/cryptouf)*
 
-### Made in yearn.finance
+#### *Made in yearn.finance*
