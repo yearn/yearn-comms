@@ -34,7 +34,7 @@ translator: Ivan Manvelov
 [Любой может создать стратегию](https://docs.yearn.finance/developers/v2/getting-started), но для того, чтобы добавить ее в yVault, стратег должен пройти через [процесс проверки стратегии](https://docs.yearn.finance/developers/v2/getting-started#overview-of-our-vetting-process) который включает проверку концепции, проверку кода, проверку безопасности и тестирование основной сети.
 
 
-![](https://i.imgur.com/Snz2ewA.jpg)
+![](./image2.jpg?w=4000&h=588)\
 *Процесс проверки стратегии*
 
 За свои усилия стратеги вознаграждаются частью комиссий за эффективность стратегии.
