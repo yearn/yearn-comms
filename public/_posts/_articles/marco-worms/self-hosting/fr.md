@@ -12,6 +12,7 @@ translator: Cryptouf
 ![](./image1.jpg?w=1400&h=702)
 
 Le Web3 offre une nouvelle façon de communiquer avec les applications: les applications ne sont plus hébergées sur des serveurs centralisés mais plutôt sur des blockchains, qui sont des systèmes décentralisés. Ce type d'applications, construites sur des fondations décentralisées, résistent aux coupures et à la censure. Mais cela pose un problème : l'interface de l'application que les utilisateurs utilisent avec leur navigateur Web repose souvent sur des entités centralisées.
+
 Dans cet article, nous allons voir comment auto-héberger des interfaces d'application pour les services de base de l'ecosysteme Yearn et d'autres protocoles Defi. Si les sites Web officiels ne sont plus accessibles pour une raison quelconque, vous pourez toujours utiliser ces services par vous-même puisque la blockchain, elle, n'est jamais en panne ou censurée !
 
 ## Back-end, Front-end, Web3!
@@ -30,7 +31,9 @@ Sur le Web3, la blockchain parvient à décentraliser le back-end, mais le front
 Et si l'un de ces deux évènements se produit:
 
 **Le DNS ne résout pas votre domaine en adresse IP**
+
 ou
+
 **L'adresse IP ne vous montre pas les fichiers front-end**
 
 Vous ne pourrez pas voir le front-end et ainsi cliquer sur les éléments du site et communiquer avec le back-end. Afin de pouvoir utiliser les services Web3 sans ces problèmes, vous pouvez auto-héberger le front-end et contourner à la fois le problème de "résolution DNS" et le problème "IP non en ligne" !
@@ -70,6 +73,7 @@ Après l'avoir exécuté localement, plutôt que d'accéder à l'URL du site Web
 ## Allons-Y !
 
 **Prérequis**
+
 1) Installez [Node.js](https://nodejs.org/en/)
 1) Installez [git](https://git-scm.com/downloads)
 1) Tapez `npm install --global yarn` dans une fenêtre de terminal pour configurer [Yarn](https://yarnpkg.com/) (utilisé pour installer les dépendances pour la plupart des projets)
@@ -81,6 +85,7 @@ Après l'avoir exécuté localement, plutôt que d'accéder à l'URL du site Web
 * **Mac:** CMD + Space -> Terminal
 
 **Index**
+
 - [Site Yearn](#Yearn-Website)
 - [Blog Yearn](#Yearn-Blog)
 - [Yearn Dev Docs](#Yearn-Dev-Docs)
@@ -101,7 +106,7 @@ Après l'avoir exécuté localement, plutôt que d'accéder à l'URL du site Web
 2) `git clone https://github.com/yearn/yearn-finance-v3`
 3) `cd yearn-finance-v3`
 4) `yarn install`
-5) No-Windows: `yarn dev` / Windows: `yarn dev-win`
+5) Non-Windows: `yarn dev` / Windows: `yarn dev-win`
 6) Le navigateur devrait automatiquement ouvrir un onglet en direction de`localhost:3000`
 
 ![](./image4.jpg?w=1145&h=667)
@@ -232,8 +237,6 @@ Après l'avoir exécuté localement, plutôt que d'accéder à l'URL du site Web
 
 ![](./image13.jpg?w=1400&h=550)
 
-
 ---
 
 #### *Rédacteur: [Worms](https://twitter.com/MarcoWorms), Relécteurs: [Cryptouf](https://twitter.com/cryptouf), [Dark Ghosty](https://github.com/DarkGhost7)*
-
