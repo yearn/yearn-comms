@@ -16,7 +16,7 @@ Mavi Hap
 GEÇMİŞ • ŞİMDİ • GELECEK
 
 YEARN
-NEDİR
+NEDİR?
 
 YEARN NEREDEN
 GELDİ?
@@ -60,7 +60,7 @@ bir davetiyedir
 SİZE GAİPTEN UZANAN ELDİR
 
 Soruyorum sana eski basmakalıp
-yola devam mı etmek istersin
+yola devam mı etmek istersin?
 Yoksa yepyeni bir yola
 baş koymaya hazır mısın?
 
@@ -72,7 +72,7 @@ nakletmek
 Peki bunu
 lideri olmayan
 kişisel bir grupta
-nasıl yaparsın
+nasıl yaparsın?
 
 DÜNYANIN
 HER YERİNDENGELEN
@@ -80,7 +80,7 @@ YÜZLERCE
 KATILIMCININ
 GÖRÜŞLERİNİ 
 NASIL
-BİRLEŞTİRİRSİN
+BİRLEŞTİRİRSİN?
 
 KISACA
 CEVAP VERELİM
@@ -169,7 +169,7 @@ verim makinasıydı
 (yatırımını yap ve çoğalmasını izle)
 
 Merhaba, millet!
-2020 yılının 4 şubat'ı iearn.finance(bugünkü Yearn)
+2020 yılının 4 şubat'ı iearn.finance (bugünkü Yearn)
 doğuşunu anons etti ve
 “Benim izlediğim yoldan gitmeyin
 bana çok pahalıya patladı, çok maliyetliydi
@@ -184,7 +184,7 @@ Ve sermaye sel gibi akıp büyümeye başladı
 “DENEME YANILMA YOLUNU İZLİYORUM” 
 DİYİP
 iEARN'İN DENETLENMEDİĞİNİ
-TEHLİKELİ VE SİKLİ OLDUĞUNU
+"TEHLİKELİ" VE SİKLİ OLDUĞUNU
 AMA DEVRİM YARATACAK 
 BİR PROJE OLDUĞUNU 
 DUYURDU
@@ -265,7 +265,7 @@ olan YFI'yi kazanabileceğini duyurdu
 Andre "Kontrol senin elinde" dedi 
 "Bol şans"
 
-katkıda bulunanlardan biri
+Katkıda bulunanlardan biri
 “Yearnin kökleri hediyeye uzanıyor” dedi
 başka bir katılımcı
 “Andre'nin adil lansmanı toplumun DNA'sına cömertliği
@@ -518,7 +518,7 @@ SESSİZ SESİ
 
 Artık ağlar
 dünyasındayız
-DeFi'de (Merkezi Olmayan Finansman) ve Yearn'deyiz,
+DeFi'de (Merkezi Olmayan Finans) ve Yearn'deyiz,
 bu yeni bir sayfa
 
 Bizler kapalı sınırları, kurumsal örtüleri, 
@@ -561,10 +561,3 @@ protokoller yazacağız
 
 Önemli olan tek şey var 
 o da yelken açmamız
-
-
-
-
-
-
-
