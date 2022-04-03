@@ -1,11 +1,12 @@
 ---
-title:  "The Blue Pill"
+title:  "Mavi Hap"
 image:
   src: ./cover.jpg
   width: 742
   height: 450
-date: '2021-06-02'
 author: Yearn
+date: '2021-06-02'
+translator: Dastronom
 ---
 
 Mavi Hap
