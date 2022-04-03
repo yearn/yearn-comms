@@ -184,7 +184,7 @@ Ve sermaye sel gibi akıp büyümeye başladı
 “DENEME YANILMA YOLUNU İZLİYORUM” 
 DİYİP
 iEARN'İN DENETLENMEDİĞİNİ
-"TEHLİKELİ" VE SİKLİ OLDUĞUNU
+"TEHLİKELİ" VE RİSKLİ OLDUĞUNU
 AMA DEVRİM YARATACAK 
 BİR PROJE OLDUĞUNU 
 DUYURDU
@@ -194,15 +194,15 @@ Ve tek tek
 fantastik isimleriyle (aşağıdaki listede)
 katkıda bulunmak isteyenler gelmeye başladılar
 
-(THE BUNNY)
+(TAVŞAN)
 
-(THE GHOST)
+(HAYALET)
 
-(THE DUDE)
+(DOST)
 
-(THE BIRD)
+(KUŞ)
 
-(THE GLASS OF MILK)
+(SÜT BARDAĞI)
 
 Geliş amaçları sadece maddiyat değildi
 asıl amaçları
@@ -253,7 +253,7 @@ Sorunları sabırsızlıkla bekle
 
 SORUNLAR
 GELECEĞE 
-ŞEKİL VERME İÇİN KULLANDIĞIMIZ
+ŞEKİL VERMEK İÇİN KULLANDIĞIMIZ
 OYUN HAMURU GİBİDİR
 
 17 Temmuz 2020'de Andre,
