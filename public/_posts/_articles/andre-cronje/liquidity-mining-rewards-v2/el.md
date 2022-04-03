@@ -9,8 +9,6 @@ author: Andre
 translator: giosereth
 ---
 
-# Ανταμοιβές από την Εξόρυξη Ρευστότητας v2
-
 Έννοιες, και αρχιτεκτονική από το [pods.finance](https://www.pods.finance/)
 
 [Συμβόλαιο δικαιώματος αγοράς ανταμοιβών από την εξόρυξη ρευστότητας (LM)](https://twitter.com/AndreCronjeTech/status/1426580528510251008)
