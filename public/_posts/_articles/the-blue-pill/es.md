@@ -1,5 +1,5 @@
 ---
-title: "The Blue Pill"
+title: "La píldora azul"
 image:
   src: ./cover.jpg
   width: 742
@@ -36,7 +36,7 @@ alas, o morimos en el nido.”
 PRÓLOGO
 
 EN LA TIERRA DE
-PASTILLAS AZULES
+PÍLDORAS AZULES
 TODO LO QUE PENSASTE
 ERA IMPORTANTE
 DEJA DE
