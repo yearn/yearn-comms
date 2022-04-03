@@ -1,6 +1,5 @@
-# Yearn Finance 2021 Q3 Quarterly Report - TR
 ---
-title:  "Yearn Finance 2021 3.çeyrek Reporu"
+title:  "Yearn Finance 2021 3.Çeyrek Raporu"
 date: '2022-03-08'
 image:
   src: ./cover.jpg
@@ -12,7 +11,7 @@ translator: Dastronom
 
 ![](./cover.jpg?w=1500&h=500)
 
-## 2021 3.çeyrek için
+## 2021 3.Çeyrek için
 
 ### Feragat
 
@@ -63,7 +62,7 @@ Finansal tablolar tahakkuk esasına göre sunulur. Yearn için mali yıl, 31 Ara
 - Daha önceki finansal raporlar ve paylaşılan veriler, miktarlarının belirlenmesi ve hesaplanmasındaki zorluk nedeniyle stratejist ücretlerini içermiyordu. Ancak artan finansal bilgi birikimi ile artık bu miktarları hesaplayabiliyor ve nicelleştirebiliyoruz. Sonuç olarak, stratejist ücretlerinden önce kazanılan gelir miktarını göstermek ve stratejistlere ödenen ücretlerin miktarını ölçmek için önceki ayların geliri arttırıldı.
 - Gelir maliyeti, temel Yearn ürününün gelir üretimiyle doğrudan ilgili değişken giderleri içerir. Bunlara Stratejist ücretleri, yeni ve/veya mevcut stratejilerin uygulanması ve sürdürülmesiyle ilgili gaz maliyetleri ve Yearn Partners'a yapılan ödemeler dahildir. Yearn vault'larında alınan ücretler, yönetim altındaki varlıklar (AUM) için %2 ve brüt gelirin %20'sini içerir. Üretilen brüt gelirin %10'u Stratejistlere ve kalan %10'u Yearn hazinesine verilir.
 - DeFi'deki protokoller, Yearn Partners programına katılabilir ve bu protokollerin Yearn ürünlerine eklediği herhangi bir sermaye için Yearn vault'larında elde edilen gelirden pay alabilir. Bu ödemeler genellikle 1 ay gecikmeli olarak yapılır ve bunlara göre tahakkuk ettirilir. 21'in üçüncü çeyrekinde için, Yearn Partners programının uygun katılımcılarına yaklaşık 781 bin dolar ödendi.
-- Yıllık katkıda bulunanlar, hakediş tazminat planının bir parçası olarak YFI almaya hak kazanırlar. Bu hak,  Yearn'in Geleceğini Finanse Etmek adına Yearn yönetimi tarafından YIP-57 ile onaylanmıştır. YFI, katılımcı Yearn ile çalışmaya başladıktan sonra 3 yıl boyunca aylık olarak hak kazanır. Katılımcının herhangi bir nedenle Yearn için çalışmayı bırakması durumunda, Yearn hak edilmemiş YFI'yi geri alabilir. Katılımcı hakkı, muhasebenin tahakkuk esasına göre giderleştirilir, ancak nakit dışı bir gider olduğundan, diğer kalemlerin yanı sıra düzeltilmiş FAVÖK'e ulaşmak hariç tutulur.
+- Yıllık katkıda bulunanlar, hakediş tazminat planının bir parçası olarak YFI almaya hak kazanırlar. Bu hak, Yearn'in Geleceğini Finanse Etmek adına Yearn yönetimi tarafından YIP-57 ile onaylanmıştır. YFI, katılımcı Yearn ile çalışmaya başladıktan sonra 3 yıl boyunca aylık olarak hak kazanır. Katılımcının herhangi bir nedenle Yearn için çalışmayı bırakması durumunda, Yearn hak edilmemiş YFI'yi geri alabilir. Katılımcı hakkı, muhasebenin tahakkuk esasına göre giderleştirilir, ancak nakit dışı bir gider olduğundan, diğer kalemlerin yanı sıra düzeltilmiş FAVÖK'e ulaşmak hariç tutulur.
 - İdari maaşlar, tam zamanlı Yearn katılımcılarına yapılan nakit ödemelerdir. Yearn ekibi, Yearn ürününün kullanıcılarına daha yüksek düzeyde hizmet ve yenilik sağlamak için genişledikçe maaşlarda hafif bir artış oldu.
 - Güvenlik giderleri, hata ödüllerinden ve akıllı sözleşme denetimlerinden oluşur. Haziran-21'de Yearn, bir güvenlik araştırmacısına, Güvenlik giderlerinin çoğunu oluşturan 201 bin dolarlık bir hata ödülü ödedi.
 - Hibeler, Coordinape programına yapılan ödemeleri ve Yearn ekosistemine katkıda bulunanlara tek seferlik verilen diğer hibeleri içerir. 21 Temmuz'da, YFI Story'nin tamamlanmasına yardımcı olan dört katılımcıya yaklaşık 697 bin dolar değerinde YFI jetonu (23.32 YFI) ödendi. YFI Story, Yearn'ın 1. yıl dönümünü kutlayan yazılı bir kitaptır ve lansmanından bu yana Yearn'ın tarihini kapsar. Coordinape, Yearn topluluğu içinde yarı zamanlı katkıda bulunanları ödüllendirmek için yeni bir merkezi olmayan topluluk hibe programıdır. Tam zamanlı Yearn katkıda bulunanlar, bu yarı zamanlı katkıda bulunanlara ödül vermek için YFI'deki her dönemi oylarlar.
@@ -71,11 +70,11 @@ Finansal tablolar tahakkuk esasına göre sunulur. Yearn için mali yıl, 31 Ara
 - Diğer işletme giderleri, UX/UI iyileştirme maliyetleri, altyapı maliyetleri, promosyon etkinliği maliyetleri ve protokolün maruz kaldığı diğer öngörülemeyen giderlerle ilgili ancak bunlarla sınırlı olmayan yukarıdaki kategorilere girmeyen tüm diğer giderlerden oluşur. Yearn vault'larının kullanıcıları, çok sınırlı ve periyodik olarak, kendi hataları veya diğer öngörülemeyen olaylar nedeniyle kayıplar yaşarlar. Yearn bu kullanıcılara geri ödeme yapar ve masrafları üstlenir. Mayıs ve Haziran aylarında kullanıcılara sırasıyla 87 bin dolar ve 338 bin dolar geri ödeme yapıldı. Gelecekte periyodik kayıpların meydana geleceğini tahmin ediyoruz, ancak bu maliyetlerin gelirlere kıyasla büyük olmasını beklemiyoruz.
 - Diğer gelirler/(giderler), Yearn'in Hazine varlıklarıyla yaptığı verim-çiftçilik faaliyetleriyle ilişkili faiz gideridir. DeFi'deki merkezi olmayan borç verme protokollerinden ödünç alınan herhangi bir borca faiz uygulanır. Bu faiz gideri, muhasebenin tahakkuk esasına göre oluştuğu için tahakkuk ettirilir.
 - Düzeltilmiş FAVÖK, faiz, vergiler, amortisman ile çeşitli nakit olmayan harcamaları (jeton bazlı tazminat gibi) veya yinelenmeyen kalemleri içermez.
-- Yearn, kripto para birimi alanındaki elverişsiz piyasa koşullarına bağlı olarak çeyrek için en yüksek gelirdeki düşüşe rağmen, 2021 yılının 3.çeyrekinde güçlü ayarlanmış FAVÖK'ü üretti. 4. Çeyrek için FAVÖK büyümesinin devam etmesini bekliyoruz.
+- Yearn, kripto para birimi alanındaki elverişsiz piyasa koşullarına bağlı olarak çeyrek için en yüksek gelirdeki düşüşe rağmen, 2021 yılının 3.Çeyrekinde güçlü ayarlanmış FAVÖK'ü üretti. 4.Çeyrek için FAVÖK büyümesinin devam etmesini bekliyoruz.
 
 ---
 
-## Yearn'in 3. Çeyrek için işletme marjı %68'di ve maliyetlerin çoğu, başta Stratejist ücretleri olmak üzere, katkı payı ödemeleriyle ilişkilendirildi.
+## Yearn'in 3.Çeyrek için işletme marjı %68'di ve maliyetlerin çoğu, başta Stratejist ücretleri olmak üzere, katkı payı ödemeleriyle ilişkilendirildi.
 
 ![](./image3.jpg?w=964&h=687)
 
@@ -91,7 +90,7 @@ Finansal tablolar tahakkuk esasına göre sunulur. Yearn için mali yıl, 31 Ara
 
 ![](./image4.jpg?w=620&h=691)
 
-- Yukarıda sunulan tablo, yalnızca 3. Çeyrek için toplam gelire göre sıralanmış ilk 25 yVault'u gösterir. Yearn, aşamalı olarak kullanımdan kaldırılan ve artık üretimde olmayan vault'lar dahil 125'in üzerinde yVault'u piyasaya sürdü.
+- Yukarıda sunulan tablo, yalnızca 3.Çeyrek için toplam gelire göre sıralanmış ilk 25 yVault'u gösterir. Yearn, aşamalı olarak kullanımdan kaldırılan ve artık üretimde olmayan vault'lar dahil 125'in üzerinde yVault'u piyasaya sürdü.
 - yvUSDC, YTD'nin üçüncü çeyreği itibarıyla en kârlı vault'umuz ve Yearn protokolü için 4,2 milyon ABD doları YTD üretti. yvUSDC vault'u, Compound Finance ve AAVE'de kaldıraçlı bir katlama stratejisi de dahil olmak üzere çeşitli stratejiler kullanır. Ek olarak, Abracadabra Finance, kullanıcıların teminat olarak yvUSDC vault jetonunu kullanarak MIM'i (Abracadabra'nın sabit parası) platformlarında basmasına olanak tanır. Kullanıcılar bu etkinliği gerçekleştirmek için yvUSDC vault'una para yatırdıkça, 21 Ağustos'tan itibaren daha yüksek gelirler elde ettik.
 - Kullanıcılar bu etkinliği gerçekleştirmek için yvUSDC vault'una para yatırdıkça, 21 Ağustos'tan itibaren daha yüksek gelirler elde ettik. Alchemix protokolünün kullanıcıları, DAI'yi yvDAI vault'u kazanç getiri sistemimize yatırır. Alchemix, bu kullanıcıların Alchemix protokolüne özgü sentetik bir belirteç olan alUSD biçiminde bir kredi limiti elde etmelerini sağlar.
 - En kârlı ETH yvault'umuz, Curve Finance'deki StETH likidite havuzundan CRV ödülleri kazanan yvStETH oldu. CRV ödülleri periyodik olarak toplanır ve vault'daki temel jetonlardan daha fazlasını satın almak için kullanılır. ETH mevduat sahipleri, kalıcı kayba (IL) minimum düzeyde maruz kalarak kazanç elde edebilirler. Bu vault, önemli IL riskleri olmadan Ethereum'da getiri elde etmenin en iyi riske göre ayarlanmış yollarından biridir.
@@ -115,7 +114,7 @@ Finansal tablolar tahakkuk esasına göre sunulur. Yearn için mali yıl, 31 Ara
 
 ![](./image6.jpg?w=782&h=162)
 
-- Coordinape, her ay YFI belirteçleri ile yarı zamanlı Yearn'a katkıda bulunanları ödüllendirmeye devam ediyor. 2021 3.çeyrek için, Coordinape katılımcılarına dağıtılan miktar, her ay kabaca 73-78 bin dolar değerinde YFI token'ine yükseldi.
+- Coordinape, her ay YFI belirteçleri ile yarı zamanlı Yearn'a katkıda bulunanları ödüllendirmeye devam ediyor. 2021 3.Çeyrek için, Coordinape katılımcılarına dağıtılan miktar, her ay kabaca 73-78 bin dolar değerinde YFI token'ine yükseldi.
 - Coordinape programı herkese açıktır ve bireyleri Yearn protokolüne katkıda bulunmaya ve çalışmaları için ödüllendirilmeye teşvik ediyoruz. Coordinape, merkezi olmayan bir hibe seçimi ve ödeme modelidir. Daha önce hibe alan ve tam zamanlı katkıda bulunanların her birine 100 GIVE jetonu tahsis edilir. Bu belirteçler, Yearn ekosistemindeki katkıda bulunanlara tahsis edilebilir. Maaş alan katkıda bulunanlar hibe almaya uygun değildir. yBudget ekibi tarafından onaylanan Coordinape bütçesi ikinci çeyrekte arttı ve Haziran 2021 itibariyle ayda yaklaşık 58 bin dolar oldu.
 - Coordinape'ye buradan ulaşabilirsiniz:https://coordinape.com/
 - Yearn, YFI Story'nin oluşturulmasıyla ilgili harcamalar yaptığından, 21 Temmuz'da hibe giderleri daha yüksekti. YFI Hikayesinin oluşturulmasına yardımcı olan katkıda bulunanlara, Yearn protokolüne nakit olmayan bir gider olan YFI jetonları ile ödeme yapıldı, yani bu alıcılara nakit ödemeler yerine Hazine'den YFI'ye ödeme yapıldı.
@@ -129,7 +128,7 @@ Finansal tablolar tahakkuk esasına göre sunulur. Yearn için mali yıl, 31 Ara
 - YIP-55: Geri Alım ve İnşa Yılı Kasım 2020'de onaylandı ve kazanç dağıtım modelinin (stake) yerini bir geri satın alma modeli aldı. Genel giderleri karşıladıktan sonraki kazançlar, YFI'nın Yearn's Hazinesine tahakkuk etmesi için geri satın almak için kullanılır.
 - yBudget ekibi, aylık kazanç analizine dayalı olarak YFI geri alımları için aylık bütçeleri belirler. Hazineye tahakkuk eden YFI, gelecekteki katkı sahiplerini (hakediş), protokoller arası girişimleri veya gelecekteki potansiyel likidite madenciliği programlarını teşvik etmek için kullanılır ve yBudget ve yPeople ekipleri tarafından belirlenir ve nihai olarak Multisig tarafından yürütülür.
 - Yearn, yeni bir YIP bu politikayı değiştirmedikçe, protokol kazançlarıyla her ay YFI'yi geri satın almaya devam ediyor.
-- 2021 2.ve 3. çeyrekte, Hazine'den anlamlı YFI geri alımları görüldü ve bunun öngörülebilir gelecekte devam edeceği tahmin edilmektedir.
+- 2021 2.ve 3.Çeyrekte, Hazine'den anlamlı YFI geri alımları görüldü ve bunun öngörülebilir gelecekte devam edeceği tahmin edilmektedir.
 
 ---
 
@@ -160,7 +159,7 @@ Finansal tablolar tahakkuk esasına göre sunulur. Yearn için mali yıl, 31 Ara
 
 - Yearn TVL, Q2-21'de belirlenen ve TVL'de 5 milyar doları aşan tüm zamanların en yüksek seviyesine ulaştı.
 - TVL'mizin çoğunluğu v2 yVault ürün serimizden türetilmiştir. Mayıs ayı sonlarında ve Haziran ayı boyunca v1 kasalarımızın önemli bir bölümünü v2 kasalarına geçirdik. Artık v1 kasalarını desteklemiyoruz ve tüm mevduat sahiplerini v2 kasalarına geçmeye teşvik ediyoruz.
-- Iron Bank, Yearn'in C.R.E.A.M. Finans ile işbirliği içinde olan kurum içi kredi platformudur. Iron Bank TVL'de 1.yarıdan 2.yarıya kadar büyüme görmeye devam ettik.
+- Iron Bank, Yearn'in C.R.E.A.M. Finance ile işbirliği içinde olan kurum içi kredi platformudur. Iron Bank TVL'de 1.Çeyrekten 2.Çeyreke kadar büyüme görmeye devam ettik.
 - Yearn'in **herhangi bir belirteç sübvansiyonu** veya tipik olarak DeFi'deki rakip protokoller tarafından sunulan diğer teşvikler olmadan TVL'de 5 milyar doların üzerinde parası var.
 - *Not: Yukarıda sunulan grafik 30 Eylül 2021 itibariyledir.*
 - Kaynak: Github: [yearn/yearn-exporter](https://github.com/yearn/yearn-exporter)
