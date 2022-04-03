@@ -17,7 +17,7 @@ Bienvenidos a la edición número 44 de la Newsletter de Yearn Finance. Con esta
 
 - Resultados de YIP-63
 - Encuesta al usuario del producto
-- Introducimos 4 nuevas yVaults
+- Hemos introducido 4 nuevas yVaults
 - Yearn es integrado en Defi Saver
 - No olvidemos a Woofy
 - Las vaults de Yearn
@@ -31,7 +31,7 @@ La votación reciente con respecto a YIP-63, ha resultado en el acuerdo de aport
 
 Como contexto, el DAO LeXpunK, es una coalición de constructores de Defi y abogados con el objetivo de crear un equipo de defensa legal mucho mayor y con una ética más alineada que los VCs de Silicon Valley. Es una iniciativa importante que servirá para luchar por el mundo cripto por los próximos años e incluso las próximas décadas.
 
-Lee la propuesta completa en el foro de Yearn [Aquí](https://gov.yearn.finance/t/yip-63-fund-builder-first-legal-activism-dao/11280).
+Puedes leer la propuesta completa en el foro de Yearn [Aquí](https://gov.yearn.finance/t/yip-63-fund-builder-first-legal-activism-dao/11280).
 
 Echa un vistazo a la transacción realizada por Yearn para el DAO [Aquí](https://etherscan.io/tx/0x0ec0fc55d6dc51b426a254bf2d6de138b1b9a1c3031f4ab3a7b39439fa004392)
 
@@ -39,7 +39,7 @@ Echa un vistazo a la transacción realizada por Yearn para el DAO [Aquí](https:
 
 Hemos realizado una nueva encuesta de usuarios para determinar lo que vosotros, los usuarios de la comunidad, quereis ver en Yearn.
  
-Yearn se encuentra en constante proceso de iteración con la ayuda de la comunidad, pero con esta encuesta, queremos ponernos manos a la obra para así determinar lo que vosotros, la comunidad, tenéis en mente para mejorar Yearn. Hemos visto crecimiento exponencial en el corto tiempo que llevamos en actividad y esperamos continuar innovando en los productos que lanzamos al mercado y dando mayor utilidad al token YFI. Creemos que podemos mejorar la experiencia de usuario en Yearn con la ayuda de vuestras ideas y de esa forma ser más competitivos en el mercado de generación de rendimiento así como en los distintos sectores donde nos desarrollamos.
+Yearn se encuentra en constante proceso de iteración con la ayuda de la comunidad, pero con esta encuesta, queremos ponernos manos a la obra para así determinar lo que vosotros, la comunidad, tenéis en mente para mejorar Yearn. Hemos visto un crecimiento exponencial en el corto tiempo que llevamos en actividad y esperamos continuar innovando en los productos que lanzamos al mercado y dando mayor utilidad al token YFI. Creemos que podemos mejorar la experiencia de usuario en Yearn con la ayuda de vuestras ideas y de esa forma ser más competitivos en el mercado de generación de rendimiento así como en los distintos sectores donde nos desarrollamos.
 
 Completa la encuesta [Aquí](https://yearnfinance.typeform.com/to/ojp3J8gn).
 
@@ -47,21 +47,21 @@ Completa la encuesta [Aquí](https://yearnfinance.typeform.com/to/ojp3J8gn).
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image3.jpg?w=611&h=298)
 
-4 nuevas yVaults están ahora disponibles en nuestra web. Deposita hoy y genera rendimiento con tu AAVE, COMP, TUSD y SUSHI.
+4 nuevas yVaults están ahora disponibles en nuestra web. Deposita hoy y genera rendimiento con tus AAVE, COMP, TUSD y SUSHI.
  
-Las vaults de AAVE, COMP y SUSHI generan rendimiento haciendo staking en [universe.xyz](https://universe.xyz/polymorphs), por lo que no se encuentran expuestos a pérdidas impermanentes. TUSD genera rendimiento en Kashi dentro de SushiSwap.
+Las vaults de AAVE, COMP y SUSHI generan rendimiento haciendo staking en [universe.xyz](https://universe.xyz/polymorphs), por lo que no se encuentran expuestas a pérdidas impermanentes. TUSD genera rendimiento en Kashi dentro de SushiSwap.
 
-Puedes ver las últimas APYs de estas vaults y depositar en las mismas haciendo clic en este [Enlace](https://yearn.finance/vaults).
+Puedes ver las últimas APYs de estas vaults y depositar en las mismas haciendo click en este [Enlace](https://yearn.finance/vaults).
 
 ## **Yearn ha sido Integrado en Defi Saver**
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image4.jpg?w=1012&h=506)
 
-YFI ha sido integrado en el creador de recetas de Defi Saver. Con esta integración, puedes depositar cualquier activo soportado en las vaults de Yearn usando Defi saver, además combinar esta acción con cualquier otra interacción con el protocolo. Algunos ejemplos se encuentran detallados abajo.
+YFI ha sido integrado en el creador de recetas de Defi Saver. Con esta integración, puedes depositar cualquier activo soportado en las vaults de Yearn usando Defi saver, y además combinar esta acción con cualquier otra interacción con el protocolo. Algunos ejemplos se encuentran detallados abajo.
  
-Primero, puedes crear una vault en MakerDAO y depositar los DAI recibidos en el préstamo en una vault de Yearn, todo en una sola transacción. La comisión de estabilidad para ETH-A en Maker es del 2% y el APY neto en la vault de Yearn es del 6.5%. La receta puede ser encontrada [Aquí](https://app.defisaver.com/recipes/create?recipe=V3JhcEV0aEFjdGlvbiwyMDtSZWZsZXhlck9wZW5TYWZlQWN0aW9uLEVUSC1BO1JlZmxleGVyU3VwcGx5QWN0aW9uLCQyLHJlY2lwZSxBbGwgYXZhaWxhYmxlO1JlZmxleGVyR2VuZXJhdGVBY3Rpb24sJDIsNjY2NixyZWNpcGU7U2VsbEFjdGlvbiwweDAzYWI0NTg2MzQ5MTBhYWQyMGVmNWYxYzhlZTk2ZjFkNmFjNTQ5MTkscmVjaXBlLDY2NjYsMHhBMGI4Njk5MWM2MjE4YjM2YzFkMTlENGEyZTlFYjBjRTM2MDZlQjQ4LHJlY2lwZSwxO1llYXJuU3VwcGx5QWN0aW9uLDB4QTBiODY5OTFjNjIxOGIzNmMxZDE5RDRhMmU5RWIwY0UzNjA2ZUI0OCxyZWNpcGUsQWxsIGF2YWlsYWJsZSx3YWxsZXQ%3D).
+Primero, puedes crear una vault en MakerDAO y depositar los DAI recibidos del préstamo en una vault de Yearn, todo en una sola transacción. La comisión de estabilidad para ETH-A en Maker es del 2% y el APY neto en la vault de Yearn es del 6.5%. La receta puede ser encontrada [Aquí](https://app.defisaver.com/recipes/create?recipe=V3JhcEV0aEFjdGlvbiwyMDtSZWZsZXhlck9wZW5TYWZlQWN0aW9uLEVUSC1BO1JlZmxleGVyU3VwcGx5QWN0aW9uLCQyLHJlY2lwZSxBbGwgYXZhaWxhYmxlO1JlZmxleGVyR2VuZXJhdGVBY3Rpb24sJDIsNjY2NixyZWNpcGU7U2VsbEFjdGlvbiwweDAzYWI0NTg2MzQ5MTBhYWQyMGVmNWYxYzhlZTk2ZjFkNmFjNTQ5MTkscmVjaXBlLDY2NjYsMHhBMGI4Njk5MWM2MjE4YjM2YzFkMTlENGEyZTlFYjBjRTM2MDZlQjQ4LHJlY2lwZSwxO1llYXJuU3VwcGx5QWN0aW9uLDB4QTBiODY5OTFjNjIxOGIzNmMxZDE5RDRhMmU5RWIwY0UzNjA2ZUI0OCxyZWNpcGUsQWxsIGF2YWlsYWJsZSx3YWxsZXQ%3D).
 
-Otra alternativa es abrir una posición en ETH en Reflexer y utilizarla como colateral para coger un préstamo en RAI. La comisión de estabilidad en reflexer es de -0.5% y puedes intercambiar RAI por algún activo con rendimiento mayor, USDC o DAI, y depositarlo en Yearn. La receta puedes conseguirla [Aquí](https://app.defisaver.com/recipes/create?recipe=V3JhcEV0aEFjdGlvbiwyMDtSZWZsZXhlck9wZW5TYWZlQWN0aW9uLEVUSC1BO1JlZmxleGVyU3VwcGx5QWN0aW9uLCQyLHJlY2lwZSxBbGwgYXZhaWxhYmxlO1JlZmxleGVyR2VuZXJhdGVBY3Rpb24sJDIsNjY2NixyZWNpcGU7U2VsbEFjdGlvbiwweDAzYWI0NTg2MzQ5MTBhYWQyMGVmNWYxYzhlZTk2ZjFkNmFjNTQ5MTkscmVjaXBlLDY2NjYsMHhBMGI4Njk5MWM2MjE4YjM2YzFkMTlENGEyZTlFYjBjRTM2MDZlQjQ4LHJlY2lwZSwxO1llYXJuU3VwcGx5QWN0aW9uLDB4QTBiODY5OTFjNjIxOGIzNmMxZDE5RDRhMmU5RWIwY0UzNjA2ZUI0OCxyZWNpcGUsQWxsIGF2YWlsYWJsZSx3YWxsZXQ%3D).
+Otra alternativa es abrir una posición en ETH en Reflexer y utilizarla como colateral para coger un préstamo en RAI. La comisión de estabilidad en reflexer es de -0.5% y puedes intercambiar RAI por algún activo con rendimiento mayor, como USDC o DAI, y depositarlo en Yearn. Puedes conseguir la receta [Aquí](https://app.defisaver.com/recipes/create?recipe=V3JhcEV0aEFjdGlvbiwyMDtSZWZsZXhlck9wZW5TYWZlQWN0aW9uLEVUSC1BO1JlZmxleGVyU3VwcGx5QWN0aW9uLCQyLHJlY2lwZSxBbGwgYXZhaWxhYmxlO1JlZmxleGVyR2VuZXJhdGVBY3Rpb24sJDIsNjY2NixyZWNpcGU7U2VsbEFjdGlvbiwweDAzYWI0NTg2MzQ5MTBhYWQyMGVmNWYxYzhlZTk2ZjFkNmFjNTQ5MTkscmVjaXBlLDY2NjYsMHhBMGI4Njk5MWM2MjE4YjM2YzFkMTlENGEyZTlFYjBjRTM2MDZlQjQ4LHJlY2lwZSwxO1llYXJuU3VwcGx5QWN0aW9uLDB4QTBiODY5OTFjNjIxOGIzNmMxZDE5RDRhMmU5RWIwY0UzNjA2ZUI0OCxyZWNpcGUsQWxsIGF2YWlsYWJsZSx3YWxsZXQ%3D).
 
 Echa un vistazo a otras recetas usando Yearn [Aquí](https://app.defisaver.com/).
 
@@ -69,7 +69,7 @@ Echa un vistazo a otras recetas usando Yearn [Aquí](https://app.defisaver.com/)
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image5.jpg?w=986&h=1251)
 
-Al convertir YFI a WOOFY con un cambio de 1 YFI por 1 millón de WOOFY, puedes depositarlo en un fondo de liquidez, utilizar un puente a otras cadenas de bloques como Polygon o Fantom, y depositarlo en [ape.tax](https://ape.tax/) para obtener un rendimiento increíble.
+Al convertir YFI a WOOFY con un cambio de 1 YFI por 1 millón de WOOFY, puedes depositarlo en un fondo de liquidez, utilizar un puente a otras blockchains como Polygon o Fantom, y depositarlo en [ape.tax](https://ape.tax/) para obtener un rendimiento increíble.
  
 Intercambia YFI por Woofy [Aquí](https://woofy.finance/).
 

@@ -68,7 +68,7 @@ Información sobre las re-compras [Aquí](https://www.yfistats.com/financials/YF
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-47/image5.jpg?w=1456&h=827)
 
-Yearn ha generado 43M de dólares en ingresos desde su lanzamiento (excluyendo los intereses generados por sus depositantes). En los pasados 30 días se han generado casi 6M de dólares en el protocolo. Estos datos permiten proyectar ingresos anuales cercanos a los 70M de dólares.
+Yearn ha generado 43M de dólares en ingresos desde su lanzamiento (excluyendo los intereses generados por sus depositantes). En los últimos 30 días se han generado casi 6M de dólares en el protocolo. Estos datos permiten proyectar ingresos anuales cercanos a los 70M de dólares.
 
 Los ingresos acumulados de Yearn y otras estadísticas son visibles [Aquí](https://www.yfistats.com/).
 

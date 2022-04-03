@@ -15,7 +15,7 @@ translator: Restlessmik3
 
 ![](./image1.jpg?w=1100&h=554)
 
-Bienvenido a la 55.ª edición de la newsletter de Yearn Finance. Nuestro objetivo con este boletín es mantener a Yearn y a la comunidad cripto informada sobre las últimas noticias, incluidos los lanzamientos de productos, los cambios en la gobernanza y las actualizaciones del ecosistema. Si está interesado en obtener más información sobre Yearn Finance, sigue nuestras cuentas oficiales [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn).
+Bienvenido a la 55.ª edición de la newsletter de Yearn Finance. Nuestro objetivo con este boletín es mantener a Yearn y a la comunidad cripto informada sobre las últimas noticias, incluidos los lanzamientos de productos, los cambios en la gobernanza y las actualizaciones del ecosistema. Si estás interesado en obtener más información sobre Yearn Finance, sigue nuestras cuentas oficiales [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn).
 
 ## Resumen
 
@@ -46,17 +46,17 @@ Los productos principales de Yearn son Vaults, Iron Bank, Labs y los tokens YFI/
 
 La entrevista termina mencionando las próximas actualizaciones del token YFI, como las recompras que se otorgan a los titulares, xYFI, veYFI y los indicadores de vault.
 
-Consulte el nuevo artículo completo [aquí](https://fantom.foundation/blog/fantom-ecosystem-spotlight-yearn/?__cf_chl_rt_tk=rdrT2KHoFbjTe1yyUOmIDA92AeTmrMPKtQW5yT18mwk-1643234302-0-gaNycGzNCH0).
+Consulta el nuevo artículo completo [aquí](https://fantom.foundation/blog/fantom-ecosystem-spotlight-yearn/?__cf_chl_rt_tk=rdrT2KHoFbjTe1yyUOmIDA92AeTmrMPKtQW5yT18mwk-1643234302-0-gaNycGzNCH0).
 
 # Actualizaciones web de Yearn
 
 ![](./image4.jpg?w=900&h=734)
 
-La actualización web de Yearn de esta semana incluye información sobre herramientas de desplazamiento de APY agregada a la interfaz de usuario y una corrección de polvo para retiros de vault
+La actualización web de Yearn de esta semana incluye información sobre las herramientas de desplazamiento de APY agregada a la interfaz del usuario y una corrección de polvo para retiros de vault.
 
 Próximamente habrá mejoras de seguridad, con un informe detallado, UI/UX multicadena mejorada y soporte para una nueva cadena.
 
-Consulte la nueva actualización completa [aquí](https://yearnweb.substack.com/p/yearn-web-engineering-update-7d7?r=2y79e&utm_campaign=post&utm_medium=web).
+Consulta la nueva actualización completa [aquí](https://yearnweb.substack.com/p/yearn-web-engineering-update-7d7?r=2y79e&utm_campaign=post&utm_medium=web).
 
 # Yearn finance explicado
 
@@ -66,11 +66,11 @@ Las vaults de Yearn están generando tokens IOU creados por estrategas que lleva
 
 Una estrategia utilizada anteriormente en Yearn se puede ver en v1 Ethereum yVault: cuando un usuario deposita ETH, el ETH se presta en MakerDAO como garantía, que se usa para pedir prestado DAI que luego se deposita en DAI yVault.
 
-Algunas preguntas comunes que pueden tener los usuarios son "¿Cómo/cuándo mueve Yearn los fondos dentro de la bóveda y cobra tarifas?" y “¿Cómo garantiza Yearn una estrategia para generar tokens siempre en lugar de perderlos?”. Una de las funciones clave de una estrategia se llama “cosecha”. Cuando se llama, desencadena un proceso de reequilibrio en el que se obtienen ganancias y se reinvierten en la estrategia. Los estrategas también usan una serie de herramientas para monitorear los datos en cadena para garantizar la salud de la estrategia. Una de esas herramientas es Yearn Watch, que presenta una interfaz de usuario agradable con muchas de las métricas clave en vivo en la cadena de bloques.
+Algunas preguntas comunes que pueden tener los usuarios son "¿Cómo/cuándo mueve Yearn los fondos dentro de la bóveda y cobra tarifas?" y “¿Cómo garantiza Yearn una estrategia para generar tokens siempre en lugar de perderlos?”. Una de las funciones clave de una estrategia se llama “cosecha”. Cuando se llama, desencadena un proceso de reequilibrio en el que se obtienen ganancias y se reinvierten en la estrategia. Los estrategas también usan una serie de herramientas para monitorear los datos en cadena para garantizar la salud de la estrategia. Una de esas herramientas es Yearn Watch, que presenta una interfaz de usuario agradable con muchas de las métricas clave en vivo en la blockchain.
 
-Yearn y Keep3r también tienen una fuerte sinergia en la automatización de las tareas necesarias para que las bóvedas mantengan su rendimiento. Para construir estrategias, necesitará una buena comprensión de Vyper (para yVaults) y Solidity (para estrategias). Los requisitos básicos para convertirse en estratega son: conocimiento sobre el ecosistema de cadena de bloques en el que se implementará, que se puede adquirir haciendo una investigación profunda de tokenómica y documentación para todos los tokens utilizados en la estrategia en sí, conocimiento de programación Solidity similar a completar Level 4 en CryptoZombies y saber cómo sortear git, eth-brownie y ganache.
+Yearn y Keep3r también tienen una fuerte sinergia en la automatización de las tareas necesarias para que las bóvedas mantengan su rendimiento. Para construir estrategias, necesitarás una buena comprensión de Vyper (para yVaults) y Solidity (para estrategias). Los requisitos básicos para convertirse en estratega son: conocimiento sobre el ecosistema de blockchain en el que se implementará, que se puede adquirir haciendo una investigación profunda de tokenómica y documentación para todos los tokens utilizados en la estrategia en sí, conocimiento de programación Solidity similar a completar Level 4 en CryptoZombies y saber cómo sortear git, eth-brownie y ganache.
 
-¡Después de comprender los conceptos básicos de las herramientas anteriores, está listo para copiar nuestra plantilla de estrategia! Las funciones que debe comenzar a cambiar en esta plantilla para construir con su propia primera estrategia son prepararRetorno, ajustarPosición y liquidarPosición. Puede encontrar la plantilla de estrategia [aquí](https://github.com/yearn/brownie-strategy-mix).
+¡Después de comprender los conceptos básicos de las herramientas anteriores, estás listo para copiar nuestra plantilla de estrategia! Las funciones que debes comenzar a cambiar en esta plantilla para construir con tu propia primera estrategia son prepararRetorno, ajustarPosición y liquidarPosición. Puedes encontrar la plantilla de estrategia [aquí](https://github.com/yearn/brownie-strategy-mix).
 
 Gracias a MarcoWorms por el artículo que se puede encontrar [aquí](https://medium.com/iearn/yearn-finance-explained-what-are-vaults-and-strategies-96970560432).
 
