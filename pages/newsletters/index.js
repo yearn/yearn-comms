@@ -10,7 +10,7 @@ function	Index({allPosts}) {
 
 export default Index;
 
-export const getStaticProps = async ({locale, params}) => {
+export const getStaticProps = async ({locale}) => {
 	const	childrens = [['newsletters/', ['']]];
 	const	dirs = [];
 	for (let index = 0; index < childrens.length; index++) {
@@ -45,7 +45,7 @@ export const getStaticProps = async ({locale, params}) => {
 	}
 	return {
 		props: {
-			path: params.path,
+			path: 'newsletters',
 			allPosts: {
 				col1,
 				col2,
