@@ -92,7 +92,7 @@ What comes next is up to you.
 
 # Yearn Contributors
 
-![](./image6.png?w=1456&h=928)
+![](./image6.jpg?w=800&h=510)
 
 If Yearn values one trait more than any other, it is a willingness to act. It's so ingrained into Yearn’s culture, we call our most active contributors *Doers*. It's a noun and a descriptor, but it's more than that… it's a commandment to act.
 
