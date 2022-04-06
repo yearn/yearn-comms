@@ -1,7 +1,7 @@
 ---
 title:  "Yearn 110 trilyon dolarlık varlık yönetimi endüstrisini bozabilir mi?"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 1280
   height: 800
 date: '2021-04-07'
@@ -23,7 +23,7 @@ translator: Dastronom
 
 [DeFiPulse](https://defipulse.com/)'a göre DeFi, 3.5 yıldır inanılmaz bir şekilde büyüyor. Kilitlenen Toplam Değer (TVL) 2017'nin 3. çeyreğinde 2 milyon dolardan az iken 2021 yılının ilk çeyreğinde 44.6 milyar dolara yükseldi. [Defillama](https://defillama.com/home) Ethereum'un 2021'in ilk çeyreğinde 68,5 milyar dolarlık TVL'ye sahip. Uniswap'ın işlem hacmi [Eylül 2020](https://www.theblockcrypto.com/linked/79775/uniswap-coinbase-monthly-volume-september) için Coinbase'inkini aştı. Artık soru, DeFi'nin geleneksel finansı bozup bozmayacağı değil, hangi DeFi protokollerinin bozacağıdır.
 
-![](image1.png?w=528&h=274)DeFi TVL'deki büyüme 3,5 yıldır patlamaya hazır¹
+![](image1.jpg?w=528&h=274)DeFi TVL'deki büyüme 3,5 yıldır patlamaya hazır¹
 
 Yearn, Ethereum üzerinde bir varlık yönetimi protokolüdür. 2021 yılının ilk çeyreğinde 1.8 milyar dolarlık Ether, stablecoin ve DeFi tokenlerini yönetti. Ama bu geçen haftaydı, şimdi [2,5 milyar dolar](https://yearn.science/).
 
@@ -33,7 +33,7 @@ Yearn, kriptonuzu bir getiri elde etmek için otomatik olarak DeFi protokollerin
 
 Geleneksel finansta varlıklar, iyi bilinen birkaç varlık yöneticisine yönelir. Sektör hiçbir şekilde kazanan her şeyi almasa da, oldukça yoğundur.
 
-![](image2.png?w=700&h=459)Varlık yönetimi endüstrisi trilyonlarca AUM ile ölçülür ve oldukça yoğundur ([30 Haziran 2020 verileri](https://www.advratings.com/top-asset-management-firms))
+![](image2.jpg?w=700&h=459)Varlık yönetimi endüstrisi trilyonlarca AUM ile ölçülür ve oldukça yoğundur ([30 Haziran 2020 verileri](https://www.advratings.com/top-asset-management-firms))
 
 Yearn, geleneksel varlık yönetiminde doğrudan karşılaştırılabilir değildir. Bu bir banka değil, kredilerden getiri elde ediyor. Bir riskten korunma fonu değil, aktif stratejiler yürütüyor.
 
@@ -43,7 +43,7 @@ Yearn, geleneksel varlık yönetiminde doğrudan karşılaştırılabilir değil
 
 Blackrock'un 2020 3. Çeyrek gelirinin %74'ü yatırım danışmanlığı, ücretler ve menkul kıymet kredilerinden geldi. Yearn'in gelirleri de benzer şekilde kategorize edilebilir.
 
-![](image3.png?w=700&h=247)
+![](image3.jpg?w=700&h=247)
 
 Benzer gelir kaynakları. Farklı teknolojiler.
 
@@ -74,7 +74,7 @@ Yearn'in bu sorunlarla nasıl başa çıkabildiği, DeFi'nin Ethereum üzerindek
 - şeffaflık — herkes Etherscan'da aşağıda gösterilen [işlemi](https://etherscan.io/tx/0x21a3007a2547a9d6f1bceb44cb9292b36079fcccd8f36f7ec1ca066db261e153) görüntüleyebilir
 - aracı yok - Goldman Sachs veya Morgan Stanley'e gerek yok
 
-![](image4.png?w=700&h=272)
+![](image4.jpg?w=700&h=272)
 
 Ethereum'da 200 milyon dolarlık bir sermaye artışı son derece ucuz
 
@@ -86,7 +86,7 @@ Dai vault'u istismarının ardından Yearn, sözleşmeye bağlı olarak yüküml
 - Evrak yok
 - İnsan gerekmez - sadece mor bir tavşan
 
-![](image5.png?w=700&h=322)
+![](image5.jpg?w=700&h=322)
 
 Ethereum'da 9.7 milyon dolarlık teminatlı kredi almak son derece ucuz
 
@@ -98,7 +98,7 @@ Ethereum'daki bir varlık yönetimi protokolünü en büyük küresel varlık y�
 
 Ether, Ethereum'daki açık ara en büyük varlıktır ve son zamanlarda piyasa değerine göre [en iyi 50 küresel varlık](https://companiesmarketcap.com/) haline geldi.
 
-![](image6.png?w=700&h=335)200 milyar dolarlık piyasa değeri, Ether'i en iyi 50 küresel varlık haline getiriyor
+![](image6.jpg?w=700&h=335)200 milyar dolarlık piyasa değeri, Ether'i en iyi 50 küresel varlık haline getiriyor
 
 **ETH ile neler yapabilirsiniz ve Yearn nasıl uyum sağlar?**
 
@@ -124,7 +124,7 @@ ETH üretken bir varlık haline geldi. Ancak Fransa'nın geleceği, yukarıdaki 
 
 DeFi belirteçleri, Ethereum'daki en yeni varlık türüdür.
 
-![](image7.png?w=700&h=270)
+![](image7.jpg?w=700&h=270)
 
 Değerli yönetimsiz jetonlar
 
@@ -143,7 +143,7 @@ Toplulukları, insanları protokole (ve nihayetinde tokenin fiyatına) yardımc�
 
 Piyasa, internet bağlantısı olan herkesin erişebileceği şeffaf ve adil (her cüzdanın aynı muamele gördüğü ölçüde) finansal sistemi temsil eden tokenlere daha fazla değer biçtiğinden, bu jetonların değeri geçen yıl önemli ölçüde arttı. Nakit akışları da yardımcı olur.
 
-![](image8.png?w=700&h=393)
+![](image8.jpg?w=700&h=393)
 
 DeFi protokolleri yakın zamanda toplam gelirde 1 milyar doları aştı (Token Terminali)
 
@@ -153,7 +153,7 @@ En popüler sabit paralar 1 USD'yi temsil eder ve kripto (örneğin Maker's Dai)
 
 Stablecoin'ler, borç verme, ticaret veya likidite madenciliğinden getiri elde edebilecekleri Ethereum'a taşınıyor. Geleneksel bankalar ödeme yaparken [%0'a yakın](https://twitter.com/mattysino/status/1379368078979391488?s=20) bu stablecoin'lerin fiat'a geri çevrildiğini görmek zor. Bu, Ethereum'daki stablecoin arzının son 12 ayda neden %600 arttığını açıklamanın bir yolu.
 
-![](image9.png?w=657&h=446)
+![](image9.jpg?w=657&h=446)
 
 İnsanlar bankadaki dolarlara Ethereum'daki sabit paraları tercih ediyor ([https://duneanalytics.com/hagaetc/stablecoins](https://duneanalytics.com/hagaetc/stablecoins))
 
@@ -167,7 +167,7 @@ Yearn'in stabilcoin stratejileri 2020'nin başından bu yana uzun bir yol kat et
 
 Bitcoin bile Ethereum'a giden yolu buluyor. Mart 2021'in sonunda, MicroStrategy (5,4 milyar $) ve Tesla'nın ([1,5 milyar $](https://www.cnbc.com/2021/02/08/tesla-buys-1point5-billion-in-bitcoin.html)) toplamından daha fazla [Ethereum'da bitcoin](https://btconethereum.com/) (10 milyar dolar) vardı. Ana akım medya bunu başaramayacak.
 
-![](image10.png?w=700&h=410)
+![](image10.jpg?w=700&h=410)
 
 Ethereum'da tokenize edilmiş bitcoin ([https://duneanalytics.com/queries/4962/9776](https://duneanalytics.com/queries/4962/9776))
 
@@ -185,7 +185,7 @@ Eter, DeFi belirteçleri, sabit paralar ve belirteçleştirilmiş bitcoin, Ether
 
 Aşağıdaki tablo, hisse senetlerinin neden önemli olduğunu göstermektedir. [95 trilyon $](https://www.cnbc.com/2020/11/12/global-stock-market-value-rises-to-a-record-95-trillion-this-week-on-vaccine-hope.html) ile piyasa değeri, toplam kripto piyasa değerinin 50 katı büyüklüğünde.
 
-![](image11.png?w=480&h=289)
+![](image11.jpg?w=480&h=289)
 
 Küresel hisse senetleri kripto piyasa değerinin 50katı
 
@@ -217,7 +217,7 @@ Halihazırda var olan hisse senetlerini tokenize etmek, Ethereum'daki bir varlı
 
 İlk Halka Arzlar (IPO'lar) pahalıdır. Bir PWC raporundaki sigortalama ücretleri aşağıda gösterilmiştir. 25 milyon doların altındaki anlaşmalar için fiyat teklifi olmadığını unutmayın, geleneksel finansa hoş geldiniz. Sağdaki sütun, Ethereum kullanılarak bir gün aracısız hale getirilebilecek aracıların sayısını gösterir.
 
-![](image12.png?w=655&h=267)
+![](image12.jpg?w=655&h=267)
 
 Geleneksel finansta halka arzlar için [Taahhüt ücretleri](https://www.pwc.com/us/en/services/deals/library/cost-of-an-ipo.html).
 
@@ -231,7 +231,7 @@ Her ikisi de Ethereum ([fon](https://www.coindesk.com/ether-fund-ipo-3iq-tsx) ve
 
 Tahviller, kripto ve hisse senetlerinden daha az risklidir (tarihsel inişçıkışlarla ölçülür). Bunların [100 trilyon dolardan](https://www.icmagroup.org/Regulatory-Policy-and-Market-Practice/Secondary-Markets/bond-market-size/) fazlası var. Eğer olursa, muhtemelen Ethereum'a en son gelecekler. Kimse Sparta Konseyi'ni sentetik bir 30 yıllık ABD hazinesi olan sTMUBMUSD30Y için %2,4 pa verimle kilitlemek için rahatsız etmiyor. Bununla birlikte, suları test eden büyük geleneksel finansal oyuncuların işaretleri var.
 
-![](image13.png?w=2572&h=792)
+![](image13.jpg?w=2572&h=792)
 Blok zincirlerinde tahvil ihracının geçmişi ([Binance Araştırması](https://research.binance.com/en/analysis/santander-bond), Coindesk)
 
 Bu kurum ve şirketler teknolojiyi ucuz olduğu için test ediyor. Ucuzsa, onlara para kazandırır ve rakiplerine karşı avantaj sağlar.
@@ -257,7 +257,7 @@ Ancak bunlar şirketler. Merkezileşmişlerdir.
 DeFi girişimcilerinin karşılaştığı zorluk, aracının yerini alan kod ile sansüre dayanıklı bir şekilde ticaret, borç alma ve borç vermenin bir yolunu bulmaktı. Modeller geleneksel finansı kopyalasalar bile şeffaflık, aracısız olma ve internet bağlantısı olan herkesin kullanımına açık olma avantajlarına sahip olacaklardı.
 
 
-![](image14.png?w=700&h=407)Kripto getirilerinin tarihi MÖ⁴ 0'dan önce gelir
+![](image14.jpg?w=700&h=407)Kripto getirilerinin tarihi MÖ⁴ 0'dan önce gelir
 
 Compound Finance'in borç verme protokolü, getiri elde etmenizi sağlayan ilk DeFi protokolüydü. Ancak, Haziran 2020'de [COMP lansmanı](https://www.coindesk.com/compounds-comp-token-price-doubles-amid-defi-mania) jetonunu kullanana kadar, kullanım fırladı.
 
@@ -274,7 +274,7 @@ Cronje, Yearn v1 üzerinde çalışmaya başladığında, insanların DeFi proto
 - ilgili risklerin anlaşılması
 - çok zaman - hem getirileri kontrol etmek hem de işlemleri yapmak için
 
-![](image15.png?w=700&h=408)Yearn'in çözmesine yardımcı olan DeFi ile ilgili sorunlar
+![](image15.jpg?w=700&h=408)Yearn'in çözmesine yardımcı olan DeFi ile ilgili sorunlar
 
 Başlangıçta Andre bu işlemleri manuel olarak gerçekleştirdi. Sermayeyi toplayarak, gaz ücretleri paylaşılabilir, herkesin tüm protokolleri aynı ayrıntı düzeyinde anlaması gerekmez ve paranızı yatırabilir ve işi bir kişinin yapmasına izin verebilirsiniz. Zorluk, süreci otomatikleştirmekti.
 
@@ -290,7 +290,7 @@ Curve, CRV'yi kilitlemek için "takviyeler" kavramını tanıttığında, Yearn,
 
 Ama Andre hâlâ mutlu değildi. Baktığı her yerde, Cream Finance'de (Yılın ekosisteminde bir borç verme protokolü) atıl duran sermaye gibi sermaye verimsizlikleri vardı. Cream Finance'de 10 milyon Dai'nin oturduğunu ve ödünç verilmediğini (dolayısıyla getiri elde etmediğini) ve Yearn'in çok kısa bir süre için bile olsa Dai'de %10 APY kazanabilecek bir stratejisi olduğunu varsayalım. Ya Yearn bu Dai'yi daha düşük bir faiz oranı için ödünç alabilir, %10 APY kazanabilir ve strateji artık fazla getiri sağlamadığında ya da Cream Finance'deki mevduat sahibi Dai'lerinin iade edilmesini istediğinde krediyi geri ödeyebilirse? Yearn bunu kendi çıkarı için değil, mevduat sahiplerinin getirilerini artırmak için yapıyor. [protokolden protokole teminatsız kredi verme](https://creamdotfinance.medium.com/introducing-the-iron-bank-bab9417c9a) alanında bir ilkti.
 
-![](image16.png?w=700&h=406)Yearn'in verimdeki yenilikleri
+![](image16.jpg?w=700&h=406)Yearn'in verimdeki yenilikleri
 
 Yukarıdaki diyagramın alt kısmındaki çubuk, başka bir ekosistem ortağı Sushi'nin yardımıyla gelen verimdeki bir yeniliği temsil ediyor. İnsanları CRV'lerini süresiz olarak kilitlemeye teşvik etmenin bir yolu olarak Yearn, yveCRV adlı karmaşık bir varlık yarattı. Ancak, yveCRV için bir pazar yoktu, bu nedenle Yearn insanları Sushi'de ödüller sunarak yveCRV-ETH'ye likidite sağlamaya teşvik etti. Bu, bir ekosistem ortağı kullanarak likit olmayan bir varlığı likit hale getirdi. Bu, ortalama DeFi protokolünüz değil.
 
@@ -302,7 +302,7 @@ YIP-48'de önerilen vault yeniden tasarımı şimdi uygulandı, denetimler yapı
 
 Aşağıdaki resim, aynı anda 6 stratejiyi uygulayan mevduat sahipleri için getiri elde eden yvDai vault'unu göstermektedir (strateji etiketleri yeşil renktedir)
 
-![](image17.png?w=700&h=925)
+![](image17.jpg?w=700&h=925)
 
 Tek vault'da altı strateji ([https://twitter.com/bantg/status/1377681238249574404?s=20](https://twitter.com/bantg/status/1377681238249574404?s=20))
 
@@ -324,7 +324,7 @@ Daha büyük zorluk, Ethereum'daki varlıklar ve protokollerle etkileşimin ger�
 
 Yearn's markasının önemli bir parçası, Cronje'nin 2020'nin başlarındaki ilk sürümde öncelik verdiği güvenliğe odaklanmasıdır. Geliştiriciler, hangi protokollerin ve stratejilerin güvenilir olduğunu belirlemeli, potansiyel ekonomik istismarları düşünmeli, mevduatları belirli stratejilerle sınırlandırmalı ve bunları kapsamanın yollarını bulmalıdır. istismarların meydana gelmesi durumunda kayıplar. Yearn'in güvenliği ciddiye alma ve ortaya çıkan sorunları çözme hızı, [güvenlik açığı açıklama raporlarında](https://github.com/yearn/yearn-security/tree/master/disclosures) ve [sistem spesifikasyonunda](https://github.com/yearn/yearn-vaults/blob/master/SPECIFICATION.md) ayrıntılarla kanıtlanmıştır. Daha yüksek seviyeli risk kontrolleri aşağıdaki tabloda gösterilmiştir.
 
-![](image19.png?w=700&h=283)1. günden itibaren güvenliğe öncelik vermek
+![](image19.jpg?w=700&h=283)1. günden itibaren güvenliğe öncelik vermek
 
 YAcademy, yukarıdaki listeden favorim çünkü Yearn ve genel olarak DeFi'nin ortaya çıkan doğasını gösteriyor. Sadece bazı geliştiricilerin (Andre) bazı kodlar yazmasıyla başladı (Yearn v1). Tanımadığı insanlar bunun ilginç olduğunu düşündü ve onunla etkileşime girmeye başladı, bu yüzden tartışıldığı bir telgraf grubu başlattı. Kodun denetlenmesi gerekliydi, ancak gerekli becerilere sahip az sayıda insan olması ve zor ve zaman alıcı olması nedeniyle pahalı ve yavaştı. Sadece Yearn için değil, tüm DeFi için hala bir darboğaz. 9 ay sonra Ali Atiia **(**@aliatiia\_) bir [yönetim teklifi](https://gov.yearn.finance/t/lets-poach-samczsun-and-plant-the-seed-for-an-auditing-academy/5507) sundu (2.3 bin kişi tarafından izlendi) Yearn'in denetçi yetiştirecek bir akademi geliştirmesi için. Tekliften 2 ay sonra ve eldeki Gitcoin ve Status ile bir ortaklık, [YIP-53](https://gov.yearn.finance/t/yip-53-yacademy-planting-the-seed-of-a-sustainably-secure-future-for-yearn-and-beyond/7929) gönderildi. Bu, resmi olarak bir bütçe ve ayrıntılı bir şartname ile yAcademy'yi yaratır.
 
@@ -334,7 +334,7 @@ Bu yönetim olmadan oldu. İK departmanı yok. Özgeçmiş yok.
 
 Yearn'in riske göre ayarlanmış getirilerde inovasyona nasıl öncülük ettiğini açıklamak bir şeydir, ancak sonuçta varlık yönetimi endüstrisi tek bir temel metrik kullanır ve bu da AUM'dur (DeFi'de TVL). Bu son çeyrekte 3 kat arttı. Kendileri hızlı bir şekilde büyüyen Ethereum'daki varlıkların %1'inden daha azında, Yearn's AUM'nin büyümesi için hala bolca yer var.
 
-![](image20.png?w=700&h=501)Yearn'in TVL'si 31 Mart 2021'de 1,84 milyar dolara ulaştı — The Block (ve banteg)
+![](image20.jpg?w=700&h=501)Yearn'in TVL'si 31 Mart 2021'de 1,84 milyar dolara ulaştı — The Block (ve banteg)
 
 **5\. Rekabet**
 

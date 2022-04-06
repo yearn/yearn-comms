@@ -3,7 +3,7 @@ layout: post
 title: "Yearn Finance Newsletter #58"
 categories: [Newsletters]
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 576
   height: 288
 author: Yearn
@@ -13,7 +13,7 @@ translator: Cripu
 
 ### 2022年3月8日までの週
 
-![](./image1.png?w=1456&h=733)
+![](./image1.jpg?w=1456&h=733)
 
 Yearn Finance Newsletterの第58号へようこそ。このニュースレターの目的は、プロダクトのローンチ、ガバナンスの変更、エコシステムの更新など、最新のニュースをYearnとより広いクリプトコミュニティにお知らせすることです。Yearn Financeについてもっと知りたいという方は、私たちの公式[Twitter](https://twitter.com/iearnfinance)と[Medium](https://medium.com/iearn)アカウントをフォローしてください。
 
@@ -62,7 +62,7 @@ Yearnではセキュリティを非常に重視しており、DeFiの中で最�
 
 # Yearnの指標ツールにダイブ　　　
 
-![](./image4.png?w=1400&h=625)
+![](./image4.jpg?w=1400&h=625)
 
 クリプトの主要な理念のひとつはユーザーが自分で調査をすることです。そしてYearnでは、透明性のある指標ツールがユーザーとプロトコルの対話に注意を向けさせる最大の強みだということを強調しています。
 
@@ -76,7 +76,7 @@ MacroWorms氏とDark Ghosty氏による記事の詳細は[こちら](https://med
 
 # TenderlyとYearnのパートナー契約
 
-![](./image5.png?w=1400&h=670)
+![](./image5.jpg?w=1400&h=670)
 
 最近$40MのシリーズB資金調達に成功したイーサリアム開発プラットフォームTenderlyは、わたしたちYearnと公式にパートナーシップを結びました。
 

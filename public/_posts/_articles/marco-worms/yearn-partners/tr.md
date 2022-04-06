@@ -35,7 +35,7 @@ Abracadabra'ya genel bir bakış:
 1. Kullanıcı bir yVault'a wETH (Ethereum ile aynı, sarılı Ethereum) yatırır, yvWETH alır
 2. Kullanıcı teminat olarak Abracadaba'ya yvWETH yatırır, Abracadabra, kullanıcının teminatlarının bir yüzdesini Magic Internet Money (MIM) adı verilen bir dolar sabit parası olarak basmasına izin verir.
 
-![](./image1.png?w=633&h=527)\
+![](./image1.jpg?w=633&h=527)\
 *[Abracadabra](http://abracadabra.money/) “borç alma” arayüzü*
 
 Kullanıcı MIM bastığında, yatırılan teminat, ödünç alınan MIM geri ödenene kadar kilitlenir
@@ -67,12 +67,12 @@ Alchemix, kullanıcı tarafından yatırılan DAI'den faiz oluşturmak ve kredil
 
 **Bölümler Kazanın:** kullanıcıların varlıklarını yVaults'a yatırmaları için alternatif bir cephe sağlayan sayfalar. Kazanma bölümünün iyi bir örneği [ShapeShift](https://shapeshift.com/)'te bulunabilir, onların varlıkları Yearn Vaults'a yatırma sözleşmeleri [GitHub'da açık kaynaklıdır](https://github.com/shapeshift/yearn-router).
 
-![](./image3.png?w=750&h=554)\
+![](./image3.jpg?w=750&h=554)\
 *[ShapeShift](https://shapeshift.com/) kazan sekmesi*
 
 **Cüzdanlar**: iş ortakları, yVault'ları kullanarak ekosistemlerinde Yearn getirisi sağlayan seçenekler sunar. [SteakWallet](https://www.steakwallet.fi/), Yearn ile entegre olan bir cüzdan hizmetine iyi bir örnektir:
 
-![](./image4.png?w=363&h=681)\
+![](./image4.jpg?w=363&h=681)\
 *[SteakWallet](https://www.steakwallet.fi/) arayüz*
 
 ## İş ortağı olmak için kaynaklar

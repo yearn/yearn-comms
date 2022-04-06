@@ -1,7 +1,7 @@
 ---
 title:  "The Blue Pill"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 711
   height: 474
 date: '2021-06-01'
@@ -25,7 +25,7 @@ TVL'de yetenek ve milyarlar için bir mıknatıs.
 
 Bugün, sadece 12 ay sonra, bir kitap yayınlayarak yaratıcıları, yapıcıları, inşaat edenleri ve inananları onurlandırıyoruz:
 
-![](image1.png?w=1400&h=787)
+![](image1.jpg?w=1400&h=787)
 The Blue Pill: Yearn'in geçmişi, bugünü ve geleceği için manevi bir rehber.
 
 Sayfaları Yearn'in başlangıç hikayesini belgeliyor ve bir sonraki adımımız için kaba bir harita sunuyor.
@@ -34,7 +34,7 @@ Yearn finansı yeniden tasavvur ediyor ve yeniden inşa ediyor, ancak aynı zama
 
 Kitap, sonsuz olasılıklar diyarında bize katılmanız ve önünüzdeki yolculuğa katkıda bulunmanız için bir davettir.
 
-![](image2.png?w=700&h=700)
+![](image2.jpg?w=700&h=700)
 
 Yearn'e Birinci Yıl boyunca katılan efsaneleri onurlandırmak için, kitaba çevrimiçi erişim sağlayan [bir dizi efsanevi ve nadir NFT](https://galaxy.eco/yearn) oluşturmak için sanatçı [@ZemmNFT](https://twitter.com/Zemm_NFT) ile birlikte çalıştık.
 

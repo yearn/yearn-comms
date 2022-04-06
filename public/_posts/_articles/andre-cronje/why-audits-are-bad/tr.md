@@ -1,7 +1,7 @@
 ---
 title:  "Denetimler neden kötü"
 image:
-  src: ./andre-hero.png
+  src: ./andre-hero.jpg
   width: 700
   height: 300
 author: Andre
@@ -16,7 +16,7 @@ Günümüzde denetimlerin incelenmek üzere değil, yalnızca bir satır öğesi
 
 Sabit Forex'i örnek olarak kullanalım, “Proje denetleniyor mu?” \[Evet\] ve işte [denetim](https://github.com/andrecronje/fixed-forex-audit/blob/main/PeckShield-Audit-Report-ERC20-ibEUR-v1.0.pdf). Bağlantıyı bile açmış olabilirsiniz ve ardından bulgulara bile inmiş olabilirsiniz;
 
-![](1.png?w=935&h=581)
+![](1.jpg?w=935&h=581)
 
 Harika değil mi? 1 kural ve 1 bilgilendirme. Ama şimdi bağlamsal olarak bakalım, bu esasen bir ERC20 sözleşmesidir ve ibEUR ve sonraki ib-varlıklarının basit bir ERC20 uygulaması olduğunu gösterse de, ekosistemin geri kalanı ne olacak?
 

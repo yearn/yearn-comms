@@ -1,7 +1,7 @@
 ---
 title:  "yvBOOST Kullanarak Pasif Verim elde etmek"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 1050
   height: 543
 date: '2021-09-14'
@@ -19,7 +19,7 @@ _yazı katılımcılarımızdan olan qosmonot tarafından yazılmıştır_ [_qos
 
 Birçok Yearn vault'unun, Curve havuzları üzerine kurulu stratejileri vardır ve bu nedenle, ödül tahsislerini bu havuzlara yönlendirmek için oy vererek onları optimize etmek için CRV token'ini kullanır. Yearn, bu vault'lar için artan ödüller sağlamak için CRV token stoklarını istikrarlı bir şekilde büyütüyor.
 
-![](image1.png?w=1050&h=651)
+![](image1.jpg?w=1050&h=651)
 
 CRV token'lerini Yearn aracılığıyla stake etmeyi seçerek herkes bundan yararlanabilir. Hadi size Yearn'in neler sunabileceği ve sizin de CRV varlıklarınızı bir destekle nasıl büyütebileceğiniz konusunda size yol gösterelim!
 
@@ -96,4 +96,4 @@ Yearn'in kripto varlıklarınızın getiri üretimini ve yeniden dengelenmesini 
 
 Bir sonraki yazımızda, CRV'yi ve rüşvet ve EPS süreçlerini ele alacağız. O zamana kadar…
 
-![](image4.png?w=1050&h=543)
+![](image4.jpg?w=1050&h=543)

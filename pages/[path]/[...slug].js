@@ -76,6 +76,7 @@ export async function getStaticProps({params, locale}) {
 export async function getStaticPaths() {
 	const parentPaths = [
 		'announcements',
+		'newsletters',
 		'podcasts',
 		'tweets',
 		'financials',

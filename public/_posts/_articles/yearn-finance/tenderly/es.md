@@ -1,7 +1,7 @@
 ---
 title: "Yearn Finance se asocia con Tenderly para supercargar el desarrollo, eliminación de bugs y analisis de incidentes"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 1280
   height: 800
 date: '2022-02-25'
@@ -13,7 +13,7 @@ La asociación Yearn-Tenderly ha demostrado ser mutuamente beneficiosa.
 
 Tenderly le ha dado a Yearn acceso a las mejores herramientas de desarrollo de su clase, información más detallada sobre la actividad en cadena y soporte de un equipo de estrellas de rock del desarrollo. Mientras que Yearn ha proporcionado casos de uso clave y requisitos de un importante protocolo DeFi, ayudando al producto Tenderly a iterar y adaptarse a las necesidades de la industria.
 
-![](cover1.png?w=1400&h=670) 
+![](cover1.jpg?w=1400&h=670) 
 
 ## Situación
 Yearn Finance se enorgullece de ser uno de los protocolos TVL más seguros y más altos de todo DeFi. Yearn también tiene una gran cantidad de infraestructura en cadena: más de 300 contratos inteligentes de estrategia y vault v2 solo en la red principal (sin mencionar las vaults v1, la infraestructura keep3r, los contratos auxiliares, las implementaciones de cadenas laterales, etc.).
@@ -58,13 +58,13 @@ Tenderly ofrece el mejor depurador de interfaz de usuario de la industria. Ha si
 ## Vista previa de la interfaz de usuario de Tenderly
 
 *Resumen de la transacción:*
-![](image1.png?w=1140&h=609)
+![](image1.jpg?w=1140&h=609)
 
 *Contexto de error:*
-![](image2.png?w=1131&h=432)
+![](image2.jpg?w=1131&h=432)
 
 *Simulación de error*
-![](image3.png?w=1280&h=672)
+![](image3.jpg?w=1280&h=672)
 
 ## Que sigue
 Una de las cosas que más entusiasman a Yearn es atraer nuevos colaboradores y atraer talento. En colaboración con el equipo de Tenderly, ofrecemos 90 días de acceso gratuito a Tenderly para miembros de YFI Boarding School (una comunidad para futuros estrategas). Creemos que esto ha ayudado a los miembros del internado a obtener una visión más profunda de su propio código de estrategia, ayudándolos a aprender de manera más eficiente, al mismo tiempo que les muestra el poder del producto de Tenderly.

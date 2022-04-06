@@ -1,7 +1,7 @@
 ---
 title: "Yearn Finance Partners with Tenderly to Supercharge Development, Debugging & Incident Analysis"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 1280
   height: 800
 date: '2022-03-02'
@@ -13,7 +13,7 @@ The Yearn-Tenderly partnership has proven to be a mutually beneficial one.
 
 Tenderly has given Yearn access to best-in-class developer tools, deeper insights into on-chain activity and support by a rockstar team of developers. While Yearn has supplied key use cases and requirements from a major DeFi protocol, helping the Tenderly product to iterate and adapt to the needs of the industry.
 
-![](cover.png?w=1400&h=670)
+![](cover.jpg?w=1400&h=670)
 
 ## Situation
 Yearn Finance prides itself on being one of the most secure and highest TVL protocols in all of DeFi. Yearn also has a massive amount of on-chain infrastructure: over 300 v2 vault and strategy smart contracts on mainnet alone (not to mention v1 vaults, keep3r infrastructure, helper contracts, sidechain deployments, etc.).
@@ -57,13 +57,13 @@ Tenderly offers the best UI debugger in the industry. It has been invaulable for
 ## Tenderly UI preview
 
 *Transaction overview:*
-![](image1.png?w=1140&h=609)
+![](image1.jpg?w=1140&h=609)
 
 *Error context:*
-![](image2.png?w=1131&h=432)
+![](image2.jpg?w=1131&h=432)
 
 *Error simulation*
-![](image3.png?w=1280&h=672)
+![](image3.jpg?w=1280&h=672)
 
 ## What's Next
 One thing Yearn is most excited about is bringing in new contributors and attracting talent. In collaboration with the Tenderly team, we offer 90-day free access to Tenderly for members of YFI Boarding School (a community for upcoming strategists). We believe this has helped boarding school members get deeper insights into their own strategy code, helping them learn more efficiently, while also showing them the power of Tenderly's product.

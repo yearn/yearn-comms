@@ -1,7 +1,7 @@
 ---
 title: "Yearn Finance faz Parceria com Tenderly para Turbinar Desenvolvimento, Depuração & Análise de Incidentes"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 1280
   height: 800
 date: '2022-03-02'
@@ -13,7 +13,7 @@ A parceria Yearn-Tenderly provou ser mutuamente benéfica.
 
 Tenderly deu à Yearn acesso às melhores ferramentas de desenvolvedores da categoria, insights mais profundos sobre a atividade on-chain e suporte de uma equipe estelar de desenvolvedores. Enquanto Yearn forneceu a eles muitos casos de uso e requisitos de um importante protocolo DeFi, ajudando o produto Tenderly a iterar e se adaptar às necessidades da indústria.
 
-![](cover.png?w=1400&h=670)
+![](cover.jpg?w=1400&h=670)
 
 ## Situação
 A Yearn Finance orgulha-se de ser um dos protocolos mais seguros e de TVL mais altos em todo DeFi. Yearn também tem uma enorme quantidade de infraestrutura na rede: mais de 300 v2 vault e contratos inteligentes de estratégia apenas na mainnet (sem mencionar v1 vaults, infraestrutura keep3r, contratos auxiliares, implantações em outras redes, etc.).
@@ -57,13 +57,13 @@ Tenderly oferece a melhor interface de usuário da indústria para um depurador.
 ## Tenderly UI preview
 
 *Visão geral da transação:*
-![](image1.png?w=1140&h=609)
+![](image1.jpg?w=1140&h=609)
 
 *Contexto de erro:*
-![](image2.png?w=1131&h=432)
+![](image2.jpg?w=1131&h=432)
 
 *Simulação de erro *
-![](image3.png?w=1280&h=672)
+![](image3.jpg?w=1280&h=672)
 
 ## O que vem a seguir
 Uma coisa com a qual a Yearn está mais animada é trazer novos colaboradores e atrair talentos. Em colaboração com a equipe da Tenderly, oferecemos acesso gratuito de 90 dias à Tenderly para membros do YFI Boarding School (uma comunidade para futuros estrategistas). Acreditamos que isso tem ajudado os membros deste grupo a obter insights mais profundos sobre seu próprio código de estratégia, ajudando-os a aprender de forma mais eficiente, além de mostrar a eles o poder do produto da Tenderly.

@@ -1,6 +1,7 @@
 const Dotenv = require('dotenv-webpack');
 
 module.exports = ({
+	swcMinify: true,
 	i18n: {
 		locales: ['en', 'fr', 'es', 'de', 'pt', 'el', 'tr', 'vi', 'zh', 'hi', 'ja', 'id', 'ru'],
 		defaultLocale: 'en'

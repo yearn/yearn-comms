@@ -1,7 +1,7 @@
 ---
 title:  "Why audits are bad"
 image:
-  src: ./andre-hero.png
+  src: ./andre-hero.jpg
   width: 700
   height: 300
 date: '2021-08-03'
@@ -17,7 +17,7 @@ Nowadays you'll see audits being requested, not to be reviewed, but simply as a 
 
 Let's use Fixed Forex as an example, "Is the project audited?" \[Yes\], and here is the [audit](https://github.com/andrecronje/fixed-forex-audit/blob/main/PeckShield-Audit-Report-ERC20-ibEUR-v1.0.pdf). You might have even opened the link, and then you might have even scrolled down to the findings;
 
-![](1.png?w=935&h=581)
+![](1.jpg?w=935&h=581)
 
 Great right? 1 low and 1 informational. But now let's look at it contextually, this is essentially an ERC20 contract, and while it does show that ibEUR and subsequent ib-assets are a simple ERC20 implementation, what about the rest of the ecosystem?
 

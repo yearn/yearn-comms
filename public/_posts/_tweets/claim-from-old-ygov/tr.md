@@ -21,7 +21,7 @@ asıl kaynak: [twitter](https://twitter.com/dudesahn/status/1413567068583104512)
 
 Hisseli LP'lerde, YFI'de ve talep edilebilir ödüllerde neredeyse 29 milyon dolar:point_down:
 
-![](image1.png)
+![](image1.jpg)
 
 ##### 2
 
@@ -40,7 +40,7 @@ https://etherscan.io adresine gidin ve aşağıdaki adreslerden birini girin:
 
 Sözleşme altında, Sözleşmeyi Oku'ya tıklayın ve adresinizi BalanceOf altına girin 👀 
 
-![](image2.png)
+![](image2.jpg)
 
 ##### 4
 
@@ -48,7 +48,7 @@ Sözleşme altında, Sözleşmeyi Oku'ya tıklayın ve adresinizi BalanceOf alt�
 
 Tüm bahis varlıklarınızı ve ödüllerinizi talep etmek için Write Contract'a gidin, cüzdanınızı bağlayın ve exit()'i arayın.
 
-![](image3.png)
+![](image3.jpg)
 
 ##### 5
 

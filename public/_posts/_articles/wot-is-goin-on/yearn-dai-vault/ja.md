@@ -1,7 +1,7 @@
 ---
 title:  "YearnのDaiボールト —今やトップ20のDeFiプロトコルであることをご存知ですか？"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 1280
   height: 800
 date: '2021-06-01'
@@ -13,7 +13,7 @@ translator: Cripu
 
 [Yearnのウェブサイト](https://yearn.finance/vaults)にアクセスすると約50銘柄のボールトリストが表示されます。[SNXボールト](https://twitter.com/iearnfinance/status/1395413780012666881)が最も新しいボールトです。Yearnのボールトに[トークンを預ける](https://docs.yearn.finance/resources/guides/how-to-participate-in-a-yvault)と、プロトコルが利回りを生み出します。
 
-![](image1.png?w=588&h=257)
+![](image1.jpg?w=588&h=257)
 
 リストの真ん中で埋もれていますが、YearnのDaiボールトはそれ自体がトップ20のDeFiプロトコルになっています。
 
@@ -33,7 +33,7 @@ YearnのDaiボールトはDai v2ボールトやyvDaiとも呼ばれ、yvDaiはDa
 
 入金者が安価な資金源として扱われる従来の金融とは異なり、Yearnでは入金者が第一です。これが設立当初からTVLが急激に増加した理由の一つです。
 
-![](image2.png?w=505&h=224)
+![](image2.jpg?w=505&h=224)
 
 [YearnエコシステムにロックされたTVLの総額 — Grafana](https://yearn.vision/?refresh=1m)
 
@@ -45,7 +45,7 @@ Yearnは[2%の年間管理料と20%の運用手数料](https://docs.yearn.financ
 
 Daiボールトからの純利益だけでも、1月の10kドル以下から5月には1.7mドルを超えるくらい爆発的な伸びを見せています。
 
-![](image3.png?w=491&h=308)
+![](image3.jpg?w=491&h=308)
 
 数字のソース：[https://twitter.com/Bob_The_Buidler](https://twitter.com/Bob_The_Buidler)
 
@@ -75,7 +75,7 @@ Daiボールトからの純利益だけでも、1月の10kドル以下から5月
 
 HSBCは226,059人の従業員のうち何人が金利を更新し続ける必要があるかを公表していませんが、DeFiではレンディングプロトコルのトークン保有者に選ばれた計算式によって金利が設定されています。下のグラフはCompound FinanceがDaiの金利を利用率に依存するように設定していることを示しています。
 
-![](image4.png?w=591&h=321)
+![](image4.jpg?w=591&h=321)
 
 [https://compound.finance/governance/proposals/18](https://compound.finance/governance/proposals/18)
 
@@ -138,7 +138,7 @@ Yearnには現在[30人のフルタイムコントリビューター](https://tw
 
 下のグラフは、5月初めまでにストラテジストたちが5mドル以上を獲得した様子を示しています（Daiだけでなく全てのボールトを対象としています）。
 
-![](image5.png?w=602&h=401)
+![](image5.jpg?w=602&h=401)
 
 Y軸の単位は$mです。 (ソース: [https://twitter.com/bantg](https://twitter.com/bantg))
 
@@ -146,7 +146,7 @@ Y軸の単位は$mです。 (ソース: [https://twitter.com/bantg](https://twit
 
 最大の入金者は人間ではなく、他のプロトコルです。
 
-![](image6.png?w=502&h=240)
+![](image6.jpg?w=502&h=240)
 
 AlchemixはDaiボールトへの入金をリードしています。
 

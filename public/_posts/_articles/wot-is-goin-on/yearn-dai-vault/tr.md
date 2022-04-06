@@ -1,7 +1,7 @@
 ---
 title: "Yearn'nin Dai Vault'ları — artık en iyi 20 DeFi protokolünden biri olduğunu biliyor muydunuz?"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 1280
   height: 800
 date: '2021-06-01'
@@ -11,7 +11,7 @@ translator: Dastronom
 
 [Yearn'in web sitesine](https://yearn.finance/vaults) giderseniz, en sonuncusu [SNX vault'u](https://twitter.com/iearnfinance/status/1395413780012666881) olmak üzere yaklaşık 50 kripto vault'unun bir listesini görürsünüz. [Kriptonuzu](https://docs.yearn.finance/resources/guides/how-to-participate-in-a-yvault) Yearn'in vault'larından birine yatırırken, protokol sizin için bir getiri üretmeye başlayacak.
 
-![](image1.png?w=588&h=257)
+![](image1.jpg?w=588&h=257)
 
 Listenin ortalarına gömülmüş olmasına rağmen, Yearn Dai vault'u kendi başına en iyi 20 DeFi protokolü haline geldi:
 
@@ -31,7 +31,7 @@ Yearn Dai vault'una "Dai v2 vault'u" ve "yvDai" de denir; burada yvDai, Dai vaul
 
 Mudilerin ucuz bir fon kaynağı olarak görüldüğü geleneksel finansın aksine, Yearn'de mudiler ilk sırada gelir. This is one of the reasons why the TVL has increased rapidly since its inception.
 
-![](image2.png?w=505&h=224)
+![](image2.jpg?w=505&h=224)
 
 [Yearn Ekosisteminde Kilitlenen Toplam Değer — Grafana](https://yearn.vision/?refresh=1m)
 
@@ -43,7 +43,7 @@ Yearn, [yıllık %2 yönetim ücreti ve %20 performans ücretinden](https://docs
 
 Yalnızca Dai vault'undan elde edilen net gelir, Ocak ayında 10 bin doların altından Mayıs ayında 1,7 milyon doların üzerine ivmeli bir büyüme gösterdi.
 
-![](image3.png?w=491&h=308)
+![](image3.jpg?w=491&h=308)
 
 İstatistik linki [https://twitter.com/Bob_The_Buidler](https://twitter.com/Bob_The_Buidler)
 
@@ -73,7 +73,7 @@ Teminatlı krediler genellikle bankalar için en büyük bilanço kalemidir, ör
 
 HSBC, 226.059 çalışanından kaçının faiz oranlarını güncel tutması gerektiğini açıklamaz, ancak DeFi'de faiz oranları, kredi protokollerinin token sahipleri tarafından seçilen bir formüle göre belirlenir. Aşağıdaki grafik, Compound Finance'in Dai'nin faiz oranını kullanım oranına bağlı olacak şekilde nasıl belirlediğini göstermektedir.
 
-![](image4.png?w=591&h=321)
+![](image4.jpg?w=591&h=321)
 
 [https://compound.finance/governance/proposals/18](https://compound.finance/governance/proposals/18)
 
@@ -136,7 +136,7 @@ Yearn'in şu anda [30 tam zamanlı katılımcısı](https://twitter.com/bantg/st
 
 Aşağıdaki grafik, stratejistlerin Mayıs ayı başında nasıl 5 milyon doları aştığını gösteriyor (sadece Dai'de değil, tüm vault'lar).
 
-![](image5.png?w=602&h=401)
+![](image5.jpg?w=602&h=401)
 
 y-axis $m cinsindendir (kaynak: [https://twitter.com/bantg]
 
@@ -144,7 +144,7 @@ y-axis $m cinsindendir (kaynak: [https://twitter.com/bantg]
 
 En büyük mevduat sahipleri insanlar değil, diğer protokollerdir.
 
-![](image6.png?w=502&h=240)
+![](image6.jpg?w=502&h=240)
 
 Alchemix, Dai vault yataklarında önde geliyor
 

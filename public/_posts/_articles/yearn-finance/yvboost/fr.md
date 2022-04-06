@@ -1,7 +1,7 @@
 ---
 title:  "Plus de boosts, rendements composés et mojitos avec le yvBOOST"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 1050
   height: 543
 date: '2021-09-14'
@@ -22,7 +22,7 @@ _post écrit par [_qosmonot_](http://twitter.com/qosmonot)
 De nombreux yVaults  Yearn ont des stratégies construites sur les pools Curve et utilisent donc le jeton CRV pour les optimiser en votant pour diriger les allocations des récompenses vers ces pools. Yearn a régulièrement augmenté sa réserve de jetons CRV pour offrir des récompenses croissantes à ces vaults.
 
 
-![](image1.png?w=1050&h=651)
+![](image1.jpg?w=1050&h=651)
 
 Tout le monde peut en bénéficier en choisissant de staker ses jetons CRV via Yearn. Laissez-nous vous expliquer ce que Yearn peut vous offrir et comment vous pouvez utiliser vos CRV et bénéficier d’un coup de pouce !
 
@@ -108,4 +108,4 @@ Le travail de Yearn pour automatiser la génération de rendement et le rééqui
 
 
 
-![](image4.png?w=1050&h=543)
+![](image4.jpg?w=1050&h=543)

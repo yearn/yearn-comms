@@ -1,7 +1,7 @@
 ---
 title:  "A Pílula Azul"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 711
   height: 474
 date: '2021-06-01'
@@ -23,7 +23,7 @@ Um coletivo de construtores que valorizam a colaboração em detrimento da conco
 
 Hoje, apenas 12 meses depois, honramos os criadores, executores, construtores e crentes, com o lançamento de um livro:
 
-![](image1.png?w=1400&h=787)
+![](image1.jpg?w=1400&h=787)
 A Pílula Azul: Um guia espiritual para o passado, presente e futuro de Yearn.
 
 Suas páginas documentam a história da origem de Yearn e estabelecem um mapa geral para onde vamos a seguir.
@@ -32,7 +32,7 @@ Yearn está reinventando e reconstruindo as finanças, mas também está reinven
 
 O livro é um convite para você se juntar a nós na terra das infinitas possibilidades e contribuir para a jornada à frente.
 
-![](image2.png?w=700&h=700)
+![](image2.jpg?w=700&h=700)
 
 Para homenagear as lendas que participaram do Yearn durante o Ano Um, trabalhamos com o artista [@ZemmNFT](https://twitter.com/Zemm_NFT) para criar [uma série de NFTs lendárias e raras](https://galaxy.eco/yearn) que concedem acesso online ao livro.
 

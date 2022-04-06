@@ -1,7 +1,7 @@
 ---
 title: "Yearn Finance s'associe à Tenderly pour accélérer le développement, le débugage et l'analyse d'incidents"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 1280
   height: 800
 date: '2022-03-02'
@@ -13,7 +13,7 @@ Le partenariat entre Yearn et Tenderly s'est avéré mutuellement bénéfique.
 
 Tenderly a donné à Yearn l'accès aux meilleurs outils de développement, à des informations plus approfondies sur l'activité on-chain et à l'assistance d'une équipe de développeurs talenteux. De son coté, Yearn a fourni des cas d'utilisation concretsa et des exigences de la part d'un protocole majeur de l'écosysteme Defi , aidant Tenderly à s'améliorer et à s'adapter aux besoins de l'industrie.
 
-![](cover.png?w=1400&h=670)
+![](cover.jpg?w=1400&h=670)
 
 ## Situation
 Yearn Finance est fier d'être un protocole avec l'une des TVL les plus importantes et l'un de protocoles plus sécurisés. Yearn dispose également d'une infrastructure massive on-chain : plus de 300  vault v2 et smart contracts sur le mainet (sans parler des v1, de l'infrastructure keep3r, des contrats d'assistance, des déploiements de sidechain, etc.).
@@ -58,13 +58,13 @@ Tenderly propose la meilleur UI, pour un débugueur, de l'industrie. En cas de p
 ## Aperçu de l'interface utilisateur de Tenderly
 
 *Aperçu des transactions:*
-![](image1.png?w=1140&h=609)
+![](image1.jpg?w=1140&h=609)
 
 *Contexte d'erreur :*
-![](image2.png?w=1131&h=432)
+![](image2.jpg?w=1131&h=432)
 
 *Simulation d'erreur*
-![](image3.png?w=1280&h=672)
+![](image3.jpg?w=1280&h=672)
 
 ## Et après
 Attirer de nouveaux talents est l'une des choses les plus importantes pour Yearn. En collaboration avec l'équipe de Tenderly, nous offrons un accès gratuit de 90 jours à Tenderly aux membres de la YFI Boarding School (une communauté pour les futurs stratèges Yearn). Nous pensons que cet outil aide les membres à mieux comprendre leur propre code et leur stratégie, les aidant à apprendre plus efficacement, tout en leur montrant la puissance de Tenderly.

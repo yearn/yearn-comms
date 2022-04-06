@@ -21,7 +21,7 @@ Allez vérifier le contract de staking de [@iearnfinance](https://twitter.com/ie
 
 Presque $29m de jetons LPs, YFI, et récompense réclamables :point_down:
 
-![](image1.png)
+![](image1.jpg)
 
 ##### 2
 
@@ -40,7 +40,7 @@ Allez sur https://etherscan.io, and enter one of the following addresses:
 
 Sous **Contract**, cliquez sur **Read Contract**, et entrez votre adresse au niveau de **balanceOf** 👀
 
-![](image2.png)
+![](image2.jpg)
 
 ##### 4
 
@@ -49,7 +49,7 @@ Si une valeur de >0 est indiquée, alors félicitations, vous avez des YFI et/ou
 Pour réclamer tous vos actifs et récompenses stakés, allez sur **Write Contract**, connectez votre portefeuille et appelez **exit()**.
 
 
-![](image3.png)
+![](image3.jpg)
 
 ##### 5
 

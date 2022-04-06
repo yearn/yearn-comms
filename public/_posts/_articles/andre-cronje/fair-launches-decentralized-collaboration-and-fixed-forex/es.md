@@ -1,7 +1,7 @@
 ---
 title:  "Lanzamientos justos, colaboración descentralizada y Fixed Forex"
 image:
-  src: ./andre-hero.png
+  src: ./andre-hero.jpg
   width: 700
   height: 300
 date: '2021-07-21'
@@ -48,11 +48,11 @@ Fixed Forex es el nombre colectivo de USD, EUR, ZAR, JPY, CNY, AUD, AED, CAD, IN
 
 La primera opción disponible es [ibEUR](https://www.coingecko.com/en/coins/iron-bank-euro) que se puede acuñar a través de [yearn.fi/lend](https://yearn.fi/lend)
 
-![](image2.png)
+![](image2.jpg)
 
 Todas las opciones de forex se pueden crear a través de cualquiera de las garantías aceptadas en [yearn.fi](https://yearn.fi/lend)
 
-![](image3.png)
+![](image3.jpg)
 
 Para conocer los factores colaterales actualizados, puede visitar la documentación de Iron Bank, [aquí](https://docs.cream.finance/iron-bank/collateral-and-reserve-factor)
 
@@ -61,7 +61,7 @@ Cada par de divisas apuntará a 2 grupos de liquidez;
 ib\*/\* ([curve.fi](https://curve.fi/))  
 ib\*/ETH ([sushi.com](https://sushi.com/))  
 
-![](image4.png)
+![](image4.jpg)
 
 Para cada activo, los proveedores de liquidez tendrán cuatro opciones de rendimiento disponibles;
 

@@ -1,7 +1,7 @@
 ---
 title:  "Yearn UI v3.0"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 800
   height: 450
 date: '2021-09-17'
@@ -14,7 +14,7 @@ translator:
 
 ### The next iteration of the yearn.finance UI is here
 
-![](image1.png?w=800&h=450)
+![](image1.jpg?w=800&h=450)
 
 _v3 landing page design exploration_
 
@@ -22,7 +22,7 @@ We’ve rebuilt yearn.finance from the ground up. We’ve worked to address feed
 
 ## A vision realized
 
-![](image2.png?w=300&h=398)
+![](image2.jpg?w=300&h=398)
 
 _v3 design exploration_
 
@@ -45,7 +45,7 @@ We’ve carefully listened to community feedback and the most pressing pain poin
 
 Please keep in mind that this is a **_beta release:_**  nothing is final yet, and we plan to iterate over the next few weeks as we receive feedback and implement further refinements. If you’d like to provide feedback, head to our new [discord channel](https://discord.gg/Rw9zA3GbyE) created for v3 web UI feedback.
 
-![](image3.png?w=300&h=354)
+![](image3.jpg?w=300&h=354)
 
 _v3 design exploration_
 
@@ -65,7 +65,7 @@ We briefly describe each of them below:
 
 ### Lens
 
-![](image4.png?w=800&h=500)
+![](image4.jpg?w=800&h=500)
 
 _Lens block diagram_
 
@@ -101,7 +101,7 @@ Yearn’s metadata repo is a simple framework that allows front-end vault settin
 
 ### Subgraph
 
-![](image5.png?w=800&h=680)
+![](image5.jpg?w=800&h=680)
 
 _Earnings displayed in dashboard and for each vault_
 
@@ -125,7 +125,7 @@ Yearn exporter functions as our primary API, and contains all APY and TVL calcul
 
 ### SDK
 
-![](image6.png?w=800&h=638)
+![](image6.jpg?w=800&h=638)
 
 _SDK block diagram_
 
@@ -143,7 +143,7 @@ Yearn’s new SDK is the engine that powers our new v3 website, and the front-en
 
 While the back-end infrastructure listed above generates the data needed, the front-end consumes it and presents it in a way that users can easily interact with it.
 
-![](image7.png?w=913&h=696)
+![](image7.jpg?w=913&h=696)
 
 _v3 FE block diagram_
 
@@ -155,7 +155,7 @@ The **UI layer** consumes the data directly from the core and displays it as des
 
 [Front-end source code](https://github.com/yearn/yearn-finance-v3)
 
-![](image8.png?w=659&h=398)
+![](image8.jpg?w=659&h=398)
 
 _Closeup of side navbar and dashboard_
 
@@ -173,7 +173,7 @@ Our new vaults page contains a dashboard with user info regarding vault deposits
 
 #### Vault Detail Page
 
-![](image9.png?w=800&h=554)
+![](image9.jpg?w=800&h=554)
 
 _Vault detail page_
 
@@ -199,7 +199,7 @@ Similar to vaults and labs, Iron Bank shows a dashboard with relevant info, incl
 
 ### Additional Features
 
-![](image10.png?w=300&h=410)
+![](image10.jpg?w=300&h=410)
 
 _Simulation of a zap exceeding slippage tolerance_
 
@@ -217,7 +217,7 @@ Please note that a simulation will fail if you’re trying to simulate a transac
 
 #### Mobile
 
-![](image11.png?w=300&h=518)
+![](image11.jpg?w=300&h=518)
 
 _v3 mobile experience_
 
@@ -229,7 +229,7 @@ While we don’t currently have a native Yearn app due to some App Stores’ res
 
 ## Future Roadmap
 
-![](image12.png?w=800&h=462)
+![](image12.jpg?w=800&h=462)
 
 _v3 design exploration_
 
@@ -257,7 +257,7 @@ Though not quite as dramatic as the merging of Ethereum’s PoW with PoS, the go
 
 ## A Word of Gratitude
 
-![](image13.png?w=2000&h=1125)
+![](image13.jpg?w=2000&h=1125)
 
 _Yearn web team self-portrait_
 

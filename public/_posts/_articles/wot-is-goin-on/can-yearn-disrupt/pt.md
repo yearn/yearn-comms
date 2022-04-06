@@ -1,7 +1,7 @@
 ---
 title:  "Pode Yearn ser disruptivo no setor de gerenciamento de ativos de US$ 110 trilhões?"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 1280
   height: 800
 date: '2021-04-07'
@@ -23,7 +23,7 @@ translator: JKtranslator
 
 DeFi tem crescido explosivamente por 3,5 anos, de acordo com [DeFiPulse](https://defipulse.com/) de menos de $2 milhões de valor total bloqueado (TVL) no terceiro trimestre de 2017 para $44,6 bilhões no primeiro trimestre de 2021. [Defillama](https://defillama.com/home) indica o TVL Q1 2021 de Ethereum em US$ 68,5 bilhões. O volume de negociação da Uniswap excedeu o da Coinbase no mês de [setembro de 2020](https://www.theblockcrypto.com/linked/79775/uniswap-coinbase-monthly-volume-september). A questão não é mais se o DeFi vai causar disrupção nas finanças tradicionais, mas quais protocolos DeFi vão ser os disruptivos?
 
-![](image1.png?w=528&h=274)O crescimento no TVL em DeFi foi explosivo por 3,5 anos¹
+![](image1.jpg?w=528&h=274)O crescimento no TVL em DeFi foi explosivo por 3,5 anos¹
 
 Yearn é um protocolo de gerenciamento de ativos no Ethereum. No primeiro trimestre de 2021, gerenciou US$ 1,8 bilhão em Ether, stablecoins e tokens DeFi. Mas isso é notícia antiga: agora possui [$ 2,5 bilhões](https://yearn.science/).
 
@@ -33,7 +33,7 @@ Yearn permite que você deposite seu cripto em um “vault” que usa protocolos
 
 Nas finanças tradicionais, os ativos gravitam em torno de alguns gestores de ativos bem conhecidos. Embora o setor não seja de forma alguma um em que o vencedor leva tudo, ele é altamente concentrado.
 
-![](image2.png?w=700&h=459)O setor de gerenciamento de ativos é possui cerca de US$ trilhões AUM e é altamente concentrado ([dados de 30 de junho de 2020](https://www.advratings.com/top-asset-management-firms))
+![](image2.jpg?w=700&h=459)O setor de gerenciamento de ativos é possui cerca de US$ trilhões AUM e é altamente concentrado ([dados de 30 de junho de 2020](https://www.advratings.com/top-asset-management-firms))
 
 Yearn não tem uma comparação direta na gestão de ativos tradicional. Não é um banco, mas obtém rendimentos de empréstimos. Não é um fundo de hedge, mas executa estratégias ativas.
 
@@ -43,7 +43,7 @@ Yearn não tem uma comparação direta na gestão de ativos tradicional. Não é
 
 74% da receita do terceiro trimestre de 2020 da Blackrock veio de consultoria de investimentos, taxas e empréstimos de títulos. As receitas de Yearn podem ser categorizadas de maneira semelhante.
 
-![](image3.png?w=700&h=247)
+![](image3.jpg?w=700&h=247)
 
 Fontes de receita semelhantes. Diferentes tecnologias.
 
@@ -74,7 +74,7 @@ Como Yearn conseguiu lidar com esses problemas demonstra os benefícios do DeFi 
 - transparência - qualquer pessoa pode ver a [transação](https://etherscan.io/tx/0x21a3007a2547a9d6f1bceb44cb9292b36079fcccd8f36f7ec1ca066db261e153) mostrada abaixo no Etherscan
 - sem intermediários - sem necessidade de Goldman Sachs ou Morgan Stanley
 
-![](image4.png?w=700&h=272)
+![](image4.jpg?w=700&h=272)
 
 Um aumento de capital de +$200 milhões na Ethereum é extremamente barato
 
@@ -86,7 +86,7 @@ Após o exploit do vault Dai, Yearn optou por reembolsar aqueles que perderam fu
 - Sem papelada
 - Não foram necessários humanos - apenas um coelho roxo
 
-![](image5.png?w=700&h=322)
+![](image5.jpg?w=700&h=322)
 
 Tomar um empréstimo garantido de$ 9,7 milhões na Ethereum é extremamente barato
 
@@ -98,7 +98,7 @@ Comparar um protocolo de gerenciamento de ativos no Ethereum com o maior gestor 
 
 Ether é de longe o maior ativo da Ethereum e recentemente se tornou um [50 principais ativos globais](https://companiesmarketcap.com/) por capitalização de mercado.
 
-![](image6.png?w=700&h=335)Uma capitalização de mercado de +$200 bilhões torna o Ether um dos 50 principais ativos globais
+![](image6.jpg?w=700&h=335)Uma capitalização de mercado de +$200 bilhões torna o Ether um dos 50 principais ativos globais
 
 **O que você pode fazer com ETH e como Yearn se encaixa nisso?**
 
@@ -124,7 +124,7 @@ O ETH se tornou um ativo produtivo. Mas o futuro da França não envolve indiví
 
 Os tokens DeFi são o mais novo tipo de ativo no Ethereum.
 
-![](image7.png?w=700&h=270)
+![](image7.jpg?w=700&h=270)
 
 Valiosos tokens de governança
 
@@ -143,7 +143,7 @@ Cada token DeFi tem suas peculiaridades à medida que suas comunidades tentam en
 
 O valor desses tokens aumentou significativamente no último ano, pois o mercado valoriza mais os tokens que representam um sistema financeiro transparente e justo (na medida em que cada carteira é tratada da mesma forma) que está disponível para qualquer pessoa com uma conexão à Internet. Os fluxos de caixa também ajudam.
 
-![](image8.png?w=700&h=393)
+![](image8.jpg?w=700&h=393)
 
 Os protocolos DeFi recentemente ultrapassaram US$ 1 bilhão em receita total (Terminal Token)
 
@@ -153,7 +153,7 @@ Os stablecoins mais populares representam 1 USD e vêm em diferentes formas, com
 
 Os Stablecoins estão se movimentando para Ethereum, onde podem obter rendimento em empréstimos, negociações ou mineração de liquidez. É difícil ver esses stablecoins sendo convertidos de volta para fiat quando os bancos tradicionais estão pagando [perto de 0%](https://twitter.com/mattysino/status/1379368078979391488?s=20). Isso explica de alguma forma por que o valor total de stablecoins na rede Ethereum cresceu 600% nos últimos 12 meses.
 
-![](image9.png?w=657&h=446)
+![](image9.jpg?w=657&h=446)
 
 As pessoas estão preferindo stablecoins no Ethereum a dólares no banco ([https://duneanalytics.com/hagaetc/stablecoins](https://duneanalytics.com/hagaetc/stablecoins))
 
@@ -167,7 +167,7 @@ As estratégias de stablecoin de Yearn percorreram um longo caminho desde o iní
 
 Até mesmo o bitcoin está encontrando seu caminho para a rede Ethereum. No final de março de 2021, havia mais [bitcoins em Ethereum](https://btconethereum.com/) ($10 bilhões) do que os em custódia de MicroStrategy ($ 5,4 bilhões³) e Tesla ([$ 1,5 bilhões](https://www.cnbc.com/2021/02/08/tesla-buys-1point5-billion-in-bitcoin.html)) combinados. A mídia convencional não vai conseguir.
 
-![](image10.png?w=700&h=410)
+![](image10.jpg?w=700&h=410)
 
 Bitcoin tokenizado no Ethereum ([https://duneanalytics.com/queries/4962/9776](https://duneanalytics.com/queries/4962/9776))
 
@@ -185,7 +185,7 @@ Ether, tokens DeFi, stablecoins e bitcoin tokenizados se combinam para formar um
 
 O gráfico abaixo mostra por que as ações são importantes. Com [$95 trilhões](https://www.cnbc.com/2020/11/12/global-stock-market-value-rises-to-a-record-95-trillion-this-week-on-vaccine-hope.html) sua capitalização de mercado é 50 vezes maior que a capitalização total dos criptoativos.
 
-![](image11.png?w=480&h=289)
+![](image11.jpg?w=480&h=289)
 
 Ações globais possuem 50x o valor de mercado dos criptoativos
 
@@ -217,7 +217,7 @@ A tokenização de ações que já existem é um grande passo para aumentar o me
 
 As Ofertas Públicas Iniciais (IPOs) são caras. As taxas de subscrição de um relatório da PWC são mostradas abaixo. Observe que não há cotação para negócios abaixo de US$ 25 milhões, bem-vindo às finanças tradicionais. A coluna da direita mostra o número de intermediários que um dia poderiam ser eliminados usando Ethereum.
 
-![](image12.png?w=655&h=267)
+![](image12.jpg?w=655&h=267)
 
 [Taxas de subscrição](https://www.pwc.com/us/en/services/deals/library/cost-of-an-ipo.html) para IPOs em finanças tradicionais
 
@@ -231,7 +231,7 @@ Até agora houve apenas dois (que consegui encontrar), ambos relacionados ao Eth
 
 Títulos são menos arriscados do que cripto e ações (medidos pela volatilidade histórica). Há mais de [$100 trilhões](https://www.icmagroup.org/Regulatory-Policy-and-Market-Practice/Secondary-Markets/bond-market-size/) deles. Se algum dia vierem, eles provavelmente virão por último para Ethereum. Ninguém está importunando o Spartan Council por um título sintético do tesouro dos EUA de 30 anos, sTMUBMUSD30Y, para garantir um rendimento de 2,4% ao ano. No entanto, há sinais de grandes participantes das finanças tradicionais testando as águas.
 
-![](image13.png?w=2572&h=792) Histórico de emissão de títulos em blockchains ([Binance Research](https://research.binance.com/en/analysis/santander-bond), Coindesk)
+![](image13.jpg?w=2572&h=792) Histórico de emissão de títulos em blockchains ([Binance Research](https://research.binance.com/en/analysis/santander-bond), Coindesk)
 
 Essas instituições e empresas estão testando a tecnologia porque é barata. Se for barato, economiza dinheiro e dá a eles uma vantagem em relação aos concorrentes.
 
@@ -255,7 +255,7 @@ No entanto, essas são empresas. Elas são centralizadas.
 
 O desafio que os empreendedores DeFi encararam foi encontrar uma maneira de negociar, tomar emprestado e emprestar de uma forma resistente à censura, com o código substituindo o intermediário. Mesmo que os modelos replicassem as finanças tradicionais, eles teriam as vantagens da transparência, sem intermediários e disponíveis para qualquer pessoa com uma conexão à Internet.
 
-![](image14.png?w=700&h=407)Histórico de rendimentos em cripto antes de 0 A.C⁴
+![](image14.jpg?w=700&h=407)Histórico de rendimentos em cripto antes de 0 A.C⁴
 
 O protocolo de empréstimo da Compound Finance foi o primeiro protocolo DeFi que permitiu que você ganhasse um rendimento. No entanto, foi só depois do [lançamento do COMP](https://www.coindesk.com/compounds-comp-token-price-doubles-amid-defi-mania) em junho de 2020 que o uso disparou.
 
@@ -272,7 +272,7 @@ Quando Cronje começou a trabalhar no Yearn v1, havia vários problemas que as p
 - uma compreensão dos riscos envolvidos
 - muito tempo - tanto para verificar os rendimentos quanto para fazer as transações
 
-![](image15.png?w=700&h=408)Os problemas com DeFi que Yearn ajuda a resolver
+![](image15.jpg?w=700&h=408)Os problemas com DeFi que Yearn ajuda a resolver
 
 Inicialmente, Andre realizou essas transações manualmente. Ao agregar o capital, as taxas do gás podem ser compartilhadas, nem todos precisam entender todos os protocolos com o mesmo nível de detalhe, e você pode depositar seus fundos e deixar que uma pessoa faça o trabalho. O desafio era automatizar o processo.
 
@@ -288,7 +288,7 @@ Quando a Curve introduziu o conceito de "boosties" pelo bloqueio de CRV, Yearn e
 
 Mas Andre ainda não estava feliz. Restavam ineficiências de capital em todos os lugares que ele olhava, como capital ocioso no Cream Finance (um protocolo de empréstimo no ecossistema de Yearn). Digamos que haja 10m Dai parado no Cream Finance e não sendo emprestado (portanto, não ganhando nenhum rendimento) e Yearn tem uma estratégia que poderia render 10% APY no Dai, mesmo que apenas por um curto período de tempo. E se Yearn pudesse pegar emprestado aquele Dai por uma taxa de juros mais baixa, ganhar o APY de 10% e pagar o empréstimo quando a estratégia não produzisse mais rendimento excessivo ou quando o depositante da Cream Finance quisesse que seu Dai fosse devolvido? Isso é o que Yearn faz - não para seu próprio benefício - mas para aumentar os rendimentos dos depositantes. Isso foi pioneiro em [empréstimos sem garantia de protocolo a protocolo](https://creamdotfinance.medium.com/introducing-the-iron-bank-bab9417c9a).
 
-![](image16.png?w=700&h=406)Inovações de Yearn em rendimentos
+![](image16.jpg?w=700&h=406)Inovações de Yearn em rendimentos
 
 A barra na parte inferior do diagrama acima representa uma inovação em rendimentos que veio com a ajuda de outro parceiro do ecossistema, a Sushi. Como forma de incentivar as pessoas a bloquear seu CRV indefinidamente, Yearn criou um ativo complexo, chamado yveCRV. No entanto, não havia mercado para yveCRV, então Yearn incentivou as pessoas a fornecerem liquidez para o pool yveCRV-ETH, oferecendo recompensas em Sushi. Isso transformou um ativo ilíquido em líquido, usando um parceiro do ecossistema. Este não é o seu protocolo DeFi comum.
 
@@ -300,7 +300,7 @@ O redesenho do vault proposto em YIP-48 já foi implementado, as auditorias fora
 
 A imagem abaixo mostra o vault yvDai ganhando rendimento para depositantes com 6 estratégias em ação ao mesmo tempo (os rótulos das estratégias estão em verde).
 
-![](image17.png?w=700&h=925)
+![](image17.jpg?w=700&h=925)
 
 Seis estratégias em um vault ([https://twitter.com/bantg/status/1377681238249574404?s = 20](https://twitter.com/bantg/status/1377681238249574404?s=20))
 
@@ -322,7 +322,7 @@ O maior desafio parece ser reduzir os riscos reais e percebidos de interagir com
 
 Uma parte fundamental da marca Yearn é seu foco na segurança, que Cronje priorizou na primeira versão no início de 2020. Os desenvolvedores precisam determinar quais protocolos e estratégias são confiáveis, pensar em possíveis riscos de explorações econômicas maliciosas, limitar os depósitos a certas estratégias e encontrar maneiras de cobrir perdas caso ocorram explorações. A seriedade com que Yearn leva a segurança e a velocidade com que resolve os problemas que surgem é evidenciada pelos detalhes em seus [relatórios de divulgação de vulnerabilidade](https://github.com/yearn/yearn-security/tree/master/disclosures) e a [especificação do sistema](https://github.com/yearn/yearn-vaults/blob/master/SPECIFICATION.md). Os controles de risco de nível mais alto são mostrados na tabela abaixo.
 
-![](image19.png?w=700&h=283) Priorizando a segurança desde o dia 1
+![](image19.jpg?w=700&h=283) Priorizando a segurança desde o dia 1
 
 A yAcademy é a minha favorita da lista acima porque ilustra a natureza emergente do Yearn - e do DeFi em geral. Tudo começou com apenas aum dev (Andre) escrevendo um código (Yearn v1). Pessoas que ele não conhecia acharam interessante e começaram a interagir com ele, então ele começou um grupo de telegram onde discutiam. Auditar o código era necessário, mas caro e lento, devido ao fato de haver poucas pessoas com as habilidades necessárias e por ser difícil e demorado. Ainda é um gargalo para todo o DeFi, não apenas para Yearn. 9 meses depois, Ali Atiia **(**@aliatiia\_) envia uma [proposta de governança](https://gov.yearn.finance/t/lets-poach-samczsun-and-plant-the-seed-for-an-auditing-academy/5507) (vista por 2,3 mil pessoas) para que Yearn desenvolva uma academia para treinar auditores. 2 meses após a proposta, e uma parceria com Gitcoin e Status em mãos, [YIP-53](https://gov.yearn.finance/t/yip-53-yacademy-planting-the-seed-of-a-sustainably-secure-future-for-yearn-and-beyond/7929) é enviado. Isso cria oficialmente a yAcademy com um orçamento e especificações detalhadas.
 
@@ -332,7 +332,7 @@ Isso aconteceu sem gerenciamento. Nenhum departamento de RH. Sem currículos.
 
 Uma coisa é descrever como Yearn está liderando a inovação em rendimentos ajustados ao risco, mas, em última análise, o setor de gerenciamento de ativos usa uma métrica-chave, que é AUM (TVL em DeFi). Isso aumentou 3x no último trimestre. Com menos de 1% dos ativos na Ethereum, que estão crescendo em um ritmo rápido, ainda há muito espaço para o AUM de Yearn crescer.
 
-![](image20.png?w=700&h=501)TVL de Yearn atinge US$ 1,84 bilhão em 31 de março de 2021 - The Block (e banteg)
+![](image20.jpg?w=700&h=501)TVL de Yearn atinge US$ 1,84 bilhão em 31 de março de 2021 - The Block (e banteg)
 
 **5\. Competição**
 

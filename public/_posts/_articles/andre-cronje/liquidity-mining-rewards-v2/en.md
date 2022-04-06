@@ -1,7 +1,7 @@
 ---
 title:  "Liquidity Mining Rewards v2"
 image:
-  src: ./andre-hero.png
+  src: ./andre-hero.jpg
   width: 700
   height: 300
 date: '2021-08-15'

@@ -1,7 +1,7 @@
 ---
 title:  "Clarification sur les fusions de 2020; une Iron Bank indépendante"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 1280
   height: 800
 date: '2022-02-25'
@@ -9,7 +9,7 @@ author: Weaver
 translator: Cryptouf
 ---
 
-![](cover.png?w=800&h=450)
+![](cover.jpg?w=800&h=450)
 
 Fin 2020, Yearn Finance a annoncé plusieurs « fusions » dans le but de regrouper les principaux projets DeFi, et ainsi créer un écosystème centré sur les infrastructures importantes : AMM (SushiSwap), Lending (CREAM Finance), support institutionel (Akropolis) et Yield Gestion (Finance Pickle).
 

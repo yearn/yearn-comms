@@ -1,7 +1,7 @@
 ---
 title:  "Mais incentivos, juros compostos e mojitos para você com yvBOOST"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 1050
   height: 543
 date: '2021-09-14'
@@ -19,7 +19,7 @@ _postagem escrita pelo colaborador de Yearn_ [_qosmonot_](http://twitter.com/qos
 
 Muitos vaults Yearn têm estratégias construídas em pools Curve e, portanto, usam o token CRV para otimizá-las, votando para direcionar as alocações de recompensas para esses pools. Yearn tem aumentado constantemente sua pilha de tokens CRV para fornecer recompensas crescentes para esses vaults.
 
-![](image1.png?w=1050&h=651)
+![](image1.jpg?w=1050&h=651)
 
 Qualquer um pode se beneficiar disso escolhendo fazer stake de seus tokens CRV através de Yearn. Deixe-nos explicar o que Yearn pode oferecer a você e como você também pode aumentar sua quantidade de CRV com um impulso!
 
@@ -96,4 +96,4 @@ O trabalho de Yearn para automatizar a geração de rendimento e rebalanceamento
 
 Em nosso próximo post, vamos cobrir o vault keepCRV e os processos de incentivos e EPS. Até lá...
 
-![](image4.png?w=1050&h=543)
+![](image4.jpg?w=1050&h=543)

@@ -1,7 +1,7 @@
 ---
 title:  "Warum Audits schlecht sind"
 image:
-  src: ./andre-hero.png
+  src: ./andre-hero.jpg
   width: 700
   height: 300
 author: Andre
@@ -18,7 +18,7 @@ Heutzutage werden Prüfungen nicht mehr zur Überprüfung, sondern nur noch als 
 
 Nehmen wir Fixed Forex als Beispiel: "Wurde das Projekt geprüft?" [Ja], und hier ist die [Audit](https://github.com/andrecronje/fixed-forex-audit/blob/main/PeckShield-Audit-Report-ERC20-ibEUR-v1.0.pdf). Vielleicht hast du sogar den Link geöffnet und dann zu den Ergebnissen hinuntergescrollt;
 
-![](1.png?w=935&h=581)
+![](1.jpg?w=935&h=581)
 
 Toll, oder? 1 niedrig und 1 informativ. Aber jetzt lass uns das im Kontext betrachten. Dies ist im Wesentlichen ein ERC20-Vertrag, und während es zeigt, dass ibEUR und nachfolgende ib-Assets eine einfache ERC20-Implementierung sind, was ist mit dem Rest des Ökosystems?
 

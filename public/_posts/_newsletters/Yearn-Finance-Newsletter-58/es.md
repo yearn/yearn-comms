@@ -3,7 +3,7 @@ layout: post
 title: "Newsletter #58 de Yearn Finance "
 categories: [Newsletters]
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 576
   height: 288
 author: Yearn
@@ -13,7 +13,7 @@ translator: RestlessMik3
 
 ### Semana que finaliza el 8 de marzo de 2022
 
-![](./image1.png?w=1456&h=733)
+![](./image1.jpg?w=1456&h=733)
 
 Bienvenidos a la 58ª edición de la newsletter Yearn Finance. Nuestro objetivo con esta newsletter es mantener a Yearn y a la comunidad cripto informada sobre las últimas noticias, incluidos los lanzamientos de productos, los cambios en la gobernanza y las actualizaciones del ecosistema. Si está interesado en obtener más información sobre Yearn Finance, siga nuestras cuentas oficiales [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn).
 
@@ -62,7 +62,7 @@ Consulte el artículo completo [aquí](https://medium.com/iearn/clarifying-2020-
 
 # Profundizando en las métricas de Yearn
 
-![](./image4.png?w=1400&h=625)
+![](./image4.jpg?w=1400&h=625)
 
 Uno de los valores principales de las criptomonedas es que uno haga su propia investigación, y aquí en Yearn, esperamos enfatizar que las métricas transparentes son una de nuestras mayores fortalezas para ayudar a los usuarios a tener cuidado al interactuar con el protocolo.
 
@@ -76,7 +76,7 @@ Puede acceder a las Vaults enumeradas en estos sitios y comenzar a ganar hoy en 
 
 # Yearn se asocia con Tenderly
 
-![](./image5.png?w=1400&h=670)
+![](./image5.jpg?w=1400&h=670)
 
 Después de una reciente recaudación de fondos de la Serie B de $ 40 millones, la plataforma de herramientas de desarrollo de Ethereum, Tenderly, se ha asociado oficialmente con nosotros en Yearn.
 

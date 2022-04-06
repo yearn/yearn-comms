@@ -14,6 +14,7 @@ export default Index;
 export const getStaticProps = async ({locale, params}) => {
 	const	childrens = [
 		['announcements/', ['']],
+		['newsletters/', ['']],
 		['podcasts/', ['']],
 		['tweets/', ['']],
 		['financials/', ['', 'quarterly-report/']],
@@ -67,6 +68,7 @@ export async function getStaticPaths() {
 	const	allPaths = [];
 	Object.values(LOCALES).map(({code}) => {
 		allPaths.push({params: {path: 'announcements'}, locale: code});
+		allPaths.push({params: {path: 'newsletters'}, locale: code});
 		allPaths.push({params: {path: 'podcasts'}, locale: code});
 		allPaths.push({params: {path: 'financials'}, locale: code});
 		allPaths.push({params: {path: 'articles'}, locale: code});

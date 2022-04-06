@@ -3,7 +3,7 @@ layout: post
 title: "Stealth Safe Guard: MEV Protection for your Gnosis Safe"
 categories: [Updates]
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 1256
   height: 1024
 author: "0x71B1"

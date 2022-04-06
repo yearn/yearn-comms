@@ -1,7 +1,7 @@
 ---
 title:  "Yearn Kullanıcı Arayüzü v3.0"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 800
   height: 450
 date: '2021-09-17'
@@ -13,7 +13,7 @@ translator: Dastronom
 
 ### yearn.finance kullanıcı arayüzünün bir sonraki yinelemesi burada
 
-![](image1.png?w=800&h=450)
+![](image1.jpg?w=800&h=450)
 
 _v3 açılış sayfası tasarımı keşfi_
 
@@ -21,7 +21,7 @@ Yearn.finance'ı sıfırdan yeniden oluşturduk. v2'deki geri bildirimleri ve so
 
 ## Gerçekleştirilen bir vizyon
 
-![](image2.png?w=300&h=398)
+![](image2.jpg?w=300&h=398)
 
 _v3 tasarım keşfi_
 
@@ -44,7 +44,7 @@ Topluluk geri bildirimlerini dikkatle dinledik ve en acil sorunlar ele alındı.
 
 Lütfen bunun bir **_beta sürümü:_** olduğunu unutmayın henüz hiçbir şey nihai değildir ve geri bildirim alıp daha fazla iyileştirme uyguladıkça önümüzdeki birkaç hafta içinde yinelemeyi planlıyoruz. Geri bildirimde bulunmak istiyorsanız v3 web kullanıcı arayüzü geri bildirimi için oluşturulan yeni [discord kanalımıza](https://discord.gg/Rw9zA3GbyE) gidin.
 
-![](image3.png?w=300&h=354)
+![](image3.jpg?w=300&h=354)
 
 _v3 tasarım keşfi_
 
@@ -64,7 +64,7 @@ Aşağıda her birini kısaca açıklıyoruz:
 
 ### Lens
 
-![](image4.png?w=800&h=500)
+![](image4.jpg?w=800&h=500)
 
 _Lens blok diyagramı_
 
@@ -100,7 +100,7 @@ Yearn'in meta veri deposu, herhangi bir kod düzenlemesi gerektirmeden front-end
 
 ### Subgraph
 
-![](image5.png?w=800&h=680)
+![](image5.jpg?w=800&h=680)
 
 _Gösterge tablosunda ve her vault için görüntülenen kazançlar_
 
@@ -124,7 +124,7 @@ Yearn Exporter'i, birincil API'miz olarak işlev görür ve tüm APY ve TVL hesa
 
 ### SDK
 
-![](image6.png?w=800&h=638)
+![](image6.jpg?w=800&h=638)
 
 _SDK blok diyagramı_
 
@@ -142,7 +142,7 @@ Yearn'in yeni SDK'sı, yeni v3 web sitemize güç sağlayan motordur ve front-en
 
 Yukarıda listelenen back-end altyapısı ihtiyaç duyulan verileri üretirken, front-end bunu kullanır ve kullanıcıların onunla kolayca etkileşime girebileceği şekilde sunar.
 
-![](image7.png?w=913&h=696)
+![](image7.jpg?w=913&h=696)
 
 _v3 FE blok diyagramı_
 
@@ -154,7 +154,7 @@ NS **v3 çekirdek mantığı** herhangi bir repo'da uygulanması kolay olması a
 
 [Front-end kaynak kodu](https://github.com/yearn/yearn-finance-v3)
 
-![](image8.png?w=659&h=398)
+![](image8.jpg?w=659&h=398)
 
 _Yan gezinme çubuğu ve gösterge tablosunun yakın çekimi_
 
@@ -172,7 +172,7 @@ Yeni vault'lar sayfamız, vault mevduatları, öneriler (şu anda en yüksek get
 
 #### Vault Detay Sayfası
 
-![](image9.png?w=800&h=554)
+![](image9.jpg?w=800&h=554)
 
 _Vault detay sayfası_
 
@@ -198,7 +198,7 @@ Vault'lar ve laboratuvarlara benzer şekilde, Iron Bank, sağlanan toplam, topla
 
 ### Ek Özellikler
 
-![](image10.png?w=300&h=410)
+![](image10.jpg?w=300&h=410)
 
 _Slipaj toleransını aşan bir zap simülasyonu_
 
@@ -216,7 +216,7 @@ Yeterli yakıtınızım olmadığı bir işlemi simüle etmeye çalışıyorsan�
 
 #### Mobil Cihazlar
 
-![](image11.png?w=300&h=518)
+![](image11.jpg?w=300&h=518)
 
 _v3 mobil deneyim_
 
@@ -228,7 +228,7 @@ Bazı App Store'ların kısıtlamaları nedeniyle şu anda yerel bir Yearn uygul
 
 ## Gelecek Yol Haritası
 
-![](image12.png?w=800&h=462)
+![](image12.jpg?w=800&h=462)
 
 _v3 tasarım keşfi_
 
@@ -256,7 +256,7 @@ Ethereum'un PoW'sinin PoS ile birleştirilmesi kadar dramatik olmasa da, v3 web'
 
 ## A Word of Gratitude
 
-![](image13.png?w=2000&h=1125)
+![](image13.jpg?w=2000&h=1125)
 
 _Yearn web ekibinin otoportresi_
 

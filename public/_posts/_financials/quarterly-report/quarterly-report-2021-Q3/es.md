@@ -35,7 +35,7 @@ translator: RestlessMik3
 
 ## Introducción a Yearn Finance
 
-![](./image1.png?w=1456&h=733)
+![](./image1.jpg?w=1456&h=733)
 
 Yearn Finance ("Yearn") es el principal protocolo agregador de rendimiento en finanzas descentralizadas ("DeFi") que opera en la cadena de bloques Ethereum. El protocolo se lanzó a principios de 2020 con el producto iEarn que cambia algorítmicamente monedas estables (USDC, USDT, DAI) entre varios protocolos de préstamo en DeFi para obtener las tasas de interés más óptimas en todo momento. Este producto se conoce como yPool en Curve Finance. Curve es un intercambio de monedas estables descentralizado que se centra en intercambios de bajo deslizamiento entre varios activos de monedas estables. En julio de 2020, el token YFI se distribuyó durante aproximadamente 10 días a los usuarios que proporcionaron capital en fondos de liquidez relacionados con yPool, un proceso conocido como "farming" o "yield-farming". El token YFI rige el protocolo Yearn.
 

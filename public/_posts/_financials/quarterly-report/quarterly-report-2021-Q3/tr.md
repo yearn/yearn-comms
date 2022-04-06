@@ -35,7 +35,7 @@ translator: Dastronom
 
 ## Yearn Finance'e Giriş
 
-![](./image1.png?w=1456&h=733)
+![](./image1.jpg?w=1456&h=733)
 
 Yearn Finance (“Yearn”), Ethereum blok zincirinde çalışan merkezi olmayan finansta (“DeFi”) önde gelen getiri toplayıcı protokolüdür. The protocol launched in early 2020 with the iEarn product that algorithmically shifts stablecoins (USDC, USDT, DAI) between several lending protocols in DeFi to obtain the most optimal interest rates at all times. Bu ürün Curve Finance'te yPool olarak bilinir. Curve, çeşitli sabit para varlıkları arasında düşük kaymalı takaslara odaklanan merkezi olmayan bir sabit para borsasıdır. Temmuz 2020'de YFI jetonu, "tarım" veya "verim çiftçiliği" olarak bilinen bir süreç olan yPool'u içeren likidite havuzlarına sermaye sağlayan kullanıcılara yaklaşık 10 gün boyunca dağıtıldı. YFI belirteci, Yearn protokolünü yönetir.
 

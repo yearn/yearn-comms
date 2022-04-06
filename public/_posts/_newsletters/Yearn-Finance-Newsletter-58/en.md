@@ -3,7 +3,7 @@ layout: post
 title: "Yearn Finance Newsletter #58"
 categories: [Newsletters]
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 576
   height: 288
 author: Yearn
@@ -13,7 +13,7 @@ translator:
 
 ### Week Ending March 8th, 2022
 
-![](./image1.png?w=1456&h=733)
+![](./image1.jpg?w=1456&h=733)
 
 Welcome to the 58th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
 
@@ -62,7 +62,7 @@ Check out the full article [here](https://medium.com/iearn/clarifying-2020-merge
 
 # Diving Into Yearn Metrics
 
-![](./image4.png?w=1400&h=625)
+![](./image4.jpg?w=1400&h=625)
 
 One of crypto’s major ethos is for one to do their own research, and here at Yearn, we hope to emphasize that transparent metrics are one of our greatest strengths in helping users exercise caution in interacting with the protocol.
 
@@ -76,7 +76,7 @@ You can access the vaults listed on these sites and starting earning today at [y
 
 # Yearn Partners With Tenderly
 
-![](./image5.png?w=1400&h=670)
+![](./image5.jpg?w=1400&h=670)
 
 Coming off hot from a recent $40M Series B fundraise, Ethereum dev tooling platform Tenderly has undertaken an official partnership with us at Yearn.
 

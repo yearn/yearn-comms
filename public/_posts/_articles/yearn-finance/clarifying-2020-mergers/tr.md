@@ -1,7 +1,7 @@
 ---
 title: "2020 Birleşmelerinin Netleştirilmesi; Bağımsız Bir Iron Bank"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 1280
   height: 800
 date: '2022-02-25'
@@ -9,7 +9,7 @@ author: Weaver
 translator: Dastronom
 ---
 
-![](cover.png?w=800&h=450)
+![](cover.jpg?w=800&h=450)
 
 2020'nin sonlarında Yearn Finance, önde gelen DeFi projelerini bir araya getirmek ve kritik altyapıya odaklanan bir ekosistem oluşturmak amacıyla birkaç "birleşme" duyurdu: AMM (SushiSwap), Borç Verme (C.R.E.A.M. Finance), Kurumsal destek (Akropolis) ve Getiri Yönetimi (Pickle Finance).
 

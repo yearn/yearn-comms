@@ -3,7 +3,7 @@ layout: post
 title: "Bản tin Yearn Finance #58"
 categories: [Newsletters]
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 576
   height: 288
 author: Yearn
@@ -13,7 +13,7 @@ translator: 🤖💵💵💰💰.eth
 
 ### Tuần Kết thúc Ngày 08/03/2022
 
-![](./image1.png?w=1456&h=733)
+![](./image1.jpg?w=1456&h=733)
 
 Chào mừng các bạn đến với Bản tin Yearn.Finance Số #58! Chúng tôi hy vọng sẽ truyền tải được những dữ kiện mới nhất cho cộng đồng tiền mã thuật số (`crypto`) nói chung lẫn cộng đồng Yearn nói riêng; từ phát hành sản phẩm, thay đổi trong quản trị đến nhiều dự án đối tác trực thuộc hệ sinh thái Yearn. Nếu quan tâm và muốn biết thêm chi tiết về Yearn.Finance, hãy theo dõi tài khoản [Twitter](https://twitter.com/iearnfinance), [Medium](https://medium.com/iearn) cũng như [blog Tiếng Việt](https://blog.yearn.finance/vi/) chính thức của chúng tôi.
 
@@ -62,7 +62,7 @@ Xem toàn bộ nội dung [tại đây](https://medium.com/iearn/clarifying-2020
 
 # Đào sâu các Chỉ số Yearn
 
-![](./image4.png?w=1400&h=625)
+![](./image4.jpg?w=1400&h=625)
 
 Một trong những đạo lý lớn nhất của tiền mã thuật số (`crypto`) là mỗi cá nhân phải tự nghiên cứu rút ra kết luận cho riêng mình. Với Yearn, chúng tôi mong muốn nhấn mạnh các chỉ số minh bạch là một trong những điểm mạnh nhất của mình, từ đó giúp người dùng thận trọng khi tương tác với giao thức.
 
@@ -76,7 +76,7 @@ Bạn có thể truy cập các kho bạc được liệt kê ở những trang 
 
 # Yearn Hợp tác với Tenderly
 
-![](./image5.png?w=1400&h=670)
+![](./image5.jpg?w=1400&h=670)
 
 Tenderly nổi như cồn từ đợt gây quỹ `Series B` 40&nbsp;Triệu&nbsp;$ gần đây, nền tảng công cụ phát triển Ethereum này đã chính thức đặt quan hệ đối tác với chúng tôi tại Yearn.
 

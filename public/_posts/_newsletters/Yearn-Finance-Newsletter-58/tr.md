@@ -3,7 +3,7 @@ layout: post
 title: "Yearn Finance Haber Bülteni #58"
 categories: [Newsletters]
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 576
   height: 288
 author: Yearn
@@ -13,7 +13,7 @@ translator: Dastronom
 
 ### 8 Mart 2022'de Sona Eren Hafta
 
-![](image1.png)
+![](image1.jpg)
 
 Yearn Finance Bülteninin 58. baskısına hoş geldiniz. Bu bültenle amacımız, Yearn'i ve daha geniş kripto topluluğunu ürün lansmanları, yönetim değişiklikleri ve ekosistem güncellemeleri de dahil olmak üzere en son gelişmelerden haberdar etmektir. Yearn Finance hakkında daha fazla bilgi edinmek istiyorsanız, resmi [Twitter](https://twitter.com/iearnfinance) ve [Medium](https://medium.com/iearn) hesaplarımızı takip edin.
 
@@ -62,7 +62,7 @@ Makalenin tamamına [buradan](https://medium.com/iearn/clarifying-2020-mergers-a
 
 # Yearn Metriklerini Yakından İncelemek
 
-![](./image4.png?w=1400&h=625)
+![](./image4.jpg?w=1400&h=625)
 
 Kriptonun ana değerlerinden biri, kişinin kendi araştırmasını yapmasıdır ve burada Yearn'de, şeffaf metriklerin, kullanıcıların protokolle etkileşimde dikkatli olmalarına yardımcı olmada en güçlü yönlerimizden biri olduğunu vurgulamayı umuyoruz.
 
@@ -76,7 +76,7 @@ Bu sitelerde listelenen vault'lara erişebilir ve bugün [yearn.finance/#/vaults
 
 # Yearn'ın Tenderly İle İş Ortaklığı
 
-![](./image5.png?w=1400&h=670)
+![](./image5.jpg?w=1400&h=670)
 
 Yakın zamanda 40 milyon dolarlık B Serisi bağıştan sıcak çıkan Ethereum geliştirme aracı platformu Tenderly, Yearn'de bizimle resmi bir ortaklık üstlendi.
 

@@ -1,7 +1,7 @@
 ---
 title:  "DAOのための分散型給与管理"
 image:
-  src: ./andre-hero.png
+  src: ./andre-hero.jpg
   width: 700
   height: 300
 author: Andre

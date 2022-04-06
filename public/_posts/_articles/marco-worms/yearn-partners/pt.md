@@ -33,7 +33,7 @@ Uma visão geral do Abracadabra seria:
 1. O usuário deposita wETH (Ethereum envelopado, o mesmo que Ethereum) em um yVault, e recebe yvWETH
 2. O usuário deposita o yvWETH em Abracadaba como garantia, o Abracadabra permite que o usuário emita uma porcentagem de sua garantia como uma stablecoin em dólar chamada Magic Internet Money (MIM)
 
-![](./image1.png?w=633&h=527)\
+![](./image1.jpg?w=633&h=527)\
 *[Abracadabra](http://abracadabra.money/) “borrow” interface*
 
 Quando o usuário emite MIM, a garantia depositada é bloqueada até que o MIM emprestado seja devolvido
@@ -65,12 +65,12 @@ Os parceiros ganham uma parte das taxas com base na TVL que contribuem para os v
 
 **Seções de Investimento:** páginas que fornecem uma interface alternativa para os usuários depositarem seus ativos no yVaults. Um bom exemplo da seção de inverstimento (Earn) pode ser encontrado em [ShapeShift](https://shapeshift.com/). Seu contrato para depositar os ativos no Yearn Vaults é de [código aberto no GitHub](https://github.com/shapeshift/yearn-router).
 
-![](./image3.png?w=750&h=554)\
+![](./image3.jpg?w=750&h=554)\
 *Seção "Earn" de[ShapeShift](https://shapeshift.com/)*
 
 **Carteiras**: os parceiros fornecem opções de geração de rendimento de Yearn dentro de seu ecossistema usando o yVaults. O [SteakWallet](https://www.steakwallet.fi/) é um bom exemplo de um serviço de carteira que se integra ao Yearn:
 
-![](./image4.png?w=363&h=681)\
+![](./image4.jpg?w=363&h=681)\
 * Interface [SteakWallet](https://www.steakwallet.fi/) *
 
 ## Recursos para se tornar um parceiro

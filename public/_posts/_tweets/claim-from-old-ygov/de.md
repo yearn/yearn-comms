@@ -21,7 +21,7 @@ Habe mir gerade die alten [@iearnfinance](https://twitter.com/iearnfinance) Stak
 
 Fast 29 Mio. $ an eingesetzten LPs, YFI und einforderbaren Belohnungen 👇
 
-![](image1.png)
+![](image1.jpg)
 
 ##### 2
 
@@ -40,7 +40,7 @@ Rufe https://etherscan.io auf, und gib eine der folgenden Adressen ein:
 
 Klicke unter "Contract" auf "Read Contract", und gib unter "balanceOf" deine Adresse ein 👀.
 
-![](image2.png)
+![](image2.jpg)
 
 ##### 4
 
@@ -48,7 +48,7 @@ Wenn ein Wert >0 angezeigt wird, dann herzlichen Glückwunsch, kannst YFI und/od
 
 Um alle deine Einsätze und Belohnungen einzufordern, gehe zu "Write Contract", verbinde dein Wallet und rufen exit() auf.
 
-![](image3.png)
+![](image3.jpg)
 
 ##### 5
 

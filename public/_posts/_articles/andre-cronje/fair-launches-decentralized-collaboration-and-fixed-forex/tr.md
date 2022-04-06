@@ -1,6 +1,6 @@
 ---
 title:  "Adil lansmanlar, merkezi olmayan işbirliği ve Sabit Forex"
-image: ./Fair-launches-decentralized-collaboration-and-Fixed-Forex/andre-hero.png
+image: ./Fair-launches-decentralized-collaboration-and-Fixed-Forex/andre-hero.jpg
 author: Andre
 translator: Dastronom
 ---
@@ -48,11 +48,11 @@ Sabit Forex, USD, EUR, ZAR, JPY, CNY, AUD, AED, CAD, INR ve Sabit Forex takma ad
 
 Mevcut ilk seçenek, [yearn.fi/lend](https://yearn.fi/lend) aracılığıyla basılabilen [ibEUR](https://www.coingecko.com/en/coins/iron-bank-euro) seçeneğidir.
 
-![](image2.png?w=700&h=194)
+![](image2.jpg?w=700&h=194)
 
 Tüm forex seçenekleri, [yearn.fi](https://yearn.fi/lend) adresinde kabul edilen teminatlardan herhangi biri aracılığıyla basılabilir.
 
-![](image3.png?w=645&h=874)
+![](image3.jpg?w=645&h=874)
 
 Güncel teminat faktörleri için, [buradan](https://docs.cream.finance/iron-bank/collateral-and-reserve-factor) Iron Bank belgelerini ziyaret edebilirsiniz.
 
@@ -61,7 +61,7 @@ Her forex çifti 2 likidite havuzunu hedefleyecektir;
 ib\*/\* ([curve.fi](https://curve.fi/))  
 ib\*/ETH ([sushi.com](https://sushi.com/))
 
-![](image4.png?w=700&h=243)
+![](image4.jpg?w=700&h=243)
 
 Her bir varlık için likidite sağlayıcıları dört adet kullanılabilir getiri seçeneğine sahip olacaktır;
 

@@ -1,6 +1,6 @@
 ---
 title:  "公平发布、去中心化协作和固定外汇"
-image: ./Fair-launches-decentralized-collaboration-and-Fixed-Forex/andre-hero.png
+image: ./Fair-launches-decentralized-collaboration-and-Fixed-Forex/andre-hero.jpg
 author: Andre
 translator: Xiaona
 published: true
@@ -41,11 +41,11 @@ Fixed Forex是USD、EUR、ZAR、JPY、CNY、AUD、AED、CAD、INR以及以 Fixed
 
 第一个推出的产品是[ibEUR](https://www.coingecko.com/en/coins/iron-bank-euro)，可以通过 [yearn.fi/lend](https://yearn.fi/lend) 来铸造。
 
-![](image2.png?w=700&h=194)
+![](image2.jpg?w=700&h=194)
 
 所有外汇产品都可以通过 [yearn.fi](https://yearn.fi/lend) 上任何可接受的抵押品铸造。
 
-![](image3.png?w=645&h=874)
+![](image3.jpg?w=645&h=874)
 
 有关最新的抵押因数，你可以在[此处](https://docs.cream.finance/iron-bank/collateral-and-reserve-factor)访问Iron Bank的文档。
 
@@ -54,7 +54,7 @@ Fixed Forex是USD、EUR、ZAR、JPY、CNY、AUD、AED、CAD、INR以及以 Fixed
 ib\*/\* ([curve.fi](https://curve.fi/))  
 ib\*/ETH ([sushi.com](https://sushi.com/))
 
-![](image4.png?w=700&h=243)
+![](image4.jpg?w=700&h=243)
 
 对于每种资产，流动性提供者将有四种可能的收益；
 
