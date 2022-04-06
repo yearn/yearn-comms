@@ -14,7 +14,7 @@ export const getStaticProps = async ({locale, params}) => {
 	const	childrens = [['newsletters/', ['']]];
 	const	dirs = [];
 	for (let index = 0; index < childrens.length; index++) {
-		if (childrens[index][0] === `${params.path}/`) {
+		if (childrens[index][0] === 'newsletters/') {
 			for (let jindex = 0; jindex < childrens[index][1].length; jindex++) {
 				dirs.push(`_${childrens[index][0]}${childrens[index][1][jindex]}`);
 			}
