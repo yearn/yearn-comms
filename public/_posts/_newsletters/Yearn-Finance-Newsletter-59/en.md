@@ -13,7 +13,7 @@ translator:
 
 ### Week Ending April 5th, 2022
 
-![](./image1.png?w=1456&h=733)
+![](./image1.jpg?w=1456&h=733)
 
 Welcome to the 59th edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
 
@@ -42,7 +42,7 @@ Embark now at [https://yearn.finance/#/vaults](https://yearn.finance/#/vaults)
 
 # Talking Strategies with Facu at ETHDubai
 
-![](./image3.png?w=1024&h=512)
+![](./image3.jpg?w=1024&h=512)
 
 At the recent ETHDubai event, Yearn contributor saltyfacu goes over the general essence of strategies at Yearn, our core business.
 
