@@ -22,14 +22,14 @@ export default Post;
 
 export async function getStaticProps({params, locale}) {
 	const slug = params.slug[params.slug.length - 1];
-	const path = `_${params.path}/${params.slug.slice(0, -1).join('/')}`;
+	const path = `_newsletters/${params.slug.slice(0, -1).join('/')}`;
 	const post = getPostBySlug(path, slug, ['content'], locale, true);
 	const [newer, older] = await getRelatedPosts(path, [], locale, false, slug);
 
 	return {
 		props: {
 			post,
-			path: params.slug.length > 1 ? `${params.path}/${params.slug[0]}` : params.path,
+			path: params.slug.length > 1 ? `newsletters/${params.slug[0]}` : 'newsletters',
 			newer: newer || null,
 			older: older || null
 		},
