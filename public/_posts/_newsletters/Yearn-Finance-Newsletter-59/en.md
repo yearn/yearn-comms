@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yearn Finance Newsletter #59"
+title: "Yearn Finance Newsletter #58"
 categories: [Newsletters]
 image:
   src: ./cover.png
@@ -8,7 +8,7 @@ image:
   height: 576
 author: Yearn
 date: '2022-04-06'
-translator:
+translator: 
 ---
 
 ### Week Ending April 5th, 2022
@@ -62,7 +62,7 @@ We invite you to engage, give feedback, and participate in the Yearn community b
 
 ![](./image4.png?w=1024&h=768)
 
-In this article, cryptouf and farrahmay offer a primer into the onboarding process of joining a DAO, specifically Yearn. Read below for a summary of their dialogue.
+In this article, Cryptouf and Farrahmay offer a primer into the onboarding process of joining a DAO, specifically Yearn. Read below for a summary of their dialogue.
 
 What should a new contributor keep in mind when they make the decision to join a DAO? They will need to research the DAO they are joining and its ethos.
 
@@ -76,7 +76,7 @@ The first wave of contributors joining a DAO were less concerned about compensat
 
 Coordinape has a feature to vouch people, so all members have the option to add someone. This feature is amazing for decentralization, but the more members a circle has, the more this feature can be gamed, and members can vouch for their friends. What is Yearn doing to avoid this ? Some members may be involved for a few months, and then leave the DAO or just be less active for a few months (for any reason !). In a utopian world, members should clearly report this to other members in order to receive less rewards, or would even opt-out, so they are not rewarded when they didn’t work during some times. But is it really the case? Any tool can be gamed, and Coordinape is no exception.
 
-Check out the full article [here](https://mirror.xyz/cryptouf.eth/WRXKCZmEQvh1kqcn4U4HnY-BjDZQGAEjr1yyAOnHngc). Special thanks to the writer cryptouf and Yearn contributor farrahmay for their insights.
+Check out the full article [here](https://mirror.xyz/cryptouf.eth/WRXKCZmEQvh1kqcn4U4HnY-BjDZQGAEjr1yyAOnHngc). Special thanks to the writer Cryptouf and Yearn contributor Farrahmay for their insights.
 
 # How Yearn Uses Tenderly
 
