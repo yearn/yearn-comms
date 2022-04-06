@@ -4,8 +4,8 @@ title: "Yearn Finance Newsletter #59"
 categories: [Newsletters]
 image:
   src: ./cover.png
-  width: 576
-  height: 288
+  width: 1152
+  height: 576
 author: Yearn
 date: '2022-04-06'
 translator:
