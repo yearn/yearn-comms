@@ -30,7 +30,7 @@ Welcome to the 59th edition of the Yearn Finance Newsletter. Our aim with this n
 
 # Introducing Our Newest and Most Powerful Vault
 
-![](./image2.jpg?w=900&h=473)
+![](./image2.png?w=900&h=473)
 
 Our newest Curve Rocket Pool vault is live, and you can earn ETH staking rewards on 2 sides of a Curve Finance pool with Rocket Pool ETH (rETH) and Lido stETH (wstETH). Since both sides of the pool are liquid staking ETH tokens, you’ll earn Ethereum staking rewards, $CRV emissions, and Curve trading fees. Yearn will automatically harvest and re-deposit CRV and CVX emissions into the vault to boost your yield.
 
@@ -42,7 +42,7 @@ Embark now at [https://yearn.finance/#/vaults](https://yearn.finance/#/vaults)
 
 # Talking Strategies with Facu at ETHDubai
 
-![](./image3.jpg?w=1024&h=512)
+![](./image3.png?w=1024&h=512)
 
 At the recent ETHDubai event, Yearn contributor saltyfacu goes over the general essence of strategies at Yearn, our core business.
 
