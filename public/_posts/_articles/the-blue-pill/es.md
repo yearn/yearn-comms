@@ -1,5 +1,5 @@
 ---
-title: "The Blue Pill"
+title: "La píldora azul"
 image:
   src: ./cover.jpg
   width: 742
@@ -9,19 +9,19 @@ author: Yearn
 translator: RestlessMik3
 ---
 
-La pastilla azul
+La Píldora Azul
 Una guía espiritual para el pasado, presente y futuro.
 
-la pastilla azul
+La Píldora Azul
 PASADO • PRESENTE • FUTURO
 
-QUÉ ES
-¿YEARN?
+¿QUÉ ES
+YEARN?
 
-¿DE DONDE 
+¿DE DÓNDE 
 VIENE YEARN?
 
-¿HACIA DONDE 
+¿HACIA DÓNDE 
 VA YEARN?
 
 “Somos como un pajarito recién nacido.
@@ -36,14 +36,14 @@ alas, o morimos en el nido.”
 PRÓLOGO
 
 EN LA TIERRA DE
-PASTILLAS AZULES
+PÍLDORAS AZULES
 TODO LO QUE PENSASTE
 ERA IMPORTANTE
 DEJA DE
 IMPORTAR
 
 TU TÍTULO
-SU PATRIMONIO NETO
+TU PATRIMONIO NETO
 TU NACIONALIDAD
 TUS GRADOS
 TU APARIENCIA
@@ -58,17 +58,17 @@ contribuir
 ES LA MANO QUE HACE SEÑAS
 DESDE LA BRECHA QUE NUNCA HAS NOTADO EN LOS SETOS
 
-¿Tomarás el gastado
+¿Tomarás los gastado
 caminos de ayer? 
-O quieres ir
+O ¿quieres ir
 a algún lugar nuevo?
 
-La píldora azul de Yearn tiene
+La Píldora Azul de Yearn tiene
 un objetivo primordial:
 comunicar
 La visión de Yearn
 
-Pero ¿como lo 
+Pero ¿cómo lo 
 haces desde
 dentro de una red
 sin líder?
@@ -80,11 +80,11 @@ DE DIVERSOS
 CONTRIBUYENTES
 DEL MUNDO?
 
-EL CORTO
+EN CORTO
 LA RESPUESTA ES,
 NO PUEDES
 
-todos estamos aquí por
+Todos estamos aquí por
 diferentes razones
 Todos tenemos
 objetivos diferentes
@@ -130,7 +130,7 @@ Cada colaborador de Yearn tiene una historia o viaje
 Y debemos comenzar
 con la historia
 del primero
-André Cronje
+Andre Cronje
 
 En 2018, estudió el código de todos los proyectos cripto importantes.
 Leyó sus Githubs línea por línea
@@ -139,8 +139,8 @@ Publicó reseñas para que todos las leyeran.
 Y en ese proceso, encontró la
 verdad: que la mayoría de los proyectos fueron
 construido sobre mentiras y exageraciones
-Eran bifurcaciones con nombres elegantes.
-o bifurcaciones de bifurcaciones que no sirvieron
+eran bifurcaciones con nombres elegantes.
+o bifurcaciones de bifurcaciones que no hicieron
 lo que prometieron
 Pero algunos de ellos eran
 completamente distintos
@@ -178,7 +178,7 @@ que estuvo bien
 Y el capital vino a raudales
 
 "YO PRUEBO EN PRODUCCIÓN"
-ANDRÉ PROCLAMÓ
+ANDRE PROCLAMÓ
 TEN CUIDADO
 iEARN NO ESTABA AUDITADO
 ERA "PELIGROSO"
@@ -273,9 +273,9 @@ estaba claro el experimento
 se había convertido en algo
 mucho más grande que 
 cualquier colaborador por su cuenta
-fue un movimiento
+Fue un movimiento
 "No soy Yearn"
-Escribió André
+Escribió Andre
 
 “Consideren cuán grande se ha vuelto el ecosistema, consideren todos
 los sitios web, herramientas, boletines, foros, Discord, Telegram,
@@ -284,7 +284,7 @@ mi mismo. Soy un prototipador rápido y seguiré haciéndolo”.
 
 “El equipo de Yearn es mucho más hábil y capaz que yo,
 y cualquiera que piense que Yearn es dictado, dirigido o de alguna manera
-depende de mí, le está haciendo un flaco favor a Yearn. Yo estoy feliz
+depende de mí, le está haciendo un flaco favor a Yearn. Yo estoy feliz de
 ser un contribuyente a algo mucho más grande”.
 “No preveo que los constructores se detengan, y continuaré construyendo.
 Habrá cosas útiles, y habrá también fallos.
@@ -292,16 +292,16 @@ Pero creo que vale más intentarlo, incluso si es
 el fracaso, que todos los críticos esperan.”
 
 Hay pocas cosas en el
-mundo mas poderosas
+mundo más poderosas
 que el regalo
-de André Cronje de
-todo el YFI
+de Andre Cronje de regalar
+todo los YFI
 Cada
 Uno
 De ellos
 
 Más de mil millones de dólares en valor
-El campo de inflación de este regalo cósmico se ha ido
+El campo de inflación de este regalo cósmico ha dejado
 una marca imborrable en el colectivo
 Sus vibraciones resuenan
 en cada uno de nosotros
@@ -320,13 +320,13 @@ Pregunta: ¿Qué es Yearn?
 ¿Una fábrica de innovación?
 ¿Un protocolo agregador de rendimiento?
 ¿Una forma de vida intersubjetiva?
-¿Algo más, completamente?
+¿Algo más?
 Pregunta: ¿Quién puede contribuir a Yearn?
 Respuesta
 Quienquiera que seas, dondequiera que estés,
 Puede que tu sepas lo que es Yearn
 mejor que nosotros
-Ven a mostrarnos
+Ven a mostrárnoslo
 
 Yearn es un emergente
 y experimento en evolución
@@ -340,8 +340,8 @@ Yearn es abierto
 Todo lo que construye es visible.
 Yearn es post-corporativo...
 un lugar donde nunca tienes
-que venderte porque tu
-las contribuciones hablan por ti
+que venderte porque tus
+contribuciones hablan por ti
 
 EN YEARN, TU TRABAJO
 NO ESTÁ ASIGNADO
@@ -353,8 +353,8 @@ un aparato técnico construido de código
 No puede existir sin su
 red de corazones y mentes
 
-Quizá la propia red sea la
-La parte más radical de Yearn
+Quizá la propia red sea
+la parte más radical de Yearn
 Nuestra singular DAO (ORGANISMO AUTÓNOMO DESCENTRALIZADO)
 y quienes lo encarnan
 
@@ -385,7 +385,7 @@ YEARN ES IGUAL
 A OPORTUNIDAD
 YEARN ES PARA CONSTRUCTORES
 YEARN ES PARA
-EMPRENDEDORES AUTOMOTIVADOS
+EMPRENDEDORES
 
 YEARN ES PARA
 COLABORADORES
@@ -400,7 +400,7 @@ CONSTANTEMENTE EVOLUCIONANDO
 
 Y FINALMENTE:
 “LO QUE ES YEARN HOY,
-PUEDE NO SER LO QUE ES
+PUEDE NO SER LO QUE SERÁ
 MAÑANA −
 LO QUE HAGAS DESPUÉS
 DE LEER ESTO PODRÍA
@@ -446,7 +446,7 @@ El camino de la creación
 
 Y no somos los primeros
 Décadas antes de Satoshi, los espíritus pioneros ya habían
-comenzó a explorar el futuro de la coordinación
+comenzado a explorar el futuro de la coordinación
 El escritor Frederic Laloux llama a estos
 esfuerzos raros organizaciones verde azulado
 Han existido durante décadas, ocultos a plena vista,
@@ -490,7 +490,7 @@ cuando bombea sangre y
 confía en sus amigos, pues entonces
 podría encontrar la cima
 
-Ahora, ¿qué pasaría si te dijera que cada
+Ahora, ¿qué pasaría si te dijera que cada uno
 de nosotros está hecho de seres completos,
 es un ser completo, y es una parte
 de seres completos más grandes?
@@ -500,10 +500,10 @@ propio territorio desconocido por delante?
 
 Bueno, para los que ya nos hemos embarcado
 en este viaje juntos, sentimos este futuro en
-nuestros huesos, contándonos
+nuestros huesos, cantándonos
 Nuestra visión no es una hoja de ruta con un conjunto
 de objetivos y entregables
-es esta cancion
+Es esta cancion
 la voz de Yearn
 (DIVISIÓN AÉREA DE YEARN)
 
@@ -531,12 +531,12 @@ Estamos casados con el mar.
 
 ESTAMOS CONSTRUYENDO UN BARCO
 Llevará a cualquiera que
-quiere abordar
+quiera abordar
 Cualquier edad, cualquier género,
 cualquier visión del mundo
 Todos son bienvenidos
 todos son necesarios
-Encuentra un remo y empieza a tirar
+Encuentra un remo y empieza a remar
 
 Yearn es un barco de
 la flota del mañana
@@ -550,9 +550,9 @@ DESTINO NO
 IMPORTA PARA NADA
 
 Podemos navegar los mares 
-de agregación rendimiento, o podemos
+de agregación de rendimiento, o podemos
 encontrar nuevos dragones
-Escribiremos protocolos.
+Escribiremos protocolos
 más allá del borde del mapa
 
 Todo lo que importa es

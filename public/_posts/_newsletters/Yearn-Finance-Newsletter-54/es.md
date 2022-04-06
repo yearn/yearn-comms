@@ -15,11 +15,11 @@ translator: RestlessMik3
 
 ![](./image1.jpg?w=1100&h=554)
 
-Bienvenido a la 54.ª edición de la newsletter de Yearn Finance. Nuestro objetivo con este boletín es mantener a Yearn y a la criptocomunidad en general informados sobre las últimas noticias, incluidos lanzamientos de productos, cambios en la gobernanza y actualizaciones del ecosistema. Si está interesado en obtener más información sobre Yearn Finance, siga nuestras cuentas oficiales [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn).
+Bienvenido a la 54.ª edición de la newsletter de Yearn Finance. Nuestro objetivo con este boletín es mantener a Yearn y a la criptocomunidad en general informados sobre las últimas noticias, incluidos lanzamientos de productos, cambios en la gobernanza y actualizaciones del ecosistema. Si estás interesado en obtener más información sobre Yearn Finance, sigue nuestras cuentas oficiales [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn).
 
 ## Resumen
 
-- Presentamos siete nuevas vaults de Fantom
+- Presentamos siete nuevas vaults en Fantom
 - Nuevas vaults de Curve disponibles
 - Actualizaciones web de Yearn
 - Vaults de Yearn: llamando a la puerta de DeFi
@@ -27,7 +27,7 @@ Bienvenido a la 54.ª edición de la newsletter de Yearn Finance. Nuestro objeti
 - Vaults en Yearn
 - Noticias del ecosistema
 
-# Presentamos siete nuevas bóvedas de Fantom
+# Presentamos siete nuevas bóvedas en Fantom
 
 ![](./image2.jpg?w=550&h=733.5)
 
@@ -41,11 +41,11 @@ Mientras tanto, con casi 400 millones de dólares de TVL en las bóvedas de Fant
 
 ![](./image3.jpg?w=644&h=464)
 
-En Ethereum, las siguientes nuevas vaults de Curve ya están activas: CVX-ETH, CRV-ETH, 3EUR, UST Wormhole, USDPax, DOLA y RAI: la primera bóveda que utiliza la implementación de Curve personalizada de Reflexer
+En Ethereum, las siguientes nuevas vaults de Curve ya están activas: CVX-ETH, CRV-ETH, 3EUR, UST Wormhole, USDPax, DOLA y RAI: la primera bóveda que utiliza la implementación de Curve personalizada de Reflexer.
 
-En cuanto a 3EUR, este token representa un grupo de liquidez de Curve. Los titulares obtienen tarifas de los usuarios que comercian en el grupo y también pueden depositar el LP en los medidores de Curve para obtener emisiones de CRV. Este grupo contiene agEUR, EURT y EURS. agEUR es un euro sintético emitido por Angle Protocol, mientras que EURS y EURT son tokens de euro centralizados y fijos emitidos por Stasis y Tether, respectivamente.
+En cuanto a 3EUR, este token representa un grupo de liquidez de Curve. Los titulares obtienen tarifas de los usuarios que comercian en el pool y también pueden depositar el LP en los medidores de Curve para obtener emisiones de CRV. Este grupo contiene agEUR, EURT y EURS. agEUR es un euro sintético emitido por Angle Protocol, mientras que EURS y EURT son tokens de euro centralizados y fijos emitidos por Stasis y Tether, respectivamente.
 
-La estrategia 3EUR proporciona 3EURpool-f a Convex Finance para ganar CRV y CVX (y cualquier otro token disponible). Los tokens ganados se cosechan, se venden por más 3EURpool-f que se depositan nuevamente en la estrategia.
+La estrategia 3EUR proporciona 3EURpool-f a Convex Finance para ganar CRV y CVX (y cualquier otro token disponible). Los tokens ganados se cosechan y se venden por más 3EURpool-f que se depositan nuevamente en la estrategia.
 
 Consulte las nuevas bóvedas [aquí](https://yearn.finance/#/vaults).
 
@@ -67,7 +67,7 @@ Este artículo de BanklessDAO ofrece un resumen completo de las funciones que of
 
 En general, el uso de las bóvedas de Yearn es una apuesta al protocolo que tiene la mayor seguridad de los agregadores de rendimiento y que puede brindar una eficiencia de capital significativa a DeFi con el increíble trabajo de todos los estrategas y sus automatizaciones.
 
-Consulte el artículo completo [aquí](https://medium.com/bankless-dao/yearn-finance-vaults-knockin-on-defi-s-door-f5e9f56f669a).
+Consulta el artículo completo [aquí](https://medium.com/bankless-dao/yearn-finance-vaults-knockin-on-defi-s-door-f5e9f56f669a).
 
 # Actualización sobre yvBOOST
 
@@ -75,11 +75,11 @@ Consulte el artículo completo [aquí](https://medium.com/bankless-dao/yearn-fin
 
 Es posible que la mayoría no se dé cuenta, pero 1 yvBOOST cobra 2.2 veces más tarifas semanales del protocolo Curve que 1 veCRV. yvBOOST APR también está por encima del 100 %, sostenido, con 1 yvBOOST actualmente siendo un 32 % más barato que 1 CRV. Incluso después de todo esto, aún quedan más de $ 5 millones para donar a los titulares de yvBOOST
 
-Consulte las donaciones [aquí](https://etherscan.io/address/0xdf270b48829e0f05211f3a33e5dc0a84f7247fbe).
+Consulta las donaciones [aquí](https://etherscan.io/address/0xdf270b48829e0f05211f3a33e5dc0a84f7247fbe).
 
 # Vauts de Yearn
 
-Puede leer una descripción detallada de las estrategias para todos nuestros yVaults activos [aquí](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Puedes leer una descripción detallada de las estrategias para todas nuestras yVaults activas [aquí](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
 # Noticias del Ecosistema 
 

@@ -25,7 +25,7 @@
     "dotenv-webpack": "^7.0.3",
     "ethcall": "^4.3.2",
     "ethers": "^5.5.3",
-    "next": "12.0.8",
+    "next": "12.1.0",
     "next-seo": "^4.29.0",
     "react": "17.0.2",
     "react-dom": "^17.0.2",

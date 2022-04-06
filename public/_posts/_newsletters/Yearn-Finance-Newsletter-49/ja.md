@@ -1,5 +1,5 @@
 ---
-title:  "Yearn Finance Newsletter 49号"
+title:  "Yearn Finance Newsletter #49"
 image:
   src: ./cover.jpeg
   width: 576
@@ -8,8 +8,7 @@ author: Yearn
 date: '2021-11-14'
 translator: Cripu
 ---
- 49号
-
+ 
 ### 2021年11月14日までの週
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-49/cover.jpeg?w=880&h=440)
@@ -19,27 +18,16 @@ Yearn Finance Newsletterの第49号へようこそ。このニュースレター
 ## 概要
 
 -   Yearnトークンノミクスの改良
-
 -   Yearnミレニアム賞
-
 -   Yearnのトータルバリューロック額が60億ドルに到達
-
 -   YFIコントリビューターの最初のプロジェクト: Tesseract
-
 -   MessariがYearnのレポートを発行
-
 -   Yearnトレジャリーのステータス
-
 -   Yearnの開発陣がRoboボールトから50Mドルの流出を防ぐ
-
 -   Yearnのパートナーに2Mドルの支払い
-
 -   Fixed Forexのザップイン
-
 -   Yearnのボールト
-
 -   エコシステムニュース
-
 
 ## YFIトークンノミクスの改良
 

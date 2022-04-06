@@ -15,7 +15,7 @@ translator: RestlessMik3
 
 ![](./image1.jpg?w=1100&h=554)
 
-Bienvenido a la 53.ª edición de la Newsletter de Yearn Finance. Nuestro objetivo con esta newsletter es mantener a Yearn y a la comunidad cripto informada sobre las últimas noticias, incluidos los lanzamientos de productos, los cambios en la gobernanza y las actualizaciones del ecosistema. Si está interesado en obtener más información sobre Yearn Finance, sigue nuestras cuentas oficiales [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn).
+Bienvenido a la 53.ª edición de la Newsletter de Yearn Finance. Nuestro objetivo con esta newsletter es mantener a Yearn y a la comunidad cripto informada sobre las últimas noticias, incluidos los lanzamientos de productos, los cambios en la gobernanza y las actualizaciones del ecosistema. Si estás interesado en obtener más información sobre Yearn Finance, sigue nuestras cuentas oficiales [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn).
 
 ## Resumen
 
@@ -34,13 +34,13 @@ Bienvenido a la 53.ª edición de la Newsletter de Yearn Finance. Nuestro objeti
 
 Dos nuevas herramientas de Yearn que iluminan las misteriosas profundidades de la madriguera del conejo son el [agregador de contenido](https://blog.yearn.finance/) y la [enciclopedia de la vault](https://vaults.yearn.finance/).
 
-Con el agregador de contenido, puede encontrar toda la información más importante proveniente de Yearn. Ve a un enlace para ver los últimos anuncios, tweets, boletines, artículos y finanzas trimestrales de Yearn. También encontrará inteligentes hilos de twitter desenrollados por colaboradores de Yearn como Tracheopteryx
+Con el agregador de contenido, puedes encontrar toda la información más importante proveniente de Yearn. Ve a un enlace para ver los últimos anuncios, tweets, boletines, artículos y finanzas trimestrales de Yearn. También encontrarás inteligentes hilos de twitter desenrollados por colaboradores de Yearn como Tracheopteryx
 
-Con la nueva enciclopedia creada por la comunidad sobre las vaults de Yearn, puedes encontrar información detallada sobre cómo funcionan las yVaults y revisar las acciones/estrategias que realizan estas vaults.
+Con la nueva enciclopedia creada por la comunidad sobre las vaults de Yearn, puedes encontrar información detallada sobre cómo funcionan las yVaults y revisar las acciones/estrategias que realizan.
 
 Una vez alojado en Medium, el nuevo sitio de la vault agrega filtros, cobertura multicadena, contenido de actualización automática y (próximamente) compatibilidad con varios idiomas.
 
-Lea más sobre las herramientas aquí. Gracias a @0xMajor, @KoxEvan y DarkGhosty por su increíble trabajo en la enciclopedia de la vault.
+Puedes leer más sobre las herramientas aquí. Gracias a @0xMajor, @KoxEvan y DarkGhosty por su increíble trabajo en la enciclopedia de la vault.
 
 # Actualizaciones web de Yearn
 
@@ -48,9 +48,9 @@ Lea más sobre las herramientas aquí. Gracias a @0xMajor, @KoxEvan y DarkGhosty
 
 En un esfuerzo por aumentar la transparencia, varios colaboradores del ecosistema web de Yearn han lanzado un boletín informativo que recopilará nuevas funciones, problemas actuales y actualizaciones planificadas, además de inmersiones periódicas en la pila de tecnología web.
 
-Los puntos principales de esta versión incluyen UX mejorado y velocidad al cambiar de red, incluido un aviso para agregar Fantom en su billetera si es necesario y soporte mejorado para Fantom en yearn-exporter
+Los puntos principales de esta versión incluyen una UX mejorada y velocidad al cambiar de red, incluido un aviso para agregar Fantom en su billetera si es necesario y soporte mejorado para Fantom en yearn-exporter
 
-Como siempre, si tienes comentarios o sugerencias para el sitio web, o te gustaría contribuir, comunícate con [Discord](https://discord.com/invite/yearn).
+Como siempre, si tienes comentarios o sugerencias para el sitio web, o te gustaría contribuir, comunícate por [Discord](https://discord.com/invite/yearn).
 
 Consulta las actualizaciones [aquí](https://yearnweb.substack.com/p/update-jan-5-2022?showWelcome=true).
 
@@ -58,7 +58,7 @@ Consulta las actualizaciones [aquí](https://yearnweb.substack.com/p/update-jan-
 
 ![](./image4.jpg?w=238&h=243)
 
-Para los que no están familiarizados, yAcademyDAO es un enfoque impulsado por la comunidad para la seguridad de la cadena de bloques. En Yearn, nos tomamos la seguridad muy en serio y yAcademy es una de las iniciativas de nuestro ecosistema para crear seguridad blockchain sostenible y colaborativa y garantizar que el talento se utilice correctamente.
+Para los que no están familiarizados, yAcademyDAO es un enfoque impulsado por la comunidad para la seguridad de la blockchain. En Yearn, nos tomamos la seguridad muy en serio y yAcademy es una de las iniciativas de nuestro ecosistema para crear seguridad blockchain sostenible y colaborativa y garantizar que el talento se utilice correctamente.
 
 yAcademy dao es administrado por sus miembros de tiempo completo y colaboradores activos, con la supervisión y orientación de los miembros de la alianza de seguridad ethereum.
 
@@ -76,7 +76,7 @@ Continuaremos esto con futuras subvenciones.
 
 # Vaults de Yearn
 
-Puede leer una descripción detallada de las estrategias para todos nuestros yVaults activas [aquí](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+Puedes leer una descripción detallada de las estrategias para todos nuestros yVaults activas [aquí](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
 # Noticias del Ecosistema 
 
