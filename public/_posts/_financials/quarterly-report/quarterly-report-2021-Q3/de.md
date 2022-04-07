@@ -1,191 +1,235 @@
 ---
-title:  "Yearn Finance 2021 Q3 Quarterly Report"
+title:  "Yearn Finance Quartalsbericht 2021 Q3"
 date: '2022-03-08'
 image:
   src: ./cover.jpg
   width: 1500
   height: 500
 author: Yearn
-translator:
+translator: jeffor12
 ---
 
 ![](./cover.jpg?w=1500&h=500)
 
-## For Q3- 2021
+## Für das 3. Quartal - 2021
 
-### DISCLAIMER
+### HAFTUNGSAUSSCHLUSS 
 
-> The data, statements and information presented in this report is for informational purposes only, and it does not constitute financial or investment advice. Further, the financial statements presented have not undergone a comprehensive financial statement audit from a third-party professional accounting firm. As such, there may exist errors or inaccuracies that materially misstate the financial statements. We are not responsible for any financial losses or adverse outcomes that may result from making investment decision based on the data presented herein. Further, by viewing this report you agree that the statements in this report do not constitute a representation, warranty or guaranty regarding any matter, and you are not relying thereon, but will conduct your own due diligence. You hereby release, waive and relinquish any and all claims, causes of action and disputes against Yearn Finance, its contributors, and the creators of this document. THIS REPORT DOES NOT CONSTITUTE ADVICE FOR ANY PURPOSE.
-> 
-> The forward-looking statements in this report are subject to numerous assumptions, risks and uncertainties which are subject to change over time. There are many risk factors, including those relating to blockchain and cryptographic technology generally, as well as Yearn specifically, that could cause actual results or developments anticipated by us not to be realized or, even if substantially realized, to fail to achieve any or all of the benefits that could be expected therefrom. We reserve the right to change the plans, expectations and intentions stated herein at any time, and we undertake no obligation to update publicly or revise any forward-looking statement, whether as a result of new information, future developments or otherwise. ACCORDINGLY, WE RECOMMEND THAT YOU DO NOT RELY ON, AND DO NOT MAKE ANY FINANCIAL DECISION OR INVESTMENT BASED ON, THE STATEMENTS CONTAINED IN THIS UPDATE — INCLUDING BUT NOT LIMITED TO ANY SELLING OR TRADING OF YFI TOKENS, ETHER OR ANY OTHER CRYPTOGRAPHIC OR BLOCKCHAIN TOKEN.
+Die in diesem Bericht enthaltenen Daten, Aussagen und Informationen dienen nur zu Informationszwecken
+und stellen keine Finanz- oder Anlageberatung dar. Außerdem wurden die vorgelegten Abschlüsse
+keiner umfassenden Prüfung durch eine externe professionelle Wirtschaftsprüfungsgesellschaft
+unterzogen. Sie können daher Fehler oder Ungenauigkeiten enthalten, die den Jahresabschluss in erheblichem Maße
+wesentlich verfälschen. Wir sind nicht verantwortlich für finanzielle Verluste oder nachteilige Ergebnisse,
+die sich aus Anlageentscheidungen auf der Grundlage der hier dargestellten Daten ergeben. Mit der Ansicht dieses Berichts erklären Sie sich 
+außerdem damit einverstanden, dass die Aussagen in diesem Bericht keine
+Zusicherungen, Gewährleistungen oder Garantien darstellen und Sie sich nicht darauf verlassen, sondern Ihre eigene Sorgfaltspflicht erfüllen. Sie entbinden und verzichten 
+hiermit auf alle Ansprüche, Klagegründe und Streitigkeiten gegen Yearn Finance, seine Mitwirkenden und die
+Ersteller dieses Dokuments. DIESER BERICHT STELLT KEINE ANLAGEBERATUNG FÜR IRGENDEINEN ZWECK DAR.
+
+Die zukunftsgerichteten Aussagen in diesem Bericht unterliegen zahlreichen Annahmen, Risiken und Unwägbarkeiten,
+die sich im Laufe der Zeit ändern können. Es gibt viele Risikofaktoren, die sich auf die Blockchain und die kryptografische Technologie im Allgemeinen beziehen, 
+sowie auf Yearn speziell, die dazu führen könnten, dass die von uns erwarteten Ergebnisse oder Entwicklungen nicht eintreten und
+nicht realisiert werden oder, selbst wenn sie in erheblichem Umfang realisiert werden, noch misslingen oder scheitern können. 
+Wir behalten uns das Recht vor, die Pläne, Erwartungen und Absichten
+jederzeit zu ändern, und wir übernehmen keine Verpflichtung einer öffentlichen Aktualisierung oder Überarbeitung von zukünftiger Entwicklungen
+aufgrund neuer oder anderweitigen Informationen.
+DEMENTSPRECHEND EMPFEHLEN WIR, DASS SIE SICH NICHT AUF DIESE AUSSAGEN VERLASSEN UND KEINE
+FINANZIELLEN ENTSCHEIDUNGEN ODER INVESTITIONEN AUF DER GRUNDLAGE DIESER AKTUALISIERUNG TREFFEN-
+EINSCHLIESSLICH, ABER NICHT BESCHRÄNKT AUF DEN VERKAUF ODER HANDEL VON YFI-TOKENS, ETHER
+ODER ANDEREN KRYPTOGRAPHISCHEN ODER BLOCKCHAIN-TOKEN.
 
 ---
 
-## Table of Contents
+## Inhaltsverzeichnis
 
-- Introduction to Yearn Finance
-- Income Statement
-- YFI Buybacks
-- Balance Sheet
-- Total Value Locked
-- Interactive Financial Dashboard
-- Sources
+- Einführung in Yearn Finance
+- Gewinn- und Verlustrechnung
+- YFI Rückkäufe
+- Bilanz
+- Gesamtwert gesperrter Token (TVL)
+- Interaktives Finanz-Dashboard
+- Quellen
 
 ---
 
-## An Introduction to Yearn Finance
+## Einführung in Yearn Finance
 
 ![](./image1.png?w=1456&h=733)
 
-Yearn Finance (“Yearn”) is the leading yield-aggregator protocol in decentralized finance (“DeFi”) operating on the Ethereum blockchain. The protocol launched in early 2020 with the iEarn product that algorithmically shifts stablecoins (USDC, USDT, DAI) between several lending protocols in DeFi to obtain the most optimal interest rates at all times. This product is known as the yPool on Curve Finance. Curve is a decentralized stablecoin exchange focusing on low-slippage swaps between various stablecoin assets. In July 2020, the YFI token was distributed over approximately 10 days to users that provided capital into liquidity pools involving the yPool – a process known as “farming” or “yield-farming”. The YFI token governs the Yearn protocol.
+Yearn Finance ("Yearn") ist das führende Rendite-Aggregator-Protokoll im dezentralen Finanzwesen ("DeFi"), das auf der Ethereum-Blockchain läuft. Das Protokoll startete Anfang 2020 mit dem iEarn-Produkt, das Stablecoins (USDC, USDT, DAI) algorithmisch zwischen verschiedenen Kreditvergabe-Protokollen in DeFi verschiebt, 
+um jederzeit die optimalen Zinssätze zu erhalten. Dieses Produkt ist bekannt als "yPoolon Curve
+Finance". Curve ist eine dezentralisierte Stablecoin-Börse, die sich auf Swaps mit niedrigem Schlupf ("Slippage") zwischen
+verschiedenen Stablecoins-Vermögenswerten konzentriert. Im Juli 2020 wurde der YFI-Token innerhalb von etwa 10 Tagen an
+Nutzer verteilt, die ihr Kapital in Liquiditätspools mit dem yPool einbrachten - ein Prozess, der als "farming" oder
+"yield-farming" bekannt wurde. Der YFI-Token steuert und verwaltet das Yearn-Protokoll.
 
-Shortly after the distribution of the YFI token the yVault product offering was introduced. yVaults enable users to deposit capital into smart contracts and Strategists – specialized yield-farming experts – automatically and efficiently earn yield on behalf of the depositors. Gas costs are socialized across the entire pool making it more economical for small users to participate in yield- farming. Users also do not need to have an advanced knowledge of DeFi, yield-farming, or liquidity providing, as the Strategist will perform the necessary actions on behalf of the user. Profits from yield-farming are periodically harvested by the Strategist and deposited back into the vault; depositors have claims over these profits. The yVault product represents Yearn’s core business, but starting in early 2021 Yearn Treasury began engaging in yield-farming with its own assets to generate additional cash flows.
+Kurz nach der Verteilung des YFI-Tokens wurde das yVault-Produktangebot eingeführt. yVaults
+ermöglichen es Nutzern, Kapital in Smart Contracts zu hinterlegen und Strategen - spezialisierte Yield-Farming
+Experten - automatisch und effizient Rendite im Auftrag der Anleger erwirtschaften. Die Gaskosten werden
+über den gesamten Pool sozialisiert, was es für kleine Nutzer wirtschaftlicher macht, am Yield-Farming teilzunehmen.
+Die Nutzer müssen auch keine fortgeschrittenen Kenntnisse über DeFi, Yield-Farming oder Liquiditätsbereitstellung verfügen, 
+da die Strategen die notwendigen Aktionen im Auftrag des Nutzers durchführt. Gewinne aus
+Yield-Farming werden regelmäßig vom Strategen geerntet und in den Tresor ("vault") zurückgelegt;
+Die Anleger haben Ansprüche auf diese Gewinne. Das yVault-Produkt ist das Kerngeschäft von Yearn, aber
+Anfang 2021 begann Yearn Treasury mit dem Yield-Farming mit seinen eigenen Vermögenswerten, um
+zusätzliche Cashflows zu generieren.
 
-Yearn engaged in a series of partnerships in the fall of 2020, forming the Yearn Ecosystem. These partnerships include SushiSwap (Automated Market Maker), C.R.E.A.M (lending), Keep3r Network (automated job platform), Akropolis, and Pickle Finance (yield-aggregator). While the protocol specified above in conjunction with Yearn Finance comprise the Yearn ecosystem, the YFI token does not govern the other protocols in the ecosystem.
+Im Herbst 2020 ging Yearn eine Reihe von Partnerschaften ein und bildete das Yearn Ecosystem. Diese
+Partnerschaften umfassen SushiSwap (Automated Market Maker), C.R.E.A.M (Kreditvergabe), Keep3r Network
+(automatisierte Job-Plattform), Akropolis und Pickle Finance (Rendite-Aggregator). Während die Protokolle
+in Verbindung mit Yearn Finance das Yearn-Ökosystem bilden, verwaltet der YFI-Token
+nicht die anderen Protokolle des Ökosystems.
 
-Version 2 of the yVault product was launched in early 2021 and includes a revised fee schedule and the ability for vaults to incorporate multiple strategies per vault. Version 1 yVaults are only able to employ one strategy per yVault.
+Version 2 des yVault-Produkts wurde Anfang 2021 eingeführt und umfasst eine überarbeitete Gebührenordnung und
+die Möglichkeit für Tresore (vaults), mehrere Strategien pro Tresor einzubinden. Version 1 yVaults können nur eine
+eine Strategie pro yVault verwenden.
 
 ---
 
-## Adjusted EBITDA for **Q3-21 was $11.6m** and Yearn experienced continued revenue generation from its yVault product offering in the quarter.
+## Das bereinigte EBITDA für **Q3 2021 beträgt $11,6m** und Yearn verzeichnete in diesem Quartal eine anhaltende Umsatzsteigerung mit seinem yVault-Produktangebot.
 
 ![](./image2.jpg?w=613&h=706)
 
-### Basis of Presentation
+### Grundlage der Darstellung
 
-The financial statements are presented on an accrual basis of accounting. The fiscal year for Yearn ends calendar year ending December 31st. Figures are displayed in United States dollars (“USD”) and rounded to the nearest thousand. The financial statements are compiled with the use of estimates and non-USD assets are converted to USD by obtaining closing prices from Coingecko.com, or by obtaining prices directly by querying the Ethereum blockchain. The financial statements have not undergone a comprehensive financial audit by a professional third-party accounting firm. They are intended for informational purposes only and should not be used for financial, investment, or advice of any kind. There may contain immaterial arithmetic errors in the tables presented, this is due to rounding.
+Die Jahresabschlüsse werden nach dem Prinzip der Periodenabgrenzung erstellt. Das Steuerjahr für Yearn endet
+am Jahresende zum 31. Dezember. Die Zahlen sind in US-Dollar ("USD") angegeben und auf das nächste Tausend gerundet. 
+Die Jahresabschlüsse werden unter Verwendung von Schätzungen erstellt, und die nicht in USD ausgewiesene Vermögenswerte
+werden in USD umgerechnet, indem die Schlusskurse von Coingecko.com oder die Preise durch direkte Abfrage der Ethereum-Blockchain ermittelt werden.
+Die Jahresabschlüsse wurden keiner umfassenden Finanzprüfung durch einer professionellen Wirtschaftsprüfungsgesellschaft unterzogen. 
+Sie sind nur für Informationszwecke bestimmt und und sollten nicht für Finanz-, Investitions- oder Beratungszwecke jeglicher Art verwendet werden. 
+Die Tabellen können unwesentliche arithmetische Rundungsdifferenzen in den dargestellten Tabellen enthalten.
 
-- The cryptocurrency market experienced large declines in price in late May continuing to early July, however, Yearn was still able to generate meaningful and consistent revenues for the quarter. yVault revenue trended upwards as the cryptocurrency market rebounded.
-- yVault revenue was $8.1m in August and mirrored the revenues generated in Apr-21 ($8.7m) and Jun-21 ($8.1m), which were among Yearn’s most profitable months in YTD 2021.
-- By Sep-21, nearly all revenue generated from Yearn vaults was derived from it’s v2 yVault product offering. v2 yVaults are more advanced, resilient, and sophisticated providing more vault for Yearn’s users.
-- In late Jun-21, Yearn’s Treasury began to substantially decrease yield-farming earned on assets held in Treasury to protect assets from potential liquidations due to volatile market conditions in the market. However, in Sep-21 Treasury started to earn yield on idle assets in Treasury and generated $266k in revenue from these activities.
-- Previous financial reports and data shared did not include strategist fees due to the difficulty in quantifying and calculating them. But with increased financial sophistication we are now able to calculate and quantify these amounts. As a result, prior months revenue were grossed up (increased) to display amount of revenue earned before strategist fees, as well as quantifying the amount of fees paid to strategists.
-- Cost of revenue includes variable expenses directly related to revenue generation of the core Yearn product. These include Strategist fees, gas costs related to deploying and maintaining new and/or existing strategies, and payments to Yearn Partners. Fees charged on Yearn vaults include 2% for assets under management (AUM) and 20% of gross revenue. 10% of gross revenue generated is awarded to Strategists and the remaining 10% to Yearn treasury.
-- Protocols in DeFi can join the Yearn Partners program and share in revenue generated in Yearn vaults for any capital these protocols add to Yearn products. These payments are typically made 1 month in arrears and we have accrued for them accordingly. For Q3-21, approximately $781k has been paid to eligible participants of the Yearn Partners program.
-- Yearn contributors are eligible to receive YFI as part of a vesting compensation plan. This vesting was approved by Yearn governance with YIP-57: Funding Yearn’s Future. YFI is vesting monthly for 3 years after the contributor commences work with Yearn. Yearn is able to claw back unvested YFI in the event the contributor ceases to work for Yearn for any reason. Contributor vesting is expensed in accordance with the accrual basis of accounting, however, since it is a non-cash expense it is excluded, among other items, to arrive at adjusted EBITDA
-- Administrative salaries are cash payments made to full-time Yearn contributors. There was a slight increase in salaries as the Yearn team is expanding to provide a higher level of service and innovation for users of the Yearn product.
-- Security expenses consist of bug bounties and smart contract audits. In Jun-21 Yearn paid out a $201k bug bounty to a security researcher, which consisted the majority of the security expenses for the quarter.
-- Grants include payments made to the Coordinape program and other one-time grants to contributors of the Yearn ecosystem. In Jul-21, approximately $697k worth of YFI tokens (23.32 YFI) was paid to four contributors that assisted in the completion of YFI Story. YFI Story is a written book celebrating the 1 year anniversary of Yearn and covers Yearn’s history since launch. Coordinape is a novel decentralized community grants program to rewards part-time contributors within the Yearn community. Full-time Yearn contributors vote each epoch on YFI to award to these part-time contributors.
-- Administrative salaries, Coordinape payments, and grants are typically paid one month in arrears. As such, we have accrued these payments to account for them in the month earned but not paid. This is consistent with the accrual basis of accounting.
-- Other operating expenses comprise of all other expenses that do no fall in the above categories related, but not limited to UX/UI improvement costs, infrastructure costs, promotional event costs, and any other unforeseen expenses incurred by the protocol. On a very limited and periodic basis users of Yearn vaults experience losses either through their error or other unforeseen events. Yearn reimburses these users and bears the costs. $87k and $338k was reimbursed to users in May and June, respectively. We anticipate periodic losses to occur in the future, but do not expect these costs to be large relative to top-line revenue.
-- Other income/(expenses) is interest expense associated with Yearn’s yield-farming activities with Treasury assets. Interest is charged on any debt borrowed from decentralized lending protocols in DeFi. We accrue this interest expense as it occurs in accordance with the accrual basis of accounting.
-- Adjusted EBITDA excludes interest, taxes, depreciation & amortization, and various non-cash expenses (such as token-based compensation) or non-recurring items.
-- Yearn generated strong adjusted EBITDA in Q3-21 despite the decline in top-line revenue for the quarter related to unfavorable market conditions in the cryptocurrency space. We anticipate continued EBITDA growth for Q4-21.
+- Der Markt für Kryptowährungen erlebte Ende Mai bis Anfang Juli einen starken Preisrückgang. Dennoch war Yearn in der Lage, bedeutende und beständige Umsätze für das Quartal zu generieren. yVault-Umsätze tendierten aufwärts, als sich der Markt für Kryptowährungen erholte.
+- Der Umsatz von yVault belief sich im August auf $8,1m und spiegelte die Umsätze der Monate April 2021 ($8.7m) und Juni 2021 ($8.1m) wider, die zu den profitabelsten Monaten im Jahr 2021 gehörten.
+- Bis September 2021 wurde fast der gesamte Umsatz mit Yearn-Tresoren ("vaults") durch das v2 yVault-Produktangebot erwirtschaftet. v2 yVaults sind fortschrittlicher, widerstandsfähiger sowie ausgefeilter und bieten mehr Rendite für Yearn-Nutzer.
+- Ende Juni 2021 begann die Schatzkammer (Treasury) von Yearn, die Erträge aus der in der Schatzkammer gehaltenen Vermögenswerten erheblich zu senken, um die Vermögenswerte vor möglichen Liquidationen aufgrund der volatilen Marktbedingungen zu schützen. Im September 2021 begann die Schatzkammer jedoch, Renditen auf ungenutzte Vermögenswerte zu erwirtschaften und erzielte dadurch Einnahmen in Höhe von 266.000 $.
+- In früheren Finanzberichten und veröffentlichten Daten waren die Gebühren für Strategen nicht enthalten, da es schwierig war, sie zu quantifizieren und zu berechnen. Mit zunehmender finanzieller Kompetenz sind wir nun jedoch in der Lage, diese Beträge zu berechnen und zu quantifizieren. Infolgedessen wurden die Einnahmen der Vormonate hochgerechnet (erhöht), um den Betrag der Einnahmen vor den Gebühren für Strategen auszuweisen und die Höhe der an die Strategen gezahlten Gebühren zu quantifizieren.
+- Die Umsatzkosten umfassen variable Ausgaben, die direkt mit der Umsatzgenerierung des Yearn-Kernprodukts zusammenhängen. Dazu gehören Gebühren für Strategen, Gaskosten im Zusammenhang mit der Einführung und Pflege neuer und/oder bestehender Strategien sowie Zahlungen an Yearn-Partner. Die Gebühren für Yearn-Tresore umfassen 2 % für das verwaltete Vermögen (AUM) und 20 % der Bruttoeinnahmen. 10 % der erzielten Bruttoeinnahmen gehen an die Strategen und die restlichen 10 % an die Yearn-Schatzkammer.
+- DeFi Protokolle können dem Yearn-Partnerprogramm beitreten und an den Einnahmen beteiligt werden, die in den Tresoren von Yearn mit dem Kapital erzielt werden, welches diese Protokolle den Yearn-Produkten hinzufügen. Diese Zahlungen werden in der Regel 1 Monat im Nachhinein geleistet und sind entsprechend zurückgestellt. Für Q3 2021 wurden ca. 781T $ an berechtigte Teilnehmer des Yearn-Partnerprogramms gezahlt.
+- Yearn-Mitwirkende sind berechtigt, YFI in Form von Unverfallbarkeitspaketen als Vergütungsplan zu erhalten. Dieser Plan wurde von der Yearn-Verwaltung mit YIP-57: Funding Yearn's Future (Finanzierung der Zukunft von Yearn) genehmigt. YFI wird über einen Zeitraum von 3 Jahren nach Aufnahme der Tätigkeit bei Yearn monatlich ausbezahlt. Yearn kann nicht ausgezahlte YFI zurückfordern, wenn der Mitwirkende aus irgendeinem Grund aufhört, für Yearn zu arbeiten. Da es sich nach dem Prinzip der Periodenabgrenzung jedoch um einen nicht zahlungswirksamen Aufwand handelt, wird dieser Vorgang neben anderen Posten bei der Ermittlung des bereinigten EBITDA nicht berücksichtigt.
+- Bei den Verwaltungsgehältern handelt es sich um Barzahlungen an Vollzeit-Mitarbeiter von Yearn. Es gab einen leichten Anstieg der Gehälter, da das Yearn-Team erweitert wird, um den Nutzern des Yearn-Produkts ein höheres Maß an Service und Innovation zu bieten.
+- Die Ausgaben für Sicherheit bestehen aus "Bug Bounties" und "Smart Contract Audits". In Juni 2021 zahlte Yearn ein Bug Bounty in Höhe von 201T $ an einen Sicherheitsforscher aus, was den Großteil der Sicherheitsausgaben für das Quartal ausmachte.
+- Zuschüsse (Grants) umfassen Zahlungen an das Coordinape-Programm und andere einmalige Zuschüsse an Mitwirkende des Yearn-Ökosystems. In Juli 2021 wurden YFI-Token im Wert von ca. 697T $ (23,32 YFI) an vier Mitwirkende gezahlt, die bei der Fertigstellung von YFI Story geholfen haben. YFI Story ist ein Buch, das das einjährige Jubiläum von Yearn feiert und die Geschichte von Yearn seit dem Start abdeckt. Coordinape ist ein neuartiges dezentrales Community-Zuschussprogramm zur Belohnung von Teilzeit-Mitarbeitern innerhalb der Yearn-Community. Vollzeit-Mitarbeiter von Yearn stimmen jede Epoche über YFI ab, um diese Teilzeit-Mitarbeiter zu belohnen.
+- Verwaltungsgehälter, Coordinape-Zahlungen und Zuschüsse werden normalerweise einen Monat im Nachhinein gezahlt. Daher haben wir diese Zahlungen periodengerecht abgegrenzt, um sie in dem Monat zu verbuchen, in dem sie verdient, aber noch nicht ausgezahlt wurden. Dies steht im Einklang mit der periodengerechten Buchführung.
+- Sonstige betriebliche Aufwendungen umfassen alle anderen Aufwendungen, die nicht in die oben genannten Kategorien fallen, wie z. B. Kosten für UX/UI-Verbesserungen, Infrastrukturkosten, Kosten für Werbeveranstaltungen und sonstige unvorhergesehene Aufwendungen, die für das Protokoll entstehen. In sehr begrenztem Umfang und in regelmäßigen Abständen erleiden die Nutzer von Yearn-Tresoren Verluste, entweder durch eigenes Versagen oder durch andere unvorhergesehene Ereignisse. Yearn entschädigt diese Nutzer und trägt die Kosten. Im Mai und Juni wurden den Nutzern 87T $ bzw. 338T $ zurückerstattet. Wir gehen davon aus, dass es auch in Zukunft zu regelmäßigen Verlusten kommen wird, erwarten aber nicht, dass diese Kosten im Verhältnis zu den Umsatzerlösen groß sein werden.
+- Bei den sonstigen Erträgen/(Aufwendungen) handelt es sich um Zinsaufwendungen im Zusammenhang mit den Aktivitäten von Yearn zur Erzielung von Erträgen aus eigenen Vermögenswerten. Zinsen werden für alle Schulden berechnet, die aus dezentralen Kreditprotokollen in DeFi aufgenommen werden. Wir verbuchen diesen Zinsaufwand periodengerecht in Übereinstimmung mit der Periodenrechnung.
+- Das bereinigte EBITDA schließt Zinsen, Steuern, Abschreibungen und verschiedene nicht zahlungswirksame Aufwendungen (wie z. B. Token-basierte Vergütung) oder einmalige Posten aus.
+- Yearn erwirtschaftete im 3. Quartal 2021 ein starkes bereinigtes EBITDA trotz des Rückgangs der Umsatzerlöse in diesem Quartal. Dieser Rückgang ist auf ungünstige Marktbedingungen im Bereich der Kryptowährungen zurückzuführen. Wir erwarten ein anhaltendes EBITDA-Wachstum für das 4. Quartal 2021.
 
 ---
 
-## Yearn’s operating margin for Q3-21 was 68% and the majority of costs are associated with contributor compensation, primarily Strategists fees.
+## Die operative Marge von Yearn lag in Q3 2021 bei 68 %, und der Großteil der Kosten ist mit der Vergütung von Mitarbeitern verbunden, primär mit den Gebühren für Strategen.
 
 ![](./image3.jpg?w=964&h=687)
 
-### Key Drivers of Financial Results
+### Die wichtigsten Einflussfaktoren auf die Finanzergebnisse
 
-- Presented in the chart above is the key financial drivers for Q3- 21 for adjusted EBITDA. Items adjusted include, interest, taxes, depreciation & amortization, non-cash expenses (contributor vesting), non-recurring items (airdrops, donations, one-time unforeseen losses, and capital gains/(losses)).
-- Majority of the expenses are related to Strategist fees, salaries, and grants necessary to maintain and develop the protocol.
-- Other operating expenses is primarily unforeseen advents affecting users that are reimbursed by Yearn.
+- In der obigen Grafik sind die wichtigsten finanziellen Faktoren für Q3 2021 für das bereinigte EBITDA dargestellt. Zu den bereinigten Posten gehören Zinsen, Steuern, Abschreibungen, nicht zahlungswirksame Aufwendungen (Auszahlung von Beiträgen), einmalige Posten (Airdrops, Spenden, einmalige unvorhergesehene Verluste und Kapitalgewinne/(-verluste)).
+- Der größte Teil der Ausgaben entfällt auf die Gebühren für den Strategen, die Gehälter und die Zuschüsse, die für die Pflege und Weiterentwicklung des Protokolls erforderlich sind.
+- Bei den sonstigen betrieblichen Aufwendungen handelt es sich in erster Linie um unvorhergesehene Ereignisse, die die Nutzer betreffen und die von Yearn erstattet werden.
 
 ---
 
-## yVault revenue rebounded strongly in Aug and Sep-21, after comparatively low revenue in Jul-21 due to adverse market conditions in the cryptocurrency space.
+## Die Einnahmen von yVault stiegen im August und September 2021 stark an, nachdem die Einnahmen im Juli 2021 aufgrund der ungünstigen Marktbedingungen im Bereich der Kryptowährungen vergleichsweise niedrig waren.
 
 ![](./image4.jpg?w=620&h=691)
 
-- The table presented above only displays the top 25 yVaults sorted by total revenue for Q3. Yearn has launched over 125 yVaults included vaults phased out and no longer in production.
-- yvUSDC is our most profitable vault as of Q3 YTD and has generated $4.2m YTD for the Yearn protocol. The yvUSDC vault uses several strategies including a leveraged folding strategy on Compound Finance and AAVE. Additionally, Abracadabra Finance enables users to mint MIM (Abracadabra’s stablecoin) on their platform using the yvUSDC vault token as collateral. We experienced higher revenues starting in Aug-21 as users deposited into the yvUSDC vault to perform this activity.
-- The yvDAI vault continues to be a core component of the Alchemix protocol and has attracted and retained TVL for this purpose. Users of the Alchemix protocol deposit DAI into our yvDAI vault earning yield. Alchemix enables these users to obtain a line of credit in the form of alUSD, a synthetic token native to the Alchemix protocol.
-- Our most profitable ETH yvault was yvStETH which earns CRV rewards from the StETH liquidity pool on Curve Finance. CRV rewards are periodically harvested and used to purchase more of the underlying tokens in the vault. ETH depositors can earn with minimal exposure to impermanent loss (IL). This vault represents among the best risk- adjusted way to obtain yield on Ethereum without significant IL risks.
-- The majority of our yVaults are focused on Curve Finance strategies by earning CRV
-rewards and depositing into liquidity pools on Curve.
+- Die obige Tabelle zeigt die 25 umsatzstärksten yVaults für Q3. Yearn hat über 125 yVaults auf den Markt gebracht, einschließlich der auslaufenden und nicht mehr produzierten Tresore.
+- yvUSDC ist unser profitabelster Tresor (Stand Q3 seit Jahresbeginn) und hat seit Jahresbeginn 4,2 Mio. $  für das Yearn-Protokoll generiert. Der yvUSDC-Tresor verwendet mehrere Strategien, darunter eine gehebelte Faltstrategie auf Compound Finance und AAVE. Darüber hinaus ermöglicht Abracadabra Finance den Nutzern, MIM (Abracadabras Stablecoin) auf ihrer Plattform zu münzen, wobei der yvUSDC-Tresor-Token als Sicherheit dient. Wir verzeichneten seit August 2021 höhere Einnahmen, da die Nutzer in den yvUSDC-Tresor einzahlten, um diese Aktivität durchzuführen.
+- Der yvDAI-Tresor ist weiterhin eine Kernkomponente des Alchemix-Protokolls und hat "Total Value Locked" (TVL) für diesen Zweck angezogen und behalten. Die Nutzer des Alchemix-Protokolls zahlen DAI in unseren yvDAI-Tresor ein und erzielen damit eine Rendite. Alchemix ermöglicht es diesen Nutzern, eine Kreditlinie in Form von alUSD zu erhalten, einem synthetischen Token, der dem Alchemix-Protokoll eigen ist.
+- Unser profitabelster ETH-Tresor war yvStETH, der CRV-Belohnungen aus dem StETH-Liquiditätspool auf Curve Finance einbringt. CRV-Belohnungen werden regelmäßig geerntet und verwendet, um mehr der zugrunde liegenden Token im Tresor zu kaufen. ETH-Einleger können mit einem minimalen Risiko für unbeständige Verluste (IL) verdienen. Dieser Tresor stellt eine der besten risikoangepassten Möglichkeiten dar, Renditen auf Ethereum ohne signifikante IL-Risiken zu erzielen.
+- Der Großteil unserer yVaults ist auf Curve Finance-Strategien ausgerichtet, bei denen CRV Belohnungen verdient und Einzahlungen in Liquiditätspools auf Curve vorgenommen werden.
 
 ---
 
-## The full-time contributor slightly expanded in Q3 as Yearn onboards more contributors to maintain existing and create new innovative products.
+## Die Zahl der Vollzeitmitarbeiter wurde im dritten Quartal leicht erhöht, da Yearn weitere Mitarbeiter einstellt, um bestehende Produkte zu pflegen und neue innovative Produkte zu entwickeln.
 
 ![](./image5.jpg?w=698&h=272)
 
-- As of Q3-21 there were twenty-six contributors of the Yearn DAO assisting in development, operations, marketing, and/or legal services.
-- The majority of Yearn contributors are developers that maintain Yearn’s products.
-- Administrative salaries for Q2-21 was less than 4.5% of gross profit generated for the quarter.
-- Salaries are typically paid one month in arrears and we have accrued these expenses in the month they were earned.
+- Zu Q3 2021 gab es 26 Mitarbeiter der Yearn DAO, die in den Bereichen Entwicklung, Betrieb, Marketing und/oder an juristische Dienstleistungen mitarbeiteten.
+- Die meisten Mitarbeiter von Yearn sind Entwickler, die die Produkte von Yearn pflegen.
+- Die Verwaltungsgehälter für Q2 2021 beliefen sich auf weniger als 4,5 % des in diesem Quartal erzielten Bruttogewinns.
+- Die Gehälter werden in der Regel einen Monat im Nachhinein gezahlt, und wir haben diese Ausgaben in dem Monat abgegrenzt, in dem sie verdient wurden.
 
 ---
 
-## Yearn continues to reward part-time contributors using its novel Coordinape decentralized grant payment program.
+## Yearn belohnt weiterhin Teilzeitmitarbeiter mit seinem neuartigen dezentralen Coordinape-Zahlungsprogramm.
 
 ![](./image6.jpg?w=782&h=162)
 
-- Coordinape continues to reward part-time Yearn contributors with YFI tokens each month. For Q3-21 the amount distributed to Coordinape participants increased to roughly $73-78k worth of YFI tokens each month.
-- The Coordinape program is open to anyone and we encourage individuals to contribute to the Yearn protocol and be rewarded for their work. Coordinape is a decentralized grant selection and disbursement model. Previously awarded grant recipients and full-time contributors are each allocated 100 GIVE tokens. These tokens can be allocated to contributors in the Yearn ecosystem. Salaried contributors are ineligible to receive grants. The Coordinape budget, approved by the yBudget team, increased in Q2 and as of June 2021 is approximately $58k per month.
-- You can access Coordinape here: https://coordinape.com/
-- Grants expenses were higher in Jul-21 as Yearn incurred expenses related to the creation of YFI Story. The contributors that helped create YFI Story were paid in YFI tokens, which are a non-cash expense to the Yearn protocol, i.e., YFI was paid from Treasury instead of cash payments to these recipients.
+- Coordinape belohnt weiterhin jeden Monat Teilzeit-Mitarbeiter von Yearn mit YFI-Tokens. Für Q3 2021 stieg der Betrag, der an Coordinape-Teilnehmer verteilt wurde, auf etwa 73-78T $ an YFI-Token pro Monat.
+- Das Coordinape-Programm steht jedem offen, und wir ermutigen Einzelpersonen, zum Yearn-Protokoll beizutragen und für ihre Arbeit belohnt zu werden. Coordinape ist ein dezentralisiertes Modell zur Auswahl und Auszahlung von Zuschüssen. Zuvor vergebene Zuschüsse und Vollzeit-Beitragende erhalten jeweils 100 GIVE-Tokens. Diese Token können an Mitwirkende im Yearn-Ökosystem vergeben werden. Gehaltsempfänger können keine Zuschüsse erhalten. Das vom yBudget-Team genehmigte Coordinape-Budget wurde im zweiten Quartal erhöht und beträgt ab Juni 2021 etwa 58T $ pro Monat.
+- Sie können Coordinape hier aufrufen: https://coordinape.com/
+- Die Ausgaben für Zuschüsse waren im Juli 2021 höher, da Yearn Ausgaben im Zusammenhang mit der Erstellung der YFI Story hatte. Die Mitwirkenden, die bei der Erstellung der YFI Story geholfen haben, wurden mit YFI-Token bezahlt, die einen nicht zahlungswirksamen Aufwand für das Yearn-Protokoll darstellen. D. h. YFI wurde aus der Schatzkammer bezahlt, anstatt Barzahlungen an diese Empfänger zu leisten.
 
 ---
 
-## Yearn has purchased 130.50 YFI since beginning its buyback program in November 2020.
+## Yearn hat seit Beginn des YFI-Rückkaufprogramms im November 2020 130,50 YFI zurück gekauft.
 
 ![](./image7.jpg?w=741&h=619)
 
-- YIP-55: Buyback and Build Yearn was approved in November 2020 and replaced the earning distribution model (staking) with a buyback model. Earnings after covering overhead costs are used to buyback YFI on the accrue to Yearn’s Treasury.
-- The yBudget team determines monthly budgets for YFI repurchases based on a monthly earnings analysis. YFI accrued to Treasury is used to incentivize future contributors (vesting), cross-protocol initiatives, or potential future liquidity mining programs and is determined by the yBudget and yPeople teams and ultimately executed by the Multisig.
-- Yearn continues to repurchase YFI each month with protocol earnings unless a new YIP changes this policy.
-- Q2 and Q3-21 saw meaningful YFI buybacks from Treasury and we anticipate this will continue in the foreseeable future.
+- YIP-55: "Buyback and Build Yearn" wurde im November 2020 genehmigt und ersetzte das Gewinnverteilungsmodell (Staking) durch ein Buyback-Modell. Die Gewinne nach Deckung der Gemeinkosten werden für den Rückkauf von YFI verwendet und fließen in die Schatzkammer Yearns.
+- Das yBudget-Team legt monatliche Budgets für YFI-Rückkäufe auf der Grundlage einer monatlichen Ertragsanalyse fest. YFI, die der Schatzkammer zufließen, werden als Anreize für künftige Mitwirkende (Vesting), protokollübergreifende Initiativen oder potenzielle künftige Liquiditätsgewinnungsprogramme verwendet und von den yBudget- und yPeople-Teams festgelegt und letztlich von der Multisig ausgeführt.
+- Yearn kauft YFI weiterhin jeden Monat mit den Protokolleinnahmen zurück, es sei denn, ein neues YIP ändert diese Politik.
+- In Q2 und Q3 2021 wurden umfangreiche YFI-Rückkäufe von der Schatzkammer getätigt, und wir gehen davon aus, dass sich dies in absehbarer Zukunft fortsetzen wird.
 
 ---
 
-## Yearn owns approximately $159m in assets held in Treasury, and as of September 2021 has no net debt (outstanding debt less cash).
+## Yearn besitzt ca. 159 Mio. $ an Vermögenswerten, die von der Schatzkammer gehalten werden, und hat im September 2021 keine Nettoverschuldung (ausstehende Schulden abzüglich Barmittel).
 
 ![](./image8.jpg?w=781&h=619)
 
-- **Cash & cash equivalents** – Management fees and performance fees owed to the Yearn protocol are sent to Yearn Treasury in the form of the yVault liquidity provider (“LP”) token. Over time, Yearn’s Treasury naturally builds up a reserve of these tokens as more yVault revenue is generated to the protocol. The yBudget team has consistently been building up Yearn’s cash balances in order to sustain operations and create new innovations regardless of market conditions in the cryptocurrency space. The large cash buffer also insulates Yearn from any unforeseen events that may lead to decreased revenues from the yVault product offer.
-- **Accounts receivable** – Represents earned but unharvested revenue generated from Yearn Treasury's yield-farming. Yearn ceased yield-farming activities in Jun-21 but began earning yield on idle assets in Sep-2021. There was no accounts receivable in Jun through August as Yearn harvested and realized all earnings related to yield-farming activities.
-- **Inventory** – Yearn’s internal yield-farming committee began earning yield on assets held in Treasury. These items are the line of credit borrowed from MakerDAO or Unit.xyz in order to yield-farm. All debt was repaid in June 2021, which is why there is no inventory. In Sep- 2021, Yearn opened a collateralized debt position (CDP) on MakerDAO and drew $13m in DAI to use for yield-farming activities.
-- **Prepaid expenses & security deposits** – Prepaid legal or infrastructure costs incurred from Alchemy and legal service providers. In Aug-21, Yearn paid $1m to a legal service provider to help advise Yearn on future legal matters. We have amortized this payment equally over 12 months. Security deposits are related to the Alchemy service agreement.
-- **Other short term assets** – Profits from various miscellaneous Yearn yVaults, such the yvCurve-LINK or yvCurve-Tricrypto. Periodically Yearn treasury sells these assets and uses the proceeds to purchase more YFI on the open market. We expect this activity to continue and increase the YFI held in Yearn’s treasury.
-- **YFI** – Treasury owned YFI obtained from both the addition YFI minted in Feb-21, in accordance with YIP-52, and on-going YFI purchases with protocol earnings. As of June 2021, Yearn Treasury owns approximately 4,047 YFI. This balance is escrowed for future contributors, cross-protocol initiatives, and any potential future liquidity mining programs.
-- **ETH** – Ethereum or Ethereum based vault tokens held by Treasury. Periodically Yearn Treasury sells ETH and Ethereum based vault tokens and uses the proceeds to purchase YFI in the open market. We do consisntely maintain some ETH on the balance sheet to pay for gas costs related to using the Ethereum blockchain.
-- **BTC** – Bitcoin based vaults held by Treasury earned from performance fees related to these applicable vaults. These vault tokens are periodically sold and the proceeds used to purchase YFI in the open market.
-- **Other long term assets** – Consists of the KP3R/ETH liquidity pool required to generated credits needed to pay keepers performing harvesting functions for Yearn yVaults. The market value, including any impermanent losses. We do not anticipate selling these assets in the near future as they are necessary to pay generate keeper credits used to harvest profits generated by yVaults.
-- **Accounts payable** – Accounts payable are due to service providers (mainly auditors) or Yearn Partners. . Accounts payable was elevated in May-21 due to accrued, but unpaid payments owed to Yearn Partners. These balances were paid in June 2021. Further, payments to Yearn Partners are normally paid one month in arrears which is why there are continued balances each month thereafter.
-- **Accrued expenses** – Primarily earned but unpaid salaries, coordinape payments, or grants to Yearn contributors. Payments are typically paid one month in arrears, and as such we have accrued these payments in the months owed to contributors. This is in accordance with the accrual basis of accounting.
-- **Interest payable** – Accrued but unpaid interest related to debt related to Treasury yield- farming operations described above. Interest is accrued in accordance with the accrual basis of accounting.
-- **Long term liabilities** – Debt owed to MakerDAO and Unit.xyz related to the Treasury yield- farming. Unit debt was completely paid off in June 2021. As of Sep-21, Yearn only owes debt to MakerDAO related to the CDP opened by Yearn Treasury. Yearn uses the proceeds from this loan to earn yield on idle YFI held in Treasury. Yearn Treasury may close and repay this CDP to protect capital in the event of volatile market conditions. However, Yearn has sufficient cash balances to fully repay this debt at any time without selling any other assets.
-- **Equity** – includes accumulated other comprehensive income related to valuing assets held on Yearn’s balance sheet to fair market value (FMV) at month-end.
+- **Barmittel und Barmitteläquivalente** - Managementgebühren und Performancegebühren, die dem Yearn Protokoll als Schuld zustehen, kommen der Yearn Treasury in Form des yVault Liquidity Provider ("LP") Token zu. Im Laufe der Zeit baut die Yearn Treasury natürlich eine Reserve dieser Token auf, wenn mehr yVault-Einnahmen über das Protokoll generiert werden. Das yBudget-Team hat das Barguthaben von Yearn kontinuierlich aufgebaut, um den Betrieb aufrechtzuerhalten und neue Innovationen unabhängig von den Marktbedingungen im Kryptowährungsraum zu schaffen. Das große Bargeld-Polster schützt Yearn auch vor unvorhergesehenen Ereignissen, die zu einem Rückgang der Einnahmen aus dem yVault-Produktangebot führen könnten.
+- **Forderungen** - Stellt verdiente, aber nicht geerntete Einnahmen aus dem Yield-Farming von Yearn Treasury dar. Yearn stellte seine Yield-Farming-Aktivitäten im Juni 2021 ein, begann aber im September 2021 mit der Erwirtschaftung von Erträgen aus ungenutzten Vermögenswerten. In den Monaten Juni bis August gab es keine Forderungen, da Yearn alle Erträge aus dem Yield-Farming geerntet und realisiert hat.
+- **Bestände** - Das interne Yield-Farming-Komitee von Yearn begann mit der Erwirtschaftung von Erträgen aus Vermögenswerten, die sich im Treasury befanden. Diese Posten sind der Kreditrahmen, der von MakerDAO oder Unit.xy aufgenommen wurde, um Renditen zu erwirtschaften. Alle Schulden wurden im Juni 2021 zurückgezahlt, daher gibt es keinen Bestand. Im September 2021 eröffnete Yearn eine besicherte Schuldposition (collateralized debt position) auf MakerDAO und zog 13 Mio. $ an DAI ab, um sie für Ertragssteigerungsaktivitäten (yield-farming) zu verwenden.
+- **Aktive Rechnungsabgrenzungen und Sicherheitsleistungen** - Vorausbezahlte Rechts- oder Infrastrukturkosten, die von Alchemy und juristischen Dienstleistern entstanden sind. Im August 2021 zahlte Yearn 1 Mio. $ an einen Rechtsdienstleister, der Yearn bei künftigen Rechtsangelegenheiten berät. Wir haben diese Zahlung zu gleichen Teilen über 12 Monate abgeschrieben. Die Sicherheitsleistungen stehen im Zusammenhang mit dem Dienstleistungsvertrag mit Alchemy.
+- **Sonstige kurzfristige Vermögenswerte** – Gewinne aus verschiedenen Yearn yVaults, wie yvCurve-LINK oder yvCurve-Tricrypto. In regelmäßigen Abständen verkauft die Yearn-Schatzkammer diese Vermögenswerte und verwendet den Erlös für den Kauf weiterer YFI auf dem freien Markt. Wir gehen davon aus, dass sich diese Aktivität fortsetzen und den Bestand an YFI in Yearns Schatzkammer erhöhen wird.
+- **YFI** – Die YFI im Besitz der Schatzkammer stammen sowohl aus den zusätzlichen YFI, die im Februar 2021 gemäß YIP-52 geprägt wurden, als auch aus den laufenden YFI-Käufen mit Protokolleinnahmen. Per Juni 2021 besitzt das Schatzamt etwa 4.047 YFI. Dieses Guthaben wird für künftige Beitragszahler, protokollübergreifende Initiativen und mögliche künftige Liquiditätsgewinnungsprogramme (liquidity mining programs) aufbewahrt.
+- **ETH** – Ethereum oder Ethereum-basierte Tresor-Token im Besitz der Schatzkammer. In regelmäßigen Abständen verkauft die Schatzkammer ETH und Ethereum-basierte Tresor-Token und verwendet den Erlös zum Kauf von YFI auf dem freien Markt. Wir halten regelmäßig einige ETH in der Bilanz, um die Gaskosten im Zusammenhang mit der Nutzung der Ethereum-Blockchain zu bezahlen.
+- **BTC** – Bitcoin-basierte Tresore, die von der Schatkammer gehalten werden, verdienen an den Erfolgsprämien für diese Tresore. Diese Tresor-Tokens werden regelmäßig verkauft und die Erlöse zum Kauf von YFI auf dem freien Markt verwendet.
+- **Sonstiges langfristiges Vermögen** – Besteht aus dem KP3R/ETH-Liquiditätspool, der zur Generierung von Guthaben, das für die Bezahlung der Halter benötigt wird, die die Erntefunktionen für Yearn yVaults durchführen. Der Marktwert dieses Liquiditätspools, einschließlich etwaiger vorübergehender Verluste, wurde von apy.vision zu jedem Monatsende ermittelt. Wir gehen nicht davon aus, dass wir diese Vermögenswerte in naher Zukunft verkaufen werden, da sie notwendig sind, um "keeper credits" zu bezahlen, mit denen Gewinne von yVaults geerntet werden.
+- **Verbindlichkeiten** - Verbindlichkeiten bestehen gegenüber Dienstleistern (hauptsächlich Wirtschaftsprüfern) oder Yearn Partners. Die Verbindlichkeiten aus Lieferungen und Leistungen wurden im Mai 2021 aufgrund von aufgelaufenen, aber nicht gezahlten Zahlungen an Yearn Partners erhöht. Diese Salden wurden im Juni 2021 beglichen. Außerdem werden die Zahlungen an Yearn Partners in der Regel mit einem Monat Verspätung geleistet, weshalb die Salden in den folgenden Monaten weiter bestehen.
+- **Rechnungsabgrenzungsposten** - In erster Linie verdiente, aber noch nicht ausgezahlte Gehälter, Zahlungen an Mitarbeiter von Yearn oder Zuschüsse an Mitwirkende von Yearn. Die Zahlungen werden in der Regel einen Monat im Nachhinein geleistet, so dass wir diese Zahlungen in den Monaten, in denen wir sie den Mitwirkenden schulden, abgegrenzt haben. Dies steht im Einklang mit der periodengerechten Buchführung.
+- **Zinsverbindlichkeiten** - Anfallende, aber nicht gezahlte Zinsen im Zusammenhang mit Schulden für die oben beschriebenen Treasury-Yield- Farming-Operationen. Die Zinsen werden nach dem Prinzip der Periodenabgrenzung abgegrenzt. 
+- **Langfristige Verbindlichkeiten** - Schulden gegenüber MakerDAO und Unit.xyz im Zusammenhang mit dem Renditegeschäft des Treasury-Yield-Farming. Die Schulden (dieser Position) wurden im Juni 2021 vollständig getilgt. Per September 2021 hat Yearn nur noch MakerDAO Schulden im Zusammenhang mit besicherten Schuldpositionen (CDP), die von der Yearn Schatzkammer eröffnet wurden. Yearn verwendet die Erlöse aus diesem Darlehen, um Erträge aus ungenutzten YFI zu erzielen, die in der Schatzkammer gehalten werden. Yearns Schatzkammer kann dieses CDP schließen und zurückzahlen, um das Kapital im Falle volatiler Marktbedingungen zu schützen. Yearn verfügt jedoch über ausreichende Barmittel, um diese Schuld jederzeit vollständig zu tilgen.
+- **Eigenkapital** - Beinhaltet das kumulierte sonstige Gesamtergebnis im Zusammenhang mit der Bewertung von Vermögenswerten, die in der Bilanz von Yearn zum fairen Marktwert (FMV) am Monatsende zu finden sind.
 
 ---
 
-## Yearn Total Value Locked exceeded $5.0b as of September 30th, 2021, and has shown strong continuous growth.
+## Yearns "Gesamtwert gesperrter Token" (TVL) überstieg zum 30. September 2021 $5,0 Mrd. und verzeichnete ein starkes kontinuierliches Wachstum.
 
 ![](./image9.jpg?w=714&h=654)
 
-- Yearn TVL surpassed the all-time-highs in Q3-21 that were set in Q2-21, and had over $5b in TVL.
-- The majority of our TVL is derived from our v2 yVault product line. In late May and throughout June we transitioned a significant portion of our v1 vaults to v2 vaults. We no longer support v1 vaults and encourage all depositors to migrate to v2 vaults.
-- Iron Bank is Yearn’s in-house lending platform that is in collaboration with C.R.E.A.M. Finance. We continued to see growth in Iron Bank TVL from Q1 to Q2.
-- Yearn has over $5b in TVL **without any token subsidies** or other incentives typically offered by competing protocols in DeFi.
-- *Note: The chart presented above is as of September 30th, 2021.*
-- Source: Github: [yearn/yearn-exporter](https://github.com/yearn/yearn-exporter)
+- Yearns TVL übertraf im 3. Quartal 2021 die im 2. Quartal 2021 aufgestellten Allzeithöchstwerte und verzeichnete über 5 Mrd. $ an TVL.
+- Der größte Teil unseres TVL stammt aus unserer yVault-Produktlinie v2. Ende Mai und im Juni haben wir einen großen Teil unserer v1 Tresore auf v2 Tresore umgestellt. Wir unterstützen v1-Tresore nicht mehr und empfehlen allen Einlegern, auf v2-Tresore umzusteigen.
+- Iron Bank ist die hauseigene Kreditplattform von Yearn, die mit C.R.E.A.M. Finance zusammenarbeitet. Das Wachstum von Iron Bank TVL setzte sich von Q1 bis Q2 fort.
+- Yearn verfügt über 5 Mrd. USD an TVL **ohne jegliche Token Subventionen** oder andere Anreize, die von konkurrierenden Protokollen in DeFi angeboten werden.
+- *Hinweis: Die oben dargestellte Tabelle entspricht dem Stand vom 30. September 2021.*
+- Quelle: Github: [yearn/yearn-exporter](https://github.com/yearn/yearn-exporter)
 
 ---
 
-## We continue to make improvements to our financial dashboard displaying transactions, an Income Statement, and a Balance Sheet
+## Wir arbeiten weiter an der Verbesserung unseres Finanz-Dashboards, das Transaktionen, eine Gewinn- und Verlustrechnung und eine Bilanz anzeigt.
 
 ![](./image10.jpg?w=1058&h=611)
 
-- Our financial dashboard is public to give community members more granular information related to financial transactions affecting Yearn’s operations. You can view transactions by month, token, category, and various other filters.
-- Please note that this dashboard is displayed on a cash-basis of accounting, whereas the financial statements presented in this report are on an accrual basis of accounting. Specifically, the dashboard does not account for accounts receivable, accrued interest, unrealized capital gains and losses, or other accrual based items.
-- The financial dashboard has not been audited by a professional third-party accounting firm and is intended for information purposes only. It is not to be used for financial, investment, or advice of any kind.
-- You can access the dashboard at https://www.yfistats.com/financials/financials.html
+- Unser Finanz-Dashboard ist öffentlich, um der Community detailliertere Informationen über Finanztransaktionen bereit zu stellen, die sich auf den Betrieb von Yearn auswirken. Sie können sich die Transaktionen nach Monat, Token, Kategorie und verschiedenen anderen Filtern anzeigen lassen.
+- Bitte beachten Sie, dass dieses Dashboard auf der Basis einer Kassenbuchführung angezeigt wird, während die Jahresabschlüsse in diesem Bericht nach dem Prinzip der Periodenabgrenzung erstellt wurden. Insbesondere berücksichtigt das Dashboard keine Forderungen, aufgelaufene Zinsen, nicht realisierte Kapitalgewinne und -verluste oder andere periodengerechte Posten.
+- Die Finanzübersicht wurde nicht von einer professionellen Wirtschaftsprüfungsgesellschaft geprüft und dient nur zu Informationszwecken. Es darf nicht für finanzielle Anlangen, Investitionen oder Ratschläge jeglicher Art genutzt werden.
+- Das Dashboard kann unter https://www.yfistats.com/financials/financials.html aufgerufen werden.
 
 ---
 
-## Sources
+## Quellen
 
-- Revenue and expense data was obtained from token transfers between several addresses controlled by the Yearn protocol. These Ethereum addresses are listed below.
+- Die Daten zu Einnahmen und Ausgaben wurden aus Token-Transfers zwischen verschiedenen Adressen gewonnen, die vom Yearn-Protokoll kontrolliert werden. Diese Ethereum-Adressen sind unten aufgeführt.
     - Treasury vault: [0x93a62da5a14c80f265dabc077fcee437b1a0efde](https://etherscan.io/address/0x93a62da5a14c80f265dabc077fcee437b1a0efde)
     - Multi-sig: [0xfeb4acf3df3cdea7399794d0869ef76a6efaff52](https://etherscan.io/address/0xfeb4acf3df3cdea7399794d0869ef76a6efaff52)
     - Governance staking: [0xba37b002abafdd8e89a1995da52740bbc013d992](https://etherscan.io/address/0xba37b002abafdd8e89a1995da52740bbc013d992)
 
-- Token prices were obtained from Coingecko, a historical price provider of all major cryptocurrencies, or by running an archive Ethereum node and querying prices directly from the blockchain.
+- Die Token-Preise wurden von Coingecko, einem Anbieter historischer Preise für alle wichtigen Kryptowährungen, oder durch die Ausführung eines Ethereum-Nodes und die direkte Abfrage von Preisen aus der Blockchain ermittelt.
 
-- Please contact the team either via Telegram or discord for any specific questions.
+- Bitte kontaktieren Sie das Team entweder über Telegram oder Discord für spezifische Fragen.
     - [t.me/yearnfinance](https://t.me/yearnfinance)
     - [https://discord.com/yearn](https://discord.com/yearn)
