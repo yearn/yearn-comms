@@ -132,7 +132,7 @@ Ne sorabilirsin? Sana geldiklerinde anlayacaksın.
 
 YFI boarding okuluna katılma şansı elde etmek için [buradan](https://yearnfinance.notion.site/Join-Us-3e9c95b9bd7846a18c0f1cbe6ab05eda) başvurun.
 
-# Yearn'deki Vult'lar
+# Yearn'deki Vault'lar
 
 Tüm aktif yVault'larımız için stratejilerin ayrıntılı bir açıklamasını [buradan](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) okuyabilirsiniz.
 
