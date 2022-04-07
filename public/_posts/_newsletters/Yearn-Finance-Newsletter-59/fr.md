@@ -4,12 +4,13 @@ title: "Yearn Finance Newsletter #59"
 categories: [Newsletters]
 image:
   src: ./cover.png
-  width: 576
-  height: 288
+  width: 1152
+  height: 576
 author: Yearn
 date: '2022-04-06'
 translator: Cryptouf
 ---
+
 ### Semaine du 4 Avril, 2022
 
 ![](./image1.png?w=1456&h=733)
@@ -89,7 +90,7 @@ La suite dépend de vous.
 
 # Les contributeurs chez Yearn
 
-![](./image6.png?w=1456&h=928)
+![](./image6.png?w=800&h=510)
 
 Si Yearn valorise une compétence plus qu'une autre, c'est la volonté de faire. Cela est tellement ancré dans la culture de Yearn que nous appelons nos contributeurs les plus actifs  les*Doers*. C'est un nom, mais c'est fondamentalement plus que ça… c'est une philosophie.
 
