@@ -23,7 +23,7 @@ Bem-vindo à 59ª edição da Yearn Finance Newsletter. Nosso objetivo com este 
 - Falando de Estratégias com Facu na ETHDubai
 - Juntando-se ao DAO Yearn: Onboarding
 - Como Yearn usa Tenderly
--  Contribuidores da Yearn
+- Contribuidores da Yearn
 - YFI Boarding School
 - Vaults na Yearn 
 - Notícias do Ecossistema
