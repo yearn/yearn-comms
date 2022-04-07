@@ -84,7 +84,7 @@ https://gov.yearn.finance/t/yip-61-governance-2-0/10460
 ##### 15
 Gov 2.0, oder eingeschränkte Delegation, beginnt mit dem Verständnis von Entscheidungen. Eine DAO muss Hunderte von verschiedenen Entscheidungen treffen. Gov 2.0 befasst sich mit Entscheidungen auf der Kette, die mit einem Tor versehen sind. Aber über diese Achsen hinaus müssen wir auch Folgendes berücksichtigen: Zeitrahmen, Auswirkungen, Sicherheit, Gemeinschaft, Bereich...
 
-![](./7.png?w=1450&h=496)
+![](./7.jpg?w=1450&h=496)
 
 ##### 16
 Wir mussten bei Yearn all diese Arten von Werkzeugen aus purer Not heraus erfinden. Wir wurden aus dem Chaos geboren. Es gibt kein Fundament, kein Unternehmen mit Prozessen, auf das wir zurückgreifen könnten. [@AndreCronjeTech](https://twitter.com/AndreCronjeTech) verschenkte $1B in $YFI und das Inflaton-Feld dieses Ereignisses formte unsere Welt. Peng.
@@ -100,7 +100,7 @@ Wilber nahm die Karten der menschlichen Entwicklung, die von diesen Gelehrten en
 ##### 19
 [@fred_laloux](https://twitter.com/fred_laloux) nahm Wilbers Karte und wandte sie auf die Unternehmen an, die er in seinem unvergleichlichen Werk "Reinventing Organizations" untersuchte. Nur weil DAOs das Potenzial haben, wie Bäume in den blauen Himmel unserer Zukunft zu wachsen, heißt das nicht, dass sie das auch tun werden. Sie brauchen das richtige Betriebssystem.
 
-![](./9.png?w=360&h=162)
+![](./9.jpg?w=360&h=162)
 
 ##### 20
 Teal ist ein Betriebssystem für Organisationen, die aus souveränen Menschen bestehen, die ihr Leben selbst in die Hand nehmen und Verantwortung übernehmen. Wo die heutigen großen Unternehmen wie Maschinen sind, sind Teal-Organisationen wie Biologie.

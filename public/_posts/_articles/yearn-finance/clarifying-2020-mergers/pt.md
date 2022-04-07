@@ -1,7 +1,7 @@
 ---
 title:  "Esclarecendo Fusões 2020; Um Iron Bank Independente"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 1280
   height: 800
 date: '2022-02-25'
@@ -9,7 +9,7 @@ author: Weaver
 translator: jameskbh
 ---
 
-![](cover.png?w=800&h=450)
+![](cover.jpg?w=800&h=450)
 
 No final de 2020, a Yearn Finance anunciou várias “fusões” com o objetivo de reunir os principais projetos DeFi, criando um ecossistema focado em infraestrutura crítica: AMM (SushiSwap), Lending (C.R.E.A.M. Finance), Apoio institucional (Akropolis) e Gestão de Rendimento (Pickle Finance).
 

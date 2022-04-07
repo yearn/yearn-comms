@@ -3,7 +3,7 @@ layout: post
 title: "Yearn Finance Newsletter #58"
 categories: [Newsletters]
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 576
   height: 288
 author: Yearn
@@ -13,7 +13,7 @@ translator: Nesyeth
 
 ### Woche bis zum 8. März 2022
 
-![](./image1.png?w=1456&h=733)
+![](./image1.jpg?w=1456&h=733)
 
 Willkommen zur 58. Ausgabe des Yearn Finance Newsletter. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter möchten wir die Yearn- und die breitere Krypto-Community über die neuesten Nachrichten informieren, darunter Produkteinführungen, Änderungen in der Unternehmensführung und Aktualisierungen im Ökosystem. Wenn du mehr über Yearn Finance erfahren möchtest, folge unserem offiziellen [Twitter](https://twitter.com/iearnfinance)- und [Medium](https://medium.com/iearn) accounts-Konten.
 
@@ -62,7 +62,7 @@ Lies den vollständigen Artikel [hier](https://medium.com/iearn/clarifying-2020-
 
 # Eintauchen in die Yearn Metriken
 
-![](./image4.png?w=1400&h=625)
+![](./image4.jpg?w=1400&h=625)
 
 Einer der wichtigsten Grundsätze der Kryptowährung ist es, dass jeder seine eigenen Nachforschungen anstellt, und hier bei Yearn hoffen wir zu betonen, dass transparente Metriken eine unserer größten Stärken sind, um den Nutzern zu helfen, bei der Interaktion mit dem Protokoll Vorsicht walten zu lassen.
 
@@ -76,7 +76,7 @@ Du kannst auf die auf diesen Websites aufgelisteten Vaults zugreifen und noch he
 
 # Yearn kooperiert mit Tenderly
 
-![](./image5.png?w=1400&h=670)
+![](./image5.jpg?w=1400&h=670)
 
 Die Ethereum-Entwicklungsplattform Tenderly, die kürzlich eine 40-Millionen-Dollar-Finanzierung in der Serie B erhalten hat, ist eine offizielle Partnerschaft mit uns bei Yearn eingegangen.
 

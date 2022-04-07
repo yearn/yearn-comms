@@ -56,10 +56,13 @@ function	Template({allPosts}) {
 	return (
 		<section>
 			<div className={'pt-2 w-full'}>
-				<div className={'grid grid-cols-3 gap-4'}>
+				<div className={'hidden grid-cols-3 gap-4 md:grid'}>
 					<Column allPosts={allPosts.col1} language={language} />
 					<Column allPosts={allPosts.col2} language={language} />
 					<Column allPosts={allPosts.col3} language={language} />
+				</div>
+				<div className={'grid grid-cols-1 gap-4 md:hidden'}>
+					<Column allPosts={allPosts.all} language={language} />
 				</div>
 			</div>
 		</section>

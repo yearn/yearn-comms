@@ -22,7 +22,7 @@ original source: [twitter](https://twitter.com/dudesahn/status/14135670685831045
 
 值约2900万美元的资产仍能质押在LP，YFI，和可领取的奖励中 :point_down:
 
-![](image1.png)
+![](image1.jpg)
 
 ##### 2
 
@@ -41,7 +41,7 @@ original source: [twitter](https://twitter.com/dudesahn/status/14135670685831045
 
 在Contract, 点击Read Contract, 然后把你的地址输入balanceOf 👀
 
-![](image2.png)
+![](image2.jpg)
 
 ##### 4
 
@@ -49,7 +49,7 @@ original source: [twitter](https://twitter.com/dudesahn/status/14135670685831045
 
 要领取你所有的质押资产和奖励，请到Write Contract，连接你的钱包，然后call exit()。
 
-![](image3.png)
+![](image3.jpg)
 
 ##### 5
 

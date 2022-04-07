@@ -1,7 +1,7 @@
 ---
 title:  "Quản lý bảng lương phi tập trung cho ĐAO"
 image:
-  src: ./andre-hero.png
+  src: ./andre-hero.jpg
   width: 700
   height: 300
 date: '2021-03-31'

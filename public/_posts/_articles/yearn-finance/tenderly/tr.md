@@ -1,7 +1,7 @@
 ---
 title: "Geliştirme, Hata Ayıklama ve Olay Analizini Güçlendirmek İçin Tenderly ile Yearn Finance Ortaklığı"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 1280
   height: 800
 date: '2022-03-02'
@@ -13,7 +13,7 @@ Yearn-Tenderly ortaklığının karşılıklı yarar sağladığı kanıtlanmı�
 
 Tenderly, Yearn'e sınıfının en iyisi geliştirici araçlarına erişim, zincirdeki etkinliklere ilişkin daha derin bilgiler ve rock yıldızı bir geliştirici ekibinin desteğini verdi. Yearn, önemli bir DeFi protokolünden temel kullanım senaryoları ve gereksinimleri sağlayarak Tenderly ürününün endüstrinin ihtiyaçlarını yinelemesine ve bunlara uyum sağlamasına yardımcı oldu.
 
-![](cover.png?w=1400&h=670)
+![](cover.jpg?w=1400&h=670)
 
 ## Durum
 Yearn Finance, tüm DeFi'deki en güvenli ve en yüksek TVL protokollerinden biri olmaktan gurur duymaktadır. Yearn ayrıca muazzam miktarda on-chain altyapıya sahiptir: 300'den fazla v2 vault'u ve yalnızca ana ağ üzerinde strateji akıllı sözleşmeleri (v1 vault'ları, keep3r altyapısı, yardımcı sözleşmeler, yan zincir dağıtımları vb.'den bahsetmiyorum bile).
@@ -57,13 +57,13 @@ Tenderly, sektördeki en iyi UI hata ayıklayıcısını sunar. Yearn ekibinin g
 ## Tenderly UI önizleme
 
 *İşleme genel bakış:*
-![](image1.png?w=1140&h=609)
+![](image1.jpg?w=1140&h=609)
 
 *Hata bağlamı:*
-![](image2.png?w=1131&h=432)
+![](image2.jpg?w=1131&h=432)
 
 *Hata simülasyonu*
-![](image3.png?w=1280&h=672)
+![](image3.jpg?w=1280&h=672)
 
 ## Sırada Ne Var
 Yearn'i en çok heyecanlandıran şeylerden biri, yeni katkıda bulunanlar getirmek ve yetenekleri keşfetmek. Tenderly ekibiyle işbirliği içinde, YFI Boarding School (yaklaşan stratejistler için bir topluluk) üyeleri için Tenderly'ye 90 günlük ücretsiz erişim sunuyoruz. Bunun, yatılı okul üyelerinin kendi strateji kodları hakkında daha derin bilgiler edinmelerine, daha verimli öğrenmelerine yardımcı olurken, aynı zamanda onlara Tenderly'nin ürününün gücünü göstermelerine yardımcı olduğuna inanıyoruz.

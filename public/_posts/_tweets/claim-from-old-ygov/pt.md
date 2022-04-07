@@ -21,7 +21,7 @@ Acabei de checar os antigos contratos de [@iearnfinance](https://twitter.com/iea
 
 Quase $29m em LPs em stake, YFI, e recompensas que podem ser reinvidicados :point_down:
 
-![](image1.png)
+![](image1.jpg)
 
 ##### 2
 
@@ -40,7 +40,7 @@ Vá para https://etherscan.io, e insira os seguintes endereços:
 
 Na aba Contrato, cliquem em Ler Contrato, e insira seu endereço no campo balanceOf 👀
 
-![](image2.png)
+![](image2.jpg)
 
 ##### 4
 
@@ -48,7 +48,7 @@ Se um valor >0 aparecer, parabéns, você tem YFI e/ou recompensas para reinvidi
 
 Para reinvidicar os seus ativos em stake e suas recompensas, vá para Escrever Contrato, conecte sua carteira e execute o comando exit().
 
-![](image3.png)
+![](image3.jpg)
 
 ##### 5
 

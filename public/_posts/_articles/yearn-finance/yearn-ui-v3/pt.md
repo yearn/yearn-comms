@@ -1,7 +1,7 @@
 ---
 title:  "Yearn UI v3.0"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 800
   height: 450
 date: '2021-09-17'
@@ -13,7 +13,7 @@ translator: JKtranslator
 
 ### A próxima iteração da IU yearn.finance está aqui
 
-![](image1.png?w=800&h=450)
+![](image1.jpg?w=800&h=450)
 
 _exploração do design da página inicial v3_
 
@@ -21,7 +21,7 @@ Reconstruímos yearn.finance do zero. Trabalhamos para resolver o feedback e os 
 
 ## Uma visão realizada
 
-![](image2.png?w=300&h=398)
+![](image2.jpg?w=300&h=398)
 
 _exploração do design v3_
 
@@ -44,7 +44,7 @@ Ouvimos atentamente o feedback da comunidade e os pontos fracos mais urgentes fo
 
 Lembre-se de que este é um **_lançamento beta:_** nada é definitivo ainda, e planejamos iterar nas próximas semanas conforme recebermos feedback e implementarmos mais refinamentos. Se você gostaria de fornecer feedback, vá para nosso novo [canal do discord](https://discord.gg/Rw9zA3GbyE) criado para feedback da interface de usuário (IU) da v3 web.
 
-![](image3.png?w=300&h=354)
+![](image3.jpg?w=300&h=354)
 
 _exploração do design v3_
 
@@ -64,7 +64,7 @@ Descrevemos resumidamente cada um deles abaixo:
 
 ### Lens
 
-![](image4.png?w=800&h=500)
+![](image4.jpg?w=800&h=500)
 
 _Diagrama de blocos lens_
 
@@ -100,7 +100,7 @@ O repositório de metadados de Yearn é uma estrutura simples que permite que as
 
 ### Subgraph
 
-![](image5.png?w=800&h=680)
+![](image5.jpg?w=800&h=680)
 
 _Ganhos exibidos no painel e para cada vault_
 
@@ -124,7 +124,7 @@ O exportador do Yearn funciona como nossa API primária e contém todos os cálc
 
 ### SDK
 
-![](image6.png?w=800&h=638)
+![](image6.jpg?w=800&h=638)
 
 _Diagrama de blocos SDK_
 
@@ -142,7 +142,7 @@ O novo SDK de Yearn é o mecanismo que alimenta nosso novo site v3, e o front-en
 
 Enquanto a infraestrutura de back-end listada acima gera os dados necessários, o front-end os consome e os apresenta de uma maneira que os usuários possam interagir facilmente com eles.
 
-![](image7.png?w=913&h=696)
+![](image7.jpg?w=913&h=696)
 
 _diagrama de bloco do FE v3_
 
@@ -154,7 +154,7 @@ A **camada da IU** consome os dados diretamente do centro e os exibe conforme de
 
 [Código-fonte do front-end](https://github.com/yearn/yearn-finance-v3)
 
-![](image8.png?w=659&h=398)
+![](image8.jpg?w=659&h=398)
 
 _Closeup da barra de navegação lateral e painel_
 
@@ -172,7 +172,7 @@ Nossa nova página de vaults contém um painel com informações do usuário sob
 
 #### Página de detalhes do Vault
 
-![](image9.png?w=800&h=554)
+![](image9.jpg?w=800&h=554)
 
 _Página de detalhes do vault_
 
@@ -198,7 +198,7 @@ Semelhante a dos vaults e labs, a página do Iron Bank mostra um painel com info
 
 ### Recursos adicionais
 
-![](image10.png?w=300&h=410)
+![](image10.jpg?w=300&h=410)
 
 _Simulação de um zap excedendo a tolerância de slippage_
 
@@ -216,7 +216,7 @@ Observe que a simulação falhará se você tentar simular uma transação para 
 
 #### Mobile
 
-![](image11.png?w=300&h=518)
+![](image11.jpg?w=300&h=518)
 
 _v3 experiência móvel_
 
@@ -228,7 +228,7 @@ Embora atualmente não tenhamos um aplicativo Yearn nativo devido a algumas rest
 
 ## Futuros Passos
 
-![](image12.png?w=800&h=462)
+![](image12.jpg?w=800&h=462)
 
 _exploração do design v3_
 
@@ -256,7 +256,7 @@ Embora não seja tão dramático quanto a fusão do PoW da Ethereum com o PoS, o
 
 ## Uma palavra de gratidão
 
-![](image13.png?w=2000&h=1125)
+![](image13.jpg?w=2000&h=1125)
 
 _Selfie da equipe Yearn web_
 

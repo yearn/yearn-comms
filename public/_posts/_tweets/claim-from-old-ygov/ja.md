@@ -21,7 +21,7 @@ translator: Cripu
 
 約29mドルのステーキングされたLP、YFI、クライム可能な報酬 :point_down:
 
-![](image1.png)
+![](image1.jpg)
 
 ##### 2
 
@@ -40,7 +40,7 @@ https://etherscan.io にアクセスして、次のいずれかのアドレス�
 
 コントラクトの下にある「コントラクトを読む」をクリックし、「balanceOf」の下に自分のアドレスを入れます 👀
 
-![](image2.png)
+![](image2.jpg)
 
 ##### 4
 
@@ -48,7 +48,7 @@ https://etherscan.io にアクセスして、次のいずれかのアドレス�
 
 ステークした資産や報酬をすべてクライムするには、Write Contractにアクセスしてウォレットを接続し、exit()を呼び出します。
 
-![](image3.png)
+![](image3.jpg)
 
 ##### 5
 

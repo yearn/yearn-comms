@@ -1,7 +1,7 @@
 ---
 title:  "पेश है फिक्स्ड फॉरेक्स"
 image:
-  src: ./andre-hero.png
+  src: ./andre-hero.jpg
   width: 700
   height: 300
 author: Andre

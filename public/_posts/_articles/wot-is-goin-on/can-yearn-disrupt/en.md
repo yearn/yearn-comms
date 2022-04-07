@@ -1,7 +1,7 @@
 ---
 title:  "Can Yearn disrupt the $110 trillion asset management industry?"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 1280
   height: 800
 date: '2021-04-07'
@@ -23,7 +23,7 @@ translator:
 
 DeFi has been growing explosively for 3.5 years, according to [DeFiPulse](https://defipulse.com/) from less than $2m Total Value Locked (TVL) in Q3 2017 to $44.6bn in Q1 2021. [Defillama](https://defillama.com/home) has Ethereum’s Q1 2021 TVL at $68.5bn. Uniswap’s trading volume exceeded Coinbase’s for the month of [September 2020](https://www.theblockcrypto.com/linked/79775/uniswap-coinbase-monthly-volume-september). The question is no longer whether DeFi will disrupt traditional finance, but which DeFi protocols will be the disrupters?
 
-![](image1.png?w=528&h=274)Growth in DeFi TVL has been explosive for 3.5 years¹
+![](image1.jpg?w=528&h=274)Growth in DeFi TVL has been explosive for 3.5 years¹
 
 Yearn is an asset management protocol on Ethereum. At Q1 2021 it managed $1.8bn of Ether, stablecoins and DeFi tokens. But that was last week, it’s now [$2.5bn](https://yearn.science/).
 
@@ -33,7 +33,7 @@ Yearn allows you to deposit your crypto into a “vault” which automatically u
 
 In traditional finance assets gravitate towards a few well known asset managers. Whilst the industry is by no means winner-takes-all, it is highly concentrated.
 
-![](image2.png?w=700&h=459)The asset management industry is measured in $trillions AUM and highly concentrated ([June 30th 2020 data](https://www.advratings.com/top-asset-management-firms))
+![](image2.jpg?w=700&h=459)The asset management industry is measured in $trillions AUM and highly concentrated ([June 30th 2020 data](https://www.advratings.com/top-asset-management-firms))
 
 Yearn does not have a direct comparable in traditional asset management. It’s not a bank, but it earns yields from lending. It’s not a hedge fund, but it carries out active strategies.
 
@@ -43,7 +43,7 @@ Yearn does not have a direct comparable in traditional asset management. It’s 
 
 74% of Blackrock’s Q3 2020 revenue came from investment advisory, fees and securities lending. Yearn’s revenues can be categorized in a similar way.
 
-![](image3.png?w=700&h=247)
+![](image3.jpg?w=700&h=247)
 
 Similar sources of revenue. Different technologies.
 
@@ -74,7 +74,7 @@ How Yearn was able to deal with these issues demonstrates the benefits of DeFi o
 - transparency — anyone can view the [transaction](https://etherscan.io/tx/0x21a3007a2547a9d6f1bceb44cb9292b36079fcccd8f36f7ec1ca066db261e153) shown below on Etherscan
 - no middleman — no need for Goldman Sachs or Morgan Stanley
 
-![](image4.png?w=700&h=272)
+![](image4.jpg?w=700&h=272)
 
 A $200m+ capital raise on Ethereum is extremely cheap
 
@@ -86,7 +86,7 @@ Following the Dai vault exploit, Yearn chose to reimburse those who lost funds �
 - No paperwork
 - No humans required — just a purple rabbit
 
-![](image5.png?w=700&h=322)
+![](image5.jpg?w=700&h=322)
 
 Taking a $9.7m collateralized loan on Ethereum is extremely cheap
 
@@ -98,7 +98,7 @@ Comparing an asset management protocol on Ethereum to the largest global asset m
 
 Ether is by far the largest asset on Ethereum and recently became a [top 50 global asset](https://companiesmarketcap.com/) by market capitalization.
 
-![](image6.png?w=700&h=335)A $200bn+ market cap makes Ether a top 50 global asset
+![](image6.jpg?w=700&h=335)A $200bn+ market cap makes Ether a top 50 global asset
 
 **What can you do with ETH and how does Yearn fit in?**
 
@@ -124,7 +124,7 @@ This is where Yearn comes in. Yearn finds the best risk-adjusted yield for your 
 
 DeFi tokens are the newest type of asset on Ethereum.
 
-![](image7.png?w=700&h=270)
+![](image7.jpg?w=700&h=270)
 
 Valuable governless tokens
 
@@ -143,7 +143,7 @@ Each DeFi token has its quirks as their communities try to find ways of incentiv
 
 The value of these tokens has increased significantly over the last year as the market puts a greater value on tokens representing a transparent and fair (to the extent that each wallet is treated the same) financial system that is available to anyone with an internet connection. The cashflows help too.
 
-![](image8.png?w=700&h=393)
+![](image8.jpg?w=700&h=393)
 
 DeFi protocols recently surpassed $1bn in total revenue (Token Terminal)
 
@@ -153,7 +153,7 @@ The most popular stablecoins represent 1 USD and come in different forms, such a
 
 Stablecoins are moving to Ethereum where they can earn a yield from lending, trading or liquidity mining. It is difficult to see these stablecoins being converted back to fiat when traditional banks are paying [close to 0%](https://twitter.com/mattysino/status/1379368078979391488?s=20). This goes some way to explaining why the stablecoin supply on Ethereum grew 600% over the last 12 months.
 
-![](image9.png?w=657&h=446)
+![](image9.jpg?w=657&h=446)
 
 People are preferring stablecoins on Ethereum to dollars in the bank ([https://duneanalytics.com/hagaetc/stablecoins](https://duneanalytics.com/hagaetc/stablecoins))
 
@@ -167,7 +167,7 @@ Yearn’s stablecoin strategies have come a long way since early 2020 and now th
 
 Even bitcoin is finding its way to Ethereum. By end March 2021 there was more [bitcoin on Ethereum](https://btconethereum.com/) ($10bn) than that held by MicroStrategy ($5.4bn³) and Tesla ([$1.5bn](https://www.cnbc.com/2021/02/08/tesla-buys-1point5-billion-in-bitcoin.html)) combined. Mainstream media isn’t going to make it.
 
-![](image10.png?w=700&h=410)
+![](image10.jpg?w=700&h=410)
 
 Tokenized bitcoin on Ethereum ([https://duneanalytics.com/queries/4962/9776](https://duneanalytics.com/queries/4962/9776))
 
@@ -185,7 +185,7 @@ Ether, DeFi tokens, stablecoins and tokenized bitcoin combine to form a $300bn+ 
 
 The chart below shows why equities matter. At [$95 trillion](https://www.cnbc.com/2020/11/12/global-stock-market-value-rises-to-a-record-95-trillion-this-week-on-vaccine-hope.html) the market cap is 50 times the size of the total crypto market cap.
 
-![](image11.png?w=480&h=289)
+![](image11.jpg?w=480&h=289)
 
 Global equities 50x crypto market cap
 
@@ -217,7 +217,7 @@ Tokenizing equities that already exist is a huge step to increasing the addressa
 
 Initial Public Offerings (IPOs) are expensive. The underwriting fees from a PWC report are shown below. Note that there’s no quote for deals under $25m, welcome to traditional finance. The column on the right shows the number of middlemen that could one day be disintermediated by using Ethereum.
 
-![](image12.png?w=655&h=267)
+![](image12.jpg?w=655&h=267)
 
 [Underwriting fees](https://www.pwc.com/us/en/services/deals/library/cost-of-an-ipo.html) for IPOs in traditional finance
 
@@ -231,7 +231,7 @@ There have been only two so far (that I can find), both of which are related to 
 
 Bonds are less risky than crypto and equities (measured by historic volatility). There’s more than [$100 trillion](https://www.icmagroup.org/Regulatory-Policy-and-Market-Practice/Secondary-Markets/bond-market-size/) of them. If ever, they will likely come last to Ethereum. No-one is pestering the Spartan Council for a synthetic 30-year US treasury, sTMUBMUSD30Y, to lock in 2.4% pa yield. However, there are signs of large traditional financial players testing the waters.
 
-![](image13.png?w=2572&h=792)
+![](image13.jpg?w=2572&h=792)
 History of bond issuance on blockchains ([Binance Research](https://research.binance.com/en/analysis/santander-bond), Coindesk)
 
 These institutions and companies are testing the technology because it is cheap. If it’s cheap it saves them money and gives them an edge against competitors.
@@ -256,7 +256,7 @@ However, these are companies. They are centralized.
 
 The challenge that the DeFi entrepreneurs took up was to find a way of trading, borrowing and lending in a censorship-resistant way with code replacing the middleman. Even if the models replicated traditional finance they would have the advantages of transparency, no middlemen and available to anyone with an internet connection.
 
-![](image14.png?w=700&h=407)History of crypto yields before 0 B.C⁴
+![](image14.jpg?w=700&h=407)History of crypto yields before 0 B.C⁴
 
 Compound Finance’s lending protocol was the first DeFi protocol that allowed you to earn a yield. However, it wasn’t until the [launch of the COMP](https://www.coindesk.com/compounds-comp-token-price-doubles-amid-defi-mania) token in June 2020 that usage skyrocketed.
 
@@ -273,7 +273,7 @@ When Cronje started working on Yearn v1 there were several problems that people 
 - an understanding of the risks involved
 - a lot of time — both to check the yields and then to make the transactions
 
-![](image15.png?w=700&h=408)The problems with DeFi that Yearn helps to solve
+![](image15.jpg?w=700&h=408)The problems with DeFi that Yearn helps to solve
 
 Initially Andre carried out these transactions manually. By aggregating capital the gas fees can be shared, not everyone needs to understand all the protocols at the same level of detail, and you can deposit your funds and let one person do the work. The challenge was to automate the process.
 
@@ -289,7 +289,7 @@ When Curve introduced the concept of “boosties” for locking CRV, Yearn found
 
 But Andre was still not happy. There remained capital inefficiencies everywhere he looked, such as capital sitting idle in Cream Finance (a lending protocol in Yearn’s ecosystem). Say there’s 10m Dai sitting in Cream Finance and not being lent out (therefore earning no yield) and Yearn has a strategy that could earn 10% APY on Dai, even if only for a very short time. What if Yearn could borrow that Dai for a lower interest rate, earn the 10% APY, and pay the loan back either when the strategy no longer produced excess yield or when the depositor on Cream Finance wanted their Dai returned? That’s what Yearn does — not for its own benefit — but to increase the yields of depositors. It was a first in [protocol-to-protocol uncollateralized lending](https://creamdotfinance.medium.com/introducing-the-iron-bank-bab9417c9a).
 
-![](image16.png?w=700&h=406)Yearn’s innovations in yields
+![](image16.jpg?w=700&h=406)Yearn’s innovations in yields
 
 The bar at the bottom of the diagram above represents an innovation in yields that came with the help of another ecosystem partner, Sushi. As a way of incentivizing people to lock their CRV indefinitely Yearn created a complex asset called yveCRV. However, there was no market for yveCRV so Yearn incentivized people to provide liquidity to yveCRV-ETH by offering rewards in Sushi. This turned an illiquid asset into a liquid one using an ecosystem partner. This is not your average DeFi protocol.
 
@@ -301,7 +301,7 @@ The vault re-design proposed in YIP-48 has now been implemented, audits have bee
 
 The image below shows the yvDai vault earning a yield for depositors with 6 strategies in action at the same time (the strategy labels are in green).
 
-![](image17.png?w=700&h=925)
+![](image17.jpg?w=700&h=925)
 
 Six strategies in one vault ([https://twitter.com/bantg/status/1377681238249574404?s=20](https://twitter.com/bantg/status/1377681238249574404?s=20))
 
@@ -323,7 +323,7 @@ The greater challenge seems to be to reduce the real and perceived risks of inte
 
 A key part of Yearn’s brand is its focus on security which Cronje prioritized in the first version in early 2020. Developers have to determine which protocols and strategies are trustworthy, think through potential economic exploits, limit deposits in to certain strategies and find ways of covering losses in case exploits do occur. The seriousness with which Yearn takes security and the speed with which it resolves issues that arise is evidenced by the detail in its [vulnerability disclosure reports](https://github.com/yearn/yearn-security/tree/master/disclosures) and the [system specification](https://github.com/yearn/yearn-vaults/blob/master/SPECIFICATION.md). Higher level risk controls are shown in the table below.
 
-![](image19.png?w=700&h=283)Prioritizing security from day 1
+![](image19.jpg?w=700&h=283)Prioritizing security from day 1
 
 The yAcademy is my favourite from the list above because it illustrates the emergent nature of Yearn — and DeFi in general. It started with just some dev (Andre) writing some code (Yearn v1). People he didn’t know thought it was interesting and started interacting with it so he started a telegram group where it was discussed. Auditing the code was necessary, but expensive and slow, due to there being few people with the required skills and because it is hard and time-consuming. It’s still a bottleneck for the whole of DeFi, not just for Yearn. 9 months later Ali Atiia **(**@aliatiia\_) submits a [governance proposal](https://gov.yearn.finance/t/lets-poach-samczsun-and-plant-the-seed-for-an-auditing-academy/5507) (viewed by 2.3k people) for Yearn to develop an academy to train auditors. 2 months after the proposal, and a partnership with Gitcoin and Status in-hand, [YIP-53](https://gov.yearn.finance/t/yip-53-yacademy-planting-the-seed-of-a-sustainably-secure-future-for-yearn-and-beyond/7929) is submitted. This officially creates yAcademy with a budget and a detailed specification.
 
@@ -333,7 +333,7 @@ This happened with no management. No HR department. No résumés.
 
 It’s one thing to describe how Yearn is leading the innovation in risk-adjusted yields, but ultimately the asset management industry uses one key metric, and that’s AUM (TVL in DeFi). This is up by 3x in the last quarter. At less than 1% of the assets on Ethereum, which are themselves growing at a rapid pace, there is still plenty of room for Yearn’s AUM to grow.
 
-![](image20.png?w=700&h=501)Yearn’s TVL hits $1.84b on 31st March 2021 — The Block (and banteg)
+![](image20.jpg?w=700&h=501)Yearn’s TVL hits $1.84b on 31st March 2021 — The Block (and banteg)
 
 **5\. Competition**
 

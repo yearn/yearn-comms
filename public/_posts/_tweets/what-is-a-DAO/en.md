@@ -83,7 +83,7 @@ https://gov.yearn.finance/t/yip-61-governance-2-0/10460
 ##### 15
 Gov 2.0, or constrained delegation, starts by understanding decisions. A DAO needs to make hundreds of different decisions. Gov 2.0 deals with on-chain, gated decisions. But beyond these axes we also have to consider: timescale, impact, security, community, domain...
 
-![](./7.png?w=1450&h=496)
+![](./7.jpg?w=1450&h=496)
 
 ##### 16
 We had to invent all these kinds of tools at Yearn out of sheer need. We were born from chaos. There is no foundation, no company with processes to fall back on. [@AndreCronjeTech](https://twitter.com/AndreCronjeTech) gave away $1B in $YFI and the inflaton field from that event formed our world. Bang.
@@ -99,7 +99,7 @@ Wilber took the maps of human development pioneered by these scholars and combin
 ##### 19
 [@fred_laloux](https://twitter.com/fred_laloux) took Wilber's map and applied it to the companies he studied in his peerless work "Reinventing Organizations" Just because DAOs have the potential to grow like trees into the blue sky of our future, doesn't mean they will. They need the right operating system.
 
-![](./9.png?w=360&h=162)
+![](./9.jpg?w=360&h=162)
 
 ##### 20
 Teal is an operating system for organizations formed from sovereign human beings taking agency and responsibility in their lives; based on self-management, wholeness, and evolutionary purpose. Where today's big companies are like machines, Teal orgs are like biology.

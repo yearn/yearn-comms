@@ -1,7 +1,7 @@
 ---
 title:  "Yearn Dai Vault - wusstest du, dass es jetzt ein Top 20 DeFi Protokoll ist?"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 1280
   height: 800
 date: '2021-06-01'
@@ -11,7 +11,7 @@ translator: Nesyeth
 
 Wenn du auf die [Yearn Website](https://yearn.finance/vaults)  gehst, siehst eine Liste von fast 50 Krypto-Vaults, wobei der [SNX vault](https://twitter.com/iearnfinance/status/1395413780012666881) der Jüngste ist. Auf [Einzahlung deiner Kryptowährung](https://docs.yearn.finance/resources/guides/how-to-participate-in-a-yvault) kannst du in einen der Vaults von Yearn einzahlen. Dann beginnt das Protokoll, einen Ertrag für dich zu generieren.
 
-![](image1.png?w=588&h=257)
+![](image1.jpg?w=588&h=257)
 
 Obwohl es in der Mitte der Liste versteckt ist, hat sich der Dai-Vault von Yearn zu einem der Top 20 DeFi-Protokolle gemausert:
 
@@ -31,7 +31,7 @@ Der Dai-Vault von Yearn wird auch "Dai v2-Vault" und "yvDai" genannt, wobei yvDa
 
 Anders als im traditionellen Finanzwesen, wo die Einleger als billige Finanzierungsquelle behandelt werden, stehen die Einleger bei Yearn an erster Stelle. Dies ist einer der Gründe, warum die TVL seit ihrer Gründung rasch gestiegen ist.
 
-![](image2.png?w=505&h=224)
+![](image2.jpg?w=505&h=224)
 
 [Gesamtwert, der im Yearn-Ökosystem gebunden ist - Grafana](https://yearn.vision/?refresh=1m)
 
@@ -43,7 +43,7 @@ Yearn erzielt Einnahmen aus [2% jährlicher Verwaltungsgebühr und 20% erfolgsab
 
 Allein die Nettoeinnahmen aus dem Dai-Vault sind explosionsartig gestiegen, von unter 10.000 USD im Januar auf über 1,7 Mio. USD im Mai.
 
-![](image3.png?w=491&h=308)
+![](image3.jpg?w=491&h=308)
 
 Zahlen aus [https://twitter.com/Bob_The_Buidler](https://twitter.com/Bob_The_Buidler)
 
@@ -73,7 +73,7 @@ Besicherte Kredite sind in der Regel der größte Posten in der Bilanz von Banke
 
 Die HSBC gibt nicht bekannt, wie viele ihrer 226.059 Mitarbeiter für die Aktualisierung der Zinssätze zuständig sind, aber bei DeFi werden die Zinssätze nach einer Formel festgelegt, die von den Token-Inhabern der Kreditprotokolle gewählt wird. Die Grafik unten zeigt, wie Compound Finance den Zinssatz für Dai in Abhängigkeit von der Auslastungsquote festlegt.
 
-![](image4.png?w=591&h=321)
+![](image4.jpg?w=591&h=321)
 
 [https://compound.finance/governance/proposals/18](https://compound.finance/governance/proposals/18)
 
@@ -136,7 +136,7 @@ Yearn hat jetzt [30 Vollzeitbeteiligte](https://twitter.com/bantg/status/1395115
 
 Die nachstehende Grafik zeigt, dass die Strategen bis Anfang Mai über 5 Mio. $ verdient haben (in allen Vaults, nicht nur bei Dai).
 
-![](image5.png?w=602&h=401)
+![](image5.jpg?w=602&h=401)
 
 y-Achse ist in $m (Quelle: [https://twitter.com/bantg](https://twitter.com/bantg))
 
@@ -144,7 +144,7 @@ y-Achse ist in $m (Quelle: [https://twitter.com/bantg](https://twitter.com/bantg
 
 Die größten Einleger sind nicht Menschen, sondern andere Protokolle.
 
-![](image6.png?w=502&h=240)
+![](image6.jpg?w=502&h=240)
 
 Alchemix ist führend bei Einlagen im Dai-Vault
 

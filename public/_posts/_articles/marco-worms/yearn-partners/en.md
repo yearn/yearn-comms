@@ -33,7 +33,7 @@ An overview of Abracadabra would be:
 1. User deposits wETH (wrapped Ethereum, same as Ethereum) into a yVault, receives yvWETH
 2. User deposits yvWETH on Abracadaba as collateral, Abracadabra allows the user to mint a percentage of their collateral as a dollar stablecoin called Magic Internet Money (MIM)
 
-![](./image1.png?w=633&h=527)\
+![](./image1.jpg?w=633&h=527)\
 *[Abracadabra](http://abracadabra.money/) “borrow” interface*
 
 When the user mints MIM the collateral deposited gets locked until the MIM borrowed is paid back
@@ -65,12 +65,12 @@ Partners earn a share of fees based on the TVL they contribute to the vaults, yo
 
 **Earn Sections:** pages that provide an alternative front for users to deposit their assets into yVaults. A good example of Earn section can be found on [ShapeShift](https://shapeshift.com/), their contract to deposit the assets in Yearn Vaults is [open-sourced on GitHub](https://github.com/shapeshift/yearn-router).
 
-![](./image3.png?w=750&h=554)\
+![](./image3.jpg?w=750&h=554)\
 *[ShapeShift](https://shapeshift.com/) earn section*
 
 **Wallets**: partners provide Yearn yield generating options inside their ecosystem using yVaults. The [SteakWallet](https://www.steakwallet.fi/) is a good example of a wallet service that integrates with Yearn:
 
-![](./image4.png?w=363&h=681)\
+![](./image4.jpg?w=363&h=681)\
 *[SteakWallet](https://www.steakwallet.fi/) interface*
 
 ## Resources to become a partner

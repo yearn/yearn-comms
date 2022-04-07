@@ -54,6 +54,7 @@ export async function getStaticProps({locale}) {
 	return {
 		props: {
 			allPosts: {
+				all: _allPosts,
 				col1,
 				col2,
 				col3,

@@ -1,7 +1,7 @@
 ---
 title:  "Por qué las auditorías son malas"
 image:
-  src: ./andre-hero.png
+  src: ./andre-hero.jpg
   width: 700
   height: 300
 date: '2021-08-03'
@@ -17,7 +17,7 @@ Hoy en día, verá que se solicitan auditorías, no para ser revisadas, sino sim
 
 Usemos Fixed Forex como ejemplo, "¿Se audita el proyecto?" \[Sí\], y aquí está la [auditoría](https://github.com/andrecronje/fixed-forex-audit/blob/main/PeckShield-Audit-Report-ERC20-ibEUR-v1.0.pdf) . Es posible que incluso hayas abierto el enlace y luego hayas bajado hasta los hallazgos;
 
-![](1.png?w=935&h=581)
+![](1.jpg?w=935&h=581)
 
 Genial, ¿verdad? 1 bajo y 1 informativo. Pero ahora veámoslo contextualmente, esto es esencialmente un contrato ERC20, y si bien muestra que ibEUR y los activos ib posteriores son una implementación ERC20 simple, ¿qué pasa con el resto del ecosistema?
 

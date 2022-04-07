@@ -1,7 +1,7 @@
 ---
 title:  "The Blue Pill"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 711
   height: 474
 date: '2021-06-01'
@@ -25,7 +25,7 @@ A collective of builders who value collaboration over competition and integrity 
 
 Today, just 12 months later, we honor the makers, doers, builders and believers, with the release of a book:
 
-![](image1.png?w=1400&h=787)
+![](image1.jpg?w=1400&h=787)
 The Blue Pill: A spiritual guide for the past, present, and future of Yearn.
 
 Its pages document the origin story of Yearn and lay out a crude map for where we go next.
@@ -34,7 +34,7 @@ Yearn is reimagining and rebuilding finance, but it’s also reimagining and reb
 
 The book is an invitation for you to join us in the land of infinite possibilities and contribute to the journey ahead.
 
-![](image2.png?w=700&h=700)
+![](image2.jpg?w=700&h=700)
 
 To honor the legends who participated in Yearn during Year One, we’ve worked with artist [@ZemmNFT](https://twitter.com/Zemm_NFT) to create [a series of legendary and rare NFTs](https://galaxy.eco/yearn) that grant online access to the book.
 

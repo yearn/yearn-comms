@@ -83,7 +83,7 @@ https://gov.yearn.finance/t/yip-61-governance-2-0/10460
 ##### 15
 Gov 2.0 veya kısıtlı yetkilendirme, kararları anlamakla başlar. Bir DAO'nun yüzlerce farklı karar vermesi gerekir. Gov 2.0, zincirleme, kapılı kararlarla ilgilenir. Ancak bu eksenlerin ötesinde ayrıca dikkate almamız gerekenler: zaman ölçeği, etki, güvenlik, topluluk, etki alanı...
 
-![](./7.png?w=1450&h=496)
+![](./7.jpg?w=1450&h=496)
 
 ##### 16
 Tüm bu tür aletleri Yearn'de tamamen ihtiyaçtan icat etmek zorunda kaldık. Kaostan doğduk. Geri adım atılacak süreçleri olan bir kuruluş, hiçbir şirket yok. [@AndreCronjeTech](https://twitter.com/AndreCronjeTech) $YFI cinsinden 1 Milyar Dolar verdi ve bu olaydan gelen enflasyon alanı dünyamızı oluşturdu. Bum.
@@ -99,7 +99,7 @@ Wilber, bu bilim adamlarının öncülük ettiği insani gelişme haritalarını
 ##### 19
 [@fred_laloux](https://twitter.com/fred_laloux) Wilber'in haritasını alıp, eşsiz “Reinventing Organisations” adlı çalışmasını çalıştığı şirketlere uyguladı.DAO'ların geleceğimizin mavi gökyüzüne doğru ağaçlar gibi büyüme potansiyeline sahip olmaları, öyle olacakları anlamına gelmez. Doğru işletim sistemine ihtiyaçları var.
 
-![](./9.png?w=360&h=162)
+![](./9.jpg?w=360&h=162)
 
 ##### 20
 Teal, yaşamlarında sorumluluk alan egemen insanlardan oluşan kuruluşlar için bir işletim sistemidir; öz-yönetim, bütünlük ve evrimsel amaca dayalıdır. Günümüzün büyük şirketlerinin makineler gibi olduğu yerde, Teal org'lar biyoloji gibidir.

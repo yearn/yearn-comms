@@ -1,7 +1,7 @@
 ---
 title:  "Clarifying 2020 Mergers; An Independent Iron Bank"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 1280
   height: 800
 date: '2022-02-25'
@@ -9,7 +9,7 @@ author: Weaver
 translator:
 ---
 
-![](cover.png?w=800&h=450)
+![](cover.jpg?w=800&h=450)
 
 In late 2020 Yearn Finance announced several “mergers” with the goal of bringing leading DeFi projects together, creating an ecosystem focused on critical infrastructure: AMM (SushiSwap), Lending (C.R.E.A.M. Finance), Institutional support (Akropolis), and Yield Management (Pickle Finance).
 

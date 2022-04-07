@@ -1,7 +1,7 @@
 ---
 title:  "Dai Vault de Yearn - você sabia que agora ele é um dos 20 principais protocolos DeFi?"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 1280
   height: 800
 date: '2021-06-01'
@@ -13,7 +13,7 @@ translator: JKtranslator
 
 Se você for ao [site de Yearn](https://yearn.finance/vaults), verá uma lista de quase 50 vaults de criptoativos, com o [vault SNX](https://twitter.com/iearnfinance/status/1395413780012666881) sendo o mais recente. Ao [depositar seu cripto](https://docs.yearn.finance/resources/guides/how-to-participate-in-a-yvault) em um dos vaults de Yearn, o protocolo começará a gerar um rendimento para você.
 
-![](image1.png?w=588&h=257)
+![](image1.jpg?w=588&h=257)
 
 Embora esteja escondido no meio da lista, o vault Dai de Yearn se tornou um dos 20 principais protocolos DeFi por seus próprios méritos:
 
@@ -33,7 +33,7 @@ O vault Dai de Yearn também é chamado de 'vault Dai v2' e 'yvDai', onde yvDai 
 
 Ao contrário do mercado financeiro tradicional, onde os depositantes são tratados como uma fonte barata de financiamento, os depositantes vêm em primeiro lugar na Yearn. Esta é uma das razões pelas quais o TVL cresceu rapidamente desde o seu início.
 
-![](image2.png?w=505&h=224)
+![](image2.jpg?w=505&h=224)
 
 [Valor total bloqueado no Ecossistema Yearn - Grafana](https://yearn.vision/?refresh=1m)
 
@@ -45,7 +45,7 @@ Yearn obtém receita de [2% da taxa de gerenciamento anual e 20% de taxas de des
 
 O lucro líquido do vault Dai sozinho mostrou um crescimento explosivo de menos de US$ 10 mil em janeiro para mais de US$ 1,7 milhão em maio.
 
-![](image3.png?w=491&h=308)
+![](image3.jpg?w=491&h=308)
 
 Números de [https://twitter.com/Bob_The_Buidler](https://twitter.com/Bob_The_Buidler)
 
@@ -75,7 +75,7 @@ Empréstimos garantidos são geralmente o maior item de balanço de bancos, por 
 
 O HSBC não divulga quantos de seus 226.059 funcionários são obrigados a manter as taxas de juros atualizadas, mas no DeFi as taxas de juros são definidas de acordo com uma fórmula escolhida pelos detentores de tokens dos protocolos de empréstimo. O gráfico abaixo mostra como a Compound Finance define que a taxa de juros para a Dai como dependente da taxa de utilização.
 
-![](image4.png?w=591&h=321)
+![](image4.jpg?w=591&h=321)
 
 [https://compound.finance/governance/proposals/18](https://compound.finance/governance/proposals/18)
 
@@ -138,7 +138,7 @@ Yearn agora tem [30 colaboradores em tempo integral](https://twitter.com/bantg/s
 
 O gráfico abaixo mostra como os estrategistas ganharam mais de US$ 5 milhões no início de maio (em todos os vaults, não apenas no Dai).
 
-![](image5.png?w=602&h=401)
+![](image5.jpg?w=602&h=401)
 
 o eixo y está em $m (fonte: [https://twitter.com/bantg](https://twitter.com/bantg))
 
@@ -146,7 +146,7 @@ o eixo y está em $m (fonte: [https://twitter.com/bantg](https://twitter.com/ban
 
 Os maiores depositantes não são pessoas, são outros protocolos.
 
-![](image6.png?w=502&h=240)
+![](image6.jpg?w=502&h=240)
 
 Alchemix está liderando o caminho em depósitos no vault Dai
 

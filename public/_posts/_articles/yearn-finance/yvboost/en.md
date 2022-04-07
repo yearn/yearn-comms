@@ -1,7 +1,7 @@
 ---
 title:  "More boosts, compounding, and mojitos for you with yvBOOST"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 1050
   height: 543
 date: '2021-09-14'
@@ -19,7 +19,7 @@ _post written by Yearn contributor_ [_qosmonot_](http://twitter.com/qosmonot)
 
 Many Yearn vaults have strategies built on Curve pools and therefore use CRV token to optimize them by voting to direct reward allocations towards those pools. Yearn has been steadily growing its stack of CRV tokens to provide increasing rewards for those vaults.
 
-![](image1.png?w=1050&h=651)
+![](image1.jpg?w=1050&h=651)
 
 Anyone can benefit from this by choosing to stake their CRV tokens through Yearn. Let us walk you through what Yearn can offer you and how you too can grow your CRV holdings with a boost!
 
@@ -96,4 +96,4 @@ Yearn’s work to automate the yield generation and rebalancing of your crypto a
 
 In our next post, we’ll cover keepCRV and the processes for bribes and EPS. Until then…
 
-![](image4.png?w=1050&h=543)
+![](image4.jpg?w=1050&h=543)

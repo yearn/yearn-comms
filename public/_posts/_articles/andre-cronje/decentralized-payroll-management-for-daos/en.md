@@ -1,7 +1,7 @@
 ---
 title:  "Decentralized payroll management for DAOs"
 image:
-  src: ./andre-hero.png
+  src: ./andre-hero.jpg
   width: 700
   height: 300
 date: '2021-03-31'

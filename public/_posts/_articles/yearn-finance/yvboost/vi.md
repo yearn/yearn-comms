@@ -1,7 +1,7 @@
 ---
 title:  "Thêm hệ số kích, lãi kép và mô-hi-tô cho bạn với yvBOOST"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 1050
   height: 543
 date: '2021-09-14'
@@ -19,7 +19,7 @@ _Bài viết được biên tập bởi cộng tác viên [_qosmonot_](http://tw
 
 Nhiều kho bạc Yearn dùng chiến lược dựa trên các bể góp vốn của Curve (`Curve pool`). Do đó, chúng sử dụng tôken CRV để tối ưu hóa hoa lợi bằng cách biểu quyết, định hướng phân bổ phần thưởng vào bể vốn tương ứng. Yearn đã và đang tích lũy khối tôken CRV nhằm tăng cường phần thưởng cho Kho bạc (`Vault`) của chính mình.
 
-![](image1.png?w=1050&h=651)
+![](image1.jpg?w=1050&h=651)
 
 Bất cứ ai cũng có thể hưởng lợi từ việc trên bằng cách "cọc" (`stake`) tôken CRV của mình qua Yearn. Hãy cùng điểm qua những ưu thế mà Yearn có thể giúp bạn tăng lượng CRV cho bản thân với cơ chế kích thưởng!
 
@@ -96,4 +96,4 @@ Lợi ích mà Yearn cung cấp qua việc tự động hóa quá trình tạo h
 
 Trong bài tiếp theo, chúng tôi sẽ đề cập đến keepCRV và các quy trình để "lót tay" (`bribe`) cũng như EPS. Hôm nay đến đây là hết…
 
-![](image4.png?w=1050&h=543)
+![](image4.jpg?w=1050&h=543)

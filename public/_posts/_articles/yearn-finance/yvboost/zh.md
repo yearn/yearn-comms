@@ -1,7 +1,7 @@
 ---
 title:  "yvBOOST为您提供更多boost、复利和Mojito"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 1050
   height: 543
 date: '2021-09-14'
@@ -20,7 +20,7 @@ _由Yearn贡献者_ [_qosmonot_](http://twitter.com/qosmonot)撰写的帖子
 
 许多Yearn机枪池都有建立在Curve池上的策略，因此Yearn使用CRV代币通过投票将奖励直接分配给这些池来优化它们。Yearn一直在稳步增加其CRV代币堆栈，为这些机枪池提供越来越多的奖励。
 
-![](image1.png?w=1050&h=651)
+![](image1.jpg?w=1050&h=651)
 
 任何人都可以选择通过Yearn质押他们的CRV代币而从中受益。让我们带您了解Yearn可以为您提供的服务，以及您可以如何快速增加CRV持有量!
 
@@ -97,4 +97,4 @@ Yearn自动生成收益和再平衡您的加密资产的工作，在您持有CRV
 
 在我们的下一篇文章中，我们将介绍keepCRV，bribes和EPS的流程。敬请期待…
 
-![](image4.png?w=1050&h=543)
+![](image4.jpg?w=1050&h=543)

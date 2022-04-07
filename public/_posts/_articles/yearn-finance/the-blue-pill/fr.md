@@ -1,7 +1,7 @@
 ---
 title:  "The Blue Pill"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 711
   height: 474
 date: '2021-06-01'
@@ -25,7 +25,7 @@ Un collectif de constructeurs qui valorisent la collaboration plutôt que la con
 
 Aujourd'hui, à peine 12 mois plus tard, nous honorons les artisans, les faiseurs, les constructeurs et les croyants, avec la sortie d'un livre :
 
-![](image1.png?w=1400&h=787)
+![](image1.jpg?w=1400&h=787)
 
 Ses pages documentent l'histoire originelle de Yearn et présentent une vague ébauche des prochaines étapes.
 
@@ -33,7 +33,7 @@ Yearn réinvente et reconstruit la finance, mais il ré-imagine et reconstruit �
 
 Ce livre est une invitation à nous rejoindre au pays des possibilités infinies et à contribuer au voyage à venir.
 
-![](image2.png?w=700&h=700)
+![](image2.jpg?w=700&h=700)
 
 
 Pour honorer les légendes qui ont participé au succès de Yearn lors de cette première année, nous avons travaillé avec l'artiste  [@ZemmNFT](https://twitter.com/Zemm_NFT) pour créer [une série de NFT légendaires et rares](https://galaxy.eco/yearn)  qui permette d’accéder a une version en ligne de ce livre.

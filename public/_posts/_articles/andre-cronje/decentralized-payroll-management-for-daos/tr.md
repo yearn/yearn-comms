@@ -1,7 +1,7 @@
 ---
 title:  "DAO'lar için merkezi olmayan bordro yönetimi"
 image:
-  src: ./andre-hero.png
+  src: ./andre-hero.jpg
   width: 700
   height: 300
 author: Andre

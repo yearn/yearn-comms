@@ -1,6 +1,6 @@
 ---
 title:  "Faire Markteinführungen, dezentrale Zusammenarbeit und feste Devisen"
-image: ./Fair-launches-decentralized-collaboration-and-Fixed-Forex/andre-hero.png
+image: ./Fair-launches-decentralized-collaboration-and-Fixed-Forex/andre-hero.jpg
 author: Andre
 translator: Nesyeth
 ---
@@ -44,11 +44,11 @@ Feste Devisen ist der Sammelname für USD, EUR, ZAR, JPY, CNY, AUD, AED, CAD, IN
 
 Die erste verfügbare Option ist [ibEUR](https://www.coingecko.com/en/coins/iron-bank-euro), die über [yearn.fi/lend](https://yearn.fi/lend) gemintet werden kann.
 
-![](image2.png?w=700&h=194)
+![](image2.jpg?w=700&h=194)
 
 Alle Devisen-Optionen können über eine der akzeptierten Sicherheiten auf [yearn.fi](https://yearn.fi/lend) gemintet werden.
 
-![](image3.png?w=645&h=874)
+![](image3.jpg?w=645&h=874)
 
 Die aktuellen Sicherheitenfaktoren findest du in der Iron Bank-Dokumentation, [hier](https://docs.cream.finance/iron-bank/collateral-and-reserve-factor)
 
@@ -57,7 +57,7 @@ Jedes Devisenpaar wird auf 2 Liquiditätspools ausgerichtet;
 ib\*/\* ([curve.fi](https://curve.fi/))  
 ib\*/ETH ([sushi.com](https://sushi.com/))
 
-![](image4.png?w=700&h=243)
+![](image4.jpg?w=700&h=243)
 
 Für jeden Vermögenswert stehen den Liquiditätsanbietern vier Renditeoptionen zur Verfügung;
 

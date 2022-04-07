@@ -21,7 +21,7 @@ Just checked out the old [@iearnfinance](https://twitter.com/iearnfinance) staki
 
 Almost $29m in staked LPs, YFI, and claimable rewards :point_down:
 
-![](image1.png?w=1187&h=1177)
+![](image1.jpg?w=1187&h=1177)
 
 ##### 2
 
@@ -40,7 +40,7 @@ Head to https://etherscan.io, and enter one of the following addresses:
 
 Under Contract, click Read Contract, and put in your address under balanceOf 👀
 
-![](image2.png?w=1162&h=820)
+![](image2.jpg?w=1162&h=820)
 
 ##### 4
 
@@ -48,7 +48,7 @@ If a value >0 shows up, then congrats, you have YFI and/or rewards to claim! :pa
 
 To claim all of your staked assets and rewards, head over to Write Contract, connect your wallet, and call exit().
 
-![](image3.png?w=1018&h=694)
+![](image3.jpg?w=1018&h=694)
 
 ##### 5
 

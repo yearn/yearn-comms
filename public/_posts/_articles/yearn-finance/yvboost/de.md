@@ -1,7 +1,7 @@
 ---
 title:  "Mehr Boosts, Compounding und Mojitos mit yvBOOST für dich"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 1050
   height: 543
 date: '2021-09-14'
@@ -19,7 +19,7 @@ _Artikel geschrieben von Yearn-Mitarbeiter_ [_qosmonot_](http://twitter.com/qosm
 
 Viele Vaults von Yearn haben Strategien, die auf Curve-Pools aufbauen, und verwenden daher CRV-Token, um sie zu optimieren, indem sie über die Zuteilung von Rewards zu diesen Pools abstimmen. Yearn hat seinen Stapel an CRV-Tokens stetig vergrößert, um die Belohnungen für diese Vaults zu erhöhen.
 
-![](image1.png?w=1050&h=651)
+![](image1.jpg?w=1050&h=651)
 
 Jeder kann davon profitieren, indem er sich entscheidet, seine CRV-Token über Yearn einzusetzen. Lass dir von uns erklären, was Yearn dir bieten kann und wie auch du deine CRV-Bestände mit einem Schub vergrößern kannst!
 
@@ -96,4 +96,4 @@ Yearns Arbeit, die Renditegenerierung und das Rebalancing deiner Kryptoanlagen z
 
 In unserem nächsten Beitrag werden wir uns mit keepCRV und den Prozessen für Bestechungsgelder und EPS befassen. Bis dahin…
 
-![](image4.png?w=1050&h=543)
+![](image4.jpg?w=1050&h=543)

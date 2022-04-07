@@ -1,7 +1,7 @@
 ---
 title: "Meine ersten Eindrücke als Mitarbeiterin bei Yearn"
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 1281
   height: 721
 date: '2022-02-25'
@@ -9,7 +9,7 @@ author: Kish
 translator: " Delace19"
 ---
 
-![](cover.png?w=800&h=450)
+![](cover.jpg?w=800&h=450)
 
 Originalveröffentlichung: [Coinmonks Medium](https://medium.com/coinmonks/my-first-impressions-of-being-a-contributor-at-yearn-e154743b9cd5)
 
