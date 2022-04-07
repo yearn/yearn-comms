@@ -12,7 +12,7 @@ translator: Dastronom
 Yearn'in Tenderly ile ortaklık ilan ettiği [makalede](https://medium.com/iearn/yearn-finance-partners-with-tenderly-to-supercharge-development-debugging-incident-analysis-6489260298a5), bahsettiğimiz bir bölüm vardı:
 
 > "Tenderly, acemi kullanıcıların bile neredeyse her zincirleme olayda uyarı oluşturmasına olanak tanıyan yerleşik özelleştirilebilir uyarılara sahiptir."
-
+>
 
 Bir Yearn katılımcısı bu konuda daha fazla bilgi edinmek için iletişime geçti ve bence bu özelliği sergilemek için harika bir fırsat! Ethereum Mainnet'in yanı sıra Tenderly ile hangi ağları kullanabileceğimize bir göz atarak başlayalım:
 
@@ -36,7 +36,7 @@ Test için bu bir sorun değildir, bu nedenle ücretsiz sürüme devam edebilirs
 *Uyarı oluştur*
 
 - **Uyarı Türü**, bir bildirim tetiklemesi için zincirleme bir olay için ayarladığımız koşullar olacaktır:
-- 
+
 - ![](./image4.jpg?w=1437&h=413)\
 *tüm Uyarı Türleri*
 
@@ -160,4 +160,5 @@ Bu Yearn örneği, bir sözleşmenin işlev çağrısını izlemenin basit bir y
 - Tokenomics akışlarını izleyen kişiler, geliştiricilerin yapılması gerekenleri yapıp yapmadığını görmek için cüzdan bakiyelerine ve sözleşmelerdeki eylemlere göz kulak olmak için bildirimleri kullanabilir
 
 Her türlü zincirleme etkinliği izleyebilir ve bundan haberdar olabilirsiniz, bu nedenle tüm farklı seçenekleri deneyin!
+
 Prodüktörler: [Worms](https://twitter.com/MarcoWorms), Eleştirmenler: [Cryptouf](https://twitter.com/cryptouf), [Dark Ghosty](https://github.com/DarkGhost7)
