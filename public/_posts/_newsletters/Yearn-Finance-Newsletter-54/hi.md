@@ -8,7 +8,7 @@ image:
   height: 576
 author: Yearn
 date: '2022-01-20'
-translator:
+translator: ursamajor
 ---
 
 ### १६ जनवरी, २०२२ को समाप्त होने वाला सप्ताह
