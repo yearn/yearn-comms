@@ -1,7 +1,7 @@
 ---
 title:  "Δίκαια λανσαρίσματα, αποκεντρωμένη συνεργασία και το Fixed Forex"
 image:
-  src: ./andre-hero.png
+  src: ./andre-hero.jpg
   width: 700
   height: 300
 date: '2021-07-21'
@@ -49,11 +49,11 @@ translator: Stathis
 
 Η πρώτη διαθέσιμη επιλογή είναι το [ibEUR](https://www.coingecko.com/en/coins/iron-bank-euro) το οποίο μπορεί να "κοπέι" μέσω του [yearn.fi/lend](https://yearn.fi/lend)
 
-![](image2.png?w=700&h=194)
+![](image2.jpg?w=700&h=194)
 
 Όλες οι επιλογές forex μπορούν να "κοπούν" μέσω οποιασδήποτε από τις αποδεκτές εξασφαλίσεις στο [yearn.fi](https://yearn.fi/lend)
 
-![](image3.png?w=645&h=874)
+![](image3.jpg?w=645&h=874)
 
 Για ενημερωμένους παράγοντες εξασφάλισης, μπορείτε να επισκεφθείτε τα έγγραφα του Iron Bank, [εδώ](https://docs.cream.finance/iron-bank/collateral-and-reserve-factor)
 
@@ -62,7 +62,7 @@ translator: Stathis
 ib\*/\* ([curve.fi](https://curve.fi/))  
 ib\*/ETH ([sushi.com](https://sushi.com/))
 
-![](image4.png?w=700&h=243)
+![](image4.jpg?w=700&h=243)
 
 Για κάθε περιουσιακό στοιχείο, οι πάροχοι ρευστότητας θα έχουν τέσσερις διαθέσιμες επιλογές απόδοσης;
 
