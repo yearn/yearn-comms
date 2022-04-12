@@ -19,7 +19,7 @@ orjinal makale: [Yearn.Finance Engineering](https://mirror.xyz/yearn-finance-eng
 
 Gnosis Safe mükemmel bir üründür, Ethereum genelinde protokol ekibine çoklu imza için oybirliğiyle seçim hakkı verir. Ancak, MEV koruması söz konusu olduğunda, sahipler tarafından önemsenmeden, gizlenen birkaç tehdit vardır:
 
-1. 3. taraf yürütücü tehdidi
+1. 3. taraf Executor tehdidi
 2. Genel mempool tehdidi
 3. Uncled blok tehdidi
 
@@ -27,7 +27,7 @@ Günlük olarak gerçekleşen büyük miktarda takas (bazı günler 1.000.000 do
 
 Bu gönderi, kasanızla etkileşimi savunmasız hale getirebilecek bu 3 tehdidin tümünü çözmeyi amaçlayan yeni geliştirilmiş bir koruma olan "**Stealth Safe Guard**"ı sunar.
 
-## 3. Taraf Yürütücü Tehdidi
+## 3. Taraf Executor Tehdidi 
 
 ### Problem tanımı:
 
@@ -43,9 +43,9 @@ Gnosis Safe >=1.3.0, kasanın yalnızca kullanıcı tanımlı güvenilir adresle
 
 ### Problem tanımı:
 
-Mempool üzerinden güvenli işlemler yürütmek, herkese açık yukarıda belirtilen tehdidin aynısını açar, herkes tx'i görebilir ve MEV'yi ondan alacak bir flashbot paketini hızlı bir şekilde oluşturabilir.
+Mempool üzerinden güvenli işlemler yürütmek, herkese açık yukarıda belirtilen tehdidin aynısını açar, herkes tx'i görebilir ve MEV'yi ondan alacak bir flashbot paketini hızlı bir şekilde oluşturabilir. Amir
 
-### çözüm
+### Çözüm
 
 [StealthSafeGuard](https://github.com/yearn/hardhat-monorepo/blob/main/packages/strategies-keep3r/contracts/guard/StealthSafeGuard.sol), yürütücülerin [StealthRelayer](https://github.com/yearn/hardhat-monorepo/blob/main/packages/stealth-txs/contracts/StealthRelayer.sol) sözleşmesine uymasını gerektirir, tx'i gören ve gizli hash'ini bildiren herkese bağlı bir ödül ekleyerek tx'lerin genel mempool'a girmesine karşı koruma sağlayan tx, daha sonra yürütmez ve cezayı uygulayıcıdan alır. Tenderly ekibi sayesinde, bu tür tx'leri arayan ve bunları hemen rapor edecek ve madenciye tam yürütme cezasını ödeyecek bir dizi otomatik komut dosyasına sahibiz.
 
@@ -76,24 +76,24 @@ Bu, **StealthSafeGuard** üzerindeki "msg.sender"ın bizim **StealthRelayer** ve
 
 **StealthSafeGuard** aşağıdaki komut dosyasıyla kolayca dağıtılabilir: [/guard/00-stealth-safe-guard-deploy.ts](https://github.com/yearn/hardhat-monorepo/blob/main/packages/strategies-keep3r/scripts/guard/00-stealth-safe-guard-deploy.ts)
 
-[utils/contracts.ts](https://github.com/yearn/strategies-keep3r/blob/main/utils/contracts.ts#L73) dosyasında `StealthRelayer` adresinizi doğru şekilde ayarlamayı ve doğru şekilde ayarlamayı unutmayın. `msg.sender` `Owner`rolünü alacağından, `Manager` rolü olarak atanacak olan güvenli adresinizi girin.
+[utils/contracts.ts](https://github.com/yearn/strategies-keep3r/blob/main/utils/contracts.ts#L73) dosyasında `StealthRelayer` adresinizi doğru şekilde ayarlamayı ve doğru şekilde ayarlamayı unutmayın. `msg.sender` `Owner` rolünü alacağından, `Manager` rolü olarak atanacak olan güvenli adresinizi girin.
 
-### Proje Uygulayıcı
+### Executor
 
-Güvenli işlemleri yürütmek için kullanacağınız hesapların, **StealthRelayer** aracılığıyla düzgün bir şekilde yürütülebilmesi için bazı ETH'leri [StealthVault](https://github.com/yearn/hardhat-monorepo/blob/main/packages/stealth-txs/contracts/StealthVault.sol)'a bağlamak da dahil olmak üzere birkaç işlem gerçekleştirmesi gerekecektir. Bunun yanı sıra, **StealthSafeGuard**'ın *Amir* veya *Yöneticisi*'nin bu hesapları yürütücü olarak eklemesi gerekir. Bunun nasıl gerçekleştirileceğini sözleşme etkileşimlerini kontrol ederek öğrenebiliriz. *Yürütücünün* özel anahtarı aşağıdaki komut dosyalarında da kullanılacaktır.
+Güvenli işlemleri yürütmek için kullanacağınız hesapların, **StealthRelayer** aracılığıyla düzgün bir şekilde yürütülebilmesi için bazı ETH'leri [StealthVault](https://github.com/yearn/hardhat-monorepo/blob/main/packages/stealth-txs/contracts/StealthVault.sol)'a bağlamak da dahil olmak üzere birkaç işlem gerçekleştirmesi gerekecektir. Bunun yanı sıra, **StealthSafeGuard**'ın *Governor* veya *Manager*'nin bu hesapları executor olarak eklemesi gerekir. Bunun nasıl gerçekleştirileceğini sözleşme etkileşimlerini kontrol ederek öğrenebiliriz. *Executor'un* özel anahtarı aşağıdaki komut dosyalarında da kullanılacaktır.
 
 ### Sözleşme etkileşimleri
 
-- *Yürütücünün* `bond(1 ether)` çağırması gerekiyor
-- Yürütücü tahvillerini ve StealthHash'i doğrulamak için **StealthRelayer** tarafından kullanılır
-- *Yürütücünün* bir `StealthVault.job` olarak `StealthRelayer`'ı etkinleştirmesi gerekiyor
+- Executor'un `bond(1 ether)` çağırması gerekiyor
+- Executor tahvillerini ve StealthHash'i doğrulamak için **StealthRelayer** tarafından kullanılır
+- Executor'un bir `StealthVault.job` olarak `StealthRelayer`'ı etkinleştirmesi gerekiyor
 
 ### StealthRelayer
 
-- *Amir* `.addJob(GnosisSafeAddress)`'i çağırmalı
-- *Amir* `setForceBlockProtection(bool)` çağırarak blok korumasını devre dışı bırakabilir
+- *Governor* `.addJob(GnosisSafeAddress)`'i çağırmalı
+- *Governor* `setForceBlockProtection(bool)` çağırarak blok korumasını devre dışı bırakabilir
     - flashbot'ların desteklenmediği zincirler için blok koruması devre dışı bırakılmalıdır
-- *Yürütücü* daha sonra bir flashbot paketi kullanarak `execute(GnosisSafeAddress, data, stealthHash, blockNumber)` çağırabilir
+- *Executor* daha sonra bir flashbot paketi kullanarak `execute(GnosisSafeAddress, data, stealthHash, blockNumber)` çağırabilir
     - veya flashbot olmayan zincirlerde `executeWithoutBlockProtection(GnosisSafeAddress, data, stealthHash)`
 
 ### GnosisSafe
@@ -103,8 +103,8 @@ Güvenli işlemleri yürütmek için kullanacağınız hesapların, **StealthRel
 
 ### StealthSafeGuard
 
-- *Amir* `addExecutor(executor)` çağırmalıdır
-- *Amir*, brick olması durumunda tüm koruma kontrollerini devre dışı bırakmak için `setOverrideGuardChecks(true)` çağırabilir
+- *Governor* `addExecutor(executor)` çağırmalıdır
+- *Governor*, brick olması durumunda tüm koruma kontrollerini devre dışı bırakmak için `setOverrideGuardChecks(true)` çağırabilir
 
 ## Sorun Giderme ve Korumalar
 
@@ -113,7 +113,7 @@ Vault'a bir koruma eklemek son derece hassas bir işlemdir, çünkü kasanızı 
 **StealthSafeGuard**, kasanızdan asla kilitlenmemenizi sağlayan birkaç korumaya sahiptir.
 
 1. **StealthSafeGuard**'ın sahibi, koruduğu kasa ile aynı OLMAMALIDIR
-     1. bunun yerine kasayı yönetici rolü olarak ayarlamalısınız.
+     1. bunun yerine kasayı manager rolü olarak ayarlamalısınız.
         1. Owner olarak `StealthSafeGuard.setPendingManager(safe)` (ikinci kasa)
         2. Ana kasa olarak `StealthSafeGuard.acceptManager()`
     2. **StealthSafeGuard** *.owner*, bir sorun olması durumunda tek amacı ana kasayı kurtarmak olan ayrı bir kasa olmalıdır.
@@ -161,7 +161,7 @@ Ardından, ilk kuyruğa alınmış güvenli Tx'i almak için komut dosyasını �
 
 **StealthSafeGuard**, Flashbots, Gnosis ve Yearn ekiplerinin çabaları sayesinde var olmuştur.
 
-- Gnosis takımı koruma sistemini kendi [güvenli sözleşmeler 1.3.0 sürümü](https://github.com/gnosis/safe-contracts/releases/tag/v1.3.0)'ne ekledi
+- Gnosis takımı koruma sistemini kendi [safe-contracts 1.3.0 release](https://github.com/gnosis/safe-contracts/releases/tag/v1.3.0)'ne ekledi
 - Flashbots ekibi, gizli-tx'in güvenli ve doğru bir şekilde yürütülebileceği temeli sağlar
 
 ### Benzer çözümler oluşturmakla ilgileniyor musunuz?
