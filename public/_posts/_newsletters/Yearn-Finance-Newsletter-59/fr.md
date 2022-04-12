@@ -11,9 +11,9 @@ date: '2022-04-06'
 translator: Cryptouf
 ---
 
-### Semaine du 4 Avril, 2022
+### Semaine du 5 Avril, 2022
 
-![](./image1.png?w=1456&h=733)
+![](./image1.jpg?w=1456&h=733)
 
 Bienvenue à la 59e édition de la Newsletter Yearn Finance. Notre objectif avec cette newsletter est de tenir la communauté Yearn, et plus généralement la communauté crypto, au courant des dernières nouvelles, y compris les lancements de produits, les changements de gouvernance et les mises à jour de l’écosystème. Si vous souhaitez en savoir plus sur Yearn Finance, suivez nos comptes [Twitter](https://twitter.com/iearnfinance) et [Medium](https://medium.com/iearn) officiels.
 
@@ -30,7 +30,7 @@ Bienvenue à la 59e édition de la Newsletter Yearn Finance. Notre objectif avec
 
 # Présentation de notre dernier yVault
 
-![](./image2.jpg?w=900&h=473)
+![](./image2.png?w=900&h=473)
 
 Notre nouveau yVault Curve Rocket Pool est dispo et vous pouvez gagner des récompenses de staking ETH avec les 2 côtés de la pool Curve Finance comprenant le Rocket Pool ETH (rETH) et le Lido stETH (wstETH). Étant donné que les deux côtés de la pool sont des jetons ETH de staking liquides, vous gagnerez des récompenses de staking Ethereum, des récompenses $CRV et une partie des frais de négociation de Curve. Yearn récoltera et redéposera automatiquement les récompenses CRV et CVX dans le yVault pour augmenter votre rendement.
 
@@ -90,7 +90,7 @@ La suite dépend de vous.
 
 # Les contributeurs chez Yearn
 
-![](./image6.png?w=800&h=510)
+![](./image6.jpg?w=800&h=510)
 
 Si Yearn valorise une compétence plus qu'une autre, c'est la volonté de faire. Cela est tellement ancré dans la culture de Yearn que nous appelons nos contributeurs les plus actifs  les*Doers*. C'est un nom, mais c'est fondamentalement plus que ça… c'est une philosophie.
 
