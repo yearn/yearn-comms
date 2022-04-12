@@ -13,5 +13,6 @@ translator: Dastronom
 
 [YFI İstatistikleri](https://www.yfistats.com/) bazı yeni panolarla güncellendi. Artık kullanıcıların bu ölçümleri daha iyi görselleştirmelerine yardımcı olmak için EPS airdrop panosundan bir YFI geri alımlarına ve bir CRV'ye sahibiz. Bunlar son zamanlarda en çok istenen özelliklerden bazılarıydı ve şimdi yayında! YFI İstatistiklerinde görmek istediğiniz başka metrikler varsa bize ulaşmaktan çekinmeyin. Aşağıdaki linklerden hemen inceleyebilirsiniz.
 
-YFI Buyback'leri: [https://www.yfistats.com/financials/YFIBuybacks.html](https://www.tokenterminal.com/terminal/projects/yearn-finance) <br>
+YFI Buyback'leri: [https://www.yfistats.com/financials/YFIBuybacks.html](https://www.tokenterminal.com/terminal/projects/yearn-finance)
+
 EPS'den CRV: [https://www.yfistats.com/other/CRVfromEPS.html](https://www.yfistats.com/other/CRVfromEPS.html)
