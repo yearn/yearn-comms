@@ -29,7 +29,7 @@ Welcome to the 60th edition of the Yearn Finance Newsletter. Our aim with this n
 
 # Yearning for Yearn
 
-![](./image2.jpg?w=900&h=501)
+![](./image2.jpg?w=1000&h=563)
 
 A premium report on Yearn from Messari is now available for all. Originally shared with their paying subscribers in November, the piece contains a trove of data and explainers.
 
