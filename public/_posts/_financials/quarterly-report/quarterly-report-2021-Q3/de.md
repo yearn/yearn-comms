@@ -54,7 +54,7 @@ ODER ANDEREN KRYPTOGRAPHISCHEN ODER BLOCKCHAIN-TOKEN.
 
 ## Einführung in Yearn Finance
 
-![](./image1.png?w=1456&h=733)
+![](./image1.jpg?w=1456&h=733)
 
 Yearn Finance ("Yearn") ist das führende Rendite-Aggregator-Protokoll im dezentralen Finanzwesen ("DeFi"), das auf der Ethereum-Blockchain läuft. Das Protokoll startete Anfang 2020 mit dem iEarn-Produkt, das Stablecoins (USDC, USDT, DAI) algorithmisch zwischen verschiedenen Kreditvergabe-Protokollen in DeFi verschiebt, 
 um jederzeit die optimalen Zinssätze zu erhalten. Dieses Produkt ist bekannt als "yPoolon Curve
