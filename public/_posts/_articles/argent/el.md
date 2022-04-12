@@ -8,9 +8,11 @@ date: '2021-08-24'
 author: Argent
 translator: Stathis
 ---
+
 # Κερδίστε εύκολα με το Yearn v2 στο Argent
 
 ![](Image1.jpg?w=2064&h=1080)
+
 Τα θησαυροφυλάκια του Yearn V2 είναι τώρα μόνο ένα πάτημα μακριά στο Argent! Κερδίστε έως και 16,47% καθαρό APY\* με αυτοματοποιημένη παραγωγή απόδοσης. Αυτή βασίζεται στην υπάρχουσα υποστήριξή μας για τα [V1 Vaults](https://www.argent.xyz/blog/yearn-vaults-in-argent/) του Yearn.
 
 ## **Πλεονεκτήματα της χρήσης του Yearn με το Argent**
