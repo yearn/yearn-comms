@@ -1,12 +1,12 @@
 ---
-title:  "Riesgo, herramientas e información"
+title: "Riesgo, herramientas e información"
 image:
   src: ./cover.jpg
   width: 1500
   height: 500
 date: "2021-08-12"
 author: Storm Blessed
-translator:RestlessMik3
+translator: RestlessMik3
 ---
 
 fuente original: [twitter](https://twitter.com/storming0x/status/1436851219864059906)
