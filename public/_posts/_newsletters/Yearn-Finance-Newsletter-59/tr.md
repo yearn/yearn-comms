@@ -13,7 +13,7 @@ translator: Dastronom
 
 ### 5 Nisan 2022'de Sona Eren Hafta
 
-![](./image1.png?w=1456&h=733)
+![](./image1.jpg?w=1456&h=733)
 
 Yearn Finance Bülteninin 59. baskısına hoş geldiniz. Bu bültenle amacımız, Yearn'i ve daha geniş kripto topluluğunu ürün lansmanları, yönetim değişiklikleri ve ekosistem güncellemeleri de dahil olmak üzere en son gelişmelerden haberdar etmektir. Yearn Finance hakkında daha fazla bilgi edinmek istiyorsanız, resmi [Twitter](https://twitter.com/iearnfinance) ve [Medium](https://medium.com/iearn) hesaplarımızı takip edin.
 
@@ -30,7 +30,7 @@ Yearn Finance Bülteninin 59. baskısına hoş geldiniz. Bu bültenle amacımız
 
 # Karşınızda En Yeni ve En Güçlü Vult'umuz
 
-![](./image2.jpg?w=900&h=473)
+![](./image2.png?w=900&h=473)
 
 En yeni Curve Rocket Pool vault'umuz yayında ve bir Curve Finance havuzunun 2 tarafında Rocket Pool ETH (rETH) ve Lido stETH (wstETH) ile ETH stake etme ödülleri kazanabilirsiniz. Havuzun her iki tarafı da likit stake ETH jetonları olduğundan, Ethereum stake ödülleri, $CRV emisyonları ve Curve ticaret ücretleri kazanacaksınız. Yearn, veriminizi artırmak için CRV ve CVX emisyonlarını otomatik olarak toplayıp, vault'a yeniden yatıracaktır.
 
