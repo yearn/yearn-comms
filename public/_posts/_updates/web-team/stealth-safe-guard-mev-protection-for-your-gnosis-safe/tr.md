@@ -157,7 +157,7 @@ Ardından, ilk kuyruğa alınmış güvenli Tx'i almak için komut dosyasını �
 - gaz kullanımını azaltmak
 - başarı yürütme ve hash+nonce gibi faydalı olayları eklemek
 
-## Kredi
+## Takdir
 
 **StealthSafeGuard**, Flashbots, Gnosis ve Yearn ekiplerinin çabaları sayesinde var olmuştur.
 
