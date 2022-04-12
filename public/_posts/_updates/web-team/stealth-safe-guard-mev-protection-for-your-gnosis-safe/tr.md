@@ -84,9 +84,9 @@ Güvenli işlemleri yürütmek için kullanacağınız hesapların, **StealthRel
 
 ### Sözleşme etkileşimleri
 
-- Executor'un `bond(1 ether)` çağırması gerekiyor
+- *Executor*'un `bond(1 ether)` çağırması gerekiyor
 - Executor tahvillerini ve StealthHash'i doğrulamak için **StealthRelayer** tarafından kullanılır
-- Executor'un bir `StealthVault.job` olarak `StealthRelayer`'ı etkinleştirmesi gerekiyor
+- *Executor*'un bir `StealthVault.job` olarak `StealthRelayer`'ı etkinleştirmesi gerekiyor
 
 ### StealthRelayer
 
