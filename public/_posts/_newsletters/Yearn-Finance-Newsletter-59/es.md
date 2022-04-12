@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Newsletter #59 de Yearn Finance "
+title: "Newsletter #59 de Yearn Finance"
 categories: [Newsletters]
 image:
   src: ./cover.png
