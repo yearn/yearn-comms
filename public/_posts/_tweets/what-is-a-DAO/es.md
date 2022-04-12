@@ -12,7 +12,7 @@ translator: RestlessMik3
 fuente original: [twitter](https://twitter.com/tracheopteryx/status/1410243752434753547)
 
 ##### 1
-Realmente disfruté hablar con [@TrustlessState](https://twitter.com/TrustlessState) en el podcast [@BanklessHQ](https://twitter.com/BanklessHQ) sobre [@coordinape](https://twitter.com /coordinape) con [@fifthworldzach](https://twitter.com/fifthworldzach)
+Realmente disfruté hablar con [@TrustlessState](https://twitter.com/TrustlessState) en el podcast [@BanklessHQ](https://twitter.com/BanklessHQ) sobre [@coordinape](https://twitter.com/coordinape) con [@fifthworldzach](https://twitter.com/fifthworldzach)
 
 [youtube](https://www.youtube.com/watch?v=JM0zF3AzFno)
 
@@ -58,7 +58,7 @@ Cuando la vida surgió por primera vez en la tierra, éramos criaturas simples. 
 El mundo está a punto de dar un paso extraordinario. Verás, el mar del colectivo ha sido como el mar de la vieja tierra. Las fuerzas que unen el análogo celular del colectivo (¿memes?) no han sido lo suficientemente fuertes como para dar el paso a la eucariota. Pero: ahora tenemos blockchain.
 
 ##### 10
-Blockchain es una nueva física. Una física del /espacio colectivo/. Nadie ha dilucidado esta realidad más profundamente que mi coautor en Coordinape, [@Zemm_NFT](https://twitter.com/Zemm_NFT), al hablar sobre las NFT en [@DirSchmidt](https://twitter.com/DirSchmidt ) "La mejor película de NFT jamás realizada".
+Blockchain es una nueva física. Una física del /espacio colectivo/. Nadie ha dilucidado esta realidad más profundamente que mi coautor en Coordinape, [@Zemm_NFT](https://twitter.com/Zemm_NFT), al hablar sobre las NFT en [@DirSchmidt](https://twitter.com/DirSchmidt) "La mejor película de NFT jamás realizada".
 
 https://youtube.com/watch?v=cY9lM73ie0Q&t=1575s
 
