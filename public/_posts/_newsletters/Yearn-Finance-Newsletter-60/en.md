@@ -37,7 +37,7 @@ Excerpts from the article state, "We all know Yearn. It’s the set-it-and-forge
 
 Fantom and Arbitrum are live. Where to next?
 
-Access it here at messari.io/article/yearning-for-yearn.
+Access it here at [messari.io/article/yearning-for-yearn](messari.io/article/yearning-for-yearn).
 
 # The Great Vault Standardization
 
