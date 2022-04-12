@@ -33,7 +33,7 @@ Abracadabra 概况：
 1. 用户将 wETH 存入对应机枪池，收到 yvWETH
 2. 用户将 yvWETH 存入 abracadabra 作为抵押品，借出稳定币 MIM
 
-![](./image1.png?w=633&h=527)\
+![](./image1.jpg?w=633&h=527)\
 *[Abracadabra](http://abracadabra.money/) “借款”界面*
 
 用户借出 MIM 时，存入的抵押品就被锁定直到用户偿还债务
@@ -65,12 +65,12 @@ Alchemix 使用 DAI 机枪池，产生的收益用于偿还用户的债务。
 
 **收益部分**：与普通用户完全不同的机枪池存款界面。 [ShapeShift](https://shapeshift.com/) 是个很好的案例，他们存款到 yVault 的合约可以在 [GitHub](https://github.com/shapeshift/yearn-router) 查看。
 
-![](./image3.png?w=750&h=554)\
+![](./image3.jpg?w=750&h=554)\
 *[ShapeShift](https://shapeshift.com/) 收益部分*
 
 **钱包**：合作伙伴在自己的生态内为用户提供基于 yVault 的不同的收益选择。[SteakWallet](https://www.steakwallet.fi/) 是个非常好的案例：
 
-![](./image4.png?w=363&h=681)\
+![](./image4.jpg?w=363&h=681)\
 *[SteakWallet](https://www.steakwallet.fi/) 界面*
 
 ## 如何成为合作伙伴
