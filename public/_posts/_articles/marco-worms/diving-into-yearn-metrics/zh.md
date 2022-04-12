@@ -120,7 +120,7 @@ Yearn Watch 是由策略家为策略家制作的仪表板，可以快速查看�
 
 ### **朋友们，这就是 Yearn！**
 
-我希望这篇文章能过对大家有帮助，更好地查看自己在 Yearn 的存款信息！这些工具真是很好用，有关 Yearn 的 yVault 和其他产品的历史数据是非常有价值的。
+我希望这篇文章能够对大家有帮助，更好地查看自己在 Yearn 的存款信息！这些工具真是很好用，有关 Yearn 的 yVault 和其他产品的历史数据是非常有价值的。
 
 作者：[Worms](https://twitter.com/MarcoWorms), 审稿人：[Dark Ghosty](https://github.com/DarkGhost7)
 
