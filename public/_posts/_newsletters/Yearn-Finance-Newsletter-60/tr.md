@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yearn Finance Haber Bülteninin #60"
+title: "Yearn Finance Haber Bülteni #60"
 categories: [Newsletters]
 image:
   src: ./cover.jpg
@@ -26,7 +26,7 @@ Yearn Finance Bülteninin 60. baskısına hoş geldiniz. Bu bültenle amacımız
 - DAO'ya yeni Katkıda Bulunanlar için İpuçları
 - Yearn'deki Vult'lar
 - Ekosistem Haberleri
-- 
+
 # Yearn'e Yürekten Bağlı olmak
 
 ![](./image2.jpg?w=1000&h=563)
@@ -97,7 +97,7 @@ Yearn'e katkıda bulunanlardan daha fazla ipucu okumak ve DAO'lara daha derinlem
 
 Sizi [Discord](https://discord.gg/8rF374XkXy), [Twitter](http://twitter.com/iearnfinance) veya [Github](http://github.com/yearn)'da bize katılarak Yearn topluluğuna katılmaya, geri bildirimde bulunmaya ve katılmaya davet ediyoruz. Gel bizimle inşa et.
 
-# Yearn'deki Vult'lar
+# Yearn'deki Vault'lar
 
 Tüm aktif yVault'larımız için stratejilerin ayrıntılı bir açıklamasını [buradan](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) okuyabilirsiniz.
 
