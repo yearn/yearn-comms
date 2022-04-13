@@ -2,8 +2,8 @@
 title:  "ERC-4626s: What is it?"
 image:
   src: ./image1.jpg
-  width: 800
-  height: 450
+  width: 1000
+  height: 528
 date: "2022-04-07"
 author: Yearn
 translator: 
