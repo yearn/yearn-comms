@@ -3,9 +3,9 @@ layout: post
 title: "Yearn Finance Newsletter #60"
 categories: [Newsletters]
 image:
-	src: ./cover.jpg
-	width: 576
-	height: 288
+  src: ./cover.jpg
+  width: 576
+  height: 288
 author: Yearn
 date: '2022-04-13'
 translator: jameskbh
