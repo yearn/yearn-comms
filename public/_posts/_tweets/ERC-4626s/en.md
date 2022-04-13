@@ -16,16 +16,21 @@ original source: [twitter](https://twitter.com/iearnfinance/status/1511444220850
 ##### 1
 
 You’ve heard of ERC-20s, ERC-721s and ERC-1155s
+
 Soon you shall know ERC-4626s
+
 The Tokenized Vault Standard (ERC-4626) is final. And the Great Vault Standardization begins now
+
 tl;dr 👇
 
 ---
 
 ##### 2
 
-Here’s the tldr on ERC-4626: 
+Here’s the tldr on ERC-4626:
+
 Yield-bearing tokens are a mess
+
 Yield aggregators, vaults, lending markets and native yield tokens like [$xSUSHI](https://twitter.com/search?q=%24xSUSHI&src=cashtag_click) are often implemented with slight variations
 
 ---
@@ -33,6 +38,7 @@ Yield aggregators, vaults, lending markets and native yield tokens like [$xSUSHI
 ##### 3
 
 To build a single app on top of DeFi's yield-bearing tokens, you have to write dozens of complex, error-prone adapters that can handle each unique variation
+
 ERC-4626 makes that a thing of the past
 
 ---
@@ -40,6 +46,7 @@ ERC-4626 makes that a thing of the past
 ##### 4
 
 It’s composability at its finest
+
 Build an app on top of one ERC-4626 vault, and it will work for all other ERC-4626 tokens
 
 ---
@@ -71,9 +78,13 @@ Check out [@joey__santoro](https://twitter.com/joey__santoro)’s 🧵 for more 
 The future is composable 💙
 
 > [Joey 💚’s ERC-4626](https://twitter.com/joey__santoro) @joey__santoro - Mar 18
+> 
 > The Tokenized Vault Standard: ERC-4626 is now FINAL 🥳
+> 
 > This is a standard for everyone. The more the Ethereum and broader EVM-chain ecosystem coordinate development efforts, the faster DeFi can grow and scale 🤝
+> 
 > What's next? 👇
+> 
 > [Show this thread](https://twitter.com/joey__santoro/status/1504603906726240258)
 
 ---
@@ -85,5 +96,7 @@ Want more code?
 Check out this demo ERC-4626 Vyper 0.3.2 implementation by Yearn contributors [@fubuloubu](https://twitter.com/fubuloubu) and [@bantg](https://twitter.com/bantg) + [@transmissions11](https://twitter.com/transmissions11) and [@joey__santoro](https://twitter.com/joey__santoro)
 
 > [github.com](https://github.com/fubuloubu/ERC4626)
+> 
 > [Github - fubuloubu/ERC4626: Yield-bearing Vault Interface](https://github.com/fubuloubu/ERC4626)
+> 
 > Yield-bearing Vault Interface. Contribute to fubuloubu/ERC4626 development by creating an account on GitHub.
