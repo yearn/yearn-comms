@@ -51,7 +51,7 @@ ERC-4626 makes that a thing of the past. It’s composability at its finest. Bui
 
 Yearn V3 using ERC-4626 was inevitable. Contributors are already working hard implementing the standard for Yearn’s V3 vaults. So are developers at Alchemix, Balancer, Rari Capital, Fei Protocol, Yield Protocol, OpenZeppelin and more. Perhaps one day, we’ll even see a ERC-4626 tab on Etherscan. In a word, ERC-4626 will be the gold standard for any sort of interest-bearing token… from Yearn Vaults to AAVE deposits and Balancer linear pools.
 
-Ready to join the Great Vault Standardization? Check out Joey Santoro’s thread here for more details and a baseline implementation by transmissions11.
+Ready to join the Great Vault Standardization? Check out Joey Santoro’s thread [here](https://twitter.com/joey__santoro/status/1504603906726240258) for more details and a baseline implementation by transmissions11.
 
 The future is composable.
 
