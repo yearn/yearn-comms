@@ -70,7 +70,11 @@ Check out [@joey__santoro](https://twitter.com/joey__santoro)’s 🧵 for more 
 
 The future is composable 💙
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Tokenized Vault Standard: ERC-4626 is now FINAL 🥳<br><br>This is a standard for everyone. The more the Ethereum and broader EVM-chain ecosystem coordinate development efforts, the faster DeFi can grow and scale 🤝<br><br>What&#39;s next? 👇</p>&mdash; Joey 💚’s ERC-4626 (@joey__santoro) <a href="https://twitter.com/joey__santoro/status/1504603906726240258?ref_src=twsrc%5Etfw">March 17, 2022</a></blockquote> 
+> [Joey 💚’s ERC-4626](https://twitter.com/joey__santoro) @joey__santoro - Mar 18
+> The Tokenized Vault Standard: ERC-4626 is now FINAL 🥳
+> This is a standard for everyone. The more the Ethereum and broader EVM-chain ecosystem coordinate development efforts, the faster DeFi can grow and scale 🤝
+> What's next? 👇
+> [Show this thread](https://twitter.com/joey__santoro/status/1504603906726240258)
 
 ---
 
@@ -80,4 +84,6 @@ Want more code?
 
 Check out this demo ERC-4626 Vyper 0.3.2 implementation by Yearn contributors [@fubuloubu](https://twitter.com/fubuloubu) and [@bantg](https://twitter.com/bantg) + [@transmissions11](https://twitter.com/transmissions11) and [@joey__santoro](https://twitter.com/joey__santoro)
 
-https://github.com/fubuloubu/ERC4626
+> [github.com](https://github.com/fubuloubu/ERC4626)
+> [Github - fubuloubu/ERC4626: Yield-bearing Vault Interface](https://github.com/fubuloubu/ERC4626)
+> Yield-bearing Vault Interface. Contribute to fubuloubu/ERC4626 development by creating an account on GitHub.
