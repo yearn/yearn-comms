@@ -1,5 +1,5 @@
 ---
-title: "Báo cáo Tài chính Q3 2021 của Yearn Finance"
+title: "Báo cáo Tài chính Q3-2021 của Yearn Finance"
 date: '2022-03-08'
 image:
   src: ./cover.jpg
@@ -35,13 +35,13 @@ translator: 🤖💵💵💰💰.eth
 
 ## Giới thiệu về Yearn Finance
 
-![](./image1.png?w=1456&h=733)
+![](./image1.jpg?w=1456&h=733)
 
 Yearn Finance (“Yearn”) là giao thức tổng hợp hoa lợi hàng đầu trong lĩnh vực tài chính phi tập trung ("DeFi") hoạt động trên chuỗi khối (`blockchain`) Ethereum. Nó phát hành đầu năm 2020 với sản phẩm iEarn, sử dụng thuật toán để di chuyển tiền bình giá (`stable coin`) như USDC, USDT, DAI giữa nhiều giao thức cho vay trong DeFi nhằm thu được lãi suất tối ưu nhất tại mọi thời điểm. Sản phẩm này còn được biết đến với tên yPool trên Curve&nbsp;Finance. Curve là một sàn giao dịch phi tập trung chú trọng vào tính năng bán-đổi (`swap`) có độ trượt giá thấp giữa hàng loạt loại tiền bình giá (`stable coin`). Tháng 07/2020, tôken YFI được phân phối trong khoảng 10 ngày cho những người dùng cung cấp vốn vào nhiều bể thanh khoản (`liquidity pool`) liên quan tới yPool–một quy trình thường truyền miệng là "canh tác" (`farming`) hay "gặt" hoa lợi (`yield-farming`). Tôken YFI dùng để quản trị giao thức Yearn.
 
 Không lâu sau khi phân phối xong tôken YFI, sản phẩm yVault ra mắt. yVault cho phép người dùng ký gửi vốn vào các hợp đồng thông minh (`smart contract`) để Chiến lược gia –những chuyên gia "gặt" hoa lợi –thay mặt bên gửi tìm kiếm lãi một cách tự động và hiệu quả. Phí Gas được "xã hội hóa" khắp toàn bộ bể góp vốn, mang lại tính kinh tế hơn cho người dùng nhỏ lẻ khi tham gia hoạt động "canh tác". Người dùng bình thường cũng không cần kiến thức chuyên sâu về DeFi, "gặt" hoa lợi hay cấp thanh khoản (`liquidity`), bởi Chiến lược gia sẽ vận dụng mã lập trình hợp đồng thông minh (`smart contract`) thay mặt thực hiện những tác vụ cần thiết. Lợi nhuận từ việc "canh tác" được Chiến lược gia thu hoạch định kỳ và ký gửi tiếp vào kho bạc (`vault`); người gửi có thể lấy những khoản lời này. Sản phẩm yVault đại diện cho mô hình kinh doanh cốt lõi của Yearn, nhưng kể từ đầu năm 2021, Ngân khố Yearn (`Yearn Treasury`) bắt đầu tham gia "gặt" hoa lợi bằng chính những tài sản đang nắm giữ để tạo thêm dòng tiền (`cash flow`) bổ sung.
 
-Yearn đã thực hiện một loạt các quan hệ hợp tác vào mùa thu năm 2020, hình thành Hệ sinh thái Yearn. Chúng bao gồm SushiSwap (Trình tạo Thị trường hay Nhà cái Tự động—`Automated Market Maker`), C.R.E.A.M (vay–mượn), Keep3r Network (nền tảng thuê tác vụ tự động hóa), Akropolis và Pickle Finance (tổng hợp hoa lợi). Dù các giao thức trên là thành viên trong hệ sinh thái Yearn, tôken YFI không quản trị hay chi phối chúng.
+Yearn đã thực hiện một loạt các quan hệ hợp tác vào mùa thu năm 2020, hình thành Hệ sinh thái Yearn. Chúng bao gồm SushiSwap (Trình tạo Thị trường hay Nhà cái Tự động—`Automated Market Maker`), C.R.E.A.M Finance (vay–mượn), Keep3r Network (nền tảng thuê tác vụ tự động hóa), Akropolis và Pickle Finance (tổng hợp hoa lợi). Dù các giao thức trên là thành viên trong hệ sinh thái Yearn, tôken YFI không quản trị hay chi phối chúng.
 
 Sản phẩm yVault Phiên bản v2 được phát hành vào đầu năm 2021, bao gồm biểu phí mới và khả năng tích hợp nhiều chiến lược cho từng kho bạc. Phiên bản yVault v1 chỉ có thể sử dụng một chiến lược mỗi kho.
 
