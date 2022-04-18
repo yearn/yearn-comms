@@ -51,11 +51,11 @@ Fantom 和 Arbitrum 都已经上线，接下来会是？
 
 Yearn V3 使用的将是 ERC-4626。贡献者们已经把这个标准部署到 Yearn V3 机枪池。还有 Alchemix, Balancer, Rari Capital, Fei Protocol 的开发团队也都已经部署了 ERC-4626 的标准。或许有一天我们能够在 Ethersacan 上看到 ERC-4626 的标签。总而言之，ERC-4626 将会是任何生息代币的黄金标准，无论是 Yearn 的机枪池，AAVE 的存款代币，或者是 Balancer 的线性流动性池。
 
-准备好加入机枪池标准化了吗？如果你想了解更多，请在[这里](https://twitter.com/joey__santoro/status/1504603906726240258)查看 Joey Santoro 的推文，以及 transmission 11 编写的部署代码。
+准备好加入机枪池标准化了吗？如果你想了解更多，请在[这里](https://twitter.com/joey__santoro/status/1504603906726240258)查看 Joey Santoro 的推文，以及 transmissions11 编写的部署代码。
 
 未来就是各种可组合性。
 
-想看更多的代码？请在 [this demo ERC-4626 Vyper 0.3.2 implementation](https://github.com/fubuloubu/ERC4626) 查看，这是由 Yearn 贡献者 fubuloubu，banteg， transmission 11 和 Joey Snatoro 共同编写的。
+想看更多的代码？请在 [this demo ERC-4626 Vyper 0.3.2 implementation](https://github.com/fubuloubu/ERC4626) 查看，这是由 Yearn 贡献者 fubuloubu，banteg， transmissions11 和 Joey Snatoro 共同编写的。
 
 你可以在[这里](https://www.coindesk.com/layer2/2022/04/08/defi-giant-yearn-leads-the-way-on-erc-4626-token-standard-adoption/)查阅 CoinDesk 关于 ERC-4626 的文章。
 
