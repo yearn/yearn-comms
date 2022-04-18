@@ -72,7 +72,7 @@ Lass dich nicht von den Diagrammen mit vielen Farben abschrecken, sie zeigen nor
 ![](./image8.jpg?w=895&h=258)\
 *Gefiltert* 
 
-"Zeit seit dem letzten Bericht" zeigt an, wann diese Vaultstrategien zuletzt geerntet wurden. Das obige "gefilterte" Diagramm ist ein Beispiel für alle Erträge aus dem USDC yVault, die in der letzten Woche stattgefunden haben. Der vertikale Tropfen bedeutet, dass eine Ertrag stattgefunden hat, so dass "Zeit seit des letzten Ertrags/Berichts" auf 0 geht
+“time since last report” zeigt an, wann diese Vaultstrategien zuletzt geerntet wurden. Das obige “Filtered” Diagramm ist ein Beispiel für alle Erträge aus dem USDC yVault, die in der letzten Woche stattgefunden haben. Der vertikale Tropfen bedeutet, dass eine Ertrag stattgefunden hat, so dass Zeit seit des letzten Ertrags/Berichts “time since the last harvest/report” auf 0 geht
 
 Du kannst auf der linken Seite des Bildschirms zu anderen Dashboards wechseln:
 
@@ -84,7 +84,7 @@ Hier findest du eine Fülle von Informationen darüber, was bei Yearn passiert!
 ![](./image10.jpg?w=1395&h=565)\
 *Von Strategen verwendete Dashboards*
 
-Werfen wir einen Blick auf das Dashboard "Vault Übersicht":
+Werfen wir einen Blick auf das Dashboard “Vault Overview”:
 
 ![](./image11.jpg?w=1400&h=640)\
 *Vault Übersicht Dashboard: https://yearn.vision/d/ibsIoEknkdffd/vault-overview?orgId=1*
@@ -110,8 +110,8 @@ Wenn du einen Vault öffnest, siehst du Informationen zur Vermögensverteilung. 
 
 ![](./image14.jpg?w=855&h=855)
 
-Die Ansicht "Details" zeigt alles über die Gesamtverteilung des Fonds. Wenn du zur Ansicht "Strategien" wechselst, kannst du noch tiefer eintauchen und jede Strategie einzeln untersuchen und ihre Verträge und Transaktionen auf der Kette leicht finden.
-Eine aufschlussreiche Ansicht innerhalb einer Strategie sind die "Berichte" (Ernten), die dir die letzten 10 Ernte-Transaktionen zeigen, so dass du die Echtzeit-Gewinne des Vaults und den Gewinn aus jeder Ernte überwachen kannst:
+Die Ansicht "Details" zeigt alles über die Gesamtverteilung des Fonds. Wenn du zur Ansicht "strategies" wechselst, kannst du noch tiefer eintauchen und jede Strategie einzeln untersuchen und ihre Verträge und Transaktionen auf der Kette leicht finden.
+Eine aufschlussreiche Ansicht innerhalb einer Strategie sind die "reports" (Ernten), die dir die letzten 10 Ernte-Transaktionen zeigen, so dass du die Echtzeit-Gewinne des Vaults und den Gewinn aus jeder Ernte überwachen kannst:
 
 ![](./image15.jpg?w=1253&h=759)
 
