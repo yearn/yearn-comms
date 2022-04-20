@@ -22,7 +22,7 @@ The most common type of proposals in the forum are Yearn Improvement Proposals (
 - **Yearn Delegation Proposal (YDP):** A proposal to change how a yTeam has power over a scope
 - **Yearn Signaling Proposal (YSP):** A non-binding proposal to signal community feelings or intent on any issue
 
-## Governance Scope
+### Governance Scope
 
 [YIP-61](https://gov.yearn.finance/t/yip-61-governance-2-0/10460) determines how Yearn governance currently works: [yTeams](https://gov.yearn.finance/t/yip-61-governance-2-0/10460#yteams-9) have delegated authority from YFI holders to utilize limited powers autonomously. Holding YFI allows one to have control over how the power is distributed among teams, YFI gives exclusive voting power to pass or deny changes that shift power dynamics within the protocol such as:
 
@@ -32,13 +32,13 @@ The most common type of proposals in the forum are Yearn Improvement Proposals (
 - Set Protocol Fees
 - Change YFI contract
 
-# Governance Forum Process 
+## Governance Forum Process 
 
 Anyone is able to create a new proposal at [Yearn Governance Forums](https://gov.yearn.finance/):
 
 ![](./image2.jpg?w=900&h=486)
 
-## Proposal Template
+### Proposal Template
 
 As established by [YIP-55](https://gov.yearn.finance/t/yip-55-formalize-the-yip-process/7959), here is a standard way to write proposals:
 
@@ -62,7 +62,7 @@ A long description of how this proposal solves the problem, should describe how 
 **Poll:**
 A voting dynamic that is built in the governance forum to gauge the community sentiment on the proposal, should be greater than 50%
 
-## Discussion
+### Discussion
 
 There should be enough time (at least 3 days) of discussion so the proposal can be tackled from many angles by community members. Use Discourse's built-in Poll tool to gauge the community sentiment about the proposal before raising a formal vote, the poll should have at least 50% passing votes.
 
@@ -70,7 +70,7 @@ There should be enough time (at least 3 days) of discussion so the proposal can 
 
 Discussions ideally should take as long as it takes to clarify what was proposed to the community. Talking to different stakeholders **before** proposing something is a good way to measure sentiment and helps you introduce complex ideas with better support right from the start. An example of proposal with excellent discussion is [YIP-57](https://gov.yearn.finance/t/yip-57-funding-yearns-future/9319) which minted 6,666 YFI tokens beyond the 30,000 initial supply and had to align different types of stakeholders from DAO members to big YFI holders.
 
-## Voting
+### Voting
 
 After the discussion step passed the proposal becomes a YIP (or maybe a YDP depending on its content) and will be put through the voting phase. To submit a vote at [Yearn's Snapshots Page](https://yearn.snapshot.page/#/) you need to hold at least 1 $YFI or ask someone to do it for you, if the proposal is solid this won't be a barrier. Communicate with a forum mod to get an official number for the new YIP!
 
@@ -90,7 +90,7 @@ Holding or staking YFI in the following places allows you to vote:
 - Unit Protocol YFI collateral
 - Bancor
 
-## Conclude & Execute
+### Conclude & Execute
 
 If the voting has passed with over 50% votes Yearn DAO must execute it. The way [Yearn DAO](https://yearnfinance.notion.site/yearnfinance/Welcome-to-Yearn-Finance-26d6c4210e3e405c9f02f84ba567a249) works is not like a top-down command & control company, so it won't enforce or obligate a team or any individual to execute the proposal. The DAO will ensure that the correct incentives are set for the proposal to be executed (for example allocate treasure to pay for work done by contributors)
 
@@ -99,7 +99,7 @@ Recently 2 YIPs were passed and are being executed by Yearn as I write this:
 - [YIP-65: Evolving YFI Tokenomics](https://gov.yearn.finance/t/yip-65-evolving-yfi-tokenomics/11994)
 - [YIP-66: Streamlining contributor compensation](https://gov.yearn.finance/t/yip-66-streamlining-contributor-compensation/12247)
 
-# Fair launch of YFI
+## Fair launch of YFI
 
 ![](./image5.jpg?w=900&h=228)
 
@@ -110,7 +110,7 @@ Recently 2 YIPs were passed and are being executed by Yearn as I write this:
 3) [YFI rewards pool](https://medium.com/iearn/yfi-rewards-pool-810ef9256ec6) (Reward pool for burning YFI)
 4) [Pool #3 Meta Yield Governance](https://medium.com/iearn/pool-3-meta-yield-governance-58f68e6d2f19) (Pool that rewarded many things including participating in governance)
 
-# Additional Resources
+## Additional Resources
 
 If you are looking for inspiration to make a proposal you can take a look at the following YIPs which had extensive discussion and changed power dynamics within the protocol:
 
