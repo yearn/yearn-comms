@@ -11,7 +11,7 @@ translator: RestlessMik3
 
 ![](./image1.jpg?w=900&h=482)
 
-Cualquiera puede discutir o proponer ideas en Yearn's [Discord](https://discord.com/invite/6PNv2nF), [Twitter](https://twitter.com/iearnfinance), [Reddit](https://www.reddit.com/r/yearn_finance), [Pool of Ideas](https://yearnfinance.notion.site/yearnfinance/Pool-of-Ideas-d75383ade9154d8bb6163388c6c2b39b), [Telegram](https://t.me/yearnfinance/), y [Foro de Gobernanza](https://gov.yearn.finance/). A medida que maduran las propuestas, se convierte en un voto estructurado en el Foro de Gobernanza donde el [token YFI](https://www.coingecko.com/en/coins/yearn-finance) se usa como poder de voto.
+Cualquiera puede discutir o proponer ideas en Yearn's [Discord](https://discord.com/invite/6PNv2nF), [Twitter](https://twitter.com/iearnfinance), [Reddit](https://www.reddit.com/r/yearn_finance), [Listado de Ideas](https://yearnfinance.notion.site/yearnfinance/Pool-of-Ideas-d75383ade9154d8bb6163388c6c2b39b), [Telegram](https://t.me/yearnfinance/), y [Foro de Gobernanza](https://gov.yearn.finance/). A medida que maduran las propuestas, se convierte en un voto estructurado en el Foro de Gobernanza donde el [token YFI](https://www.coingecko.com/en/coins/yearn-finance) se usa como poder de voto.
 
 - Los poseedores de tokens pueden votar en [La página de snapshots de Yearn](https://yearn.snapshot.page/#/), ¡no hay consumo de gas en la transacción de votación!
 - También hay un [repositorio de gobierno retirado](https://docs.yearn.finance/contributing/governance/proposal-repository) que ahora no se usa pero se puede explorar para aprender sobre la historia de Yearn.
@@ -19,7 +19,7 @@ Cualquiera puede discutir o proponer ideas en Yearn's [Discord](https://discord.
 El tipo más común de propuestas en el foro son las Propuestas de mejora de Yearn (YIP), pero hay otros tipos cubiertos en la [implementación actual de la gobernanza de Yearn (YIP-61)](https://gov.yearn.finance/t/yip-61-gobernanza-2-0/10460):
 
 - **Propuesta de mejora anual (YIP):** Una propuesta para ejecutar cualquier poder delegado a los titulares de YFI o fuera del alcance de los poderes enumerados
-- **Propuesta de delegación de año (YDP):** Una propuesta para cambiar la forma en que un yTeam tiene poder sobre un alcance
+- **Propuesta de delegación de año (YDP): Una propuesta para cambiar la forma en que un yTeam tiene poder sobre un área
 - **Propuesta de Señalización de Año (YSP):** Una propuesta no vinculante para señalar los sentimientos o la intención de la comunidad sobre cualquier tema
 
 ### Alcance de la Gobernanza
@@ -72,7 +72,7 @@ Lo ideal sería que las discusiones tomaran el tiempo necesario para aclarar lo 
 
 ### Votación
 
-Después de pasar el paso de discusión, la propuesta se convierte en un YIP (o tal vez un YDP dependiendo de su contenido) y se someterá a la fase de votación. Para enviar un voto en [Página de snapshots de Yearn](https://yearn.snapshot.page/#/) debe tener al menos 1 $ YFI o pedirle a alguien que lo haga por ti, si la propuesta es sólida, esto no será una barrera. ¡Comuníquete con un moderador del foro para obtener un número oficial para el nuevo YIP!
+Después de pasar el paso de discusión, la propuesta se convierte en un YIP (o tal vez un YDP dependiendo de su contenido) y se someterá a la fase de votación. Para enviar un voto en [Página de snapshots de Yearn](https://yearn.snapshot.page/#/) debe tener al menos 1 $YFI o pedirle a alguien que lo haga por ti, si la propuesta es sólida, esto no será una barrera. ¡Comunícate con un moderador del foro para obtener un número oficial para el nuevo YIP!
 
 El poder de voto corresponde 1:1 a cuánto $YFI tiene un votante. Entonces, una billetera con 10 $YFI tiene 10 veces más poder de voto que alguien con 1 $YFI.
 
