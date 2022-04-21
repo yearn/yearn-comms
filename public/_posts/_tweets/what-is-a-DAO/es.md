@@ -18,7 +18,7 @@ Realmente disfruté hablar con [@TrustlessState](https://twitter.com/TrustlessSt
 
 Explicamos qué tiene de diferente la mecánica y la visión de Coordinape, y profundizamos bastante en algunas ideas importantes.
 
-Entonces, aquí hay un hilo sobre DAO
+Entonces, aquí hay un hilo sobre DAOs
 
 ##### 2
 ¿Qué es un DAO? Hay muchas respuestas a esto. Es un fenómeno emergente cuya historia se está escribiendo activamente. Mi respuesta puede ser un poco diferente de otras que leerás....
@@ -28,7 +28,7 @@ Entonces, aquí hay un hilo sobre DAO
 Lo explicaré.
 
 ##### 3
-jfc esto es difícil de explicar... Ok, comencemos con Ken Wilber. Wilber es muchas cosas, principalmente es un maestro cartógrafo. Estudió el trabajo de filósofos, científicos y gurús de todo el mundo con la tesis impulsora de que "todo el mundo tiene razón".
+Esto es difícil de explicar... Ok, comencemos con Ken Wilber. Wilber es muchas cosas, principalmente es un maestro cartógrafo. Estudió el trabajo de filósofos, científicos y gurús de todo el mundo con la tesis impulsora de que "todo el mundo tiene razón".
 
 ![](./1.jpg?w=292&h=455)
 
@@ -38,7 +38,7 @@ Durante décadas, juntó todas estas piezas dispares de sabiduría en un mapa de
 ![](./2.jpg?w=472&h=466)
 
 ##### 5
-La experiencia interior individual del color rojo es irreductible al concepto exterior individual de la luz de 650 nm. Ambos surgen como diferentes caras de una misma moneda. Entonces, ¿adónde diablos va esto, verdad? Aquí, las DAO con índice de reverso que apunta hacia la derecha son formas de vida que emergen en los cuadrantes colectivos.
+La experiencia interior individual del color rojo es irreductible al concepto exterior individual de la luz de 650 nm. Ambos surgen como diferentes caras de una misma moneda. Entonces, ¿adónde diablos va esto, verdad? Aquí, las DAOs con índice de reverso que apunta hacia la derecha son formas de vida que emergen en los cuadrantes colectivos.
 
 ##### 6
 “Desde la Revolución Cognitiva, los Sapiens han estado viviendo en una realidad dual. Por un lado, la realidad objetiva de ríos, árboles y leones; y por otro lado, la realidad imaginada de dioses, naciones y corporaciones.”
