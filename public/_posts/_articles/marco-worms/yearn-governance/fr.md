@@ -14,7 +14,7 @@ translator: Cryptouf
 Tout le monde peut participer et/ou proposer des idées sur: [Discord](https://discord.com/invite/6PNv2nF), [Twitter](https://twitter.com/iearnfinance), [Reddit](https://www.reddit.com/r/yearn_finance), [la Pool of Ideas](https://yearnfinance.notion.site/yearnfinance/Pool-of-Ideas-d75383ade9154d8bb6163388c6c2b39b), [Telegram](https://t.me/yearnfinance/), et [le forum de gouvernance](https://gov.yearn.finance/). Au fur et à mesure que les propositions mûrissent, elle se transforment en vote structuré. Le [jeton YFI](https://www.coingecko.com/en/coins/yearn-finance) est ensuite utilisé comme pouvoir de vote.
 
 * Les détenteurs de jetons peuvent voter sur [la page Snapshot de Yearn](https://yearn.snapshot.page/#/), le vote n'utilise pas de gas, il est donc gratuit !
-* Il existe également un [retired governance repository](https://docs.yearn.finance/contributing/governance/proposal-repository) qui n'est plus utilisé mais qui peut être exploré pour en savoir plus sur l'histoire de yearn et les propositions ont déjà été faites !
+* Il existe également un [retired governance repository](https://docs.yearn.finance/contributing/governance/proposal-repository) qui n'est plus utilisé mais qui peut être exploré pour en savoir plus sur l'histoire de Yearn et les propositions ont déjà été faites !
 
 Les types de propositions les plus courantes sur le forum sont les propositions d'amélioration de Yearn (Yearn Improvement Proposal=YIP), mais il existe d'autres types de propositions que vous pouvez retrouver [ici](https://gov.yearn.finance/t/yip-61-governance-2-0/10460):
 
@@ -45,13 +45,10 @@ Comme établi par le [YIP-55](https://gov.yearn.finance/t/yip-55-formalize-the-y
 **Résumé**:
 Le résultat attendu de la modification proposée, rédigé de manière non technique et accessible
 
-
 - **Statut :** *(Ce champ n'est pas obligatoire mais il est utilise pour les autres membres)*
-
     - **Discussion :** Cette proposition est actuellement en phase de discussion. Conformément à nos règles, décrites dans le YIP-55, elle sera en discussion pendant au moins 3 jours et comportera avec un sondage non contraignant pour évaluer le sentiment des autres membres avant qu'il ne puisse se voir attribuer un numéro YIP et passer sur Snapshot pour un vote contraignant.
      - **Voting :** Cette proposition est actuellement en phase de vote. Votez sur Snapshot. Vous pouvez en savoir plus sur nos règles concernant le vote dans le YIP-55
      - **Passed :** Cette proposition a été adoptée le 25 avril 2021 à 7h00 UTC avec 99,97 % de votes pour
-
 
 **Abstract:**
 Une courte description (~200 mots) de la modification proposée. Expliquer clairement ce qu;il va se passer si la proposition est acceptée.
@@ -83,7 +80,6 @@ Le vote prend au moins 5 jours et nécessite plus de 50 % de votes positifs, il
 
 ![](./image4.jpg?w=900&h=543)
 
-
 Détenir ou staker des YFI dans aux endroits suivants vous permet de voter :
 - Votre portfeuille
 - YFI yVault V2 
@@ -96,7 +92,7 @@ Détenir ou staker des YFI dans aux endroits suivants vous permet de voter :
 
 ### Conclution & Exécution
 
-Si le vote passe avec plus de 50% de votes, la Yearn DAO doit l'exécuter. La façon dont la [Yearn DAO](https://yearnfinance.notion.site/yearnfinance/Welcome-to-Yearn-Finance-26d6c4210e3e405c9f02f84ba567a249)  fonctionne n'est pas similaire à une société, donc elle n'appliquera ni n'obligera une équipe ou un individu à exécuter la proposition. La DAO s'assurera que des incitations correctes sont à disposition pour que la proposition soit exécutée (en allouant par exemple un budget pour payer le travail effectué par les contributeurs)
+Si le vote passe avec plus de 50% de votes, la Yearn DAO doit l'exécuter. La façon dont la [Yearn DAO](https://yearnfinance.notion.site/yearnfinance/Welcome-to-Yearn-Finance-26d6c4210e3e405c9f02f84ba567a249) fonctionne n'est pas similaire à une société, donc elle n'appliquera ni n'obligera une équipe ou un individu à exécuter la proposition. La DAO s'assurera que des incitations correctes sont à disposition pour que la proposition soit exécutée (en allouant par exemple un budget pour payer le travail effectué par les contributeurs)
 
 Récemment, 2 YIP sont passés et sont en cour d'exécution par Yearn au moment cet article est écrit :
 
@@ -107,7 +103,7 @@ Récemment, 2 YIP sont passés et sont en cour d'exécution par Yearn au moment 
 
 ![](./image5.jpg?w=900&h=228)
 
- [Andre Cronje](https://medium.com/@andrecronje) a été le premier constructeur de Yearn et ce qu'il a créé est devenu une DAO composée de plus de 200 participants actifs. Il n'est possible d'exister dans cette conficuration que parce que Cronje a cédé chaque centimètre de pouvoir qu'il avait sur le protocole, et il l'a fait par le biais du YFI. Quiconque a utilisé les services et l'écosystème de Yearn au début a reçu ce pouvoir, et vous pouvez trouver des informations sur la façon dont ce processus s'est déroulé dans les article de Andre :
+[Andre Cronje](https://medium.com/@andrecronje) a été le premier constructeur de Yearn et ce qu'il a créé est devenu une DAO composée de plus de 200 participants actifs. Il n'est possible d'exister dans cette conficuration que parce que Cronje a cédé chaque centimètre de pouvoir qu'il avait sur le protocole, et il l'a fait par le biais du YFI. Quiconque a utilisé les services et l'écosystème de Yearn au début a reçu ce pouvoir, et vous pouvez trouver des informations sur la façon dont ce processus s'est déroulé dans les article de Andre :
 
 1) [YFI](https://medium.com/iearn/yfi-df84573db81)
 2) [Earning YFI curve.fi/y](https://medium.com/iearn/earning-yfi-y-curve-fi-53b5fd347f0f) 
