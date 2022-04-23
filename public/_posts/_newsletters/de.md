@@ -8,7 +8,7 @@ image:
   height: 576
 author: Yearn
 date: '2022-04-06'
-translator:  Nesyeth
+translator: Nesyeth
 ---
 
 ### Woche bis zum 5. April 2022
