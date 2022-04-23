@@ -13,8 +13,8 @@ translator: Cryptouf
 
 Tout le monde peut participer et/ou proposer des idées sur: [Discord](https://discord.com/invite/6PNv2nF), [Twitter](https://twitter.com/iearnfinance), [Reddit](https://www.reddit.com/r/yearn_finance), [la Pool of Ideas](https://yearnfinance.notion.site/yearnfinance/Pool-of-Ideas-d75383ade9154d8bb6163388c6c2b39b), [Telegram](https://t.me/yearnfinance/), et [le forum de gouvernance](https://gov.yearn.finance/). Au fur et à mesure que les propositions mûrissent, elle se transforment en vote structuré. Le [jeton YFI](https://www.coingecko.com/en/coins/yearn-finance) est ensuite utilisé comme pouvoir de vote.
 
-* Les détenteurs de jetons peuvent voter sur [la page Snapshot de Yearn](https://yearn.snapshot.page/#/), le vote n'utilise pas de gas, il est donc gratuit !
-* Il existe également un [retired governance repository](https://docs.yearn.finance/contributing/governance/proposal-repository) qui n'est plus utilisé mais qui peut être exploré pour en savoir plus sur l'histoire de Yearn et les propositions ont déjà été faites !
+- Les détenteurs de jetons peuvent voter sur [la page Snapshot de Yearn](https://yearn.snapshot.page/#/), le vote n'utilise pas de gas, il est donc gratuit !
+- Il existe également un [retired governance repository](https://docs.yearn.finance/contributing/governance/proposal-repository) qui n'est plus utilisé mais qui peut être exploré pour en savoir plus sur l'histoire de Yearn et les propositions ont déjà été faites !
 
 Les types de propositions les plus courantes sur le forum sont les propositions d'amélioration de Yearn (Yearn Improvement Proposal=YIP), mais il existe d'autres types de propositions que vous pouvez retrouver [ici](https://gov.yearn.finance/t/yip-61-governance-2-0/10460):
 
@@ -90,7 +90,7 @@ Détenir ou staker des YFI dans aux endroits suivants vous permet de voter :
 - YFI comme collatérale sur Unit Protocol
 - Bancor
 
-### Conclution & Exécution
+### Conclusion & Exécution
 
 Si le vote passe avec plus de 50% de votes, la Yearn DAO doit l'exécuter. La façon dont la [Yearn DAO](https://yearnfinance.notion.site/yearnfinance/Welcome-to-Yearn-Finance-26d6c4210e3e405c9f02f84ba567a249) fonctionne n'est pas similaire à une société, donc elle n'appliquera ni n'obligera une équipe ou un individu à exécuter la proposition. La DAO s'assurera que des incitations correctes sont à disposition pour que la proposition soit exécutée (en allouant par exemple un budget pour payer le travail effectué par les contributeurs)
 
@@ -110,7 +110,7 @@ Récemment, 2 YIP sont passés et sont en cour d'exécution par Yearn au moment 
 3) [YFI rewards pool](https://medium.com/iearn/yfi-rewards-pool-810ef9256ec6)
 4) [Pool #3 Meta Yield Governance](https://medium.com/iearn/pool-3-meta-yield-governance-58f68e6d2f19)
 
-## Resources supplementaries
+## Ressources supplémentaires
 
 Si vous êtes à la recherche d'inspiration pour faire une nouvelle proposition, vous pouvez consulter les YIP suivants qui ont fait l'objet de discussions approfondies et ont modifié la dynamique du pouvoir au sein du protocole :
 
