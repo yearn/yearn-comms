@@ -24,7 +24,7 @@ Les types de propositions les plus courantes sur le forum sont les propositions 
 
 ### Champs de la gouvernance
 
-Le [YIP-61](https://gov.yearn.finance/t/yip-61-governance-2-0/10460) détermine le fonctionnement actuel de la gouvernance Yearn: Les [yTeams](https://gov.yearn.finance /t/yip-61-governance-2-0/10460#yteams-9) possédent  l'autorité, qui est donnée par les détenteurs de YFI via la déléguation, pour utiliser des pouvoirs limités de manière autonome. Détenir du YFI permet de contrôler la répartition du pouvoir entre les équipes, le YFI donne un pouvoir de vote exclusif pour passer ou refuser les changements qui modifient la dynamique du pouvoir au sein du protocole, tels que :
+Le [YIP-61](https://gov.yearn.finance/t/yip-61-governance-2-0/10460) détermine le fonctionnement actuel de la gouvernance Yearn: Les [yTeams](https://gov.yearn.finance/t/yip-61-governance-2-0/10460#yteams-9) possédent  l'autorité, qui est donnée par les détenteurs de YFI via la déléguation, pour utiliser des pouvoirs limités de manière autonome. Détenir du YFI permet de contrôler la répartition du pouvoir entre les équipes, le YFI donne un pouvoir de vote exclusif pour passer ou refuser les changements qui modifient la dynamique du pouvoir au sein du protocole, tels que :
 
 - Modifier les signataires du Multisig ou des yTeams
 - Ratifier les yTeams
@@ -64,7 +64,7 @@ Un vote intégrée au forum de gouvernance pour évaluer le sentiment de la comm
 
 ### Discussion
 
-Il doit y avoir suffisamment de temps (au moins 3 jours) pour la discussion afin que la proposition puisse être abordée sous plusieurs angles par les membres de la communauté.
+Il doit y avoir suffisamment de temps (au moins 3 jours) pour la discussion afin que la proposition puisse être abordée sous plusieurs angles par les membres de la communauté. Il faut que le vote sur le post discorse rassemble plus de 50% de vote positifs afin de pouvoir passer à l'étape suivante.
 
 ![](./image3.jpg?w=900&h=351)
 
@@ -76,7 +76,7 @@ Une fois l'étape de discussion passée, la proposition devient un YIP (ou peut-
 
 Le pouvoir de vote correspond au nombre de YFI dont dispose un votant avec un ratio de 1:1. Ainsi, un portefeuille avec 10 YFI a 10 fois plus de pouvoir de vote qu'une personne ayant 1 YFI.
 
-Le vote prend au moins 5 jours et nécessite plus de 50 % de votes positifs, il n'y a pas de quorum à respecter comme indiqué dans le [YIP-55](https://gov.yearn.finance/t/yip-55-formalize-the -yip-process/7959) : "l'exigence de quorum pourrait être difficile à quantifier et pourrait conduire à un ralliement chronophage d'électeurs apathiques"
+Le vote prend au moins 5 jours et nécessite plus de 50 % de votes positifs, il n'y a pas de quorum à respecter comme indiqué dans le [YIP-55](https://gov.yearn.finance/t/yip-55-formalize-the-yip-process/7959) : "l'exigence de quorum pourrait être difficile à quantifier et pourrait conduire à un ralliement chronophage d'électeurs apathiques"
 
 ![](./image4.jpg?w=900&h=543)
 
