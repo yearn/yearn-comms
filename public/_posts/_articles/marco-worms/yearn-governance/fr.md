@@ -64,7 +64,7 @@ Un vote intégrée au forum de gouvernance pour évaluer le sentiment de la comm
 
 ### Discussion
 
-Il doit y avoir suffisamment de temps (au moins 3 jours) pour la discussion afin que la proposition puisse être abordée sous plusieurs angles par les membres de la communauté. Il faut que le vote sur le post discorse rassemble plus de 50% de vote positifs afin de pouvoir passer à l'étape suivante.
+Il doit y avoir suffisamment de temps (au moins 3 jours) pour la discussion afin que la proposition puisse être abordée sous plusieurs angles par les membres de la communauté. Il faut que le vote sur le post Discourse rassemble plus de 50% de vote positifs afin de pouvoir passer à l'étape suivante.
 
 ![](./image3.jpg?w=900&h=351)
 
