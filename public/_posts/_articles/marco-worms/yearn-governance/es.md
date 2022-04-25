@@ -19,7 +19,7 @@ Cualquiera puede discutir o proponer ideas en Yearn's [Discord](https://discord.
 El tipo más común de propuestas en el foro son las Propuestas de mejora de Yearn (YIP), pero hay otros tipos cubiertos en la [implementación actual de la gobernanza de Yearn (YIP-61)](https://gov.yearn.finance/t/yip-61-gobernanza-2-0/10460):
 
 - **Propuesta de mejora anual (YIP):** Una propuesta para ejecutar cualquier poder delegado a los titulares de YFI o fuera del alcance de los poderes enumerados
-- **Propuesta de delegación de año (YDP): Una propuesta para cambiar la forma en que un yTeam tiene poder sobre un área
+- **Propuesta de delegación de año (YDP):** Una propuesta para cambiar la forma en que un yTeam tiene poder sobre un área
 - **Propuesta de Señalización de Año (YSP):** Una propuesta no vinculante para señalar los sentimientos o la intención de la comunidad sobre cualquier tema
 
 ### Alcance de la Gobernanza
