@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stealth Safe Guard: MEV Protection for your Gnosis Safe"
+title: "Guardia de seguridad sigilosa: Protección MEV para tu Gnosis Safe"
 categories: [Updates]
 image:
   src: ./cover.jpg
@@ -47,7 +47,7 @@ Ejecutar transacciones seguras a través del mempool público abre la misma amen
 
 ### Solución:
 
-[StealthSafeGuard](https://github.com/yearn/hardhat-monorepo/blob/main/packages/strategies-keep3r/contracts/guard/StealthSafeGuard.sol) requiere que los ejecutores pasen por [StealthRelayer](https://github.com/yearn/hardhat-monorepo/blob/main/packages/stealth-txs/contracts/StealthRelayer.sol), que protege contra los txs que ingresan al mempool público al agregar una recompensa consolidada a cualquiera que vea el tx y informa que es un hash secreto, el tx no se ejecutará y le quitará la penalización al ejecutor. Gracias al equipo de Tenderly, tenemos un conjunto de scripts automáticos que buscan este tipo de txs que los reportarán de inmediato y pagarán al minero la penalización total del ejecutor.
+[StealthSafeGuard](https://github.com/yearn/hardhat-monorepo/blob/main/packages/strategies-keep3r/contracts/guard/StealthSafeGuard.sol) requiere que los ejecutores pasen por [StealthRelayer](https://github.com/yearn/hardhat-monorepo/blob/main/packages/stealth-txs/contracts/StealthRelayer.sol), que protege contra los txs que ingresan al mempool público al agregar una recompensa consolidada a cualquiera que vea el tx e informa que es un hash secreto, el tx no se ejecutará y le quitará la penalización al ejecutor. Gracias al equipo de Tenderly, tenemos un conjunto de scripts automáticos que buscan este tipo de txs que los reportarán de inmediato y pagarán al minero la penalización total del ejecutor.
 
 ## Amenaza de bloque Uncled
 
