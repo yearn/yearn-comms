@@ -56,7 +56,7 @@ Algunas semanas de limpieza mientras terminamos enero de 2022:
 
 **Lanzamiento web 1.0.10**
 
-- corrección: elimine los detalles de APY si tiene anulación
+- corrección: eliminados los detalles de APY si tiene anulación
 - corrección: aumentar los bloques de confirmación para transacciones
 
 **Lanzamiento web 1.0.9**
