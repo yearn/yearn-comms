@@ -57,9 +57,7 @@ Die Zukunft ist kompositionsfähig.
 
 Willst du mehr Code? Sieh dir diese [diese ERC-4626 Vyper 0.3.2-Demo-Implementierung an](https://github.com/fubuloubu/ERC4626), die von den Yearn-Mitarbeitern Fubuloubu und Banteg zusammen mit Transmissions11 und Joey Santoro erstellt wurde.
 
-Read a follow-up CoinDesk article on ERC-4626 [here](https://www.coindesk.com/layer2/2022/04/08/defi-giant-yearn-leads-the-way-on-erc-4626-token-standard-adoption/).
-
-Lies hier einen weiteren CoinDesk-Artikel über ERC-4626.
+Lies [hier](https://www.coindesk.com/layer2/2022/04/08/defi-giant-yearn-leads-the-way-on-erc-4626-token-standard-adoption/) einen weiteren CoinDesk-Artikel über ERC-4626.
 
 # Wie Web3 eine unzensiertes Yearn ermöglicht
 
