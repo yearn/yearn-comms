@@ -61,7 +61,7 @@ Holding or staking YFI in the following places allows you to vote: your wallet, 
 
 Ultimately, governance follows three simple procedures: discussion in the forum, voting on Snapshot, and execution.
 
-Click [here] to learn more about Yearn governance with contributor MarcoWorms.
+Click [here](https://medium.com/iearn/yearn-governance-explained-proposals-yfi-token-and-execution-113ec86c3a3f) to learn more about Yearn governance with contributor MarcoWorms.
 
 # People of Yearn: RestlessMik3
 
