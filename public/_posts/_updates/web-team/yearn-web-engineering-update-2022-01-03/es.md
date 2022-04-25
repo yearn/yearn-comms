@@ -22,7 +22,7 @@ El lanzamiento del sitio beta v3 a producción en diciembre ha ido bien. Continu
 ## **Logros**
 
 - Versión 1.0.4
-  - Corrección: enlace de alquimia en el pie de página
+  - Corrección: enlace de alchemy en el pie de página
   - Corrección: enlace de la API de pickle
   - Corrección: los laboratorios depositan la cantidad esperada del token
   - Corrección: obtención de la vault de vista detallada en el conmutador de red
