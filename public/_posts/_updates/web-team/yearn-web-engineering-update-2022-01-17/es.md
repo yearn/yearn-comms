@@ -8,7 +8,7 @@ image:
   height: 1024
 author: f0xTheSin
 date: "2022-01-20"
-translator:
+translator: RestlessMik3
 ---
 
 fuente original: [Web Engineering Update: Jan. 7, 2022](https://yearnweb.substack.com/p/yearn-web-engineering-update-7d7)
@@ -30,7 +30,7 @@ Otras actualizaciones incluyen no más polvo después de los retiros de la vault
   - Al pasar el cursor sobre el APY de una vault en la página de vaults o en la página de detalles, ahora se proporcionará un desglose similar al que se ve en el sitio web v2, con información adicional incluida para las vaults Curve LP.
 - logro: agregar ruta de estado de salud 🏘️
 - logro: retirar todo para vaults
-  - Anteriormente, al retirar la interfaz de usuario, se convertía la entrada del usuario del saldo del token subyacente en acciones de la vault, y luego se pasaba al contrato de la vault a través de `withdraw(shares)`. Sin embargo, si el precio de las acciones aumentara después de una cosecha, esto podría dejar al usuario con polvo (una pequeña cantidad fraccionaria de acciones de la vault). Ahora, la interfaz de usuario detecta si un usuario está tratando de retirar toda la posición de su vault y, en su lugar, pasa "retirar (max_uint)", que quemará todas las acciones de la vault del usuario y no dejará polvo, incluso si el precio de las acciones aumenta cada bloque. .
+  - Anteriormente, al retirar la interfaz de usuario, se convertía la entrada del usuario del saldo del token subyacente en acciones de la vault, y luego se pasaba al contrato de la vault a través de `withdraw(shares)`. Sin embargo, si el precio de las acciones aumentara después de una cosecha, esto podría dejar al usuario con polvo (una pequeña cantidad fraccionaria de acciones de la vault). Ahora, la interfaz de usuario detecta si un usuario está tratando de retirar toda la posición de su vault y, en su lugar, pasa "retirar (max_uint)", que quemará todas las acciones de la vault del usuario y no dejará polvo, incluso si el precio de las acciones aumenta cada bloque.
 - corrección: los laboratorios retiran el cálculo de acciones
   - Hubo un problema al mostrar la cantidad de yveCRV que un usuario recibiría de un retiro de yvBOOST debido al manejo especial del token de vault (yvBOOST) como token de visualización. Esto ha sido corregido.
 - estilo: regla eslint para orden de importación 📝
