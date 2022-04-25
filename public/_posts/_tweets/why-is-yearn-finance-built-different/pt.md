@@ -10,6 +10,7 @@ translator: jameskbh
 ---
 
 original source: [twitter](https://twitter.com/Wot_Is_Goin_On/status/1477277152336916484)
+
 ---
 
 ##### 1
