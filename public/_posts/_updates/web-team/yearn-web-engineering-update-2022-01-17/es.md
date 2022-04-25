@@ -38,7 +38,7 @@ Otras actualizaciones incluyen no más polvo después de los retiros de la vault
 ### **SDK versión 1.0.15 (19 de enero de 2022)**
 
 - logro: añadir lista de permitidos
-- tarea (deps): bump shelljs de 0.8.4 a 0.8.5
+- tarea (deps): versión bump de shelljs de 0.8.4 a 0.8.5
 - logro: habilitar pruebas ci en solicitudes de extracción
 - corrección (account.summaryof): ignorar las vaults de laboratorio para el cálculo de existencias
 - corrección: resolver la importación de recuperación faltante
