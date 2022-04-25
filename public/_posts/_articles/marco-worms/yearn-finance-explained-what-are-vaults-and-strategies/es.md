@@ -40,7 +40,7 @@ Por sus esfuerzos, los estrategas son recompensados con una parte de la tarifa d
 - El 10% de las comisiones de rendimiento generadas por todas las estrategias (comisión de rendimiento) se destina a la tesorería de Yearn DAO.
 - Durante el año, el 2% de los activos totales de la vault se toman como tarifas que se destinan a Yearn para pagar gastos como gas, subvenciones para desarrolladores y otros servicios.
 
-Ahora que sabemos qué son yVaults y Strategies, profundicemos un poco más en cómo funciona su funcionamiento interno.
+Ahora que sabemos qué son yVaults y estrategias, profundicemos un poco más en cómo funciona su funcionamiento interno.
 
 # Profundizando en vaults y estrategias
 
@@ -49,13 +49,13 @@ Ahora que sabemos qué son yVaults y Strategies, profundicemos un poco más en c
 ![](./image3.jpg?w=1024&h=597)\
 *¡Gracias Finematics por esta imagen!*
 
-La imagen de arriba es una descripción general de la estrategia de vault de Ethereum en una versión 1 de yVault. yVaults ahora está en la versión 2 y puede manejar múltiples estrategias al mismo tiempo, pero este ejemplo se centrará en una sola estrategia. Hay una [publicación y video completos de Finematics](https://finematics.com/yearn-vaults-eth-vault-explained/) sobre cómo funciona esto en caso de que quiera profundizar más.
+La imagen de arriba es una descripción general de la estrategia de vault de Ethereum en una versión 1 de yVault. yVault ahora está en la versión 2 y puede manejar múltiples estrategias al mismo tiempo, pero este ejemplo se centrará en una sola estrategia. Hay una [publicación y video completos de Finematics](https://finematics.com/yearn-vaults-eth-vault-explained/) sobre cómo funciona esto en caso de que quiera profundizar más.
 
-¡En este ejemplo, podemos ver cómo una estrategia puede usar otras vaults! En la estrategia Ethereum v1 yVault:
+¡En este ejemplo, podemos ver cómo una estrategia puede usar otras vaults! en la estrategia yVault Ethereum v1 :
 
 - Cuando un usuario deposita ETH, el ETH se presta en MakerDAO como garantía
 - La garantía se utiliza para pedir prestado DAI
-- El DAI prestado se deposita en el yVault DAI 
+- El DAI prestado se deposita en la yVault DAI 
 
 Entonces usamos ETH para pedir prestado DAI y generar rendimiento usando la estrategia yVault DAI.
 
@@ -108,7 +108,7 @@ Una última cosa: después de que Yearn apruebe una estrategia y la ponga en pro
 
 ### Aprende más
 
-Si deseas obtener más contenido sobre Vaults y Estrategias, consulta estos recursos. Todos me ayudaron a entender los conceptos explicados en este artículo, también Yearn contribuidooooooores son las personas más amables y siempre me ayudan a encontrar el mejor recurso para obtener información de calidad sobre cada tema.
+Si deseas obtener más contenido sobre Vaults y Estrategias, consulta estos recursos. Todos me ayudaron a entender los conceptos explicados en este artículo, también contribuidooooooores de Yearn  son las personas más amables y siempre me ayudan a encontrar el mejor recurso para obtener información de calidad sobre cada tema.
 
 - [Descripciones de yVaults](https://vaults.yearn.finance/)
 - [Documentos de yVault](https://docs.yearn.finance/getting-started/products/yvaults/overview)
