@@ -30,7 +30,7 @@ Algunas semanas de limpieza mientras terminamos enero de 2022:
 
 - logro: admite múltiples estrategias en los detalles de la vault
 - corrección: actualice la dirección del ejemplo de simulación
-- corrección: migrar a un nuevo punto final de caché
+- corrección: migrar a un nuevo endpoint de caché
 - logro: mejorar el manejo de errores para simulaciones 🤬
     - Cuando fallan las simulaciones, nuestro equipo de soporte hace un trabajo increíble con la resolución de problemas, pero es hora de darles más herramientas. Esta característica ayudará a los usuarios y al equipo de soporte a resolver problemas con mayor precisión.
 - corrección: no se requiere deshabilitar la lista de permitidos
@@ -46,7 +46,7 @@ Algunas semanas de limpieza mientras terminamos enero de 2022:
 
 **SDK versión 1.0.25**
 
-- corrección: agregue nuevos tipos de metadatos del banco de hierro
+- corrección: agregue nuevos tipos de metadatos del Iron Bank
     - Específicamente, esto abordó la función de tope colateral que Iron Bank implementó recientemente
 
 **Lanzamiento web 1.0.13**
