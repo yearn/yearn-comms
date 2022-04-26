@@ -3,7 +3,7 @@ layout: post
 title: "Yearn Finance Haber Bülteni #61"
 categories: [Newsletters]
 image:
-  src: ./cover.png
+  src: ./cover.jpg
   width: 576
   height: 288
 author: Yearn
