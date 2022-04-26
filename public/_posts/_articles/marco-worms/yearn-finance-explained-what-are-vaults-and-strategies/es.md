@@ -16,7 +16,7 @@ translator: RestlessMik3
 
 El producto principal actual de Yearn orientado al usuario es **yVault**, que proporciona generación de rendimiento automatizada para muchos criptoactivos diferentes, cada uno impulsado por una o más **Estrategias**. El diseño de yVault es abierto, lo que significa que otros protocolos pueden construir e innovar sobre Yearn, [como el caso de Abracadabra + Yearn](https://twitter.com/MarcoWorms/status/1483223651684081670).
 
-# Vaults de año (yVaults)
+# Vaults de Yearn (yVaults)
 
 La forma abreviada de nombrar una Vault de Yearn es **yVault**. En la versión actual de Yearn (v2) estas son las características de un yVault:
 
