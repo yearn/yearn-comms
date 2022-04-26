@@ -63,7 +63,7 @@ Otras actualizaciones incluyen no más polvo después de los retiros de la vault
 - **Ciclo de enfoque 🎯 **
 
   - Finalizar y envíar las mejoras de seguridad, con una publicación de inmersión completa próximamente.
-  - ¡Viene el arbitraje! En este ciclo, el equipo web lleva a Arbitrum a la vanguardia a medida que comenzamos las pruebas y la integración de la vault.
+  - ¡Viene Arbitrum! En este ciclo, el equipo web lleva a Arbitrum a la vanguardia a medida que comenzamos las pruebas y la integración de la vault.
   - Con el lanzamiento de vaults pronto en nuestra tercera cadena, Yearn está diseñando una UI/UX de cadena múltiple para permitir a los usuarios ver más fácilmente las posiciones actuales y las nuevas oportunidades en todas las cadenas admitidas dentro del ecosistema de Yearn.
 
 - **Problemas actuales 🐛**
