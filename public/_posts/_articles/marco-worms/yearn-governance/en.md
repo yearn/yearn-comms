@@ -6,123 +6,123 @@ image:
   height: 482
 date: '2022-04-19'
 author: Marco_Worms
-translator: 
+translator: UrsaMajor
 ---
 
 ![](./image1.jpg?w=900&h=482)
 
-Anyone can discuss or propose ideas in the Yearn's [Discord](https://discord.com/invite/6PNv2nF), [Twitter](https://twitter.com/iearnfinance), [Reddit](https://www.reddit.com/r/yearn_finance), [Pool of Ideas](https://yearnfinance.notion.site/yearnfinance/Pool-of-Ideas-d75383ade9154d8bb6163388c6c2b39b), [Telegram](https://t.me/yearnfinance/), and [Governance Forum](https://gov.yearn.finance/). As proposals mature it becomes a structured vote in the Governance Forum where the [YFI token](https://www.coingecko.com/en/coins/yearn-finance) is used as voting power.
+ईयर के [डिसकॉर्ड](https://discord.com/invite/6PNv2nF), [ट्विटर](https://twitter.com/iearnfinance), [Reddit](https://www) में कोई भी चर्चा या सुझाव दे सकता है .reddit.com/r/yearn_finance), [विचारों का पूल](https://yearnfinance.notion.site/yearnfinance/Pool-of-Ideas-d75383ade9154d8bb6163388c6c2b39b), [टेलीग्राम](https://t.me/yearnfinance /), और [गवर्नेंस फोरम](https://gov.yearn.finance/)। जैसे-जैसे प्रस्ताव परिपक्व होते हैं, यह गवर्नेंस फोरम में एक संरचित वोट बन जाता है जहां [YFI टोकन](https://www.coingecko.com/en/coins/yearn-finance) को वोटिंग पावर के रूप में उपयोग किया जाता है।
 
-- Token holders can vote at [Yearn's Snapshots Page](https://yearn.snapshot.page/#/), there is no gas consumption in the voting transaction!
-- There is also a [retired governance repository](https://docs.yearn.finance/contributing/governance/proposal-repository) which is now unused but can be explored to learn about Yearn history!
+- टोकन धारक [ईयर्स स्नैपशॉट पेज](https://yearn.snapshot.page/#/) पर वोट कर सकते हैं, वोटिंग ट्रांजेक्शन में गैस की खपत नहीं होती है!
+- एक [सेवानिवृत्त शासन भंडार](https://docs.yearn.finance/contributing/governance/proposal-repository) भी है जो अब अप्रयुक्त है लेकिन वर्ष के इतिहास के बारे में जानने के लिए इसका पता लगाया जा सकता है!
 
-The most common type of proposals in the forum are Yearn Improvement Proposals (YIPs) but there are other types covered in the [current Yearn governance implementation (YIP-61)](https://gov.yearn.finance/t/yip-61-governance-2-0/10460):
+फ़ोरम में सबसे आम प्रकार के प्रस्ताव वर्ष सुधार प्रस्ताव (YIP) हैं, लेकिन [वर्तमान वर्ष शासन कार्यान्वयन (YIP-61)](https://gov.yearn.finance/t/yip-) में अन्य प्रकार शामिल हैं। 61-शासन-2-0/10460):
 
-- **Yearn Improvement Proposal (YIP):** A proposal to execute any power delegated to YFI holders or outside the scope of enumerated powers
-- **Yearn Delegation Proposal (YDP):** A proposal to change how a yTeam has power over a scope
-- **Yearn Signaling Proposal (YSP):** A non-binding proposal to signal community feelings or intent on any issue
+- **इयर इम्प्रूवमेंट प्रस्ताव (YIP):** YFI धारकों को प्रत्यायोजित किसी शक्ति को निष्पादित करने का प्रस्ताव या प्रगणित शक्तियों के दायरे से बाहर
+- **ईयर डेलिगेशन प्रस्ताव (YDP):** यह बदलने का प्रस्ताव कि कैसे एक yTeam के पास एक दायरे पर अधिकार है
+- **इयर सिग्नलिंग प्रस्ताव (वाईएसपी):** किसी मुद्दे पर समुदाय की भावनाओं या मंशा का संकेत देने के लिए एक गैर-बाध्यकारी प्रस्ताव
 
-### Governance Scope
+### शासन का दायरा
 
-[YIP-61](https://gov.yearn.finance/t/yip-61-governance-2-0/10460) determines how Yearn governance currently works: [yTeams](https://gov.yearn.finance/t/yip-61-governance-2-0/10460#yteams-9) have delegated authority from YFI holders to utilize limited powers autonomously. Holding YFI allows one to have control over how the power is distributed among teams, YFI gives exclusive voting power to pass or deny changes that shift power dynamics within the protocol such as:
+[YIP-61](https://gov.yearn.finance/t/yip-61-governance-2-0/10460) निर्धारित करता है कि वर्तमान में ईयर गवर्नेंस कैसे काम करता है: [yTeams](https://gov.yearn.finance /t/yip-61-governance-2-0/10460#yteams-9) ने YFI धारकों से स्वायत्त रूप से सीमित शक्तियों का उपयोग करने का अधिकार दिया है। YFI को धारण करने से किसी को यह नियंत्रित करने की अनुमति मिलती है कि टीमों के बीच शक्ति कैसे वितरित की जाती है, YFI प्रोटोकॉल के भीतर पावर डायनामिक्स को स्थानांतरित करने वाले परिवर्तनों को पारित करने या अस्वीकार करने के लिए विशेष मतदान शक्ति देता है जैसे:
 
-- Change Multisig or yTeams Signers
-- Ratify yTeams
-- Spend Treasury Funds
-- Set Protocol Fees
-- Change YFI contract
+- मल्टीसिग या yTeams साइनर्स बदलें
+- yTeams की पुष्टि करें
+- ट्रेजरी फंड खर्च करें
+- प्रोटोकॉल शुल्क सेट करें
+- YFI अनुबंध बदलें
 
-## Governance Forum Process 
+## शासन मंच प्रक्रिया
 
-Anyone is able to create a new proposal at [Yearn Governance Forums](https://gov.yearn.finance/):
+कोई भी [ईयर गवर्नेंस फ़ोरम] (https://gov.yearn.finance/) पर एक नया प्रस्ताव बना सकता है:
 
 ![](./image2.jpg?w=900&h=486)
 
-### Proposal Template
+### प्रस्ताव टेम्पलेट
 
-As established by [YIP-55](https://gov.yearn.finance/t/yip-55-formalize-the-yip-process/7959), here is a standard way to write proposals:
+जैसा कि [YIP-55](https://gov.yearn.finance/t/yip-55-formalize-the-yip-process/7959) द्वारा स्थापित किया गया है, यहां प्रस्ताव लिखने का एक मानक तरीका है:
 
-**Summary**:
-The outcome of the proposed change, written in a non-technical and accessible manner
+**सारांश**:
+प्रस्तावित परिवर्तन का परिणाम, गैर-तकनीकी और सुलभ तरीके से लिखा गया
 
-- **Status:** *(This field is not required but it helps everyone)*
-    - **Discussion:** This proposal is currently in the discussion phase. As per our voting rules outlined in YIP-55, it will be in discussion for at least 3 days with a non-binding forum poll to gauge sentiment before it can be assigned a YIP number and move to Snapshot for a binding vote
-    - **Voting:** This proposal is currently in the voting phase. Cast your vote on Snapshot. You can learn about our voting rules in YIP-55
-    - **Passed:** This proposal passed on April 25, 2021 at 7:00 UTC with 99.97% voting for
+- **स्थिति:** *(इस क्षेत्र की आवश्यकता नहीं है लेकिन यह सभी की मदद करता है)*
+    - **चर्चा:** यह प्रस्ताव अभी चर्चा के चरण में है। YIP-55 में उल्लिखित हमारे मतदान नियमों के अनुसार, इसे YIP नंबर असाइन करने और बाध्यकारी वोट के लिए स्नैपशॉट पर जाने से पहले भावनाओं का आकलन करने के लिए एक गैर-बाध्यकारी फ़ोरम पोल के साथ कम से कम 3 दिनों तक चर्चा की जाएगी।
+    - **मतदान:** यह प्रस्ताव अभी मतदान के चरण में है। स्नैपशॉट पर अपना वोट डालें। आप हमारे मतदान नियमों के बारे में YIP-55 . में जान सकते हैं
+    - ** पारित:** यह प्रस्ताव 25 अप्रैल, 2021 को 7:00 UTC पर 99.97% मतदान के साथ पारित हुआ
 
-**Abstract:**
-A short (~200 words) description of the proposed change. Should clearly describe what happens if the proposal passes.
+**सार:**
+प्रस्तावित परिवर्तन का संक्षिप्त (~200 शब्द) विवरण। स्पष्ट रूप से वर्णन करना चाहिए कि यदि प्रस्ताव पारित हो जाता है तो क्या होगा।
 
-**Motivation:**
-The current problem that made you write the change proposal
+**प्रेरणा:**
+वर्तमान समस्या जिसने आपको परिवर्तन प्रस्ताव लिखने पर मजबूर किया
 
-**Specification:**
-A long description of how this proposal solves the problem, should describe how to implement the YIP
+**विनिर्देश:**
+यह प्रस्ताव समस्या को कैसे हल करता है इसका एक लंबा विवरण, यह वर्णन करना चाहिए कि वाईआईपी को कैसे कार्यान्वित किया जाए
 
-**Poll:**
-A voting dynamic that is built in the governance forum to gauge the community sentiment on the proposal, should be greater than 50%
+**पोल:**
+एक मतदान गतिशील जो प्रस्ताव पर समुदाय की भावना को मापने के लिए शासन मंच में बनाया गया है, 50% से अधिक होना चाहिए
 
-### Discussion
+### विचार-विमर्श
 
-There should be enough time (at least 3 days) of discussion so the proposal can be tackled from many angles by community members. Use Discourse's built-in Poll tool to gauge the community sentiment about the proposal before raising a formal vote, the poll should have at least 50% passing votes.
+चर्चा के लिए पर्याप्त समय (कम से कम 3 दिन) होना चाहिए ताकि प्रस्ताव को समुदाय के सदस्यों द्वारा कई कोणों से निपटाया जा सके। औपचारिक वोट देने से पहले प्रस्ताव के बारे में समुदाय की भावना को मापने के लिए डिस्कोर्स के अंतर्निहित पोल टूल का उपयोग करें, मतदान में कम से कम 50% पासिंग वोट होना चाहिए।
 
 ![](./image3.jpg?w=900&h=351)
 
-Discussions ideally should take as long as it takes to clarify what was proposed to the community. Talking to different stakeholders **before** proposing something is a good way to measure sentiment and helps you introduce complex ideas with better support right from the start. An example of proposal with excellent discussion is [YIP-57](https://gov.yearn.finance/t/yip-57-funding-yearns-future/9319) which minted 6,666 YFI tokens beyond the 30,000 initial supply and had to align different types of stakeholders from DAO members to big YFI holders.
+आदर्श रूप से चर्चाओं में उतना ही समय लगना चाहिए, जितना यह स्पष्ट करने में लगता है कि समुदाय को क्या प्रस्तावित किया गया था। विभिन्न हितधारकों से बात करना **पहले** कुछ प्रस्ताव देना भावनाओं को मापने का एक अच्छा तरीका है और आपको शुरुआत से ही बेहतर समर्थन के साथ जटिल विचारों को पेश करने में मदद करता है। उत्कृष्ट चर्चा के साथ प्रस्ताव का एक उदाहरण है [YIP-57](https://gov.yearn.finance/t/yip-57-funding-yearns-future/9319) जिसने 30,000 प्रारंभिक आपूर्ति से परे 6,666 YFI टोकन का खनन किया और था डीएओ सदस्यों से लेकर बड़े वाईएफआई धारकों तक विभिन्न प्रकार के हितधारकों को संरेखित करना।
 
-### Voting
+### मतदान
 
-After the discussion step passed the proposal becomes a YIP (or maybe a YDP depending on its content) and will be put through the voting phase. To submit a vote at [Yearn's Snapshots Page](https://yearn.snapshot.page/#/) you need to hold at least 1 $YFI or ask someone to do it for you, if the proposal is solid this won't be a barrier. Communicate with a forum mod to get an official number for the new YIP!
+चर्चा चरण पारित होने के बाद प्रस्ताव एक वाईआईपी (या शायद इसकी सामग्री के आधार पर एक वाईडीपी) बन जाता है और मतदान चरण के माध्यम से रखा जाएगा। [ईयर्स स्नैपशॉट पेज](https://yearn.snapshot.page/#/) पर वोट सबमिट करने के लिए आपको कम से कम 1 $YFI रखने की जरूरत है या किसी को यह आपके लिए करने के लिए कहना चाहिए, अगर प्रस्ताव ठोस है तो यह जीत जाएगा' टी एक बाधा हो। नए YIP के लिए आधिकारिक नंबर प्राप्त करने के लिए फ़ोरम मॉड के साथ संचार करें!
 
-Voting power corresponds 1:1 to how much $YFI a voter has. So a wallet with 10 $YFI has 10x the voting power as someone with 1 $YFI.
+वोटिंग पावर 1:1 से मेल खाती है कि एक मतदाता के पास कितना $YFI है। तो 10 $YFI वाले वॉलेट में 1 $YFI वाले किसी व्यक्ति के रूप में 10x वोटिंग पावर है।
 
-Voting takes at least 5 days and needs more than 50% passing votes, there is no quorum to be met as outlined by [YIP-55](https://gov.yearn.finance/t/yip-55-formalize-the-yip-process/7959): "quorum requirement might be difficult to quantify and could lead to time-consuming rallying of apathetic voters".
+वोटिंग में कम से कम 5 दिन लगते हैं और 50% से अधिक पासिंग वोटों की आवश्यकता होती है, [YIP-55] (https://gov.yearn.finance/t/yip-55-formalize-the) द्वारा उल्लिखित कोरम पूरा करने के लिए कोई कोरम नहीं है। -yip-process/7959): "कोरम की आवश्यकता को निर्धारित करना मुश्किल हो सकता है और उदासीन मतदाताओं की समय लेने वाली रैली का कारण बन सकता है"।
 
 ![](./image4.jpg?w=900&h=543)
 
-Holding or staking YFI in the following places allows you to vote:
-- Your wallet
-- YFI yVault V2 (equivalent to holding the yvYFI token)
-- Balancer YFI/WETH LP token
-- Uniswap YFI/WETH LP token
-- Sushiswap YFI/WETH LP token staked in MasterChef
-- MakerDAO YFI collateral
-- Unit Protocol YFI collateral
-- Bancor
+YFI को निम्नलिखित स्थानों पर रखने या दांव पर लगाने से आप मतदान कर सकते हैं:
+- आपका बटुआ
+- YFI yVault V2 (yvYFI टोकन रखने के बराबर)
+- बैलेंसर YFI/WETH LP टोकन
+- यूनिस्वैप YFI/WETH LP टोकन
+- मास्टरशेफ में सुशी स्वैप YFI/WETH LP टोकन दांव पर
+- मेकरडीएओ वाईएफआई संपार्श्विक
+- यूनिट प्रोटोकॉल YFI संपार्श्विक
+- बैंकोरो
 
-### Conclude & Execute
+### निष्कर्ष निकालें और निष्पादित करें
 
-If the voting has passed with over 50% votes Yearn DAO must execute it. The way [Yearn DAO](https://yearnfinance.notion.site/yearnfinance/Welcome-to-Yearn-Finance-26d6c4210e3e405c9f02f84ba567a249) works is not like a top-down command & control company, so it won't enforce or obligate a team or any individual to execute the proposal. The DAO will ensure that the correct incentives are set for the proposal to be executed (for example allocate treasure to pay for work done by contributors)
+यदि मतदान 50% से अधिक मतों के साथ पारित हो गया है, तो वर्ष डीएओ को इसे निष्पादित करना होगा। जिस तरह से [Yearn DAO](https://yearnfinance.notion.site/yearnfinance/Welcome-to-Yearn-Finance-26d6c4210e3e405c9f02f84ba567a249) काम करता है वह टॉप-डाउन कमांड और कंट्रोल कंपनी की तरह नहीं है, इसलिए यह लागू या बाध्य नहीं करेगा प्रस्ताव को निष्पादित करने के लिए एक टीम या कोई व्यक्ति। डीएओ यह सुनिश्चित करेगा कि निष्पादित किए जाने वाले प्रस्ताव के लिए सही प्रोत्साहन निर्धारित किए गए हैं (उदाहरण के लिए योगदानकर्ताओं द्वारा किए गए कार्यों के भुगतान के लिए खजाना आवंटित करना)
 
-Recently 2 YIPs were passed and are being executed by Yearn as I write this:
+हाल ही में 2 वाईआईपी पारित किए गए थे और यरन द्वारा निष्पादित किए जा रहे हैं क्योंकि मैं इसे लिखता हूं:
 
-- [YIP-65: Evolving YFI Tokenomics](https://gov.yearn.finance/t/yip-65-evolving-yfi-tokenomics/11994)
-- [YIP-66: Streamlining contributor compensation](https://gov.yearn.finance/t/yip-66-streamlining-contributor-compensation/12247)
+- [YIP-65: YFI टोकन का विकास](https://gov.yearn.finance/t/yip-65-evolving-yfi-tokenomics/11994)
+- [YIP-66: योगदानकर्ता मुआवजे को सुव्यवस्थित करना](https://gov.yearn.finance/t/yip-66-streamlining-contributor-compensation/12247)
 
-## Fair launch of YFI
+## YFI का फेयर लॉन्च
 
 ![](./image5.jpg?w=900&h=228)
 
-[Andre Cronje](https://medium.com/@andrecronje) was the first builder of Yearn and what he sparked became a DAO with now over 200 active participants. This is only possible to exist as is today because Cronje gave away every inch of power he had over the protocol, and the way he did it was through YFI. Whoever used Yearn services and ecosystem in the early days received this power, and you can find information on how this process happened in Cronje's posts:
+[आंद्रे क्रोन्ये](https://medium.com/@andrecronje) इयरन के पहले निर्माता थे और उन्होंने जो कुछ भी किया वह अब 200 से अधिक सक्रिय प्रतिभागियों के साथ डीएओ बन गया। यह आज की तरह ही अस्तित्व में रहना संभव है क्योंकि क्रोन्ये ने प्रोटोकॉल पर अपने पास मौजूद हर इंच की शक्ति को दे दिया, और जिस तरह से उन्होंने इसे किया वह वाईएफआई के माध्यम से था। जिसने भी शुरुआती दिनों में ईयर सेवाओं और पारिस्थितिकी तंत्र का उपयोग किया, उसे यह शक्ति प्राप्त हुई, और आप क्रोन्ये की पोस्ट में इस प्रक्रिया के बारे में जानकारी प्राप्त कर सकते हैं:
 
-1) [YFI](https://medium.com/iearn/yfi-df84573db81) (Earning YFI is simple, provide liquidity to one of the platforms)
-2) [Earning YFI curve.fi/y](https://medium.com/iearn/earning-yfi-y-curve-fi-53b5fd347f0f) (Earn YFI by providing liquidity to curve)
-3) [YFI rewards pool](https://medium.com/iearn/yfi-rewards-pool-810ef9256ec6) (Reward pool for burning YFI)
-4) [Pool #3 Meta Yield Governance](https://medium.com/iearn/pool-3-meta-yield-governance-58f68e6d2f19) (Pool that rewarded many things including participating in governance)
+1) [YFI](https://medium.com/iearn/yfi-df84573db81) (YFI कमाना आसान है, किसी एक प्लेटफॉर्म को तरलता प्रदान करें)
+2) [YFI कर्व.fi/y कमाई](https://medium.com/iearn/earning-yfi-y-curve-fi-53b5fd347f0f) (वक्र को तरलता प्रदान करके YFI कमाएं)
+3) [YFI रिवॉर्ड पूल](https://medium.com/iearn/yfi-rewards-pool-810ef9256ec6) (YFI को जलाने के लिए रिवॉर्ड पूल)
+4) [पूल #3 मेटा यील्ड गवर्नेंस](https://medium.com/iearn/pool-3-meta-yield-governance-58f68e6d2f19) (पूल जिसने शासन में भाग लेने सहित कई चीजों को पुरस्कृत किया)
 
-## Additional Resources
+## अतिरिक्त संसाधन
 
-If you are looking for inspiration to make a proposal you can take a look at the following YIPs which had extensive discussion and changed power dynamics within the protocol:
+यदि आप एक प्रस्ताव बनाने के लिए प्रेरणा की तलाश में हैं तो आप निम्नलिखित वाईआईपी पर एक नज़र डाल सकते हैं, जिसमें प्रोटोकॉल के भीतर व्यापक चर्चा और बदली हुई शक्ति की गतिशीलता थी:
 
-- [YIP 32: Remove YFI burning](https://gov.yearn.finance/t/yip-32-remove-yfi-burning/1907)
-- [YIP 36: System Rewards as Operational Capital](https://gov.yearn.finance/t/yip-36-system-rewards-as-operational-capital/2311)
-- [YIP 41: Temporarily Empower Multisig](https://gov.yearn.finance/t/yip-41-temporarily-empower-multisig/3630/2)
-- [YIP-51: Set Vault v2 fee structure](https://gov.yearn.finance/t/yip-51-set-vault-v2-fee-structure/7752)
-- [YIP-52: Make Strategist Skin in Game Partner for Make Benefit of Glorious Brain of Yearn](https://gov.yearn.finance/t/yip-52-make-strategist-skin-in-game-partner-for-make-benefit-of-glorious-brain-of-yearn/7856)
-- [YIP-54: Formalize Operations Funding](https://gov.yearn.finance/t/yip-54-formalize-operations-funding/7956)
-- [YIP-55: Formalize the YIP Process](https://gov.yearn.finance/t/yip-55-formalize-the-yip-process/7959)
-- [YIP-56: Buyback and Build](https://gov.yearn.finance/t/yip-56-buyback-and-build/8929)
-- [YIP-57: Funding Yearn’s Future](https://gov.yearn.finance/t/yip-57-funding-yearns-future/9319)
-- [YIP-61: Governance 2.0](https://gov.yearn.finance/t/yip-61-governance-2-0/10460)
-- [YIP-65: Evolving YFI Tokenomics](https://gov.yearn.finance/t/yip-65-evolving-yfi-tokenomics/11994)
-- [YIP-66: Streamlining contributor compensation](https://gov.yearn.finance/t/yip-66-streamlining-contributor-compensation/12247)
+- [YIP 32: YFI बर्निंग हटाएं](https://gov.yearn.finance/t/yip-32-remove-yfi-burning/1907)
+- [वाईआईपी 36: ऑपरेशनल कैपिटल के रूप में सिस्टम रिवार्ड्स](https://gov.yearn.finance/t/yip-36-system-rewards-as-operational-capital/2311)
+- [वाईआईपी 41: अस्थायी रूप से मल्टीसिग को सशक्त बनाएं](https://gov.yearn.finance/t/yip-41-temporally-empower-multisig/3630/2)
+- [YIP-51: Vault v2 शुल्क संरचना सेट करें](https://gov.yearn.finance/t/yip-51-set-vault-v2-fee-structure/7752)
+- [वाईआईपी-52: मेक स्ट्रेटेजिस्ट स्किन इन गेम पार्टनर फॉर मेक बेनिफिट ऑफ ग्लोरियस ब्रेन ऑफ ईयर](https://gov.yearn.finance/t/yip-52-make-strategist-skin-in-game-partner- लाभ-लाभ-शानदार-दिमाग-की-वर्ष/7856)
+- [YIP-54: ऑपरेशंस फंडिंग को औपचारिक रूप दें](https://gov.yearn.finance/t/yip-54-formalize-operations-funding/7956)
+- [YIP-55: YIP प्रक्रिया को औपचारिक रूप दें](https://gov.yearn.finance/t/yip-55-formalize-the-yip-process/7959)
+- [YIP-56: बायबैक और बिल्ड](https://gov.yearn.finance/t/yip-56-buyback-and-build/8929)
+- [YIP-57: फंडिंग ईयर का फ्यूचर](https://gov.yearn.finance/t/yip-57-funding-yearns-future/9319)
+- [वाईआईपी-61: गवर्नेंस 2.0](https://gov.yearn.finance/t/yip-61-governance-2-0/10460)
+- [YIP-65: YFI टोकन का विकास](https://gov.yearn.finance/t/yip-65-evolving-yfi-tokenomics/11994)
+- [YIP-66: योगदानकर्ता मुआवजे को सुव्यवस्थित करना](https://gov.yearn.finance/t/yip-66-streamlining-contributor-compensation/12247)
