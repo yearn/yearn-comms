@@ -90,7 +90,7 @@ Y hay muchos casos como este, otro ejemplo sería un Guardián que pide un reequ
 
 ![](./image4.jpg?w=562&h=651)
 
-### Estrategias de construcción
+### Construyendo estrategias
 
 * **yVaults** están programados en [Vyper](https://vyper.readthedocs.io/en/stable/)
 * **Estrategias** están programadas en [Solidity](https://docs.soliditylang.org/en/v0.8.11/)
