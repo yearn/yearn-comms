@@ -63,7 +63,7 @@ Algunas semanas de limpieza mientras terminamos enero de 2022:
 
 - corrección: error de obtención del saldo del token
 - logro: agregar campos de identificación de prueba para la integración
-- logro: arbitraje de apoyo 🚀
+- logro: soporte de Arbitrum 🚀
 
 **Misceláneas**
 
