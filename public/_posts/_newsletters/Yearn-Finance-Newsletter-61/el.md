@@ -63,7 +63,7 @@
 
 Κάντε κλικ [εδώ](https://medium.com/iearn/yearn-governance-explained-proposals-yfi-token-and-execution-113ec86c3a3f) για να μάθετε περισσότερα για τη διακυβέρνηση του Yearn από τον συνεργάτη μας MarcoWorms.
 
-# Άνθρωποι του Yearn: Mik3
+# Άνθρωποι του Yearn: RestlessMik3
 
 ![](./image5.jpg?w=400&h=294)
 
