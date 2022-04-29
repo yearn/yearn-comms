@@ -8,7 +8,7 @@ image:
   height: 288
 author: Yearn
 date: '2022-04-13'
-translator:jengajojo
+translator: jengajojo
 ---
 
 ### १२ अप्रैल, २०२२ को समाप्त होने वाला सप्ताह
