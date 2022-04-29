@@ -97,8 +97,8 @@ YFI को निम्नलिखित स्थानों पर रखन
 
 हाल ही में २ YIPs पारित किए गए थे और जैसे-जैसे मैं यह लिख रहा हूँ ये यर्न द्वारा निष्पादित किए जा रहे हैं:
 
-- [YIP-६५: Evolving YFI Tokenomics](https://gov.yearn.finance/t/yip-65-evolving-yfi-tokenomics/11994)
-- [YIP-६६: Streamlining contributor compensation](https://gov.yearn.finance/t/yip-66-streamlining-contributor-compensation/12247)
+- [YIP-६५: YFI टोकनोमिक्स का विकास](https://gov.yearn.finance/t/yip-65-evolving-yfi-tokenomics/11994)
+- [YIP-६६: योगदानकर्ता मुआवजे को सुव्यवस्थित करना](https://gov.yearn.finance/t/yip-66-streamlining-contributor-compensation/12247)
 
 ## YFI का उचित लॉन्च
 
