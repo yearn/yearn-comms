@@ -19,7 +19,7 @@ I’ve been working at yearn for about 4 months now and I work with the marketin
 
 I had fiddled with btc and doge in the past but didn’t have much interest on it. Almost a decade later I was fed up with working at fintechs and the VC model, I started making NFTs at Fantom and learned about DeFi and Web3, I like how Ethereum brought space for culture to thrive in the decentralization movement and I wanted to work with something I believe in. I met Yearn when learning DeFi and I liked the concept already, after reading Bluepill and other content by people at Yearn I related a lot to the way it’s being built.
 
-![](image2.jpg?w=350&h=238)
+![](image2.jpg?w=291&h=363)
 
 #### Q: What does your day with Yearn look like?
 
@@ -47,4 +47,4 @@ I like to design games but recently I’ve been playing more than designing. I p
 
 I’m a huge pothead, many frens call me a “productive stoner” because they find it amazing that they think weed is a super downer and I do most things high and with tons of energy! Also I could live 24/7 in the metaverse. That’s where I’ve always lived (online games) and found many good frens like the ones I’m making at Yearn now! I really like when someone I know online is able to meet IRL for a beer or a splif though, frens are one of the few things that makes me leave the metaverse!
 
-![](image3.jpg?w=350&h=238)
+![](image3.jpg?w=350&h=232)
