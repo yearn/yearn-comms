@@ -82,7 +82,7 @@ Statistics on coding languages used across blockchains can be monitored on [Defi
 ## The future awaits
 I’ve only scratched the surface of what’s to come in v3. Yearn contributors are also working on building a number of other exciting products and functionalities! **[Learn more about opportunities to join Yearn here!](https://yearnfinance.notion.site/Join-Us-3e9c95b9bd7846a18c0f1cbe6ab05eda)**
 
-Made in [yearn.finance](https://yearn.finance/#/portfolio)
+### **Made in [yearn.finance](https://yearn.finance/#/portfolio)**
 
 
 
