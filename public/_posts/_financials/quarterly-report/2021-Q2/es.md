@@ -1,5 +1,5 @@
 ---
-title:  "Yearn Finance 2021 Q2 Quarterly Report"
+title:  "Informe Trimestral 2021 Q2 de Yearn Finance"
 date: '2020-12-14'
 image:
   src: ./cover.jpg
@@ -9,7 +9,7 @@ author: Yearn
 translator: Japzar
 ---
 
-# Informe Trimestral de Yearn Finance
+# informe Trimestral de Yearn Finance
 
 ![](/_posts/_financials/quarterly-report/2021-Q2/image1.jpg?w=1500&h=500)
 
