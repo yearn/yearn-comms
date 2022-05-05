@@ -1,9 +1,9 @@
 ---
-title:  "What is Yearn"
+title:  "¿Que és Yearn?"
 image: ./cover.jpg
 date: "2021-10-09"
 author: Wot_Is_Goin_On
-translator:
+translator: RestlessMik3
 ---
 
 original source: [twitter](https://twitter.com/Wot_Is_Goin_On/status/1446540007292952579)
