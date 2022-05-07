@@ -25,7 +25,7 @@ Muchas vaults de Yearn tienen estrategias basadas en los fondos de Curve y, por 
 
 ## ¿Qué es CRV?
 
-CRV es el token de utilidad y gobernanza de CurveDAO, la organización descentralizada que ejecuta el protocolo [Curve.fi](http://curve.fi/). El objetivo principal del token CRV es incentivar a los proveedores de liquidez en la plataforma [Curve.fi](http://curve.fi/), así como involucrar a tantos usuarios como sea posible en la gobernanza del protocolo. El token CRV tiene tres usos principales: votar, staking y boosts. Esas tres cosas requieren que los usuarios "bloqueen por voto" su CRV a cambio de veCRV. veCRV significa CRV con depósito de votos, y simplemente representa CRV bloqueado por un período de tiempo (entre 1 semana y 4 años).
+CRV es el token de utilidad y gobernanza de CurveDAO, la organización descentralizada que ejecuta el protocolo [Curve.fi](http://curve.fi/). El objetivo principal del token CRV es incentivar a los proveedores de liquidez en la plataforma [Curve.fi](http://curve.fi/), así como involucrar a tantos usuarios como sea posible en la gobernanza del protocolo. El token CRV tiene tres usos principales: votar, staking y boosts. Esas tres cosas requieren que los usuarios "bloqueen por voto" su CRV a cambio de veCRV. veCRV significa CRV con derecho de votos, y simplemente representa CRV bloqueado por un período de tiempo (entre 1 semana y 4 años).
 
 ### Staking
 
@@ -57,7 +57,7 @@ Puede hacerlo tu mismo directamente en [Curve.fi](http://curve.fi/), pero hay un
 
 Bloquear tus tokens CRV en la vault significa que delegas tu poder de voto de [Curve.fi](http://curve.fi/) a Yearn, quien ejecuta constantemente simulaciones para optimizar tus asignaciones de votos, lo que maximiza el rendimiento en todas las vaults, ¡lo que beneficia tus depósitos en otras vaults!
 
-**Ahora puedes reclamar tus recompensas y gastar ese dinero en mojitos mientras disfrutas de tu jubilación.** Sin embargo, otra opción que puedes desear es volver a agregar tus recompensas a la vault para aumentar tus ganancias e incluso puedes encontrar un botón "Retomar staking". ” para hacer precisamente eso. Podrías muy bien hacer esto manualmente, pero Yearn lo tiene cubierto aquí con...
+**Ahora puedes reclamar tus recompensas y gastar ese dinero en mojitos mientras disfrutas de tu jubilación.** Sin embargo, otra opción que puedes desear es volver a agregar tus recompensas a la vault para aumentar tus ganancias e incluso puedes encontrar un botón "Retomar staking"para hacer precisamente eso. Podrías muy bien hacer esto manualmente, pero Yearn lo tiene cubierto aquí con...
 
 ## La yVault yvBOOST 
 
@@ -89,7 +89,7 @@ Ambas vaults de Yearn recompensan a quienes hacen staking de CRV con una parte d
 
 -   Gana una parte de las tarifas comerciales del protocolo (3Crv) de [Curve.fi](http://curve.fi/), reinvertidas automáticamente (para la vault yvBOOST).
 -   Gana una parte del reclamo de Yearn de las tarifas de protocolo de [Curve.fi](http://curve.fi/), además de tus propias recompensas (¡más 3CRV!), reinvertidas automáticamente (para la vault yvBOOST).
--   El poder de voto colectivo de los tokens veCRV se optimiza y re-equilibra automáticamente para maximizar las recompensas en todas las vaults de fondo de Yearn en Curve.
+-   El poder de voto colectivo de los tokens veCRV se optimiza y re-equilibra automáticamente para maximizar las recompensas en todas las vaults de Yearn que usan tokens de fondos de Curve.
 -   Recibe tokens yveCRV o yvBOOST por tu CRV depositado, lo que le permite extraer ganancias fácilmente o salir de tu posición CRV en staking.
 
 El trabajo de Yearn para automatizar la generación de rendimiento y el re-equilibrio de tus activos cripto es especialmente notable en el caso de tus tenencias de CRV, y yveCRV o yvBOOST con lo cual ofrece un lugar poderoso, compuesto y de "establecer y olvidar" para hacer staking de tu CRV.
