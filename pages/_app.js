@@ -75,6 +75,8 @@ function	AppWrapper(props) {
 
 				<meta name={'robots'} content={'index,nofollow'} />
 				<meta name={'googlebot'} content={'index,nofollow'} />
+
+				<script async defer data-domain="blog.yearn.finance" src="https://analytics.yearn.finance/js/plausible.js"></script>
 			</Head>
 			<DefaultSeo
 				title={process.env.WEBSITE_NAME}
