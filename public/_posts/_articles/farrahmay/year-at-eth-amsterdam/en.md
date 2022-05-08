@@ -1,7 +1,7 @@
 ---
 title:  "Yearn at ETHAmsterdam: A Look Back"
 image:
-  src: ./image1.png
+  src: ./image1.jpg
   width: 900
   height: 450
 date: '2022-05-02'
@@ -9,13 +9,13 @@ author: Farrahmay
 translator: 
 ---
 
-![](./image1.png?w=900&h=450)
+![](./image1.jog?w=900&h=450)
 
 **DevConnect and ETHAmsterdam 2022 were a whirlwind of blockchain goodness and Yearn had a notable presence through the week. More than 20 Yearn contributors reunited at the conference and hackathon. We had a jam-packed week of talks, social gatherings, workshops, and meetings.**
 
 **Here are some of the highlights our week in beautiful Amsterdam:)**
 
-![](./image2.png?w=688&h=900)
+![](./image2.jpg?w=688&h=900)
 
 ## Long Live DeFi
 Yearn contributor Skeletor Spaceman took part in the DeFi panel organized by Maven11 & Framework, discussing the future of DeFi alongside thought leaders from MakerDAO, Gro Protocol, and FiatDAO. Have a look:
@@ -32,8 +32,8 @@ DeFi Ginger took the stage at The DAOist’s Global Governance Gathering to disc
 
 The Yearn Finance x Tenderly War Room Simulation was the first security workshop of it’s kind! We had a packed house of developers participating in a high intensity capture the flag like game rife with surprises and curveballs to keep participants on their feet. From shitposters, blaring music, recitations of Euler’s equation and Taylor Swift, there was not shortage of FUD to keep participants on their feet.
 
-![](./image3.png?w=900&h=675)
-![](./image4.png?w=900&h=675)
+![](./image3.jpg?w=900&h=675)
+![](./image4.jpg?w=900&h=675)
 *Congrats to Team 10 for winning first prize!*
 
 ## Secureum Trust X and MEV Day
@@ -56,13 +56,13 @@ Previous night’s festivities notwithstanding, people were up early and bushy-t
 * [Days 3 and 4](https://twitter.com/YFI_interns/status/1517710156594917377?s=20&t=oshRakPAmREtDvgiyGB92Q)
 * [Days 5 through 7](https://twitter.com/iearnfinance/status/1518201870413664256?s=20&t=oshRakPAmREtDvgiyGB92Q)
 
-![](./image5.png?w=900&h=377)
-![](./image6.png?w=675&h=900)
+![](./image5.jpg?w=900&h=377)
+![](./image6.jpg?w=675&h=900)
 
 ## ETHAmsterdam Hackathon
 
-![](./image7.png?w=900&h=798)
-![](./image8.png?w=675&h=900)
+![](./image7.jpg?w=900&h=798)
+![](./image8.jpg?w=675&h=900)
 
 Congrats to VeriFried-Strategy and Archimedes for winning yearn’s bounties at the ETHAmsterdam hackathon! We had so much fun meeting with hackers building on Yearn.
 
@@ -70,7 +70,7 @@ Congrats to VeriFried-Strategy and Archimedes for winning yearn’s bounties at 
 
 Distribution layer of investment strategies tokenized using ERC-4626 standard. Casual users and financial institutions can access levered and hedged strategies with a single transaction. Strategies provide a liquidation protection mechanism as well. See **all the [info]((https://showcase.ethglobal.com/ethamsterdam/archimedes-xc7zd)) and the video:**
 
-![](./image9.png?w=900&h=482)
+![](./image9.jpg?w=900&h=482)
 
 ## VeriFried-Strategy — 2nd prize $2K
 
