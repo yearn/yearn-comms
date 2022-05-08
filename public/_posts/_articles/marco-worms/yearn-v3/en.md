@@ -74,16 +74,15 @@ v2 vaults code is written in [Vyper](https://vyper.readthedocs.io/en/stable/), b
 
 Vyper is a solid language as proven by the v2 system, but has a smaller developer pool. Our decision to go with solidity was based, among other factors, on accessing the larger developer pool necessary for a critical project like this. We see a bright future for Vyper and will continue exploring it in Yearn for smart contracts, any of the modules around vaults can be done using it.
 
-![](./image2.jpg?w=900&h=253)
+![](./image2.jpg?w=900&h=253)\
 *[Defillama blockchain programming language usage statistics](https://defillama.com/languages)*
 
 Statistics on coding languages used across blockchains can be monitored on [Defillama](https://defillama.com/languages), at the moment Vyper makes up around 10% and Solidity 69%. This reflects Solidity’s market dominance, and since we needed more contributors to ship v3 we chose the tech that would allow us to build an experienced team faster.
 
 ## The future awaits
-I’ve only scratched the surface of what’s to come in v3. Yearn contributors are also working on building a number of other exciting products and functionalities! **[Learn more about opportunities to join Yearn here!](https://yearnfinance.notion.site/Join-Us-3e9c95b9bd7846a18c0f1cbe6ab05eda)**
 
-### **Made in [yearn.finance](https://yearn.finance/#/portfolio)**
+I’ve only scratched the surface of what’s to come in v3. Yearn contributors are also working on building a number of other exciting products and functionalities! 
 
+**[Learn more about opportunities to join Yearn here!](https://yearnfinance.notion.site/Join-Us-3e9c95b9bd7846a18c0f1cbe6ab05eda)**
 
-
-
+**Made in [yearn.finance](https://yearn.finance/#/portfolio)**
