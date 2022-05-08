@@ -19,7 +19,7 @@ export const getStaticProps = async ({locale, params}) => {
 		['tweets/', ['']],
 		['financials/', ['', 'quarterly-report/']],
 		['updates/', ['', 'web-team/']],
-		['articles/', ['', 'andre-cronje/', 'forum/', 'wot-is-goin-on/', 'yearn-finance/', 'marco-worms/', 'people-of-yearn/', 'kish/', 'transcriptions/']],
+		['articles/', ['', 'andre-cronje/', 'forum/', 'wot-is-goin-on/', 'yearn-finance/', 'marco-worms/', 'people-of-yearn/', 'kish/', 'farrahmay/', 'transcriptions/']],
 	];
 	const	dirs = [];
 	for (let index = 0; index < childrens.length; index++) {
