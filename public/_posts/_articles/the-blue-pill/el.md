@@ -1,18 +1,19 @@
 ---
-title:  "The Blue Pill"
+title:  "To Μπλε Χάπι"
 image:
   src: ./cover.jpg
   width: 742
   height: 450
 date: '2021-06-02'
 author: Yearn
+translator: Stathis
 ---
 
 Το Μπλε Χάπι
 Ένας πνευματικός οδηγός για το παρελθόν, το παρόν και το μέλλον
 
 Το Μπλε Χάπι
-ΠΑΡΕΛΘΌΝ - ΠΑΡΌΝ - ΜΈΛΛΟΝ
+ΠΑΡΕΛΘΌΝ • ΠΑΡΌΝ • ΜΈΛΛΟΝ
 
 ΤΙ ΕΙΝΑΙ
 TO YEARN?
