@@ -27,6 +27,7 @@ export async function getStaticProps({params, locale}) {
 		(params.path === 'articles' && (params.slug.length === 1 && params.slug[0] === 'forum')) ||
 		(params.path === 'articles' && (params.slug.length === 1 && params.slug[0] === 'wot-is-goin-on')) ||
 		(params.path === 'articles' && (params.slug.length === 1 && params.slug[0] === 'marco-worms')) ||
+		(params.path === 'articles' && (params.slug.length === 1 && params.slug[0] === 'people-of-yearn')) ||
 		(params.path === 'articles' && (params.slug.length === 1 && params.slug[0] === 'kish')) ||
 		(params.path === 'articles' && (params.slug.length === 1 && params.slug[0] === 'yearn-finance')) ||
 		(params.path === 'updates' && (params.slug.length === 1 && params.slug[0] === 'web-team'))		
@@ -113,6 +114,7 @@ export async function getStaticPaths() {
 		paths.push({params: {path: 'articles', slug: ['wot-is-goin-on']}, locale: code});
 		paths.push({params: {path: 'articles', slug: ['yearn-finance']}, locale: code});
 		paths.push({params: {path: 'articles', slug: ['marco-worms']}, locale: code});
+		paths.push({params: {path: 'articles', slug: ['people-of-yearn']}, locale: code});
 		paths.push({params: {path: 'articles', slug: ['kish']}, locale: code});
 		paths.push({params: {path: 'updates', slug: ['web-team']}, locale: code});		
 	});
