@@ -1,5 +1,5 @@
 ---
-title:  "Yearn Vaults v3"
+title:  "Vaults Yearn v3"
 image:
   src: ./image1.jpg
   width: 900
