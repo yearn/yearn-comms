@@ -2,8 +2,8 @@
 title:  "How to Contribute to DAOs"
 image:
   src: ./cover.jpg
-  width: 1280
-  height: 800
+  width: 1024
+  height: 608
 date: '2022-02-18'
 author: Tracheopteryx
 translator:
