@@ -12,7 +12,7 @@ translator:
 # How to Contribute to DAOs
 
 
-[![How to Contribute to DAOs](tracheopteryx.jpg?w=200&h=200)](https://www.youtube.com/embed/anDAtWrhDnE "How to Contribute to DAOs")
+[![How to Contribute to DAOs](tracheopteryx.jpg?w=512&h=304)](https://www.youtube.com/embed/anDAtWrhDnE "How to Contribute to DAOs")
 #### Transcribed by Kish
 _note: This is a transcription of a talk given by Tracheopteryx at Eth Denver 2022_
 
@@ -58,7 +58,7 @@ There's going to be a lot of permissionless executions available. You might be a
 
 And then you're going to execute. So now you found the thing that you want to do. You're going to execute it, but this doesn't guarantee it's going to be valuable. There's no boss telling you that this is what you should do, etc, and you might do things and they might not be valuable. So in a DAO with all these sovereign agents, we have to bring in a much more evolved notion of consent.
 
-![](cover.jpg?w=480&h=289)
+![](cover.jpg?w=498&h=372)
 
 So this is a model actually that comes from Betty Martin from the sacred sexuality world, which helps you understand how to relate to other people and what the true nature of consent is and it's super useful for us, too. So the top part is active things. The bottom part are passive things to receive. On the left, there are things you're giving you're giving a gift to the things on the right. And on the right are things that are getting.
 
