@@ -5,8 +5,8 @@ image:
   width: 900
   height: 450
 date: '2022-05-10'
-author: Cryptouf
-translator: 
+author: Starkswap
+translator: Cryptouf
 ---
 
 ![](cover.jpg?w=900&h=450)
@@ -31,4 +31,4 @@ La version alpha de l'interface utilisateur est LIVE sur le testnet StarkNet. Vo
 
 ## Se tenir au courant
 
-Retrouver nous sur [Discord](https://discord.gg/XZZvXfmsXa) ou [Telegram](https://t.me/starkswap) pour en savoir plus sur Starkswap et l'Iron Fleet.Suivez-nous sur [Twitter](https://twitter.com/starkswap) pour vous tenir au courant des dernières nouveautés.
+Retrouver nous sur [Discord](https://discord.gg/XZZvXfmsXa) ou [Telegram](https://t.me/starkswap) pour en savoir plus sur Starkswap et l'Iron Fleet. Suivez-nous sur [Twitter](https://twitter.com/starkswap) pour vous tenir au courant des dernières nouveautés.
