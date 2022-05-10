@@ -27,7 +27,7 @@ Bienvenido a la 43.ª edición de la newsletter de Yearn Finance. Nuestro objeti
 
 ![](image2.jpg)
 
-En medio de un escrutinio regulatorio cada vez más intenso de DeFi, se ha propuesto que LeXpunK_DAO debería dedicarse a la defensa legal para Yearn y otras comunidades DeFi centradas en constructores. El LeXpunK_DAO estará gobernado por constructores de comunidades contribuyentes (incluido Yearn) y abogados en ejercicio del LeXpunK Army 146.
+En medio de un escrutinio regulatorio cada vez más intenso de DeFi, se ha propuesto que LeXpunK_DAO debería dedicarse a la defensa legal de Yearn y otras comunidades DeFi centradas en constructores. El LeXpunK_DAO estará gobernado por constructores de comunidades contribuyentes (incluido Yearn) y abogados en ejercicio del LeXpunK Army 146.
 
 El 5 % del suministro actual de L3X, el token de gobierno no transferible de LeXpunK Army, se enviará via airdrop a los titulares de YFI que apoyen esta propuesta, para permitir encuestas de opinión directas sobre cuestiones legales relevantes de la comunidad de Yearn. LeXpunK realizará airdrops adicionales de vez en cuando, proporcionalmente en línea con las contribuciones relativas de otras comunidades de constructores, con el objetivo de formar una coalición amplia para reunir recursos para financiar objetivos de defensa compartidos.
 
