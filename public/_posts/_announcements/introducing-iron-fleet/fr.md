@@ -11,8 +11,6 @@ translator:
 
 ![](cover.jpg?w=900&h=450)
 
-# Présentation de l'Iron Fleet
-
 L'équipe [Starkswap](http://starkswap.co/) est ravie d'annoncer le lancement de l'Iron Fleet en partenariat avec [Yearn Finance](https://yearn.finance/#/home).
 
 ## Qu'est ce que l'Iron Fleet?
