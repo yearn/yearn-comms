@@ -2,14 +2,14 @@
 title: "Yearn Allowlist"
 image:
   src: ./cover.jpg
-  width: 314
-  height: 316
+  width: 770
+  height: 367
 date: '2022-05-06'
 author: Weaver
 translator: RestlessMik3
 ---
 
-![](./image1.jpg?w=900&h=429)
+![](./image1.jpg?w=770&h=367)
 
 ## Overview  
 
