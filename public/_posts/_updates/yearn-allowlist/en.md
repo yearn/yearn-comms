@@ -1,12 +1,12 @@
 ---
 title: "Yearn Allowlist"
 image:
-  src: ./cover.jpg
+  src: ./image1.jpg
   width: 770
   height: 367
 date: '2022-05-06'
 author: Weaver
-translator: RestlessMik3
+translator: 
 ---
 
 ![](./image1.jpg?w=770&h=367)
@@ -28,6 +28,7 @@ In the Allowlist contract there’s a list of conditions, which are structs that
 Here’s the one for approving a vault token (in JSON form):
 
 ```
+{
   "id"= "TOKEN_APPROVE_VAULT",
   "implementationId": "IMPLEMENTATION_YEARN_VAULTS",
   "methodName": "approve",
@@ -36,6 +37,7 @@ Here’s the one for approving a vault token (in JSON form):
     ["target", "isVaultUnderlyingToken"],
     ["param", "isVault", "0"]
   ]
+}
 ```
 
 - `id`: The identifier of the condition, allows the condition to be updated or removed by the protocol owner  
@@ -63,7 +65,7 @@ There are 3 steps to validate it:
 
 1. We first check the [method selector](https://github.com/yearn/eth-allowlist/blob/03f2a9ad5716abd0dbfc6d45885f5d6a04061edc/contracts/libraries/CalldataValidation.sol#L72). From the condition we generate what we are expecting the method selector to be for an approval transaction. Since we have the function name and parameters stored in the condition we can recreate the function and take `bytes4(keccak256(bytes(reconstructedMethodSignature)))`. We can then compare this against the first 4 bytes of the calldata, to ensure that a valid function is being called by the website. The 4 byte signature of `approve(address,uint256)` is `0x095ea7b3` so we can see that the calldata is valid for this.
 
-2. We then [validate the target](https://github.com/yearn/eth-allowlist/blob/03f2a9ad5716abd0dbfc6d45885f5d6a04061edc/contracts/libraries/CalldataValidation.sol#L50). To do this we make a call to the implementation contract of the condition, using the provided validation, in this case `isVaultUnderlyingToken`. We always know that we are validating an address so we can assume that that function has a single address parameter. It is also assumed that this function returns a bool. If the value returned is false then the transaction is not valid. In the implementation contract there is a function `isVaultUnderlyingToken` which then proceeds to call Yearn’s vaults registry to perform the actual validation.
+2. We then [validate the target](https://github.com/yearn/eth-allowlist/blob/03f2a9ad5716abd0dbfc6d45885f5d6a04061edc/contracts/libraries/CalldataValidation.sol#L50). To do this we make a call to the implementation contract of the condition, using the provided validation, in this case `isVaultUnderlyingToken`. We always know that we are validating an address so we can assume that that function has a single address parameter. It is also assumed that this function returns a `bool`. If the value returned is false then the transaction is not valid. In the implementation contract there is a function `isVaultUnderlyingToken` which then proceeds to call Yearn’s vaults registry to perform the actual validation.
 
 3. We then [validate all the parameter conditions](https://github.com/yearn/eth-allowlist/blob/03f2a9ad5716abd0dbfc6d45885f5d6a04061edc/contracts/libraries/CalldataValidation.sol#L95), of which there can be more than one, or none in the case of a function with no arguments. In this case we want to check that the parameter in position 0 satisfies the function `isVault` on the implementation contract, this way we will know that the user is depositing into a valid vault. Again, the implementation contract uses the Yearn vault registry to check whether the address decoded from the calldata is a valid vault or not.
 
@@ -75,17 +77,19 @@ The Allowlist was designed so that each website would have an instance of its ow
 
 The security of an Allowlist also depends on the implementation contracts. If these were easily mutable, or were implemented incorrectly, then the security of the Allowlist would be compromised. It’s best to make these contracts immutable, or if they need to be updatable, then ownership by the protocol’s multisig would be preferable.
 
-# Registering as a protocol
+## Registering as a protocol
+
 For protocols to create and register their own Allowlist they can do the following steps:
 
 - Start the registration of the Allowlist using `registerProtocol` on the [Allowlist Registry contract](https://etherscan.io/address/0xb39c4EF6c7602f1888E3f3347f63F26c158c0336). This will deploy a new Allowlist for the protocol’s domain. Note: the account starting the registration will need to be registered as the owner of the domain through ENS.
-
 - Deploy custom implementation contracts, that can be used to validate targets/parameters against
-- Link these implementation contracts to the Allowlist by using the `setImplementation function`.
+- Link these implementation contracts to the Allowlist by using the `setImplementation` function.
 - Figure out all transactions that are created through the website, and create corresponding conditions. Set these conditions on the Allowlist using `addConditions`
+
 An example deploy script can be found [here](https://github.com/yearn/yearn-allowlist/blob/main/scripts/chains/250/deploy.py)
 
 ## Future improvements
+
 As detailed, this feature reduces the manipulation of data from which transactions users are submitting are created, such as data from APIs. However, if the source code of the website is compromised, or malicious code is injected, then these checks could simply be ignored and malicious transactions formed to present to the user.
 
 To avoid this the Allowlist could be integrated into a wallet (such as metamask), which itself would validate all transactions that are about to be submitted against the Allowlist fetched for the domain name the transaction originated from. This would completely remove the manipulation of front-end source code from being an attack vector and would be a competitive advantage for any wallet implementing it. The Allowlist Registry can be used to validate any calldata for any website with the following function:
@@ -110,18 +114,18 @@ function validateCalldataByOrigin(
     targetAddress,
     data
   );
+}
 ```
 
 ## Further reading
 
-## Eth-Allowlist
+**Eth-Allowlist**
 https://github.com/yearn/eth-allowlist
 
-## Yearn’s allowlist implementation example
+**Yearn’s allowlist implementation example**
 https://github.com/yearn/yearn-allowlist
 
-## ENS DNS registration
+**ENS DNS registration**
 https://docs.ens.domains/dns-registrar-guide
 
-**This article was provided anonymously by a Yearn dev.
-I just copy pasta — xoxo weaver.**
+*This article was provided anonymously by a Yearn dev. I just copy pasta — xoxo weaver.*
