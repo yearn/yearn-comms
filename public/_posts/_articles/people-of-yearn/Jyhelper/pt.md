@@ -11,7 +11,7 @@ translator: jameskbh
 
 ![](cover.jpg?w=314&h=316)
 
-### Conversei com J, um contribuidor de yearn finance com quem você provavelmente se deparou se você já andou pelos nossos chats no Discord ou Telegram. J é admirado por contribuidores da Yearn e membros da comunidade por sua inteligência rápida, ética de trabalho diligente, vontade de ir além para a comunidade e seus memes de alto nível!
+Conversei com J, um contribuidor de yearn finance com quem você provavelmente se deparou se você já andou pelos nossos chats no Discord ou Telegram. J é admirado por contribuidores da Yearn e membros da comunidade por sua inteligência rápida, ética de trabalho diligente, vontade de ir além para a comunidade e seus memes de alto nível!
 
 #### P: Conte-nos um pouco sobre você. Há quanto tempo você está com Yearn e de que equipe você faz parte? 
 
