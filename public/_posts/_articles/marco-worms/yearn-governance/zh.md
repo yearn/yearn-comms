@@ -11,7 +11,7 @@ translator: Xiaona
 
 ![](./image1.jpg?w=900&h=482)
 
-任何人都可以在 Yearn 的 [Discord](https://discord.com/invite/6PNv2nF)，[Twitter](https://twitter.com/iearnfinance)，[Reddit](https://www.reddit.com/r/yearn_finance)，[Pool of Ideas](https://yearnfinance.notion.site/yearnfinance/Pool-of-Ideas-d75383ade9154d8bb6163388c6c2b39b)，[Telegram](https://t.me/yearnfinance/) 和 [Governance Forum](https://gov.yearn.finance/)  讨论和提出想法。提案逐渐成熟后，会在治理论坛上形成投票，[YFI ](https://www.coingecko.com/en/coins/yearn-finance) 代币就代表投票权。
+任何人都可以在 Yearn 的 [Discord](https://discord.com/invite/6PNv2nF)，[Twitter](https://twitter.com/iearnfinance)，[Reddit](https://www.reddit.com/r/yearn_finance)，[Pool of Ideas](https://yearnfinance.notion.site/yearnfinance/Pool-of-Ideas-d75383ade9154d8bb6163388c6c2b39b)，[Telegram](https://t.me/yearnfinance/) 和 [Governance Forum](https://gov.yearn.finance/)  讨论和提出想法。提案逐渐成熟后，会在治理论坛上形成投票，[YFI](https://www.coingecko.com/en/coins/yearn-finance) 代币就代表投票权。
 
 - 代币持有者可以在 [Yearn 的 Snapshots 网页](https://yearn.snapshot.page/#/) 投票，无需消耗汽油费。
 - 另外，还有个 [退休治理库](https://docs.yearn.finance/contributing/governance/proposal-repository) 目前已经不再被使用了，但可以用于查看 Yearn 的历史。
@@ -45,7 +45,7 @@ translator: Xiaona
 **概述**：
 用非技术的语言描述提案的目的
 
-- **状态：** *（非必须但会有帮助）*
+- **状态** *（非必须但会有帮助）*
     - **讨论中：** 提案当前正处于讨论阶段。根据 YIP-55 中所规定的投票规则，提案在被分配 YIP 编号之前要经过至少 3 天的不具约束力的论坛民意调查来评估情绪，然后再进入 Snapshot 进行有约束力的投票
     - **投票中：** 提案当前正处于投票阶段。你可以在 Snapshot 上投票。关于投票规则请参考 YIP-55
     - **已通过：** 提案在 2021 年 4 月 25 日，以 99.97% 的支持率投票通过
@@ -81,6 +81,7 @@ translator: Xiaona
 ![](./image4.jpg?w=900&h=543)
 
 以下的几种持有或质押 YFI 的方式，都具有投票权：
+
 - 钱包
 - YFI yVault V2（相当于持有 yvYFI）
 - Balancer 上的 YFI/WETH LP 代币
