@@ -30,7 +30,7 @@ Je parle avec d'autres contributeurs des articles que j'écris. J'essaie d'aider
 
 J'ai trouvé impressionnant ce que construit Yearn avec un modèle complètement différent de ce qu'il se fait traditionnellement, les gens rient souvent quand je leur parle du fonctionnement d'une DAO et c'est, pour moi, la preuve de notre précocité. Même les personnes les plus intelligentes du  Web2 que je connais ont du mal à accepter que des produits et services puissent exister sans une société clairement définie et une centralisation du pouvoir.
 
-#### Q : Quel type d'impact souhaitez-vous avoir, non seulement chez Yearn, mais dans tout l'espace ?
+#### Q : Quel type d'impact souhaites-tu avoir, non seulement chez Yearn, mais dans tout l'espace ?
 
 Je veux aider les gens qui pourraient aider a developper le Web3 à faire le grand saut.
 
@@ -46,6 +46,6 @@ J'aime concevoir des jeux, mais depuis peu, je passe surtout beaucoup de temps a
 
 #### Q : Raconte-nous une anecdote amusante!
 
-Je suis un gros 'pothead', beaucoup d'amis m'appellent le "productive stoner" parce qu'ils pensent que la weed met les gens a plat alors que et que je sur super productif quand je suis "high"! Je pourrais vivre 24h/24 et 7j/7 dans le métaverse. C'est là que j'ai toujours vécu (les jeux en ligne) et j'ai me suis toujours fait de très bons amis. Comme ceux que je sur en train de me faire chez Yearn ! J'aime beaucoup quand je peux rencontrer IRL quelqu'un avec qui je passe du temps en ligne prendre une bière ou un petit splif, les amis sont l'une des rares choses qui me font quitter le métaverse !
+Je suis un gros 'pothead', beaucoup d'amis m'appellent le "productive stoner" parce qu'ils pensent que la weed met les gens a plat alors que et que je suis super productif quand je suis "high"! Je pourrais vivre 24h/24 et 7j/7 dans le métaverse. C'est là que j'ai toujours vécu (les jeux en ligne) et je m'y suis toujours fait de très bons amis. Comme ceux que je suis en train de me faire chez Yearn ! J'aime beaucoup quand je peux rencontrer IRL quelqu'un avec qui je passe du temps en ligne prendre une bière ou un petit splif, les amis sont l'une des rares choses qui me font quitter le métaverse !
 
 ![](image3.jpg?w=350&h=232)
