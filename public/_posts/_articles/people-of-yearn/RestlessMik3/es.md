@@ -11,7 +11,7 @@ translator: RestlessMik3
 
 ![](cover.jpg?w=400&h=294)
 
-### Tuve una conversación con RestlessMik3, un colaborador de Yearn Finance que trabaja en la traducción al español y en la incorporación de nuevos colaboradores. RestlessMik3 es apreciado por su fuerte ética de trabajo, naturaleza amistosa e iniciativa para descubrir nuevas formas de ayudar en Yearn.
+Tuve una conversación con RestlessMik3, un colaborador de Yearn Finance que trabaja en la traducción al español y en la incorporación de nuevos colaboradores. RestlessMik3 es apreciado por su fuerte ética de trabajo, naturaleza amistosa e iniciativa para descubrir nuevas formas de ayudar en Yearn.
 
 #### P: Cuéntanos un poco sobre ti. ¿Cuánto tiempo llevas en Yearn y de qué equipo eres parte?
 
