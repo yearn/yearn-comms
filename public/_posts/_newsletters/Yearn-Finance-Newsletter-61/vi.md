@@ -27,7 +27,7 @@ Chào mừng các bạn đến với Bản tin Yearn.Finance Số #61! Chúng t�
 - Các Kho bạc (`Vault`) tại Yearn
 - Tin tức trong Hệ Sinh thái
 
-# Trang Web Yearn Mới
+## Trang Web Yearn Mới
 
 ![](./image2.jpg?w=900&h=458)
 
@@ -35,7 +35,7 @@ Chúng tôi đã phát hành bản cập nhật mới cho trang web của mình,
 
 Chúng tôi mời bạn tham gia, góp ý cùng cộng đồng Yearn qua [Discord](https://discord.gg/8rF374XkXy), [Twitter](https://twitter.com/iearnfinance) hay [Github](http://github.com/yearn). Đến đây xây dựng với chúng tôi!
 
-# Loạt Súng Mới trong Cuộc Chiến Curve
+## Loạt Súng Mới trong Cuộc Chiến Curve
 
 ![](./image3.jpg?w=900&h=506)
 
@@ -47,7 +47,7 @@ Với sự trợ giúp gồm 9.7 triệu tôken veCRV của mình, chúng tôi c
 
 Nếu giao thức của bạn hứng thú với việc hợp tác cùng Yearn để thu lợi và phí giao dịch như Inverse, hãy tìm hiểu chi tiết [tại đây](https://twitter.com/iearnfinance/status/1367508483952771075) và đăng ký [ở liên kết này](https://yearnfinance.typeform.com/to/uP7xOJUN).
 
-# Hiểu rõ Quản trị Yearn
+## Hiểu rõ Quản trị Yearn
 
 ![](./image4.jpg?w=900&h=482)
 
@@ -63,7 +63,7 @@ Tóm lại, quản trị gồm ba bước đơn giản: Thảo luận trên di�
 
 Click [vào đây](https://medium.com/iearn/yearn-governance-explained-proposals-yfi-token-and-execution-113ec86c3a3f) để tìm hiểu thêm về quản trị Yearn cùng đóng góp viên MarcoWorms.
 
-# Gương mặt Yearn: RestlessMik3
+## Gương mặt Yearn: RestlessMik3
 
 ![](./image5.jpg?w=400&h=294)
 
@@ -75,7 +75,7 @@ Như đã nói, Yearn thúc đẩy một văn hóa thoải mái, giúp mọi ng�
 
 Xem [toàn bộ bài phỏng vấn](https://medium.com/iearn/people-of-yearn-restlessmik3-d487b15ce051) từ Defiglenn–một đóng góp viên khác của Yearn.
 
-# Yearn Finance Tài trợ Cuộc thi Hackathon ETHAmsterdam 2022
+## Yearn Finance Tài trợ Cuộc thi Hackathon ETHAmsterdam 2022
 
 ![](./image6.jpg?w=900&h=450)
 
@@ -89,11 +89,11 @@ Chân thành cảm ơn tất cả những "hacker" đã tham gia ở cuối tu�
 
 Bạn có thể xem thêm chi tiết về Yearn tại ETHAmsterdam [ở liên kết này](https://medium.com/iearn/yearn-finance-is-sponsoring-the-ethamsterdam-2022-hackathon-a9110e906424).
 
-# Các Kho bạc (`Vault`) tại Yearn
+## Các Kho bạc (`Vault`) tại Yearn
 
 Bạn có thể đọc mô tả chi tiết các chiến lược của mọi yVault đang hoạt động [tại đây](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-# Tin tức trong Hệ Sinh thái
+## Tin tức trong Hệ Sinh thái
 
 [Yearn đã được bao gồm trong một cuộc biểu quyết Snapshot Arbitrum Odyssey](https://twitter.com/iearnfinance/status/1513921428516605954)
 
