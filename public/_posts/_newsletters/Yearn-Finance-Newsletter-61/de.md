@@ -27,7 +27,7 @@ Willkommen zur 61. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter 
 - Vaults bei Yearn
 - Nachrichten zum Ökosystem
 
-# Neue Yearn-Website
+## Neue Yearn-Website
 
 ![](./image2.jpg?w=900&h=458)
 
@@ -35,7 +35,7 @@ Wir haben ein neues Update für unsere Website veröffentlicht, und wie immer ar
 
 Wir laden dich ein, dich zu engagieren, Feedback zu geben und dich an der Yearn-Community zu beteiligen, indem du dich uns auf [Discord](https://discord.gg/8rF374XkXy), [Twitter](https://twitter.com/iearnfinance), oder [Github](http://github.com/yearn) anschließt. Komm und baue mit uns.
 
-# Eine neue Salve im Kurvenkrieg
+## Eine neue Salve im Kurvenkrieg
 
 ![](./image3.jpg?w=900&h=506)
 
@@ -47,7 +47,7 @@ Den vollständigen Artikel des Mediums findest du [hier](https://medium.com/inve
 
 Wenn dein Protokoll an einer Partnerschaft mit Yearn interessiert ist, um Vorteile und Gebühren wie Inverse zu erhalten, findest du [hier](https://twitter.com/iearnfinance/status/1367508483952771075) weitere Informationen über Partnerschaften und du kannst dich [hier](https://yearnfinance.typeform.com/to/uP7xOJUN) bewerben.
 
-# Yearn Governance erklärt
+## Yearn Governance erklärt
 
 ![](./image4.jpg?w=900&h=482)
 
@@ -63,7 +63,7 @@ Letztlich folgt die Governance drei einfachen Verfahren: Diskussion im Forum, Ab
 
 Klicke [hier](https://medium.com/iearn/yearn-governance-explained-proposals-yfi-token-and-execution-113ec86c3a3f), um mehr über Yearn Governance mit MarcoWorms zu erfahren.
 
-# Menschen von Yearn: RestlessMik3
+## Menschen von Yearn: RestlessMik3
 
 ![](./image5.jpg?w=400&h=294)
 
@@ -75,7 +75,7 @@ Wie immer fördert Yearn eine lockere Kultur, die es jedem erlaubt, sich zu entf
 
 Sieh dir [das vollständige Interview](https://medium.com/iearn/people-of-yearn-restlessmik3-d487b15ce051) von Yearn-Mitarbeiter Defiglenn an.
 
-# Yearn Finance sponsert den Hackathon ETHAmsterdam 2022
+## Yearn Finance sponsert den Hackathon ETHAmsterdam 2022
 
 ![](./image6.jpg?w=900&h=450)
 
@@ -89,11 +89,11 @@ Vielen Dank an alle, die dieses Wochenende gehackt haben, und an die Organisator
 
 Weitere Informationen zu Yearn an der ETHAmsterdam findest du [hier](https://medium.com/iearn/yearn-finance-is-sponsoring-the-ethamsterdam-2022-hackathon-a9110e906424).
 
-# Vaults bei Yearn 
+## Vaults bei Yearn 
 
 Eine detaillierte Beschreibung der Strategien für alle unsere aktiven yVaults kannst du [hier](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3) lesen.
 
-# Nachrichten zum Ökosystem
+## Nachrichten zum Ökosystem
 
 [Yearn wurde als Vote in den aktuellen Arbitrum Odyssey Snapshot aufgenommen](https://twitter.com/iearnfinance/status/1513921428516605954)
 
