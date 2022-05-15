@@ -1,4 +1,3 @@
-# People of Yearn : Marco Worms
 ---
 title: "Yearn Topluluğu : Marco Worms"
 image:
