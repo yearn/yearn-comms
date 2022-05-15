@@ -11,7 +11,7 @@ translator: RestlesssMik3
 
 ![](cover.jpg?w=314&h=316)
 
-### Me senté con J, un colaborador de Yearn con el que probablemente te hayas cruzado si has leído nuestros chats de Discord o Telegram. J es admirado por los colaboradores de Yearn y los miembros de la comunidad por su ingenio rápido, ética de trabajo diligente, voluntad de ir más allá para la comunidad y su dominio de memes de primer nivel.
+Me senté con J, un colaborador de Yearn con el que probablemente te hayas cruzado si has leído nuestros chats de Discord o Telegram. J es admirado por los colaboradores de Yearn y los miembros de la comunidad por su ingenio rápido, ética de trabajo diligente, voluntad de ir más allá para la comunidad y su dominio de memes de primer nivel.
 
 #### P: Cuéntanos un poco sobre ti. ¿Cuánto tiempo llevas con Yearn y de qué equipo formas parte?
 
