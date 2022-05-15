@@ -1,4 +1,3 @@
-# People of Yearn : RestlessMik3 - TR
 ---
 title: "Yearn Topluluğu: RestlessMik3"
 image:
@@ -12,7 +11,7 @@ translator: Dastronom
 
 ![](cover.jpg?w=400&h=294)
 
-### İspanyolca çeviri üzerinde çalışan ve yeni katkıda bulunanları işe alan Yearn Finance katılımcısı RestlessMik3 ile sohbet ettim. RestlessMik3, güçlü iş ahlakı, arkadaş canlısı doğası ve Yearn'e yardım etmenin yeni yollarını bulma girişimleri nedeniyle takdir edilmektedir.
+İspanyolca çeviri üzerinde çalışan ve yeni katkıda bulunanları işe alan Yearn Finance katılımcısı RestlessMik3 ile sohbet ettim. RestlessMik3, güçlü iş ahlakı, arkadaş canlısı doğası ve Yearn'e yardım etmenin yeni yollarını bulma girişimleri nedeniyle takdir edilmektedir.
 
 #### S: Bize biraz kendinden bahset. Yearn ile ne kadar süredir birliktesiniz ve hangi takımın parçasısınız?
 
