@@ -98,8 +98,6 @@ function	Template({routerPath, path, post, newer, older}) {
 										height={height || 600}
 										{...props} />
 								);
-								// .replace(/\[video\]\((.*?)\)/gim, "<video class='underline cursor-pointer text-yblue' target='_blank' href='$1' />")
-
 							}
 						}}
 						remarkPlugins={[remarkGfm]}>
