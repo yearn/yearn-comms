@@ -21,7 +21,7 @@ function	WithLayout({props}) {
 					<div className={'hidden md:block md:col-span-3'}>
 						<MenuDesktop />
 					</div>
-					<main className={'flex flex-col col-span-15 px-4 pt-20 min-h-full md:col-span-12 md:pt-12'}>
+					<main className={'flex flex-col col-span-15 pt-20 min-h-full md:col-span-12 md:pt-12'}>
 						<Component
 							key={router.route}
 							element={props.element}
