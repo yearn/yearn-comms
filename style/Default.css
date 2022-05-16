@@ -114,3 +114,7 @@ button:disabled {@apply cursor-not-allowed}
 
     }
 }
+
+.twitter-tweet {
+	@apply mx-auto py-4;
+}
