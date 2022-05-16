@@ -121,3 +121,14 @@ button:disabled {@apply cursor-not-allowed}
 .max-w-6xl {
 	@apply max-w-[1216px] px-4;
 }
+.linkout {
+	@apply px-4 border border-gray-blue-3 border-opacity-40;
+}
+
+slot {
+	@apply pl-4 border border-gray-blue-3 border-opacity-40 flex flex-row gap-8 text-dark-blue-1 dark:text-white items-center my-4;
+}
+slot p, slot a, slot h4 {@apply !m-0}
+slot p {@apply text-gray-blue-1 dark:text-white;}
+slot a {@apply text-sm !text-gray-blue-2 dark:!text-white !no-underline;}
+slot img {@apply object-cover max-h-[160px] h-[160px] !m-0;}

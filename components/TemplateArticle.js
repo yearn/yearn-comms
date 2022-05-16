@@ -4,8 +4,8 @@ import	{useRouter}				from	'next/router';
 import	Image					from	'next/image';
 import	Head					from	'next/head';
 import	{NextSeo}				from	'next-seo';
-import	remarkGfm				from	'remark-gfm';
 import	ReactMarkdown			from	'react-markdown';
+import	remarkGfm				from	'remark-gfm';
 import	rehypeRaw				from	'rehype-raw';
 import	useLocalization			from	'contexts/useLocalization';
 import	IconChevron				from	'components/icons/IconChevron';
@@ -66,6 +66,7 @@ function	Template({routerPath, path, post, newer, older}) {
 				<div className={'mb-8 space-y-6 w-full max-w-full text-gray-blue-1 dark:text-gray-3 prose'}>
 					<ReactMarkdown
 						rehypePlugins={[rehypeRaw]}
+						remarkPlugins={[remarkGfm]}
 						components={{
 							a: ({...props}) => <a {...props} target={'_blank'} rel={'noopener noreferrer'} className={'text-yearn-blue dark:text-white hover:underline'} />,
 							h1: ({...props}) => <h1 {...props} className={'text-dark-blue-1 dark:text-white'} />,
@@ -77,6 +78,20 @@ function	Template({routerPath, path, post, newer, older}) {
 							b: ({...props}) => <b {...props} className={'text-dark-blue-1 dark:text-white'} />,
 							iframe: ({...props}) => <iframe {...props} className={'aspect-video w-full h-full'} />,
 							strong: ({...props}) => <strong {...props} className={'text-dark-blue-1 dark:text-white'} />,
+							slot: ({...props}) => {
+								return (
+									<a href={props.link} target={'_blank'} rel={'noreferrer'} className={'no-underline'}>
+										<slot {...props}>
+											<div className={'w-full'}>
+												{props.children}
+											</div>
+											<div>
+												<img src={props.image} />
+											</div>
+										</slot>
+									</a>
+								);
+							},
 							img: ({...props}) => {
 								const	srcStartWithHttp = props.src.startsWith('http');
 								const	srcStartWithHttps = props.src.startsWith('https');
@@ -99,8 +114,7 @@ function	Template({routerPath, path, post, newer, older}) {
 										{...props} />
 								);
 							}
-						}}
-						remarkPlugins={[remarkGfm]}>
+						}}>
 						{post?.content || ''}
 					</ReactMarkdown>
 				</div>
