@@ -3,7 +3,7 @@ title:  "Building with Yearn — hack the future of DeFi"
 image:
   src: ./cover.jpg
   width: 900
-  height: 450
+  height: 506
 date: '2022-04-23'
 author: Farrahmay
 translator: 
@@ -11,7 +11,7 @@ translator:
 
 ### 📣Yearn Finance is calling on developers to build on top of our protocol!
 
-![](cover.jpg?w=900&h=450)
+![](cover.jpg?w=900&h=506)
 
 **Building on Yearn is easier than you think! I’ve met many a developer that have shied away from building on top of Yearn out of fear of it being far too complex or obtuse. Fear not fren! We have compiled a short guide to ease the way and included a list of ideas to inspire you!**
 
@@ -114,9 +114,9 @@ Read through our  [docs](https://docs.yearn.finance/developers/v2/getting-starte
 
 **Figure 1. You can interact with yVaults through depositing or withdrawing.**
 
-![](image1.jpg?w=900&h=450)
+![](image1.jpg?w=900&h=368)
 
-![](image1.jpg?w=900&h=450)
+![](image2.jpg?w=900&h=368)
 
 # How to Integrate with the Vaults?
 
@@ -130,7 +130,7 @@ We propose two methods of integration, wrappers and delegated deposits. Each hav
 
 Figure 2. Wrapper Architecture
 
-![](image3.jpg?w=900&h=450)
+![](image3.jpg?w=900&h=663)
 
 Learn more about the implications of both of these methods  [here](https://docs.yearn.finance/partners/integration_guide).
 
