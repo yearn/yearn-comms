@@ -58,7 +58,7 @@ Puede haber dos tipos de requisitos: `target` y `param`.
 
 Aquí está la transacción, aprobando la Vault Curve RocketPool, que estaremos validando
 
-- objetivo:`0x5c0A86A32c129538D62C106Eb8115a8b02358d57`  
+- objetivo:`0x447Ddd4960d9fdBF6af9a790560d0AF76795CB08`  
 - dato de llamada:`0x095ea7b30000000000000000000000005c0a86a32c129538d62c106eb8115a8b02358d570000000000000000000000000000000000c097ce7bc90715b34b9f1000000000`  
 
 Hay 3 pasos para validarlo:
