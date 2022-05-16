@@ -6,9 +6,11 @@ import	Head					from	'next/head';
 import	{NextSeo}				from	'next-seo';
 import	remarkGfm				from	'remark-gfm';
 import	ReactMarkdown			from	'react-markdown';
+import	rehypeRaw				from	'rehype-raw';
 import	useLocalization			from	'contexts/useLocalization';
 import	IconChevron				from	'components/icons/IconChevron';
 import	{parseMarkdown}			from	'utils';
+
 
 function	Template({routerPath, path, post, newer, older}) {
 	const	router = useRouter();
@@ -63,6 +65,7 @@ function	Template({routerPath, path, post, newer, older}) {
 				</div>
 				<div className={'mb-8 space-y-6 w-full max-w-full text-gray-blue-1 dark:text-gray-3 prose'}>
 					<ReactMarkdown
+						rehypePlugins={[rehypeRaw]}
 						components={{
 							a: ({...props}) => <a {...props} target={'_blank'} rel={'noopener noreferrer'} className={'text-yearn-blue dark:text-white hover:underline'} />,
 							h1: ({...props}) => <h1 {...props} className={'text-dark-blue-1 dark:text-white'} />,
@@ -72,6 +75,7 @@ function	Template({routerPath, path, post, newer, older}) {
 							h5: ({...props}) => <h5 {...props} className={'text-dark-blue-1 dark:text-white'} />,
 							h6: ({...props}) => <h6 {...props} className={'text-dark-blue-1 dark:text-white'} />,
 							b: ({...props}) => <b {...props} className={'text-dark-blue-1 dark:text-white'} />,
+							iframe: ({...props}) => <iframe {...props} className={'aspect-video w-full h-full'} />,
 							strong: ({...props}) => <strong {...props} className={'text-dark-blue-1 dark:text-white'} />,
 							img: ({...props}) => {
 								const	srcStartWithHttp = props.src.startsWith('http');
@@ -94,6 +98,8 @@ function	Template({routerPath, path, post, newer, older}) {
 										height={height || 600}
 										{...props} />
 								);
+								// .replace(/\[video\]\((.*?)\)/gim, "<video class='underline cursor-pointer text-yblue' target='_blank' href='$1' />")
+
 							}
 						}}
 						remarkPlugins={[remarkGfm]}>
