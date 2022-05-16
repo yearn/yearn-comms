@@ -1,5 +1,6 @@
 import	React						from	'react';
 import	Head						from	'next/head';
+import	Script						from	'next/script';
 import	{DefaultSeo}				from	'next-seo';
 import	{UIContextApp}				from	'contexts/useUI';
 import	{LocalizationContextApp}	from 	'contexts/useLocalization';
@@ -69,15 +70,10 @@ function	AppWrapper(props) {
 				<meta name={'msapplication-TileImage'} content={'/favicons/ms-icon-144x144.png'} />
 				<meta name={'theme-color'} content={'#ffffff'} />
 
-				<link rel={'preconnect'} href={'https://fonts.googleapis.com'} />
-				<link rel={'preconnect'} href={'https://fonts.gstatic.com'} crossOrigin={'true'} />
-				<link href={'https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Roboto:wght@400;700&display=swap'} rel={'stylesheet'} />
-
 				<meta name={'robots'} content={'index,nofollow'} />
 				<meta name={'googlebot'} content={'index,nofollow'} />
-
-				<script async defer data-domain={'blog.yearn.finance'} src={'https://analytics.yearn.finance/js/plausible.js'} />
 			</Head>
+			<Script strategy={'afterInteractive'} data-domain={'blog.yearn.finance'} src={'https://analytics.yearn.finance/js/plausible.js'} />
 			<DefaultSeo
 				title={process.env.WEBSITE_NAME}
 				defaultTitle={process.env.WEBSITE_NAME}
