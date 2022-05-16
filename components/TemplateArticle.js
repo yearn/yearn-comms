@@ -84,6 +84,7 @@ function	Template({routerPath, path, post, newer, older}) {
 										<slot {...props}>
 											<div className={'w-full'}>
 												{props.children}
+												<a target={'_blank'} href={props.link} rel={'noreferrer'}>{props.link}</a>
 											</div>
 											<div>
 												<img src={props.image} />
