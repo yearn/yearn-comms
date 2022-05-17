@@ -11,7 +11,7 @@ date: "2022-03-09"
 translator: Dastronom
 ---
 
-Orjinal kaynak: [Web Engineering Update 14 Mar](https://yearnweb.substack.com/p/yearn-web-engineering-report?s=r)
+Orjinal kaynak: [Web Engineering Update 28 Şubat](https://yearnweb.substack.com/p/yearn-web-engineering-update-18a?s=w)
 
 #### 28 Şubat, 2022'de başlayan Hafta
 
