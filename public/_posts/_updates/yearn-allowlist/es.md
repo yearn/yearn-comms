@@ -25,7 +25,7 @@ Tomemos un ejemplo de validación de los datos de llamada para una transacción 
 
 En el contrato de la lista de permitidos hay una lista de condiciones, que son estructuras contra las que se validan.
 
-uí está la que se utiliza para aprobar un token en la vault (en formato JSON):
+Aquí está la que se utiliza para aprobar un token en la vault (en formato JSON):
 
 ```
 {
