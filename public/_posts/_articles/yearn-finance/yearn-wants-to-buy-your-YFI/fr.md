@@ -1,5 +1,5 @@
 ---
-title:  "Yearn wants to buy your YFI"
+title:  "Yearn veut racheter vos YFI"
 image:
   src: ./cover.jpg
   width: 900
