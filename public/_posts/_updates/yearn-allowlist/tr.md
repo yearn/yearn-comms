@@ -2,8 +2,8 @@
 title:  "Yearn Allowlist"
 image:
   src: ./image1.jpg
-  width: 900
-  height: 429
+  width: 770
+  height: 367
 date: '2022-05-06'
 author: Weaver
 translator: Dastronom
