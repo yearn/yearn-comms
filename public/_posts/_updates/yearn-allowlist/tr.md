@@ -1,7 +1,7 @@
 ---
 title:  "Yearn Allowlist"
 image:
-  src: ./cover.jpg
+  src: ./image1.jpg
   width: 900
   height: 429
 date: '2022-05-06'
@@ -9,7 +9,7 @@ author: Weaver
 translator: Dastronom
 ---
 
-![](cover.jpg?w=900&h=429)
+![](./image1.jpg?w=770&h=367)
 
 # Genel bakış
 
