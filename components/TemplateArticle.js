@@ -39,6 +39,7 @@ function	LinkPreview(props) {
 	);
 }
 
+
 function	Template({routerPath, path, post, newer, older}) {
 	const	router = useRouter();
 	const	{common, language} = useLocalization();

@@ -124,7 +124,6 @@ button:disabled {@apply cursor-not-allowed}
 .linkout {
 	@apply px-4 border border-gray-blue-3 border-opacity-40;
 }
-
 slot {
 	@apply pl-4 border border-gray-blue-3 border-opacity-40 flex flex-row gap-8 text-dark-blue-1 dark:text-white items-center my-4;
 }
