@@ -11,7 +11,7 @@ translator: jameskbh
 
 ![](./image1.jpg?w=900&h=482)
 
-Qualquer pessoa pode discutir ou propor ideias no [Discord] da Yearn (https://discord.com/invite/6PNv2nF), [Twitter](https://twitter.com/iearnfinance), [Reddit](https://www.reddit.com/r/yearn_finance), [Pool of Ideas](https://yearnfinance.notion.site/yearnfinance/Pool-of-Ideas-d75383ade9154d8bb6163388c6c2b39b), [Telegram](https://t.me/yearnfinance/) e [Fórum de Governança](https://gov.yearn.finance/). À medida que as propostas amadurecem, torna-se uma votação estruturada no Fórum de Governança, onde o [token YFI](https://www.coingecko.com/en/coins/yearn-finance) é usado como poder de voto.
+Qualquer pessoa pode discutir ou propor ideias no [Discord](https://discord.com/invite/6PNv2nF) da Yearn, [Twitter](https://twitter.com/iearnfinance), [Reddit](https://www.reddit.com/r/yearn_finance), [Pool of Ideas](https://yearnfinance.notion.site/yearnfinance/Pool-of-Ideas-d75383ade9154d8bb6163388c6c2b39b), [Telegram](https://t.me/yearnfinance/) e [Fórum de Governança](https://gov.yearn.finance/). À medida que as propostas amadurecem, torna-se uma votação estruturada no Fórum de Governança, onde o [token YFI](https://www.coingecko.com/en/coins/yearn-finance) é usado como poder de voto.
 
 - Os detentores de tokens podem votar na [página Snapshot da Yearn](https://yearn.snapshot.page/#/), não há consumo de gás na transação de votação!
 - Há também um [repositório de governança aposentado](https://docs.yearn.finance/contributing/governance/proposal-repository) que agora não é utilizado, mas pode ser explorado para aprender sobre a história da Yearn!
@@ -46,9 +46,9 @@ Conforme estabelecido pelo [YIP-55](https://gov.yearn.finance/t/yip-55-formalize
 O resultado da mudança proposta, escrito de forma não técnica e acessível
 
 - **Status:** *(Este campo não é obrigatório, mas ajuda a todos)*
-- **Discussão:** Esta proposta está atualmente em fase de discussão. De acordo com nossas regras de votação descritas no YIP-55, ela estará em discussão por pelo menos 3 dias com uma enquete no fórum (não-vinculativa) para avaliar o sentimento antes que possa ser atribuída um número YIP e passar para o Snapshot para uma votação vinculativa
-- **Votação:** Esta proposta está atualmente em fase de votação. Vote no Snapshot Você pode aprender sobre nossas regras de votação na YIP-55
-- **Aprovada:** Esta proposta foi aprovada em 25 de abril de 2021 às 7:00 UTC com 99,97% votando a favor
+    - **Discussão:** Esta proposta está atualmente em fase de discussão. De acordo com nossas regras de votação descritas no YIP-55, ela estará em discussão por pelo menos 3 dias com uma enquete no fórum (não-vinculativa) para avaliar o sentimento antes que possa ser atribuída um número YIP e passar para o Snapshot para uma votação vinculativa
+    - **Votação:** Esta proposta está atualmente em fase de votação. Vote no Snapshot Você pode aprender sobre nossas regras de votação na YIP-55
+    - **Aprovada:** Esta proposta foi aprovada em 25 de abril de 2021 às 7:00 UTC com 99,97% votando a favor
 
 **Descrição:**
 Uma breve (~200 palavras) descrição da alteração proposta. Deve descrever claramente o que acontece se a proposta for aprovada.
@@ -88,7 +88,7 @@ Possuir ou ter em stake YFI nos seguintes locais permite que você vote:
 - Sushiswap YFI/WETH LP token em stake no MasterChef
 - Garantia YFI no MakerDAO
 - Garantia YFI no Unit Protocol
-- Bancor.
+- Bancor
 
 ### Concluir e Executar
 
