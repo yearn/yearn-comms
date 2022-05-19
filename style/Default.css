@@ -114,3 +114,10 @@ button:disabled {@apply cursor-not-allowed}
 
     }
 }
+
+.twitter-tweet {
+	@apply mx-auto py-4;
+}
+.max-w-6xl {
+	@apply max-w-[1216px] px-4;
+}
