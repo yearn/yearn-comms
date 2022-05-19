@@ -47,7 +47,7 @@ Storm0x from Yearn joined other security gigabrains to deep dive into the topic 
 
 MEV is a centralizing force across stateful blockchains. Understanding how we prevent blockchains from falling into the MEV dystopia is pivotal to safeguard from its negative impacts. Skeletor Spaceman from Yearn joined other thought leaders to discuss the MEV supply chain. **Skeletor’s panel starts at 4:00**!
 
-[https://streameth.tv/event/mev-day](https://streameth.tv/event/mev-day)
+<autoslot link="https://streameth.tv/event/mev-day"><autoslot>
 
 ## Meeting the Community
 
@@ -72,6 +72,7 @@ Congrats to VeriFried-Strategy and Archimedes for winning yearn’s bounties at 
 ## Archimedes — 1st prize $2K
 
 *Distribution layer of investment strategies tokenized using ERC-4626 standard. Casual users and financial institutions can access levered and hedged strategies with a single transaction. Strategies provide a liquidation protection mechanism as well.*
+  
 See **all the [info]((https://showcase.ethglobal.com/ethamsterdam/archimedes-xc7zd)) and the video:**
 
 ![](./image9.jpg?w=900&h=482)
