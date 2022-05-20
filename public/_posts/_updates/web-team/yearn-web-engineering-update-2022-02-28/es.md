@@ -8,7 +8,7 @@ image:
   height: 1024
 author: f0xTheSin
 date: "2022-03-09"
-translator:
+translator: Restlessmik3
 ---
 
 fuente original: [Web Engineering Update 28 Feb](https://yearnweb.substack.com/p/yearn-web-engineering-update-18a?s=w)
