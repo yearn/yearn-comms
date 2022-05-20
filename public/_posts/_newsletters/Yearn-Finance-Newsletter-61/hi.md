@@ -51,7 +51,7 @@ translator: jengajojo
 
 ![](./image4.jpg?w=900&h=482)
 
-यर्न के [Discord](https://discord.com/invite/6PNv2nF), [Twitter](https://twitter.com/iearnfinance), [Reddit](https://www. reddit.com/r/yearn_finance)) में कोई भी चर्चा या सुझाव दे सकता है। [विचारों का पूल](https://yearnfinance.notion.site/yearnfinance/Pool-of-Ideas-d75383ade9154d8bb6163388c6c2b39b), [Telegram](https://t.me/yearnfinance /), और [गवर्नेंस फोरम](https://gov.yearn.finance/) जैसे-जैसे प्रस्ताव परिपक्व होते हैं, यह [स्नैपशॉट पेज](https://yearn.snapshot.page/#/) में एक संरचित वोट बन जाता है, जहां [YFI टोकन](https://www.coingecko.com/en/coins/yearn) -वित्त) का उपयोग मतदान शक्ति के रूप में किया जाता है।
+यर्न के [Discord](https://discord.com/invite/6PNv2nF), [Twitter](https://twitter.com/iearnfinance), [Reddit](https://www. reddit.com/r/yearn_finance)) में कोई भी चर्चा या सुझाव दे सकता है। [विचारों का पूल](https://yearnfinance.notion.site/yearnfinance/Pool-of-Ideas-d75383ade9154d8bb6163388c6c2b39b), [Telegram](https://t.me/yearnfinance /), और [गवर्नेंस फोरम](https://gov.yearn.finance/) जैसे-जैसे प्रस्ताव परिपक्व होते हैं, यह [स्नैपशॉट पेज](https://yearn.snapshot.page/) में एक संरचित वोट बन जाता है, जहां [YFI टोकन](https://www.coingecko.com/en/coins/yearn) का उपयोग मतदान शक्ति के रूप में किया जाता है।
 
 फ़ोरम में सबसे सामान्य प्रकार के प्रस्ताव यर्न सुधार प्रस्ताव (YIP) हैं, लेकिन वर्तमान यर्न शासन कार्यान्वयन (YIP-61) में अन्य प्रकार शामिल हैं। यर्न सुधार प्रस्ताव (YIP): YFI धारकों को या प्रगणित शक्तियों के दायरे से बाहर किसी भी शक्ति को निष्पादित करने का प्रस्ताव। यर्न डेलिगेशन प्रस्ताव (YDP): यह बदलने का प्रस्ताव कि कैसे एक yTeam के पास एक दायरे पर अधिकार है। और अंत में, यर्न सिग्नलिंग प्रस्ताव (YSP): किसी भी मुद्दे पर सामुदायिक भावनाओं या इरादे को इंगित करने के लिए एक गैर-बाध्यकारी प्रस्ताव।
 
@@ -87,7 +87,7 @@ YFI को निम्नलिखित स्थानों पर रखन
 
 इस सप्ताह के अंत में हैक करने वाले और कार्यक्रम के आयोजकों को बहुत-बहुत धन्यवाद। DeFi में सक्रिय रूप से उत्पाद या रणनीति बना रहे हैं? वार्षिक इनाम या अनुदान के लिए [यहां](https://yearnfinance.notion.site/Welcome-to-Yearn-Finance-26d6c4210e3e405c9f02f84ba567a249) आवेदन करने पर विचार करें।
 
-आप ETHएम्स्टर्डम  [यहाँ](https://medium.com/iearn/yearn-finance-is-sponsoring-the-ethamsterdam-2022-hackathon-a9110e906424) पर इयरन के बारे में अधिक जानकारी प्राप्त कर सकते हैं।
+आप ETHएम्स्टर्डम [यहाँ](https://medium.com/iearn/yearn-finance-is-sponsoring-the-ethamsterdam-2022-hackathon-a9110e906424) पर इयरन के बारे में अधिक जानकारी प्राप्त कर सकते हैं।
 
 ## यर्न में वाल्ट 
 
