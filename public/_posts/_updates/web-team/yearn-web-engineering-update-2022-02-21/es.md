@@ -19,6 +19,10 @@ Fuente original: [Web Engineering Update 21 Feb](https://yearnweb.substack.com/p
 
 Arbitrum se lanza oficialmente en Yearn. Actualmente, solo hay una vault que emplea una estrategia (tricrypto de curve). Hemos aprendido de los dolores de crecimiento por los que pasamos con Fantom para ofrecer una implementación más fluida; para nuestros usuarios, nuestros estrategas y nuestros ingenieros.
 
+Our team continues to expand as we add chains, strategies, and vaults. We’ve brought in additional project managers and product owners to help wrangle the work and keep our community engaged.
+
+Nuestro equipo continúa expandiéndose a medida que agregamos cadenas, estrategias y vaults. Hemos incorporado gerentes de proyecto y propietarios de productos adicionales para ayudar a organizar el trabajo y mantener a nuestra comunidad comprometida.
+
 ## **Logros ✅**
 
 **Lanzamiento SDK 1.0.3**
