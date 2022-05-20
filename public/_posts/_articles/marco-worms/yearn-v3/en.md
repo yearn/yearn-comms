@@ -13,7 +13,7 @@ translator:
 
 As we look ahead to the exciting changes v3 Vaults are bringing for both developers and degens, I spoke with the Yearn contributor leading the v3 design team. I was surprised to learn about the number of new features! Initially, our conversation started around the [ERC-4626](https://twitter.com/iearnfinance/status/1511444220850184197) standard which standardizes vaults across protocols but it turns out that’s just the tip of the iceberg.
 
-# The purpose of v3 is to improve all core aspects of Yearn Vaults
+## The purpose of v3 is to improve all core aspects of Yearn Vaults
 
 ### Security
 
@@ -57,7 +57,7 @@ We’ll also see a better automatization of peripheral contracts: in v2 only the
 
 ## Strategies on steroids
 
-v2 Vaults had a limit of 20 strategies per vault, in v3 this limit will be increased. Additionally, riskier strategies will now follow a contract model analogous to the [Senior/ Junior Tranches](https://corporatefinanceinstitute.com/resources/knowledge/finance/junior-tranche-debt/).
+v2 Vaults had a limit of 20 strategies per vault, in v3 this limit will be increased. Additionally, riskier strategies will now follow a contract model analogous to the [Senior/Junior Tranches](https://corporatefinanceinstitute.com/resources/knowledge/finance/junior-tranche-debt/).
 
 Riskier strategies will now have a Junior Tranche contract, meaning the user will first deposit tokens into a vault and can then choose to deposit the vault tokens into a junior tranche contract for a higher-risk/higher-reward option. Users can also choose specific strategies to focus on. This is an optional feature that people with a higher risk appetite might want to explore.
 
@@ -70,6 +70,7 @@ Further features focus on improving the overall usage of vaults by users, strate
 - The increased modularity around vault’s processes allows us to make tighter partnerships with other protocols and build solutions more specialized to their cases.
 
 ## Vaults code
+
 v2 vaults code is written in [Vyper](https://vyper.readthedocs.io/en/stable/), but v3 is built with [Solidity](https://docs.soliditylang.org/en/v0.8.13/).
 
 Vyper is a solid language as proven by the v2 system, but has a smaller developer pool. Our decision to go with solidity was based, among other factors, on accessing the larger developer pool necessary for a critical project like this. We see a bright future for Vyper and will continue exploring it in Yearn for smart contracts, any of the modules around vaults can be done using it.
@@ -85,4 +86,4 @@ I’ve only scratched the surface of what’s to come in v3. Yearn contributors 
 
 **[Learn more about opportunities to join Yearn here!](https://yearnfinance.notion.site/Join-Us-3e9c95b9bd7846a18c0f1cbe6ab05eda)**
 
-**Made in [yearn.finance](https://yearn.finance/#/portfolio)**
+*Made in [yearn.finance](https://yearn.finance/#/portfolio)*
