@@ -43,13 +43,13 @@ Uma vitória em particular esta semana foi conseguir fazer o setup do acompanham
 
 ## **Foco atual e problemas pendentes 🍙**
 
-** Foco do Ciclo 🔎**
+**Foco do Ciclo 🔎**
 
 - Desacoplar / minimizar dependências
 - Concluir a atualização da interface do usuário
 - Zap na rede Fantom
 
-** Questões pendentes 🏴‍☠️**
+**Questões pendentes 🏴‍☠️**
 
 - Algumas questões de carteira (transações em lote ambire, carteira rainbow)
 - Um Vault não está passando seu TVL para o front-end.
