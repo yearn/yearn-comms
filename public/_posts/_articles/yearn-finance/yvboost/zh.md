@@ -10,8 +10,6 @@ translator: Bee926
 published: true
 ---
 
-# yvBOOST为您提供更多boost、复利和Mojito
-
 ### Yearn与[Curve.fi](http://curve.fi/)的合作关系是我们基础设施的核心，也是提高您收益的核心。
 
 🔵🤝🌈
