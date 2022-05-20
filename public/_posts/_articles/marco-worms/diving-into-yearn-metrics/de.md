@@ -127,4 +127,4 @@ Autor: [Worms](https://twitter.com/MarcoWorms), Überprüfer: [Dark Ghosty](http
 
 Vielen Dank, Dark Ghosty, dass du all diese Dashboards durchgegangen bist und mir gezeigt hast, wie ich sie bedienen kann ❤
 
-**Erstellt in [yearn.finance](https://yearn.finance/)**
+*Erstellt in [yearn.finance](https://yearn.finance/)*
