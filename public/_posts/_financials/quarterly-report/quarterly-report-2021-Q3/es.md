@@ -1,5 +1,5 @@
 ---
-title:  "Reporte trimestral 2021 Q3 de Yearn Finance"
+title:  "Informe trimestral 2021 Q3 de Yearn Finance"
 date: '2022-03-08'
 image:
   src: ./cover.jpg
