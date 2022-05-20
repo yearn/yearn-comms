@@ -43,9 +43,9 @@ Allow for simpler strategy testing, deploying, and overall including more tools 
 
 Create new products like Junior Tranches which enables riskier strategies and allows users to choose a higher-risk deposit option.
 
-Allow more than 1 vault for each token type
+Allow more than 1 vault for each token type.
 
-Allow vaults to be controlled by multisigs that can be shared with partner protocols
+Allow vaults to be controlled by multisigs that can be shared with partner protocols.
 
 ## Flexibility
 
