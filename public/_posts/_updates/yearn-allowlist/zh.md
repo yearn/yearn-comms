@@ -42,7 +42,7 @@ translator: Bee926
 
 - `id`: 条件的标识符，它允许协议持有者更新或删除条件  
 
-- `implementationId`: 实施合约的标识符。实施合约具有验证条件的逻辑。每个白名单可以有多个实施合约来验证。 例如，在 Yearn 的白名单上，会有一个与机枪池相关的所的实施，另一个会被用于 Labs 的部分，Labs 的部分有许多实验性的产品  
+- `implementationId`: 实施合约的标识符。实施合约具有验证条件的逻辑。每个白名单可以有多个实施合约来验证。 例如，在 Yearn 的白名单上，有一个实施的所有内容都是与机枪池相关的，另外一个是则适用于 Labs，Labs 的部分有许多实验性的产品  
 
 - `methodName`: 允许的函数名  
 
@@ -52,7 +52,7 @@ translator: Bee926
 
 可以有两种类型的要求: `target` 和 `param`.
 
-- 如果第一个需求参数是 `target` 那么下一个参数应该是在实施上调用以用来验证交益目标的函数。
+- 如果第一个需求参数是 `target` 那么下一个参数应该是在实施上调用以用来验证交易目标的函数。
 
 - 如果第一个要求参数是 `param` 那么接下来是用于验证的函数，最后的一个参数是参数的位置以便在验证时从呼叫数据中提取来。
 
@@ -63,7 +63,7 @@ translator: Bee926
 
 验证包含 3 个步骤:
 
-1. 我们首先检查 [method selector](https://github.com/yearn/eth-allowlist/blob/03f2a9ad5716abd0dbfc6d45885f5d6a04061edc/contracts/libraries/CalldataValidation.sol#L72)。根据此条件，我们生成了我们期望的用于批准交益的 method selector。由于我们在此条件中存储了函数名称和参数，我们可以重新创建函数并使用 `bytes4(keccak256(bytes(reconstructedMethodSignature)))`。然后，我们可以将其与呼叫数据的前 4 个字节进行比较，以确保网站调用有效的函数. `approve(address,uint256)` 的 4 字节签名是 `0x095ea7b3`，因此我们可以看到呼叫数据对此有效。
+1. 我们首先检查 [method selector](https://github.com/yearn/eth-allowlist/blob/03f2a9ad5716abd0dbfc6d45885f5d6a04061edc/contracts/libraries/CalldataValidation.sol#L72)。根据此条件，我们生成了我们期望的用于批准交易的 method selector。由于我们在此条件中存储了函数名称和参数，我们可以重新创建函数并使用 `bytes4(keccak256(bytes(reconstructedMethodSignature)))`。然后，我们可以将其与呼叫数据的前 4 个字节进行比较，以确保网站调用有效的函数. `approve(address,uint256)` 的 4 字节签名是 `0x095ea7b3`，因此我们可以看到呼叫数据对此有效。
 
 2. 下一步，我们[验证目标 validate the target](https://github.com/yearn/eth-allowlist/blob/03f2a9ad5716abd0dbfc6d45885f5d6a04061edc/contracts/libraries/CalldataValidation.sol#L50)。为了做这个，我们使用提供的验证，在本例中为 `isVaultUnderlyingToken`，调用该条件的实施合约。我们必须知道我们正在验证一个地址，所以我们可以假设这个函数有一个地址参数。我们的假设是此函数会返回 `bool`。如果返回的值为 false，则此交易便是无效的。在实施合约中，有一个函数 `isVaultUnderlyingToken` 会继续调用 Yearn 的机枪池注册表以执行实际验证。
 
@@ -81,7 +81,7 @@ translator: Bee926
 
 以下是协议创建和注册自己的白名单的步骤:
 
-- 在[白名单注册合约](https://etherscan.io/address/0xb39c4EF6c7602f1888E3f3347f63F26c158c0336)上使用 `registerProtocol` 开始注册白名单。T这将为协议的域部署一个新的白名单列表。请注意，用来注册的账号需要通过 ENS 注册为域名的所有者。
+- 在[白名单注册合约](https://etherscan.io/address/0xb39c4EF6c7602f1888E3f3347f63F26c158c0336)上使用 `registerProtocol` 开始注册白名单。T 这将为协议的域部署一个新的白名单列表。请注意，用来注册的账号需要通过 ENS 注册为域名的所有者。
 - 部署自设的实施合约，可用于验证目标/参数。
 - 使用 `setImplementation` 函数将这些实施合约连接到白名单。
 - 找出通过网站创建的所有交易，然后创建相应的条件。使用 `addConditions` 在白名单上设置这些条件。
