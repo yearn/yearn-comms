@@ -21,7 +21,6 @@ Bientôt, vous allez entrendre parler des ERC-4626
 
 La "Tokenized Vault Standard" (ERC-4626) est là. Et la standardisation des Vaults commence maintenant !
 
-
 tl;dr 👇
 
 ---
@@ -57,7 +56,6 @@ Créez une application au-dessus d'un vault ERC-4626, et cela fonctionnera pour 
 Yearn V3 + ERC-4626 = inévitable
 
 Les contributeurs travaillent déjà dur pour développer cette norme pour les vaults V3 de Yearn
-
 
 Tout comment les devs chez [@AlchemixFi](https://twitter.com/AlchemixFi), [@balancer](https://twitter.com/balancer), [@RariCapital](https://twitter.com/RariCapital), [@feiprotocol](https://twitter.com/feiprotocol), [@OpenZeppelin](https://twitter.com/OpenZeppelin) ou ailleur
 
