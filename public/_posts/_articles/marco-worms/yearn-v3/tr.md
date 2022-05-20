@@ -13,7 +13,7 @@ translator: Dastronom
 
 v3 Vault'un hem geliştiriciler hem de degenler için getirdiği heyecan verici değişiklikleri beklerken, v3 tasarım ekibine liderlik eden Yearn katılımcısı ile konuştum. Yeni özelliklerin sayısını öğrendiğimde şaşırdım! Başlangıçta konuşmamız, vault'ları protokoller arasında standartlaştıran [ERC-4626](https://twitter.com/iearnfinance/status/1511444220850184197) standardı etrafında başladı, ancak bunun buzdağının sadece görünen kısmı olduğu ortaya çıktı.
 
-# v3'ün amacı Yearn Vaults'un tüm temel özelliklerini iyileştirmektir
+## v3'ün amacı Yearn Vaults'un tüm temel özelliklerini iyileştirmektir
 
 ### Güvenlik
 
@@ -57,7 +57,7 @@ Ayrıca çevresel sözleşmelerin daha iyi bir şekilde otomatikleştirildiğini
 
 ## Steroid etkili stratejiler
 
-v2 Vault'larında vault başına 20 strateji sınırı vardı, v3'te bu sınır artırılacak. Ek olarak, daha riskli stratejiler artık [Senior/ Junior Tranches](https://corporatefinanceinstitute.com/resources/knowledge/finance/junior-tranche-debt/)'e benzer bir sözleşme modelini takip edecek.
+v2 Vault'larında vault başına 20 strateji sınırı vardı, v3'te bu sınır artırılacak. Ek olarak, daha riskli stratejiler artık [Senior/Junior Tranches](https://corporatefinanceinstitute.com/resources/knowledge/finance/junior-tranche-debt/)'e benzer bir sözleşme modelini takip edecek.
 
 Daha riskli stratejiler artık bir Junior Tranche sözleşmesine sahip olacak, yani kullanıcı önce jetonları bir vault'aa yatıracak ve daha sonra vault jetonlarını daha yüksek riskli/yüksek ödül seçeneği için küçük bir dilim sözleşmesine yatırmayı seçebilecek. Kullanıcılar ayrıca odaklanmak için belirli stratejiler seçebilirler. Bu, daha yüksek risk iştahına sahip kişilerin keşfetmek isteyebilecekleri isteğe bağlı bir özelliktir.
 
@@ -70,6 +70,7 @@ Diğer özellikler, kullanıcılar, stratejistler ve geliştiriciler tarafından
 - Vault süreçleri etrafındaki artan modülerlik, diğer protokollerle daha sıkı ortaklıklar kurmamıza ve vakalarına daha özel çözümler oluşturmamıza olanak tanır.
 
 ## Vault kodları
+
 v2 vault'ları kodu [Vyper](https://vyper.readthedocs.io/en/stable/)'da yazılmıştır, ancak v3, [Solidity](https://docs.soliditylang.org/en/v0.8.13/) ile oluşturulmuştur.
 
 Vyper, v2 sistemi tarafından kanıtlandığı gibi sağlam bir dildir, ancak daha küçük bir geliştirici havuzuna sahiptir. Sağlamlıkla devam etme kararımız, diğer faktörlerin yanı sıra, bunun gibi kritik bir proje için gerekli olan daha büyük geliştirici havuzuna erişmeye dayanıyordu. Vyper için parlak bir gelecek görüyoruz ve bunu akıllı sözleşmeler için Yearn'de keşfetmeye devam edeceğiz, vault'ların etrafındaki modüllerden herhangi biri bunu kullanarak yapılabilir.
@@ -85,4 +86,4 @@ Ben sadece v3'te geleceklerin yüzeyini çizdim. Yearn'in katkıda bulunanlar ay
 
 **[Yearn'e katılma fırsatları hakkında daha fazla bilgiyi buradan öğrenin!](https://yearnfinance.notion.site/Join-Us-3e9c95b9bd7846a18c0f1cbe6ab05eda)**
 
-**[yearn.finance](https://yearn.finance/#/portfolio) Ürünüdür**
+*[yearn.finance](https://yearn.finance/#/portfolio) Ürünüdür*
