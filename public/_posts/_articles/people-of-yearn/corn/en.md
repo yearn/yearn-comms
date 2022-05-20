@@ -2,8 +2,8 @@
 title:  "People of Yearn : Corn"
 image:
   src: ./cover.jpg
-  width: 1000
-  height: 528
+  width: 400
+  height: 400
 date: "2022-04-07"
 author: Defiglenn
 translator: 
@@ -12,7 +12,7 @@ translator:
 
 # People of Yearn : Corn
 
-![](cover.jpg?w=900&h=450)
+![](cover.jpg?w=400&h=400)
 
 Corn‘s profile picture
 
@@ -24,7 +24,7 @@ Corn‘s profile picture
 There were a lot of opportunities for that company to improve and all they had to do was talk to me and listen. They decided not to. They lost a lot of business.  
 That would never happen at Yearn. Someone will always listen and think and provide feedback. If something can be built or done to improve operations, I just signal my intentions and then just do it.
 
-![](image1.jpg?w=900&h=450)
+![](image1.jpg?w=530&h=311)
 
 **Q: What does your day with Yearn look like?  
 **Yearn is more of a lifestyle commitment. You’re always responsible for knowing what is going on and when it comes to b2b, you must make sure partner issues and questions are responded too quickly. Every day is different. Sometimes I get an opportunity to do a lot of outreach, sometimes I am doing meetings and helping plan new partner integrations. There are always hundreds if not over 1,000 messages to check every day. I prefer 1,000 telegram messages to even 100 emails though. We don’t do a lot of email communication thankfully 😊  
@@ -33,7 +33,7 @@ So my day for Yearn basically starts first thing and ends when I go to sleep. Su
 **Q: What are the most impressive parts of Yearn for you?  
 **The quality of people working on the project. Most of the doers were top professionals in web2 before coming to Yearn. I don’t know that with any certainty, but it was really obvious to me how high the bar was after looking at internal and external documentation, how problems are solved, and how dedicated everyone is to building Yearn.
 
-![](image2.jpg?w=900&h=450)
+![](image2.jpg?w=430&h=276)
 
 **Q: What kind of impact do you want to have not just in Yearn but across the space?  
 **I try to evangelize borderless web3 as much as possible. For builders, for users, for anyone.
