@@ -3,17 +3,17 @@ title:  "Vaults Yearn v3"
 image:
   src: ./image1.jpg
   width: 900
-  height: 450
+  height: 429
 date: '2022-05-02'
 author: Marco Worms
 translator: Cryptouf
 ---
 
-![](./image1.jpg?w=688&h=900)
+![](./image1.jpg?w=900&h=429)
 
 Alors que nous anticipons les changements incroyables que les Vaults v3  apporteront aux degens et aux développeurs, nous avons pu parlé avec le le leader de l'équipe de conception de la v3. Nous avons été surpris de découvrir le nombre de nouvelles fonctionnalités ! Au départ, notre conversation a commencé autour de la norme [ERC-4626](https://twitter.com/iearnfinance/status/1511444220850184197) qui normalise les vaults à travers les protocoles, mais il s'avère que ce n'est que la partie émergée de l'iceberg.
 
-# Le but de la v3 est d'améliorer tous les aspects essentiels des yVaults de Yearn 
+## Le but de la v3 est d'améliorer tous les aspects essentiels des yVaults de Yearn 
 
 ### Sécurité
 
@@ -53,13 +53,13 @@ Autoriser les vaults à être contrôlés par des multisigs et ainsi permettre d
 
 La v3 donnera aux développeurs et aux stratèges plus de flexibilité pour déployer leur code. Cela augmentera la modularité des contrats et ouvre également les portes à de nouvelles façons de déposer dans des vaults.
 
-Cela permettre également une meilleure automatisation des contrats périphériques : avec la v2 seules les fonctions de harvest sont automatisées . Avec la v3 on se rapprochera d'un vault 100% automatisé car d'autres fonctions sont plus faciles à automatiser avec le [Keep3r Network] (https://keep3r.network/).
+Cela permettre également une meilleure automatisation des contrats périphériques : avec la v2 seules les fonctions de harvest sont automatisées . Avec la v3 on se rapprochera d'un vault 100% automatisé car d'autres fonctions sont plus faciles à automatiser avec le [Keep3r Network](https://keep3r.network/).
 
 > **Nous voulons aller vite et ne rien perturber** — Skeletor
 
 ## Stratégies sous stéroïdes
 
-Les coffres v2 avaient une limite de 20 stratégies par coffre, dans la v3 cette limite sera augmentée. De plus, les stratégies plus risquées suivront désormais un modèle de contrat analogue aux [tranches senior/junior](https://corporatefinanceinstitute.com/resources/knowledge/finance/junior-tranche-debt/).
+Les coffres v2 avaient une limite de 20 stratégies par coffre, dans la v3 cette limite sera augmentée. De plus, les stratégies plus risquées suivront désormais un modèle de contrat analogue aux [tranches Senior/Junior](https://corporatefinanceinstitute.com/resources/knowledge/finance/junior-tranche-debt/).
 
 Les stratégies plus risquées auront désormais un contrat de tranche junior, ce qui signifie que l'utilisateur déposera d'abord des jetons dans un coffre-fort et pourra ensuite choisir de déposer les jetons de coffre-fort dans un contrat de tranche junior pour une option à risque plus élevé/récompense plus élevée. Les utilisateurs peuvent également choisir des stratégies spécifiques sur lesquelles se concentrer. Il s'agit d'une fonctionnalité facultative que les personnes ayant un appétit pour le risque plus élevé pourraient vouloir explorer.
 
@@ -72,6 +72,7 @@ D'autres fonctionnalités se concentrent sur l'amélioration de l'utilisation gl
 - La modularité accrue autour des processus de voûte nous permet de nouer des partenariats plus étroits avec d'autres protocoles et de créer des solutions plus spécialisées pour leurs cas.
 
 ## Code des Vaults
+
 Le code des vaults V2 est ecrit en [Vyper](https://vyper.readthedocs.io/en/stable/), mais les V3 sont développés avec [Solidity](https://docs.soliditylang.org/en/v0.8.13/).
 
 Vyper est un langage robuste comme le prouve le système v2, mais dispose d'une communauté de développeurs plus petite. Notre décision d'opter pour solidity est basée, entre autres facteurs, sur la possibilite d'interagir avec beaucoup plus de développeurs. Ce qui est crucial et nécessaire pour un projet comme celui-ci. Mais nous n'enterront pas Vyper et nous prevoyont un futur flamboyant. C'est pour cela que nous continuerons à l'utiliser pour nos smart contracts, n'importe lequel des modules autour des vault peut être développé avec Vyper.
@@ -85,4 +86,4 @@ Les statistiques sur les langages de codage utilisés dans les blockchains peuve
 
 Nous n'avons qu'effleurer la surface de ce que v3 offrira. Les contributeurs de Yearn travaillent également à la création d'un certain nombre d'autres produits et fonctionnalités passionnantes ! 
 
-Made by [yearn.finance](https://yearn.finance/#/portfolio)
+*Made by [yearn.finance](https://yearn.finance/#/portfolio)*
