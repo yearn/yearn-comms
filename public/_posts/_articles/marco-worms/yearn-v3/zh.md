@@ -13,7 +13,7 @@ translator: Xiaona
 
 v3 机枪池由开发者和 degen 共同打造，怀着对它的期待，我找到 v3 的设计团队并跟他们做了交流。我惊讶于 v3 增加的功能之多。最初我们的对话是围绕着 [ERC-4626](https://twitter.com/iearnfinance/status/1511444220850184197) 的代币标准展开的，也就是标准化机枪池，但后来才发现这只是冰山一角。
 
-# v3 的目标是要改进 Yearn 机枪池的所有核心功能
+## v3 的目标是要改进 Yearn 机枪池的所有核心功能
 
 ### 安全性
 
@@ -57,7 +57,7 @@ v3 将赋予开发者和策略家更多的灵活性。v3 将会增强合约模�
 
 ## 更加激进的策略
 
-v2 每个机枪池的策略不能超过 20 个，v3 将打破这个限制。此外，使用 [Senior/ Junior Tranches](https://corporatefinanceinstitute.com/resources/knowledge/finance/junior-tranche-debt/) 合约模型的机枪池将采取较高风险的策略。
+v2 每个机枪池的策略不能超过 20 个，v3 将打破这个限制。此外，使用 [Senior/Junior Tranches](https://corporatefinanceinstitute.com/resources/knowledge/finance/junior-tranche-debt/) 合约模型的机枪池将采取较高风险的策略。
 
 使用 Junior Tranche 合约来采用高风险策略，这意味着用户首先存款到机枪池，然后可以选择将机枪池代币存入高风险/高收益的 junior tranche 合约，甚至还可以选择某特定策略。这比较适合于风险承受能力较高的用户。
 
@@ -70,6 +70,7 @@ v3 团队正在研究的另一件事情是如何实现[策略背书](https://med
 - 围绕机枪池流程所增强的模块化，将使我们与合作伙伴之间的关系更加紧密，以便于为他们提供更具有针对性的解决方案
 
 ## 机枪池代码
+
 v2 机枪池代码是用 [Vyper](https://vyper.readthedocs.io/en/stable/) 编写的，而 v3 使用的是 [Solidity](https://docs.soliditylang.org/en/v0.8.13/)。
 
 v2 已经证明了 Vyper 的可靠性，但使用它的开发者并不多。考虑到像 v3 这样重要的项目需要更多的开发者，我们决定使用 solidity。我们依然看好 Vyper 未来的发展，也会在 Yearn 的智能合约中继续使用它，任何围绕机枪池的模块都可以继续使用 Vyper 来编码。
@@ -85,4 +86,4 @@ v2 已经证明了 Vyper 的可靠性，但使用它的开发者并不多。考�
 
 **[你可以在这里找到更多加入 Yearn 的机会！](https://yearnfinance.notion.site/Join-Us-3e9c95b9bd7846a18c0f1cbe6ab05eda)**
 
-**来自 [yearn.finance](https://yearn.finance/#/portfolio)**
+*来自 [yearn.finance](https://yearn.finance/#/portfolio)*
