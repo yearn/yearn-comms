@@ -9,8 +9,6 @@ author: Qosmonot
 translator: RestlessMik3
 ---
 
-# Más boosts, compuestos y mojitos para ti con yvBOOST
-
 ### La relación de colaboración de Yearn con [Curve.fi](http://curve.fi/) es fundamental para nuestra infraestructura y fundamental para darle un boost adicional a tus boosts.
 
 🔵🤝🌈
