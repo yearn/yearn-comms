@@ -42,7 +42,7 @@ I try to evangelize borderless web3 as much as possible. For builders, for users
 We’re all born into some completely random social contract in the physical world. It is something every human has in common. It isn’t up to us and it really sucks. Yearn makes this irrelevant.
 
 ## Q: What are some of your hobbies and interests?  
-**I have a huge garden and I grow all kinds of foods. It is more like a very small farm. I’m really into cycling too.
+I have a huge garden and I grow all kinds of foods. It is more like a very small farm. I’m really into cycling too.
 
 ## Q: Tell us a fun fact about you!  
 One day I want to get a house with a pond and I’ll rehabilitate injured ducks.
