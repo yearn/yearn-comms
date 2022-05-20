@@ -13,7 +13,7 @@ translator: RestlessMik3
 
 Mientras miramos hacia los emocionantes cambios que traerán las Vaults v3 tanto para los desarrolladores como para los "degens", hablé con el colaborador de Yearn que lidera el equipo de diseño de v3. ¡Me sorprendió enterarme de la cantidad de funciones nuevas! Inicialmente, nuestra conversación comenzó en torno al estándar [ERC-4626](https://twitter.com/iearnfinance/status/1511444220850184197) que estandariza las Vaults en todos los protocolos, pero resulta que eso es solo la punta del iceberg.
 
-# El propósito de v3 es mejorar todos los aspectos centrales de las Vaults de Yearn 
+## El propósito de v3 es mejorar todos los aspectos centrales de las Vaults de Yearn 
 
 ### Seguridad
 
@@ -70,6 +70,7 @@ Otras funciones se centran en mejorar el uso general de las vaults por parte de 
 - La mayor modularidad en torno a los procesos de Vault nos permite establecer asociaciones más estrechas con otros protocolos y crear soluciones más especializadas para sus casos.
 
 ##  Código de las Vaults
+
 El código de las vaults v2 está escrito en [Vyper](https://vyper.readthedocs.io/en/stable/), pero v3 está construida con [Solidity](https://docs.soliditylang.org/en/v0.8.13/).
 
 Vyper es un lenguaje sólido como lo demuestra el sistema v2, pero tiene un grupo de desarrolladores más pequeño. Nuestra decisión de apostar por solidity se basó, entre otros factores, en acceder al mayor grupo de desarrolladores necesario para un proyecto crítico como este. Vemos un futuro brillante para Vyper y continuaremos explorándolo en Yearn para los contratos inteligentes, cualquiera de los módulos alrededor de las vaults se puede hacer utilizandolo.
@@ -85,4 +86,4 @@ Solo he arañado la superficie de lo que vendrá en v3. ¡Los colaboradores de Y
 
 **[¡Aprende más sobre las oportunidades para unirse a Yearn aquí!](https://yearnfinance.notion.site/Join-Us-3e9c95b9bd7846a18c0f1cbe6ab05eda)**
 
-**Hecho en [yearn.finance](https://yearn.finance/#/portfolio)**
+*Hecho en [yearn.finance](https://yearn.finance/#/portfolio)*
