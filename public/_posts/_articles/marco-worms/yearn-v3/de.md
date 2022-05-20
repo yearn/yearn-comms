@@ -1,5 +1,5 @@
 ---
-title:  "Yearn Vaults v3"
+title: "Yearn Vaults v3"
 image:
   src: ./image1.jpg
   width: 900
@@ -13,7 +13,7 @@ translator: Nesyeth
 
 Im Hinblick auf die aufregenden Änderungen, die v3 Vaults sowohl für Entwickler als auch für Degens mit sich bringt, habe ich mit dem Yearn-Mitarbeiter gesprochen, der das v3-Designteam leitet. Ich war überrascht über die Anzahl der neuen Funktionen! Unser Gespräch drehte sich zunächst um den [ERC-4626](https://twitter.com/iearnfinance/status/1511444220850184197) Standard, der Vaults protokollübergreifend standardisiert, aber es stellte sich heraus, dass dies nur die Spitze des Eisbergs ist.
 
-# Der Zweck von v3 ist die Verbesserung aller Kernaspekte von Yearn Vaults
+## Der Zweck von v3 ist die Verbesserung aller Kernaspekte von Yearn Vaults
 
 ### Sicherheit
 
@@ -43,9 +43,9 @@ Ermöglicht ein einfacheres Testen und Einsetzen von Strategien und bietet insge
 
 Schaffung neuer Produkte wie Junior Tranches, die risikoreichere Strategien ermöglichen und es den Nutzern erlauben, eine risikoreichere Einlageoption zu wählen.
 
-Mehr als 1 Vault für jeden Token-Typ zulassen
+Mehr als 1 Vault für jeden Token-Typ zulassen.
 
-Ermöglicht die Steuerung von Vaults durch Multisigs, die mit Partnerprotokollen gemeinsam genutzt werden können
+Ermöglicht die Steuerung von Vaults durch Multisigs, die mit Partnerprotokollen gemeinsam genutzt werden können.
 
 ## Flexibilität
 
@@ -57,7 +57,7 @@ Wir werden auch eine bessere Automatisierung von peripheren Verträgen sehen: in
 
 ## Strategien auf Steroiden
 
-In v2 war die Anzahl der Strategien pro Vault auf 20 begrenzt, in v3 wird diese Grenze erhöht. Darüber hinaus werden risikoreichere Strategien nun einem Vertragsmodell analog zu den [Senior/ Junior Tranches](https://corporatefinanceinstitute.com/resources/knowledge/finance/junior-tranche-debt/) folgen.
+In v2 war die Anzahl der Strategien pro Vault auf 20 begrenzt, in v3 wird diese Grenze erhöht. Darüber hinaus werden risikoreichere Strategien nun einem Vertragsmodell analog zu den [Senior/Junior Tranches](https://corporatefinanceinstitute.com/resources/knowledge/finance/junior-tranche-debt/) folgen.
 
 Für risikoreichere Strategien gibt es jetzt einen Junior-Tranchen-Vertrag, d. h. der Nutzer zahlt zunächst Token in einen Vault ein und kann dann wählen, ob er die Vault-Token in einen Junior-Tranchen-Vertrag einzahlen möchte, um eine Option mit höherem Risiko und höherer Rendite zu erhalten. Die Nutzer können auch bestimmte Strategien wählen, auf die sie sich konzentrieren möchten. Dies ist eine optionale Funktion, die für Personen mit einer höheren Risikobereitschaft interessant sein könnte.
 
@@ -70,6 +70,7 @@ Weitere Funktionen zielen darauf ab, die allgemeine Nutzung von Vaults durch Nut
 - Die größere Modularität der Vault-Prozesse ermöglicht es uns, engere Partnerschaften mit anderen Protokollen einzugehen und Lösungen zu entwickeln, die stärker auf deren Bedürfnisse zugeschnitten sind.
 
 ## Vaults code
+
 Der Code von v2 vaults ist in [Vyper](https://vyper.readthedocs.io/en/stable/) geschrieben, aber v3 ist mit [Solidity](https://docs.soliditylang.org/en/v0.8.13/) erstellt.
 
 Vyper ist eine solide Sprache, wie das v2-System beweist, hat aber einen kleineren Entwicklerpool. Unsere Entscheidung für Solidity basierte unter anderem auf dem Zugang zu einem größeren Entwicklerpool, der für ein kritisches Projekt wie dieses notwendig ist. Wir sehen eine große Zukunft für Vyper und werden es in Yearn für Smart Contracts weiter erforschen, jedes der Module rund um Vault kann damit realisiert werden.
@@ -85,4 +86,4 @@ Ich habe nur an der Oberfläche dessen gekratzt, was in v3 kommen wird. Die Mita
 
 **[Erfahre hier mehr über die Möglichkeiten, bei Yearn mitzumachen!](https://yearnfinance.notion.site/Join-Us-3e9c95b9bd7846a18c0f1cbe6ab05eda)**
 
-**Erstellt [yearn.finance](https://yearn.finance/#/portfolio)**
+*Erstellt [yearn.finance](https://yearn.finance/#/portfolio)*
