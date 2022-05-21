@@ -236,6 +236,6 @@ Yerel olarak çalıştırdıktan sonra, tarayıcıdaki varsayılan web sitesi UR
 
 ---
 
-#### *Yapımcı: [Worms](https://twitter.com/MarcoWorms), Eleştirmenler: [Dark Ghosty](https://github.com/DarkGhost7), [Cryptouf](https://twitter.com/cryptouf)*
+*Yapımcı: [Worms](https://twitter.com/MarcoWorms), Eleştirmenler: [Dark Ghosty](https://github.com/DarkGhost7), [Cryptouf](https://twitter.com/cryptouf)*
 
-#### *Yearn.finance'de üretildi*
+*Yearn.finance'de üretildi*

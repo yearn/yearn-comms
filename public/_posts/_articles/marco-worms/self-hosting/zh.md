@@ -236,6 +236,6 @@ web3 网站自托管意味着，当默认的服务提供商宕机时前端仍能
 
 ---
 
-#### *作者：[Worms](https://twitter.com/MarcoWorms)，审稿人: [Dark Ghosty](https://github.com/DarkGhost7)，[Cryptouf](https://twitter.com/cryptouf)*
+*作者：[Worms](https://twitter.com/MarcoWorms)，审稿人: [Dark Ghosty](https://github.com/DarkGhost7)，[Cryptouf](https://twitter.com/cryptouf)*
 
-#### *yearn.finance 出品*
+*yearn.finance 出品*

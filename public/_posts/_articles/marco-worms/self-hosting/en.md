@@ -236,6 +236,6 @@ After running it locally, instead of accessing the default website URL in the br
 
 ---
 
-#### *Producers: [Worms](https://twitter.com/MarcoWorms), Reviewers: [Dark Ghosty](https://github.com/DarkGhost7), [Cryptouf](https://twitter.com/cryptouf)*
+*Producers: [Worms](https://twitter.com/MarcoWorms), Reviewers: [Dark Ghosty](https://github.com/DarkGhost7), [Cryptouf](https://twitter.com/cryptouf)*
 
-#### *Made in yearn.finance*
+*Made in yearn.finance*
