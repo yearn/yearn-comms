@@ -84,7 +84,7 @@ Bu videoda **tüm [detayları]((https://showcase.ethglobal.com/ethamsterdam/arch
     
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1xtfiZXh43c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
-## **Hadi birlikte inşa edelim!**
+## Hadi birlikte inşa edelim!
     
 **Herkesi Yearn ile birlikte / üzerinde / beraberinde inşa etmeye davet etmek istiyoruz! Bu, hem hackathonlar hem de herhangi bir zamanda DAO hibeleri ve ödüllerine sahip olmakla ilgilidir. Sadece birkaç fikir önerin ve dalmaya başlayın, size yardımcı olmayı çok isteriz.**
     
