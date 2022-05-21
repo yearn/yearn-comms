@@ -19,7 +19,7 @@ Bienvenido a la 45.ª edición de la newsletter de Yearn Finance. Nuestro objeti
 - Proveedores de liquidez ALPHA e YFI elegibles para un NFT especial
 - Recordatorio para migrar a V2
 - Cómo hacer swap a una vault de Yearn
-- Los ingresos acumulativos del protocolo alcanzan los 39 millones de dólares
+- Los ingresos acumulados del protocolo alcanzan los 39 millones de dólares
 - Vaults de Yearn
 - Noticias del ecosistema
 
