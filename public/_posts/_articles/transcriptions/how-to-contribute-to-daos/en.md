@@ -92,6 +92,7 @@ So looking a little bit more closely at execution, there's more nuance to it. We
 There can be formal evaluation processes like a grants committee that gives you money and that lets you know that this was a valuable contribution or Coordinape, a tool that I founded with a bunch of people from Yearn where it does decentralized compensation, and any member of the group at the end of a month can share money.
 
 And maybe you get a lot of GIVE tokens which come from that and you're like, Wow, OK, I did good. But it doesn't always happen on its own. It's always part of a cycle:
+
 Inspiration, execution, evaluation, and then completion.
 
 Completion is the part where it's like, OK, maybe you get paid, maybe you get recognized, maybe your logo gets used and put on the website to close the loop on the action.
