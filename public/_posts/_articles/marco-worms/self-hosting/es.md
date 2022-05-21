@@ -20,7 +20,7 @@ En este artículo, aprenderemos a autohospedar las interfaces de las aplicacione
 Una introducción rápida a estos conceptos.:
 
 - **Front-end** es el nombre que se le da a la parte de la aplicación que ve el usuario, como un sitio web o una aplicación móvil.
-- **Back-end** es el nombre que se le da a la parte de la aplicación que el usuario no ve. Muchas acciones de front-end dependen del back-end para procesar.
+- **Back-end** es el nombre que se le da a la parte de la aplicación que el usuario no ve. Muchas acciones de front-end dependen del back-end para ser procesadas.
 
 En Web3, la cadena de bloques logra descentralizar el back-end, pero el front-end seguirá brindándose al usuario mediante el método centralizado predeterminado:
 
