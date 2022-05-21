@@ -9,24 +9,25 @@ author: Tracheopteryx
 translator: jameskbh
 ---
 
-# Como contribuir com DAOs
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/anDAtWrhDnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-[![Como contribuir com DAOs](tracheopteryx.jpg?w=512&h=304)](https://www.youtube.com/embed/anDAtWrhDnE "Como contribuir com DAOs")
 #### Transcrito por Kish
-_Nota: Esta é uma transcrição de uma palestra dada pela Tracheopteryx na Eth Denver 2022_
 
-## **Intro**
+*Nota: Esta é uma transcrição de uma palestra dada pela Tracheopteryx na Eth Denver 2022*
+
+## Intro
+
 Olá, pessoal. Eu sou Tracheopteryx de Yearn e Coordinape e eu vou falar sobre como contribuir para uma DAO. Entrei em DeFi em algum momento durante o DeFi Summer de 2020 e o que aconteceu foi que um amigo me enviou uma mensagem que dizia: "compre $ YFI". Eu fiquei assim: "OK, deixe-me dar uma olhada nisso" e foi bom porque eu comprei muito barato. E, apesar de ter sido no último dia de agricultura de rendimento, eu fiquei impressionado. Porque, aqui estava uma organização verdadeiramente descentralizada nascida apenas desta explosão de generosidade, onde Andre deu todos os $YFI para o mundo.
 
 E eu tinha que fazer parte disso. E este é realmente, tanto quanto eu poderia dizer, o tipo mais descentralizado, o primeiro organismo como este no planeta. E desde o início, não havia ninguém realmente no comando. Andre não estava no comando. Estávamos todos tentando descobrir como fazer isso funcionar. E nós desenvolvemos todas essas estruturas e ao longo dos últimos quase dois anos, nós aprendemos muito, muito sobre o que significa participar de uma verdadeira DAO
 
 E então eu vou compartilhar um pouco disso agora.
 
-##**O que é uma DAO**
+## O que é uma DAO
+
 A primeira coisa é descobrir o que é uma DAO, certo? Existem muitos tipos diferentes de DAOs. Então aqui está uma definição: são redes descentralizadas de agentes controlando a propriedade com contratos inteligentes. Portanto, o que diferencia uma DAO de uma corporação é que ela está no blockchain e é capaz de ter essa participação descentralizada real e propriedade compartilhada. E a parte da contribuição são esses agentes controlando a propriedade.
 
-## **Como você se torna parte desse aspecto de uma DAO?**
+## Como você se torna parte desse aspecto de uma DAO?
 
 Primeiro, a gente tem que começar pensando na rede, né? Porque DAOs são essas entidades de rede complexas. Elas muitas vezes não têm um limite claro. Quando elas são uma boa DAO, não têm uma estrutura clara de comando e controle. Elas são mais como biologia. E aqui está um mapa de rede de todos os participantes de um DAO no centro, você pode ver que há cerca de 20%. Estas são as pessoas que estão trabalhando sem parar para o DAO. Você sabe, estes são os contribuintes principais, e então em torno deles, 40%, estes são os contribuintes de meio período. As pessoas que entram, talvez enviem um pull request ou ajudem no fórum. Então, além disso, esses são os talvez, digamos, os detentores de token, todos aqui provavelmente são detentores de token, mas essas são pessoas que talvez votem na governança de vez em quando, coisas assim.
 
@@ -40,19 +41,21 @@ E esta é uma imagem do metabolismo celular e da célula de um ribossomo, mRNA e
 
 E assim você cria uma proteína. Apenas pessoas flutuando no espaço fazendo o que são chamadas a fazer, criando algo valioso. E a maneira que isso funciona é que você precisa da estrutura certa para a coisa valiosa ser criada. Caso contrário, as pessoas vão esbarrar umas nas outras. Portanto, o trabalho de criar uma DAO bem-sucedida é criar a estrutura certa. Mas temos que entender o que é isso antes que você possa fazer isso.
 
-## **O que fazer numa DAO**
+## O que fazer numa DAO
+
 Como você sabe o que fazer? Você é um pouco de aminoácido andando por aí com todos os seus amigos. Como você sabe o que deve fazer? Ninguém está te dizendo o que fazer. Isso acontece em Yearn o tempo todo. As pessoas entram e dizem: "Eu quero fazer alguma coisa." É tipo, “Ótimo, então faça. Sabe, todos os recursos estão lá. É tudo aberto, está tudo disponível. Tudo é de código aberto: então, aqui estão todos os nossos docs, vai lá e faça alguma coisa. E isso é tão novo para as pessoas, porque estamos acostumados a terceirizar a responsabilidade por nossas próprias ações e desejos para outros. Você entra em numa empresa e agora meu chefe me diz o que é bom, ou meu pai me diz o que é bom, certo?
 
 Ou algum grupo de pessoas no Twitter me diz o que pensar. Mas agora em uma DAO, você tem que tomar essa isso de volta. Você tem que tomar essa responsabilidade de volta e escolher por si mesmo o que você quer e se reconectar com sua cognição real, você sabe, essa sensação e crença sobre o mundo.
 
-## **Ikigai- A.K.A IkiDAO**
+## Ikigai- A.K.A IkiDAO
+
 Então aqui está um modelo para fazer isso. Isto vem de Ikigai, que é um conceito japonês.
 
 Mas eu mudei um pouco para DAOs. Então, quando você está em uma DAO, a melhor coisa para você fazer é o que está no centro. É uma combinação do que você ama, apenas puramente o que você ama fazer. Não se preocupe em avaliar isso. Apenas o que está vivo em você, o que você é melhor em, você sabe, quais são suas habilidades.
 
 Isso é, você sabe, fácil de encontrar, o que você pode ser pago para fazer. Essa é uma informação importante porque essas coisas existem em um mercado. E daí, você pode ser pago por isso. Muita coisa vai ajudar isso. E finalmente, o que o DAO precisa. Agora, tudo naquela área, na área vermelha, "o que o DAO precisa" vai ser algo bom que você pode fazer para o DAO, mas as coisas no meio vão ser de maior valor.
 
-## **Qual é o ato real de contribuir para um DAO?**
+## Qual é o ato real de contribuir para um DAO?
 
 Haverá muitas execuções sem permissão disponíveis. Você pode encontrá-los em um quadro de recompensas ou em numa página Trello ou em um projeto do GitHub, em vários outros lugares ou no Discord.
 
@@ -68,7 +71,8 @@ Mas também importante é o meio, que a área vermelha, que é as coisas em cons
 
 Você tem que aprender essa pequena nuance aqui.
 
-## **Contribuindo**
+## Contribuindo
+
 Então, digamos que você é esse contribuidor em uma DAO e você está dizendo: "Ei, como eu não consigo encontrar os relatórios financeiros, onde estão os relatórios?" Sabe, no Discord que você está meio que pegando, esse caso, esse caso, você está ocupando espaço, sabe, você está fazendo barulho, e talvez isso não seja útil. E a DAO aqui é como uma versão disso. Tipo, isso não é uma contribuição. Isso é barulho.
 
 Mas então talvez você pode dizer: Olha, eu não consigo encontrar os relatórios financeiros, mas na verdade isso ajuda a DAO porque a DAO pensa, sabe de uma coisa? Nossos relatórios financeiros não estão mais divulgados no lugar onde deveriam estar. Obrigado por me avisar, que vamos consertá-los.
@@ -79,17 +83,20 @@ Você sabê, há todas essas pessoas na DAO ou o que quer que seja, e elas podem
 
 O último exemplo é aceitar, então como um colaborador dentro de uma DAO pode estar contribuindo ao aceitar? Recebendo um airdrop, DAOs o tempo todo, as DAOs FAZEM airdrops porque é valioso para eles. Isso é ótimo. A DAO quer que você pegue esse dinheiro e você quer recebê-lo, ou talvez seja uma shitcoin e você não quer.
 
-## **Execução**
+## Execução
 
 Então, olhando um pouco mais de perto para a execução, há mais nuances nela. Temos que trazê-la para fora. Então, é uma execução sem permissão e começa com inspiração. Aqui está uma coisa que eu quero fazer. Então você faz isso e depois há uma avaliação e essa avaliação pode acontecer inconscientemente. É apenas uma coisa emergente. Pose ser: Isso é ótimo, e todo mundo adora, sabe, e não há processo, não há recompensa. Você só se sente bem com isso. Ou, talvez esteja claro que foi ruim, ou pode ser mais formal.
 
-## **Compensação**
+## Compensação
+
 Pode haver processos formais de avaliação, como um comitê de subsídios que lhe dá dinheiro e que permite que você saiba que esta foi uma contribuição valiosa ou Coordinape, uma ferramenta que fundei com um monte de pessoas de Yearn, onde existe uma remuneração descentralizada, e qualquer membro do grupo no final de um mês pode compartilhar dinheiro.
 
 E talvez você receba um monte de tokens GIVE que vêm disso e você é fica como: "Uau, OK, eu fiz algo bom." Mas nem sempre iso acontece por conta própria. É sempre parte de um ciclo:
+
 Inspiração, execução, avaliação e, em seguida, conclusão.
 
 A conclusão é a parte em que é como, OK, talvez você seja pago, talvez você seja reconhecido, talvez seu logotipo seja usado e colocado no site para fechar o loop da ação.
+
 Mas isso é tudo sem permissão. Fica ainda mais divertido quando você adiciona experiências permitidas, certo? Coisas de permissão. Isso é algo que já estamos acostumados, o processo de proposta em uma DAO. Você vai para a Uniswap e você escreve uma proposta para dar a alguém algum dinheiro e, em seguida, as pessoas a aprovam ou elas pegam isso e levam para outra direção.
 
 Mas este é o ciclo completo possível para ações permitidas, onde a inspiração é você escrever uma proposição ou proposta, então algum grupo toma uma decisão. Talvez seja uma votação ponderada simbólica, talvez seja uma pequena equipe Y, uma equipe de poder delegado dentro do grupo. Então você pode executá-la, ela pode ser avaliada e concluída. E isso é importante saber porque é assim que o trabalho acontece em uma organização descentralizada.
@@ -97,13 +104,13 @@ Mas este é o ciclo completo possível para ações permitidas, onde a inspiraç
 E cada um desses nós pode ser sem permissão de uma forma ou de outra. E cada um desses nós pode ter processos específicos ligados a eles que o ajudarão a executar o trabalho e a contribuir ainda melhor e encontrar uma sincronização ainda melhor dentro desse organismo.
 E é fractal, cada uma dessas seis peças tem todas as seis peças dentro dele porque o processo de tomada de decisão pode ter o mesmo processo interno e vai até o fim para essas decisões.
 
-## **Imagem da organização**
+## Imagem da organização
 
 Em Yearn, começamos totalmente sem permissão, certo? É totalmente descentralizada, totalmente aberta. E usamos o mesmo modelo que muitos DAOs usam, que é, você sabe, votação on-chain e um fórum de discussão. Mas isso era tudo. E as pessoas estavam submetendo propostas como, você sabe, Andre deve fazer este podcast ou coisas assim. E é como se isso não fizesse sentido, sabe? E também é super limitante. Porque se você tentar fazer uma DAO totalmente descentralizado, mas você só tem um canal para a tomada de decisão, que não reflete a realidade. Porque os seres humanos agrupados, eles criam decisões juntos, eles criam estruturas de poder, eles criam relacionamentos confiáveis.
 
 E nada disso realmente aparece em primeiro plano no modelo padrão de uma DAO. Então a gente criou um novo modelo que a gente chama de
 
-## **Delegação ou Governança Restrita 2**
+## Delegação ou Governança Restrita 2
 
 E o que isso faz é antecipar a confiança das relações que emergem em qualquer rede humana. E em vez de deixá-las estar na sombra, as estruturas ocultas de poder por trás da fachada de uma comunidade descentralizada, isso as traz para a frente e diz explicitamente, essas pessoas têm poder para tomar essas decisões.
 
@@ -115,7 +122,8 @@ Uma das maiores barreiras para que os DAOs realmente funcionem de forma descentr
 
 E você precisa desse tipo de sistema para fazer isso. Bem, um dos grandes desafios para as DAOs é a compensação também. Remuneração descentralizada. Como se faz isso? Encontramos esse problema no Yearn e construímos uma ferramenta chamada Coordinape, que permite uma remuneração totalmente descentralizada. Você pode pegar qualquer orçamento, colocá-lo em um círculo do Coordinape e todos os membros desse círculo o compartilham entre si por meio de um processo de votação descentralizado. E até mesmo a adesão a esse círculo pode crescer de forma descentralizada, criando relacionamentos confiáveis entre os membros. Se eu atestar por você, você pode entrar no círculo. Você precisa de três pessoas para confirmar uma indicação. Você precisa de dez pessoas para confirmar sua indicação. Depende do círculo. E agora você se torna um membro desse círculo. Você pode começar a contribuir e ser recompensado sem qualquer, você sabe, CEO ou órgão central tomar uma decisão.
 
-## **Perguntas e Respostas**
+## Perguntas e Respostas
+
 Abuso de sistema de atestamento por maus atores?
 
 Sim, mas quando você cria um sistema de atestação como este você está criando uma cadeia de prestação de contas, não vai ser bom para você se você trazer um mau ator. Em Coordinape seria difícil roubar muito dinheiro e seria muito óbvio através da natureza do círculo.
