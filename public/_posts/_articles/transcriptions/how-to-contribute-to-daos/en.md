@@ -9,24 +9,25 @@ author: Tracheopteryx
 translator:
 ---
 
-# How to Contribute to DAOs
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/anDAtWrhDnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-[![How to Contribute to DAOs](tracheopteryx.jpg?w=512&h=304)](https://www.youtube.com/embed/anDAtWrhDnE "How to Contribute to DAOs")
 #### Transcribed by Kish
+
 _note: This is a transcription of a talk given by Tracheopteryx at Eth Denver 2022_
 
-## **Intro**
+## Intro
+
 Hi, everybody. I'm Tracheopteryx from Yearn and Coordinape and I'm going to be talking about how to contribute to DAO's. I got into DeFi sometime during DeFi Summer of 2020 and what happened was a friend sent me a text that said, “buy $YFI”. I was like OK, let me take a look at this and it was good because I bought it pretty cheap but it was the last day of farming but I was blown away. Because, here was a truly decentralized organization born out of just this explosion of generosity, where Andre gave all the $YFI to the world.
 
 And I just had to be a part of it. And this is really, as far as I could tell, the most decentralized kind of the first organism like this on the planet. And from the start, there was nobody really in charge. Andre was not in charge. We were all trying to figure out how to make it work. And we developed all these structures and over the last almost two years, we've learned a lot, a lot about what it means to participate in a real DAO
 
 And so I'm going to share some of that now.
 
-## **What is a DAO**
+## What is a DAO
+
 The first thing is what is a DAO, right? There are so many different types of DAOs. So here's a definition that does are decentralized networks of agents controlling property with smart contracts. So what differentiates a DAO from a corporation is that it's on blockchain and it's able to have this real decentralized participation and shared ownership. And the contribution part is these agents controlling property.
 
-## **How do you become a part of that aspect of a DAO?**
+## How do you become a part of that aspect of a DAO?
 
 First, we have to start by thinking about the network, right? Because DAOs are these complex network entities. They often don't have a clear boundary. When they're a good DAO, they don't have a clear command and control structure. They're more like biology. And so here's a network map of all the participants in a DAO in the center, you can see there's about 20%. These are the people that are working non-stop for the DAO. You know, these are the core contributors, and then around them, 40%, these are the part-time contributors. The people that come in, they maybe submit a pull request or they help out on the forum. Then beyond that, these are the maybe let's say the token-holders everybody here is probably a token holder but these are people that maybe vote on governance every once in a while, stuff like that.
 
@@ -40,19 +41,21 @@ That's what they like to do. That's their sovereign choice. They're in consent t
 
 And then you create a protein. Just people floating in space doing what they are called to do, creating something valuable. And the way that that works is you need the right structure for the valuable thing to come out. Otherwise, the people are just going to bump into each other. So the work of creating a successful DAO is creating the right structure. But we have to understand what this is before you can even do that.
 
-## **What to do in a DAO**
+## What to do in a DAO
+
 So how do you even know what to do? You're a little amino acid bumping around with all your friends. Like, how do you know what you're supposed to do? Nobody is telling you what to do. This happens at Yearn all the time. People come in, they're like, “I want to do something.” It's like, “great, well do it. You know, like all the resources are there. It's open, it's all unchanged. Everything's open-sourced like, here's all our docs, like, make something. And so it's so new for people because we're so used to outsourcing the responsibility for our own actions and desires to other people. You get into a business and it's like, now my boss tells me what's good, or my dad tells me what's good, right?
 
 Or some group of people on Twitter tell me what to think. But now in a DAO, you have to take that back. You have to take that responsibility back and choose for yourself what you want and reconnect with your actual, you know, cognition, that sensation, and belief about the world.
 
-## **Ikigai- A.K.A IkiDAO**
+## Ikigai- A.K.A IkiDAO
+
 So here's one model to do that. This is comes from Ikigai, which is a Japanese concept.
 
 But I've changed it a little bit for DAOs. So when you're in a DAO, the best thing for you to do is what's in the center there. It's a combination of what you love, just purely what you love doing. Don't worry about evaluating it. Just what is alive in you, what you're best at, you know, what your skills are.
 
 That's, you know, easy to find, what you can be paid for. That's important information because these things exist in a market. So what, you can be paid for it. A lot is going to help that down. And then finally, what the DAO needs. Now, everything in that area, in the red area, "what the DAO needs" is going to be something good you can do for the DAO but the stuff in the middle is going to be of most value.
 
-## **What is the actual act of contributing to a DAO?**
+## What is the actual act of contributing to a DAO?
 
 There's going to be a lot of permissionless executions available. You might be able to find these on a bouncy board or on a Trello board or in a GitHub project or any number of places or just in the Discord.
 
@@ -68,7 +71,8 @@ But also importantly is the middle, that red area, that's the stuff that's in co
 
 You have to learn this little nuance here.
 
-## **Contributing**
+## Contributing
+
 So let's say you're this contributor in a DAO and you're saying like, "hey, like I can't find the financials where are the financials at?" You know, in the discord you're kind of taking, in this case, this case, you're taking up space, you know, you're making noise, like maybe this isn't helpful. And the DAO over here is like a version of this. Like, this isn't a contribution. This is noise.
 
 But then maybe you said, hey, you know, I can't find the financials you're taking, but actually this helps the DAO because the DAO is like, damn, you know what? Our financials are no longer posted in the place where they should be. Thank you for letting me know I'm going to go and fix them.
@@ -79,17 +83,20 @@ You know, this is all the people in the DAO or whatever, they might not want it.
 
 The last one is accepting, so how can a contributor within a DAO be contributing by accepting. Receiving an airdrop, DAO's all the time, like the DAOs DO airdrops because it's valuable for them. So this is great. The DAO wants you to take this money and you want to take it to where maybe it's a shit-coin and you don't want it.
 
-## **Execution**
+## Execution
 
 So looking a little bit more closely at execution, there's more nuance to it. We have to bring out. So it's permissionless execution and it starts with inspiration. Here's something I want to do. Then you do it and then there's an evaluation afterwards and that evaluation might happen unconsciously. It's just an emergent thing. Like it's like this was great, and just everyone loves it, you know, and there's no process, there's no reward. You just feel good about it. Or, maybe it's clear that it was bad, or it can be more formal.
 
-## **Compensation**
+## Compensation
+
 There can be formal evaluation processes like a grants committee that gives you money and that lets you know that this was a valuable contribution or Coordinape, a tool that I founded with a bunch of people from Yearn where it does decentralized compensation, and any member of the group at the end of a month can share money.
 
 And maybe you get a lot of GIVE tokens which come from that and you're like, Wow, OK, I did good. But it doesn't always happen on its own. It's always part of a cycle:
+
 Inspiration, execution, evaluation, and then completion.
 
 Completion is the part where it's like, OK, maybe you get paid, maybe you get recognized, maybe your logo gets used and put on the website to close the loop on the action.
+
 But this is all permissionless. It gets even more fun when you add in permissioned experiences, right? Permission things. This is what we're all familiar with, from the proposal process in a DAO. You go to Uniswap and you write a proposal to give somebody some money and then people pass it or and people are like, you know what, and it goes another way.
 
 But so this is the full possible cycle for permissioned actions where inspiration you write a proposition or proposal, then some group makes a decision. Maybe it's token weighted voting, maybe it's a small y-team, a delegated power team within the group. Then you can execute it, it can be evaluated and completed. And so this is important to know because this is how work happens in a decentralized organization.
@@ -97,13 +104,13 @@ But so this is the full possible cycle for permissioned actions where inspiratio
 And each of these nodes can be permissionless in one way or another. And each of these nodes might have specific processes attached to them that will help you to execute the work and to contribute even better and find an even better sync within that organism.
 And it's fractal, each of those six pieces has all six pieces within it because the decision-making process might have the same internal process and it goes all the way down so for these decisions.
 
-## **Org image**
+## Org image
 
-At Yearn, we started totally permissionless, right? It's totally decentralized, totally open. And we use the same model that a lot of DAOs use, which is, you know, on-chain voting and a, you know, a discourse forum. But that was like everything. And people were submitting proposals like, you know, Andre should do this podcast or whatever. And it's like, this doesn't make sense, you know? And it's also super limiting. Because if you try and make a DAO totally decentralized, but you just have one channel for decision making, that does not reflect reality. because humans grouped together, they create decisions together, they create power structures, they create trusted relationships.
+At Yearn, we started totally permissionless, right? It's totally decentralized, totally open. And we use the same model that a lot of DAOs use, which is, you know, on-chain voting and a, you know, a discourse forum. But that was like everything. And people were submitting proposals like, you know, Andre should do this podcast or whatever. And it's like, this doesn't make sense, you know? And it's also super limiting. Because if you try and make a DAO totally decentralized, but you just have one channel for decision making, that does not reflect reality. Because humans grouped together, they create decisions together, they create power structures, they create trusted relationships.
 
 And none of that really gets surfaced to the foreground in the standard DAO model. So we created a new model that we call
 
-## **Constrained Delegation or Governance 2**
+## Constrained Delegation or Governance 2
 
 And what this does is it foregrounds the trust of relationships that emerge in any human network. And instead of letting them be in the shadow, the hidden power structures behind the facade of a decentralized community, it brings them to the front and says explicitly, these people are empowered to make these decisions.
 
@@ -115,7 +122,8 @@ One of the biggest barriers to having DAOs really function in a decentralized wa
 
 And you need this type of system to do that. Well, one of the big challenges for DAOs is compensation too. Decentralized compensation. How do you do that? We ran into this problem in Yearn and so we built a tool called Coordinape, which allows for fully decentralized compensation. You can take any budget, you put it into a coordinated circle, and all the members of that circle share it with each other through a decentralized voting process. And even the membership of that circle can grow in a decentralized way by creating trusted one to one relationships between the members. If I vouch for you, you can get into the circle. You need three people to vouch for. You need ten people to vouch for you. Depends on the circle. And now you become a member of that circle. You can start contributing and getting rewarded without any, you know, CEO or central body making a decision.
 
-## **Q&A**
+## Q&A
+
 Abuse of vouching system from bad actors?
 
 Yes, but when you chain a vouching system like this you're creating. a chain of accountability, it looks bad for you if you bring. in a bad actor. In Coordinape it would be hard to steal very much money and it would be very obvious through the nature of the circle.
