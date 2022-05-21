@@ -236,6 +236,6 @@ Después de ejecutarlo localmente, en lugar de acceder a la URL predeterminada d
 
 ---
 
-#### *Creadores: [Worms](https://twitter.com/MarcoWorms), Revisado por: [Dark Ghosty](https://github.com/DarkGhost7), [Cryptouf](https://twitter.com/cryptouf)*
+*Creadores: [Worms](https://twitter.com/MarcoWorms), Revisado por: [Dark Ghosty](https://github.com/DarkGhost7), [Cryptouf](https://twitter.com/cryptouf)*
 
-#### *Hecho en yearn.finance*
+*Hecho en yearn.finance*
