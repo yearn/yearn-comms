@@ -236,6 +236,6 @@ Depois de executá-lo localmente, em vez de acessar o URL do site padrão no nav
 
 ---
 
-#### *Produtores: [Worms](https://twitter.com/MarcoWorms), Revisores: [Dark Ghosty](https://github.com/DarkGhost7), [Cryptouf](https://twitter.com/cryptouf)*
+*Produtores: [Worms](https://twitter.com/MarcoWorms), Revisores: [Dark Ghosty](https://github.com/DarkGhost7), [Cryptouf](https://twitter.com/cryptouf)*
 
-#### *Feito em yearn.finance*
+*Feito em yearn.finance*
