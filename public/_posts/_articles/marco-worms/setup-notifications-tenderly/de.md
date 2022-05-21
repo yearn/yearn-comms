@@ -12,7 +12,7 @@ translator: Nesyeth
 In dem [Artikel](https://medium.com/iearn/yearn-finance-partners-with-tenderly-to-supercharge-development-debugging-incident-analysis-6489260298a5), in dem Yearn die Partnerschaft mit Tenderly ankündigte, gab es einen Abschnitt, in dem wir sagten, dass es sich um eine Partnerschaft handelt:
 
 > "Tenderly verfügt über integrierte, anpassbare Benachrichtigungen, die es selbst unerfahrenen Benutzern ermöglichen, Benachrichtigungen zu praktisch jedem Ereignis in der Kette zu erstellen."
-
+>
 
 Ein Mitarbeiter von Yearn hat sich gemeldet, um mehr darüber zu erfahren, und ich denke, es ist eine gute Gelegenheit, diese Funktion vorzustellen! Beginnen wir damit, einen Blick darauf zu werfen, welche Netzwerke wir mit Tenderly neben dem Ethereum Mainnet nutzen können:
 
@@ -58,7 +58,7 @@ Bevor wir eine neue Ausschreibung erstellen können, müssen wir zunächst:
 
 Und jetzt los geht's!
 
-### Telegram als Ziel hinzufügen
+## Telegram als Ziel hinzufügen
 
 Gehe auf der Registerkarte "Destinations" im oberen Menü und klicke auf "Telegram":
 
@@ -75,7 +75,7 @@ Um den obigen Vorgang abzuschließen, kopiere die “magic words” aus Anweisun
 ![](./image9.jpg?w=772&h=235)\
 *Bestätigungsmeldung, dass der Bot jetzt Nachrichten in diesem Chat senden kann!*
 
-### Überwachung von Yearn Vault Einlagen/Abhebungen
+## Überwachung von Yearn Vault Einlagen/Abhebungen
 
 Beginnen wir mit der Überwachung einiger Ereignisse auf dem SPELL yVault im Fantom-Netzwerk. Wir müssen die Adresse des SPELL yVault-Vertrags kennen. Wir können sie finden, indem wir die [Yearn Vaults-Schnittstelle](https://yearn.finance/#/vaults) aufrufen und auf den SPELL Vault klicken.
 
@@ -87,10 +87,10 @@ Nachdem du darauf geklickt hast, siehst du diese Seite mit allen Details zum Vau
 ![](./image11.jpg?w=1157&h=757)\
 *SPELL yVault Einzelheiten*
 
-Dadurch wird der [SPELL yVault-Vertrag](https://ftmscan.com/address/0xD3c19eB022CAC706c898D60d756bf1535d605e1d) auf FTMScan (Fantom-Fork von Etherscan](https://etherscan.io/)) geöffnet:
+Dadurch wird der [SPELL yVault-Vertrag](https://ftmscan.com/address/0xD3c19eB022CAC706c898D60d756bf1535d605e1d) auf FTMScan [Fantom-Fork von Etherscan](https://etherscan.io/) geöffnet:
 
 ![](./image12.jpg?w=1367&h=845)\
-*[SPELL  yVault-Vertrag auf FTMScan](https://ftmscan.com/address/0xD3c19eB022CAC706c898D60d756bf1535d605e1d)*
+*[SPELL yVault-Vertrag auf FTMScan](https://ftmscan.com/address/0xD3c19eB022CAC706c898D60d756bf1535d605e1d)*
 
 Ich habe die für unseren Anwendungsfall wichtigen Informationen der Reihe nach hervorgehoben:
 - Zunächst die Vertragsadresse
@@ -106,7 +106,7 @@ Gehe dann auf die Registerkarte "Vertrag" von Tenderly und klicke auf "Importier
 ![](./image13.jpg?w=1399&h=681)\
 *Vertrag in Tenderly importieren*
 
-Fügen die Adresse ein, wähle den "Vyper Contract" (der Name wird so angezeigt, weil Yearn Vaults die [Programmiersprache Vyper](https://vyper.readthedocs.io/en/stable/index.html)) verwenden). Wenn er angezeigt wird, klicke auf "Importieren":
+Fügen die Adresse ein, wähle den "Vyper Contract" (der Name wird so angezeigt, weil Yearn Vaults die [Programmiersprache Vyper](https://vyper.readthedocs.io/en/stable/index.html) verwenden). Wenn er angezeigt wird, klicke auf "Importieren":
 
 ![](./image14.jpg?w=1155&h=909)\
 *Vertrag in Tenderly importieren*
@@ -132,6 +132,7 @@ Ziel wird eine Adresse sein:
 *Benachrichtigungsart auswählen*
 
 Du kannst den Vertrag auswählen, den wir zuvor hinzugefügt haben, und dann jede Funktion auswählen, die darin enthalten ist. Beachte, dass viele Funktionen ähnliche Namen haben können. Funktionen, die mit "_" beginnen, sind oft private interne Funktionen und nicht die, nach denen wir suchen.
+
 In diesem Fall haben wir _deposit (privat: zur internen Verwendung) und deposit (öffentlich: für externe Benutzer). Wir entscheiden uns für die öffentliche Variante:
 
 ![](./image19.jpg?w=1319&h=679)\
@@ -156,7 +157,7 @@ Hier ist ein Beispiel für eine Benachrichtigung, die ich erhielt, nachdem ich d
 
 Dieses Yearn-Beispiel zeigt eine einfache Möglichkeit, einen Funktionsaufruf eines Vertrags zu überwachen. Wenn du alle Optionen des Benachrichtigungssystems erforscht, wirst dusehen, dass diese Funktion leicht für viele verschiedene Zwecke angepasst werden kann, zum Beispiel:
 
-- Die Entwickler von NFT-Sammlungen können überwachen, wann ihr Vertrag das Minting eines neuen Tokens auslöst und dies automatisch auf Discord bekannt geben
+- Die Entwickler von NFT-Sammlungen können überwachen, wann ihr Vertrag das Minting eines neuen Tokens auslöst und dies automatisch auf Discord bekannt geben.
 - Personen, die die Tokenomics-Ströme überwachen, können mit Hilfe von Benachrichtigungen ein Auge auf den Kontostand und die Aktionen von Verträgen werfen, um zu sehen, ob die Entwickler das tun, was von ihnen erwartet wird.
 
 Du kannst jede Art von Aktivität auf der Kette überwachen und darüber benachrichtigt werden, also experimentiere mit den verschiedenen Optionen!
