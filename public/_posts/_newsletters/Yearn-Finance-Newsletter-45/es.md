@@ -49,7 +49,7 @@ Una de las mejores maneras de intercambiar fondos de una vault de Yearn a otra e
 Otra forma de migrar fondos de Compound y AAVE a Yearn es con el uso de [bowswap.finance](https://bowswap.finance/). Te permite retirarte del protocolo y depositar en una vault de Yearn, y además muestra los APY de ambos protocolos para comparar y te permite seleccionar múltiples tokens a la vez. ¡Sin cargos adicionales!
 Gracias a [cryptouf](https://twitter.com/cryptouf) por curar esta pequeña guía.
 
-## **Los ingresos acumulativos del protocolo alcanzan los 39 millones de dólares**
+## **Los ingresos acumulados del protocolo alcanzan los 39 millones de dólares**
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-45/image4.jpg?w=1456&h=833)
 
