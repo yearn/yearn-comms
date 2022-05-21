@@ -53,4 +53,4 @@ I have a huge garden and I grow all kinds of foods. It is more like a very small
 
 One day I want to get a house with a pond and I’ll rehabilitate injured ducks.
 
-Follow Corn on Twitter at [@omgcorn](https://twitter.com/omgcorn)
+*Follow Corn on Twitter at [@omgcorn](https://twitter.com/omgcorn)*
