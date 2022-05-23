@@ -32,7 +32,7 @@ Actualizamos la forma en que nuestra interfaz muestra los APY hace unas semanas 
 
 ![](./image2.jpg?w=591&h=397)
 
-La desventaja de calcular APY a través de datos recientes es: cuando las ganancias de las guerras comenzaron a disminuir, mostramos un número que provenía de cosechas recientes realmente rentables, pero las próximas cosechas probablemente no serían tan rentables (emisiones reducidas de protocolos comunitarios creados para cultivar la guerra y menos especulación después de que se tomó la instantánea de los 20 TVL principales), por lo que decidimos hacer algunos cambios para solucionar este caso.
+La desventaja de calcular los APY a través de datos recientes es: cuando las ganancias de las guerras comenzaron a disminuir, mostramos un número que provenía de cosechas recientes realmente rentables, pero las próximas cosechas probablemente no serían tan rentables (emisiones reducidas de protocolos comunitarios creados para cultivar la guerra y menos especulación después de que se tomó la instantánea de los 20 TVL principales), por lo que decidimos hacer algunos cambios para solucionar este caso.
 
 Así que teníamos un cálculo de APY realmente conservador antes del episodio mencionado anteriormente, luego cambiamos para centrarnos en datos recientes. ¡Pasar por estos 2 extremos nos hizo aprender mucho sobre lo que funciona y lo que no! Así es como lo hacemos ahora:
 
