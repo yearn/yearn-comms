@@ -11,10 +11,9 @@ date: '2022-05-23'
 translator: 
 ---
 
-
 ![](./image1.jpg?w=900&h=453)
 
-Welcome to the 62nd edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official  [Twitter](https://twitter.com/iearnfinance)  and  [Medium](https://medium.com/iearn)  accounts.
+Welcome to the 62nd edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
 
 **Summary**
 
@@ -25,9 +24,8 @@ Welcome to the 62nd edition of the Yearn Finance Newsletter. Our aim with this n
 - Yearn Wants to Buy Your YFI
 - Vaults at Yearn
 - Ecosystem News
-    
 
-# V3 Vaults Are Coming
+## V3 Vaults Are Coming
 
 ![](./image2.jpg?w=900&h=429)
 
@@ -51,21 +49,21 @@ With junior tranches, modularization, composable yield-bearing tokens and a more
 
 In the words of Skeletor Spaceman, "We want to move fast and not break things". v3 is how Yearn gets there. Mad shipping incoming.
 
-Read more about the v3 Vaults  [here](https://medium.com/iearn/yearn-vaults-v3-36ce7c468ca0).
+Read more about the v3 Vaults [here](https://medium.com/iearn/yearn-vaults-v3-36ce7c468ca0).
 
-We invite you to engage, give feedback, and participate in the Yearn community by joining us on  [Discord](https://discord.gg/8rF374XkXy),  [Twitter](http://twitter.com/iearnfinance), or  [Github](http://github.com/yearn). Come build with us.
+We invite you to engage, give feedback, and participate in the Yearn community by joining us on [Discord](https://discord.gg/8rF374XkXy), [Twitter](http://twitter.com/iearnfinance), or [Github](http://github.com/yearn). Come build with us.
 
-# New Yearn Watch Site
+## New Yearn Watch Site
 
 ![](./image3.jpg?w=900&h=705)
 
-The new  [yearn.watch](https://yearn.watch/)  site has gone live, and it provides many upgrades to our last iteration.
+The new [yearn.watch](https://yearn.watch/) site has gone live, and it provides many upgrades to our last iteration.
 
 Some of these upgrades include blazing fast loading times, UI/UX new skins and improvements galore, and alerts.
 
 A significant amount of detail has additionally been added to the new site, with new visualizations for risks and more. Plenty more stuff is coming down the pipeline, as the site has been taken over by a new team of contributors.
 
-# Yearn Allowlist
+## Yearn Allowlist
 
 ![](./image4.jpg?w=900&h=429)
 
@@ -75,9 +73,9 @@ This prevents the website from being susceptible to various man-in-the-middle at
 
 We invite other protocols to also take advantage of their own Allowlists to enhance their security. Instructions for creating your own Allowlist are detailed further on.
 
-Click  [here](https://medium.com/iearn/yearn-allowlist-71757d4e3cf4)  to learn more about the Yearn allowlist.
+Click [here](https://medium.com/iearn/yearn-allowlist-71757d4e3cf4) to learn more about the Yearn allowlist.
 
-# People of Yearn: MarcoWorms
+## People of Yearn: MarcoWorms
 
 ![](./image5.jpg?w=380&h=380)
 
@@ -89,9 +87,9 @@ At Yearn, Marco usually goes about his day by collaborating on or writing new ar
 
 As always, Yearn promotes an easygoing culture that allows anyone of all backgrounds to flourish, and Marco recognizes that we truly do encourage contributors to do what they believe in.
 
-Check out  [the full interview](https://medium.com/iearn/people-of-yearn-marco-worms-c9bb139d278e)  from Yearn contributor Defiglenn.
+Check out [the full interview](https://medium.com/iearn/people-of-yearn-marco-worms-c9bb139d278e) from Yearn contributor Defiglenn.
 
-# Yearn Wants to Buy Your YFI
+## Yearn Wants to Buy Your YFI
 
 ![](./image6.jpg?w=900&h=450)
 
@@ -103,13 +101,13 @@ As YFI is crucial to building Yearn (due to its role in our compensation and ret
 
 Our buyback piggybank will be regularly topped-up with DAI and is always willing to buy back your YFI at the current price, served by a Chainlink oracle. The stats are now real time for full transparency of buyback activity.
 
-[https://yearn.clinic](https://yearn.clinic/)  or  [https://buyback.yearn.finance/](https://buyback.yearn.finance/)  are the links to sell YFI to us.
+[https://yearn.clinic](https://yearn.clinic/) or [https://buyback.yearn.finance/](https://buyback.yearn.finance/) are the links to sell YFI to us.
 
-# Vaults At Yearn
+## Vaults At Yearn
 
-You can read a detailed description of the strategies for all of our active yVaults  [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
+You can read a detailed description of the strategies for all of our active yVaults [here](https://medium.com/yearn-state-of-the-vaults/the-vaults-at-yearn-9237905ffed3).
 
-# Ecosystem News
+## Ecosystem News
 
 [YFI has been privacy enabled by Incognito Chain](https://twitter.com/IncognitoChain/status/1527045614273544200)
 
