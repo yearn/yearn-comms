@@ -9,8 +9,6 @@ author: Qosmonot
 translator: JKtranslator
 ---
 
-# Mais incentivos, juros compostos e mojitos para você com yvBOOST
-
 ### O relacionamento colaborativo de Yearn com [Curve.fi](http://curve.fi/) é fundamental para nossa infraestrutura e para você impulsionar seus incentivos.
 
 🔵🤝🌈

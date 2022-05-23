@@ -1,5 +1,5 @@
 ---
-title: "What can you do in a DAO?"
+title: "¿Que puedes hacer en un DAO?"
 image:
   src: ./cover.jpg
   width: 1200

@@ -1,5 +1,5 @@
 ---
-title:  "Bear market, bullish development"
+title:  "Mercado bajista, desarrollo alcista"
 image:
   src: ./cover.jpeg
   width: 1000
