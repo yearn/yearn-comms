@@ -29,7 +29,7 @@ Welcome to the 62nd edition of the Yearn Finance Newsletter. Our aim with this n
 
 # V3 Vaults Are Coming
 
-![](./image2.jpg?w=900&h=453)
+![](./image2.jpg?w=900&h=429)
 
 Yearn v3 Vaults are a complete overhaul of our systems, and here are six of the top features we are excited to roll out.
 
@@ -57,7 +57,7 @@ We invite you to engage, give feedback, and participate in the Yearn community b
 
 # New Yearn Watch Site
 
-![](./image3.jpg?w=900&h=453)
+![](./image3.jpg?w=900&h=705)
 
 The new  [yearn.watch](https://yearn.watch/)  site has gone live, and it provides many upgrades to our last iteration.
 
@@ -67,7 +67,7 @@ A significant amount of detail has additionally been added to the new site, with
 
 # Yearn Allowlist
 
-![](./image4.jpg?w=900&h=453)
+![](./image4.jpg?w=900&h=429)
 
 To make the Yearn website even more secure a new feature has recently been introduced, termed the Allowlist. In essence, it allows all transactions that are made through the website/SDK to be validated against an on-chain contract that keeps a record of all valid calldata that is possible for the website to produce.
 
@@ -79,7 +79,7 @@ Click  [here](https://medium.com/iearn/yearn-allowlist-71757d4e3cf4)  to learn m
 
 # People of Yearn: MarcoWorms
 
-![](./image5.jpg?w=900&h=453)
+![](./image5.jpg?w=380&h=380)
 
 MarcoWorms is a Yearn contributor who does marketing and writes content that you may often see in these newsletters and on Twitter.
 
@@ -93,7 +93,7 @@ Check out  [the full interview](https://medium.com/iearn/people-of-yearn-marco-w
 
 # Yearn Wants to Buy Your YFI
 
-![](./image6.jpg?w=900&h=453)
+![](./image6.jpg?w=900&h=450)
 
 We heard some people are selling.
 
