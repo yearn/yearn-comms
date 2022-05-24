@@ -174,3 +174,72 @@ export function getSlugs(dir, locale, withFallback = false) {
 	let	slugs = _getSlugs(dir, locale, withFallback);
 	return slugs;
 }
+
+
+function _getDirectPost(dir, locale) {
+	const	postsDirectory = join(process.cwd(), `public/_posts/${dir}`);
+	const	fullPath = join(`${postsDirectory}/${locale}.md`);
+	const	defaultFields = ['published', 'slug', 'date', 'title', 'image', 'author', 'translator'];
+
+	if (!fs.existsSync(fullPath)) {
+		const	fullPathEN = join(`${postsDirectory}/en.md`);
+		const	fileContents = fs.readFileSync(fullPathEN, 'utf8');
+		const	{data} = matter(fileContents);
+		const	items = {slug: 'featured'};
+	
+		// Ensure only the minimal needed data is exposed
+		items['published'] = true;
+		defaultFields.forEach((field) => {
+			if (data[field] !== undefined) {
+				if (field === 'image') {
+					const {src, width, height} = data[field];
+					if ((src || '').startsWith('./')) {
+						items[field] = {
+							src: src.replace('./', `/_posts/${dir}/`),
+							width,
+							height
+						};
+					}
+				} else {
+					items[field] = data[field];
+				}
+			}
+		});
+		return items;
+	} else {
+		const	fileContents = fs.readFileSync(fullPath, 'utf8');
+		const	{data} = matter(fileContents);
+		const	items = {slug: 'featured'};
+
+		// remove leading _ from dir
+		items['path'] = `${dir.replace(/^_/, '')}`;
+		items['published'] = true;
+		defaultFields.forEach((field) => {
+			if (data[field] !== undefined) {
+				if (field === 'image') {
+					const {src, width, height} = data[field];
+					if ((src || '').startsWith('./')) {
+						items[field] = {
+							src: src.replace('./', `/_posts/${dir}/`),
+							width,
+							height
+						};
+					}
+				} else {
+					items[field] = data[field];
+				}
+			}
+		});
+
+		return items;
+	}
+}
+export function getFeatured(locale) {
+	const	postsDirectory = join(process.cwd(), 'public/_posts/');
+	const	fullPath = join(`${postsDirectory}/featured.md`);
+	const	fileContents = fs.readFileSync(fullPath, 'utf8');
+	const	{data} = matter(fileContents);
+	const	path = data['path'];
+
+	return _getDirectPost(path, locale);
+}

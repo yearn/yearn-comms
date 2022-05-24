@@ -64,7 +64,7 @@ Previous night’s festivities notwithstanding, people were up early and bushy-t
 
 ## ETHAmsterdam Hackathon
 
-![](./image7.jpg?w=900&h=798)
+![VeriFried-Strategy and Archimedes won our hackathon!](./image7.jpg?w=900&h=798)
 ![](./image8.jpg?w=675&h=900)
 
 Congrats to VeriFried-Strategy and Archimedes for winning yearn’s bounties at the ETHAmsterdam hackathon! We had so much fun meeting with hackers building on Yearn.

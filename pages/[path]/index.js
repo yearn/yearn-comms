@@ -1,11 +1,11 @@
-import	React					from	'react';
-import	{listAllPosts}			from	'utils/content';
-import	TemplateList			from	'components/TemplateList';
-import	LOCALES					from	'utils/locale';
+import	React							from	'react';
+import	{listAllPosts, getFeatured}	from	'utils/content';
+import	TemplateList					from	'components/TemplateList';
+import	LOCALES							from	'utils/locale';
 
-function	Index({allPosts}) {
+function	Index({allPosts, featured}) {
 	return (
-		<TemplateList allPosts={allPosts} />
+		<TemplateList allPosts={allPosts} featured={featured} />
 	);
 }
 
@@ -29,7 +29,7 @@ export const getStaticProps = async ({locale, params}) => {
 			}
 		}
 	}
-	const _allPosts = listAllPosts(dirs, locale);
+	const	_allPosts = listAllPosts(dirs, locale);
 	const	col1 = [];
 	const	col2 = [];
 	const	col3 = [];
@@ -55,7 +55,9 @@ export const getStaticProps = async ({locale, params}) => {
 	return {
 		props: {
 			path: params.path,
+			featured: getFeatured(locale),
 			allPosts: {
+				all: _allPosts,
 				col1,
 				col2,
 				col3,
