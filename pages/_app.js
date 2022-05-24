@@ -37,7 +37,7 @@ function	WithLayout({props}) {
 					</div>
 					<main className={'flex flex-col col-span-15 pt-20 min-h-full md:col-span-12 md:pt-12'}>
 						<AnimatePresence exitBeforeEnter onExitComplete={handleExitComplete}>
-							<motion.div key={router.pathname === '/[path]' ? router.pathname : router.asPath} initial={'initial'} animate={'enter'} exit={'exit'} variants={thumbnailVariants}>
+							<motion.div key={router.pathname === '/[path]' || router.pathname === '/' ? '/[path]' : router.asPath} initial={'initial'} animate={'enter'} exit={'exit'} variants={thumbnailVariants}>
 								<Component
 									element={props.element}
 									router={props.router}
