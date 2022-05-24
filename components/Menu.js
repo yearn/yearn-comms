@@ -110,7 +110,7 @@ function	MenuMobile() {
 						<div className={'flex flex-row items-center mt-8'}>
 							<select
 								value={language}
-								className={'flex items-center py-2 px-3 pr-7 m-0 mr-1 text-xs font-semibold whitespace-nowrap rounded-sm border-none cursor-pointer button-light'}
+								className={'flex items-center py-2 px-3 pr-7 m-0 mr-1 text-xs font-semibold whitespace-nowrap rounded-lg border-none cursor-pointer button-light'}
 								onChange={(e) => {
 									router.push(router.asPath, router.asPath, {locale: e.target.value});
 									set_language(e.target.value);
@@ -163,7 +163,7 @@ function	MenuDesktop() {
 						<div className={'flex flex-row items-center space-x-4'}>
 							<select
 								value={language}
-								className={'flex items-center py-2 px-3 pr-7 m-0 mr-1 text-xs font-semibold whitespace-nowrap rounded-sm border-none cursor-pointer button-light'}
+								className={'flex items-center py-2 px-3 pr-7 m-0 mr-1 text-xs font-semibold whitespace-nowrap rounded-lg border-none cursor-pointer button-light'}
 								onChange={(e) => {
 									router.push(router.asPath, router.asPath, {locale: e.target.value});
 									set_language(e.target.value);
