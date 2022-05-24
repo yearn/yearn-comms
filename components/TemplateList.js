@@ -71,7 +71,7 @@ function	Template({allPosts, featured}) {
 
 	return (
 		<>
-			<motion.div key={'featured-one'} className={'mb-4'} initial={'initial'} animate={'enter'} exit={'exit'} variants={thumbnailVariants}>
+			<motion.div id={'featured-one'} key={'featured-one'} className={'mb-4'} initial={false} animate={'enter'} exit={'exit'} variants={thumbnailVariants}>
 				<Link href={`/${featured?.path}`}>
 					<div className={'w-full bg-white dark:bg-black rounded-lg shadow-none hover:shadow-sm transition-shadow cursor-pointer'}>
 						<div className={'aspect-[2/1] grid grid-cols-1 w-full bg-gray-blue-2 rounded-t-lg border-b border-gray-blue-3 dark:border-gray-2'}>

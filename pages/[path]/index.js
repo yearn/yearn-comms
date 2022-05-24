@@ -1,5 +1,5 @@
 import	React							from	'react';
-import	{listAllPosts, getFeatured}	from	'utils/content';
+import	{listAllPosts, getFeatured}		from	'utils/content';
 import	TemplateList					from	'components/TemplateList';
 import	LOCALES							from	'utils/locale';
 
