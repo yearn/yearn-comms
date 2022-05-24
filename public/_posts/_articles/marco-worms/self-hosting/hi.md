@@ -236,6 +236,6 @@ Web3 में ब्लॉकचेन बैक-एंड को विके�
 
 ---
 
-#### *प्रोड्यूसर्स: [Worms](https://twitter.com/MarcoWorms), Reviewers: [Dark Ghosty](https://github.com/DarkGhost7), [Cryptouf](https://twitter.com/cryptouf)*
+*प्रोड्यूसर्स: [Worms](https://twitter.com/MarcoWorms), Reviewers: [Dark Ghosty](https://github.com/DarkGhost7), [Cryptouf](https://twitter.com/cryptouf)*
 
-#### *मेड इन यर्न.फाइनेंस*
+*मेड इन यर्न.फाइनेंस*

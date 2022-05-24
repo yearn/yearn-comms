@@ -9,8 +9,6 @@ author: Qosmonot
 translator: Cripu
 ---
 
-# yvBOOSTを使ってより多くのブースト、複利、モヒートを！
-
 ### Yearnと[Curve.fi](http://curve.fi/)との協力関係は私たちのインフラの中核であり、あなたがブーストを高めるための中核でもあります。
 
 🔵🤝🌈

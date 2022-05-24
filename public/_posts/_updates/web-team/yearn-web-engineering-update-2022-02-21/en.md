@@ -15,13 +15,13 @@ original source: [Web Engineering Update 21 Feb](https://yearnweb.substack.com/p
 
 #### Week of February 21, 2022
 
-## **Summary**
+## Summary
 
 Arbitrum is officially launched for Yearn. Currently there is only one vault employing one strategy (shout out curve’s tricrypto.) We’ve learned from the growing pains we went through with Fantom to deliver a smoother roll out; for our users, our strategists, and our engineers.
 
 Our team continues to expand as we add chains, strategies, and vaults. We’ve brought in additional project managers and product owners to help wrangle the work and keep our community engaged.
 
-## **Accomplishments ✅**
+## Accomplishments ✅
 
 **SDK Release 1.0.3**
 
@@ -42,7 +42,7 @@ Our team continues to expand as we add chains, strategies, and vaults. We’ve b
 - feat: add error handling for simulations
 - fix: update onboard with latest pr fix for connect
 
-## **Ongoing Focus and Outstanding Issues**
+## Ongoing Focus and Outstanding Issues
 
 **Cycle Focus 🎯**
 - Arbitrum Launch
@@ -52,7 +52,7 @@ Our team continues to expand as we add chains, strategies, and vaults. We’ve b
 - When using a trustwallet and you change network from within, it doesn’t trigger the same network switch event the other wallets utilize.
 - the pickle jar pSLPyvBOOST vault card doesn’t display properly
 
-## **Come Build with us! 👷**
+## Come Build with us! 👷
 
 We’re continually adding public issues to our GitHub and always welcome new contributions in any of our repos
 

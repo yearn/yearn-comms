@@ -9,8 +9,6 @@ author: Qosmonot
 translator:
 ---
 
-# More boosts, compounding, and mojitos for you with yvBOOST
-
 ### Yearn’s collaborative relationship with [Curve.fi](http://curve.fi/) is core to our infrastructure, and core to you boosting your boosts.
 
 🔵🤝🌈

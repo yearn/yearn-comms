@@ -239,4 +239,4 @@ Après l'avoir exécuté localement, plutôt que d'accéder à l'URL du site Web
 
 ---
 
-#### *Rédacteur: [Worms](https://twitter.com/MarcoWorms), Relécteurs: [Cryptouf](https://twitter.com/cryptouf), [Dark Ghosty](https://github.com/DarkGhost7)*
+*Rédacteur: [Worms](https://twitter.com/MarcoWorms), Relécteurs: [Cryptouf](https://twitter.com/cryptouf), [Dark Ghosty](https://github.com/DarkGhost7)*

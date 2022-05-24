@@ -9,8 +9,6 @@ author: Qosmonot
 translator: Dastronom
 ---
 
-# yvBOOST Kullanarak Pasif Verim elde etmek
-
 ### Yearn'in [Curve.fi](http://curve.fi/) ile iş birliği altyapımızın temelimizdir ve artışınıza artış katmak için esastır.
 
 🔵🤝🌈

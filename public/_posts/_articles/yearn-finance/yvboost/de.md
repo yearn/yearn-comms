@@ -9,8 +9,6 @@ author: Qosmonot
 translator: Nesyeth
 ---
 
-# Mehr Boosts, Compounding und Mojitos mit yvBOOST für dich
-
 ### Die Zusammenarbeit von Yearn mit [Curve.fi](http://curve.fi/) ist das Herzstück unserer Infrastruktur und die Grundlage dafür, dass du deine Boosts steigern kannst.
 
 🔵🤝🌈
