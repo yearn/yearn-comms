@@ -11,7 +11,7 @@ translator:
 
 ![](cover.jpg?w=900&h=450)
 
-# ETHGlobal’s first IRL event in over two years is finally here, and we’ll be there!
+## ETHGlobal’s first IRL event in over two years is finally here, and we’ll be there!
 
 Yearn Finance is excited to be sponsoring the upcoming  [**ETHAmsterdam 2022 Hackathon**](https://amsterdam.ethglobal.com/)**.** Join us April 22- 24th for an incredible weekend packed with opportunities to build on  top of Yearn in one of the most vibrant cities in the world!
 
@@ -19,7 +19,7 @@ Hosted by ETHGlobal, ETHAmsterdam brings hundreds of web3 engineers and innovato
 
 > **We hope you will join us either in person or virtually to build on Yearn and meet/hear from Yearn contributors.**
 
-# Hackathon Prizes 💰
+## Hackathon Prizes 💰
 
 Yearn Finance is offering the following prizes at ETHAmsterdam:
 
@@ -46,13 +46,13 @@ We recommend getting started by reviewing  [**our developer docs**](https://docs
 
 ❓Have questions or need help? Join our  [**Discord Server**](https://discord.com/invite/yearn)  for 1x1 support from our team.
 
-# Join Us in Amsterdam!
+## Join Us in Amsterdam!
 
 ![](image1.jpg?w=900&h=368)
 
 If you will be attending in person, consider stopping by one of our events:
 
-# **Workshops**:
+## **Workshops**:
 
 [**ETHAmsterdam Hackathon Workshop**](https://amsterdam.ethglobal.com/) **: Build and Profit with Yearn Vaults**
 
@@ -64,7 +64,7 @@ If you will be attending in person, consider stopping by one of our events:
 -   **April 20, 15:00–19:00**
 -   Yearn Finance in partnership with Tenderly will be leading an exciting highly interactive workshop on best practices around security and monitoring.
 
-# **Talks & Presentations by Yearn Contributors**
+## **Talks & Presentations by Yearn Contributors**
 
 [**The DAOist’s Global Governance Gathering**](https://www.thedaoist.co/event/ggg)
 
@@ -93,12 +93,12 @@ If you will be attending in person, consider stopping by one of our events:
 -   **April 23, Time: TBA**
 -   Hear from Yearn contributors on innovative ways to build and develop new products and tools in DeFi. Attend to also learn more about incubator programs like ySprout DAO that provide builders with the technical support and capital needed to build the next DeFi great disruptor!
 
-# **Meet & Greets/Social Gatherings**
+## **Meet & Greets/Social Gatherings**
 
 -   [**Brunch with Yearn Finance**](https://www.eventbrite.com/e/brunch-with-yearn-finance-tickets-320292432287) **(April 21)**
 -   **Yearn Finance Drinks & Dinner (Invite-only on April 22)**
 
-# Yearn Finance’s ecosystem is growing quickly thanks to our partnership program, community of contributors, and the expansion of our grants program.
+### Yearn Finance’s ecosystem is growing quickly thanks to our partnership program, community of contributors, and the expansion of our grants program.
 
 -   [Integrate yearn within your platform](https://docs.yearn.finance/partners/introduction)  to give your users easily accessible DeFi solutions and earn profit share while doing so.
 -   Leverage our  [grants program](https://yearnfinance.notion.site/Yearn-Grants-06b5913ef35742c1a2ba3ab1a6c6b5aa)  to fund your idea or apply to our incubator program.
