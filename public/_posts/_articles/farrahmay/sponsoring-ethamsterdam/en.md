@@ -1,5 +1,5 @@
 ---
-title:  "Hacking with Yearn"
+title:  "# Yearn Finance is Sponsoring the ETHAmsterdam 2022 Hackathon"
 image:
   src: ./cover.jpg
   width: 900
@@ -9,262 +9,101 @@ author: Farrahmay
 translator: 
 ---
 
-### 📣Yearn Finance is calling on hackers, developers, and creatives to build on top of our protocol!
-
 ![](cover.jpg?w=900&h=450)
 
-### Whether you are building an innovative dapp or launching a yield strategy, there are no shortage of ways to build on top of Yearn. This guide will provide you with resources to get you started hacking on Yearn.
+# ETHGlobal’s first IRL event in over two years is finally here, and we’ll be there!
 
-### We will cover 1- vault and smart contract integrations, 2- front-end and SDK integrations, 3- strategy development, 4- data analytics, and lastly provide a host of examples to get you inspired.
+Yearn Finance is excited to be sponsoring the upcoming  [**ETHAmsterdam 2022 Hackathon**](https://amsterdam.ethglobal.com/)**.** Join us April 22- 24th for an incredible weekend packed with opportunities to build on  top of Yearn in one of the most vibrant cities in the world!
 
-# What is Yearn?
+Hosted by ETHGlobal, ETHAmsterdam brings hundreds of web3 engineers and innovators together for a weekend to build, learn, and compete for  over $400,000 in prizes!
 
-Yearn Finance is a suite of decentralized finance (DeFi) products that let users optimize their earnings on crypto assets through lending and trading services.
+> **We hope you will join us either in person or virtually to build on Yearn and meet/hear from Yearn contributors.**
 
-Yearn’s core product is the  **Vault**  (also known as yVault) — a set-it-and-forget-it yield aggregator running on top of DeFi’s yield-generating protocols like Compound, Aave, Curve, and Convex.
+# Hackathon Prizes 💰
 
-Vaults, in essence, are pools of funds with an associated yield strategy for maximizing returns on the asset in the vault. Vault strategies are more active than just lending out coins. Most strategies can do multiple things to maximize the returns, including supplying collateral and borrowing other assets such as stable coins, providing liquidity and collecting fees or farming other tokens and selling them for profit.
+Yearn Finance is offering the following prizes at ETHAmsterdam:
 
-**Because of the Vault’s open design, you can incorporate the generated yield as a design component of your project.**
+🥇2 prizes of  **$2,000** for  the **Best Overall Project Built With Yearn**
 
-# DeFi and Hacking
+**Project submissions will be judged based on the following criteria:**
 
-DeFi is slowly finding its way into every facet of the blockchain space. Whether you are building a P2E game, an NFT project, or DAO tooling, it is s likely that there is a DeFi functionality you can incorporate to build a better product.
+1.  Use of Yearn
+2.  Originality/creativity
+3.  Technical competence (well organized and written code)
 
-> With Yearn, you can incorporate yield generation into your product, without having to build a a yield strategy from scratch.
+> Projects which exceed expectations will be offered bonus prizes.
 
-Yearn Vaults are built with open standards and many projects have leveraged available vault integrations to build amazing applications on top of them.
+# Getting Started Building With Yearn
 
-**Common use-cases:**
+We recommend getting started by reviewing  [**our developer docs**](https://docs.yearn.finance/). They’ll show you everything from how to get your machine set up, how to get started building with vaults and strategies, and how to use the Yearn stack and the SDK to aggregate data sources. It is a lot easier than you think!
 
--   **Using Vaults as collateral for lending/borrowing**
--   **Using Vaults to generate yield with user funds**
+**What to build?**  We recommend checking out the following links for inspiration:
 
-# Integrating with Yearn’s Vaults
+-   [Building with yVaults](https://medium.com/iearn/yearn-partners-building-with-yvaults-4cd042ea092)
+-   [Becoming a Strategist](https://www.youtube.com/watch?v=NVR3teJw0Y0)
+-   [Submissions from a Previous Hackathon](https://dorahacks.io/hackathon/ethdenver22virtual/?bounty=Yearn%20Finance)
+-   [Intro to Yearn Vaults](https://www.youtube.com/watch?v=a1TsO62402c)
 
-## **Getting Started**
+❓Have questions or need help? Join our  [**Discord Server**](https://discord.com/invite/yearn)  for 1x1 support from our team.
 
-Check out our dev docs to  [set up your machine](https://docs.yearn.finance/developers/v2/getting-started).
-
-## How to Integrate with the Vaults?
-
-The most simple integration with Yearn is redirecting funds from a service into a yVaults in order to generate yield for your users on assets that otherwise wouldn’t generate yield. This opens up exciting new functionalities within your product or application.
-
-## _Background_
-
--   _Written in Vyper 🐍_
--   _They are an ERC20, so you can — Transfer, Swap, use them as collateral, and everything you do with other tokens._
--   _Keep track of your shares (amount, price per share)_
--   _Immutable code managed by Yearn Governance_
--   _A vault can run multiple strategies at the same time 😱_
--   _Keep3rs integrated 🤖_
-
-**Figure 1. You can interact with yVaults through depositing or withdrawing.**
+# Join Us in Amsterdam!
 
 ![](image1.jpg?w=900&h=368)
 
-![](image2.jpg?w=900&h=368)
+If you will be attending in person, consider stopping by one of our events:
 
-Learn more about the implications of both of these methods  [here](https://docs.yearn.finance/partners/integration_guide)
+# **Workshops**:
 
-## Starter Kit
+[**ETHAmsterdam Hackathon Workshop**](https://amsterdam.ethglobal.com/) **: Build and Profit with Yearn Vaults**
 
-Here is a detailed example for integrating V2 vaults and ERC-4626. We’ve created a SugarVault, where a holder can donate yields to a second address with both VaultAPI and 4626 examples.
+-   **April 22, Time: TBA**
+-   By taking advantage of Yearn’s fee sharing partner program and the brand new EIP-4626, learn how to create a money-making integration on top of Yearn’s v2 vaults! This workshop will guide you on how to create a B2B/business router for yearn v2 vaults, which complies with the new EIP-4626. You’ll be able to choose from multiple fee strategies for your users to maximize your profit.
 
-[](https://github.com/storming0x/ystarter-foundry-kit)
+[**Yearn Finance x Tenderly War Room Games Workshop**](https://devconnect.org/schedule)
 
-## GitHub - storming0x/ystarter-foundry-kit: Starter Kit for integrating V2 yearn vaults and ERC4626…
+-   **April 20, 15:00–19:00**
+-   Yearn Finance in partnership with Tenderly will be leading an exciting highly interactive workshop on best practices around security and monitoring.
 
-### Basic example Solidity Smart Contracts for integrating with Yearn Vaults. Both V2 and ERC4626 interfaces. ERC4626…
+# **Talks & Presentations by Yearn Contributors**
 
-github.com
+[**The DAOist’s Global Governance Gathering**](https://www.thedaoist.co/event/ggg)
 
-**What you’ll find in the kit:**
+-   **April 19, 2:20–2:40**
+-   defiginger will present DAO Compensation: How Yearn is evolving contributor compensation and what we’ve learned.
+-   **April 19, 4:20(nice)**
+-   Deniz from MakerDAO will be present the results of workshop on how to solve DAO governance challenges with frens from MakerDAO, Element, Orca, and defiginger from Yearn.
 
--   Basic example Solidity Smart Contracts for integrating with Yearn Vaults for both V2 and ERC4626 interfaces.
--   ERC4626 adapter to wrap yearn vaults.
--   Example Contracts
--   Sample test suite.
+[**Livepeer Community Summit**](https://www.eventbrite.com/e/livepeer-community-summit-tickets-313833393127)
 
-## Workshop
+-   **April 20, 11:20–12**
+-   defiginger will join the panel Decentralized Governance: Past, Present, and Future along with Sky from DXdao and Shannon from Livepeer.
 
-Learn how to leverage the power of Yearn by creating a money making integration on top of v2 vaults by taking advantage of the brand new EIP-4626: Tokenized Vault Standard! This workshop will guide you through creating a B2B/business router for yearn v2 vaults, which complies with the new EIP-4626. You’ll be able to choose from multiple fee strategies for your users to maximize your profit.
+[**Secureum Trust X**](https://secureum.xyz/trustx)
 
-To get a glimpse of Yearn’s current vaults and smart contracts, peruse t[his repository](https://github.com/yearn/yearn-vaults#readme)  to view the set of smart contracts that are used for the Yearn Vaults. It contains the requirements, code, deployment scripts, and tests necessary for the core protocol, including an inheritable template strategy for use with Solidity-based strategies that interact with Yearn Vaults. These contracts are used to create a simple way to generate high risk-adjusted returns for depositors of various assets via best- in-class lending protocols, liquidity pools, and community-made yield farming strategies on Ethereum.
+-   **April 22, 17:35- 18:20**
+-   Secureum TrustX is a first-of-its-kind technical event dedicated to the Ethereum security ecosystem. Storm0x will be deep-diving into the role white-hats and bounties play in security during this panel.
 
-## Playground
+[**MEV-Day**](https://mevday.org/)
 
-We have set up a test environment for you deploy and test your vaults. Access it here:  [https://hack.yearn.finance/](https://hack.yearn.finance/)
+-   **April 22, Time: 10:00- 18:00**
+-   Tune in to watch Skeletor discuss what’s happening at the cutting edge of MEV, Maximal Extractable Value on a panel at this event.
 
--   Deploy your vault with your own token
--   Mint your own tokens
--   Hack!
+[**ySprout DAO**](https://devconnect.org/schedule) **— Building and Innovating in DeFi**
 
-## Additional Resources:
+-   **April 23, Time: TBA**
+-   Hear from Yearn contributors on innovative ways to build and develop new products and tools in DeFi. Attend to also learn more about incubator programs like ySprout DAO that provide builders with the technical support and capital needed to build the next DeFi great disruptor!
 
--   [https://docs.yearn.finance/getting-started/products/yvaults/vault-tokens](https://docs.yearn.finance/getting-started/products/yvaults/vault-tokens)
--   [https://github.com/yearn/yearn-integration-hardhat](https://github.com/yearn/yearn-integration-hardhat)
+# **Meet & Greets/Social Gatherings**
 
-# Web and SDK Integrations
+-   [**Brunch with Yearn Finance**](https://www.eventbrite.com/e/brunch-with-yearn-finance-tickets-320292432287) **(April 21)**
+-   **Yearn Finance Drinks & Dinner (Invite-only on April 22)**
 
-Yearn uses a JavaScript SDK for formatting protocol data and generating transactions for reading/writing protocol data. Yearn SDK integrates several components, both on-chain and off-chain.
+# Yearn Finance’s ecosystem is growing quickly thanks to our partnership program, community of contributors, and the expansion of our grants program.
 
-[The repository here](https://github.com/turtlemoji/yearn-sdk-examples)  contains a live preview and example usage of the  [Yearn SDK](https://github.com/yearn/yearn-sdk).  _Explore this codebase to learn how to start interacting with the Yearn protocol in your own app!_
+-   [Integrate yearn within your platform](https://docs.yearn.finance/partners/introduction)  to give your users easily accessible DeFi solutions and earn profit share while doing so.
+-   Leverage our  [grants program](https://yearnfinance.notion.site/Yearn-Grants-06b5913ef35742c1a2ba3ab1a6c6b5aa)  to fund your idea or apply to our incubator program.
+-   Join our community of contributors and build alongside some of the brightest minds in the space. Learn about our open roles  [here](https://yearnfinance.notion.site/Open-Roles-9d83dc1788dd4760a7c5e037eb291020).
 
-## Live Preview Sandbox
+If you are in Amsterdam, reach out to @_farrahmay or @saltyfacu on Twitter to set up a time to meet in person. Feel free to also reach out to us on  [Discord](https://discord.com/invite/yearn),  [Twitter](https://twitter.com/iearnfinance?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), or  [Telegram](https://t.me/yearnfinance/)  as well.
 
--   [Click here to go to the live preview sandbox](https://codesandbox.io/s/github/turtlemoji/yearn-sdk-examples/tree/main/)
-
-![](image3.jpg?w=900&h=284)
-
-[](https://github.com/turtlemoji/yearn-sdk-examples)
-
-## GitHub - turtlemoji/yearn-sdk-examples: Created with CodeSandbox
-
-### This repository contains a live preview and example usage of the Yearn SDK Explore this codebase to learn how to start…
-
-github.com
-
-**Additional Resources:**
-
--   [https://docs.yearn.finance/vaults/yearn-sdk/yearn-stack](https://docs.yearn.finance/vaults/yearn-sdk/yearn-stack)
-
-# Building a Strategy
-
-A Yearn Strategy is a set of smart contracts that implement different farming strategies that utilize the deposited assets to generate the best yields for users.
-
-Strategy implementation entails essentially moving assets from one farming application to another one with higher interest. This will be mostly done automatically. Rewards/profits generated by strategies are regularly updated, harvested, swapped for the original vault asset, and deposited again for compound farming. Each vault has a unique strategy and the strategy will be improved constantly based on the observations of our monitoring engines.
-
-By having a strategy, users only need to deposit single assets and let the strategies generate profits from the funds.
-
-Yearn automates the whole compounding process, making it as close to optimal as possible. The compounding frequency depends on different variables in the system such as Total Value Locked (TVL), and Annual Percentage Rate (APR).
-
-![](image4.jpg?w=900&h=819)
-
-## Getting Started:
-
-**Additional Resources:**
-
--   [https://github.com/yearn/yearn-vaults/blob/main/CONTRIBUTING.md](https://github.com/yearn/yearn-vaults/blob/main/CONTRIBUTING.md)
--   [https://github.com/yearn/brownie-strategy-mix](https://github.com/yearn/brownie-strategy-mix)
-
-# Data Analytics
-
-Yearn aims to provide more insights on our products to our customers and partners through analyzing the on-chain and off-chain data. Given that all Yearn protocol data is publicly stored on-chain, there are lots of insights to be gained from analyzing these transactions.
-
-Two common tools for on-chain data analysis are:
-
-1.  **Dune Analytics- Query contract data and generate dashboards with SQL**
-
--   [Current Dashboards](https://dune.com/projects/yearn)
-
-Here’s a list of all new things you can query for:
-
--   harvests
--   deployments
--   transactions
--   contract_tokens
--   contract_strategy
--   v2_deployments
-
-Fiddle with them all at  [https://dune.com/queries/625814](https://dune.com/queries/625814)
-
-**2. The Graph- Query contract data with GQL using the Yearn subgraphs**
-
-The Graph is a decentralized protocol for indexing and querying data from blockchains, starting with Ethereum. It is an easier way to retrieve specific data from the blockchain, within the ethos of web3, with the advantages of decentralization and reliability.
-
-GraphQL is the underlying query language used in The Graph.
-
-What is the difference between standard RESTFUL API calls and GraphQL calls? The difference is that traditional APIs require the developers to create specific endpoints for users that return specific data. If the user requires more information, they may need to make multiple API calls, sometimes hundreds of API calls, to get the information they require. With The Graph (which uses GraphQL), only one call is needed to a subgraph, as long as the developer has created a flexible schema.
-
--   [https://thegraph.com/hosted-service/subgraph/rareweasel/yearn-vaults-v2-mainnet](https://thegraph.com/hosted-service/subgraph/rareweasel/yearn-vaults-v2-mainnet)
--   [https://api.thegraph.com/subgraphs/name/rareweasel/yearn-vaults-v2-mainnet/graphql](https://api.thegraph.com/subgraphs/name/rareweasel/yearn-vaults-v2-mainnet/graphql)
-
-# Some of the research questions that we are interested in:
-
--   Screening profitable liquidity pools for our strategies
--   Assessing the impact of TVL on the impermanent loss
--   Screening the volume of various pools
--   Providing risk metrics to our vaults
--   Price volatility of the underlying token
--   Addressing the protocol risks
--   Optimizing our strategies according to the change in gas fees
--   Decide on when to deleverage and trade the governance tokens
--   Decide on when to harvest
--   Predicting impermanent loss for Uniswap V3 pools
--   Portfolio construction across yearn products  
-    More details on these topics can be seen in our issues tab.
-
-**Data Sources**
-
-**Yearn SDK**  [Docs]  
-[https://docs.yearn.finance/vaults/yearn-sdk/yearn-stack](https://docs.yearn.finance/vaults/yearn-sdk/yearn-stack)  
-If you are not sure about which service you should first look into, Yearn SDK can provide you with addresses of contracts and endpoints of yearn’s services.
-
-**Yearn API**  [Docs]  
-Yearn API can provide non-user specific metadata, including the tvl of vaults, apys, fees, and strategy metadata through REST API, without the need to make web3 calls.
-
-**Yearn Vision**  
-Yearn Vision is the Grafana dashboard of the hosted version of Yearn Exporter. You can download the historical metrics related to our vaults and strategies as json or csv files through the dashboard. For instructions on downloading, please see Downloading query results as csv.
-
-# Inspiration
-
-Common use-cases for vaults include:
-
--   Using Vaults as collateral for lending/borrowing
--   Using Vaults to generate yield with user funds
-
-_In both cases, the protocol integrating with yearn is rewarded with performance fees taken from the vault’s overall profits, the more total volume that a partner contributes to a vault, the bigger share of the profit they receive._
-
-Hundreds of protocols have built exciting functionalities using Yearn’s integration methods. These include:
-
--   Alchemix provides self-repaying loans using vault yields
--   Abracadabra provided the first yVault leveraging system that allows users to take loans and keep the yield rolling
--   QiDao provides 0% interest loans if you use yVaults as collateral
-
-Here are some ideas on what you can build:
-
-1.  Use the Vaults as collateral to borrow money and probably get some leverage. (e.g. Abracadabra)
-2.  Build a product that allows you to use yield to do cool stuff:  
-    donate yield to an NGO  
-    invest the yield in more risky stuff or directional bets  
-    paying bills and subscriptions
-3.  Create a metavault on top of multiple vaults. One idea that comes to my mind is having a USD metavault that deposits into multiple dollar pegged vaults based on some strategy and abstracts the complexity from the user.
-4.  Build a UI that accepts deposits and allows you to move assets across chains.
-5.  Use the vaults as a place to earn interest on funds that are not currently actively being used by the user.
-
-# Examples
-
-[**Bunker Finance**](https://bunker.finance/): Bunker.finance is a decentralized protocol for NFT-backed loans. They integrated with Yearn v3’s USDC and WETH vaults and use them as a place to earn interest on funds that are currently not being supplied to borrowers.
-
-[**Skew You**](https://github.com/Tburm/tracer-vault): Users can borrow against their options collateral, unlocking a whole new world of capital efficiency.
-
-[**Possum**](https://github.com/Possum-ONE)  Fixed-income product that can turn every farm into two fix/variable pools. Based on the game model, fixed pool users can have guaranteed APY while the variable user gets higher APY with higher risk.
-
-[**Demon**](https://demon-finance.netlify.app/)  Demystifying obscure APY numbers
-
-[**Bowtie**](https://github.com/ShayanJa/bowtie_finance)  Allows users to borrow against their options collateral.
-
-Additionally, doing a GitHub search for Yearn functionality you are interested in implementing is a good way to find working code examples.
-
-# Additional Resources
-
-**DevDocs:** [**https://yearn.github.io/yearn-devdocs**](https://yearn.github.io/yearn-devdocs)
-
-**yearn-vaults:** [**https://github.com/yearn/yearn-vaults**](https://github.com/yearn/yearn-vaults)
-
-**BaseRouter:** [**https://github.com/yearn/yearn-vaults/blob/main/contracts/BaseRouter.sol**](https://github.com/yearn/yearn-vaults/blob/main/contracts/BaseRouter.sol)
-
-**BaseWrapper:** [**https://github.com/yearn/yearn-vaults/blob/main/contracts/BaseWrapper.sol**](https://github.com/yearn/yearn-vaults/blob/main/contracts/BaseWrapper.sol)
-
-**Wrapper-mix:** [**https://github.com/yearn/brownie-wrapper-mix**](https://github.com/yearn/brownie-wrapper-mix)
-
-[**Article**](https://medium.com/iearn/yearn-partners-building-with-yvaults-4cd042ea092)**: Yearn Partners– Building with yVaults**
-
-[**Video: Into to Yearn Vaults**](https://www.youtube.com/watch?v=a1TsO62402c)
-
-**Article:** [**Strategy Vetting and Endorsement**](https://medium.com/iearn/how-new-yearn-vault-strategies-are-endorsed-8c0e0870790d)
-
-[**Video**](https://www.youtube.com/watch?v=NVR3teJw0Y0)**: Become a mighty strategist!**
-
-[**Tweet: Getting a Strategy to Prod**](https://twitter.com/flashfish0x/status/1460246273488044036?s=20&t=kxak7a6qtrmDCfcn6UrGYA)
+> We look forward to meeting with you in Amsterdam and hope you have an amazing BUIDLing time at #ETHAmsterdam!
