@@ -1,15 +1,15 @@
 import	React							from	'react';
 import	{useRouter}						from	'next/router';
 import	ErrorPage						from	'next/error';
-import	{getPostBySlug, getSlugs, getRelatedPosts, listAllPosts} 	from	'utils/content';
+import	{getPostBySlug, getSlugs, getRelatedPosts, getFeatured, listAllPosts} 	from	'utils/content';
 import	LOCALES							from	'utils/locale';
 import	TemplateList					from	'components/TemplateList';
 import	TemplateArticle					from	'components/TemplateArticle';
 
-function Post({path, post, newer, older, allPosts, isListing}) {
+function Post({path, post, newer, older, allPosts, isListing, featured}) {
 	const router = useRouter();
 	if (!router.isFallback && !post?.slug && isListing) {
-		return <TemplateList path={path} allPosts={allPosts} />;
+		return <TemplateList path={path} allPosts={allPosts} featured={featured} />;
 	} else if (!router.isFallback && !post?.slug) {
 		return <ErrorPage statusCode={404} />;
 	} else if (!post?.slug && !isListing) {
@@ -49,6 +49,7 @@ export async function getStaticProps({params, locale}) {
 		}
 		return {
 			props: {
+				featured: getFeatured(locale),
 				allPosts: {
 					all: _allPosts,
 					col1,

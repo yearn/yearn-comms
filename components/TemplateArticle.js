@@ -39,7 +39,6 @@ function	LinkPreview(props) {
 	);
 }
 
-
 function	Template({routerPath, path, post, newer, older}) {
 	const	router = useRouter();
 	const	{common, language} = useLocalization();
@@ -82,13 +81,13 @@ function	Template({routerPath, path, post, newer, older}) {
 				</Link>: <div />}
 			</div>
 
-			<article className={'p-4 w-full bg-white dark:bg-black rounded-sm'}>
+			<article className={'p-4 w-full bg-white dark:bg-black rounded-lg'}>
 				<div className={'flex flex-col mb-6'}>
 					<p className={'pb-6 text-xs text-gray-blue-1 dark:text-gray-3'}>
 						{`${new Date(post?.date || '').toLocaleDateString(language, {weekday:'long', year:'numeric', month:'short', day:'numeric'})} | ${common['written-by']} ${post?.author || 'Yearn'}${post?.translator ? ` | ${common['translated-by']} ${post?.translator || 'Yearn'}` : ''}`}
 					</p>
 					<h1
-						className={'font-title text-2xl font-bold text-dark-blue-1 dark:text-white whitespace-pre-line'}
+						className={'font-title text-3xl font-bold text-dark-blue-1 dark:text-white whitespace-pre-line'}
 						dangerouslySetInnerHTML={{__html: parseMarkdown(post?.title || '')}} />
 				</div>
 				<div className={'mb-8 space-y-6 w-full max-w-full text-gray-blue-1 dark:text-gray-3 prose'}>
@@ -107,6 +106,7 @@ function	Template({routerPath, path, post, newer, older}) {
 							iframe: ({...props}) => <iframe {...props} className={'aspect-video w-full h-full'} />,
 							strong: ({...props}) => <strong {...props} className={'text-dark-blue-1 dark:text-white'} />,
 							autoslot: ({...props}) => <LinkPreview href={props.link} {...props} />,
+							p: ({...props}) => <div {...props} />,
 							slot: ({...props}) => {
 								return (
 									<a href={props.link} target={'_blank'} rel={'noreferrer'} className={'no-underline'}>
@@ -135,13 +135,16 @@ function	Template({routerPath, path, post, newer, older}) {
 								const width = props.src.match(/w=(\d+)/)?.[1] || 0;
 								const height = props.src.match(/h=(\d+)/)?.[1] || 0;
 								return (
-									<Image
-										quality={95}
-										width={width || 880}
-										objectFit={height + width === 0 ? 'contain' : ''}
-										className={'rounded-sm reduce-brightness'}
-										height={height || 600}
-										{...props} />
+									<div className={'flex flex-col justify-center mx-auto mb-6 space-y-2 w-full'}>
+										<Image
+											quality={95}
+											width={width || 880}
+											height={height || 600}
+											objectFit={height + width === 0 ? 'contain' : 'contain'}
+											className={'rounded-sm reduce-brightness'}
+											{...props} />
+										{props.alt ? <p className={'text-intermediate text-center'}>{props.alt}</p> : null}
+									</div>
 								);
 							}
 						}}>
