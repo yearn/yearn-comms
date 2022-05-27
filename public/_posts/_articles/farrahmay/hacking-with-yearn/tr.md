@@ -37,8 +37,8 @@ Yearn Vault'lar açık standartlarla oluşturulmuştur ve birçok proje, bunlar�
 
 **Yaygın kullanım durumları:**
 
--   **Ödünç verme/borç alma için Vault'ları teminat olarak kullanma**
--   **Kullanıcı fonlarıyla getiri elde etmek için Vault'ları kullanma**
+- **Ödünç verme/borç alma için Vault'ları teminat olarak kullanma**
+- **Kullanıcı fonlarıyla getiri elde etmek için Vault'ları kullanma**
 
 ---
 
@@ -54,12 +54,12 @@ Yearn ile en basit entegrasyon, kullanıcılarınıza aksi halde getiri sağlama
 
 ### *Arka plan*
 
-- *Vyper'da yazılmıştır 🐍*
+- *Vyper'da yazılmıştır* 🐍
 - *Bunlar bir ERC20'dir, yani — Transfer, Swap, teminat olarak kullanma ve diğer jetonlarla yaptığınız her şeyi yapabilirsiniz.*
 - *Hisselerinizi takip edin (tutar, hisse başına fiyat)*
 - *Yıllık Yönetişim tarafından yönetilen değişmez kod*
-- *Bir vault aynı anda birden fazla strateji çalıştırabilir 😱*
-- *Keep3rs entegre edildi 🤖_
+- *Bir vault aynı anda birden fazla strateji çalıştırabilir* 😱
+- *Keep3rs entegre edildi* 🤖
 
 **Şekil 1. Para yatırma veya çekme yoluyla yVault'lar ile etkileşim kurabilirsiniz.**
 
@@ -77,16 +77,16 @@ V2 vault'larını ve ERC-4626'yı entegre etmek için ayrıntılı bir örnek. S
 
 **Sette bulacaklarınız:**
 
--   Hem V2 hem de ERC4626 arayüzleri için Yearn Vault'lar ile entegrasyon için temel örnek Solidity Akıllı Sözleşmeler.
--   Eski vault'ları sarmak için ERC4626 adaptörü.
--   Örnek Sözleşmeler
--   Örnek test paketi.
+- Hem V2 hem de ERC4626 arayüzleri için Yearn Vault'lar ile entegrasyon için temel örnek Solidity Akıllı Sözleşmeler.
+- Eski vault'ları sarmak için ERC4626 adaptörü.
+- Örnek Sözleşmeler
+- Örnek test paketi.
 
 ### Atölye
 
 Yepyeni EIP-4626'dan yararlanarak v2 vault'larının üzerinde bir para kazanma entegrasyonu oluşturarak Yearn'in gücünden nasıl yararlanacağınızı öğrenin: Tokenize edilmiş Vault Standardı! Bu atölye çalışması, yeni EIP-4626 ile uyumlu, yearn v2 vault'ları için bir B2B/iş yönlendiricisi oluşturma konusunda size rehberlik edecektir. Karınızı en üst düzeye çıkarmak için kullanıcılarınız için birden fazla ücret stratejisi arasından seçim yapabileceksiniz.
 
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/urC35PMbpJ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/urC35PMbpJ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
 Yearn'in mevcut vault'larına ve akıllı sözleşmelerine bir göz atmak için, Yearn Vault'ları için kullanılan akıllı sözleşmeler setini görüntülemek için [bu depoyu](https://github.com/yearn/yearn-vaults#readme) inceleyin. Yearn Vault'ları ile etkileşime giren Solidity tabanlı stratejilerle kullanım için kalıtsal bir şablon stratejisi de dahil olmak üzere çekirdek protokol için gerekli gereksinimleri, kodu, dağıtım komut dosyalarını ve testleri içerir. Bu sözleşmeler, sınıfının en iyisi borç verme protokolleri, likidite havuzları ve Ethereum'da topluluk yapımı verim çiftçiliği stratejileri aracılığıyla çeşitli varlıkların mevduat sahipleri için yüksek riske göre ayarlanmış getiriler üretmenin basit bir yolunu oluşturmak için kullanılır.
 
@@ -94,14 +94,14 @@ Yearn'in mevcut vault'larına ve akıllı sözleşmelerine bir göz atmak için,
 
 Vault'larınızı dağıtmanız ve test etmeniz için bir test ortamı oluşturduk. Buradan erişin: [https://hack.yearn.finance/](https://hack.yearn.finance/)
 
--   Vault'unuzu kendi jetonunuzla açın
--   Kendi jetonlarınızı bastırın
--   hack'leyin!
+- Vault'unuzu kendi jetonunuzla açın
+- Kendi jetonlarınızı bastırın
+- Hack'leyin!
 
 ### Ek kaynaklar:
 
--   [https://docs.yearn.finance/getting-started/products/yvaults/vault-tokens](https://docs.yearn.finance/getting-started/products/yvaults/vault-tokens)
--   [https://github.com/yearn/yearn-integration-hardhat](https://github.com/yearn/yearn-integration-hardhat)
+- [https://docs.yearn.finance/getting-started/products/yvaults/vault-tokens](https://docs.yearn.finance/getting-started/products/yvaults/vault-tokens)
+- [https://github.com/yearn/yearn-integration-hardhat](https://github.com/yearn/yearn-integration-hardhat)
 
 ## Web ve SDK Entegrasyonları
 
@@ -112,7 +112,7 @@ Yearn, protokol verilerini biçimlendirmek ve protokol verilerini okumak/yazmak 
 
 ## Sandbox Canlı Önizleme 
 
--   [Sandbox canlı önizlemes için burayı tıklayın](https://codesandbox.io/s/github/turtlemoji/yearn-sdk-examples/tree/main/)
+- [Sandbox canlı önizlemes için burayı tıklayın](https://codesandbox.io/s/github/turtlemoji/yearn-sdk-examples/tree/main/)
 
 ![](image3.jpg?w=900&h=284)
 
@@ -120,7 +120,7 @@ Yearn, protokol verilerini biçimlendirmek ve protokol verilerini okumak/yazmak 
 
 **Ek kaynaklar:**
 
--   [https://docs.yearn.finance/vaults/yearn-sdk/yearn-stack](https://docs.yearn.finance/vaults/yearn-sdk/yearn-stack)
+- [https://docs.yearn.finance/vaults/yearn-sdk/yearn-stack](https://docs.yearn.finance/vaults/yearn-sdk/yearn-stack)
 
 ## Strateji Oluşturma
 
@@ -140,8 +140,8 @@ Yearn, tüm bileşke sürecini otomatikleştirerek mümkün olduğunca optimale 
 
 **Ek kaynaklar:**
 
--   [https://github.com/yearn/yearn-vaults/blob/main/CONTRIBUTING.md](https://github.com/yearn/yearn-vaults/blob/main/CONTRIBUTING.md)
--   [https://github.com/yearn/brownie-strategy-mix](https://github.com/yearn/brownie-strategy-mix)
+- [https://github.com/yearn/yearn-vaults/blob/main/CONTRIBUTING.md](https://github.com/yearn/yearn-vaults/blob/main/CONTRIBUTING.md)
+- [https://github.com/yearn/brownie-strategy-mix](https://github.com/yearn/brownie-strategy-mix)
 
 ## Veri analizi
 
@@ -151,7 +151,7 @@ Zincir içi veri analizi için iki yaygın araç şunlardır:
 
 1. **Dune Analytics- SQL ile sözleşme verilerini sorgulayın ve gösterge tabloları oluşturun**
 
--   [Mevcut Gösterge Tabloları](https://dune.com/projects/yearn)
+- [Mevcut Gösterge Tabloları](https://dune.com/projects/yearn)
 
 Sorgulayabileceğiniz tüm yeni şeylerin listesi:
 
