@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yearn Finance Newsletter #53"
+title: "Ενημερωτικό Δελτίο του Yearn Finance #53"
 categories: [Newsletters]
 image:
   src: ./cover.png

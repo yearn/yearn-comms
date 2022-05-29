@@ -1,5 +1,5 @@
 ---
-title: "Yearn Finance Newsletter #51"
+title: "Ενημερωτικό Δελτίο του Yearn Finance #51"
 image:
   src: ./cover.jpeg
   width: 576
@@ -9,7 +9,7 @@ date: '2021-12-22'
 translator: Giosereth
 ---
 
-# Ενημερωτικό Σημείωμα του Yearn Finance #51
+# Ενημερωτικό Δελτίο του Yearn Finance #51
 
 ### Για την εβδομάδα που τελειώνει στις 19 Δεκεμβρίου, 2021
 
