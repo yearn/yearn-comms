@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ενημερωτικό Σημείωμα του Yearn Finance #60"
+title: "Ενημερωτικό Δελτίο του Yearn Finance #60"
 categories: [Newsletters]
 image:
   src: ./cover.jpg
