@@ -1,5 +1,5 @@
 ---
-title:  "Yearn Finance Newsletter #44"
+title:  "Ενημερωτικό Δελτίο του Yearn Finance #44"
 image:
   src: ./cover.jpeg
   width: 576
@@ -12,13 +12,13 @@ translator: Stathis
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/cover.jpeg?w=880&h=440)
 
-Καλώς ήρθατε στην 44η έκδοση του ενημερωτικού δελτίου του Yearn Finance. Στόχος μας με αυτό το ενημερωτικό δελτίοείναι να ενημερώνουμε την κοινότητα του Yearn και την ευρύτερη κρύπτο-κοινότητα για τα τελευταία νέα, συμπεριλαμβανομένων των νέων προϊόντων, των αλλαγών στη διακυβέρνηση και των ενημερώσεων του οικοσυστήματος. Εάν ενδιαφέρεστε να μάθετε περισσότερα για το Yearn Finance, ακολουθήστε τους επίσημους λογαριασμούς μας [Twitter](https://twitter.com/iearnfinance) και [Medium](https://medium.com/iearn).
+Καλώς ήρθατε στην 44η έκδοση του ενημερωτικού δελτίου του Yearn Finance. Στόχος μας με αυτό το ενημερωτικό δελτίο είναι να ενημερώνουμε την κοινότητα του Yearn και την ευρύτερη κρύπτο-κοινότητα για τα τελευταία νέα, συμπεριλαμβανομένων των νέων προϊόντων, των αλλαγών στη διακυβέρνηση και των ενημερώσεων του οικοσυστήματος. Εάν ενδιαφέρεστε να μάθετε περισσότερα για το Yearn Finance, ακολουθήστε τους επίσημους λογαριασμούς μας [Twitter](https://twitter.com/iearnfinance) και [Medium](https://medium.com/iearn).
 
 
 ## **Σύνοψη**
 
 - Εγκεκρίθηκε το YIP-63
-- Έρευνα χρήστη προϊόντος
+- Έρευνα χρήστων προϊόντος
 - Παρουσιάζουμε τα τέσσερα νέα yVault
 - Το Yearn ενσωματώθηκε στο Defi Saver
 - Μην ξεχνάτε τον Woofy
@@ -37,7 +37,7 @@ translator: Stathis
 
 Δείτε τη συναλλαγή από Yearn στο DAO [εδώ](https://etherscan.io/tx/0x0ec0fc55d6dc51b426a254bf2d6de138b1b9a1c3031f4ab3a7b39439fa004392)
 
-## **Έρευνα χρήστων προϊόντων**
+## **Έρευνα χρήστων προϊόντος**
 
 Δημοσιεύσαμε μια νέα έρευνα χρηστών για να μετρήσουμε τι θα θέλατε να προστεθεί εσείς, η κοινότητα του Yearn.
 
@@ -59,7 +59,7 @@ translator: Stathis
 
 ![](/_posts/_newsletters/Yearn-Finance-Newsletter-44/image4.jpg?w=1012&h=506)
 
-Το YFI ενσωματωθηκε στο Defi Saver Recipe Creator. Με αυτήν την ενσωμάτωση, μπορείτε να καταθέσετε οποιαδήποτε υποστηριζόμενα περιουσιακά στοιχεία σε θησαυροφυλάκια του Yearn χρησιμοποιώντας το DeFi Saver, καθώς και να συνδυάσετε αυτήν την ενέργεια με οποιεσδήποτε άλλες αλληλεπιδράσεις με το πρωτοκόλλο. Ορισμένα παραδείγματα περιγράφονται λεπτομερώς παρακάτω.
+Το YFI ενσωματώθηκε στο Defi Saver Recipe Creator. Με αυτήν την ενσωμάτωση, μπορείτε να καταθέσετε οποιαδήποτε υποστηριζόμενα περιουσιακά στοιχεία σε θησαυροφυλάκια του Yearn χρησιμοποιώντας το DeFi Saver, καθώς και να συνδυάσετε αυτήν την ενέργεια με οποιεσδήποτε άλλες αλληλεπιδράσεις με το πρωτοκόλλο. Ορισμένα παραδείγματα περιγράφονται λεπτομερώς παρακάτω.
 
 Αρχικά, μπορείτε να δημιουργήσετε ένα MakerDAO Vault και να καταθέσετε το δανεισμένο DAI στο Yearn, όλα σε μία μόνο συναλλαγή. Το τέλος σταθερότητας για το ETH-A στο Maker είναι 2% και το τρέχον NET APY για το DAI Yearn Vault είναι ~6,5%. Η στρατηγική μπορεί να βρεθεί [εδώ](https://app.defisaver.com/recipes/create?recipe=V3JhcEV0aEFjdGlvbiwyMDtSZWZsZXhlck9wZW5TYWZlQWN0aW9uLEVUSC1BO1JlZmxleGVyU3VwcGx5QWN0aW9uLCQyLHJlY2lwZSxBbGwgYXZhaWxhYmxlO1JlZmxleGVyR2VuZXJhdGVBY3Rpb24sJDIsNjY2NixyZWNpcGU7U2VsbEFjdGlvbiwweDAzYWI0NTg2MzQ5MTBhYWQyMGVmNWYxYzhlZTk2ZjFkNmFjNTQ5MTkscmVjaXBlLDY2NjYsMHhBMGI4Njk5MWM2MjE4YjM2YzFkMTlENGEyZTlFYjBjRTM2MDZlQjQ4LHJlY2lwZSwxO1llYXJuU3VwcGx5QWN0aW9uLDB4QTBiODY5OTFjNjIxOGIzNmMxZDE5RDRhMmU5RWIwY0UzNjA2ZUI0OCxyZWNpcGUsQWxsIGF2YWlsYWJsZSx3YWxsZXQ%3D).
 
