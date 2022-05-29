@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Transparency Summary"
+title:  "Σύνοψη Διαφάνειας"
 categories: [ Tweets ]
 image: ./TransparencySummary/image1.jpg
 author: Yearn
