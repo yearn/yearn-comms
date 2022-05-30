@@ -1,7 +1,7 @@
 ---
 title: "A Yearn quer comprar seu YFI"
 image:
-  src: ./cover.jpg
+  src: ./cover pt.png
   width: 900
   height: 450
 date: '2022-05-17'
@@ -9,7 +9,7 @@ author: Weaver
 translator: jameskbh 
 ---
 
-![](cover.jpg?w=900&h=450)
+![](cover pt.png?w=900&h=450)
 
 Soubemos que algumas pessoas estão vendendo.
 
