@@ -36,7 +36,7 @@ This week we had a couple errors crop up that we needed to take down quick while
 - refactor: handle zapper data fetching errors
 - fix: change if statement to switch for fetching token balances
 - fix: add deprecated comment to protocol earnings
-- test: add cahce unit test
+- test: add cache unit test
 
 ## **Ongoing Focus and Outstanding Issues 🍙**
 
