@@ -65,9 +65,11 @@ module.exports = {
 			},
 			fontSize: {
 				'sm': ['12px', '16px'],
+				'intermediate': ['14px', '24px'],
 				'base': ['16px', '24px'],
 				'lg': ['20px', '32px'],
 				'xl': ['24px', '32px'],
+				'3xl': ['36px', '40px'],
 				'4xl': ['40px', '56px'],
 			},
 		},
