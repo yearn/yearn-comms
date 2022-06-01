@@ -1,5 +1,5 @@
 ---
-title:  "Hacking with Yearn"
+title:  "यर्न के साथ हैकिंग"
 image:
   src: ./cover.jpg
   width: 900
