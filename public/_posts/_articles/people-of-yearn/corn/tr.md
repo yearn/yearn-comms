@@ -6,7 +6,7 @@ image:
   height: 400
 date: "2022-04-07"
 author: Defiglenn
-translator: 
+translator: Dastronom
 ---
 
 ![](cover.jpg?w=400&h=400)\
