@@ -13,7 +13,7 @@ translator: Xiaona
 
 ![](./image1.jpg?w=900&h=453)
 
-欢迎来到 Yearn Finance 最新动态第 62 版。 此周报的目的是让 Yearn 和所有更广泛的加密社区了解最新消息，包括新产品发布，治理变化和生态系统更新。如果你有兴趣了解更多有关 Yearn Finance 的信息，请关注我们的官方 [Twitter](https://twitter.com/iearnfinance) 和 [Medium](https://medium.com/iearn) 账户.
+欢迎来到 Yearn Finance 最新动态第 62 版。此周报的目的是让 Yearn 和所有更广泛的加密社区了解最新消息，包括新产品发布，治理变化和生态系统更新。如果你有兴趣了解更多有关 Yearn Finance 的信息，请关注我们的官方 [Twitter](https://twitter.com/iearnfinance) 和 [Medium](https://medium.com/iearn) 账户.
 
 **摘要**
 
@@ -31,15 +31,15 @@ translator: Xiaona
 
 Yearn v3 机枪池是对我们系统的彻底改造，以下是让我们特别兴奋的六大功能。
 
-Junior tranches：Yearn 一直致力于打造“只上不下”的机枪池 - 也就是尽最大可能性地避免黑客攻击和资产损失的机枪池。高安全性的代价就是收益很低。v3 推出的 “junior tranches” 是高风险、高收益的机枪池。
+Junior tranches：Yearn 一直致力于打造“只上不下”的机枪池 - 也就是尽最大可能性地避免有黑客攻击和资产损失风险的机枪池。然而，高安全性的代价就是收益很低。v3 推出的 “junior tranches” 将会是高风险、高收益的机枪池。
 
-Solidity：v2 机枪池是用 Vyper 语言编写的，而 v3 使用的是 Solidity。这意味着 Yearn 可以将利用更大的开发者群体（根据 DefiLlama，DeFi 编码中使用 Solidity 的占 ~69%，而 Vyper 仅占 ~10%）。最棒的是 Vyper 爱好者还可以继续使用 Vyper语言开发 v3 模块。
+Solidity：v2 机枪池是用 Vyper 语言编写的，而 v3 使用的是 Solidity。这意味着 Yearn 将可以利用更大的开发者群体（根据 DefiLlama，DeFi 编码中使用 Solidity 的占 ~69%，而 Vyper 仅占 ~10%）。最棒的是 Vyper 爱好者还可以继续使用 Vyper 语言来开发 v3 的模块。
 
-标准化机枪池代币 ERC-4626：Yearn 的贡献者协助制定了以太坊的新代币标准：ERC-4626。v3 的生息代币基于 ERC-4626，可以很好地与其他项目进行组合。
+标准化机枪池代币 ERC-4626：Yearn 的贡献者协助制定了以太坊的新代币标准：ERC-4626。v3 的生息代币是基于 ERC-4626 标准的，可以很好地与其他项目进行组合。
 
 Gas 优化：策略家使用 ySwaps 做机枪池代币之间的兑换。大量的代码改进让包括 ySwaps 在内的很多操作的 Gas 费用从根本上得到了优化，进而提升所有机枪池的 APY。
 
-灵活的策略：更多具有更好模块化的策略，让 Yearn 的机枪池的灵活性获得数量级的提高。每个机枪池的策略数量不再限制在 20 个以内，合作伙伴能够与我们共同管理机枪池。我们迫不及待地想看到其他协议使用 Yearn v3。
+灵活的策略：更多具有更好模块化的策略，让 Yearn 的机枪池的灵活性获得数量级的提升。每个机枪池的策略数量将不再限制在 20 个以内，合作伙伴能够与我们共同管理机枪池。我们迫不及待地想看到其他协议使用 Yearn v3。
 
 自动化：通过使用 Keep3r 网络，Yearn v3 几乎可以实现机枪池的全面自动化。v3 就是要做到 100% 的机枪池自动化。这将让实时收获成为可能，从而实现更好的 MEV 保护。
 
@@ -49,7 +49,7 @@ Junior tranches，模块化，具有可组合性的收益代币和更广泛使�
 
 借用 Skeletor Spaceman 的话，“我们想要跑地快，但更重要的是我们要跑地稳”。v3 就是 Yearn 实现这个目标的方式，即将疯狂起航。
 
-在[这里](https://medium.com/iearn/yearn-vaults-v3-36ce7c468ca0)阅读关于 v3 机枪池的更多内容。
+你可以在[这里](https://medium.com/iearn/yearn-vaults-v3-36ce7c468ca0)阅读关于 v3 机枪池的更多内容。
 
 我们诚邀你通过 [Discord](https://discord.gg/8rF374XkXy)，[Twitter](http://twitter.com/iearnfinance), 或 [Github](http://github.com/yearn) 加入 Yearn 的社区，参与，提供反馈。和我们一起建设吧。
 
@@ -73,7 +73,7 @@ Junior tranches，模块化，具有可组合性的收益代币和更广泛使�
 
 我们邀请其他协议也能够通过使用自己的白名单来加强安全性。创建白名单的方法将在后面做详细说明。
 
-点击[这里](https://medium.com/iearn/yearn-allowlist-71757d4e3cf4)了解更多关于 Yearn 白名单。
+你可以点击[这里](https://medium.com/iearn/yearn-allowlist-71757d4e3cf4)了解更多关于 Yearn 白名单。
 
 ## Yearn 人物访谈: MarcoWorms
 
@@ -85,9 +85,9 @@ MarcoWorms 是 Yearn 的贡献者，从事市场和写作方面的工作，你�
 
 在 Yearn，Marco 通常是与其他人协作或写新文章来度过他的一天。如果没有写文章，那他就在 Yearn 的社群帮忙解答其他人的问题。
 
-Yearn 一直以来都提倡随和的文化，让任何背景的人都能够蓬勃发展，Marco 认识到我们是真正在鼓励贡献者们做他们相信的事情。
+Yearn 一直以来都提倡随和的文化，认为任何背景的人都能够成功，Marco 认识到我们是真正在鼓励贡献者们做他们相信的事情。
 
-在这里查看来自 Yearn 贡献者 Defiglenn 的[完整采访](https://medium.com/iearn/people-of-yearn-marco-worms-c9bb139d278e)。
+你可以在这里查看来自 Yearn 贡献者 Defiglenn 的[完整采访](https://medium.com/iearn/people-of-yearn-marco-worms-c9bb139d278e)。
 
 ## Yearn 想要购买你的 YFI
 
@@ -97,9 +97,9 @@ Yearn 一直以来都提倡随和的文化，让任何背景的人都能够蓬�
 
 太棒了，因为我们在买。
 
-YFI 对 Yearn 的建设至关重要（因为薪酬和策略中都需要），所以我们一直不断地从公开市场回购。从现在开始，我们将通过这项服务来取代完全的手动市场购买。
+YFI 对 Yearn 的建设至关重要（因为薪酬和策略中都需要），所以我们一直不断地从市场上回购。从现在开始，我们将通过这项服务来取代完全的手动市场购买。
 
-由 Chainlink 预言机提供服务，我们的回购账户会定期存入 DAI，并以现价购买你的 YFI。统计数据是实时的，回购完全公开透明。
+由 Chainlink 预言机提供服务，我们的回购账户会定期存入 DAI，并以现价购买你的 YFI。统计数据是实时的，回购是完全公开透明的。
 
 [https://yearn.clinic](https://yearn.clinic/) 和 [https://buyback.yearn.finance/](https://buyback.yearn.finance/) 是链接，把 YFI 卖给我们吧。
 ## Yearn 的机枪池
