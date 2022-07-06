@@ -174,4 +174,4 @@ It is a difficult process (and it doesn't end once in prod with constant risk as
 
 But achievable:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What&#39;s interesting is people have done it before, so it&#39;s not some gimmick. Contest open even to Coinbase engineers. <a href="https://t.co/Rmj00fiqw5">https://t.co/Rmj00fiqw5</a></p>&mdash; banteg (@bantg) <a href="https://twitter.com/bantg/status/1459659745523118088?ref_src=twsrc%5Etfw">November 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What&#39;s interesting is people have done it before, so it&#39;s not some gimmick. Contest open even to Coinbase engineers. <a href="https://t.co/Rmj00fiqw5">https://t.co/Rmj00fiqw5</a></p>&mdash; banteg (@bantg) <a href="https://twitter.com/bantg/status/1459659745523118088?ref_src=twsrc%5Etfw">November 13, 2021</a></blockquote>
