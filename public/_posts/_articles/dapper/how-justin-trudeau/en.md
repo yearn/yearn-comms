@@ -5,13 +5,9 @@ image:
   width: 800
   height: 400
 date: '2022-07-25'
-author: Dapper
-translator:
+author: draper
+translator: 
 ---
-
-
-
-# How Justin Trudeau helped create the latest Yearn Campaign.
 
 In motorspot, one of the ways drivers will try to gain an advantage is to ‘catch a tow’. Letting the car in front do the hard work of punching a hole in the air while you coast closely behind in the slipstream, benefiting from the lack of air resistance.
 
@@ -23,7 +19,7 @@ The problem for most of the world’s biggest brands is how infrequently genuine
 
 This is why beer brands don’t talk about beer, they talk about ‘opening your world’ (sorry Heineken), because then you might get the chance to create a marketing campaign that drifts behind the conflict in the middle east, or prison reform, or any of the other myriad ways that brands like to turn up in odd places. (Remember when Kendall Jenner stopped a riot by giving a policeman a Pepsi, fun.)
 
-# **DeFi x Global Governments, A Marketing Match Made In Heaven**
+## DeFi x Global Governments, A Marketing Match Made In Heaven
 
 DeFi does not have this problem. While crypto may one day grow to a size where brand is the magic ingredient used to differentiate increasingly similar protocols and dApps, we are not there yet.
 
