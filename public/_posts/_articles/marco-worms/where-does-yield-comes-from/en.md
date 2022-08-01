@@ -1,7 +1,7 @@
 ---
 title: "Where does on-chain yield come from?"
 image:
-  src: ./cover.jpg
+  src: ./cover.png
   width: 800
   height: 500
 date: '2022-07-05'
@@ -14,6 +14,7 @@ translator:
 DeFi is a large ecosystem with many different protocols, each offering different services and yield options. It can be thrilling to be on the hunt for the highest APY/APR (Annual Percentage Yields/Rates), still, it is essential to keep track of the sustainability of the source that pays out the yields so you don’t end up with unexpected losses.
 
 > **If you don’t know where the yield comes from, then it comes from you**
+> 
 > *— I don’t know who wrote this originally but it fits the subject very well*
 
 ## Services that create value
