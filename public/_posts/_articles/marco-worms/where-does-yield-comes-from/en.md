@@ -1,12 +1,12 @@
 ---
-title:  "Where does on-chain yield come from?"
+title: "Where does on-chain yield come from?"
 image:
-src: ./cover.jpg
-width: 800
-height: 500
+  src: ./cover.jpg
+  width: 800
+  height: 500
 date: '2022-07-05'
 author: Marco_Worms
-translator: 
+translator:
 ---
 
 ![](cover.jpg?w=800&h=500)
