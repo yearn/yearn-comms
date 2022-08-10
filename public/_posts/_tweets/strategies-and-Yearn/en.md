@@ -9,6 +9,10 @@ author: Flashfish
 translator:
 ---
 
+original source: [twitter](https://twitter.com/flashfish0x/status/1460246273488044036)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Strategies and Yearn, a thread. <br><br>Yearn has $4b in their v2 vaults and anyone can code a strategy and earn 10% of the profits. There is no interview process. Just create the strategy and follow these steps.<br><br>So how do you actually get a strategy to prod and scaled to &gt; $100m?</p>&mdash; flashfish (@flashfish0x) <a href="https://twitter.com/flashfish0x/status/1460246273488044036?ref_src=twsrc%5Etfw">November 15, 2021</a></blockquote>
+
+
 ##### 1
 
 Strategies and Yearn, a thread.
