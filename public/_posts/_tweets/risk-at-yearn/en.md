@@ -10,7 +10,7 @@ translator:
 ---
 
 original source: [twitter](https://twitter.com/storming0x/status/1553092343619850240)
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">With recent events its relevant to show how yearn thinks about risk<br><br>Uses an internal framework to navigate the turbulent waters of DeFI risks.<br><br>There&#39;s a method to the madness<br><br>A quick overview <br>👇<br><br>1/ <a href="https://t.co/CD768BVshj">pic.twitter.com/CD768BVshj</a></p>&mdash; Storm Blessed 0x (@storming0x) <a href="https://twitter.com/storming0x/status/1553092343619850240?ref_src=twsrc%5Etfw">July 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">With recent events its relevant to show how yearn thinks about risk<br><br>Uses an internal framework to navigate the turbulent waters of DeFI risks.<br><br>There&#39;s a method to the madness<br><br>A quick overview <br>👇<br><br>1/ <a href="https://t.co/CD768BVshj">pic.twitter.com/CD768BVshj</a></p>&mdash; Storm Blessed 0x (@storming0x) <a href="https://twitter.com/storming0x/status/1553092343619850240?ref_src=twsrc%5Etfw">July 29, 2022</a></blockquote> 
 
 ---
 
