@@ -9,8 +9,7 @@ author: Storm Blessed
 translator: 
 ---
 
-original source: [twitter](https://twitter.com/storming0x/status/1553092343619850240)
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">With recent events its relevant to show how yearn thinks about risk<br><br>Uses an internal framework to navigate the turbulent waters of DeFI risks.<br><br>There&#39;s a method to the madness<br><br>A quick overview <br>👇<br><br>1/ <a href="https://t.co/CD768BVshj">pic.twitter.com/CD768BVshj</a></p>&mdash; Storm Blessed 0x (@storming0x) <a href="https://twitter.com/storming0x/status/1553092343619850240?ref_src=twsrc%5Etfw">July 29, 2022</a></blockquote> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">With recent events its relevant to show how yearn thinks about risk<br><br>Uses an internal framework to navigate the turbulent waters of DeFI risks.<br><br>There&#39;s a method to the madness<br><br>A quick overview <br>👇<br><br>1/ <a href="https://t.co/CD768BVshj">pic.twitter.com/CD768BVshj</a></p>&mdash; Storm Blessed 0x (@storming0x) <a href="https://twitter.com/storming0x/status/1553092343619850240?ref_src=twsrc%5Etfw">July 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ---
 
@@ -22,8 +21,8 @@ Uses an internal framework to navigate the turbulent waters of DeFI risks.
 
 There's a method to the madness
 
-A quick overview 
-👇
+A quick overview 👇
+
 ---
 
 ##### 2
@@ -44,7 +43,7 @@ High demand and you don't control your time slots in advance
 
 If strategies need to go to prod faster than a normal full fledged protocol without audits
 
-how can the risk be balanced?
+How can the risk be balanced?
 
 ---
 
@@ -60,18 +59,18 @@ This formula gives out a consistent score for every different strategy based on 
 
 ---
 
-
 ##### 5
+
 The lower the score, the less likelihood an issue will happen based on yearns past data
 
 Score includes dimensions like:
--Audit
--Reviews
--Complexity
--Protocol Score
 
-More details
-[https://docs.yearn.finance/resources/risks/risk-score…](https://docs.yearn.finance/resources/risks/risk-score)
+- Audit
+- Reviews
+- Complexity
+- Protocol Score
+
+More details: [https://docs.yearn.finance/resources/risks/risk-score…](https://docs.yearn.finance/resources/risks/risk-score)
 
 The dimensions provide a score, now diff strats risk can be compared
 
@@ -174,9 +173,6 @@ Others can iterate on it
 ##### 14
 Hope this was instructive for others to get ideas on how to come up with their own frameworks
 
-Yearn takes inspiration from greats like 
-[@MakerDAO](https://twitter.com/MakerDAO)
-
- and customize to its needs
+Yearn takes inspiration from greats like [@MakerDAO](https://twitter.com/MakerDAO) and customize to its needs
 
 Thanks to all great contributors in yearn that make the docs and tooling available.
