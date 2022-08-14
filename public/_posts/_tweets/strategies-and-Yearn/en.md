@@ -9,9 +9,9 @@ author: Flashfish
 translator:
 ---
 
-original source: [twitter](https://twitter.com/flashfish0x/status/1460246273488044036)
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Strategies and Yearn, a thread. <br><br>Yearn has $4b in their v2 vaults and anyone can code a strategy and earn 10% of the profits. There is no interview process. Just create the strategy and follow these steps.<br><br>So how do you actually get a strategy to prod and scaled to &gt; $100m?</p>&mdash; flashfish (@flashfish0x) <a href="https://twitter.com/flashfish0x/status/1460246273488044036?ref_src=twsrc%5Etfw">November 15, 2021</a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Strategies and Yearn, a thread. <br><br>Yearn has $4b in their v2 vaults and anyone can code a strategy and earn 10% of the profits. There is no interview process. Just create the strategy and follow these steps.<br><br>So how do you actually get a strategy to prod and scaled to &gt; $100m?</p>&mdash; flashfish (@flashfish0x) <a href="https://twitter.com/flashfish0x/status/1460246273488044036?ref_src=twsrc%5Etfw">November 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+---
 
 ##### 1
 
@@ -189,4 +189,4 @@ It is a difficult process (and it doesn't end once in prod with constant risk as
 
 But achievable:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What&#39;s interesting is people have done it before, so it&#39;s not some gimmick. Contest open even to Coinbase engineers. <a href="https://t.co/Rmj00fiqw5">https://t.co/Rmj00fiqw5</a></p>&mdash; banteg (@bantg) <a href="https://twitter.com/bantg/status/1459659745523118088?ref_src=twsrc%5Etfw">November 13, 2021</a></blockquote>
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">What&#39;s interesting is people have done it before, so it&#39;s not some gimmick. Contest open even to Coinbase engineers. <a href="https://t.co/Rmj00fiqw5">https://t.co/Rmj00fiqw5</a></p>&mdash; banteg (@bantg) <a href="https://twitter.com/bantg/status/1459659745523118088?ref_src=twsrc%5Etfw">November 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
