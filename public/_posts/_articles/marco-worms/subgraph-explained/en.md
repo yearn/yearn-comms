@@ -2,8 +2,8 @@
 title: "Subgraphs explained: Yearning for data"
 image:
   src: ./cover.jpg
-  width: 1400
-  height: 631
+  width: 900
+  height: 406
 date: "2022-08-04"
 author: Marco_Worms
 translator: 
