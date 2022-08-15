@@ -30,7 +30,7 @@ Dans les services ci-dessus, nous pouvons voir le modèle du "jeton d'accès au 
 - **Curve** le plus grand protocole de trading de stablecoins de la DeFi. Les détenteurs de jetons CRV reçoivent une partie des frais de négociation
 - **AAVE** est une plateforme de prêt DeFi où les utilisateurs peuvent emprunter (payer des frais) et/ou fournir des jetons qui seront utilisés par les emprunteurs (recevoir des frais)
 
-Dans ce deuxième modèle, les services permettent aux utilisateurs de gagner une part des bénéfices en détenant (et souvent en verrouillant) un jeton spécifique. Notez que dans les deux modèles, il existe des services fonctionnels et les utilisateurs sont prêts à payer des frais pour l'utiliser. C'est de là que vient le «rendement»: 
+Dans ce deuxième modèle, les services permettent aux utilisateurs de gagner une part des bénéfices en détenant (et souvent en verrouillant) un jeton spécifique. Notez que dans les deux modèles, il existe des services fonctionnels et les utilisateurs sont prêts à payer des frais pour l'utiliser. C'est de là que vient le «rendement».
 
 Il existe d'autres moyens de générer un rendement durable on-chain, la plupart d'entre proposent la fourniture d'un service financier et de la facturation des risques opérationnels, par exemple : fournir une assurance ou des liquidités, ou créer un nouvel actif dérivé avec une utilité supplémentaire (comme le cvxCRV, qui rend le veCRV échangeable, par exemple). La durabilité peut être atteinte par de nombreuses méthodes, mais comprendre comment elle est réellement atteinte doit toujours être claire et documentée et de préférence on-chain.
 
