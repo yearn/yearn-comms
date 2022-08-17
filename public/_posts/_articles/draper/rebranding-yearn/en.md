@@ -5,7 +5,7 @@ image:
   width: 900
   height: 232
 date: '2022-08-17'
-author: Draper
+author: draper
 translator: 
 ---
 
