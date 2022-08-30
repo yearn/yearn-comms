@@ -1,5 +1,5 @@
 ---
-title: "YearnxETHOnline Hackathon"
+title: "Yearn x ETHOnline Hackathon"
 image:
   src: ./cover.jpg
   width: 900
@@ -13,7 +13,7 @@ translator:
 
 There's been a lot of excitement about AI recently. From Google's "[sentient](https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917)" LaMDA, to Dall-E pictures filling up CT… AI is making waves.
 
-So, with our upcoming Hackathon with ETHGlobal's ETHOline, we wondered if we even need to ask human's to contribute? Maybe AI can figure out what the next big yield innovation looks like…
+So, with our upcoming Hackathon with ETHGlobal's ETHOnline, we wondered if we even need to ask human's to contribute? Maybe AI can figure out what the next big yield innovation looks like…
 
 GPT-3 got off to a pretty good start, nailing the general premise of the hackathon itself.
 
