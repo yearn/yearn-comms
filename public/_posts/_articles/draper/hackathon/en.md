@@ -1,5 +1,5 @@
 ---
-title: "Yearn x ETHOnline Hackathon"
+title: "YearnxETHOnline Hackathon"
 image:
   src: ./cover.jpg
   width: 900
