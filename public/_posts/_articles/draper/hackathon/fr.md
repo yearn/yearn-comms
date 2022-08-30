@@ -1,4 +1,4 @@
-opportun---
+---
 title: "Yearn x ETHOnline Hackathon"
 image:
   src: ./cover.jpg
@@ -6,14 +6,14 @@ image:
   height: 300
 date: '2022-08-27'
 author: draper
-translator: cryptouf
+translator: Cryptouf
 ---
 
 ![](cover.jpg?w=900&h=300)
 
 Il y a eu beaucoup d'excitation à propos de l'AI récemment. Du LaMDA "[sentient](https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917)" de Google, aux images de Dall-E envahissant CT… L'IA fait du bruit.
 
-Donc, pour notre prochain Hackathon avec ETHOline d'ETHGlobal, nous nous sommes demandé si nous devions demander à des êtres humains de contribuer ? Peut-être que l'IA peut découvrir à quoi ressemblera la prochaine grande innovation pour générer du rendement...
+Donc, pour notre prochain Hackathon avec ETHOnline d'ETHGlobal, nous nous sommes demandé si nous devions demander à des êtres humains de contribuer ? Peut-être que l'IA peut découvrir à quoi ressemblera la prochaine grande innovation pour générer du rendement...
 
 GPT-3 a pris un assez bon départ, définissant le principe général du hackathon lui-même.
 
@@ -23,7 +23,7 @@ Cependant, lorsque nous lui avons demandé des idées concrètes sur ces prochai
 
 ![](image2.jpg?w=900&h=506)
 
-Malgré les tentatives de l'IA, nous avons décidé que notre argent était mieux investi en récompensant les meilleurs et les plus brillants esprits * humains *.
+Malgré les tentatives de l'IA, nous avons décidé que notre argent était mieux investi en récompensant les meilleurs et les plus brillants esprits *humains*.
 
 C'est pourquoi nous parrainons le hackathon DeFi ETHOnline 2022 d'ETHGlobal pour donner aux hackers la possibilité de construire avec Yearn.
 
@@ -40,7 +40,6 @@ Un accès plus facile à un meilleur rendement est l'un des cas d'utilisation pr
 ![](image3.jpg?w=900&h=575)
 
 Pour plus d'informations et pour postuler, rendez-vous sur [ETHOnline](https://online.ethglobal.com/) site.
-
 
 Maintenant, revenons à GPT-3 pour un magnifique message d'adieu.
 
