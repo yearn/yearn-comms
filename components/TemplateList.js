@@ -77,7 +77,7 @@ function	Template({allPosts, featured}) {
 						<div className={'aspect-[2/1] grid grid-cols-1 w-full bg-gray-blue-2 rounded-t-lg border-b border-gray-blue-3 dark:border-gray-2'}>
 							<Image
 								src={featured?.image?.src || '/default.jpeg'}
-								quality={90}
+								quality={95}
 								objectFit={'cover'}
 								loading={'eager'}
 								className={'rounded-t-lg reduce-brightness'}

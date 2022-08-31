@@ -1,0 +1,35 @@
+{
+	"name": "Yearn Comms",
+	"short_name": "yComms",
+	"description": "All the news and articles about your favorite decentralized Yield Farming protocol!",
+	"iconPath": "./favicons/apple-icon.png",
+	"locale": "en-US",
+	"uri": "https://blog.yearn.finance/",
+	"og": "https://blog.yearn.finance/og.png",
+	"twitter": "@iearnfinance",
+	"github": "https://github.com/yearn/yearn-comms",
+	"icons": [
+		{
+			"src": "./favicons/android-icon-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "./favicons/android-icon-144x144.png",
+			"sizes": "144x144",
+			"type": "image/png"
+		},
+		{
+			"src": "./favicons/favicon-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"theme_color": "#62688F",
+	"background_color": "#FFFFFF",
+	"title_color": "#000000",
+	"start_url": "/",
+	"display": "standalone",
+	"orientation": "portrait"
+}
