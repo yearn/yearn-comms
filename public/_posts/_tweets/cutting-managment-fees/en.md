@@ -1,7 +1,7 @@
 ---
-title:  " Cutting management fees"
+title:  "Cutting management fees"
 image:
-  src: ./image1.png
+  src: ./image1.jpg
   width: 900
   height: 507
 date: "2022-09-01"
