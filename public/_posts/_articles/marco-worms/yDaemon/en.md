@@ -1,4 +1,3 @@
-
 ---
 title:  "yDaemon: one API to unify all yearn data"
 image:
