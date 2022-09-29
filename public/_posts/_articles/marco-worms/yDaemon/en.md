@@ -136,5 +136,3 @@ If you are using yDaemon to build anything let our community know! Here are some
 -   [Yearn Partnership Documentation](https://docs.yearn.finance/partners/introduction)
 -   [Yearn Community Discord](https://discord.com/invite/yearn)
 -   [Yearn Community Telegram](https://t.me/yearnfinance)
-
-4
