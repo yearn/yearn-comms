@@ -4,7 +4,7 @@ image:
   src: ./cover.jpg
   width: 720
   height: 389
-date: '2022-16-10'
+date: '2022-10-16'
 author: Marco Worms
 translator:
 ---
