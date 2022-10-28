@@ -10,7 +10,7 @@ translator:
 ---
 
 
-![](./cover.jpg?w=900&h=)
+![](./cover.jpg?w=900&h=356)
 
 > _If you struggle with the lingo for this article check our_ [_Strategy Descriptions Glossary_](https://docs.yearn.finance/getting-started/guides/how-to-understand-strategies-descriptions) _which has most of the terms used here explained._
 
@@ -39,7 +39,7 @@ We will go into how to assess some of the above by ourselves, but before, we mus
 
 With that in mind, let’s dive into each dimension and how to analyze them for a strategy:
 
-![](./image1.jpg?w=900&h=)
+![](./image1.jpg?w=900&h=360)
 
 Let’s break down a strategy called “GenLevCompV3” (the strategy is on version 3, but it uses Compound v2). It currently holds about $30m in the Yearn DAI vault (and $37m in other stablecoin vaults running the same strategy), so it is a real example for us to learn from.
 
@@ -64,11 +64,11 @@ Both achieve the same result. You can start with an amount of DAI and leverage a
 
 At  [yearn.watch/risk](https://yearn.watch/risk)  we can see the exact scores yearn strategists gave for this operation:
 
-![](./image2.jpg?w=900&h=)
+![](./image2.jpg?w=900&h=349)
 
 Breaking down the score for each dimension:
 
-![](./image3.jpg?w=900&h=)
+![](./image3.jpg?w=900&h=284)
 
 > _1 = lower risk, 5 = higher risk. This score is more tangible when compared to another strategy score, it doesn’t really mean much by itself but it gives us a quantitative ground to measure against others._
 
@@ -80,23 +80,23 @@ Since we will scavenge for audits, we must first know what contracts we should b
 
 -   Supply 10 DAI:
 
-![](./image4.jpg?w=900&h=)
+![](./image4.jpg?w=900&h=207)
 
 -   Borrow DAI at max limit:
 
-![](./image5.jpg?w=900&h=)
+![](./image5.jpg?w=900&h=178)
 
 -   Repay DAI borrow (triggers claiming COMP rewards):
 
-![](./image6.jpg?w=900&h=)
+![](./image6.jpg?w=900&h=205)
 
 -   Withdraw supplied DAI (exit position and/or collect supply yield + claim COMP rewards):
 
-![](./iimage7.jpg?w=900&h=)
+![](./iimage7.jpg?w=900&h=230)
 
 -   Only claim COMP rewards (claim COMP rewards):
 
-![](./image8.jpg?w=900&h=)
+![](./image8.jpg?w=900&h=129)
 
 By doing this 5 actions, we interacted with at least two contracts:
 
@@ -108,11 +108,11 @@ So I headed to  [Compound Github repo](https://github.com/compound-finance/compo
 -   CToken:  [https://github.com/compound-finance/compound-protocol/blob/compound/2.2-prerelease/contracts/CToken.sol](https://github.com/compound-finance/compound-protocol/blob/compound/2.2-prerelease/contracts/CToken.sol)
 -   Comptroller:  [https://github.com/compound-finance/compound-protocol/blob/compound/2.2-prerelease/contracts/Comptroller.sol](https://github.com/compound-finance/compound-protocol/blob/compound/2.2-prerelease/contracts/Comptroller.sol)
 
-![](./image9.jpg?w=900&h=)
+![](./image9.jpg?w=900&h=195)
 
 **Complexity Score: 5**
 
-![](./image10.jpg?w=900&h=)
+![](./image10.jpg?w=900&h=323)
 
 For complexity, I would assess how many steps we have to take to enter or exit (unwind) this strategy and, for each step, how cost-effective and available it is:
 
@@ -132,11 +132,11 @@ For this strategy, let’s say we loop 5 times, doing it manually without Yearn�
 
 Entering the strategy like this would take about 10 transactions, and exiting would take 10. This operation is cumbersome to do manually and might be very expensive on Ethereum, especially if the capital used is small, which is why Yearn does the flashmint + flashlend optimization. Comparing this to a simple “buy and hold ETH” strategy, for example, makes it clear that it requires many more steps and states to monitor.
 
-![](./image11.jpg?w=900&h=)
+![](./image11.jpg?w=900&h=195)
 
 **Protocol Safety Score: 1**
 
-![](./image12.jpg?w=900&h=)
+![](./image12.jpg?w=900&h=427)
 
 Compound code readme said to read this page for security concerns:
 
@@ -144,7 +144,7 @@ Compound code readme said to read this page for security concerns:
 
 The Compound protocol has been reviewed & audited by  [Trail of Bits](https://www.trailofbits.com/)  and  [OpenZeppelin](https://www.openzeppelin.com/)  and it is one of the most reputable protocols in DeFi for lending, existing since Sep 2018, so a score 1 makes sense in this context.
 
-![](./image13.jpg?w=900&h=)
+![](./image13.jpg?w=900&h=195)
 
 It’s harder to dive into other scores as a retail investor but I think there are things to learn from and consider for every investment strategy you execute:
 
@@ -161,10 +161,10 @@ All of these should be taken into consideration when assessing the risk of enter
 
 The  [yearn.watch/risk](https://yearn.watch/risk)  page is a very nice way to see all available strategies and their risks. There is also an extra dimension of likelihood, so the final assessment takes into account both risk score and the chance that those risks are exploited:
 
-![](./image14.jpg?w=900&h=)
+![](./image14.jpg?w=900&h=760)
 
 _horizontal axis is likelihood, vertical axis is risk score_
 
 I hope this case study has elucidated the whys and hows Yearn views risk. The modern wild west is out there, and you can go as far as you are well-equipped and informed! Have fun and travel safely!
 
-![](./image15.jpg?w=900&h=)
+![](./image15.jpg?w=900&h=360)
