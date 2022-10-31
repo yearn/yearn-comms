@@ -110,7 +110,7 @@ So I headed to [Compound Github repo](https://github.com/compound-finance/compou
 
 ![](./image9.jpg?w=900&h=195)
 
-**Complexity Score: 5**
+## Complexity Score: 5
 
 ![](./image10.jpg?w=900&h=323)
 
@@ -134,7 +134,7 @@ Entering the strategy like this would take about 10 transactions, and exiting wo
 
 ![](./image11.jpg?w=900&h=195)
 
-**Protocol Safety Score: 1**
+## Protocol Safety Score: 1
 
 ![](./image12.jpg?w=900&h=427)
 
