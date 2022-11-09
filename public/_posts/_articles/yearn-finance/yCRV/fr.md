@@ -6,13 +6,14 @@ image:
   height: 232
 date: '2022-11-09'
 author: Yearn
-translator: 
+translator:
 ---
 
 
 # Overview
 
 ![](https://i.imgur.com/ni42qE6.png)
+![](image1.jpg?w=900&h=450)
 
 ## Qu'est ce que le yCRV
 
@@ -31,7 +32,7 @@ _ou_
 
 - Migrer à partir de jetons [yveCRV et yvBOOST](https://docs.yearn.finance/getting-started/products/ycrv/overview#how-yvecrv-and-veboost-functionality-was-migrated-to-ycrv).
 
-Les deux opérations mint à un taux de 1:1. Les utilisateurs migrant depuis yvBOOST peuvent utiliser le zap sur [y.finance](https://y.finance/) pour "unwrap" efficacement leurs jetons en yveCRV et migrer ensuite vers le yCRV en une seule étape. Bien sûr, les utilisateurs peuvent également choisir d'acheter des yCRV à partir de la nouveelle pool sur Curve [ici] (https://curve.fi/factory/192).
+Les deux opérations mint à un taux de 1:1. Les utilisateurs migrant depuis yvBOOST peuvent utiliser le zap sur [y.finance](https://y.finance/) pour "unwrap" efficacement leurs jetons en yveCRV et migrer ensuite vers le yCRV en une seule étape. Bien sûr, les utilisateurs peuvent également choisir d'acheter des yCRV à partir de la nouvelle pool sur Curve [ici](https://curve.fi/factory/192).
 
 
 ### 'Activated'-tokens
@@ -45,10 +46,12 @@ Yearn transmet tous les avantages de sa position veCRV aux utilisateurs de yCRV 
 Les utilisateurs peuvent choisir de passer d'un 'Activated'-tokens à l'autre, à tout moment en fonction des avantages qu'ils souhaitent obtenir, à l'exception du vl-yCRV qui a une [restriction(https://docs.yearn.finance/getting-started/products/ycrv/overview#voting-with-ycrv)] de verrouillage temporel [restrictions]variant de 14 à 28 jours.
 
 ![](https://i.imgur.com/KrYztyJ.png)
+![](image2.jpg?w=900&h=450)
 
 ## Staked yCRV
 
 ![](https://i.imgur.com/IgpIhKN.png)
+![](image3.jpg?w=900&h=450)
 
 Le yCRV staké est conçu pour être une position optimisée en termes de rendement «définir et oublier» pour les utilisateurs de yCRV. La source de rendement provient de deux endroits principaux :
 
@@ -60,6 +63,7 @@ En arriere plan, le st-yCRV est un yVault Yearn v2, permettant aux utilisateurs 
 ## Le LP de yCRV/CRV
 
 ![](https://i.imgur.com/3JNhzWR.png)
+![](image4.jpg?w=900&h=450)
 
 La "Liquidity Pool yCRV" fournit de la liquidité a la nouvelle pool CRV/yCRV de Curve, et les détenteurs de lp-yCRV reçoivent les frais et émissions de LP. Lorsque vous zappez sur ce jeton, en arriere plant, vous entrez dans une position LP sur la pool yCRV/CRV et déposez les jetons LP dans le lp-yCRV yVault.
 
@@ -68,10 +72,10 @@ Il s'agit également d'un yVault v2 avec une stratégie qui redépose tous les C
 ## Voter avec le yCRV
 
 ![](https://i.imgur.com/uCwM4Pv.png)
+![](image5.jpg?w=900&h=450)
 
+Le vl-yCRV est la position avec laquelle les utilisateurs peuvent entrer, ce qui leur permet de voter surles [jauges](https://resources.curve.fi/reward-gauges/understanding-gauges) de Curve
 
-Le vl-yCRV est la position avec laquelle les utilisateurs peuvent entrer, ce qui leur permet de voter surles [jauges](https://resources.curve.fi/reward-gauges/understanding-gauges) de Curve 
- 
 ** Ceci est acutellement en phase finale de développement, ce n'est pas encore tout a fait prêt. **
 
 Avec cette position, les utilisateurs peuvent voter pour les jauges (pas pour les votes concernant la DAO).
@@ -81,7 +85,7 @@ Les utilisateurs  ne gagneront pas de frais hebdomadaires (admin fees) ou les po
 Nous nous attendons à ce que ce système soit particulièrement utile pour les protocoles qui cherchent à augmenter les émissions des jauges Curve de leur pool sans s'engager dans un verrouillage de veCRV de 4 ans ou en soumettant à plusieurs reprises des btibes importants.
 
 
-### Details des votes 
+### Details des votes
 
 - Les périodes de vote durent 14 jours.
 - Les utilisateurs peuvent voter sur une seule jauge ou répartir leurs votes sur plusieurs jauges.
@@ -100,9 +104,10 @@ Nous nous attendons à ce que ce système soit particulièrement utile pour les 
 - Un verrouillage pour voter (vote lock) dure au minimum 1 période de vote (14 jours) et pas plus de 28 jours selon le moment où le vote a été mis en place.
 - Chaque vote réactive le verrou d'un utilisateur pour le reste de la période en cours + la durée totale de la période suivante.
 - Une fois le temps de déverrouillage expiré, les utilisateurs peuvent se retirer du vl-yCRV et se déplacer librement dans le système yCRV.
-    
+
     ![](https://i.imgur.com/p5fCVnY.png)
-    
+    ![](image6.jpg?w=900&h=450)
+
 
 ### Pots-de-vin (bribe) et incitations
 
@@ -114,6 +119,8 @@ Nous nous attendons à ce que ce système soit particulièrement utile pour les 
 yveCRV and yvBOOST are being deprecated, and there is a migration path available to users. The functionality of both was integrated into  [st-yCRV](https://docs.yearn.finance/getting-started/products/ycrv/overview#staked-ycrv)  so if you are looking for the same benefits check the  [guide](https://docs.yearn.finance/getting-started/products/ycrv/guide)  on how to migrate from the legacy tokens using yearn's UI
 
 ![](https://i.imgur.com/Htl3AgP.png)
+![](image7.jpg?w=900&h=450)
+
 
 ## Adresses
 
