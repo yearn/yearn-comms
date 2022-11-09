@@ -23,5 +23,6 @@ module.exports = ({
 		CG_IDS: [],
 		TOKENS: [],
 		ALCHEMY_KEY: process.env.ALCHEMY_KEY
+
 	}
 });
