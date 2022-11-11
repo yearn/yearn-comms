@@ -39,8 +39,8 @@ Les deux opérations "mint" à un taux de 1:1. Les utilisateurs migrant depuis y
 
 Yearn transmet tous les avantages de sa position veCRV aux utilisateurs de yCRV qui détiennent l'un de ses ** 'Activated'-token : **
 
-- [**st-yCRV (Staking Rewards):**](https://docs.yearn.finance/getting-started/products/ycrv/overview#staked-ycrv) [yVault](https://medium.com/iearn/yearn-finance-explained-what-are-vaults-and-strategies-96970560432) qui reçoit des frais d'administration et des pots-de-vin de provenent de CRV verrouillés.
-- [**lp-yCRV (Liquidity Pool Rewards):**](https://docs.yearn.finance/getting-started/products/ycrv/overview#lpd-ycrvcrv) yVault pour les jetons CRV/yCRV LP, autocompounds les émissions et les frais.
+- [**st-yCRV (Staking Rewards):**](https://docs.yearn.finance/getting-started/products/ycrv/overview#staked-ycrv) [yVault](https://medium.com/iearn/yearn-finance-explained-what-are-vaults-and-strategies-96970560432) qui reçoit des frais d'administration et des pots-de-vin de provenant de CRV verrouillés.
+- [**lp-yCRV (Liquidity Pool Rewards):**](https://docs.yearn.finance/getting-started/products/ycrv/overview#lpd-ycrvcrv) yVault pour les jetons CRV/yCRV LP, autocompound les émissions et les frais.
 - [**vl-yCRV (Curve Gauges Voting Power):**](https://docs.yearn.finance/getting-started/products/ycrv/overview#voting-with-ycrv) Mécanisme de vote pour voter sur les jauges de Curve.
 
 Les utilisateurs peuvent choisir de passer d'un 'Activated'-tokens à l'autre, à tout moment en fonction des avantages qu'ils souhaitent obtenir, à l'exception du vl-yCRV qui a une [restriction(https://docs.yearn.finance/getting-started/products/ycrv/overview#voting-with-ycrv)] de verrouillage temporel [restrictions]variant de 14 à 28 jours.
@@ -73,7 +73,7 @@ Il s'agit également d'un yVault v2 avec une stratégie qui re-dépose tous les 
 
 ![](image5.jpg?w=513&h=207)
 
-Le vl-yCRV est la position avec laquelle les utilisateurs peuvent entrer, ce qui leur permet de voter surles [jauges](https://resources.curve.fi/reward-gauges/understanding-gauges) de Curve
+Le vl-yCRV est la position avec laquelle les utilisateurs peuvent entrer, ce qui leur permet de voter sur les [jauges](https://resources.curve.fi/reward-gauges/understanding-gauges) de Curve
 
 ** Ceci est actuellement en phase finale de développement, ce n'est pas encore tout a fait prêt. **
 
@@ -113,9 +113,7 @@ Nous nous attendons à ce que ce système soit particulièrement utile pour les 
 - Avec le vl-yCRV, les utilisateurs renoncent au rendement des autres parties du système yCRV.
 - Les utilisateurs de vl-yCRV ne collecteront pas de pots-de-vin (bribes) sur les jauges pour lesquelles ils votent.
 
-## Comment les fonctionnalités du yveCRV et yvBOOST ont été migrées vers le yCRV
-
-yveCRV and yvBOOST are being deprecated, and there is a migration path available to users. The functionality of both was integrated into  [st-yCRV](https://docs.yearn.finance/getting-started/products/ycrv/overview#staked-ycrv)  so if you are looking for the same benefits check the  [guide](https://docs.yearn.finance/getting-started/products/ycrv/guide)  on how to migrate from the legacy tokens using yearn's UI
+## Comment les fonctionnalités du yveCRV et yvBOOST ont migrées vers le yCRV
 
 Le yveCRV et yvBOOST sont maintenant obsolètes et les utilisateurs doivent réaliser une migration. Celle ci est disponible directement depuis le site web. La fonctionnalité de ces 2 wrappers a été intégrée dans le [st-yCRV](https://docs.yearn.finance/getting-started/products/ycrv/overview#staked-ycrv). Si vous recherchez les mêmes avantages, consultez le [guide](https://docs.yearn.finance/getting-started/products/ycrv/guide)pour en savoir plus.
 
