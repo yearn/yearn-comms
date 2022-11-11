@@ -117,7 +117,7 @@ Nous nous attendons à ce que ce système soit particulièrement utile pour les 
 
 yveCRV and yvBOOST are being deprecated, and there is a migration path available to users. The functionality of both was integrated into  [st-yCRV](https://docs.yearn.finance/getting-started/products/ycrv/overview#staked-ycrv)  so if you are looking for the same benefits check the  [guide](https://docs.yearn.finance/getting-started/products/ycrv/guide)  on how to migrate from the legacy tokens using yearn's UI
 
-Le yveCRV et yvBOOST deviennent obsolètes et il est necessaire pour les utilisateur de realiser une migration. Celle ci est disponible directement le site site. La fonctionnalité de ces 2 wrappers a été intégrée dans le [st-yCRV](https://docs.yearn.finance/getting-started/products/ycrv/overview#staked-ycrv). Si vous recherchez les mêmes avantages, consultez le [guide](https://docs.yearn.finance/getting-started/products/ycrv/guide)pour tout savoir.
+Le yveCRV et yvBOOST sont maintenant obsolètes et les utilisateurs doivent réaliser une migration. Celle ci est disponible directement depuis le site web. La fonctionnalité de ces 2 wrappers a été intégrée dans le [st-yCRV](https://docs.yearn.finance/getting-started/products/ycrv/overview#staked-ycrv). Si vous recherchez les mêmes avantages, consultez le [guide](https://docs.yearn.finance/getting-started/products/ycrv/guide)pour en savoir plus.
 
 ![](image7.jpg?w=900&h=450)
 
