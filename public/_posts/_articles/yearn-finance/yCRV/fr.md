@@ -25,7 +25,7 @@ Le nouveau yCRV peut être "mint" de deux manières :
 
 *ou*
 
-- Migrer à partir de jetons [yveCRV et yvBOOST](#comment-les-fonctionnalités-du-yveCRV-et-yvBOOST-ont-migrées-vers-le-yCRV).
+- Migrer à partir de jetons **yveCRV et yvBOOST**.
 
 Les deux opérations "mint" à un taux de 1:1. Les utilisateurs migrant depuis yvBOOST peuvent utiliser le zap sur [y.finance](https://y.finance/) pour "unwrap" efficacement leurs jetons en yveCRV et migrer ensuite vers le yCRV en une seule étape. Bien sûr, les utilisateurs peuvent également choisir d'acheter des yCRV à partir de la nouvelle pool sur Curve [ici](https://curve.fi/factory/192).
 
@@ -41,7 +41,7 @@ Les utilisateurs peuvent choisir de passer d'un 'Activated'-token à l'autre, à
 
 ![](image2.jpg?w=900&h=506)
 
-## Staked yCRV {#staked-ycrv}
+## Staked yCRV
 
 ![](image3.jpg?w=499&h=199)
 
@@ -101,9 +101,9 @@ Nous nous attendons à ce que ce système soit particulièrement utile pour les 
 - Avec le vl-yCRV, les utilisateurs renoncent au rendement des autres parties du système yCRV.
 - Les utilisateurs de vl-yCRV ne collecteront pas de pots-de-vin (bribes) sur les jauges pour lesquelles ils votent.
 
-## Comment les fonctionnalités du yveCRV et yvBOOST ont migrées vers le yCRV {#comment-les-fonctionnalités-du-yveCRV-et-yvBOOST-ont-migrées-vers-le-yCRV}
+## Comment les fonctionnalités du yveCRV et yvBOOST ont migrées vers le yCRV
 
-Le yveCRV et yvBOOST sont maintenant obsolètes et les utilisateurs doivent réaliser une migration. Celle ci est disponible directement depuis le site web. La fonctionnalité de ces 2 wrappers a été intégrée dans le [st-yCRV](#staked-ycrv). Si vous recherchez les mêmes avantages, consultez le [guide](https://docs.yearn.finance/getting-started/products/ycrv/guide#how-to-migrate-from-yvecrv-andor-yvboost) pour en savoir plus.
+Le yveCRV et yvBOOST sont maintenant obsolètes et les utilisateurs doivent réaliser une migration. Celle ci est disponible directement depuis le site web. La fonctionnalité de ces 2 wrappers a été intégrée dans le **st-yCRV**. Si vous recherchez les mêmes avantages, consultez le [guide](https://docs.yearn.finance/getting-started/products/ycrv/guide#how-to-migrate-from-yvecrv-andor-yvboost) pour en savoir plus.
 
 ![](image7.jpg?w=900&h=450)
 
