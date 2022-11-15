@@ -41,7 +41,7 @@ Les utilisateurs peuvent choisir de passer d'un 'Activated'-token à l'autre, à
 
 ![](image2.jpg?w=900&h=506)
 
-## Staked yCRV
+## Staked yCRV {#staked-ycrv}
 
 ![](image3.jpg?w=499&h=199)
 
@@ -101,7 +101,7 @@ Nous nous attendons à ce que ce système soit particulièrement utile pour les 
 - Avec le vl-yCRV, les utilisateurs renoncent au rendement des autres parties du système yCRV.
 - Les utilisateurs de vl-yCRV ne collecteront pas de pots-de-vin (bribes) sur les jauges pour lesquelles ils votent.
 
-## Comment les fonctionnalités du yveCRV et yvBOOST ont migrées vers le yCRV
+## Comment les fonctionnalités du yveCRV et yvBOOST ont migrées vers le yCRV {#comment-les-fonctionnalités-du-yveCRV-et-yvBOOST-ont-migrées-vers-le-yCRV}
 
 Le yveCRV et yvBOOST sont maintenant obsolètes et les utilisateurs doivent réaliser une migration. Celle ci est disponible directement depuis le site web. La fonctionnalité de ces 2 wrappers a été intégrée dans le [st-yCRV](#staked-ycrv). Si vous recherchez les mêmes avantages, consultez le [guide](https://docs.yearn.finance/getting-started/products/ycrv/guide#how-to-migrate-from-yvecrv-andor-yvboost) pour en savoir plus.
 
