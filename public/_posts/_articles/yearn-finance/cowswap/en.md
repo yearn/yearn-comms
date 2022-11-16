@@ -9,8 +9,8 @@ author: Yearn
 translator: 
 ---
 
-![](cover.jpg?w=900&h=218)\
-*Yearn partners with CoW Swap**
+![](cover.jpg?w=900&h=903)\
+*Yearn partners with CoW Swap*
 
 *tl;dr; After months of working on a yearn cowswap solver, we reached production ready code. Starting from today you will be able to do complex swaps in CoW Swap like, **3CRV <-> yvSNX**.*
 
@@ -74,8 +74,8 @@ In the following image you can see an example of the settlement using Weiroll:
 
 If you want to start using Weiroll you have two flavor's available,
 
-a) js: [https://weiroll.github.io/weiroll.js/](https://weiroll.github.io/weiroll.js/)
-b) python: [https://github.com/fp-crypto/weiroll-py](https://github.com/fp-crypto/weiroll-py)
+1. js: [https://weiroll.github.io/weiroll.js/](https://weiroll.github.io/weiroll.js/)
+2. python: [https://github.com/fp-crypto/weiroll-py](https://github.com/fp-crypto/weiroll-py)
 
 *PRO TIP: If you are running a safe multi-sign, you can use weiroll-py in conjunction with [ape-safe](https://github.com/banteg/ape-safe).*
 
