@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import	React					from	'react';
 import	Link					from	'next/link';
 import	{useRouter}				from	'next/router';
@@ -10,7 +11,8 @@ import	rehypeRaw				from	'rehype-raw';
 import	useLocalization			from	'contexts/useLocalization';
 import	IconChevron				from	'components/icons/IconChevron';
 import	{parseMarkdown}			from	'utils';
-import axios from 'axios';
+import 	axios 					from 'axios';
+import 	urlSlug 				from 'url-slug';
 
 function	LinkPreview(props) {
 	const	[metadata, set_metadata] = React.useState({});
@@ -37,6 +39,14 @@ function	LinkPreview(props) {
 			</slot>
 		</a>
 	);
+}
+
+function	getHeaderSlug(props) {
+	const content = props?.children?.[0];
+	if (typeof content === 'string') {
+		return urlSlug(content);
+	}
+	return;
 }
 
 function	Template({routerPath, path, post, newer, older}) {
@@ -96,12 +106,12 @@ function	Template({routerPath, path, post, newer, older}) {
 						remarkPlugins={[remarkGfm]}
 						components={{
 							a: ({...props}) => <a {...props} target={'_blank'} rel={'noopener noreferrer'} className={'text-yearn-blue dark:text-white hover:underline'} />,
-							h1: ({...props}) => <h1 {...props} className={'text-dark-blue-1 dark:text-white'} />,
-							h2: ({...props}) => <h2 {...props} className={'text-dark-blue-1 dark:text-white'} />,
-							h3: ({...props}) => <h3 {...props} className={'text-dark-blue-1 dark:text-white'} />,
-							h4: ({...props}) => <h4 {...props} className={'text-dark-blue-1 dark:text-white'} />,
-							h5: ({...props}) => <h5 {...props} className={'text-dark-blue-1 dark:text-white'} />,
-							h6: ({...props}) => <h6 {...props} className={'text-dark-blue-1 dark:text-white'} />,
+							h1: ({node, ...props}) => <h1 {...props} id={getHeaderSlug(props)} className={'text-dark-blue-1 dark:text-white'} />,
+							h2: ({node, ...props}) => <h2 {...props} id={getHeaderSlug(props)} className={'text-dark-blue-1 dark:text-white'} />,
+							h3: ({node, ...props}) => <h3 {...props} id={getHeaderSlug(props)} className={'text-dark-blue-1 dark:text-white'} />,
+							h4: ({node, ...props}) => <h4 {...props} id={getHeaderSlug(props)} className={'text-dark-blue-1 dark:text-white'} />,
+							h5: ({node, ...props}) => <h5 {...props} id={getHeaderSlug(props)} className={'text-dark-blue-1 dark:text-white'} />,
+							h6: ({node, ...props}) => <h6 {...props} id={getHeaderSlug(props)} className={'text-dark-blue-1 dark:text-white'} />,
 							b: ({...props}) => <b {...props} className={'text-dark-blue-1 dark:text-white'} />,
 							iframe: ({...props}) => <iframe {...props} className={'aspect-video w-full h-full'} />,
 							strong: ({...props}) => <strong {...props} className={'text-dark-blue-1 dark:text-white'} />,
