@@ -5786,6 +5786,11 @@ url-metadata@^2.5.0:
     standard "^12.0.1"
     underscore "^1.8.3"
 
+url-slug@^3.0.4:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/url-slug/-/url-slug-3.0.4.tgz#3278b556666389cd88d9210a12e7577dafac6d57"
+  integrity sha512-C880WJTo68O4J59i+w9Yp4P0iDUrMeCAVwNvHAYjSc59XsO4pkPfe8bsEHEyZrEfWWy8BDyxMQi6BPVHp/GEbg==
+
 use-subscription@1.5.1:
   version "1.5.1"
   resolved "https://registry.yarnpkg.com/use-subscription/-/use-subscription-1.5.1.tgz#73501107f02fad84c6dd57965beb0b75c68c42d1"
