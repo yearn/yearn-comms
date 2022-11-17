@@ -9,7 +9,7 @@ author: jmonteer
 translator: 
 ---
 
-*After the [brief overview](https://medium.com/iearn/yearn-vaults-v3-36ce7c468ca0) of the next version of Yearn vaults and several questions about it, I decided to write about YearnV3 in detail.*
+*After the [brief overview](https://blog.yearn.finance/articles/marco-worms/yearn-v3) of the next version of Yearn vaults and several questions about it, I decided to write about YearnV3 in detail.*
 
 ## TL;DR
 
