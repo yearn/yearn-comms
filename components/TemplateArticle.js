@@ -57,7 +57,7 @@ function	Template({routerPath, path, post, newer, older}) {
 		<div className={'-mt-2 md:-mt-12'}>
 			<Head>
 				<title>{post?.title || ''}</title>
-				{post?.image?.url ? <meta property={'og:image'} content={post.image.url} /> : null}
+				{post?.image?.src ? <meta property={'og:image'} content={post.image.src} /> : null}
 			</Head>
 			<NextSeo
 				title={post?.title || ''}
