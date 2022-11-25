@@ -1,11 +1,11 @@
 ---
-title: "Yearn wants to buy your YFI"
-path: "_articles/yearn-finance/yearn-wants-to-buy-your-YFI"
+title: "YearnV3: Motivation and design"
+path: "_articles/yearn-finance/yearn-v3"
 image:
-  src: ./_articles/yearn-finance/yearn-wants-to-buy-your-YFI/cover.jpg
-  width: 900
-  height: 450
-date: '2022-05-17'
-author: Weaver
+  src: ./_articles/yearn-finance/yearn-v3/cover.png
+  width: 2200
+  height: 1080
+date: '2022-05-09'
+author: jmonteer
 translator: 
 ---
