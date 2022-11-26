@@ -8,7 +8,7 @@ date: '2022-11-23'
 author: Farrahmay
 translator: 
 ---
-![](cover.jpg?w=900&h=903)\
+![](cover.jpg?w=900&h=450)\
 
 ## [yBribe](https://ybribe.yearn.farm/)  is a platform where vote-escrowed Curve (veCRV) holders can receive compensation from buyers interested in increasing CRV emissions to their Curve pool’s gauge.
 
@@ -25,19 +25,19 @@ As a voter, there is no cost to use yBribe. Bribers pay a 1% maintenance fee —
 
 # Overview
 
-![](image1.jpg?w=900&h=903)\
+![](image1.jpg?w=900&h=377)\
 ## yBribe pairs users looking to buy votes, with those looking to sell them.
 
 Curve conducts weekly gauge votes that determine the allocation of CRV rewards to various pools. By buying votes, DAOs, protocols, and users can influence the direction of these rewards and boost yields in pools beneficial to them. To do this, use the ‘Bribe a Gauge’ function on yBribe.com. Once the bribe is posted, voters will see the pending APR for the gauge increase.
 
-![](image2.jpg?w=900&h=903)\
+![](image2.jpg?w=900&h=437)\
 APRs are listed for the current and upcoming period
 
 veCRV holders can sell their gauge votes to the highest bidder each week by voting on the bribed gauge with the highest APR. All the information users need to make profit-maximizing votes can be found on yBribe.com.
 
 ## Bribers can more efficiently target the entire veCRV market
 
-![](image3.jpg?w=900&h=903)\
+![](image3.jpg?w=900&h=419)\
 
 Bribers can address larger segments of the market
 
@@ -62,11 +62,11 @@ Unlike other platforms, there are no whitelists and you do not have to ask permi
 
 Voters can sell their vote to the highest bidder by voting on the briber’s gauge. yBribe lists the gauge for the current and upcoming period.
 
-![](image5.jpg?w=900&h=903)\
+![](image5.jpg?w=900&h=532)\
 
 To pick the gauge to vote for you can review the APRs listed. The  **current**  **period**  refers to the current period in which rewards are aggregated (i.e. this week). Pending period refer to the next week.
 
-![](image6.jpg?w=900&h=903)\
+![](image6.jpg?w=900&h=388)\
 
 Each gauge has an APR listed —
 
@@ -81,7 +81,7 @@ After you vote, you’ll be able to claim any applicable rewards at the start of
 
 **Example:** Bunny is a veCRV holder. Bunny goes to yBribe.com (which gets all data directly on-chain) to figure out which gauge is the best one to vote for.
 
-![](image8.jpg?w=900&h=903)\
+![](image8.jpg?w=900&h=525)\
 
 As seen above, we can see MIM gauge is the best for the upcoming period. Bunny goes to vote for the MIM gauge on Curve and then at the start of the next period, they can claim their bribe.
 
@@ -91,7 +91,7 @@ The amount of the overall bribe they will collect is dynamically calculated base
 
 Bribers can offer a bribe to increase CRV emissions to your favorite Curve pool. Bribers can deposit any token as their bribe.
 
-![](image9.jpg?w=900&h=903)\
+![](image9.jpg?w=900&h=329)\
 
 > yBribe now lets users assign rewards to a different claiming address than the one used to vote. It also fixes a bug which under certain circumstances, allowed an initial bribe allocation to be drained before the start of a voting period.
 
