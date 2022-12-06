@@ -70,17 +70,6 @@ Second, the amounts in each interaction need to be hardcoded. The way solvers wo
 
 Our implementation moves tokens from the cowswap settlement to our Weiroll smart contract. There we send a weiroll execution which links the interactions. Basically, whatever the 1inch **swap()** call returns, we use it for the **deposit()** call in the yearn vault. Leaving no dust behind!
 
-In the following image you can see an example of the settlement using Weiroll:
-
-![](image1.jpg?w=900&h=218)\
-*Weiroll being used inside CoW Swap*
-
--  User sends **WETH** to CoW Swap settlement
--  Settlement sends **WETH** to TradeHandler (Weiroll powered contract)
-    - TH converts **WETH** to **SNX**
-    - TH deposits **SNX** in the Yearn vault
-    - TH returns **yvSNX** to CoW Swap settlement
-    - CoW Swap settlement returns **yvSNX** to the user
 
 Si nous utilisons CoW Swap, un solveur enverra une liste d'interactions realisant les taches suivantes :
 
@@ -100,14 +89,14 @@ Notre implémentation déplace les jetons du règlement cowswap vers notre contr
 Dans l'image suivante, vous pouvez voir un exemple de règlement utilisant Weiroll :
 
 ![](image1.jpg?w=900&h=218)\
-*Weiroll utilisé dans CoW Swap*
+*Weiroll utilisé par CoW Swap*
 
-- L'utilisateur envoie **WETH** au règlement CoW Swap
-- Le règlement envoie **WETH** à TradeHandler (contrat alimenté par Weiroll)
-    - TH convertit **WETH** en **SNX**
-    - TH dépose **SNX** dans le coffre Yearn
-    - TH renvoie **yvSNX** au règlement CoW Swap
-    - Le règlement CoW Swap renvoie ** yvSNX ** à l'utilisateur
+- L'utilisateur envoie du **WETH** au CoW Swap settlement
+- Le CoW Swap settlement envoie du **WETH** à TradeHandler (contrat alimenté par Weiroll)
+    - TH convertit le **WETH** en **SNX**
+    - TH dépose le **SNX** dans le coffre Yearn
+    - TH renvoie **yvSNX** au CoW Swap settlement
+    - Le CoW Swap settlement renvoie le **yvSNX** à l'utilisateur
 
 ---
 
@@ -177,8 +166,6 @@ Pour les retraits, ça dépend. Si le coffre-fort dispose d'un tampon, les retra
 Maintenant que CoW Swap comprend les jetons Yearn, un déposant peut créer un ordre **USDC** -> **yvUSDC** et un retrait peut créer **yvUSDC** -> **USDC** et ces deux seront jumelés même lorsque le tampon n'est pas présent. Réduire considérablement le coût du gaz de l'utilisateur pour les pires scénarios.
 
 ## Strategies’ rewards as CoW liquidity
-
-At the moment, strategies are harvested by keepers based on certain parameters in each strategy. Yearn’s CoW Swap solver will use that information to provide liquidity for CoWs. If someone is buying **CRV** for **DAI**, and one of our strategies is ready to harvest, the solver will be able to work as a keeper and release the rewards to be cowed.
 
 À l'heure actuelle, les stratégies sont récoltées par les "keepers" en fonction de certains paramètres pour chaque stratégie. Le solveur CoW Swap de Yearn utilisera ces informations pour fournir des liquidités aux CoW. Si quelqu'un achète du  **CRV** avec du **DAI**, et que l'une de nos stratégies est prête à être récoltée, le solveur pourra devenir "keeper" et libérer les récompenses à "cowed".
 
