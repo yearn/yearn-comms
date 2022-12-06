@@ -93,7 +93,7 @@ Il y a deux problèmes ici.
 
 Tout d'abord, est-il acceptable que CoW Swap approuve les contrats (1inch et Yearn) ?
 
-Deuxièmement, les montants de chaque interaction doivent être codés en dur. La façon dont les solveurs fonctionnent est qu'ils simulent chaque interaction et au lieu de "déposer 100 **SNX** dans **yvSNX**", c'est en fait "déposer xxxx **SNXs** dans **yvSNX**".
+Deuxièmement, les montants de chaque interaction doivent être codés en dur. La façon dont les solveurs fonctionnent est qu'ils simulent chaque interaction et au lieu de "déposer 100 **SNX** dans le **yvSNX**", c'est en fait "déposer xxxx **SNXs** dans **yvSNX**".
 
 Notre implémentation déplace les jetons du règlement cowswap vers notre contrat intelligent Weiroll. Là nous envoyons une exécution weiroll qui relie les interactions. Fondamentalement, quel que soit le retour de l'appel **swap()** de 1 pouce, nous l'utilisons pour l'appel **deposit()** dans le coffre-fort yearn. Ne laissant aucune poussière derrière vous !
 
@@ -191,6 +191,4 @@ At the moment, strategies are harvested by keepers based on certain parameters i
 
 ## Conclusion
 
-Dinobots, the team inside Yearn in charge of this project, is extremely excited to be working with the CoW Swap team. Helping CoW Swap understand more complex orders, converts CoW Swap from a token dex to an intent dex. Some of our test trades have up to 7 different interactions which would take a long time for a user to do. Imagine pushing a bit forward, and using CoW Swap to rebalance a portfolio. It feels like a Layer 1.5.
-
-Dinobots, l'équipe de Yearn en charge de ce projet, est extrêmement enthousiaste à l'idée de travailler avec l'équipe CoW Swap. Aider CoW Swap à comprendre des commandes plus complexes, convertit CoW Swap d'un dex de jeton à un dex d'intention. Certains de nos échanges de test ont jusqu'à 7 interactions différentes, ce qui prendrait beaucoup de temps à un utilisateur. Imaginez que vous poussiez un peu en avant et que vous utilisiez CoW Swap pour rééquilibrer un portefeuille. Cela ressemble à une couche 1.5.
+Dinobots, l'équipe de Yearn en charge de ce projet, est extrêmement enthousiaste à l'idée de travailler avec l'équipe de CoW Swap. Aider CoW Swap à comprendre des commandes plus complexes. Certains de nos transactions ont jusqu'à 7 interactions différentes, ce qui prendrait beaucoup de temps à faire manuellement pour un utilisateur.
