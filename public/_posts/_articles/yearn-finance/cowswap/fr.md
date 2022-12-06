@@ -111,14 +111,7 @@ Dans l'image suivante, vous pouvez voir un exemple de règlement utilisant Weiro
 
 ---
 
-If you want to start using Weiroll you have two flavor's available,
-
-1. js: [https://weiroll.github.io/weiroll.js/](https://weiroll.github.io/weiroll.js/)
-2. python: [https://github.com/fp-crypto/weiroll-py](https://github.com/fp-crypto/weiroll-py)
-
-*PRO TIP: If you are running a safe multi-sign, you can use weiroll-py in conjunction with [ape-safe](https://github.com/banteg/ape-safe).*
-
-Si vous voulez commencer à utiliser Weiroll, vous avez deux saveurs disponibles,
+Si vous voulez commencer à utiliser Weiroll, vous avez deux options,
 
 1. js : [https://weiroll.github.io/weiroll.js/](https://weiroll.github.io/weiroll.js/)
 2. python : [https://github.com/fp-crypto/weiroll-py](https://github.com/fp-crypto/weiroll-py)
@@ -187,7 +180,7 @@ Maintenant que CoW Swap comprend les jetons Yearn, un déposant peut créer un o
 
 At the moment, strategies are harvested by keepers based on certain parameters in each strategy. Yearn’s CoW Swap solver will use that information to provide liquidity for CoWs. If someone is buying **CRV** for **DAI**, and one of our strategies is ready to harvest, the solver will be able to work as a keeper and release the rewards to be cowed.
 
-À l'heure actuelle, les stratégies sont récoltées par les gardiens en fonction de certains paramètres de chaque stratégie. Le solveur CoW Swap de Yearn utilisera ces informations pour fournir des liquidités aux CoW. Si quelqu'un achète **CRV** pour **DAI**, et que l'une de nos stratégies est prête à être récoltée, le solveur pourra travailler en tant que gardien et libérer les récompenses à intimider.
+À l'heure actuelle, les stratégies sont récoltées par les "keepers" en fonction de certains paramètres pour chaque stratégie. Le solveur CoW Swap de Yearn utilisera ces informations pour fournir des liquidités aux CoW. Si quelqu'un achète du  **CRV** avec du **DAI**, et que l'une de nos stratégies est prête à être récoltée, le solveur pourra devenir "keeper" et libérer les récompenses à "cowed".
 
 ## Conclusion
 
