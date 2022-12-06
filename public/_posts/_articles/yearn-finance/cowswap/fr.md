@@ -58,23 +58,13 @@ To improve our settlement prices we decided to invest in [Weiroll](https://githu
 
 Let’s use an example to explain its power. Let’s say we want to do the following trade:
 
-Pour améliorer nos prix de règlement, nous avons décidé d'investir dans [Weiroll](https://github.com/weiroll/weiroll). Weiroll apporte la possibilité d'avoir une petite machine virtuelle dans un contrat intelligent. Le gros avantage pour un solveur est la possibilité d'enchaîner les interactions sans laisser de poussière.
+Pour améliorer nos prix, nous avons décidé d'investir dans [Weiroll](https://github.com/weiroll/weiroll). Weiroll propose la possibilité d'avoir une petite machine virtuelle dans un contrat intelligent. Le gros avantage pour un solveur est la possibilité d'enchaîner les interactions sans laisser de poussière.
 
-Prenons un exemple pour expliquer sa puissance. Disons que nous voulons faire le commerce suivant :
+Prenons un exemple :
 
 
 **WETH -> yvSNX**
 
-If we use the CoW Swap settlement contract, a solver would be sending a list of interactions which does the following:
-
-1. Approve **WETH** on 1inch
-2. Swap **WETH** for **SNX** in 1inch
-3. Approve **SNX** in **yvSNX**
-4. Deposit **SNX** in **yvSNX**
-
-There are two issues here.
-
-First, is it ok for CoW Swap’s settlement to approve third party contracts like 1inch and Yearn vaults?
 
 Second, the amounts in each interaction need to be hardcoded. The way solvers work is they simulate each interaction and instead of “deposit 100 **SNX** in **yvSNX**” it is actually “deposit xxxx **SNXs** in **yvSNX**”.
 
@@ -92,16 +82,16 @@ In the following image you can see an example of the settlement using Weiroll:
     - TH returns **yvSNX** to CoW Swap settlement
     - CoW Swap settlement returns **yvSNX** to the user
 
-Si nous utilisons le contrat de règlement CoW Swap, un solveur enverra une liste d'interactions qui fait ce qui suit :
+Si nous utilisons CoW Swap, un solveur enverra une liste d'interactions realisant les taches suivantes :
 
-1. Approuver **WETH** sur 1 pouce
-2. Remplacez **WETH** par **SNX** en 1 pouce
-3. Approuver **SNX** dans **yvSNX**
+1. Approuver **WETH** sur 1inch
+2. Echanger le **WETH** par du **SNX** sur 1inch
+3. Approuver **SNX** par **yvSNX**
 4. Déposez **SNX** dans **yvSNX**
 
 Il y a deux problèmes ici.
 
-Tout d'abord, est-il acceptable que le règlement de CoW Swap approuve les contrats de tiers comme les coffres-forts 1 pouce et Yearn ?
+Tout d'abord, est-il acceptable que CoW Swap approuve les contrats (1inch et Yearn) ?
 
 Deuxièmement, les montants de chaque interaction doivent être codés en dur. La façon dont les solveurs fonctionnent est qu'ils simulent chaque interaction et au lieu de "déposer 100 **SNX** dans **yvSNX**", c'est en fait "déposer xxxx **SNXs** dans **yvSNX**".
 
