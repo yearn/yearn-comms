@@ -12,12 +12,11 @@ translator:
 ![](cover.jpg?w=900&h=903)\
 *Yearn s'associe à CoW Swap*
 
-*tl;dr; After months of working on a yearn cowswap solver, we reached production ready code. Starting from today you will be able to do complex swaps in CoW Swap like, **3CRV <-> yvSNX**.*
-*tl;dr; Après des mois de travail sur un solveur de cowswap, nous avons atteint un code prêt pour la production. À partir d'aujourd'hui, vous pourrez effectuer des échanges complexes dans CoW Swap comme **3CRV <-> yvSNX**.*
+*tl;dr; Après des mois de travail sur un solveur cowswap, nous avons developpé qui est maintenantt prêt ! À partir d'aujourd'hui, vous pourrez effectuer des échanges complexes avec CoW Swap comme le **3CRV <-> yvSNX**.*
 
 
 *Yearn is committed to settle all strategies trades through CoW Swap and trying to get as much cows as possible to increase users revenue.*
-*Yearn s'engage à régler toutes les stratégies commerciales via CoW Swap et à essayer d'obtenir autant de vaches que possible pour augmenter les revenus des utilisateurs.*
+*Yearn s'engage à utiliser CoW Swap pour toutes ses strategies et à essayer d'obtenir autant de cow que possible pour augmenter les revenus des utilisateurs.*
 
 ## Background
 
