@@ -85,35 +85,17 @@ Si vous voulez commencer à utiliser Weiroll, vous avez deux options,
 
 ## CoWs
 
-Another big regret of using hardcoded trade paths in our contracts is the lack of settlements between strategies. An example of what’s possible from now on. In prod, we have the following two strategies:
+Un autre grand regret de l'utilisation de solution codés en dur dans nos contrats est le manque de règlements entre les stratégies. Un exemple de ce qui est désormais possible. En prod, nous avons les deux stratégies suivantes :
 
-- A **DAI** strategy selling **CRV** for more **DAI**
-- A **yCRV** strategy that claims **3CRV** and buys **CRV**
+- Une stratégie **DAI** vendant du **CRV** pour plus de **DAI**
+- Une stratégie **yCRV** qui réclame les **3CRV** et achète du **CRV**
 
-These will generate the following orders:
-
-- SELL **CRV** for **DAI**
-- SELL **3CRV** for **CRV**
-
-Today, Yearn’s cowswap solver will see these two orders and expand them as the following:
-
-- SELL **CRV** for **DAI**
-- UNWRAP **3CRV** for **DAI**
-- SELL **DAI** for **CRV**
-
-and there we have our internal CoW. Lowering the LP fee for both strategies and increasing revenue.
-
-Un autre grand regret de l'utilisation de chemins commerciaux codés en dur dans nos contrats est le manque de règlements entre les stratégies. Un exemple de ce qui est désormais possible. En prod, nous avons les deux stratégies suivantes :
-
-- Une stratégie **DAI** vendant **CRV** pour plus de **DAI**
-- Une stratégie **yCRV** qui réclame **3CRV** et achète **CRV**
-
-Ceux-ci généreront les commandes suivantes :
+Elles généreront les commandes suivantes :
 
 - VENDRE **CRV** pour **DAI**
 - VENDRE **3CRV** pour **CRV**
 
-Aujourd'hui, le solveur de cowswap de Yearn verra ces deux commandes et les développera comme suit :
+Aujourd'hui, le solveur cowswap de Yearn verra ces deux commandes et les développera comme suit :
 
 - VENDRE **CRV** pour **DAI**
 - UNWRAP **3CRV** pour **DAI**
