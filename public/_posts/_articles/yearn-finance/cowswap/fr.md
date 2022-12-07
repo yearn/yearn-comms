@@ -54,22 +54,12 @@ Chez Yearn, nous voulons continuer à faire évoluer notre code pour être aussi
 
 ## Weiroll
 
-To improve our settlement prices we decided to invest in [Weiroll](https://github.com/weiroll/weiroll). Weiroll brings the possibility of having a small virtual machine inside a smart contract. The big benefit for a solver is the possibility of chaining interactions without leaving dust behind.
-
-Let’s use an example to explain its power. Let’s say we want to do the following trade:
 
 Pour améliorer nos prix, nous avons décidé d'investir dans [Weiroll](https://github.com/weiroll/weiroll). Weiroll propose la possibilité d'avoir une petite machine virtuelle dans un contrat intelligent. Le gros avantage pour un solveur est la possibilité d'enchaîner les interactions sans laisser de poussière.
 
 Prenons un exemple :
 
-
 **WETH -> yvSNX**
-
-
-Second, the amounts in each interaction need to be hardcoded. The way solvers work is they simulate each interaction and instead of “deposit 100 **SNX** in **yvSNX**” it is actually “deposit xxxx **SNXs** in **yvSNX**”.
-
-Our implementation moves tokens from the cowswap settlement to our Weiroll smart contract. There we send a weiroll execution which links the interactions. Basically, whatever the 1inch **swap()** call returns, we use it for the **deposit()** call in the yearn vault. Leaving no dust behind!
-
 
 Si nous utilisons CoW Swap, un solveur enverra une liste d'interactions realisant les taches suivantes :
 
@@ -82,9 +72,9 @@ Il y a deux problèmes ici.
 
 Tout d'abord, est-il acceptable que CoW Swap approuve les contrats (1inch et Yearn) ?
 
-Deuxièmement, les montants de chaque interaction doivent être codés en dur. La façon dont les solveurs fonctionnent est qu'ils simulent chaque interaction et au lieu de "déposer 100 **SNX** dans le **yvSNX**", c'est en fait "déposer xxxx **SNXs** dans **yvSNX**".
+Deuxièmement, les montants de chaque interaction doivent être codés en dur (hardcoded). La façon dont les solveurs fonctionnent est qu'ils simulent chaque interaction. Ensuite, au lieu de "déposer 100 **SNX** dans le **yvSNX**", ils font:  "déposer xxxx **SNXs** dans **yvSNX**".
 
-Notre implémentation déplace les jetons du règlement cowswap vers notre contrat intelligent Weiroll. Là nous envoyons une exécution weiroll qui relie les interactions. Fondamentalement, quel que soit le retour de l'appel **swap()** de 1 pouce, nous l'utilisons pour l'appel **deposit()** dans le coffre-fort yearn. Ne laissant aucune poussière derrière vous !
+Notre implémentation déplace les jetons du "cowswap settlement" vers notre smart contract Weiroll. Ensuite nous envoyons une exécution sur weiroll qui relie les interactions. Fondamentalement, quel que soit le retour de l'appel **swap()** de 1inch, nous l'utilisons pour l'appel **deposit()** dans le coffre-fort yearn. Ne laissant aucune poussière derrière vous !
 
 Dans l'image suivante, vous pouvez voir un exemple de règlement utilisant Weiroll :
 
@@ -147,9 +137,7 @@ et là nous avons notre vache à lait interne. Réduire les frais de LP pour les
 
 ## Using Yearn internal liquidity
 
-Having our own solver allows us to settle trade against internal liquidity from Yearn treasury. Yearn is doing **YFI** buybacks, why wouldn’t we do it through CoW Swap and CoWing?
-
-Le fait d'avoir notre propre solveur nous permet de régler les échanges avec la liquidité interne de la trésorerie de Yearn. Yearn fait des rachats **YFI**, pourquoi ne le ferions-nous pas via CoW Swap et CoWing?
+Le fait d'avoir notre propre solveur nous permet de régler les échanges avec la liquidité interne de la trésorerie de Yearn. Yearn fait deja des rachats **YFI**, pourquoi ne le ferions-nous pas via CoW Swap et CoWing?
 
 ## Matching deposit() and witdrawals()
 
