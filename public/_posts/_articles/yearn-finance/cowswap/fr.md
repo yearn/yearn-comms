@@ -19,27 +19,16 @@ translator:
 ## Background
 
 
-An example: There is a **yvDAI** strategy that is depositing **DAI** in curve’s **3POOL**. The liquidity pool token is staked to earn **CRV**. After some time, the **CRV** is converted to **DAI**.
-
-If you verify strategies’ code, you will see that often there is a hardcoded path on where to do rewards -> want trades. A typical approach is using a uni-v2 compatible smart-contract. While this approach is working fine, there are pitfalls:
-
-- Transaction fees
-- Optimal path is not static
-- MEV protected harvests are complicated
-- Can’t settle trades against other strategies and/or internal liquidity
-
-We found out that working with CoW Swap would allow us to tackle our concerns and leap into the future.
-
 Les stratégies typiques de Yearn déposent du capital dans un protocole generant du rendement et parfois cette stratégie réclame des jetons supplémentaires qui sont convertis en jeton souhaité par l'utilisateur.
 
 Exemple : il existe une stratégie **yvDAI** qui dépose du **DAI** dans la **3POOL** de Curve. Le jeton de  la pool de liquidités est staké pour gagner du **CRV**. Après un certain temps, le **CRV** est converti en **DAI**.
 
-Si vous vérifiez le code des stratégies, vous verrez qu'il existe souvent un chemin codé en dur sur l'endroit où faire des récompenses -> vouloir des échanges. Une approche typique consiste à utiliser un contrat intelligent compatible uni-v2. Bien que cette approche fonctionne bien, il y a des pièges :
+Si vous vérifiez le code des stratégies, vous verrez qu'il existe souvent un chemin codé en dur sur quoi faire  des récompenses -> faire des échanges. Une approche typique consiste à utiliser un contrat intelligent compatible uni-v2. Bien que cette approche fonctionne bien, il y a des problemes :
 
 - Les frais de transaction
 - Le chemin optimal n'est pas statique
-- Les récoltes protégées MEV sont compliquées
-- Impossible de régler des transactions contre d'autres stratégies et/ou des liquidités internes
+- Les récoltes protégées par MEV sont compliquées
+- Impossible de réalier des transactions avec d'autres stratégies et/ou des liquidités internes
 
 Nous avons découvert que travailler avec CoW Swap nous permettrait de répondre à nos préoccupations et de nous lancer dans l'avenir.
 
