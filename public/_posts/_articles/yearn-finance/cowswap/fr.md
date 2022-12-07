@@ -14,13 +14,10 @@ translator:
 
 *tl;dr; Après des mois de travail sur un solveur cowswap, nous avons developpé qui est maintenantt prêt ! À partir d'aujourd'hui, vous pourrez effectuer des échanges complexes avec CoW Swap comme le **3CRV <-> yvSNX**.*
 
-
-*Yearn is committed to settle all strategies trades through CoW Swap and trying to get as much cows as possible to increase users revenue.*
 *Yearn s'engage à utiliser CoW Swap pour toutes ses strategies et à essayer d'obtenir autant de cow que possible pour augmenter les revenus des utilisateurs.*
 
 ## Background
 
-Typical Yearn strategies deposit capital into a protocol for yield and sometimes the strategy claims additional tokens which are converted to the user’s wanted token.
 
 An example: There is a **yvDAI** strategy that is depositing **DAI** in curve’s **3POOL**. The liquidity pool token is staked to earn **CRV**. After some time, the **CRV** is converted to **DAI**.
 
@@ -33,9 +30,9 @@ If you verify strategies’ code, you will see that often there is a hardcoded p
 
 We found out that working with CoW Swap would allow us to tackle our concerns and leap into the future.
 
-Les stratégies typiques de Yearn déposent du capital dans un protocole de rendement et parfois la stratégie réclame des jetons supplémentaires qui sont convertis en jeton souhaité par l'utilisateur.
+Les stratégies typiques de Yearn déposent du capital dans un protocole generant du rendement et parfois cette stratégie réclame des jetons supplémentaires qui sont convertis en jeton souhaité par l'utilisateur.
 
-Un exemple : il existe une stratégie **yvDAI** qui dépose **DAI** dans le **3POOL** de la courbe. Le jeton de pool de liquidités est jalonné pour gagner **CRV**. Après un certain temps, le **CRV** est converti en **DAI**.
+Exemple : il existe une stratégie **yvDAI** qui dépose du **DAI** dans la **3POOL** de Curve. Le jeton de  la pool de liquidités est staké pour gagner du **CRV**. Après un certain temps, le **CRV** est converti en **DAI**.
 
 Si vous vérifiez le code des stratégies, vous verrez qu'il existe souvent un chemin codé en dur sur l'endroit où faire des récompenses -> vouloir des échanges. Une approche typique consiste à utiliser un contrat intelligent compatible uni-v2. Bien que cette approche fonctionne bien, il y a des pièges :
 
