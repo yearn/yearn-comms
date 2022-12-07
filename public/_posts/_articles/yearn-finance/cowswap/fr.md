@@ -12,31 +12,29 @@ translator:
 ![](cover.jpg?w=900&h=903)\
 *Yearn s'associe à CoW Swap*
 
-*tl;dr; Après des mois de travail sur un solveur cowswap, nous avons developpé qui est maintenantt prêt ! À partir d'aujourd'hui, vous pourrez effectuer des échanges complexes avec CoW Swap comme le **3CRV <-> yvSNX**.*
+*tl;dr; Après des mois de travail sur un solveur cowswap, nous avons développé qui est maintenant prêt ! À partir d'aujourd'hui, vous pourrez effectuer des échanges complexes avec CoW Swap comme le **3CRV <-> yvSNX**.*
 
-*Yearn s'engage à utiliser CoW Swap pour toutes ses strategies et à essayer d'obtenir autant de cow que possible pour augmenter les revenus des utilisateurs.*
+*Yearn s'engage à utiliser CoW Swap pour toutes ses stratégies et à essayer d'obtenir autant de cow que possible pour augmenter les revenus des utilisateurs.*
 
 ## Background
 
 
-Les stratégies typiques de Yearn déposent du capital dans un protocole generant du rendement et parfois cette stratégie réclame des jetons supplémentaires qui sont convertis en jeton souhaité par l'utilisateur.
+Les stratégies typiques de Yearn déposent du capital dans un protocole générant du rendement et parfois cette stratégie réclame des jetons supplémentaires qui sont convertis en jeton souhaité par l'utilisateur.
 
-Exemple : il existe une stratégie **yvDAI** qui dépose du **DAI** dans la **3POOL** de Curve. Le jeton de  la pool de liquidités est staké pour gagner du **CRV**. Après un certain temps, le **CRV** est converti en **DAI**.
+Exemple : il existe une stratégie **yvDAI** qui dépose du **DAI** dans la **3POOL** de Curve. Le jeton de la pool de liquidités est staké pour gagner du **CRV**. Après un certain temps, le **CRV** est converti en **DAI**.
 
-Si vous vérifiez le code des stratégies, vous verrez qu'il existe souvent un chemin codé en dur sur quoi faire  des récompenses -> faire des échanges. Une approche typique consiste à utiliser un contrat intelligent compatible uni-v2. Bien que cette approche fonctionne bien, il y a des problemes :
+Si vous vérifiez le code des stratégies, vous verrez qu'il existe souvent un chemin codé en dur sur quoi faire  des récompenses -> faire des échanges. Une approche typique consiste à utiliser un contrat intelligent compatible uni-v2. Bien que cette approche fonctionne bien, il y a des problèmes :
 
 - Les frais de transaction
 - Le chemin optimal n'est pas statique
 - Les récoltes protégées par MEV sont compliquées
-- Impossible de réalier des transactions avec d'autres stratégies et/ou des liquidités internes
+- Impossible de réaliser des transactions avec d'autres stratégies et/ou des liquidités internes
 
 Nous avons découvert que travailler avec CoW Swap nous permettrait de répondre à nos préoccupations et de nous lancer dans l'avenir.
 
 ## Décentralisation
 
-At Yearn we want to continue evolving our code to be as decentralized as possible. It would have been easy to set a path for a trade from an off-chain service, but we want to make sure we are not the only ones offering a solution. While we will participate in the orders bidding inside CoW Swap, the field is open for someone else to find a better solution and we encourage you to do it. The more competition in the CoW Swap ecosystem, the better settlements Yearn’s users will get.
-
-Chez Yearn, nous voulons continuer à faire évoluer notre code pour être aussi décentralisé que possible. Il aurait été facile de tracer une voie pour un commerce à partir d'un service hors chaîne, mais nous voulons nous assurer que nous ne sommes pas les seuls à proposer une solution. Bien que nous participions aux enchères dans CoW Swap, le champ est ouvert à quelqu'un d'autre pour trouver une meilleure solution et nous vous encourageons à le faire. Plus il y a de concurrence dans l'écosystème CoW Swap, meilleurs seront les règlements que les utilisateurs de Yearn obtiendront.
+Chez Yearn, nous voulons continuer à faire évoluer notre code pour être aussi décentralisé que possible. Il aurait été facile se diriger vers un service off-chain , mais nous voulons nous assurer que nous ne sommes pas les seuls à proposer une solution. Bien que nous participions aux enchères sur CoW Swap, le champ est ouvert à quelqu'un d'autre pour trouver une meilleure solution et nous vous encourageons à le faire. Plus il y a de concurrence dans l'écosystème CoW Swap, meilleurs seront les échanges et cela sera favorable pour les utilisateurs de Yearn obtiendront.
 
 ## Weiroll
 
@@ -47,7 +45,7 @@ Prenons un exemple :
 
 **WETH -> yvSNX**
 
-Si nous utilisons CoW Swap, un solveur enverra une liste d'interactions realisant les taches suivantes :
+Si nous utilisons CoW Swap, un solveur enverra une liste d'interactions réalisant les taches suivantes :
 
 1. Approuver **WETH** sur 1inch
 2. Echanger le **WETH** par du **SNX** sur 1inch
@@ -58,7 +56,7 @@ Il y a deux problèmes ici.
 
 Tout d'abord, est-il acceptable que CoW Swap approuve les contrats (1inch et Yearn) ?
 
-Deuxièmement, les montants de chaque interaction doivent être codés en dur (hardcoded). La façon dont les solveurs fonctionnent est qu'ils simulent chaque interaction. Ensuite, au lieu de "déposer 100 **SNX** dans le **yvSNX**", ils font:  "déposer xxxx **SNXs** dans **yvSNX**".
+Deuxièmement, les montants de chaque interaction doivent être codés en dur (hardcoded). La façon dont les solveurs fonctionnent est qu'ils simulent chaque interaction. Ensuite, au lieu de "déposer 100 **SNX** dans le **yvSNX**", ils font :  "déposer xxxx **SNXs** dans **yvSNX**".
 
 Notre implémentation déplace les jetons du "cowswap settlement" vers notre smart contract Weiroll. Ensuite nous envoyons une exécution sur weiroll qui relie les interactions. Fondamentalement, quel que soit le retour de l'appel **swap()** de 1inch, nous l'utilisons pour l'appel **deposit()** dans le coffre-fort yearn. Ne laissant aucune poussière derrière vous !
 
@@ -101,27 +99,21 @@ Aujourd'hui, le solveur cowswap de Yearn verra ces deux commandes et les dévelo
 - UNWRAP **3CRV** pour **DAI**
 - VENDRE **DAI** pour **CRV**
 
-et là nous avons notre vache à lait interne. Réduire les frais de LP pour les deux stratégies et augmenter les revenus.
+Et là, nous avons notre vache à lait interne. Réduire les frais de LP pour les deux stratégies et augmenter les revenus.
 
-## Using Yearn internal liquidity
+## Utilisation de la liquidité interne de Yearn
 
-Le fait d'avoir notre propre solveur nous permet de régler les échanges avec la liquidité interne de la trésorerie de Yearn. Yearn fait deja des rachats **YFI**, pourquoi ne le ferions-nous pas via CoW Swap et CoWing?
+Le fait d'avoir notre propre solveur nous permet de régler les échanges avec la liquidité interne de la trésorerie de Yearn. Yearn fait déjà des rachats **YFI**, pourquoi ne le ferions-nous pas via CoW Swap et CoWing?
 
-## Matching deposit() and witdrawals()
+## Correspondance des deposit() et witdrawals()
 
-Deposits to Yearn vaults are very efficient gas wise. Depositor transfers tokens to the vault, there are some internal information updated and done.  
+Les dépôts dans les vaults Yearn sont très efficaces en termes de gaz. Le déposant transfère les jetons vers le coffre-fort, certaines informations internes sont mises à jour et voilà !
 
-For withdrawals, it depends. If the vault has a buffer, withdrawals are as cheap as deposits. If there is no buffer, the amount needs to be retrieved from strategies. If the amount requested is bigger than the buffer, the vault might unwind more than one position, costing the user a lot of gas.  
+Pour les retraits, cela dépend. Si le coffre-fort dispose d'un tampon, les retraits sont aussi bon marché que les dépôts. S'il n'y a pas de tampon, le montant doit être extrait des stratégies. Si la quantité demandée est supérieure à la mémoire tampon, le coffre-fort peut se défausser de plusieurs positions, ce qui coûte beaucoup de gaz à l'utilisateur.
 
-Now that CoW Swap understands Yearn tokens, a depositor can create a **USDC** -> **yvUSDC** order and a withdrawer can create **yvUSDC** -> **USDC** and those two will be matched even when buffer is not present. Reducing user’s gas cost considerably for worst case scenarios.
+Maintenant que CoW Swap prend en compte les jetons Yearn, un déposant peut créer un ordre **USDC** -> **yvUSDC** et un retrait peut créer **yvUSDC** -> **USDC** et ces deux seront jumelés même lorsque le tampon n'est pas présent. Cela permet de réduire considérablement le coût en gaz pour l'utilisateur durant les pires scénarios.
 
-Les dépôts dans les voûtes Yearn sont très efficaces en termes de gaz. Le déposant transfère les jetons vers le coffre-fort, certaines informations internes sont mises à jour et effectuées.
-
-Pour les retraits, ça dépend. Si le coffre-fort dispose d'un tampon, les retraits sont aussi bon marché que les dépôts. S'il n'y a pas de tampon, le montant doit être extrait des stratégies. Si la quantité demandée est supérieure à la mémoire tampon, le coffre-fort peut se dérouler de plusieurs positions, ce qui coûte beaucoup de gaz à l'utilisateur.
-
-Maintenant que CoW Swap comprend les jetons Yearn, un déposant peut créer un ordre **USDC** -> **yvUSDC** et un retrait peut créer **yvUSDC** -> **USDC** et ces deux seront jumelés même lorsque le tampon n'est pas présent. Réduire considérablement le coût du gaz de l'utilisateur pour les pires scénarios.
-
-## Strategies’ rewards as CoW liquidity
+## Les récompenses des stratégies en tant que liquidité CoW 
 
 À l'heure actuelle, les stratégies sont récoltées par les "keepers" en fonction de certains paramètres pour chaque stratégie. Le solveur CoW Swap de Yearn utilisera ces informations pour fournir des liquidités aux CoW. Si quelqu'un achète du  **CRV** avec du **DAI**, et que l'une de nos stratégies est prête à être récoltée, le solveur pourra devenir "keeper" et libérer les récompenses à "cowed".
 
