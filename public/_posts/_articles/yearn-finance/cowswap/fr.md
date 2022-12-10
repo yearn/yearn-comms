@@ -74,8 +74,8 @@ Dans l'image suivante, vous pouvez voir un exemple de règlement utilisant Weiro
 
 Si vous voulez commencer à utiliser Weiroll, vous avez deux options,
 
-1. js : [https://weiroll.github.io/weiroll.js/](https://weiroll.github.io/weiroll.js/)
-2. python : [https://github.com/fp-crypto/weiroll-py](https://github.com/fp-crypto/weiroll-py)
+1. js : [https://weiroll.github.io/weiroll.js/](https://weiroll.github.io/weiroll.js/)
+2. python : [https://github.com/fp-crypto/weiroll-py](https://github.com/fp-crypto/weiroll-py)
 
 *CONSEIL DE PRO : si vous utilisez un multi-sign sécurisé, vous pouvez utiliser weiroll-py en conjonction avec [ape-safe](https://github.com/banteg/ape-safe).*
 
