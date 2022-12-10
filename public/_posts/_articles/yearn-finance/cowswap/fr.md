@@ -6,7 +6,7 @@ image:
   height: 800
 date: '2022-11-16'
 author: Yearn
-translator: 
+translator: Cryptouf
 ---
 
 ![](cover.jpg?w=900&h=903)\
@@ -17,7 +17,6 @@ translator:
 *Yearn s'engage à utiliser CoW Swap pour toutes ses stratégies et à essayer d'obtenir autant de cow que possible pour augmenter les revenus des utilisateurs.*
 
 ## Background
-
 
 Les stratégies typiques de Yearn déposent du capital dans un protocole générant du rendement et parfois cette stratégie réclame des jetons supplémentaires qui sont convertis en jeton souhaité par l'utilisateur.
 
@@ -38,7 +37,6 @@ Chez Yearn, nous voulons continuer à faire évoluer notre code pour être aussi
 
 ## Weiroll
 
-
 Pour améliorer nos prix, nous avons décidé d'investir dans [Weiroll](https://github.com/weiroll/weiroll). Weiroll propose la possibilité d'avoir une petite machine virtuelle dans un contrat intelligent. Le gros avantage pour un solveur est la possibilité d'enchaîner les interactions sans laisser de poussière.
 
 Prenons un exemple :
@@ -56,7 +54,7 @@ Il y a deux problèmes ici.
 
 Tout d'abord, est-il acceptable que CoW Swap approuve les contrats (1inch et Yearn) ?
 
-Deuxièmement, les montants de chaque interaction doivent être codés en dur (hardcoded). La façon dont les solveurs fonctionnent est qu'ils simulent chaque interaction. Ensuite, au lieu de "déposer 100 **SNX** dans le **yvSNX**", ils font :  "déposer xxxx **SNXs** dans **yvSNX**".
+Deuxièmement, les montants de chaque interaction doivent être codés en dur (hardcoded). La façon dont les solveurs fonctionnent est qu'ils simulent chaque interaction. Ensuite, au lieu de "déposer 100 **SNX** dans le **yvSNX**", ils font : "déposer xxxx **SNXs** dans **yvSNX**".
 
 Notre implémentation déplace les jetons du "cowswap settlement" vers notre smart contract Weiroll. Ensuite nous envoyons une exécution sur weiroll qui relie les interactions. Fondamentalement, quel que soit le retour de l'appel **swap()** de 1inch, nous l'utilisons pour l'appel **deposit()** dans le coffre-fort yearn. Ne laissant aucune poussière derrière vous !
 
