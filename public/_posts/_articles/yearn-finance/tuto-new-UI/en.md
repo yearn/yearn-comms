@@ -25,10 +25,9 @@ The new UI/UX is straitghforward and even your grand mother (sorry if you are th
 
 
 2/ Select **Vaults**
+![](image3.jpg?w=900&h=498)
 
 3/ Click on **Connect wallet** (top right)
-
-![](image3.jpg?w=900&h=498)
 
 
 4/ Select the wallet you want to use and follow all steps
