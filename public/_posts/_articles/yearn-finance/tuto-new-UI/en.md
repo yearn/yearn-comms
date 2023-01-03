@@ -21,37 +21,37 @@ The new UI/UX is straitghforward and even your grand mother (sorry if you are th
 
 1/ Visit [http://yearn.finance](http://yearn.finance)
 
-![](image1.jpg?w=900&h=)
+![](image1.jpg?w=900&h=498)
 
 
 2/ Select **Vaults**
 
 3/ Click on **Connect wallet** (top right)
 
-![](image3.jpg?w=900&h=)
+![](image3.jpg?w=900&h=498)
 
 
 4/ Select the wallet you want to use and follow all steps
 
-![](image4.jpg?w=900&h=)
+![](image4.jpg?w=900&h=483)
 
 5/ Here you go. You are now connected and an overview of all yVaults available will be visible. APY of each vault will be displayed.
 Chose the yVault you would like to use and click on it. 
 
-![](image2.jpg?w=900&h=)
+![](image2.jpg?w=900&h=572)
 
 6/ You will be reddirected on the "yVault page". Here you can see everything you need to know (Description of the yVault,Historical rates, Strategies ..)
 
-![](image6.jpg?w=900&h=)
+![](image6.jpg?w=900&h=846)
 
 7/ Indicate the amount of token you would like to deposit.
 Note: For some yVaults, the ETH yVault for exemple, you can deposit different token (eg: ETH or WETH)
 
-![](image7.jpg?w=900&h=)
+![](image7.jpg?w=900&h=197)
 
 8/ Click on **Approve** and then on **Deposit**
 
-![](image8.jpg?w=900&h=)
+![](image8.jpg?w=900&h=149)
 
 
 # How do witthdraw in a yVault
@@ -60,7 +60,7 @@ Note: For some yVaults, the ETH yVault for exemple, you can deposit different to
 
 10/ Then click on the arrrow . Doing this you will "switch" to the withdraw feature and be able to go from the yVault to your wallet
 
-![](image10.jpg?w=900&h=)
+![](image10.jpg?w=900&h=159)
 
 11/ Indicate the number of tokens you would like to withdraw (or press **Max**) and then click on **Withdraw** 
 
