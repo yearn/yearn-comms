@@ -9,4 +9,58 @@ author: Yearn
 translator:
 ---
 
+You may have noticed, [Yearn](http://yearn.finance) has a new look: [http://yearn.finance](http://yearn.finance)
+
+The main site now acts as a hub for the Yearn ecosystem. Here you can find everything from Vaults to yBribe & yCRV. Yes, veYFI is here too (in governance mode only, stay calm anon).
+
+Speaking of Vaults, the design is overhauled to make everything cleaner, easier to navigate, and with better information architecture. 
+
+The new UI/UX is straitghforward and even your grand mother (sorry if you are the grand mother) should be able to use it. In case you are always lost and need someone to whow you how to do. Fasten your seatbelt , sit back and relax
+
+# How do deposit in a yVault
+
+1/ Visit [http://yearn.finance](http://yearn.finance)
+
 ![](image1.jpg?w=900&h=)
+
+
+2/ Select **Vaults**
+
+3/ Click on **Connect wallet** (top right)
+
+![](image3.jpg?w=900&h=)
+
+
+4/ Select the wallet you want to use and follow all steps
+
+![](image4.jpg?w=900&h=)
+
+5/ Here you go. You are now connected and an overview of all yVaults available will be visible. APY of each vault will be displayed.
+Chose the yVault you would like to use and click on it. 
+
+![](image2.jpg?w=900&h=)
+
+6/ You will be reddirected on the "yVault page". Here you can see everything you need to know (Description of the yVault,Historical rates, Strategies ..)
+
+![](image6.jpg?w=900&h=)
+
+7/ Indicate the amount of token you would like to deposit.
+Note: For some yVaults, the ETH yVault for exemple, you can deposit different token (eg: ETH or WETH)
+
+![](image7.jpg?w=900&h=)
+
+8/ Click on **Approve** and then on **Deposit**
+
+![](image8.jpg?w=900&h=)
+
+
+# How do witthdraw in a yVault
+
+9/ If/When you want to withdraw from an yVault you will have to select the given yVault (step 1-2-3-4-5). 
+
+10/ Then click on the arrrow . Doing this you will "switch" to the withdraw feature and be able to go from the yVault to your wallet
+
+![](image10.jpg?w=900&h=)
+
+11/ Indicate the number of tokens you would like to withdraw (or press **Max**) and then click on **Withdraw** 
+
