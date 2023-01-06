@@ -53,7 +53,7 @@ The Ethereum community has agreed that the risks of PoS are worth it over the ri
 
 ## Liquid Staking, Lido Finance, and stETH
 
-!![](image2.jpg?w=900&h=300)
+![](image2.jpg?w=900&h=300)
 
 If you want to take part in Ethereum’s Proof of Stake process and [do it yourself](https://ethereum.org/en/staking/solo/) then there are a couple of key blockers that might prevent you from doing it:
 
@@ -94,7 +94,7 @@ In the next section we’ll see how Yearn evaluates the risk for depositing ETH 
 
 ## Yearn ETH Vault and stETH yield
 
-!![](image5.jpg?w=900&h=300)
+![](image5.jpg?w=900&h=300)
 
 One way to be exposed to stETH is by using [Yearn Vaults](https://medium.com/iearn/yearn-finance-explained-what-are-vaults-and-strategies-96970560432). The benefit of using Yearn here is that you can deposit/withdraw wETH at any time in the [ETH yVault](https://yearn.finance/#/vault/0xa258C4606Ca8206D8aA700cE2143D7db854D168c), and today it allocates about 1/3 of its funds into stETH, alongside other yield strategies.
 
