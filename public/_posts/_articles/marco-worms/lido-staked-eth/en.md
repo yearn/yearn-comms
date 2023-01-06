@@ -3,7 +3,7 @@ title: "Yearn Strategies Case Study: Lido Staked ETH"
 image:
   src: ./cover.jpg
   width: 900
-  height: 625
+  height: 300
 date: '2023-01-06'
 author: Marco_Worms
 translator:
@@ -11,7 +11,7 @@ translator:
 
 # Yearn Strategies Case Study: Lido Staked ETH
 
-![](cover.jpg?w=900&h=498)
+![](cover.jpg?w=900&h=300)
 
 Last month we published a DeFi risk  [case-study](https://medium.com/iearn/measuring-risk-for-defi-yield-strategies-b53f62b83b92)  that used the lens of the  [Yearn Risk Framework](https://docs.yearn.finance/resources/risks/risk-score)  to analyze the risks involved in operating a yield strategy for the DAI  [Yearn Vault](https://medium.com/iearn/yearn-finance-explained-what-are-vaults-and-strategies-96970560432). This article will use similar methods to look at the risks of investing in stETH (Lido Finance Staked ETH) using Yearn vaults and strategies.
 
@@ -29,7 +29,7 @@ One important thing to note: the  [Yearn Risk Framework](https://docs.yearn.fina
 
 # Proof of Stake yield and Validators
 
-![](image1.jpg?w=900&h=498)
+![](image1.jpg?w=900&h=300)
 
 As of September 15, 2022, Ethereum started using the  [Proof-of-Stake (PoS)](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)  process to validate new transactions added to the blockchain. The previous method, Proof-of-Work (PoW, required “validator nodes” to spend energy to validate transactions. In Proof-of-Stake, validator nodes use ETH deposited in it to validate transactions, achieving the same result.
 
@@ -55,7 +55,7 @@ The Ethereum community has agreed that the risks of PoS are worth it over the ri
 
 # Liquid Staking, Lido Finance, and stETH
 
-!![](image2.jpg?w=900&h=498)
+!![](image2.jpg?w=900&h=300)
 
 If you want to take part in Ethereum’s Proof of Stake process and  [do it yourself](https://ethereum.org/en/staking/solo/)  then there are a couple of key blockers that might prevent you from doing it:
 
@@ -74,7 +74,7 @@ To understand stETH we need to know what is  **Liquid Staking**  first:
 
 stETH is the liquid-staked version of ETH provided by  [Lido Finance](https://lido.fi/). To have stETH, one must deposit ETH in Lido’s platform, and it creates stETH on a 1:1 ratio for you. Lido stake all ETH deposited and splits yield with all stETH holders. The deposit operation can’t be reversed today, so if you want to go back from ETH to stETH you have to sell stETH in the market.
 
-![](image3.jpg?w=900&h=498)
+![](image3.jpg?w=900&h=519)
 
 ## stETH Risks
 
@@ -90,13 +90,13 @@ If you want to learn more, Lido  [explains all risks involved in stETH](https://
 
 As of writing, Lido has about 4.7m ETH locked in them and $5.7b worth of circulating stETH:
 
-![](image4.jpg?w=900&h=498)
+![](image4.jpg?w=900&h=433)
 
 In the next section we’ll see how Yearn evaluates the risk for depositing ETH in Lido to convert stETH, and learn the Yearn risk scores around it compared to the rest of DeFi yield strategies. stETH is considered one of the lowest-risk strategies, but it still contains many inherent risks (listed above).
 
 # Yaern ETH Vault and stETH yield
 
-!![](image5.jpg?w=900&h=498)
+!![](image5.jpg?w=900&h=300)
 
 One way to be exposed to stETH is by using  [Yearn Vaults](https://medium.com/iearn/yearn-finance-explained-what-are-vaults-and-strategies-96970560432). The benefit of using Yearn here is that you can deposit/withdraw wETH at any time in the  [ETH yVault](https://yearn.finance/#/vault/0xa258C4606Ca8206D8aA700cE2143D7db854D168c), and today it allocates about 1/3 of its funds into stETH, alongside other yield strategies.
 
@@ -108,15 +108,15 @@ At  [yearn.watch/risk](https://yearn.watch/risk)  we can see the risk for both s
 
 -   This strategy just holds stETH ([stETHAccumulator_v2](https://yearn.watch/vault/0xa258C4606Ca8206D8aA700cE2143D7db854D168c/0x120FA5738751b275aed7F7b46B98beB38679e093)) (it got migrated from v1, so TVL score is not displaying correctly here since these are the scores for v1)
 
-![](image7.jpg?w=900&h=498)
+![](image7.jpg?w=900&h=267)
 
 -   This strategy delegates to steCRV Vault ([single sided curve eth steth](https://yearn.watch/vault/0xa258C4606Ca8206D8aA700cE2143D7db854D168c/0xF9fDc2B5F60355A237deb8BD62CC117b1C907f7b))
 
-![](image8jpg?w=900&h=498)
+![](image8jpg?w=900&h=274)
 
 _In the below risk table, Bottom-to-top is the level of impact in case of a problem, left-to-right is the likeness that it can occur. Bottom-left is less risky, top-right is riskier:_
 
-![](image9.jpg?w=900&h=498)
+![](image9.jpg?w=900&h=661)
 
 At the time of writing (percentages can change at any time!) when depositing ETH in the Yearn ETH Vault:
 
@@ -131,7 +131,7 @@ Besides the risks of strategies taking a loss, which is mitigated by the “Year
 
 The full risk overview of using the ETH vault is the sum of the risk scores for its strategies plus inherent vault risks: (_Taken from the_ [_docs_](https://docs.yearn.finance/resources/risks/vault-risks))
 
-![](image10.jpg?w=900&h=498)
+![](image10.jpg?w=900&h=983)
 
 # steCRV liquidity pool
 
@@ -145,19 +145,19 @@ In  [stETH+ETH](https://curve.fi/#/ethereum/pools/steth/deposit)  liquidity pool
 -   Buy stETH for cheaper than locking ETH at 1:1 on Lido (depends on market conditions)
 -   Provide Liquidity stETH+ETH liquidity and earn trading fees
 
-![](image11.jpg?w=900&h=498)
+![](image11.jpg?w=900&h=300)
 
 The token you get when depositing stETH+ETH to this liquidity pool is called  **steCRV**  ([address](https://etherscan.io/address/0x06325440d014e39736583c165c2963ba99faf14e)). This token is already a “yield-bearing” token since it represents an LP position that earns trading fees + CRV emissions. But there is one extra layer of yield that Yearn taps into to make the steCRV yVault, our next and last section.
 
-![](image12.jpg?w=900&h=498)
+![](image12.jpg?w=900&h=508)
 
 A convenient feature found in  [Yearn steCRV vault](https://yearn.finance/#/vault/0xdCD90C7f6324cfa40d7169ef80b12031770B4325)  is the ability to skip doing all the above steps manually by using zaps:
 
-![](image13.jpg?w=900&h=498)
+![](image13.jpg?w=900&h=496)
 
 [Yearn colabs with CoW Swap](https://medium.com/iearn/yearn-cow-swap-371b6d7cf3b3)  and  [portals.fi](https://app.portals.fi/)  to constantly improve the zaping operational security and efficiency. Here is an example zap from ETH but you can zap from other tokens too:
 
-![](image14.jpg?w=900&h=498)
+![](image14.jpg?w=900&h=525)
 
 ## steCRV risks
 
@@ -167,13 +167,13 @@ A convenient feature found in  [Yearn steCRV vault](https://yearn.finance/#/vaul
 
 # Yearn steCRV Vault
 
-![](image15.jpg?w=900&h=498)
+![](image15.jpg?w=900&h=603)
 
 In the previous section, we saw that Curve’s role in this ecosystem is to provide the ETH+stETH Liquidity Pool. Because of  [Curve Wars](https://phemex.com/blogs/the-curve-wars-what-why), a protocol called  [Convex Finance](https://www.convexfinance.com/)  emerged, which builds a layer ontop of Curve.
 
 The  [steCRV yVault](https://yearn.finance/#/vault/0xdCD90C7f6324cfa40d7169ef80b12031770B4325)  stakes steCRV in  [Convex](https://www.convexfinance.com/stake). There, it earns CRV and CVX yield. Earned tokens are harvested, sold for more steCRV, then deposited back into the vault (auto-compounded). This is a convenient operation since it maximizes the yield you can get from steCRV and automates harvesting in Convex. It also cost less gas overall per user because Yearn shares the operational gas prices with all vault depositors (like all other yVaults).
 
-![](image16.jpg?w=900&h=498)
+![](image16.jpg?w=900&h=300)
 
 You could do this operation manually and not use yVaults though:
 
@@ -193,15 +193,15 @@ By delegating this operation to steCRV yVault you get the following:
 -   Increased overall risk since there are more smart contracts involved (Convex adds another layer of  [risks](https://docs.convexfinance.com/convexfinance/faq/risks))
 -   Yield harvest+compound schedules are controlled by Yearn
 
-![](image17.jpg?w=900&h=498)
+![](image17.jpg?w=900&h=591)
 
-![](image18.jpg?w=900&h=498)
+![](image18.jpg?w=900&h=320)
 
 The overall risk score for this vault is higher than the other ones we looked at, meaning this set of yield strategies is one of the highest risk/reward Yearn has by its own standards.
 
 # Learn More
 
-![](image19.jpg?w=900&h=498)
+![](image19.jpg?w=900&h=662)
 
 Yearn strategy risks are complex to measure. The discussed steCRV yVault example showcases how any scenario, even when using only reputable protocols, must be taken seriously to protect users because of the high impact on the ecosystem. The more educated users, protocols, and devs are in assessing risk regarding strategies and other yield-generating operations, the safer DeFi will be for  _everyone_  to use it.
 
@@ -223,4 +223,4 @@ Thanks to everyone that helped this article exist: _Farrah, Dark Ghosty, storm0x
 
 > _All banner images for this article were made with_ [_Stable Diffusion_](https://medium.com/@marcoworms/conjuring-images-with-stable-diffusion-20f3e000a837)_, you can find the prompt specifications and images used for titles_ [_here_](https://hackmd.io/YeDrdsZrSyqYWhzQa6pp5Q?view)_, feel free to use any of the pre-generated outputs as yours!_
 
-![](image20.jpg?w=900&h=498)
+![](image20.jpg?w=900&h=300)
