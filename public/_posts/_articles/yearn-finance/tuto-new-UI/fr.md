@@ -6,12 +6,12 @@ image:
   height: 574
 date: '2023-01-02'
 author: Yearn
-translator: 
+translator: Cryptouf
 ---
 
-Vous avez peut-être remarqué que [Yearn](http://yearn.finance) a changé de look : [http://yearn.finance](http://yearn.finance)
+Vous avez peut-être remarqué que [Yearn](http://yearn.finance) a changé de look: [http://yearn.finance](http://yearn.finance)
 
-Le site principal sert désormais de plaque tournante pour l'écosystème Yearn. Vous pouvez donc tout retrouver au même endroit, les yvaults en passant par yBribe & yCRV ! Le veYFI est là aussi (en mode gouvernance uniquement, mais cela va bientôt changer !).
+Le site principal sert désormais de plaque tournante pour l'écosystème Yearn. Vous pouvez donc tout retrouver au même endroit, les yVaults en passant par yBribe & yCRV ! Le veYFI est là aussi (en mode gouvernance uniquement, mais cela va bientôt changer !).
 
 En parlant des Vaults, la conception est revue pour rendre tout plus propre et simple. Il est également plus facile de naviguer entre les yVaults et de trouver les informations que vous cherchez.
 
@@ -23,17 +23,17 @@ La nouvelle UI/UX  est simple et même votre grand-mère (désolé si vous êtes
 
 ![](image1.jpg?w=900&h=498)
 
-2/ Selectioner **Vaults**.
+2/ Selectionner **Vaults**.
 
 ![](image3.jpg?w=900&h=498)
 
 3/ Cliquer sur **Connect wallet** (en haut à droite)
 
-4/ Sélectionner le wallet a utiliser et suivre les étapes indiquées.
+4/ Sélectionner le wallet à utiliser et suivre les étapes indiquées.
 
 ![](image4.jpg?w=900&h=483)
 
-5/ Voilà. Vous êtes maintenant connecté et un aperçu de tous les yVaults disponibles sera visible. L'APY de chaque coffre sera affiché. Choisissez le yVault que vous souhaitez utiliser et cliquez dessus.
+5/ Voilà. Vous êtes maintenant connecté et un aperçu de tous les yVaults disponibles sera visible. L'APY de chaque Vault sera affiché. Choisissez le yVault que vous souhaitez utiliser et cliquez dessus.
 
 ![](image2.jpg?w=900&h=572)
 
@@ -51,12 +51,11 @@ La nouvelle UI/UX  est simple et même votre grand-mère (désolé si vous êtes
 
 ![](image8.jpg?w=900&h=149)
 
-## comment se retirer d'un yVault
-
+## Comment se retirer d'un yVault
 
 9/ Si/Lorsque vous voulez vous retirer d'un yVault, vous devrez sélectionner le yVault correspondant (étape 1-2-3-4-5).
 
-10/ Cliquer ensuite sur la flèche . Vous basulerez ainsi sur la fonction de retrait et pourrez envoyer les jetons du yVault à votre portefeuille.
+10/ Cliquer ensuite sur la flèche. Vous basculerez ainsi sur la fonction de retrait et pourrez envoyer les jetons du yVault à votre portefeuille.
 
 ![](image10.jpg?w=900&h=159)
 
