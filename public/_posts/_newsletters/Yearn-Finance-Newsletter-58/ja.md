@@ -4,8 +4,8 @@ title: "Yearn Finance Newsletter #58"
 categories: [Newsletters]
 image:
   src: ./cover.jpg
-  width: 576
-  height: 288
+  width: 1000
+  height: 500
 author: Yearn
 date: '2022-03-08'
 translator: Cripu
@@ -13,7 +13,7 @@ translator: Cripu
 
 ### 2022年3月8日までの週
 
-![](./image1.jpg?w=1456&h=733)
+![](./cover.jpg?w=1000&h=500)
 
 Yearn Finance Newsletterの第58号へようこそ。このニュースレターの目的は、プロダクトのローンチ、ガバナンスの変更、エコシステムの更新など、最新のニュースをYearnとより広いクリプトコミュニティにお知らせすることです。Yearn Financeについてもっと知りたいという方は、私たちの公式[Twitter](https://twitter.com/iearnfinance)と[Medium](https://medium.com/iearn)アカウントをフォローしてください。
 

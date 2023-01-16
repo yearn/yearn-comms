@@ -2,14 +2,14 @@
 title:  "Les contributeurs de Yearn : Marco Worms"
 image:
   src: ./cover.jpg
-  width: 350
-  height: 353
+  width: 1000
+  height: 500
 date: '2022-04-29'
 author: defiglenn
 translator: Cryptouf
 ---
 
-![](cover.jpg?w=350&h=353)
+![](cover.jpg?w=1000&h=500)
 
 #### Q: Parle nous un peu de toi. Depuis combien de temps et dans quelle équipe es-tu impliqué ?
 

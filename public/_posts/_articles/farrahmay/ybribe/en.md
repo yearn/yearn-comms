@@ -2,14 +2,14 @@
 title: "Introducing Yearn’s new bribe platform for Curve gauge voting"
 image:
   src: ./cover.jpg
-  width: 900
-  height: 450
+  width: 1000
+  height: 500
 date: '2022-11-23'
 author: farrahmay
 translator: 
 ---
 
-![](cover.jpg?w=900&h=450)
+![](cover.jpg?w=1000&h=500)
 
 **[yBribe](https://ybribe.com/) is a platform where vote-escrowed Curve (veCRV) holders can receive compensation from buyers interested in increasing CRV emissions to their Curve pool’s gauge.**
 

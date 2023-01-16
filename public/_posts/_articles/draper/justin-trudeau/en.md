@@ -2,8 +2,8 @@
 title: "How Justin Trudeau helped create the latest Yearn Campaign"
 image:
   src: ./cover.jpg
-  width: 800
-  height: 400
+  width: 1000
+  height: 500
 date: '2022-07-25'
 author: Draper
 translator:

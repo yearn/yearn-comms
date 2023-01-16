@@ -2,15 +2,15 @@
 title: "Measuring risk for DeFi yield strategies"
 image:
   src: ./cover.jpg
-  width: 900
-  height: 356
+  width: 1000
+  height: 500
 date: '2022-10-27'
 author: Marco_Worms
 translator:
 ---
 
 
-![](./cover.jpg?w=900&h=356)
+![](./cover.jpg?w=1000&h=500)
 
 > *If you struggle with the lingo for this article check our [Strategy Descriptions Glossary](https://docs.yearn.finance/getting-started/guides/how-to-understand-strategies-descriptions) which has most of the terms used here explained.*
 

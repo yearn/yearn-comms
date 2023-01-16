@@ -4,8 +4,8 @@ title: "Yearn Finance Newsletter #61"
 categories: [Newsletters]
 image:
   src: ./cover.jpg
-  width: 576
-  height: 288
+  width: 1000
+  height: 500
 author: Yearn
 date: '2022-04-25'
 translator: jameskbh 
@@ -13,7 +13,7 @@ translator: jameskbh
 
 ### Semana que termina em 25 de abril de 2022
 
-![](./image1.jpg?w=900&h=453)
+![](./cover.jpg?w=1000&h=500)
 
 Bem-vindo à 61ª edição da Yearn Finance Newsletter. Nosso objetivo com este boletim é manter a comunidade da Yearn e a comunidade cripto em geral informadas sobre as notícias mais recentes, incluindo lançamentos de produtos, mudanças de governança e atualizações do ecossistema. Se você estiver interessado em aprender mais sobre Yearn Finance, siga nossas contas oficiais [Twitter](https://twitter.com/iearnfinance) e [Medium](https://medium.com/iearn).
 

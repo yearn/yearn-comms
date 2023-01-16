@@ -4,8 +4,8 @@ title: "Ενημερωτικό σημείωμα Yearn Finance #61"
 categories: [Newsletters]
 image:
   src: ./cover.jpg
-  width: 576
-  height: 288
+  width: 1000
+  height: 500
 author: Yearn
 date: '2022-04-25'
 translator: Stathis
@@ -13,7 +13,7 @@ translator: Stathis
 
 ### Εβδομάδα που τελειώνει 25 Απριλίου, 2022
 
-![](./image1.jpg?w=900&h=453)
+![](./cover.jpg?w=1000&h=500)
 
 Καλώς ήρθατε στην 61η έκδοση του ενημερωτικού δελτίου τoυ Yearn Finance. Στόχος μας με αυτό το ενημερωτικό δελτίο είναι να ενημερώνουμε την κοινότητα του Yearn και την ευρύτερη κρύπτο-κοινότητα  για τα τελευταία νέα, συμπεριλαμβανομένων των νέων προϊόντων, των αλλαγών στη διακυβέρνηση και των ενημερώσεων του οικοσυστήματος. Αν ενδιαφέρεστε να μάθετε περισσότερα για το Yearn Finance, ακολουθήστε τους επίσημους λογαριασμούς μας στο [Twitter](https://twitter.com/iearnfinance) και στο [Medium](https://medium.com/iearn).
 

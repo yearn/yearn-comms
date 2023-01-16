@@ -4,8 +4,8 @@ title: "Yearn Finance 最新动态 #58"
 categories: [Newsletters]
 image:
   src: ./cover.jpg
-  width: 576
-  height: 288
+  width: 1000
+  height: 500
 author: Yearn
 date: '2022-03-08'
 translator: Xiaona
@@ -13,7 +13,7 @@ translator: Xiaona
 
 ### 2022 年 3 月 8 日之前的一周
 
-![](./image1.jpg?w=1456&h=733)
+![](./cover.jpg?w=1000&h=500)
 
 欢迎来到 Yearn 最新动态第 58 版。 此新闻简报的目的是让 Yearn 和所有加密货币社区了解最新消息，包括新产品发布，治理变化和生态系统更新。如果你有兴趣了解更多有关 Yearn Finance 的信息，请关注我们的官方 [Twitter](https://twitter.com/iearnfinance) 和 [Medium](https://medium.com/iearn) 账户。
 

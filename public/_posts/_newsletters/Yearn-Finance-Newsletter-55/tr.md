@@ -4,8 +4,8 @@ title: "Yearn Finance Haber Bülteni #55"
 categories: [Newsletters]
 image:
   src: ./cover.png
-  width: 1152
-  height: 576
+  width: 1000
+  height: 500
 author: Yearn
 date: '2022-01-26'
 translator: Dastronom
@@ -13,7 +13,7 @@ translator: Dastronom
 
 ### 23 Ocak 2022'de Sona Eren Hafta
 
-![](./image1.jpg?w=1100&h=554)
+![](./cover.png?w=1000&h=500)
 
 Yearn Finance Bülteninin 55. baskısına hoş geldiniz. Bu bültenle amacımız, Yearn'i ve daha geniş kripto topluluğunu ürün lansmanları, yönetim değişiklikleri ve ekosistem güncellemeleri de dahil olmak üzere en son gelişmelerden haberdar etmektir. Yearn Finance hakkında daha fazla bilgi edinmek istiyorsanız, resmi [Twitter](https://twitter.com/iearnfinance) ve [Medium](https://medium.com/iearn) hesaplarımızı takip edin.
 

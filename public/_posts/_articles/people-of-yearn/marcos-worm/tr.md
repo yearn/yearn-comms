@@ -2,14 +2,14 @@
 title: "Yearn Topluluğu : Marco Worms"
 image:
   src: ./cover.jpg
-  width: 350
-  height: 353
+  width: 1000
+  height: 500
 date: '2022-04-29'
 author: defiglenn
 translator: Dastronom
 ---
 
-![](cover.jpg?w=350&h=353)
+![](cover.jpg?w=1000&h=500)
 
 #### S: Bize biraz kendinden bahset. Yearn ile ne kadar süredir birliktesiniz ve hangi takımın parçasısınız?
 

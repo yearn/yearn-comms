@@ -4,8 +4,8 @@ title: "Yearn Finance Newsletter #59"
 categories: [Newsletters]
 image:
   src: ./cover.png
-  width: 1152
-  height: 576
+  width: 1000
+  height: 500
 author: Yearn
 date: '2022-04-06'
 translator: Nesyeth
@@ -13,7 +13,7 @@ translator: Nesyeth
 
 ### Woche bis zum 5. April 2022
 
-![](./image1.jpg?w=1456&h=733)
+![](./cover.png?w=1000&h=500)
 
 Willkommen zur 59. Ausgabe des Yearn Finance Newsletters. Mit diesem Newsletter möchten wir die Yearn- und die breitere Krypto-Community über die neuesten Nachrichten informieren, darunter Produkteinführungen, Änderungen in der Unternehmensführung und Aktualisierungen im Ökosystem. Wenn du mehr über Yearn Finance erfahren möchtest, folge unserem offiziellen [Twitter](https://twitter.com/iearnfinance)- und [Medium](https://medium.com/iearn)-Konten.
 

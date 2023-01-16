@@ -2,14 +2,14 @@
 title:  "Rebranding Yearn, consistency from chaos"
 image:
   src: ./cover.jpg
-  width: 900
-  height: 232
+  width: 1000
+  height: 500
 date: '2022-08-17'
 author: draper
 translator: 
 ---
 
-![](cover.jpg?w=900&h=232)
+![](cover.jpg?w=1000&h=500)
 
 One of the core [principles](https://yearn.love/) that lies at the heart of Yearn is a healthy respect for chaos. After all, Yearn was born from chaos. A big bang moment, a zero to one kinetic super collision of creativity that birthed a whole new type of yield aggregator. While some fear chaos, we know it can create new ideas and even spawn whole industries.
 

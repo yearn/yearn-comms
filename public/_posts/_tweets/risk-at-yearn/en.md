@@ -3,7 +3,7 @@ title:  "How yearn thinks about risk"
 image:
   src: ./cover.jpg
   width: 1000
-  height: 563
+  height: 500
 date: "2022-06-29"
 author: Storm Blessed
 translator: 

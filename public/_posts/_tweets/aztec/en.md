@@ -2,8 +2,8 @@
 title:  "Yearn & Aztec: more privacy"
 image:
   src: ./cover.jpg
-  width: 900
-  height: 506
+  width: 1000
+  height: 500
 date: "2022-09-14"
 author: Yearn
 translator:

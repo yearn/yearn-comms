@@ -2,14 +2,14 @@
 title: "People of Yearn : Marco Worms"
 image:
   src: ./cover.jpg
-  width: 350
-  height: 353
+  width: 1000
+  height: 500
 date: '2022-04-29'
 author: defiglenn
 translator: 
 ---
 
-![](cover.jpg?w=350&h=353)
+![](cover.jpg?w=1000&h=500)
 
 #### Q: Tell us a bit about yourself. How long have you been with Yearn and what team are you a part of?
 

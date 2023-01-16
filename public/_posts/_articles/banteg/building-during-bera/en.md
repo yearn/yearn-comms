@@ -2,14 +2,14 @@
 title: "Building during bera"
 image:
   src: ./cover.jpg
-  width: 900
-  height: 608
+  width: 1000
+  height: 500
 date: '2022-06-01'
 author: banteg
 translator: 
 ---
 
-![](cover.jpg?w=900&h=608)
+![](cover.jpg?w=1000&h=500)
 
 Haven’t you heard, anon? DeFi is dead. Long live DeFi. Long live Yearn.
 

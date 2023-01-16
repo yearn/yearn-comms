@@ -2,8 +2,8 @@
 title: "Newsletter #56 de Yearn Finance"
 image:
   src: ./cover.png
-  width: 1152
-  height: 576
+  width: 1000
+  height: 500
 author: Yearn
 date: "2022-02-02"
 translator: RestlessMik3
@@ -11,7 +11,7 @@ translator: RestlessMik3
 
 ### Semana que finaliza el 2 de febrero de 2022
 
-![](./image1.jpg?w=1456&h=733)
+![](./cover.png?w=1000&h=500)
 
 Bienvenido a la 56.ª edición de la newsletter de Yearn Finance. Nuestro objetivo con esta newsletter es mantener a Yearn y a la comunidad cripto informada
 

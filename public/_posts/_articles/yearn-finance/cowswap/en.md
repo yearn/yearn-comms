@@ -2,14 +2,14 @@
 title: "Yearn <> CoW Swap"
 image:
   src: ./cover.jpg
-  width: 900
-  height: 800
+  width: 1000
+  height: 500
 date: '2022-11-16'
 author: Yearn
 translator: 
 ---
 
-![](cover.jpg?w=900&h=903)\
+![](cover.jpg?w=1000&h=500)\
 *Yearn partners with CoW Swap*
 
 *tl;dr; After months of working on a yearn cowswap solver, we reached production ready code. Starting from today you will be able to do complex swaps in CoW Swap like, **3CRV <-> yvSNX**.*

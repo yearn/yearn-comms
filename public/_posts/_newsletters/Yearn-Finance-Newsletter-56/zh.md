@@ -2,8 +2,8 @@
 title: "Yearn Finance 最新动态 #56"
 image:
   src: ./cover.png
-  width: 1456
-  height: 733
+  width: 1000
+  height: 500
 author: Yearn
 date: "2022-02-02"
 translator: Bee926
@@ -11,7 +11,7 @@ translator: Bee926
 
 ### 2022 年 2 月 2 日之前的一周
 
-![](./image1.jpg?w=1456&h=733)
+![](./cover.png?w=1000&h=500)
 
 欢迎来到 Yearn 最新动态第 56 版。 此新闻简报的目的是让 Yearn 和所有加密货币社区了解最新消息，包括新产品发布，治理变化和生态系统更新。如果你有兴趣了解更多有关 Yearn Finance 的信息，请关注我们的官方 [Twitter](https://twitter.com/iearnfinance) 和 [Medium](https://medium.com/iearn) 帐户。
 

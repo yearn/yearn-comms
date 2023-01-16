@@ -2,14 +2,14 @@
 title:  "Rebranding de Yearn, de la cohérence dans le chaos"
 image:
   src: ./cover.jpg
-  width: 900
-  height: 232
+  width: 1000
+  height: 500
 date: '2022-08-17'
 author: draper
 translator:
 ---
 
-![](cover.jpg?w=900&h=232)
+![](cover.jpg?w=1000&h=500)
 
 L'un des [principes](https://yearn.love/) fondamentaux chez Yearn est de maintenir le respect au sain du chaos. C'est l'essence même de Yearn, qui est né du chaos. Au moment d'un big bang, une super collision avec un élément de créativité qui a donné naissance à un tout nouveau type d'agrégateur de rendement. Alors que certains craignent le chaos, nous savons qu'il peut créer de nouvelles idées et même engendrer de nouvelles industries entières et révolutionnaires.
 

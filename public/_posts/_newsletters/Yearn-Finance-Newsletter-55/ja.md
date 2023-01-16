@@ -2,8 +2,8 @@
 title: "Yearn Finance Newsletter #55"
 image:
   src: ./cover.png
-  width: 1152
-  height: 576
+  width: 1000
+  height: 500
 author: Yearn
 date: '2022-01-26'
 translator: Cripu
@@ -11,7 +11,7 @@ translator: Cripu
 
 ### 2022年1月23日までの週
 
-![](./image1.jpg?w=1100&h=554)
+![](./cover.png?w=1000&h=500)
 
 Yearn Finance Newsletterの第55号へようこそ。このニュースレターの目的は、プロダクトのローンチ、ガバナンスの変更、エコシステムの更新など、最新のニュースをYearnとより広いクリプトコミュニティにお知らせすることです。Yearn Financeについてもっと知りたいという方は、私たちの公式[Twitter](https://twitter.com/iearnfinance)と[Medium](https://medium.com/iearn)アカウントをフォローしてください。
 

@@ -1,15 +1,15 @@
 ---
 title:  "D'où vient le rendement on-chain ?"
 image:
-  src: ./cover.png
-  width: 800
+  src: ./cover.jpg
+  width: 1000
   height: 500
 date: '2022-07-05'
 author: Marco_Worms
 translator: Cryptouf
 ---
 
-![](cover.png?w=800&h=500)
+![](cover.jpg?w=100&h=500)
 
 La DeFi est un vaste écosystème dans lequel il existe de nombreux protocoles différents, chacun offrant différents services et options pour générer du rendement. Chercher les APY/APR (rendements/taux annuels en pourcentage) les plus élevés peu se révéler passionnant, mais il est essentiel de comprendre d'ou provient ce rendement et si sa source est durable afin de ne pas vous retrouver avec pertes inattendues.
 
