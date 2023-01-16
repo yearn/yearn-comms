@@ -4,15 +4,15 @@ title: "Yearn Finance Newsletter #58"
 categories: [Newsletters]
 image:
   src: ./cover.jpg
-  width: 576
-  height: 288
+  width: 1000
+  height: 500
 author: Yearn
 date: '2022-03-08'
 translator: Cryptouf
 ---
 ### Semaine du 28 Fevrier, 2022
 
-![](./image1.jpg?w=1456&h=733)
+![](./cover.jpg?w=1000&h=500)
 
 Bienvenue à la 58e édition de la Newsletter Yearn Finance. Notre objectif avec cette newsletter est de tenir la communauté Yearn, et plus généralement la communauté crypto, au courant des dernières nouvelles, y compris les lancements de produits, les changements de gouvernance et les mises à jour de l’écosystème. Si vous souhaitez en savoir plus sur Yearn Finance, suivez nos comptes [Twitter](https://twitter.com/iearnfinance) et [Medium](https://medium.com/iearn) officiels.
 

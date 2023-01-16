@@ -2,14 +2,14 @@
 title:  "yDaemon: one API to unify all yearn data"
 image:
   src: ./cover.jpg
-  width: 720
-  height: 389
+  width: 1000
+  height: 500
 date: '2022-10-16'
 author: Marco Worms
 translator:
 ---
 
-![](./cover.jpg?w=720&h=389)
+![](./cover.jpg?w=1000&h=500)
 
 yDaemon ([source](https://github.com/yearn/ydaemon)) is a yearn  [REST](https://restfulapi.net/)  API that provides a single unified interface to consume all relevant Yearn ecosystem data. The API data updates in near real-time thanks to the many daemons that it spawns in order to check data sources for changes:
 

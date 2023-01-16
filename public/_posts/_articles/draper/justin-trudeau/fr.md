@@ -2,8 +2,8 @@
 title: "Comment Justin Trudeau a aidé à créer la dernière campagne de Yearn."
 image:
   src: ./cover.jpg
-  width: 800
-  height: 400
+  width: 1000
+  height: 500
 date: '2022-07-25'
 author: Draper
 translator: Cryptouf

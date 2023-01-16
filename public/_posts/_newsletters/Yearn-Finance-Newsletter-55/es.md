@@ -4,8 +4,8 @@ title: "Newsletter #55 de Yearn Finance"
 categories: [Newsletters]
 image:
   src: ./cover.png
-  width: 1152
-  height: 576
+  width: 1000
+  height: 500
 author: Yearn
 date: '2022-01-26'
 translator: Restlessmik3
@@ -13,7 +13,7 @@ translator: Restlessmik3
 
 ### Semana que finaliza el 23 de enero de 2022
 
-![](./image1.jpg?w=1100&h=554)
+![](./cover.png?w=1000&h=500)
 
 Bienvenido a la 55.ª edición de la newsletter de Yearn Finance. Nuestro objetivo con este boletín es mantener a Yearn y a la comunidad cripto informada sobre las últimas noticias, incluidos los lanzamientos de productos, los cambios en la gobernanza y las actualizaciones del ecosistema. Si estás interesado en obtener más información sobre Yearn Finance, sigue nuestras cuentas oficiales [Twitter](https://twitter.com/iearnfinance) y [Medium](https://medium.com/iearn).
 

@@ -4,8 +4,8 @@ title: "Yearn Finance Haber Bülteni #58"
 categories: [Newsletters]
 image:
   src: ./cover.jpg
-  width: 576
-  height: 288
+  width: 1000
+  height: 500
 author: Yearn
 date: '2022-03-08'
 translator: Dastronom
@@ -13,7 +13,7 @@ translator: Dastronom
 
 ### 8 Mart 2022'de Sona Eren Hafta
 
-![](image1.jpg)
+![](./cover.jpg?w=1000&h=500)
 
 Yearn Finance Bülteninin 58. baskısına hoş geldiniz. Bu bültenle amacımız, Yearn'i ve daha geniş kripto topluluğunu ürün lansmanları, yönetim değişiklikleri ve ekosistem güncellemeleri de dahil olmak üzere en son gelişmelerden haberdar etmektir. Yearn Finance hakkında daha fazla bilgi edinmek istiyorsanız, resmi [Twitter](https://twitter.com/iearnfinance) ve [Medium](https://medium.com/iearn) hesaplarımızı takip edin.
 

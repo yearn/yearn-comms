@@ -4,8 +4,8 @@ title: "Bản tin Yearn.Finance Số #55"
 categories: [Newsletters]
 image:
   src: ./cover.png
-  width: 1152
-  height: 576
+  width: 1000
+  height: 500
 author: Yearn
 date: '2022-01-26'
 translator: 🤖💵💵💰💰.eth
@@ -13,7 +13,7 @@ translator: 🤖💵💵💰💰.eth
 
 ### Tuần Kết thúc Ngày 23/01/2022
 
-![](./image1.jpg?w=1100&h=554)
+![](./cover.png?w=1000&h=500)
 
 Chào mừng các bạn đến với Bản tin Yearn.Finance Số #55! Chúng tôi hy vọng sẽ truyền tải được những dữ kiện mới nhất cho cộng đồng tiền mã thuật số (`crypto`) nói chung lẫn cộng đồng Yearn nói riêng; từ phát hành sản phẩm, thay đổi trong quản trị đến nhiều dự án đối tác trực thuộc hệ sinh thái Yearn. Nếu quan tâm và muốn biết thêm chi tiết về Yearn.Finance, hãy theo dõi tài khoản [Twitter](https://twitter.com/iearnfinance), [Medium](https://medium.com/iearn) cũng như [blog Tiếng Việt](https://vietnamese.blog.yearn.finance/) chính thức của chúng tôi.
 

@@ -4,14 +4,14 @@ title: "Yearn Finance Newsletter #62"
 categories: [Newsletters]
 image:
   src: ./cover.jpg
-  width: 576
-  height: 288
+  width: 1000
+  height: 500
 author: Yearn
 date: '2022-05-23'
 translator: 
 ---
 
-![](./image1.jpg?w=900&h=453)
+![](./cover.jpg?w=1000&h=500)
 
 Welcome to the 62nd edition of the Yearn Finance Newsletter. Our aim with this newsletter is to keep the Yearn and the wider crypto community informed of the latest news, including product launches, governance changes, and ecosystem updates. If you’re interested in learning more about Yearn Finance, follow our official [Twitter](https://twitter.com/iearnfinance) and [Medium](https://medium.com/iearn) accounts.
 

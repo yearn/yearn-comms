@@ -2,14 +2,14 @@
 title: "Yearn <> CoW Swap"
 image:
   src: ./cover.jpg
-  width: 900
-  height: 800
+  width: 1000
+  height: 500
 date: '2022-11-16'
 author: Yearn
 translator: Cryptouf
 ---
 
-![](cover.jpg?w=900&h=903)\
+![](cover.jpg?w=1000&h=500)\
 *Yearn s'associe à CoW Swap*
 
 *tl;dr; Après des mois de travail sur un solveur cowswap, nous avons développé qui est maintenant prêt ! À partir d'aujourd'hui, vous pourrez effectuer des échanges complexes avec CoW Swap comme le **3CRV <-> yvSNX**.*

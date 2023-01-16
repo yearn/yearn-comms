@@ -4,15 +4,15 @@ title: "Yearn Finance Newsletter #57"
 categories: [Newsletters]
 image:
   src: ./cover.png
-  width: 1152
-  height: 576
+  width: 1000
+  height: 500
 author: Yearn
 date: "2022-02-15"
 translator: jengajojo
 ---
 ### १५ फरवरी, २०२२ को समाप्त होने वाला सप्ताह
 
-![](./image1.jpg?w=1456&h=733)
+![](./cover.png?w=1000&h=500)
 
 यर्न फाइनेंस समाचार पत्र के ५६ वें संस्करण में आपका स्वागत है। इस न्यूजलेटर के साथ हमारा उद्देश्य उत्पाद लॉन्च, शासन परिवर्तन और पारिस्थितिकी तंत्र अपडेट सहित नवीनतम समाचारों के बारे में यर्न और व्यापक क्रिप्टो समुदाय को सूचित करना है। अगर आप यर्न फाइनेंस के बारे में अधिक जानने में रुचि रखते हैं, तो हमारे आधिकारिक [twitter](https://twitter.com/iearnfinance) और [medium](https://medium.com/iearn) खातों का अनुसरण करें।
 

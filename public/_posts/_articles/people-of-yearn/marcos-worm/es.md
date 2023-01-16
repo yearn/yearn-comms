@@ -2,14 +2,14 @@
 title: "Gente de Yearn : Marco Worms"
 image:
   src: ./cover.jpg
-  width: 350
-  height: 353
+  width: 1000
+  height: 500
 date: '2022-04-29'
 author: defiglenn
 translator: RestlessMik3
 ---
 
-![](cover.jpg?w=350&h=353)
+![](cover.jpg?w=1000&h=500)
 
 #### P: Cuéntanos un poco sobre ti. ¿Cuánto tiempo llevas con Yearn y de qué equipo eres parte?
 

@@ -2,10 +2,10 @@
 title:  "Mehr Boosts, Compounding und Mojitos mit yvBOOST für dich"
 image:
   src: ./cover.jpg
-  width: 1050
-  height: 543
+  width: 1000
+  height: 500
 date: '2021-09-14'
-author: Qosmonot
+author: qosmonot
 translator: Nesyeth
 ---
 
