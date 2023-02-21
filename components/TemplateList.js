@@ -27,11 +27,11 @@ function	Column({allPosts, language}) {
 				}
 				return (
 					<div className={'pb-6 break-inside'} key={`${post.path}${post.slug}${index}${language}`}>
-						<Link href={`/${post.path}${post.slug}`}>
+						<Link prefetch={false} href={`/${post.path}${post.slug}`}>
 							<div className={'w-full bg-white dark:bg-black rounded-lg shadow-none hover:shadow-sm transition-shadow cursor-pointer'}>
 								<div className={'flex w-full border-b border-gray-blue-3 dark:border-gray-2'}>
 									<Image
-										src={post?.image?.src || '/default.jpeg'}
+										src={(post?.image?.src || '').replace('//', '/') || '/default.jpeg'}
 										quality={90}
 										objectFit={'cover'}
 										loading={'eager'}
@@ -69,10 +69,11 @@ function	Template({allPosts, featured}) {
 		}
 	}
 
+
 	return (
 		<>
 			<motion.div id={'featured-one'} key={'featured-one'} className={'mb-4'} initial={false} animate={'enter'} exit={'exit'} variants={thumbnailVariants}>
-				<Link href={`/${featured?.path}`}>
+				<Link prefetch={false} href={`/${featured?.path}`}>
 					<div className={'w-full bg-white dark:bg-black rounded-lg shadow-none hover:shadow-sm transition-shadow cursor-pointer'}>
 						<div className={'aspect-[2/1] grid grid-cols-1 w-full bg-gray-blue-2 rounded-t-lg border-b border-gray-blue-3 dark:border-gray-2'}>
 							<Image

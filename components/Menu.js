@@ -9,7 +9,7 @@ import	LOCALES				from	'utils/locale';
 
 function	MenuItem({label, condition, href, className, height = 'h-6'}) {
 	return (
-		<Link href={href}>
+		<Link prefetch={false} href={href}>
 			<div className={`${condition ? 'text-yearn-blue dark:text-white font-bold' : 'text-gray-blue-1 dark:text-gray-3'} cursor-pointer relative w-full ${className}`}>
 				{label}
 				<div className={'hidden absolute top-0 z-20 md:block'} style={{right: -3}}>
@@ -40,7 +40,7 @@ function	MenuItems() {
 				label={common['menu-articles']}
 				condition={router.asPath.startsWith('/articles')}
 				href={'/articles'} />
-			<MenuItem
+			{/* <MenuItem
 				className={'mb-4'}
 				label={common['menu-financials']}
 				condition={router.asPath.startsWith('/financials')}
@@ -58,7 +58,7 @@ function	MenuItems() {
 			<MenuItem
 				label={common['menu-podcasts']}
 				condition={router.asPath.startsWith('/podcasts')}
-				href={'/podcasts'} />
+				href={'/podcasts'} /> */}
 		</div>
 	);
 }
@@ -90,7 +90,7 @@ function	MenuMobile() {
 			<div className={'relative z-20 w-full h-full'}>
 				<div className={'flex relative flex-col w-full h-full'}>
 					<div className={'flex flex-row justify-between items-center'}>
-						<Link href={'/'}>
+						<Link prefetch={false} href={'/'}>
 							<span className={'flex flex-row items-start'}>
 								<Image src={'/YFI.png'} width={32} height={32} quality={95} loading={'eager'} />
 								<h1 className={'pl-4 text-lg font-bold text-dark-blue-1 dark:text-white'}>
@@ -146,7 +146,7 @@ function	MenuDesktop() {
 			<div className={'relative z-20 w-full h-full'}>
 				<div className={'flex relative flex-col w-full h-full'}>
 					<div className={'flex flex-row justify-between items-center'}>
-						<Link href={'/'}>
+						<Link prefetch={false} href={'/'}>
 							<span className={'flex flex-row items-start cursor-pointer'}>
 								<Image src={'/YFI.png'} width={32} height={32} quality={95} loading={'eager'} />
 								<h1 className={'pl-4 text-lg font-bold text-dark-blue-1 dark:text-white'}>

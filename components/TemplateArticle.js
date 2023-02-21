@@ -77,13 +77,13 @@ function	Template({routerPath, path, post, newer, older}) {
 			/>
 
 			<div className={'flex flex-row justify-between pt-6 pb-4'}>
-				{newer ? <Link href={`/${path}/${newer?.slug}`}>
+				{newer ? <Link prefetch={false} href={`/${path}/${newer?.slug}`}>
 					<div className={'flex flex-row items-center text-yearn-blue dark:text-white hover:underline cursor-pointer'}>
 						<IconChevron className={'w-4 h-4'} />
 						<p className={'ml-1 text-xs'}>{(newer?.title || '')?.replace(/~~/g, '')}</p>
 					</div>
 				</Link> : <div />}
-				{older ? <Link href={`/${path}/${older?.slug}`}>
+				{older ? <Link prefetch={false} href={`/${path}/${older?.slug}`}>
 					<div className={'flex flex-row items-center text-yearn-blue dark:text-white hover:underline cursor-pointer'}>
 						<p className={'mr-1 text-xs'}>{(older?.title || '')?.replace(/~~/g, '')}</p>
 						<IconChevron className={'w-4 h-4 rotate-180'} />

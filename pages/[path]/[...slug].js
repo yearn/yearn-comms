@@ -22,7 +22,7 @@ export default Post;
 
 export async function getStaticProps({params, locale}) {
 	if (
-		(params.path === 'financials' && (params.slug.length === 1 && params.slug[0] === 'quarterly-report')) ||
+		// (params.path === 'financials' && (params.slug.length === 1 && params.slug[0] === 'quarterly-report')) ||
 		(params.path === 'articles' && (params.slug.length === 1 && params.slug[0] === 'andre-cronje')) ||
 		(params.path === 'articles' && (params.slug.length === 1 && params.slug[0] === 'forum')) ||
 		(params.path === 'articles' && (params.slug.length === 1 && params.slug[0] === 'wot-is-goin-on')) ||
@@ -33,8 +33,8 @@ export async function getStaticProps({params, locale}) {
 		(params.path === 'articles' && (params.slug.length === 1 && params.slug[0] === 'banteg')) ||
 		(params.path === 'articles' && (params.slug.length === 1 && params.slug[0] === 'draper')) ||
 		(params.path === 'articles' && (params.slug.length === 1 && params.slug[0] === 'transcriptions')) ||
-		(params.path === 'articles' && (params.slug.length === 1 && params.slug[0] === 'yearn-finance')) ||
-		(params.path === 'updates' && (params.slug.length === 1 && params.slug[0] === 'web-team'))		
+		(params.path === 'articles' && (params.slug.length === 1 && params.slug[0] === 'yearn-finance'))
+		// || (params.path === 'updates' && (params.slug.length === 1 && params.slug[0] === 'web-team'))		
 	) {
 		const	_allPosts = listAllPosts([`_${params.path}/${params.slug}/`], locale);
 		const	col1 = [];
@@ -83,11 +83,11 @@ export async function getStaticPaths() {
 	const parentPaths = [
 		'announcements',
 		'newsletters',
-		'podcasts',
-		'tweets',
-		'financials',
+		// 'podcasts',
+		// 'tweets',
+		// 'financials',
 		'articles',
-		'updates',
+		// 'updates',
 	];
 	const paths = [];
 
@@ -113,7 +113,7 @@ export async function getStaticPaths() {
 	}
 
 	Object.values(LOCALES).map(({code}) => {
-		paths.push({params: {path: 'financials', slug: ['quarterly-report']}, locale: code});
+		// paths.push({params: {path: 'financials', slug: ['quarterly-report']}, locale: code});
 		paths.push({params: {path: 'articles', slug: ['forum']}, locale: code});
 		paths.push({params: {path: 'articles', slug: ['andre-cronje']}, locale: code});
 		paths.push({params: {path: 'articles', slug: ['wot-is-goin-on']}, locale: code});
@@ -125,7 +125,7 @@ export async function getStaticPaths() {
 		paths.push({params: {path: 'articles', slug: ['banteg']}, locale: code});
 		paths.push({params: {path: 'articles', slug: ['draper']}, locale: code});
 		paths.push({params: {path: 'articles', slug: ['transcriptions']}, locale: code});
-		paths.push({params: {path: 'updates', slug: ['web-team']}, locale: code});		
+		// paths.push({params: {path: 'updates', slug: ['web-team']}, locale: code});		
 	});
 
 	return {

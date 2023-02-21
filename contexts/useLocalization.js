@@ -14,9 +14,9 @@ function	getCommons(language) {
 	}
 }
 
-export const LocalizationContextApp = ({children, router}) => {
-	const	[language, set_language] = React.useState(router.locale || 'en');
-	const	[common, set_common] = React.useState(getCommons(router.locale || 'en'));
+export const LocalizationContextApp = ({children}) => {
+	const	[language, set_language] = React.useState('en');
+	const	[common, set_common] = React.useState(getCommons('en'));
 
 	React.useEffect(() => {
 		set_common(getCommons(language));
