@@ -1,0 +1,2901 @@
+{
+	"date":"2023-01-21",
+	"allPosts": {
+		"all": [
+			{
+				"slug": "hackathon",
+				"path": "articles/draper/",
+				"published": true,
+				"date": "2022-08-27",
+				"title": "Yearn x ETHOnline Hackathon",
+				"image": {
+					"src": "/_posts/_articles/draper/hackathon/cover.jpg",
+					"width": 900,
+					"height": 300
+				},
+				"author": "draper",
+				"translator": null
+			},
+			{
+				"slug": "rebranding-yearn",
+				"path": "articles/draper/",
+				"published": true,
+				"date": "2022-08-17",
+				"title": "Rebranding Yearn, consistency from chaos",
+				"image": {
+					"src": "/_posts/_articles/draper/rebranding-yearn/cover.jpg",
+					"width": 900,
+					"height": 232
+				},
+				"author": "draper",
+				"translator": null
+			},
+			{
+				"slug": "subgraph-explained",
+				"path": "articles/marco-worms/",
+				"published": true,
+				"date": "2022-08-04",
+				"title": "Subgraphs explained: Yearning for data",
+				"image": {
+					"src": "/_posts/_articles/marco-worms/subgraph-explained/cover.jpg",
+					"width": 900,
+					"height": 406
+				},
+				"author": "Marco_Worms",
+				"translator": null
+			},
+			{
+				"slug": "justin-trudeau",
+				"path": "articles/draper/",
+				"published": true,
+				"date": "2022-07-25",
+				"title": "How Justin Trudeau helped create the latest Yearn Campaign",
+				"image": {
+					"src": "/_posts/_articles/draper/justin-trudeau/cover.jpg",
+					"width": 800,
+					"height": 400
+				},
+				"author": "Draper",
+				"translator": null
+			},
+			{
+				"slug": "where-does-yield-comes-from",
+				"path": "articles/marco-worms/",
+				"published": true,
+				"date": "2022-07-05",
+				"title": "Where does on-chain yield come from?",
+				"image": {
+					"src": "/_posts/_articles/marco-worms/where-does-yield-comes-from/cover.png",
+					"width": 800,
+					"height": 500
+				},
+				"author": "Marco_Worms",
+				"translator": null
+			},
+			{
+				"slug": "risk-at-yearn",
+				"path": "tweets/",
+				"published": true,
+				"date": "2022-06-29",
+				"title": "How yearn thinks about risk",
+				"image": {
+					"src": "/_posts/_tweets/risk-at-yearn/cover.jpg",
+					"width": 1000,
+					"height": 563
+				},
+				"author": "Storm Blessed",
+				"translator": null
+			},
+			{
+				"slug": "yearn-vault-tokens-as-collateral",
+				"path": "articles/marco-worms/",
+				"published": true,
+				"date": "2022-06-10",
+				"title": "Yearn Vault Tokens as collateral",
+				"image": {
+					"src": "/_posts/_articles/marco-worms/yearn-vault-tokens-as-collateral/cover.jpg",
+					"width": 900,
+					"height": 450
+				},
+				"author": "Marco Worms",
+				"translator": null
+			},
+			{
+				"slug": "building-during-bera",
+				"path": "articles/banteg/",
+				"published": true,
+				"date": "2022-06-01",
+				"title": "Building during bera",
+				"image": {
+					"src": "/_posts/_articles/banteg/building-during-bera/cover.jpg",
+					"width": 900,
+					"height": 608
+				},
+				"author": "banteg",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-62",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2022-05-23",
+				"title": "Yearn Finance Newsletter #62",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-62/cover.jpg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "yearn-wants-to-buy-your-YFI",
+				"path": "articles/yearn-finance/",
+				"published": true,
+				"date": "2022-05-17",
+				"title": "Yearn wants to buy your YFI",
+				"image": {
+					"src": "/_posts/_articles/yearn-finance/yearn-wants-to-buy-your-YFI/cover.jpg",
+					"width": 900,
+					"height": 450
+				},
+				"author": "Weaver",
+				"translator": null
+			},
+			{
+				"slug": "yearn-allowlist",
+				"path": "updates/",
+				"published": true,
+				"date": "2022-05-06",
+				"title": "Yearn Allowlist",
+				"image": {
+					"src": "/_posts/_updates/yearn-allowlist/image1.jpg",
+					"width": 770,
+					"height": 367
+				},
+				"author": "Weaver",
+				"translator": null
+			},
+			{
+				"slug": "hacking-with-yearn",
+				"path": "articles/farrahmay/",
+				"published": true,
+				"date": "2022-05-05",
+				"title": "Hacking with Yearn",
+				"image": {
+					"src": "/_posts/_articles/farrahmay/hacking-with-yearn/cover.jpg",
+					"width": 900,
+					"height": 450
+				},
+				"author": "Farrahmay",
+				"translator": null
+			},
+			{
+				"slug": "yearn-v3",
+				"path": "articles/marco-worms/",
+				"published": true,
+				"date": "2022-05-03",
+				"title": "Yearn Vaults v3",
+				"image": {
+					"src": "/_posts/_articles/marco-worms/yearn-v3/image1.jpg",
+					"width": 900,
+					"height": 429
+				},
+				"author": "Marco Worms",
+				"translator": null
+			},
+			{
+				"slug": "yearn-at-eth-amsterdam",
+				"path": "articles/farrahmay/",
+				"published": true,
+				"date": "2022-05-02",
+				"title": "Yearn at ETHAmsterdam: A Look Back",
+				"image": {
+					"src": "/_posts/_articles/farrahmay/yearn-at-eth-amsterdam/image1.jpg",
+					"width": 900,
+					"height": 450
+				},
+				"author": "Farrahmay",
+				"translator": null
+			},
+			{
+				"slug": "marcos-worm",
+				"path": "articles/people-of-yearn/",
+				"published": true,
+				"date": "2022-04-29",
+				"title": "People of Yearn : Marco Worms",
+				"image": {
+					"src": "/_posts/_articles/people-of-yearn/marcos-worm/cover.jpg",
+					"width": 350,
+					"height": 353
+				},
+				"author": "defiglenn",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-61",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2022-04-25",
+				"title": "Yearn Finance Newsletter #61",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-61/cover.jpg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "yearn-governance",
+				"path": "articles/marco-worms/",
+				"published": true,
+				"date": "2022-04-19",
+				"title": "Yearn governance explained: Proposals, $YFI token, and execution",
+				"image": {
+					"src": "/_posts/_articles/marco-worms/yearn-governance/image1.jpg",
+					"width": 900,
+					"height": 482
+				},
+				"author": "Marco_Worms",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-60",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2022-04-13",
+				"title": "Yearn Finance Newsletter #60",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-60/cover.jpg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "Jyhelper",
+				"path": "articles/people-of-yearn/",
+				"published": true,
+				"date": "2022-04-12",
+				"title": "People of Yearn : J | yhelper",
+				"image": {
+					"src": "/_posts/_articles/people-of-yearn/Jyhelper/cover.jpg",
+					"width": 314,
+					"height": 316
+				},
+				"author": "defiglenn",
+				"translator": null
+			},
+			{
+				"slug": "RestlessMik3",
+				"path": "articles/people-of-yearn/",
+				"published": true,
+				"date": "2022-04-12",
+				"title": "People of Yearn : RestlessMik3",
+				"image": {
+					"src": "/_posts/_articles/people-of-yearn/RestlessMik3/cover.jpg",
+					"width": 400,
+					"height": 294
+				},
+				"author": "defiglenn",
+				"translator": null
+			},
+			{
+				"slug": "ERC-4626s",
+				"path": "tweets/",
+				"published": true,
+				"date": "2022-04-07",
+				"title": "ERC-4626s: What is it?",
+				"image": {
+					"src": "/_posts/_tweets/ERC-4626s/image1.jpg",
+					"width": 1000,
+					"height": 528
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "Yearning-for-Yearn",
+				"path": "tweets/",
+				"published": true,
+				"date": "2022-04-07",
+				"title": "Yearning for Yearn",
+				"image": {
+					"src": "/_posts/_tweets/Yearning-for-Yearn/image1.jpg",
+					"width": 800,
+					"height": 450
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "corn",
+				"path": "articles/people-of-yearn/",
+				"published": true,
+				"date": "2022-04-07",
+				"title": "People of Yearn: Corn",
+				"image": {
+					"src": "/_posts/_articles/people-of-yearn/corn/cover.jpg",
+					"width": 400,
+					"height": 400
+				},
+				"author": "Defiglenn",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-59",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2022-04-06",
+				"title": "Yearn Finance Newsletter #59",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-59/cover.png",
+					"width": 1152,
+					"height": 576
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "self-hosting",
+				"path": "articles/marco-worms/",
+				"published": true,
+				"date": "2022-03-31",
+				"title": "Self-Hosting Web3 Services",
+				"image": {
+					"src": "/_posts/_articles/marco-worms/self-hosting/image1.jpg",
+					"width": 1400,
+					"height": 702
+				},
+				"author": "Marco_Worms",
+				"translator": null
+			},
+			{
+				"slug": "yearn-web-engineering-update-2022-03-14",
+				"path": "updates/web-team/",
+				"published": true,
+				"date": "2022-03-22",
+				"title": "Web Engineering Update: Mar. 14, 2022",
+				"image": {
+					"src": "/_posts/_updates/web-team/yearn-web-engineering-update-2022-03-14/logo.png",
+					"width": 1256,
+					"height": 1024
+				},
+				"author": "f0xTheSin",
+				"translator": null
+			},
+			{
+				"slug": "setup-notifications-tenderly",
+				"path": "articles/marco-worms/",
+				"published": true,
+				"date": "2022-03-18",
+				"title": "Setup notifications for blockchain transactions with Tenderly",
+				"image": {
+					"src": "/_posts/_articles/marco-worms/setup-notifications-tenderly/cover.jpg",
+					"width": 1200,
+					"height": 675
+				},
+				"author": "Marco_Worms",
+				"translator": null
+			},
+			{
+				"slug": "yearn-web-engineering-update-2022-03-07",
+				"path": "updates/web-team/",
+				"published": true,
+				"date": "2022-03-15",
+				"title": "Web Engineering Update: Mar. 07, 2022",
+				"image": {
+					"src": "/_posts/_updates/web-team/yearn-web-engineering-update-2022-03-07/logo.png",
+					"width": 1256,
+					"height": 1024
+				},
+				"author": "f0xTheSin",
+				"translator": null
+			},
+			{
+				"slug": "yearn-web-engineering-update-2022-02-28",
+				"path": "updates/web-team/",
+				"published": true,
+				"date": "2022-03-09",
+				"title": "Web Engineering Update: Feb. 28, 2022",
+				"image": {
+					"src": "/_posts/_updates/web-team/yearn-web-engineering-update-2022-02-28/logo.png",
+					"width": 1256,
+					"height": 1024
+				},
+				"author": "f0xTheSin",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-58",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2022-03-08",
+				"title": "Yearn Finance Newsletter #58",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-58/cover.jpg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "quarterly-report-2021-Q3",
+				"path": "financials/quarterly-report/",
+				"published": true,
+				"date": "2022-03-08",
+				"title": "Yearn Finance 2021 Q3 Quarterly Report",
+				"image": {
+					"src": "/_posts/_financials/quarterly-report/quarterly-report-2021-Q3/cover.jpg",
+					"width": 1500,
+					"height": 500
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "yearn-partners",
+				"path": "articles/marco-worms/",
+				"published": true,
+				"date": "2022-03-07",
+				"title": "Yearn Partners: Building with yVaults",
+				"image": {
+					"src": "/_posts/_articles/marco-worms/yearn-partners/cover.png",
+					"width": 1500,
+					"height": 729
+				},
+				"author": "Marco_Worms",
+				"translator": null
+			},
+			{
+				"slug": "tenderly",
+				"path": "articles/yearn-finance/",
+				"published": true,
+				"date": "2022-03-02",
+				"title": "Yearn Finance Partners with Tenderly to Supercharge Development, Debugging & Incident Analysis",
+				"image": {
+					"src": "/_posts/_articles/yearn-finance/tenderly/cover.jpg",
+					"width": 1280,
+					"height": 800
+				},
+				"author": "Weaver",
+				"translator": null
+			},
+			{
+				"slug": "clarifying-2020-mergers",
+				"path": "articles/yearn-finance/",
+				"published": true,
+				"date": "2022-02-25",
+				"title": "Clarifying 2020 Mergers; An Independent Iron Bank",
+				"image": {
+					"src": "/_posts/_articles/yearn-finance/clarifying-2020-mergers/cover.jpg",
+					"width": 1280,
+					"height": 800
+				},
+				"author": "Weaver",
+				"translator": null
+			},
+			{
+				"slug": "my-first-impressions-at-yearn",
+				"path": "articles/kish/",
+				"published": true,
+				"date": "2022-02-25",
+				"title": "My First Impressions of being a contributor at Yearn",
+				"image": {
+					"src": "/_posts/_articles/kish/my-first-impressions-at-yearn/cover.jpg",
+					"width": 1281,
+					"height": 721
+				},
+				"author": "Kish",
+				"translator": null
+			},
+			{
+				"slug": "yearn-web-engineering-update-2022-02-21",
+				"path": "updates/web-team/",
+				"published": true,
+				"date": "2022-02-24",
+				"title": "Web Engineering Update: Feb. 21, 2022",
+				"image": {
+					"src": "/_posts/_updates/web-team/yearn-web-engineering-update-2022-02-21/logo.png",
+					"width": 1256,
+					"height": 1024
+				},
+				"author": "f0xTheSin",
+				"translator": null
+			},
+			{
+				"slug": "how-to-contribute-to-daos",
+				"path": "articles/transcriptions/",
+				"published": true,
+				"date": "2022-02-18",
+				"title": "How to Contribute to DAOs",
+				"image": {
+					"src": "/_posts/_articles/transcriptions/how-to-contribute-to-daos/cover.jpg",
+					"width": 1024,
+					"height": 608
+				},
+				"author": "Tracheopteryx",
+				"translator": null
+			},
+			{
+				"slug": "diving-into-yearn-metrics",
+				"path": "articles/marco-worms/",
+				"published": true,
+				"date": "2022-02-17",
+				"title": "Diving into Yearn Metrics",
+				"image": {
+					"src": "/_posts/_articles/marco-worms/diving-into-yearn-metrics/image3.jpg",
+					"width": 1400,
+					"height": 625
+				},
+				"author": "Marco_Worms",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-57",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2022-02-15",
+				"title": "Yearn Finance Newsletter #57",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-57/cover.png",
+					"width": 1152,
+					"height": 576
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "how-yearn-calculates-estimated-returns",
+				"path": "articles/marco-worms/",
+				"published": true,
+				"date": "2022-02-14",
+				"title": "How Yearn calculates estimated returns (APY)",
+				"image": {
+					"src": "/_posts/_articles/marco-worms/how-yearn-calculates-estimated-returns/image1.jpg",
+					"width": 469,
+					"height": 246
+				},
+				"author": "Marco_Worms",
+				"translator": null
+			},
+			{
+				"slug": "yearn-web-engineering-update-2022-01-31",
+				"path": "updates/web-team/",
+				"published": true,
+				"date": "2022-02-04",
+				"title": "Web Engineering Update: Jan. 31, 2022",
+				"image": {
+					"src": "/_posts/_updates/web-team/yearn-web-engineering-update-2022-01-31/logo.png",
+					"width": 1256,
+					"height": 1024
+				},
+				"author": "f0xTheSin & dudesahn",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-56",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2022-02-02",
+				"title": "Yearn Finance Newsletter #56",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-56/cover.png",
+					"width": 1152,
+					"height": 576
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "how-new-yearn-vault-strategies-are-endorsed",
+				"path": "articles/marco-worms/",
+				"published": true,
+				"date": "2022-02-02",
+				"title": "How new Yearn Vault strategies are endorsed",
+				"image": {
+					"src": "/_posts/_articles/marco-worms/how-new-yearn-vault-strategies-are-endorsed/image1.jpg",
+					"width": 1280,
+					"height": 800
+				},
+				"author": "Marco_Worms",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-55",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2022-01-26",
+				"title": "Yearn Finance Newsletter #55",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-55/cover.png",
+					"width": 1152,
+					"height": 576
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-54",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2022-01-20",
+				"title": "Yearn Finance Newsletter #54",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-54/cover.png",
+					"width": 1152,
+					"height": 576
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "yearn-web-engineering-update-2022-01-17",
+				"path": "updates/web-team/",
+				"published": true,
+				"date": "2022-01-20",
+				"title": "Web Engineering Update: Jan. 7, 2022",
+				"image": {
+					"src": "/_posts/_updates/web-team/yearn-web-engineering-update-2022-01-17/logo.png",
+					"width": 1256,
+					"height": 1024
+				},
+				"author": "f0xTheSin",
+				"translator": null
+			},
+			{
+				"slug": "yearn-finance-explained-what-are-vaults-and-strategies",
+				"path": "articles/marco-worms/",
+				"published": true,
+				"date": "2022-01-18",
+				"title": "Yearn Finance explained: What are Vaults and Strategies?",
+				"image": {
+					"src": "/_posts/_articles/marco-worms/yearn-finance-explained-what-are-vaults-and-strategies/image3.jpg",
+					"width": 1024,
+					"height": 597
+				},
+				"author": "Marco_Worms",
+				"translator": null
+			},
+			{
+				"slug": "yearn-web-engineering-update-2022-01-10",
+				"path": "updates/web-team/",
+				"published": true,
+				"date": "2022-01-12",
+				"title": "Web Engineering Update: Jan. 10 2022",
+				"image": {
+					"src": "/_posts/_updates/web-team/yearn-web-engineering-update-2022-01-10/logo.png",
+					"width": 1256,
+					"height": 1024
+				},
+				"author": "f0xTheSin",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-53",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2022-01-11",
+				"title": "Yearn Finance Newsletter #53",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-53/cover.png",
+					"width": 1152,
+					"height": 576
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "yearn-web-engineering-update-2022-01-03",
+				"path": "updates/web-team/",
+				"published": true,
+				"date": "2022-01-05",
+				"title": "Web Engineering Update: Jan. 3, 2022",
+				"image": {
+					"src": "/_posts/_updates/web-team/yearn-web-engineering-update-2022-01-03/logo.png",
+					"width": 1256,
+					"height": 1024
+				},
+				"author": "Dudesahn",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-52",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2022-01-02",
+				"title": "Yearn Finance Newsletter #52",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-52/cover.jpeg",
+					"width": 1152,
+					"height": 576
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "podcasts-talks",
+				"path": "podcasts/",
+				"published": true,
+				"date": "2022-01-01",
+				"title": "List of Podcasts and Talks",
+				"image": {
+					"src": "/_posts/_podcasts/podcasts-talks/cover.jpeg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "why-is-yearn-finance-built-different",
+				"path": "tweets/",
+				"published": true,
+				"date": "2022-01-01",
+				"title": "Why is Yearn Finance Built Different?",
+				"image": {
+					"src": "/_posts/_tweets/why-is-yearn-finance-built-different/cover.jpg",
+					"width": 562,
+					"height": 651
+				},
+				"author": "Wot_Is_Goin_On",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-51",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2021-12-22",
+				"title": "Yearn Finance Newsletter #51",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-51/cover.jpeg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "what-can-you-do-in-a-DAO",
+				"path": "tweets/",
+				"published": true,
+				"date": "2021-12-21",
+				"title": "What can you do in a DAO?",
+				"image": {
+					"src": "/_posts/_tweets/what-can-you-do-in-a-DAO/cover.jpg",
+					"width": 1200,
+					"height": 1200
+				},
+				"author": "Tracheopteryx",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-50",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2021-12-05",
+				"title": "Yearn Finance Newsletter #50",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-50/cover.jpeg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "stealth-safe-guard-mev-protection-for-your-gnosis-safe",
+				"path": "updates/web-team/",
+				"published": true,
+				"date": "2021-11-16",
+				"title": "Stealth Safe Guard: MEV Protection for your Gnosis Safe",
+				"image": {
+					"src": "/_posts/_updates/web-team/stealth-safe-guard-mev-protection-for-your-gnosis-safe/cover.jpg",
+					"width": 1256,
+					"height": 1024
+				},
+				"author": "0x71B1",
+				"translator": null
+			},
+			{
+				"slug": "strategies-and-Yearn",
+				"path": "tweets/",
+				"published": true,
+				"date": "2021-11-15",
+				"title": "Strategies and Yearn",
+				"image": {
+					"src": "/_posts/_tweets/strategies-and-Yearn/image1.jpg",
+					"width": 900,
+					"height": 301
+				},
+				"author": "Flashfish",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-49",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2021-11-14",
+				"title": "Yearn Finance Newsletter #49",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-49/cover.jpeg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "deposit-together",
+				"path": "announcements/",
+				"published": true,
+				"date": "2021-11-01",
+				"title": "Deposit Together",
+				"image": {
+					"src": "/_posts/_announcements/deposit-together/cover.jpg",
+					"width": 576,
+					"height": 344
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-48",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2021-10-10",
+				"title": "Yearn Finance Newsletter #48",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-48/cover.jpeg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "what-is-yearn",
+				"path": "tweets/",
+				"published": true,
+				"date": "2021-10-09",
+				"title": "What is Yearn",
+				"author": "Wot_Is_Goin_On",
+				"translator": null
+			},
+			{
+				"slug": "transparency-summary",
+				"path": "tweets/",
+				"published": true,
+				"date": "2021-10-05",
+				"title": "Transparency Summary",
+				"image": {
+					"src": "/_posts/_tweets/transparency-summary/cover.jpg",
+					"width": 848,
+					"height": 847
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "updated-YFIstats-dashboards",
+				"path": "announcements/",
+				"published": true,
+				"date": "2021-09-30",
+				"title": "Update YFIStats Dashboards",
+				"image": {
+					"src": "/_posts/_announcements/updated-YFIstats-dashboards/cover.jpg",
+					"width": 576,
+					"height": 318
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-47",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2021-09-26",
+				"title": "Yearn Finance Newsletter #47",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-47/cover.jpeg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "yearn-ui-v3",
+				"path": "articles/yearn-finance/",
+				"published": true,
+				"date": "2021-09-17",
+				"title": "Yearn UI v3.0",
+				"image": {
+					"src": "/_posts/_articles/yearn-finance/yearn-ui-v3/cover.jpg",
+					"width": 800,
+					"height": 450
+				},
+				"author": "Dudesahn",
+				"translator": null
+			},
+			{
+				"slug": "yvboost",
+				"path": "articles/yearn-finance/",
+				"published": true,
+				"date": "2021-09-14",
+				"title": "More boosts, compounding, and mojitos for you with yvBOOST",
+				"image": {
+					"src": "/_posts/_articles/yearn-finance/yvboost/cover.jpg",
+					"width": 1050,
+					"height": 543
+				},
+				"author": "Qosmonot",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-46",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2021-09-12",
+				"title": "Yearn Finance Newsletter #46",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-46/cover.jpeg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "bowswap-finance",
+				"path": "tweets/",
+				"published": true,
+				"date": "2021-09-10",
+				"title": "Bowswap.Finance",
+				"image": {
+					"src": "/_posts/_tweets/bowswap-finance/cover.png",
+					"width": 1000,
+					"height": 571
+				},
+				"author": "Facu",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-45",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2021-09-07",
+				"title": "Yearn Finance Newsletter #45",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-45/cover.jpeg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "token-terminal",
+				"path": "announcements/",
+				"published": true,
+				"date": "2021-09-03",
+				"title": "Token Terminal",
+				"image": {
+					"src": "/_posts/_announcements/token-terminal/cover.jpg",
+					"width": 812,
+					"height": 247
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-44",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2021-09-02",
+				"title": "Yearn Finance Newsletter #44",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-44/cover.jpeg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "yearn-grant-atlantis-world",
+				"path": "tweets/",
+				"published": true,
+				"date": "2021-08-31",
+				"title": "Atlantis World Grant",
+				"image": {
+					"src": "/_posts/_tweets/yearn-grant-atlantis-world/cover.jpg",
+					"width": 1200,
+					"height": 1010
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "update-bowswap-finance",
+				"path": "announcements/",
+				"published": true,
+				"date": "2021-08-26",
+				"title": "Update Bowswap",
+				"image": {
+					"src": "/_posts/_announcements/update-bowswap-finance/cover.jpg",
+					"width": 680,
+					"height": 468
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "argent",
+				"path": "articles/",
+				"published": true,
+				"date": "2021-08-24",
+				"title": "Easily earn with Yearn V2 in Argent",
+				"image": {
+					"src": "/_posts/_articles/argent/cover.jpeg",
+					"width": 800,
+					"height": 419
+				},
+				"author": "Argent",
+				"translator": null
+			},
+			{
+				"slug": "liquidity-mining-rewards-v2",
+				"path": "articles/andre-cronje/",
+				"published": true,
+				"date": "2021-08-15",
+				"title": "Liquidity Mining Rewards v2",
+				"image": {
+					"src": "/_posts/_articles/andre-cronje/liquidity-mining-rewards-v2/andre-hero.jpg",
+					"width": 700,
+					"height": 300
+				},
+				"author": "Andre",
+				"translator": null
+			},
+			{
+				"slug": "risk-tooling-insight",
+				"path": "tweets/",
+				"published": true,
+				"date": "2021-08-12",
+				"title": "Risk, Tooling, & Insight",
+				"image": {
+					"src": "/_posts/_tweets/risk-tooling-insight/cover.jpg",
+					"width": 1500,
+					"height": 500
+				},
+				"author": "Storm Blessed",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-43",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2021-08-11",
+				"title": "Yearn Finance Newsletter #43",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-43/cover.jpeg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "legal-activism-DAO",
+				"path": "announcements/",
+				"published": true,
+				"date": "2021-08-03",
+				"title": "Proposal Fund Builder First Legal Activism ~~DAO~~",
+				"image": {
+					"src": "/_posts/_announcements/legal-activism-DAO/cover.jpg",
+					"width": 800,
+					"height": 450
+				},
+				"author": "LexPunk DAO",
+				"translator": null
+			},
+			{
+				"slug": "the-blue-pill-release",
+				"path": "announcements/",
+				"published": true,
+				"date": "2021-08-03",
+				"title": "Blue Pill Release",
+				"image": {
+					"src": "/_posts/_announcements/the-blue-pill-release/cover.jpg",
+					"width": 644,
+					"height": 800
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-42",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2021-08-03",
+				"title": "Yearn Finance Newsletter #42",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-42/cover.jpeg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "why-audits-are-bad",
+				"path": "articles/andre-cronje/",
+				"published": true,
+				"date": "2021-08-03",
+				"title": "Why audits are bad",
+				"image": {
+					"src": "/_posts/_articles/andre-cronje/why-audits-are-bad/andre-hero.jpg",
+					"width": 700,
+					"height": 300
+				},
+				"author": "Andre",
+				"translator": null
+			},
+			{
+				"slug": "the-blue-pill-ann",
+				"path": "announcements/",
+				"published": true,
+				"date": "2021-07-30",
+				"title": "The Blue Pill",
+				"image": {
+					"src": "/_posts/_announcements/the-blue-pill-ann/cover.jpg",
+					"width": 487,
+					"height": 622
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "yearn-synthetix-DAO-twitter-space",
+				"path": "announcements/",
+				"published": true,
+				"date": "2021-07-29",
+				"title": "Yearn & Synthetix DAO twitter space",
+				"image": {
+					"src": "/_posts/_announcements/yearn-synthetix-DAO-twitter-space/cover.jpg",
+					"width": 800,
+					"height": 445
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "bear-market-bullish-development",
+				"path": "tweets/",
+				"published": true,
+				"date": "2021-07-22",
+				"title": "Bear market, bullish development",
+				"image": {
+					"src": "/_posts/_tweets/bear-market-bullish-development/cover.jpeg",
+					"width": 1000,
+					"height": 563
+				},
+				"author": "Dudesahn",
+				"translator": null
+			},
+			{
+				"slug": "what-do-i-need-to-write-a-strategy",
+				"path": "announcements/",
+				"published": true,
+				"date": "2021-07-21",
+				"title": "What do I need to write a strategy?",
+				"image": {
+					"src": "/_posts/_announcements/what-do-i-need-to-write-a-strategy/cover.jpg",
+					"width": 786,
+					"height": 447
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "fair-launches-decentralized-collaboration-and-fixed-forex",
+				"path": "articles/andre-cronje/",
+				"published": true,
+				"date": "2021-07-21",
+				"title": "Fair launches, decentralized collaboration, and Fixed Forex",
+				"image": {
+					"src": "/_posts/_articles/andre-cronje/fair-launches-decentralized-collaboration-and-fixed-forex/andre-hero.jpg",
+					"width": 700,
+					"height": 300
+				},
+				"author": "Andre",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-41",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2021-07-20",
+				"title": "Yearn Finance Newsletter #41",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-41/cover.jpeg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "claim-from-old-ygov",
+				"path": "tweets/",
+				"published": true,
+				"date": "2021-07-10",
+				"title": "Claim from old yGov",
+				"image": {
+					"src": "/_posts/_tweets/claim-from-old-ygov/cover.jpg",
+					"width": 1783,
+					"height": 716
+				},
+				"author": "Dudesahn",
+				"translator": null
+			},
+			{
+				"slug": "introducing-fixed-forex",
+				"path": "articles/andre-cronje/",
+				"published": true,
+				"date": "2021-07-02",
+				"title": "Introducing Fixed Forex",
+				"image": {
+					"src": "/_posts/_articles/andre-cronje/introducing-fixed-forex/andre-hero.jpg",
+					"width": 700,
+					"height": 300
+				},
+				"author": "Andre",
+				"translator": null
+			},
+			{
+				"slug": "what-is-a-DAO",
+				"path": "tweets/",
+				"published": true,
+				"date": "2021-06-30",
+				"title": "What is a DAO",
+				"image": {
+					"src": "/_posts/_tweets/what-is-a-DAO/cover.jpg",
+					"width": 292,
+					"height": 455
+				},
+				"author": "Tracheopteryx",
+				"translator": null
+			},
+			{
+				"slug": "yearn-yield-function",
+				"path": "announcements/",
+				"published": true,
+				"date": "2021-06-13",
+				"title": "What if Yearn = the web's yield function?",
+				"image": {
+					"src": "/_posts/_announcements/yearn-yield-function/cover.jpg",
+					"width": 800,
+					"height": 451
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "seba",
+				"path": "articles/",
+				"published": true,
+				"date": "2021-06-02",
+				"title": "Yearn Finance - Decentralised Asset Management",
+				"image": {
+					"src": "/_posts/_articles/seba/cover.jpg",
+					"width": 1100,
+					"height": 736
+				},
+				"author": "The Digital Investor",
+				"translator": null
+			},
+			{
+				"slug": "the-blue-pill",
+				"path": "articles/",
+				"published": true,
+				"date": "2021-06-02",
+				"title": "The Blue Pill",
+				"image": {
+					"src": "/_posts/_articles/the-blue-pill/cover.jpg",
+					"width": 742,
+					"height": 450
+				},
+				"author": "Yearn"
+			},
+			{
+				"slug": "yearn-dai-vault",
+				"path": "articles/wot-is-goin-on/",
+				"published": true,
+				"date": "2021-06-01",
+				"title": "Yearn’s Dai Vault —did you know it’s now a top 20 DeFi protocol?",
+				"image": {
+					"src": "/_posts/_articles/wot-is-goin-on/yearn-dai-vault/cover.jpg",
+					"width": 1280,
+					"height": 800
+				},
+				"author": "Wot_Is_Goin_On",
+				"translator": null
+			},
+			{
+				"slug": "the-blue-pill",
+				"path": "articles/yearn-finance/",
+				"published": true,
+				"date": "2021-06-01",
+				"title": "The Blue Pill",
+				"image": {
+					"src": "/_posts/_articles/yearn-finance/the-blue-pill/cover.jpg",
+					"width": 711,
+					"height": 474
+				},
+				"author": "Weaver",
+				"translator": null
+			},
+			{
+				"slug": "zero-knowledge-podcast",
+				"path": "announcements/",
+				"published": true,
+				"date": "2021-05-05",
+				"title": "Zero Knowledge Podcast",
+				"image": {
+					"src": "/_posts/_announcements/zero-knowledge-podcast/cover.jpg",
+					"width": 576,
+					"height": 320
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "what-can-you-do-with-yfi",
+				"path": "articles/forum/",
+				"published": true,
+				"date": "2021-05-05",
+				"title": "What can you do with YFI?",
+				"image": {
+					"src": "/_posts/_articles/forum/what-can-you-do-with-yfi/cover.png",
+					"width": 768,
+					"height": 429
+				},
+				"author": "Dark Ghosty",
+				"translator": null
+			},
+			{
+				"slug": "can-yearn-disrupt",
+				"path": "articles/wot-is-goin-on/",
+				"published": true,
+				"date": "2021-04-07",
+				"title": "Can Yearn disrupt the $110 trillion asset management industry?",
+				"image": {
+					"src": "/_posts/_articles/wot-is-goin-on/can-yearn-disrupt/cover.jpg",
+					"width": 1280,
+					"height": 800
+				},
+				"author": "Wot_Is_Goin_On",
+				"translator": null
+			},
+			{
+				"slug": "decentralized-payroll-management-for-daos",
+				"path": "articles/andre-cronje/",
+				"published": true,
+				"date": "2021-03-31",
+				"title": "Decentralized payroll management for DAOs",
+				"image": {
+					"src": "/_posts/_articles/andre-cronje/decentralized-payroll-management-for-daos/andre-hero.jpg",
+					"width": 700,
+					"height": 300
+				},
+				"author": "Andre",
+				"translator": null
+			},
+			{
+				"slug": "gemini",
+				"path": "articles/",
+				"published": true,
+				"date": "2021-03-25",
+				"title": "Yearn Finance and Money Robots",
+				"image": {
+					"src": "/_posts/_articles/gemini/cover.png",
+					"width": 1281,
+					"height": 721
+				},
+				"author": "Gemini/Cryptopedia",
+				"translator": null
+			},
+			{
+				"slug": "2021-Q2",
+				"path": "financials/quarterly-report/",
+				"published": true,
+				"date": "2020-12-14",
+				"title": "Yearn Finance 2021 Q2 Quarterly Report",
+				"image": {
+					"src": "/_posts/_financials/quarterly-report/2021-Q2/cover.jpg",
+					"width": 1500,
+					"height": 500
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "how-we-think-about-yearn",
+				"path": "articles/forum/",
+				"published": true,
+				"date": "2020-10-20",
+				"title": "How we think about Yearn",
+				"image": {
+					"src": "/_posts/_articles/forum/how-we-think-about-yearn/cover.jpeg",
+					"width": 690,
+					"height": 472
+				},
+				"author": "Yearn DAO Contributors",
+				"translator": null
+			}
+		],
+		"col1": [
+			{
+				"slug": "hackathon",
+				"path": "articles/draper/",
+				"published": true,
+				"date": "2022-08-27",
+				"title": "Yearn x ETHOnline Hackathon",
+				"image": {
+					"src": "/_posts/_articles/draper/hackathon/cover.jpg",
+					"width": 900,
+					"height": 300
+				},
+				"author": "draper",
+				"translator": null
+			},
+			{
+				"slug": "justin-trudeau",
+				"path": "articles/draper/",
+				"published": true,
+				"date": "2022-07-25",
+				"title": "How Justin Trudeau helped create the latest Yearn Campaign",
+				"image": {
+					"src": "/_posts/_articles/draper/justin-trudeau/cover.jpg",
+					"width": 800,
+					"height": 400
+				},
+				"author": "Draper",
+				"translator": null
+			},
+			{
+				"slug": "yearn-vault-tokens-as-collateral",
+				"path": "articles/marco-worms/",
+				"published": true,
+				"date": "2022-06-10",
+				"title": "Yearn Vault Tokens as collateral",
+				"image": {
+					"src": "/_posts/_articles/marco-worms/yearn-vault-tokens-as-collateral/cover.jpg",
+					"width": 900,
+					"height": 450
+				},
+				"author": "Marco Worms",
+				"translator": null
+			},
+			{
+				"slug": "yearn-wants-to-buy-your-YFI",
+				"path": "articles/yearn-finance/",
+				"published": true,
+				"date": "2022-05-17",
+				"title": "Yearn wants to buy your YFI",
+				"image": {
+					"src": "/_posts/_articles/yearn-finance/yearn-wants-to-buy-your-YFI/cover.jpg",
+					"width": 900,
+					"height": 450
+				},
+				"author": "Weaver",
+				"translator": null
+			},
+			{
+				"slug": "yearn-v3",
+				"path": "articles/marco-worms/",
+				"published": true,
+				"date": "2022-05-03",
+				"title": "Yearn Vaults v3",
+				"image": {
+					"src": "/_posts/_articles/marco-worms/yearn-v3/image1.jpg",
+					"width": 900,
+					"height": 429
+				},
+				"author": "Marco Worms",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-61",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2022-04-25",
+				"title": "Yearn Finance Newsletter #61",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-61/cover.jpg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "Jyhelper",
+				"path": "articles/people-of-yearn/",
+				"published": true,
+				"date": "2022-04-12",
+				"title": "People of Yearn : J | yhelper",
+				"image": {
+					"src": "/_posts/_articles/people-of-yearn/Jyhelper/cover.jpg",
+					"width": 314,
+					"height": 316
+				},
+				"author": "defiglenn",
+				"translator": null
+			},
+			{
+				"slug": "Yearning-for-Yearn",
+				"path": "tweets/",
+				"published": true,
+				"date": "2022-04-07",
+				"title": "Yearning for Yearn",
+				"image": {
+					"src": "/_posts/_tweets/Yearning-for-Yearn/image1.jpg",
+					"width": 800,
+					"height": 450
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "self-hosting",
+				"path": "articles/marco-worms/",
+				"published": true,
+				"date": "2022-03-31",
+				"title": "Self-Hosting Web3 Services",
+				"image": {
+					"src": "/_posts/_articles/marco-worms/self-hosting/image1.jpg",
+					"width": 1400,
+					"height": 702
+				},
+				"author": "Marco_Worms",
+				"translator": null
+			},
+			{
+				"slug": "yearn-web-engineering-update-2022-03-07",
+				"path": "updates/web-team/",
+				"published": true,
+				"date": "2022-03-15",
+				"title": "Web Engineering Update: Mar. 07, 2022",
+				"image": {
+					"src": "/_posts/_updates/web-team/yearn-web-engineering-update-2022-03-07/logo.png",
+					"width": 1256,
+					"height": 1024
+				},
+				"author": "f0xTheSin",
+				"translator": null
+			},
+			{
+				"slug": "quarterly-report-2021-Q3",
+				"path": "financials/quarterly-report/",
+				"published": true,
+				"date": "2022-03-08",
+				"title": "Yearn Finance 2021 Q3 Quarterly Report",
+				"image": {
+					"src": "/_posts/_financials/quarterly-report/quarterly-report-2021-Q3/cover.jpg",
+					"width": 1500,
+					"height": 500
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "clarifying-2020-mergers",
+				"path": "articles/yearn-finance/",
+				"published": true,
+				"date": "2022-02-25",
+				"title": "Clarifying 2020 Mergers; An Independent Iron Bank",
+				"image": {
+					"src": "/_posts/_articles/yearn-finance/clarifying-2020-mergers/cover.jpg",
+					"width": 1280,
+					"height": 800
+				},
+				"author": "Weaver",
+				"translator": null
+			},
+			{
+				"slug": "how-to-contribute-to-daos",
+				"path": "articles/transcriptions/",
+				"published": true,
+				"date": "2022-02-18",
+				"title": "How to Contribute to DAOs",
+				"image": {
+					"src": "/_posts/_articles/transcriptions/how-to-contribute-to-daos/cover.jpg",
+					"width": 1024,
+					"height": 608
+				},
+				"author": "Tracheopteryx",
+				"translator": null
+			},
+			{
+				"slug": "how-yearn-calculates-estimated-returns",
+				"path": "articles/marco-worms/",
+				"published": true,
+				"date": "2022-02-14",
+				"title": "How Yearn calculates estimated returns (APY)",
+				"image": {
+					"src": "/_posts/_articles/marco-worms/how-yearn-calculates-estimated-returns/image1.jpg",
+					"width": 469,
+					"height": 246
+				},
+				"author": "Marco_Worms",
+				"translator": null
+			},
+			{
+				"slug": "how-new-yearn-vault-strategies-are-endorsed",
+				"path": "articles/marco-worms/",
+				"published": true,
+				"date": "2022-02-02",
+				"title": "How new Yearn Vault strategies are endorsed",
+				"image": {
+					"src": "/_posts/_articles/marco-worms/how-new-yearn-vault-strategies-are-endorsed/image1.jpg",
+					"width": 1280,
+					"height": 800
+				},
+				"author": "Marco_Worms",
+				"translator": null
+			},
+			{
+				"slug": "yearn-web-engineering-update-2022-01-17",
+				"path": "updates/web-team/",
+				"published": true,
+				"date": "2022-01-20",
+				"title": "Web Engineering Update: Jan. 7, 2022",
+				"image": {
+					"src": "/_posts/_updates/web-team/yearn-web-engineering-update-2022-01-17/logo.png",
+					"width": 1256,
+					"height": 1024
+				},
+				"author": "f0xTheSin",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-53",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2022-01-11",
+				"title": "Yearn Finance Newsletter #53",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-53/cover.png",
+					"width": 1152,
+					"height": 576
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "podcasts-talks",
+				"path": "podcasts/",
+				"published": true,
+				"date": "2022-01-01",
+				"title": "List of Podcasts and Talks",
+				"image": {
+					"src": "/_posts/_podcasts/podcasts-talks/cover.jpeg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "what-can-you-do-in-a-DAO",
+				"path": "tweets/",
+				"published": true,
+				"date": "2021-12-21",
+				"title": "What can you do in a DAO?",
+				"image": {
+					"src": "/_posts/_tweets/what-can-you-do-in-a-DAO/cover.jpg",
+					"width": 1200,
+					"height": 1200
+				},
+				"author": "Tracheopteryx",
+				"translator": null
+			},
+			{
+				"slug": "strategies-and-Yearn",
+				"path": "tweets/",
+				"published": true,
+				"date": "2021-11-15",
+				"title": "Strategies and Yearn",
+				"image": {
+					"src": "/_posts/_tweets/strategies-and-Yearn/image1.jpg",
+					"width": 900,
+					"height": 301
+				},
+				"author": "Flashfish",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-48",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2021-10-10",
+				"title": "Yearn Finance Newsletter #48",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-48/cover.jpeg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "updated-YFIstats-dashboards",
+				"path": "announcements/",
+				"published": true,
+				"date": "2021-09-30",
+				"title": "Update YFIStats Dashboards",
+				"image": {
+					"src": "/_posts/_announcements/updated-YFIstats-dashboards/cover.jpg",
+					"width": 576,
+					"height": 318
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "yvboost",
+				"path": "articles/yearn-finance/",
+				"published": true,
+				"date": "2021-09-14",
+				"title": "More boosts, compounding, and mojitos for you with yvBOOST",
+				"image": {
+					"src": "/_posts/_articles/yearn-finance/yvboost/cover.jpg",
+					"width": 1050,
+					"height": 543
+				},
+				"author": "Qosmonot",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-45",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2021-09-07",
+				"title": "Yearn Finance Newsletter #45",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-45/cover.jpeg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "yearn-grant-atlantis-world",
+				"path": "tweets/",
+				"published": true,
+				"date": "2021-08-31",
+				"title": "Atlantis World Grant",
+				"image": {
+					"src": "/_posts/_tweets/yearn-grant-atlantis-world/cover.jpg",
+					"width": 1200,
+					"height": 1010
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "liquidity-mining-rewards-v2",
+				"path": "articles/andre-cronje/",
+				"published": true,
+				"date": "2021-08-15",
+				"title": "Liquidity Mining Rewards v2",
+				"image": {
+					"src": "/_posts/_articles/andre-cronje/liquidity-mining-rewards-v2/andre-hero.jpg",
+					"width": 700,
+					"height": 300
+				},
+				"author": "Andre",
+				"translator": null
+			},
+			{
+				"slug": "legal-activism-DAO",
+				"path": "announcements/",
+				"published": true,
+				"date": "2021-08-03",
+				"title": "Proposal Fund Builder First Legal Activism ~~DAO~~",
+				"image": {
+					"src": "/_posts/_announcements/legal-activism-DAO/cover.jpg",
+					"width": 800,
+					"height": 450
+				},
+				"author": "LexPunk DAO",
+				"translator": null
+			},
+			{
+				"slug": "why-audits-are-bad",
+				"path": "articles/andre-cronje/",
+				"published": true,
+				"date": "2021-08-03",
+				"title": "Why audits are bad",
+				"image": {
+					"src": "/_posts/_articles/andre-cronje/why-audits-are-bad/andre-hero.jpg",
+					"width": 700,
+					"height": 300
+				},
+				"author": "Andre",
+				"translator": null
+			},
+			{
+				"slug": "bear-market-bullish-development",
+				"path": "tweets/",
+				"published": true,
+				"date": "2021-07-22",
+				"title": "Bear market, bullish development",
+				"image": {
+					"src": "/_posts/_tweets/bear-market-bullish-development/cover.jpeg",
+					"width": 1000,
+					"height": 563
+				},
+				"author": "Dudesahn",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-41",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2021-07-20",
+				"title": "Yearn Finance Newsletter #41",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-41/cover.jpeg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "what-is-a-DAO",
+				"path": "tweets/",
+				"published": true,
+				"date": "2021-06-30",
+				"title": "What is a DAO",
+				"image": {
+					"src": "/_posts/_tweets/what-is-a-DAO/cover.jpg",
+					"width": 292,
+					"height": 455
+				},
+				"author": "Tracheopteryx",
+				"translator": null
+			},
+			{
+				"slug": "the-blue-pill",
+				"path": "articles/",
+				"published": true,
+				"date": "2021-06-02",
+				"title": "The Blue Pill",
+				"image": {
+					"src": "/_posts/_articles/the-blue-pill/cover.jpg",
+					"width": 742,
+					"height": 450
+				},
+				"author": "Yearn"
+			},
+			{
+				"slug": "zero-knowledge-podcast",
+				"path": "announcements/",
+				"published": true,
+				"date": "2021-05-05",
+				"title": "Zero Knowledge Podcast",
+				"image": {
+					"src": "/_posts/_announcements/zero-knowledge-podcast/cover.jpg",
+					"width": 576,
+					"height": 320
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "decentralized-payroll-management-for-daos",
+				"path": "articles/andre-cronje/",
+				"published": true,
+				"date": "2021-03-31",
+				"title": "Decentralized payroll management for DAOs",
+				"image": {
+					"src": "/_posts/_articles/andre-cronje/decentralized-payroll-management-for-daos/andre-hero.jpg",
+					"width": 700,
+					"height": 300
+				},
+				"author": "Andre",
+				"translator": null
+			},
+			{
+				"slug": "how-we-think-about-yearn",
+				"path": "articles/forum/",
+				"published": true,
+				"date": "2020-10-20",
+				"title": "How we think about Yearn",
+				"image": {
+					"src": "/_posts/_articles/forum/how-we-think-about-yearn/cover.jpeg",
+					"width": 690,
+					"height": 472
+				},
+				"author": "Yearn DAO Contributors",
+				"translator": null
+			}
+		],
+		"col2": [
+			{
+				"slug": "rebranding-yearn",
+				"path": "articles/draper/",
+				"published": true,
+				"date": "2022-08-17",
+				"title": "Rebranding Yearn, consistency from chaos",
+				"image": {
+					"src": "/_posts/_articles/draper/rebranding-yearn/cover.jpg",
+					"width": 900,
+					"height": 232
+				},
+				"author": "draper",
+				"translator": null
+			},
+			{
+				"slug": "where-does-yield-comes-from",
+				"path": "articles/marco-worms/",
+				"published": true,
+				"date": "2022-07-05",
+				"title": "Where does on-chain yield come from?",
+				"image": {
+					"src": "/_posts/_articles/marco-worms/where-does-yield-comes-from/cover.png",
+					"width": 800,
+					"height": 500
+				},
+				"author": "Marco_Worms",
+				"translator": null
+			},
+			{
+				"slug": "building-during-bera",
+				"path": "articles/banteg/",
+				"published": true,
+				"date": "2022-06-01",
+				"title": "Building during bera",
+				"image": {
+					"src": "/_posts/_articles/banteg/building-during-bera/cover.jpg",
+					"width": 900,
+					"height": 608
+				},
+				"author": "banteg",
+				"translator": null
+			},
+			{
+				"slug": "yearn-allowlist",
+				"path": "updates/",
+				"published": true,
+				"date": "2022-05-06",
+				"title": "Yearn Allowlist",
+				"image": {
+					"src": "/_posts/_updates/yearn-allowlist/image1.jpg",
+					"width": 770,
+					"height": 367
+				},
+				"author": "Weaver",
+				"translator": null
+			},
+			{
+				"slug": "yearn-at-eth-amsterdam",
+				"path": "articles/farrahmay/",
+				"published": true,
+				"date": "2022-05-02",
+				"title": "Yearn at ETHAmsterdam: A Look Back",
+				"image": {
+					"src": "/_posts/_articles/farrahmay/yearn-at-eth-amsterdam/image1.jpg",
+					"width": 900,
+					"height": 450
+				},
+				"author": "Farrahmay",
+				"translator": null
+			},
+			{
+				"slug": "yearn-governance",
+				"path": "articles/marco-worms/",
+				"published": true,
+				"date": "2022-04-19",
+				"title": "Yearn governance explained: Proposals, $YFI token, and execution",
+				"image": {
+					"src": "/_posts/_articles/marco-worms/yearn-governance/image1.jpg",
+					"width": 900,
+					"height": 482
+				},
+				"author": "Marco_Worms",
+				"translator": null
+			},
+			{
+				"slug": "RestlessMik3",
+				"path": "articles/people-of-yearn/",
+				"published": true,
+				"date": "2022-04-12",
+				"title": "People of Yearn : RestlessMik3",
+				"image": {
+					"src": "/_posts/_articles/people-of-yearn/RestlessMik3/cover.jpg",
+					"width": 400,
+					"height": 294
+				},
+				"author": "defiglenn",
+				"translator": null
+			},
+			{
+				"slug": "corn",
+				"path": "articles/people-of-yearn/",
+				"published": true,
+				"date": "2022-04-07",
+				"title": "People of Yearn: Corn",
+				"image": {
+					"src": "/_posts/_articles/people-of-yearn/corn/cover.jpg",
+					"width": 400,
+					"height": 400
+				},
+				"author": "Defiglenn",
+				"translator": null
+			},
+			{
+				"slug": "yearn-web-engineering-update-2022-03-14",
+				"path": "updates/web-team/",
+				"published": true,
+				"date": "2022-03-22",
+				"title": "Web Engineering Update: Mar. 14, 2022",
+				"image": {
+					"src": "/_posts/_updates/web-team/yearn-web-engineering-update-2022-03-14/logo.png",
+					"width": 1256,
+					"height": 1024
+				},
+				"author": "f0xTheSin",
+				"translator": null
+			},
+			{
+				"slug": "yearn-web-engineering-update-2022-02-28",
+				"path": "updates/web-team/",
+				"published": true,
+				"date": "2022-03-09",
+				"title": "Web Engineering Update: Feb. 28, 2022",
+				"image": {
+					"src": "/_posts/_updates/web-team/yearn-web-engineering-update-2022-02-28/logo.png",
+					"width": 1256,
+					"height": 1024
+				},
+				"author": "f0xTheSin",
+				"translator": null
+			},
+			{
+				"slug": "yearn-partners",
+				"path": "articles/marco-worms/",
+				"published": true,
+				"date": "2022-03-07",
+				"title": "Yearn Partners: Building with yVaults",
+				"image": {
+					"src": "/_posts/_articles/marco-worms/yearn-partners/cover.png",
+					"width": 1500,
+					"height": 729
+				},
+				"author": "Marco_Worms",
+				"translator": null
+			},
+			{
+				"slug": "my-first-impressions-at-yearn",
+				"path": "articles/kish/",
+				"published": true,
+				"date": "2022-02-25",
+				"title": "My First Impressions of being a contributor at Yearn",
+				"image": {
+					"src": "/_posts/_articles/kish/my-first-impressions-at-yearn/cover.jpg",
+					"width": 1281,
+					"height": 721
+				},
+				"author": "Kish",
+				"translator": null
+			},
+			{
+				"slug": "diving-into-yearn-metrics",
+				"path": "articles/marco-worms/",
+				"published": true,
+				"date": "2022-02-17",
+				"title": "Diving into Yearn Metrics",
+				"image": {
+					"src": "/_posts/_articles/marco-worms/diving-into-yearn-metrics/image3.jpg",
+					"width": 1400,
+					"height": 625
+				},
+				"author": "Marco_Worms",
+				"translator": null
+			},
+			{
+				"slug": "yearn-web-engineering-update-2022-01-31",
+				"path": "updates/web-team/",
+				"published": true,
+				"date": "2022-02-04",
+				"title": "Web Engineering Update: Jan. 31, 2022",
+				"image": {
+					"src": "/_posts/_updates/web-team/yearn-web-engineering-update-2022-01-31/logo.png",
+					"width": 1256,
+					"height": 1024
+				},
+				"author": "f0xTheSin & dudesahn",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-55",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2022-01-26",
+				"title": "Yearn Finance Newsletter #55",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-55/cover.png",
+					"width": 1152,
+					"height": 576
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "yearn-finance-explained-what-are-vaults-and-strategies",
+				"path": "articles/marco-worms/",
+				"published": true,
+				"date": "2022-01-18",
+				"title": "Yearn Finance explained: What are Vaults and Strategies?",
+				"image": {
+					"src": "/_posts/_articles/marco-worms/yearn-finance-explained-what-are-vaults-and-strategies/image3.jpg",
+					"width": 1024,
+					"height": 597
+				},
+				"author": "Marco_Worms",
+				"translator": null
+			},
+			{
+				"slug": "yearn-web-engineering-update-2022-01-03",
+				"path": "updates/web-team/",
+				"published": true,
+				"date": "2022-01-05",
+				"title": "Web Engineering Update: Jan. 3, 2022",
+				"image": {
+					"src": "/_posts/_updates/web-team/yearn-web-engineering-update-2022-01-03/logo.png",
+					"width": 1256,
+					"height": 1024
+				},
+				"author": "Dudesahn",
+				"translator": null
+			},
+			{
+				"slug": "why-is-yearn-finance-built-different",
+				"path": "tweets/",
+				"published": true,
+				"date": "2022-01-01",
+				"title": "Why is Yearn Finance Built Different?",
+				"image": {
+					"src": "/_posts/_tweets/why-is-yearn-finance-built-different/cover.jpg",
+					"width": 562,
+					"height": 651
+				},
+				"author": "Wot_Is_Goin_On",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-50",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2021-12-05",
+				"title": "Yearn Finance Newsletter #50",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-50/cover.jpeg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-49",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2021-11-14",
+				"title": "Yearn Finance Newsletter #49",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-49/cover.jpeg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "what-is-yearn",
+				"path": "tweets/",
+				"published": true,
+				"date": "2021-10-09",
+				"title": "What is Yearn",
+				"author": "Wot_Is_Goin_On",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-47",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2021-09-26",
+				"title": "Yearn Finance Newsletter #47",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-47/cover.jpeg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-46",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2021-09-12",
+				"title": "Yearn Finance Newsletter #46",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-46/cover.jpeg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "token-terminal",
+				"path": "announcements/",
+				"published": true,
+				"date": "2021-09-03",
+				"title": "Token Terminal",
+				"image": {
+					"src": "/_posts/_announcements/token-terminal/cover.jpg",
+					"width": 812,
+					"height": 247
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "update-bowswap-finance",
+				"path": "announcements/",
+				"published": true,
+				"date": "2021-08-26",
+				"title": "Update Bowswap",
+				"image": {
+					"src": "/_posts/_announcements/update-bowswap-finance/cover.jpg",
+					"width": 680,
+					"height": 468
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "risk-tooling-insight",
+				"path": "tweets/",
+				"published": true,
+				"date": "2021-08-12",
+				"title": "Risk, Tooling, & Insight",
+				"image": {
+					"src": "/_posts/_tweets/risk-tooling-insight/cover.jpg",
+					"width": 1500,
+					"height": 500
+				},
+				"author": "Storm Blessed",
+				"translator": null
+			},
+			{
+				"slug": "the-blue-pill-release",
+				"path": "announcements/",
+				"published": true,
+				"date": "2021-08-03",
+				"title": "Blue Pill Release",
+				"image": {
+					"src": "/_posts/_announcements/the-blue-pill-release/cover.jpg",
+					"width": 644,
+					"height": 800
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "the-blue-pill-ann",
+				"path": "announcements/",
+				"published": true,
+				"date": "2021-07-30",
+				"title": "The Blue Pill",
+				"image": {
+					"src": "/_posts/_announcements/the-blue-pill-ann/cover.jpg",
+					"width": 487,
+					"height": 622
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "what-do-i-need-to-write-a-strategy",
+				"path": "announcements/",
+				"published": true,
+				"date": "2021-07-21",
+				"title": "What do I need to write a strategy?",
+				"image": {
+					"src": "/_posts/_announcements/what-do-i-need-to-write-a-strategy/cover.jpg",
+					"width": 786,
+					"height": 447
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "claim-from-old-ygov",
+				"path": "tweets/",
+				"published": true,
+				"date": "2021-07-10",
+				"title": "Claim from old yGov",
+				"image": {
+					"src": "/_posts/_tweets/claim-from-old-ygov/cover.jpg",
+					"width": 1783,
+					"height": 716
+				},
+				"author": "Dudesahn",
+				"translator": null
+			},
+			{
+				"slug": "yearn-yield-function",
+				"path": "announcements/",
+				"published": true,
+				"date": "2021-06-13",
+				"title": "What if Yearn = the web's yield function?",
+				"image": {
+					"src": "/_posts/_announcements/yearn-yield-function/cover.jpg",
+					"width": 800,
+					"height": 451
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "yearn-dai-vault",
+				"path": "articles/wot-is-goin-on/",
+				"published": true,
+				"date": "2021-06-01",
+				"title": "Yearn’s Dai Vault —did you know it’s now a top 20 DeFi protocol?",
+				"image": {
+					"src": "/_posts/_articles/wot-is-goin-on/yearn-dai-vault/cover.jpg",
+					"width": 1280,
+					"height": 800
+				},
+				"author": "Wot_Is_Goin_On",
+				"translator": null
+			},
+			{
+				"slug": "what-can-you-do-with-yfi",
+				"path": "articles/forum/",
+				"published": true,
+				"date": "2021-05-05",
+				"title": "What can you do with YFI?",
+				"image": {
+					"src": "/_posts/_articles/forum/what-can-you-do-with-yfi/cover.png",
+					"width": 768,
+					"height": 429
+				},
+				"author": "Dark Ghosty",
+				"translator": null
+			},
+			{
+				"slug": "gemini",
+				"path": "articles/",
+				"published": true,
+				"date": "2021-03-25",
+				"title": "Yearn Finance and Money Robots",
+				"image": {
+					"src": "/_posts/_articles/gemini/cover.png",
+					"width": 1281,
+					"height": 721
+				},
+				"author": "Gemini/Cryptopedia",
+				"translator": null
+			},
+			{}
+		],
+		"col3": [
+			{
+				"slug": "subgraph-explained",
+				"path": "articles/marco-worms/",
+				"published": true,
+				"date": "2022-08-04",
+				"title": "Subgraphs explained: Yearning for data",
+				"image": {
+					"src": "/_posts/_articles/marco-worms/subgraph-explained/cover.jpg",
+					"width": 900,
+					"height": 406
+				},
+				"author": "Marco_Worms",
+				"translator": null
+			},
+			{
+				"slug": "risk-at-yearn",
+				"path": "tweets/",
+				"published": true,
+				"date": "2022-06-29",
+				"title": "How yearn thinks about risk",
+				"image": {
+					"src": "/_posts/_tweets/risk-at-yearn/cover.jpg",
+					"width": 1000,
+					"height": 563
+				},
+				"author": "Storm Blessed",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-62",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2022-05-23",
+				"title": "Yearn Finance Newsletter #62",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-62/cover.jpg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "hacking-with-yearn",
+				"path": "articles/farrahmay/",
+				"published": true,
+				"date": "2022-05-05",
+				"title": "Hacking with Yearn",
+				"image": {
+					"src": "/_posts/_articles/farrahmay/hacking-with-yearn/cover.jpg",
+					"width": 900,
+					"height": 450
+				},
+				"author": "Farrahmay",
+				"translator": null
+			},
+			{
+				"slug": "marcos-worm",
+				"path": "articles/people-of-yearn/",
+				"published": true,
+				"date": "2022-04-29",
+				"title": "People of Yearn : Marco Worms",
+				"image": {
+					"src": "/_posts/_articles/people-of-yearn/marcos-worm/cover.jpg",
+					"width": 350,
+					"height": 353
+				},
+				"author": "defiglenn",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-60",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2022-04-13",
+				"title": "Yearn Finance Newsletter #60",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-60/cover.jpg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "ERC-4626s",
+				"path": "tweets/",
+				"published": true,
+				"date": "2022-04-07",
+				"title": "ERC-4626s: What is it?",
+				"image": {
+					"src": "/_posts/_tweets/ERC-4626s/image1.jpg",
+					"width": 1000,
+					"height": 528
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-59",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2022-04-06",
+				"title": "Yearn Finance Newsletter #59",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-59/cover.png",
+					"width": 1152,
+					"height": 576
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "setup-notifications-tenderly",
+				"path": "articles/marco-worms/",
+				"published": true,
+				"date": "2022-03-18",
+				"title": "Setup notifications for blockchain transactions with Tenderly",
+				"image": {
+					"src": "/_posts/_articles/marco-worms/setup-notifications-tenderly/cover.jpg",
+					"width": 1200,
+					"height": 675
+				},
+				"author": "Marco_Worms",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-58",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2022-03-08",
+				"title": "Yearn Finance Newsletter #58",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-58/cover.jpg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "tenderly",
+				"path": "articles/yearn-finance/",
+				"published": true,
+				"date": "2022-03-02",
+				"title": "Yearn Finance Partners with Tenderly to Supercharge Development, Debugging & Incident Analysis",
+				"image": {
+					"src": "/_posts/_articles/yearn-finance/tenderly/cover.jpg",
+					"width": 1280,
+					"height": 800
+				},
+				"author": "Weaver",
+				"translator": null
+			},
+			{
+				"slug": "yearn-web-engineering-update-2022-02-21",
+				"path": "updates/web-team/",
+				"published": true,
+				"date": "2022-02-24",
+				"title": "Web Engineering Update: Feb. 21, 2022",
+				"image": {
+					"src": "/_posts/_updates/web-team/yearn-web-engineering-update-2022-02-21/logo.png",
+					"width": 1256,
+					"height": 1024
+				},
+				"author": "f0xTheSin",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-57",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2022-02-15",
+				"title": "Yearn Finance Newsletter #57",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-57/cover.png",
+					"width": 1152,
+					"height": 576
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-56",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2022-02-02",
+				"title": "Yearn Finance Newsletter #56",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-56/cover.png",
+					"width": 1152,
+					"height": 576
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-54",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2022-01-20",
+				"title": "Yearn Finance Newsletter #54",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-54/cover.png",
+					"width": 1152,
+					"height": 576
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "yearn-web-engineering-update-2022-01-10",
+				"path": "updates/web-team/",
+				"published": true,
+				"date": "2022-01-12",
+				"title": "Web Engineering Update: Jan. 10 2022",
+				"image": {
+					"src": "/_posts/_updates/web-team/yearn-web-engineering-update-2022-01-10/logo.png",
+					"width": 1256,
+					"height": 1024
+				},
+				"author": "f0xTheSin",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-52",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2022-01-02",
+				"title": "Yearn Finance Newsletter #52",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-52/cover.jpeg",
+					"width": 1152,
+					"height": 576
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-51",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2021-12-22",
+				"title": "Yearn Finance Newsletter #51",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-51/cover.jpeg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "stealth-safe-guard-mev-protection-for-your-gnosis-safe",
+				"path": "updates/web-team/",
+				"published": true,
+				"date": "2021-11-16",
+				"title": "Stealth Safe Guard: MEV Protection for your Gnosis Safe",
+				"image": {
+					"src": "/_posts/_updates/web-team/stealth-safe-guard-mev-protection-for-your-gnosis-safe/cover.jpg",
+					"width": 1256,
+					"height": 1024
+				},
+				"author": "0x71B1",
+				"translator": null
+			},
+			{
+				"slug": "deposit-together",
+				"path": "announcements/",
+				"published": true,
+				"date": "2021-11-01",
+				"title": "Deposit Together",
+				"image": {
+					"src": "/_posts/_announcements/deposit-together/cover.jpg",
+					"width": 576,
+					"height": 344
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "transparency-summary",
+				"path": "tweets/",
+				"published": true,
+				"date": "2021-10-05",
+				"title": "Transparency Summary",
+				"image": {
+					"src": "/_posts/_tweets/transparency-summary/cover.jpg",
+					"width": 848,
+					"height": 847
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "yearn-ui-v3",
+				"path": "articles/yearn-finance/",
+				"published": true,
+				"date": "2021-09-17",
+				"title": "Yearn UI v3.0",
+				"image": {
+					"src": "/_posts/_articles/yearn-finance/yearn-ui-v3/cover.jpg",
+					"width": 800,
+					"height": 450
+				},
+				"author": "Dudesahn",
+				"translator": null
+			},
+			{
+				"slug": "bowswap-finance",
+				"path": "tweets/",
+				"published": true,
+				"date": "2021-09-10",
+				"title": "Bowswap.Finance",
+				"image": {
+					"src": "/_posts/_tweets/bowswap-finance/cover.png",
+					"width": 1000,
+					"height": 571
+				},
+				"author": "Facu",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-44",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2021-09-02",
+				"title": "Yearn Finance Newsletter #44",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-44/cover.jpeg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "argent",
+				"path": "articles/",
+				"published": true,
+				"date": "2021-08-24",
+				"title": "Easily earn with Yearn V2 in Argent",
+				"image": {
+					"src": "/_posts/_articles/argent/cover.jpeg",
+					"width": 800,
+					"height": 419
+				},
+				"author": "Argent",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-43",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2021-08-11",
+				"title": "Yearn Finance Newsletter #43",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-43/cover.jpeg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "Yearn-Finance-Newsletter-42",
+				"path": "newsletters/",
+				"published": true,
+				"date": "2021-08-03",
+				"title": "Yearn Finance Newsletter #42",
+				"image": {
+					"src": "/_posts/_newsletters/Yearn-Finance-Newsletter-42/cover.jpeg",
+					"width": 576,
+					"height": 288
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "yearn-synthetix-DAO-twitter-space",
+				"path": "announcements/",
+				"published": true,
+				"date": "2021-07-29",
+				"title": "Yearn & Synthetix DAO twitter space",
+				"image": {
+					"src": "/_posts/_announcements/yearn-synthetix-DAO-twitter-space/cover.jpg",
+					"width": 800,
+					"height": 445
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{
+				"slug": "fair-launches-decentralized-collaboration-and-fixed-forex",
+				"path": "articles/andre-cronje/",
+				"published": true,
+				"date": "2021-07-21",
+				"title": "Fair launches, decentralized collaboration, and Fixed Forex",
+				"image": {
+					"src": "/_posts/_articles/andre-cronje/fair-launches-decentralized-collaboration-and-fixed-forex/andre-hero.jpg",
+					"width": 700,
+					"height": 300
+				},
+				"author": "Andre",
+				"translator": null
+			},
+			{
+				"slug": "introducing-fixed-forex",
+				"path": "articles/andre-cronje/",
+				"published": true,
+				"date": "2021-07-02",
+				"title": "Introducing Fixed Forex",
+				"image": {
+					"src": "/_posts/_articles/andre-cronje/introducing-fixed-forex/andre-hero.jpg",
+					"width": 700,
+					"height": 300
+				},
+				"author": "Andre",
+				"translator": null
+			},
+			{
+				"slug": "seba",
+				"path": "articles/",
+				"published": true,
+				"date": "2021-06-02",
+				"title": "Yearn Finance - Decentralised Asset Management",
+				"image": {
+					"src": "/_posts/_articles/seba/cover.jpg",
+					"width": 1100,
+					"height": 736
+				},
+				"author": "The Digital Investor",
+				"translator": null
+			},
+			{
+				"slug": "the-blue-pill",
+				"path": "articles/yearn-finance/",
+				"published": true,
+				"date": "2021-06-01",
+				"title": "The Blue Pill",
+				"image": {
+					"src": "/_posts/_articles/yearn-finance/the-blue-pill/cover.jpg",
+					"width": 711,
+					"height": 474
+				},
+				"author": "Weaver",
+				"translator": null
+			},
+			{
+				"slug": "can-yearn-disrupt",
+				"path": "articles/wot-is-goin-on/",
+				"published": true,
+				"date": "2021-04-07",
+				"title": "Can Yearn disrupt the $110 trillion asset management industry?",
+				"image": {
+					"src": "/_posts/_articles/wot-is-goin-on/can-yearn-disrupt/cover.jpg",
+					"width": 1280,
+					"height": 800
+				},
+				"author": "Wot_Is_Goin_On",
+				"translator": null
+			},
+			{
+				"slug": "2021-Q2",
+				"path": "financials/quarterly-report/",
+				"published": true,
+				"date": "2020-12-14",
+				"title": "Yearn Finance 2021 Q2 Quarterly Report",
+				"image": {
+					"src": "/_posts/_financials/quarterly-report/2021-Q2/cover.jpg",
+					"width": 1500,
+					"height": 500
+				},
+				"author": "Yearn",
+				"translator": null
+			},
+			{}
+		]
+	},
+	"featured": {
+		"slug": "featured",
+		"path": "articles/yearn-finance/yearn-wants-to-buy-your-YFI",
+		"published": true,
+		"date": "2022-05-17",
+		"title": "Yearn wants to buy your YFI",
+		"image": {
+			"src": "/_posts/_articles/yearn-finance/yearn-wants-to-buy-your-YFI/cover.jpg",
+			"width": 900,
+			"height": 450
+		},
+		"author": "Weaver",
+		"translator": null
+	}
+}
