@@ -83,11 +83,11 @@ export async function getStaticPaths() {
 	const parentPaths = [
 		'announcements',
 		'newsletters',
-		'podcasts',
-		'tweets',
-		'financials',
+		// 'podcasts',
+		// 'tweets',
+		// 'financials',
 		'articles',
-		'updates',
+		// 'updates',
 	];
 	const paths = [];
 
@@ -113,7 +113,7 @@ export async function getStaticPaths() {
 	}
 
 	Object.values(LOCALES).map(({code}) => {
-		paths.push({params: {path: 'financials', slug: ['quarterly-report']}, locale: code});
+		// paths.push({params: {path: 'financials', slug: ['quarterly-report']}, locale: code});
 		paths.push({params: {path: 'articles', slug: ['forum']}, locale: code});
 		paths.push({params: {path: 'articles', slug: ['andre-cronje']}, locale: code});
 		paths.push({params: {path: 'articles', slug: ['wot-is-goin-on']}, locale: code});
@@ -125,7 +125,7 @@ export async function getStaticPaths() {
 		paths.push({params: {path: 'articles', slug: ['banteg']}, locale: code});
 		paths.push({params: {path: 'articles', slug: ['draper']}, locale: code});
 		paths.push({params: {path: 'articles', slug: ['transcriptions']}, locale: code});
-		paths.push({params: {path: 'updates', slug: ['web-team']}, locale: code});		
+		// paths.push({params: {path: 'updates', slug: ['web-team']}, locale: code});		
 	});
 
 	return {

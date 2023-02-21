@@ -15,10 +15,10 @@ export const getStaticProps = async ({locale, params}) => {
 	const	childrens = [
 		['announcements/', ['']],
 		['newsletters/', ['']],
-		['podcasts/', ['']],
-		['tweets/', ['']],
-		['financials/', ['', 'quarterly-report/']],
-		['updates/', ['', 'web-team/']],
+		// ['podcasts/', ['']],
+		// ['tweets/', ['']],
+		// ['financials/', ['', 'quarterly-report/']],
+		// ['updates/', ['', 'web-team/']],
 		['articles/', ['', 'andre-cronje/', 'forum/', 'wot-is-goin-on/', 'yearn-finance/', 'marco-worms/', 'people-of-yearn/', 'kish/', 'farrahmay/', 'banteg/','draper/', 'transcriptions/']],
 	];
 	const	dirs = [];
@@ -71,11 +71,11 @@ export async function getStaticPaths() {
 	Object.values(LOCALES).map(({code}) => {
 		allPaths.push({params: {path: 'announcements'}, locale: code});
 		allPaths.push({params: {path: 'newsletters'}, locale: code});
-		allPaths.push({params: {path: 'podcasts'}, locale: code});
-		allPaths.push({params: {path: 'financials'}, locale: code});
+		// allPaths.push({params: {path: 'podcasts'}, locale: code});
+		// allPaths.push({params: {path: 'financials'}, locale: code});
 		allPaths.push({params: {path: 'articles'}, locale: code});
-		allPaths.push({params: {path: 'tweets'}, locale: code});
-		allPaths.push({params: {path: 'updates'}, locale: code});
+		// allPaths.push({params: {path: 'tweets'}, locale: code});
+		// allPaths.push({params: {path: 'updates'}, locale: code});
 	});
 	return {
 		paths: allPaths,
