@@ -1,5 +1,5 @@
 ---
-title: "Yearn Finance Newsletter #55"
+title: "Ενημερωτικό Δελτίο του Yearn Finance #55"
 image:
   src: ./cover.png
   width: 1000
